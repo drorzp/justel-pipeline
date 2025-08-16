@@ -23,11 +23,16 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.864.0",
+    "@qdrant/js-client-rest": "^1.15.1",
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
     "dotenv": "^17.2.1",
     "mongodb": "^6.18.0",
+    "openai": "^5.12.2",
     "pg": "^8.16.3",
+    "qdrant": "^1.3.1",
+    "winston": "^3.17.0",
+    "winston-cloudwatch": "^6.3.0",
     "yauzl": "^3.2.0"
   },
   "devDependencies": {

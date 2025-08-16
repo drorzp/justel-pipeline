@@ -4,6 +4,7 @@ import { createS3, deleteS3 } from './s3';
 import { runS3Batch } from './import-to-pg/process';
 import {  moveArticlesToMongo } from './transfer-to-mongo/articles';
 import { moveLawsToMongo } from './transfer-to-mongo/laws';
+import { applyTitlesUpdate, main as runLlmTitle } from './import-to-pg/llm_title';
 
 async function main() {
 
@@ -21,9 +22,11 @@ async function main() {
     // shahars code goes here 
     await runS3Batch('process');
     // change titles
+    await runLlmTitle();
+    await applyTitlesUpdate
     // add Vector DB
-    moveLawsToMongo();
-    await moveArticlesToMongo
+    await moveLawsToMongo();
+    await moveArticlesToMongo();
     await deleteS3(folder);
     console.log('Deleted S3 folder:', folder);
 
