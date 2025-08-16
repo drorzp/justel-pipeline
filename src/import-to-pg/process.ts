@@ -620,7 +620,7 @@ if (require.main === module) {
 // Programmatic API for calling from other modules (e.g., index.ts)
 export function buildS3ConfigFromEnv(overrides: Partial<S3Config> = {}): S3Config {
   return {
-    region: overrides.region ?? (process.env.AWS_REGION || 'us-east-1'),
+    region: process.env.AWS_REGION || 'us-east-2',
     bucket: overrides.bucket ?? (process.env.S3_BUCKET || ''),
     prefix: overrides.prefix ?? (process.env.S3_PREFIX || ''),
     accessKeyId: overrides.accessKeyId ?? process.env.AWS_ACCESS_KEY_ID,
@@ -628,29 +628,12 @@ export function buildS3ConfigFromEnv(overrides: Partial<S3Config> = {}): S3Confi
   };
 }
 
-export async function runS3Batch(
-  command: 'process' | 'status' | 'reset' = 'process',
-  overrides: Partial<S3Config> = {}
-): Promise<void> {
-  const config = buildS3ConfigFromEnv(overrides);
-
-  if (!config.bucket) {
-    throw new Error('S3_BUCKET environment variable is required');
-  }
+export async function runS3Batch()
+: Promise<void> {
+  const config = buildS3ConfigFromEnv();
 
   const processor = new S3BatchProcessor(config);
-  switch (command) {
-    case 'process':
-      await processor.processAllZipFiles();
-      break;
-    case 'status':
-      await processor.showStatus();
-      break;
-    case 'reset':
-      await processor.resetState();
-      break;
-    default:
-      throw new Error(`Unknown command: ${command}`);
-  }
+  await processor.processAllZipFiles();
+
 }
 

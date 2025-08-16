@@ -626,7 +626,7 @@ class DatabaseOperations {
     ]);
   }
 }
-class DocumentProcessor {
+export class DocumentProcessor {
   private results: ValidationResults;
   private validator: ValidateFunction<LegalDocument>;
 
@@ -853,4 +853,3 @@ if (require.main === module) {
   });
 }
 
-export { DocumentProcessor, DatabaseOperations, LegalDocument, ProcessingSummary };
