@@ -1,5 +1,6 @@
 import { connectMongoDB, getDB, closeMongoDB } from '../mongodb/mongoConnect';
 import { ReadOnlyDatabaseService, connectPostgreSQL } from '../postgres/pgConnect';
+import logger from '../utils/logger';
 
 
 async function findLastLawInMongo(): Promise<string | null> {
@@ -7,7 +8,7 @@ async function findLastLawInMongo(): Promise<string | null> {
     const db = getDB();
     const collection = db.collection('lawroots');
     
-    console.log('🔍 Finding last law_id in MongoDB...');
+    logger.info('🔍 Finding last law_id in MongoDB...');
     
     // Find the document with the highest article_id
     const lastLaw = await collection
@@ -20,10 +21,10 @@ async function findLastLawInMongo(): Promise<string | null> {
       );
     
     if (lastLaw) {
-      console.log(`📍 Last law_id found in MongoDB: ${lastLaw.id}`);
+      logger.info(`📍 Last law_id found in MongoDB: ${lastLaw.id}`);
       return lastLaw.id;
     } else {
-      console.log('📍 No laws found in MongoDB, starting from beginning');
+      logger.info('📍 No laws found in MongoDB, starting from beginning');
       return null;
     }
     
@@ -35,7 +36,7 @@ async function findLastLawInMongo(): Promise<string | null> {
 
 async function getLawsList(startFromId?: string, endId?: string) {
   try {
-    console.log('Connecting to PostgreSQL...');
+    logger.info('Connecting to PostgreSQL...');
     await connectPostgreSQL();
     
     let query: string;
@@ -44,25 +45,25 @@ async function getLawsList(startFromId?: string, endId?: string) {
     if (startFromId && endId) {
       query = 'SELECT id,document_number FROM public.documents WHERE id >= $1 AND id <= $2 ORDER BY id';
       params = [startFromId, endId];
-      console.log(`📊 Getting laws between: ${startFromId} and ${endId}`);
+      logger.info(`📊 Getting laws between: ${startFromId} and ${endId}`);
     } else if (startFromId) {
       query = 'SELECT id,document_number FROM public.documents WHERE id >= $1 ORDER BY id';
       params = [startFromId];
-      console.log(`📊 Getting laws from: ${startFromId}`);
+      logger.info(`📊 Getting laws from: ${startFromId}`);
     } else if (endId) {
       query = 'SELECT id,document_number FROM public.documents WHERE id <= $1 ORDER BY id';
       params = [endId];
-      console.log(`📊 Getting laws up to: ${endId}`);
+      logger.info(`📊 Getting laws up to: ${endId}`);
     } else {
       query = 'SELECT id,document_number FROM public.documents ORDER BY id';
       params = [];
-      console.log('📊 Getting all laws from beginning');
+      logger.info('📊 Getting all laws from beginning');
     }
     
     const result = await ReadOnlyDatabaseService.query(query, params);
     
 const laws = result.rows;
-    console.log(`Found ${laws.length} laws to process`);
+    logger.info(`Found ${laws.length} laws to process`);
     return laws;
     
   } catch (error) {
@@ -78,7 +79,7 @@ async function getLawFromPostgres(document_number: string): Promise<any> {
       const result = await ReadOnlyDatabaseService.query(query, [document_number]);
       
       if (result.rows.length === 0 || !result.rows[0].law_data) {
-        console.log(`No data for ${document_number}`);
+        logger.info(`No data for ${document_number}`);
         return null;
       }
       
@@ -87,7 +88,7 @@ async function getLawFromPostgres(document_number: string): Promise<any> {
           ? JSON.parse(result.rows[0].law_data)
           : result.rows[0].law_data;
       
-      console.log(`✓ Successfully fetched ${document_number}`);
+      logger.info(`✓ Successfully fetched ${document_number}`);
       return lawData;
     } catch (error: unknown) {
     return null;
@@ -102,7 +103,7 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
   let errorCount = 0;
   
   try {
-    console.log('Starting conservative migration...');
+    logger.info('Starting conservative migration...');
     
     // Connect to databases
     await connectPostgreSQL();
@@ -111,7 +112,7 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
     const db = getDB();
     const collection = db.collection('lawroots');
     const collections = await db.listCollections().toArray();
-    console.log('Collections in database:', collections.map(c => c.name));
+    logger.info('Collections in database:', collections.map(c => c.name));
 
     
     // Find last article in MongoDB to resume from
@@ -124,7 +125,7 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
       return;
     }
     
-    console.log(`Processing ${LawsList.length} laws sequentially...`);
+    logger.info(`Processing ${LawsList.length} laws sequentially...`);
     
     // Use for...of loop to properly handle async operations
     for (const law of LawsList) {
@@ -135,7 +136,7 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
         const result = await getLawFromPostgres(law.document_number);
         
         if (!result) {
-          console.log(`⚠️  No data for ${law.document_number}`);
+          logger.info(`⚠️  No data for ${law.document_number}`);
           continue;
         }
         
@@ -162,6 +163,6 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
     process.exit(1);
   } finally {
     await closeMongoDB();
-    console.log('Connections closed');
+    logger.info('Connections closed');
   }
 }

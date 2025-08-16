@@ -1,5 +1,6 @@
 import { connectMongoDB, getDB, closeMongoDB } from '../mongodb/mongoConnect';
 import { ReadOnlyDatabaseService, connectPostgreSQL } from '../postgres/pgConnect';
+import logger from '../utils/logger';
 
 interface ArticleRow {
   id: string;
@@ -12,7 +13,7 @@ async function findLastArticleInMongo(): Promise<string | null> {
     const db = getDB();
     const collection = db.collection('article_roots');
     
-    console.log('🔍 Finding last article_id in MongoDB...');
+    logger.info('🔍 Finding last article_id in MongoDB...');
     
     // Find the document with the highest article_id
     const lastArticle = await collection
@@ -25,10 +26,10 @@ async function findLastArticleInMongo(): Promise<string | null> {
       );
     
     if (lastArticle) {
-      console.log(`📍 Last article_id found in MongoDB: ${lastArticle.id}`);
+      logger.info(`📍 Last article_id found in MongoDB: ${lastArticle.id}`);
       return lastArticle.id;
     } else {
-      console.log('📍 No articles found in MongoDB, starting from beginning');
+      logger.info('📍 No articles found in MongoDB, starting from beginning');
       return null;
     }
     
@@ -40,7 +41,7 @@ async function findLastArticleInMongo(): Promise<string | null> {
 
 async function getArticlesList(startFromId?: string, endId?: string) {
   try {
-    console.log('Connecting to PostgreSQL...');
+    logger.info('Connecting to PostgreSQL...');
     await connectPostgreSQL();
     
     let query: string;
@@ -49,25 +50,25 @@ async function getArticlesList(startFromId?: string, endId?: string) {
     if (startFromId && endId) {
       query = 'SELECT id,document_number, article_number FROM public.article_contents WHERE id >= $1 AND id <= $2 ORDER BY id';
       params = [startFromId, endId];
-      console.log(`📊 Getting articles between: ${startFromId} and ${endId}`);
+      logger.info(`📊 Getting articles between: ${startFromId} and ${endId}`);
     } else if (startFromId) {
       query = 'SELECT id,document_number, article_number FROM public.article_contents WHERE id >= $1 ORDER BY id';
       params = [startFromId];
-      console.log(`📊 Getting articles from: ${startFromId}`);
+      logger.info(`📊 Getting articles from: ${startFromId}`);
     } else if (endId) {
       query = 'SELECT id,document_number, article_number FROM public.article_contents WHERE id <= $1 ORDER BY id';
       params = [endId];
-      console.log(`📊 Getting articles up to: ${endId}`);
+      logger.info(`📊 Getting articles up to: ${endId}`);
     } else {
       query = 'SELECT id,document_number, article_number FROM public.article_contents ORDER BY id';
       params = [];
-      console.log('📊 Getting all articles from beginning');
+      logger.info('📊 Getting all articles from beginning');
     }
     
     const result = await ReadOnlyDatabaseService.query(query, params);
     
 const articles = result.rows;
-    console.log(`Found ${articles.length} articles to process`);
+    logger.info(`Found ${articles.length} articles to process`);
     return articles;
     
   } catch (error) {
@@ -83,7 +84,7 @@ async function getArticleFromPostgres(document_number: string, article_number: s
       const result = await ReadOnlyDatabaseService.query(query, [document_number, article_number]);
       
       if (result.rows.length === 0 || !result.rows[0].article_data) {
-        console.log(`No data for ${document_number}.${article_number}`);
+        logger.info(`No data for ${document_number}.${article_number}`);
         return null;
       }
       
@@ -92,7 +93,7 @@ async function getArticleFromPostgres(document_number: string, article_number: s
           ? JSON.parse(result.rows[0].article_data)
           : result.rows[0].article_data;
       
-      console.log(`✓ Successfully fetched ${document_number}.${article_number}`);
+      logger.info(`✓ Successfully fetched ${document_number}.${article_number}`);
       return articleData;
     } catch (error: unknown) {
     return null;
@@ -107,7 +108,7 @@ export async function moveArticlesToMongo(startId?: string, endId?: string) {
   let errorCount = 0;
   
   try {
-    console.log('Starting conservative migration...');
+    logger.info('Starting conservative migration...');
     
     // Connect to databases
     await connectPostgreSQL();
@@ -119,16 +120,16 @@ export async function moveArticlesToMongo(startId?: string, endId?: string) {
     // Create index for better performance (handle existing duplicates)
     try {
       await collection.createIndex({ document_number: 1, article_number: 1 }, { unique: true, background: true });
-      console.log('✅ Unique index created successfully');
+      logger.info('✅ Unique index created successfully');
     } catch (error: any) {
       if (error.code === 11000) {
-        console.log('⚠️  Unique index already exists or duplicates found, continuing without unique constraint...');
+        logger.info('⚠️  Unique index already exists or duplicates found, continuing without unique constraint...');
         // Try to create non-unique index instead
         try {
           await collection.createIndex({ document_number: 1, article_number: 1 }, { background: true });
-          console.log('✅ Non-unique index created successfully');
+          logger.info('✅ Non-unique index created successfully');
         } catch (indexError) {
-          console.log('⚠️  Index may already exist, continuing...');
+          logger.info('⚠️  Index may already exist, continuing...');
         }
       } else {
         throw error; // Re-throw if it's not a duplicate key error
@@ -145,7 +146,7 @@ export async function moveArticlesToMongo(startId?: string, endId?: string) {
       return;
     }
     
-    console.log(`Processing ${ArticlesList.length} articles sequentially...`);
+    logger.info(`Processing ${ArticlesList.length} articles sequentially...`);
     
     // Use for...of loop to properly handle async operations
     for (const article of ArticlesList) {
@@ -158,18 +159,18 @@ export async function moveArticlesToMongo(startId?: string, endId?: string) {
         // Check if article already exists
         const existing = await collection.findOne({ document_number: document_number, article_number: article_number });
         if (existing) {
-          console.log(`⏭️  Skipping ${document_number}.${article_number} (already exists)`);
+          logger.info(`⏭️  Skipping ${document_number}.${article_number} (already exists)`);
           continue;
         }
         
         const result = await getArticleFromPostgres(document_number, article_number);
         
         if (!result) {
-          console.log(`⚠️  No data for ${document_number}.${article_number}`);
+          logger.info(`⚠️  No data for ${document_number}.${article_number}`);
           continue;
         }
         
-        console.log(`📝 Inserting ${document_number}.${article_number}`);
+        logger.info(`📝 Inserting ${document_number}.${article_number}`);
         await collection.insertOne({
           id: article.id,
           document_number: document_number,
@@ -184,8 +185,8 @@ export async function moveArticlesToMongo(startId?: string, endId?: string) {
         if (processedCount % 100 === 0) {
           const elapsed = (Date.now() - startTime) / 1000;
           const rate = Math.round(processedCount / elapsed);
-          console.log(`Progress: ${processedCount}/${ArticlesList.length} (${((processedCount/ArticlesList.length)*100).toFixed(2)}%) - ${rate} articles/sec`);
-          console.log(`Success: ${successCount}, Errors: ${errorCount}`);
+          logger.info(`Progress: ${processedCount}/${ArticlesList.length} (${((processedCount/ArticlesList.length)*100).toFixed(2)}%) - ${rate} articles/sec`);
+          logger.info(`Success: ${successCount}, Errors: ${errorCount}`);
         }
         
       } catch (error) {
@@ -196,18 +197,18 @@ export async function moveArticlesToMongo(startId?: string, endId?: string) {
     
     // Final report
     const totalElapsed = (Date.now() - startTime) / 1000;
-    console.log('\n✅ Conservative article migration complete!');
-    console.log(`Total time: ${(totalElapsed / 60).toFixed(2)} minutes`);
-    console.log(`Average rate: ${Math.round(processedCount / totalElapsed)} articles/sec`);
-    console.log(`- Total processed: ${processedCount}`);
-    console.log(`- Successfully imported: ${successCount}`);
-    console.log(`- Errors: ${errorCount}`);
+    logger.info('\n✅ Conservative article migration complete!');
+    logger.info(`Total time: ${(totalElapsed / 60).toFixed(2)} minutes`);
+    logger.info(`Average rate: ${Math.round(processedCount / totalElapsed)} articles/sec`);
+    logger.info(`- Total processed: ${processedCount}`);
+    logger.info(`- Successfully imported: ${successCount}`);
+    logger.info(`- Errors: ${errorCount}`);
     
   } catch (error) {
     console.error('Fatal error in conservative migration:', error);
     process.exit(1);
   } finally {
     await closeMongoDB();
-    console.log('Connections closed');
+    logger.info('Connections closed');
   }
 }

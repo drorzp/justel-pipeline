@@ -1,6 +1,7 @@
 import { Client, ClientConfig } from 'pg';
 import OpenAI from 'openai';
 import * as dotenv from 'dotenv';
+import logger from '../utils/logger';
 // UPDATE documents
 // SET title = document_title.new_title 
 // FROM document_title
@@ -71,7 +72,7 @@ class DocumentTitleProcessor {
     async connect(): Promise<void> {
         try {
             await this.client.connect();
-            console.log('Connected to PostgreSQL database');
+            logger.info('Connected to PostgreSQL database');
         } catch (error) {
             console.error('Failed to connect to database:', error);
             throw error;
@@ -81,7 +82,7 @@ class DocumentTitleProcessor {
     async disconnect(): Promise<void> {
         try {
             await this.client.end();
-            console.log('Disconnected from PostgreSQL database');
+            logger.info('Disconnected from PostgreSQL database');
         } catch (error) {
             console.error('Error disconnecting from database:', error);
         }
@@ -103,8 +104,8 @@ class DocumentTitleProcessor {
             query += ` ORDER BY id`;
 
             const result = await this.client.query(query);
-            console.log(`Found ${result.rows.length} documents needing title generation${startFromId ? ` (starting from ID ${startFromId})` : ''}`);
-            console.log(`📋 These documents have old_title but missing new_title`);
+            logger.info(`Found ${result.rows.length} documents needing title generation${startFromId ? ` (starting from ID ${startFromId})` : ''}`);
+            logger.info(`📋 These documents have old_title but missing new_title`);
 
             return result.rows as DocumentTitleRecord[];
         } catch (error) {
@@ -184,7 +185,7 @@ Respond with only the transformed title, no additional text or explanation.
 
                 // Second pass for overly long titles
                 if (newTitle.length > 80) {
-                    console.log(`Title too long (${newTitle.length} chars), applying second pass refinement...`);
+                    logger.info(`Title too long (${newTitle.length} chars), applying second pass refinement...`);
                     const refinedTitle = await this.refineLongTitle(newTitle);
                     newTitle = refinedTitle || newTitle; // Fallback to original if refinement fails
                 }
@@ -242,7 +243,7 @@ Respond with only the shortened title, no explanation.
 
             const refinedTitle = completion.choices[0]?.message?.content?.trim();
             if (refinedTitle && refinedTitle.length < longTitle.length) {
-                console.log(`Refined title: "${refinedTitle}" (${refinedTitle.length} chars)`);
+                logger.info(`Refined title: "${refinedTitle}" (${refinedTitle.length} chars)`);
                 return refinedTitle;
             }
             return null;
@@ -308,7 +309,7 @@ Respond with only the shortened title, no explanation.
                   AND dt.new_title IS NOT NULL
             `;
             const result = await this.client.query(query);
-            console.log(`Updated ${result.rowCount ?? 0} document titles in documents table`);
+            logger.info(`Updated ${result.rowCount ?? 0} document titles in documents table`);
             return result.rowCount ?? 0;
         } catch (error) {
             console.error('Error applying new titles to documents:', error);
@@ -318,12 +319,12 @@ Respond with only the shortened title, no explanation.
 
     async processAllDocumentTitles(): Promise<void> {
         try {
-            console.log('Starting document title processing...');
+            logger.info('Starting document title processing...');
 
             const documents = await this.getAllDocumentTitles();
 
             if (documents.length === 0) {
-                console.log('No documents found to process');
+                logger.info('No documents found to process');
                 return;
             }
 
@@ -332,24 +333,24 @@ Respond with only the shortened title, no explanation.
 
             for (const doc of documents) {
                 try {
-                    console.log(`Processing document ${processed + 1}/${documents.length} (ID: ${doc.id})`);
+                    logger.info(`Processing document ${processed + 1}/${documents.length} (ID: ${doc.id})`);
 
                     // Check if old_title exists
                     if (!doc.old_title) {
                         throw new Error(`Document ID ${doc.id} has no old_title to process`);
                     }
 
-                    console.log(`Original title: "${doc.old_title}"`);
+                    logger.info(`Original title: "${doc.old_title}"`);
 
                     // Generate new title using LLM
                     const newTitle = await this.generateNewTitle(doc.old_title, doc.document_number);
-                    console.log(`Generated title: "${newTitle}"`);
+                    logger.info(`Generated title: "${newTitle}"`);
 
                     // Update database
                     await this.updateDocumentTitle(doc.id, newTitle);
 
                     processed++;
-                    console.log(`✅ Successfully processed document ID ${doc.id}\n`);
+                    logger.info(`✅ Successfully processed document ID ${doc.id}\n`);
 
                     // Removed rate limiting delay for faster processing
                 } catch (error) {
@@ -358,23 +359,23 @@ Respond with only the shortened title, no explanation.
                     
                     // Create a fallback title to avoid leaving empty titles
                     const fallbackTitle = this.createFallbackTitle(doc.old_title || `Document ${doc.document_number}`);
-                    console.log(`Using fallback title: "${fallbackTitle}"`);
+                    logger.info(`Using fallback title: "${fallbackTitle}"`);
                     
                     try {
                         await this.updateDocumentTitle(doc.id, fallbackTitle);
-                        console.log(`✅ Updated with fallback title for document ID ${doc.id}`);
+                        logger.info(`✅ Updated with fallback title for document ID ${doc.id}`);
                     } catch (updateError) {
                         console.error(`❌ Failed to update fallback title for document ID ${doc.id}:`, updateError);
                     }
                     
-                    console.log('Continuing with next document...\n');
+                    logger.info('Continuing with next document...\n');
                 }
             }
 
-            console.log('\n=== Processing Complete ===');
-            console.log(`Total documents: ${documents.length}`);
-            console.log(`Successfully processed: ${processed}`);
-            console.log(`Errors: ${errors}`);
+            logger.info('\n=== Processing Complete ===');
+            logger.info(`Total documents: ${documents.length}`);
+            logger.info(`Successfully processed: ${processed}`);
+            logger.info(`Errors: ${errors}`);
 
         } catch (error) {
             console.error('Error in processAllDocumentTitles:', error);
@@ -389,17 +390,17 @@ Respond with only the shortened title, no explanation.
     // Concurrent processing method
     async processAllDocumentTitlesConcurrent(startFromId?: number): Promise<void> {
         try {
-            console.log('Starting concurrent document title processing...');
+            logger.info('Starting concurrent document title processing...');
             const documents = await this.getAllDocumentTitles(startFromId);
 
             if (documents.length === 0) {
-                console.log('No documents found to process');
+                logger.info('No documents found to process');
                 return;
             }
 
-            console.log(`Found ${documents.length} documents to process`);
-            console.log(`Using ${this.config.concurrentRequests} concurrent requests`);
-            console.log(`Processing in batches of ${this.config.batchSize}`);
+            logger.info(`Found ${documents.length} documents to process`);
+            logger.info(`Using ${this.config.concurrentRequests} concurrent requests`);
+            logger.info(`Processing in batches of ${this.config.batchSize}`);
 
             let totalProcessed = 0;
             let totalErrors = 0;
@@ -407,7 +408,7 @@ Respond with only the shortened title, no explanation.
             // Process documents in batches
             for (let i = 0; i < documents.length; i += this.config.batchSize) {
                 const batch = documents.slice(i, i + this.config.batchSize);
-                console.log(`\n=== Processing batch ${Math.floor(i / this.config.batchSize) + 1}/${Math.ceil(documents.length / this.config.batchSize)} (${batch.length} documents) ===`);
+                logger.info(`\n=== Processing batch ${Math.floor(i / this.config.batchSize) + 1}/${Math.ceil(documents.length / this.config.batchSize)} (${batch.length} documents) ===`);
 
                 const { processed, errors } = await this.processBatchConcurrent(batch, totalProcessed);
                 totalProcessed += processed;
@@ -417,10 +418,10 @@ Respond with only the shortened title, no explanation.
                 // GPT-4o-mini can handle high throughput
             }
 
-            console.log('\n=== Processing Complete ===');
-            console.log(`Total documents: ${documents.length}`);
-            console.log(`Successfully processed: ${totalProcessed}`);
-            console.log(`Errors: ${totalErrors}`);
+            logger.info('\n=== Processing Complete ===');
+            logger.info(`Total documents: ${documents.length}`);
+            logger.info(`Successfully processed: ${totalProcessed}`);
+            logger.info(`Errors: ${totalErrors}`);
 
         } catch (error) {
             console.error('Error in processAllDocumentTitlesConcurrent:', error);
@@ -436,21 +437,21 @@ Respond with only the shortened title, no explanation.
 
         const processDocument = async (doc: DocumentTitleRecord, docIndex: number): Promise<void> => {
             try {
-                console.log(`Processing document ${startIndex + docIndex + 1} (ID: ${doc.id})`);
+                logger.info(`Processing document ${startIndex + docIndex + 1} (ID: ${doc.id})`);
 
                 // Check if old_title exists
                 if (!doc.old_title) {
                     throw new Error(`Document ID ${doc.id} has no old_title to process`);
                 }
 
-                console.log(`Original title: "${doc.old_title.substring(0, 100)}${doc.old_title.length > 100 ? '...' : ''}"`); // Truncate long titles in logs
+                logger.info(`Original title: "${doc.old_title.substring(0, 100)}${doc.old_title.length > 100 ? '...' : ''}"`); // Truncate long titles in logs
 
                 const newTitle = await this.generateNewTitle(doc.old_title, doc.document_number);
-                console.log(`Generated title: "${newTitle}"`);
+                logger.info(`Generated title: "${newTitle}"`);
 
                 await this.updateDocumentTitle(doc.id, newTitle);
                 processed++;
-                console.log(`✅ Successfully processed document ID ${doc.id}`);
+                logger.info(`✅ Successfully processed document ID ${doc.id}`);
 
             } catch (error) {
                 errors++;
@@ -493,7 +494,7 @@ export async function applyTitlesUpdate(): Promise<number> {
 
 // Main execution function
 export async function main(): Promise<void> {
-    console.log('started')
+    logger.info('started')
     if (!llmConfig.openaiApiKey) {
         console.error('Error: OPENAI_API_KEY environment variable is required');
         process.exit(1);
@@ -506,19 +507,19 @@ export async function main(): Promise<void> {
         const resumeArg = args.find(arg => arg.startsWith('--resume='));
         if (resumeArg) {
             startFromId = parseInt(resumeArg.split('=')[1]);
-            console.log(`🔄 Resuming processing from ID: ${startFromId}`);
+            logger.info(`🔄 Resuming processing from ID: ${startFromId}`);
         }
     }
 
     const processor = new DocumentTitleProcessor(dbConfig, llmConfig);
 
     try {
-        console.log('connecting')
+        logger.info('connecting')
         await processor.connect();
-        console.log('connected')
-        console.log('DocumentTitleProcessor connected')
+        logger.info('connected')
+        logger.info('DocumentTitleProcessor connected')
         await processor.processAllDocumentTitlesConcurrent(startFromId);
-        console.log('DocumentTitleProcessor processed')
+        logger.info('DocumentTitleProcessor processed')
     } catch (error) {
         console.error('Fatal error:', error);
         process.exit(1);

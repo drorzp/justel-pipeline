@@ -6,6 +6,7 @@ import * as yauzl from 'yauzl';
 import { rimraf } from 'rimraf';
 import { DocumentProcessor, ProcessingSummary } from './import';
 import * as dotenv from 'dotenv';
+import logger from '../utils/logger';
 
 // Load environment variables
 dotenv.config();
@@ -110,9 +111,9 @@ class S3BatchProcessor {
         this.state.processedZipFiles = [];
       }
       
-      console.log(`📂 Loaded existing state: ${this.state.totalFilesProcessed} files processed`);
+      logger.info(`📂 Loaded existing state: ${this.state.totalFilesProcessed} files processed`);
     } catch (error) {
-      console.log('📝 No existing state found, starting fresh');
+      logger.info('📝 No existing state found, starting fresh');
       this.state = {
         lastProcessedFile: null,
         totalFilesProcessed: 0,
@@ -164,7 +165,7 @@ class S3BatchProcessor {
     // Sort by key to ensure consistent processing order
     zipFiles.sort((a, b) => a.key.localeCompare(b.key));
     
-    console.log(`📦 Found ${zipFiles.length} zip files in S3`);
+    logger.info(`📦 Found ${zipFiles.length} zip files in S3`);
     return zipFiles;
   }
 
@@ -172,7 +173,7 @@ class S3BatchProcessor {
     const fileName = path.basename(zipFileInfo.key);
     const localPath = path.join(this.zippedDir, fileName);
 
-    console.log(`⬇️  Downloading ${zipFileInfo.key} (${(zipFileInfo.size / 1024 / 1024).toFixed(2)} MB)`);
+    logger.info(`⬇️  Downloading ${zipFileInfo.key} (${(zipFileInfo.size / 1024 / 1024).toFixed(2)} MB)`);
 
     const command = new GetObjectCommand({
       Bucket: this.config.bucket,
@@ -196,7 +197,7 @@ class S3BatchProcessor {
       await writeStream.close();
     }
 
-    console.log(`✅ Downloaded ${fileName}`);
+    logger.info(`✅ Downloaded ${fileName}`);
     return localPath;
   }
 
@@ -259,7 +260,7 @@ class S3BatchProcessor {
         });
 
         zipfile.on('end', () => {
-          console.log(`📂 Extracted ${extractedCount} files from zip`);
+          logger.info(`📂 Extracted ${extractedCount} files from zip`);
           resolve();
         });
 
@@ -273,7 +274,7 @@ class S3BatchProcessor {
       return;
     }
 
-    console.log(`📁 Moving ${failures.length} failed documents to errors directory...`);
+    logger.info(`📁 Moving ${failures.length} failed documents to errors directory...`);
     
     // Create errors directory structure: errors/zipFileName/
     const zipBaseName = path.basename(zipFileName, '.zip');
@@ -290,7 +291,7 @@ class S3BatchProcessor {
           // Check if source file exists before moving
           await fs.access(sourcePath);
           await fs.rename(sourcePath, targetPath);
-          console.log(`📄 Moved failed document: ${failure.filename} → errors/${zipBaseName}/`);
+          logger.info(`📄 Moved failed document: ${failure.filename} → errors/${zipBaseName}/`);
         } catch (moveError) {
           console.warn(`⚠️  Could not move ${failure.filename}:`, moveError);
         }
@@ -308,7 +309,7 @@ class S3BatchProcessor {
       
       const summaryPath = path.join(errorSubDir, '_error_summary.json');
       await fs.writeFile(summaryPath, JSON.stringify(errorSummary, null, 2));
-      console.log(`📋 Created error summary: errors/${zipBaseName}/_error_summary.json`);
+      logger.info(`📋 Created error summary: errors/${zipBaseName}/_error_summary.json`);
       
     } catch (error) {
       console.error('❌ Error moving failed documents:', error);
@@ -316,13 +317,13 @@ class S3BatchProcessor {
   }
 
   private async cleanupDirectories(): Promise<void> {
-    console.log('🧹 Cleaning up directories...');
+    logger.info('🧹 Cleaning up directories...');
     
     try {
       await rimraf(this.documentsDir);
       await rimraf(this.zippedDir);
       await this.ensureDirectories();
-      console.log('✅ Directories cleaned');
+      logger.info('✅ Directories cleaned');
     } catch (error) {
       console.error('❌ Error cleaning directories:', error);
       throw error;
@@ -330,12 +331,12 @@ class S3BatchProcessor {
   }
 
   private async processDocuments(): Promise<ProcessingSummary> {
-    console.log('📄 Processing documents...');
+    logger.info('📄 Processing documents...');
     
     const processor = new DocumentProcessor();
     const summary = await processor.processDirectory(this.documentsDir);
     
-    console.log(`📊 Processing complete: ${summary.successful}/${summary.total} successful`);
+    logger.info(`📊 Processing complete: ${summary.successful}/${summary.total} successful`);
     
     return summary;
   }
@@ -350,7 +351,7 @@ class S3BatchProcessor {
   }
 
   private async processZipFile(zipFileInfo: ZipFileInfo): Promise<void> {
-    console.log(`\n🔄 Processing ${zipFileInfo.key}...`);
+    logger.info(`\n🔄 Processing ${zipFileInfo.key}...`);
     
     try {
       // Download zip file
@@ -409,8 +410,8 @@ class S3BatchProcessor {
       // Save state after each successful zip file
       await this.saveState();
       
-      console.log(`✅ Successfully processed ${zipFileInfo.key}`);
-      console.log(`📈 Progress: ${this.state.totalFilesProcessed} zip files, ${this.state.totalDocumentsSuccessful}/${this.state.totalDocumentsProcessed} documents successful`);
+      logger.info(`✅ Successfully processed ${zipFileInfo.key}`);
+      logger.info(`📈 Progress: ${this.state.totalFilesProcessed} zip files, ${this.state.totalDocumentsSuccessful}/${this.state.totalDocumentsProcessed} documents successful`);
       
     } catch (error: any) {
       console.error(`❌ Error processing ${zipFileInfo.key}:`, error.message);
@@ -431,7 +432,7 @@ class S3BatchProcessor {
   }
 
   async processAllZipFiles(): Promise<void> {
-    console.log('🚀 Starting S3 batch processing...');
+    logger.info('🚀 Starting S3 batch processing...');
     
     try {
       // Load previous state
@@ -444,7 +445,7 @@ class S3BatchProcessor {
       const zipFiles = await this.listS3ZipFiles();
       
       if (zipFiles.length === 0) {
-        console.log('📭 No zip files found in S3');
+        logger.info('📭 No zip files found in S3');
         return;
       }
       
@@ -452,11 +453,11 @@ class S3BatchProcessor {
       const filesToProcess = zipFiles.filter(file => this.shouldProcessFile(file));
       
       if (filesToProcess.length === 0) {
-        console.log('✅ All zip files have already been processed');
+        logger.info('✅ All zip files have already been processed');
         return;
       }
       
-      console.log(`📋 ${filesToProcess.length} zip files to process (${zipFiles.length - filesToProcess.length} already processed)`);
+      logger.info(`📋 ${filesToProcess.length} zip files to process (${zipFiles.length - filesToProcess.length} already processed)`);
       
       // Process each zip file
       for (const zipFile of filesToProcess) {
@@ -469,18 +470,18 @@ class S3BatchProcessor {
       }
       
       // Final summary
-      console.log('\n🎉 Batch processing complete!');
-      console.log(`📊 Final Summary:`);
-      console.log(`   - Zip files processed: ${this.state.totalFilesProcessed}`);
-      console.log(`   - Documents processed: ${this.state.totalDocumentsProcessed}`);
-      console.log(`   - Documents successful: ${this.state.totalDocumentsSuccessful}`);
-      console.log(`   - Documents failed: ${this.state.totalDocumentsFailed}`);
-      console.log(`   - Errors encountered: ${this.state.errors.length}`);
+      logger.info('\n🎉 Batch processing complete!');
+      logger.info(`📊 Final Summary:`);
+      logger.info(`   - Zip files processed: ${this.state.totalFilesProcessed}`);
+      logger.info(`   - Documents processed: ${this.state.totalDocumentsProcessed}`);
+      logger.info(`   - Documents successful: ${this.state.totalDocumentsSuccessful}`);
+      logger.info(`   - Documents failed: ${this.state.totalDocumentsFailed}`);
+      logger.info(`   - Errors encountered: ${this.state.errors.length}`);
       
       if (this.state.errors.length > 0) {
-        console.log('\n❌ Errors:');
+        logger.info('\n❌ Errors:');
         this.state.errors.forEach(error => {
-          console.log(`   - ${error.zipFile}: ${error.error}`);
+          logger.info(`   - ${error.zipFile}: ${error.error}`);
         });
       }
       
@@ -491,7 +492,7 @@ class S3BatchProcessor {
   }
 
   async resetState(): Promise<void> {
-    console.log('🔄 Resetting processing state...');
+    logger.info('🔄 Resetting processing state...');
     
     this.state = {
       lastProcessedFile: null,
@@ -507,26 +508,26 @@ class S3BatchProcessor {
     };
     
     await this.saveState();
-    console.log('✅ State reset complete');
+    logger.info('✅ State reset complete');
   }
 
   async showStatus(): Promise<void> {
     await this.loadState();
     
-    console.log('\n📊 Current Processing Status:');
-    console.log(`   Last processed file: ${this.state.lastProcessedFile || 'none'}`);
-    console.log(`   Zip files processed: ${this.state.totalFilesProcessed}`);
-    console.log(`   Documents processed: ${this.state.totalDocumentsProcessed}`);
-    console.log(`   Documents successful: ${this.state.totalDocumentsSuccessful}`);
-    console.log(`   Documents failed: ${this.state.totalDocumentsFailed}`);
-    console.log(`   Start time: ${this.state.startTime}`);
-    console.log(`   Last update: ${this.state.lastUpdateTime}`);
-    console.log(`   Errors: ${this.state.errors.length}`);
+    logger.info('\n📊 Current Processing Status:');
+    logger.info(`   Last processed file: ${this.state.lastProcessedFile || 'none'}`);
+    logger.info(`   Zip files processed: ${this.state.totalFilesProcessed}`);
+    logger.info(`   Documents processed: ${this.state.totalDocumentsProcessed}`);
+    logger.info(`   Documents successful: ${this.state.totalDocumentsSuccessful}`);
+    logger.info(`   Documents failed: ${this.state.totalDocumentsFailed}`);
+    logger.info(`   Start time: ${this.state.startTime}`);
+    logger.info(`   Last update: ${this.state.lastUpdateTime}`);
+    logger.info(`   Errors: ${this.state.errors.length}`);
     
     if (this.state.errors.length > 0) {
-      console.log('\n❌ Recent Errors:');
+      logger.info('\n❌ Recent Errors:');
       this.state.errors.slice(-5).forEach(error => {
-        console.log(`   - ${error.zipFile}: ${error.error}`);
+        logger.info(`   - ${error.zipFile}: ${error.error}`);
       });
     }
   }
@@ -536,24 +537,24 @@ async function main(): Promise<void> {
   const args = process.argv.slice(2);
   
   if (args.length === 0) {
-    console.log('Usage: ts-node s3-batch-processor.ts <command>');
-    console.log('');
-    console.log('Commands:');
-    console.log('  process                    - Process all zip files from S3 bucket');
-    console.log('  status                     - Show current processing status');
-    console.log('  reset                      - Reset processing state');
-    console.log('');
-    console.log('Configuration (via .env file or environment variables):');
-    console.log('  AWS_REGION                 - AWS region (default: us-east-1)');
-    console.log('  AWS_ACCESS_KEY_ID          - AWS access key (optional if using IAM roles)');
-    console.log('  AWS_SECRET_ACCESS_KEY      - AWS secret key (optional if using IAM roles)');
-    console.log('  S3_BUCKET                  - S3 bucket name (required)');
-    console.log('  S3_PREFIX                  - S3 prefix/folder (optional)');
-    console.log('');
-    console.log('Examples:');
-    console.log('  ts-node s3-batch-processor.ts process');
-    console.log('  ts-node s3-batch-processor.ts status');
-    console.log('  ts-node s3-batch-processor.ts reset');
+    logger.info('Usage: ts-node s3-batch-processor.ts <command>');
+    logger.info('');
+    logger.info('Commands:');
+    logger.info('  process                    - Process all zip files from S3 bucket');
+    logger.info('  status                     - Show current processing status');
+    logger.info('  reset                      - Reset processing state');
+    logger.info('');
+    logger.info('Configuration (via .env file or environment variables):');
+    logger.info('  AWS_REGION                 - AWS region (default: us-east-1)');
+    logger.info('  AWS_ACCESS_KEY_ID          - AWS access key (optional if using IAM roles)');
+    logger.info('  AWS_SECRET_ACCESS_KEY      - AWS secret key (optional if using IAM roles)');
+    logger.info('  S3_BUCKET                  - S3 bucket name (required)');
+    logger.info('  S3_PREFIX                  - S3 prefix/folder (optional)');
+    logger.info('');
+    logger.info('Examples:');
+    logger.info('  ts-node s3-batch-processor.ts process');
+    logger.info('  ts-node s3-batch-processor.ts status');
+    logger.info('  ts-node s3-batch-processor.ts reset');
     process.exit(1);
   }
 
@@ -575,12 +576,12 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
-  console.log(`🔧 Configuration:`);
-  console.log(`   Region: ${config.region}`);
-  console.log(`   Bucket: ${config.bucket}`);
-  console.log(`   Prefix: ${config.prefix || '(none)'}`);
-  console.log(`   Using AWS credentials: ${config.accessKeyId ? 'Yes (from env)' : 'No (using IAM/default)'}`);
-  console.log('');
+  logger.info(`🔧 Configuration:`);
+  logger.info(`   Region: ${config.region}`);
+  logger.info(`   Bucket: ${config.bucket}`);
+  logger.info(`   Prefix: ${config.prefix || '(none)'}`);
+  logger.info(`   Using AWS credentials: ${config.accessKeyId ? 'Yes (from env)' : 'No (using IAM/default)'}`);
+  logger.info('');
 
   const processor = new S3BatchProcessor(config);
 

@@ -1,4 +1,5 @@
 import 'dotenv/config';
+import logger from './utils/logger';
 import { pool, connectPostgreSQL } from './postgres/pgConnect';
 import { createS3, deleteS3 } from './s3';
 import { runS3Batch } from './import-to-pg/process';
@@ -11,14 +12,14 @@ async function main() {
   await connectPostgreSQL();
   try {
     const { rows } = await pool.query('SELECT NOW() as now');
-    console.log('DB connected. Time:', rows[0].now);
+    logger.info('DB connected. Time:', rows[0].now);
 
     // TODO: Place your batch task logic here
     // Example: await runMyBatch(pool)
 
     // S3 flow: create a folder and then delete it
     const folder = await createS3();
-    console.log('Created S3 folder:', folder);
+    logger.info('Created S3 folder:', folder);
     // shahars code goes here 
     await runS3Batch('process');
     // change titles
@@ -28,7 +29,7 @@ async function main() {
     await moveLawsToMongo();
     await moveArticlesToMongo();
     await deleteS3(folder);
-    console.log('Deleted S3 folder:', folder);
+    logger.info('Deleted S3 folder:', folder);
 
     // Run S3 batch processor programmatically
   

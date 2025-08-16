@@ -778,13 +778,13 @@ async function main(): Promise<void> {
   const args = process.argv.slice(2);
   
   if (args.length === 0) {
-    console.log('Usage: ts-node import-documents.ts <directory-path>');
-    console.log('Environment variables:');
-    console.log('  DB_HOST     - PostgreSQL host (default: localhost)');
-    console.log('  DB_PORT     - PostgreSQL port (default: 5433)');
-    console.log('  DB_NAME     - Database name (default: lawyers)');
-    console.log('  DB_USER     - Database user (default: postgres)');
-    console.log('  DB_PASSWORD - Database password');
+    Logger.info('Usage: ts-node import-documents.ts <directory-path>');
+    Logger.info('Environment variables:');
+    Logger.info('  DB_HOST     - PostgreSQL host (default: localhost)');
+    Logger.info('  DB_PORT     - PostgreSQL port (default: 5433)');
+    Logger.info('  DB_NAME     - Database name (default: lawyers)');
+    Logger.info('  DB_USER     - Database user (default: postgres)');
+    Logger.info('  DB_PASSWORD - Database password');
     process.exit(1);
   }
 
@@ -818,22 +818,22 @@ async function main(): Promise<void> {
     const summary = await processor.processDirectory(directoryPath);
     
     // Print summary
-    console.log('\n=== Import Summary ===');
-    console.log(`Total files processed: ${summary.total}`);
-    console.log(`Successful imports: ${summary.successful}`);
-    console.log(`Failed imports: ${summary.failed}`);
+    Logger.info('\n=== Import Summary ===');
+    Logger.info(`Total files processed: ${summary.total}`);
+    Logger.info(`Successful imports: ${summary.successful}`);
+    Logger.info(`Failed imports: ${summary.failed}`);
     
     if (summary.failures.length > 0) {
-      console.log('\nFailures:');
+      Logger.info('\nFailures:');
       summary.failures.forEach(failure => {
-        console.log(`  - ${failure.filename}: ${failure.reason}`);
+        Logger.info(`  - ${failure.filename}: ${failure.reason}`);
       });
     }
     
     if (summary.warnings.length > 0) {
-      console.log('\nWarnings:');
+      Logger.info('\nWarnings:');
       summary.warnings.forEach(warning => {
-        console.log(`  - ${warning.filename}: ${warning.warning}`);
+        Logger.info(`  - ${warning.filename}: ${warning.warning}`);
       });
     }
 
