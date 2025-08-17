@@ -42,19 +42,3 @@ export async function callCopyContentArticle(schema: string = 'public'): Promise
     client.release();
   }
 }
-
-// Optional CLI usage: ts-node src/import-to-pg/copyContentArticle.ts [schema]
-if (require.main === module) {
-  (async () => {
-    const schema = process.argv[2] || 'public';
-    try {
-      await callCopyContentArticle(schema);
-      console.log(`Called procedure ${schema}.copy_content_article()`);
-    } catch (e) {
-      console.error('Failed to call copy_content_article:', e);
-      process.exit(1);
-    } finally {
-      await pool.end();
-    }
-  })();
-}

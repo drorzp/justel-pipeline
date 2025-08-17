@@ -54,6 +54,8 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
     for (const row of rows) {
       const document_number: string = row.document_number;
       const article_number: string = row.article_number;
+
+      // shahar has to help me run the llm from here then i will update the html
       const translateToLLM:string="we need to llm it"
       
 

@@ -2,20 +2,6 @@ import { Pool, PoolConfig } from 'pg';
 import * as dotenv from 'dotenv';
 
 
-
-// SELECT 
-//     t1.document_number,
-//     t1.article_number,
-//     t1.main_text_hash as table1_hash,
-//     t2.main_text_hash as table2_hash
-// FROM article_contents_saver t1
-// JOIN article_contents_saver_v2 t2  -- or whatever your second table is named
-//     ON t1.document_number = t2.document_number 
-//     AND t1.article_number = t2.article_number
-// WHERE t1.main_text_hash != t2.main_text_hash;
-
-
-
 dotenv.config();
 
 // Write-capable pool config aligned with src/import-to-pg/import.ts
