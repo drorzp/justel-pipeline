@@ -1,4 +1,5 @@
 import 'dotenv/config';
+import { PoolConfig } from 'pg';
 import { pool, connectPostgreSQL } from './postgres/pgConnect';
 import { runS3Batch } from './import-to-pg/process';
 import {  moveArticlesToMongo } from './transfer-to-mongo/articles';
@@ -10,15 +11,6 @@ import { updateArticleContentsFromSaverV2Diff } from './import-to-pg/updateFromS
 import { updateArticleVector } from './add-to-vector/loop_over_articles';
 import { sync_document_title, sync_not_changed } from './import-to-pg/sync_document_title';
 import { DocumentTitleProcessor, LLMConfig } from './import-to-pg/llm_title';
-import { PoolConfig } from 'pg';
-
-const dbConfig: PoolConfig = {
-  host: process.env.DB_HOST || 'localhost',
-  port: parseInt(process.env.DB_PORT || '5433'),
-  database: process.env.DB_NAME || 'lawyers',
-  user: process.env.DB_USER || 'postgres',
-  password: process.env.DB_PASSWORD || 'strongpassword',
-};
 
 export const llmConfig: LLMConfig = {
     openaiApiKey: process.env.OPENAI_API_KEY || '',
@@ -28,6 +20,16 @@ export const llmConfig: LLMConfig = {
     requestDelay: 0, // No delay between requests (GPT-4o-mini has very high rate limits)
     concurrentRequests: 300, // EXTREME concurrency - GPT-4o-mini can handle this!
     batchSize: 2000, // Even larger batches for maximum throughput
+};
+
+// Pool configuration for DocumentTitleProcessor
+const dbConfig: PoolConfig = {
+  host: process.env.POSTGRES_HOST || 'localhost',
+  port: Number(process.env.POSTGRES_PORT) || 5433,
+  user: process.env.POSTGRES_USER,
+  password: process.env.POSTGRES_PASSWORD,
+  database: process.env.POSTGRES_DB,
+  ssl: false,
 };
 
 async function main() {
@@ -43,13 +45,17 @@ async function main() {
     await sync_document_title();  
     await sync_not_changed();
     const llmTitleProcessor = new DocumentTitleProcessor(dbConfig, llmConfig);
-    await llmTitleProcessor.processAllDocumentTitles();
+    await llmTitleProcessor.connect();
+    try {
+      await llmTitleProcessor.processAllDocumentTitles();
+    } finally {
+      await llmTitleProcessor.disconnect();
+    }
     updateArticleContentsFromSaver() // this one will restore the html that was not changed
     updateArticleContentsFromSaverV2Diff() // this one will restore the html that was not changed
     updateArticleVector();
     moveLawsToMongo();
     await moveArticlesToMongo() // has to replace one by one ???? delete small table 
- 
 
     // Run S3 batch processor programmatically
   
@@ -64,4 +70,3 @@ async function main() {
 if (require.main === module) {
   main();
 }
-
