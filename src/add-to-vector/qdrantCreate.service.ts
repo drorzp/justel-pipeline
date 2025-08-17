@@ -1,74 +1,71 @@
-// services/qdrantSearch.service.ts
+
+
+import crypto from 'crypto';
 import { QdrantClient } from '@qdrant/js-client-rest';
 import OpenAI from 'openai';
-import logger from '../utils/logger';
-import { getErrorMessage } from '../utils/helper';
 
-// Minimal type for Qdrant scored point results we care about
-type QdrantScoredPoint<TPayload> = {
-  payload?: TPayload;
-  score: number;
-};
+const qdrant = new QdrantClient({ url: 'http://localhost:6333' });
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-export interface SearchResultArticle {
-  rank: number;
-  articleId: number;
-  score: number;
-  text: string;
-  preview: string;
+function hashText(text: string) {
+  return crypto.createHash('md5').update(text, 'utf-8').digest('hex');
 }
 
-
-interface QdrantPayloadArticle {
-  article_id: number;
-  text: string;
+// Helper to get embeddings
+async function getEmbedding(text: string) {
+  const response = await openai.embeddings.create({
+    model: 'text-embedding-3-small',
+    input: text,
+    dimensions: 512
+  });
+  return response.data[0].embedding;
 }
 
-
-// Initialize clients once
-const qdrantClient = new QdrantClient({
-  host: process.env.QDRANT_HOST || 'localhost',
-  port: parseInt(process.env.QDRANT_PORT || '6333', 10),
-});
-
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY as string,
-});
-
-
-// Add a new article to Qdrant 'articles_of_law' collection
-export const addArticleToQdrant = async (id: number, text: string): Promise<void> => {
+// Smart upsert that checks for changes
+export async function smartUpsert( id: number, newText: string, document_number:string, article_number:string) {
   try {
-    // Create embedding for the article text (same settings as searchArticles)
-    const embeddingResponse = await openai.embeddings.create({
-      model: 'text-embedding-3-small',
-      input: text,
-      dimensions: 512,
+    // Try to retrieve existing point
+    const existingPoints = await qdrant.retrieve( 'articles_of_law', {
+      ids: [id],
+      with_payload: true,
     });
 
-    const vector = embeddingResponse.data[0].embedding;
+    if (existingPoints.length > 0) {
+      const existingHash = existingPoints[0].payload?.text_hash;
+      const newHash = hashText(newText);
 
-    // Upsert the point into Qdrant
-    await qdrantClient.upsert('articles_of_law', {
-      wait: true,
+      // Skip if text hasn't changed
+      if (existingHash === newHash) {
+        console.log(`Skipping ${id} - text unchanged`);
+        return { updated: false, id };
+      }
+    }
+
+    // Text is new or changed - get embedding and upsert
+    const vector = await getEmbedding(newText);
+    
+    await qdrant.upsert(  'articles_of_law', {
       points: [
         {
-          id: id,
-          vector: vector,
+          id,
+          vector,
           payload: {
-            text: text.slice(0, 1000),
+            text: newText,
             article_id: id,
+            document_numnber:document_number,
+            article_number:article_number,
+            text_hash: hashText(newText),
+            updated_at: new Date().toISOString(),
           },
         },
       ],
     });
 
-    logger.success('Upserted article to Qdrant', { id });
-  } catch (error: unknown) {
-    const message = getErrorMessage(error);
-    logger.error('Failed to upsert article to Qdrant', { id, message });
-    throw new Error(`Upsert failed: ${message}`);
+    console.log(`Updated ${id}`);
+    return { updated: true, id };
+    
+  } catch (error) {
+    console.error(`Error upserting ${id}:`, error);
+    throw error;
   }
-};
-
-// Named exports are provided above; no default export is necessary.
+}

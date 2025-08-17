@@ -5,6 +5,8 @@ import Ajv, { ValidateFunction } from 'ajv';
 import addFormats from 'ajv-formats';
 import * as dotenv from 'dotenv';
 
+import { createHash } from 'crypto';
+
 // Load environment variables
 dotenv.config();
 
@@ -51,14 +53,11 @@ interface ArticleContent {
   content: {
     main_text: string;
     main_text_raw: string;
-    numbered_provisions?: NumberedProvision[];
+    
   };
 }
 
-interface NumberedProvision {
-  number?: string;
-  text: string;
-}
+
 
 interface LawReference {
   law_type?:string;
@@ -121,7 +120,7 @@ interface ValidationWarning {
   warning: string;
 }
 
-interface ProcessingSummary {
+export interface ProcessingSummary {
   total: number;
   successful: number;
   failed: number;
@@ -409,10 +408,14 @@ class DatabaseOperations {
   static async insertArticleContent(client: PoolClient, hierarchyElementId: number, content: ArticleContent, document_number: string): Promise<void> {
     const query = `
       INSERT INTO article_contents (
-        hierarchy_element_id, article_number, anchor_id, main_text, main_text_raw, document_number
-      ) VALUES ($1, $2, $3, $4, $5, $6)
+        hierarchy_element_id, article_number, anchor_id, main_text, main_text_raw, document_number,main_text_hash
+      ) VALUES ($1, $2, $3, $4, $5, $6,$7)
       RETURNING id
     `;
+
+    const mainTextHash = createHash('md5')
+      .update(content.content.main_text_raw || '')
+      .digest('hex');
 
     const values = [
       hierarchyElementId,
@@ -420,41 +423,16 @@ class DatabaseOperations {
       content.anchor_id || null,
       content.content.main_text,
       content.content.main_text_raw,
-      document_number
+      document_number,
+      mainTextHash,
     ];
 
     const result = await client.query(query, values);
     const contentId = result.rows[0].id;
 
-    // Insert numbered provisions if any
-    if (content.content.numbered_provisions && content.content.numbered_provisions.length > 0) {
-      let orderIndex = 1;
-      for (const provision of content.content.numbered_provisions) {
-        await this.insertNumberedProvision(client, contentId, provision, orderIndex++);
-      }
-    }
   }
 
-  // Insert numbered provision
-  static async insertNumberedProvision(
-    client: PoolClient, 
-    articleContentId: number, 
-    provision: NumberedProvision, 
-    orderIndex: number
-  ): Promise<void> {
-    const query = `
-      INSERT INTO numbered_provisions (
-        article_content_id, provision_number, provision_text, order_index
-      ) VALUES ($1, $2, $3, $4)
-    `;
 
-    await client.query(query, [
-      articleContentId,
-      provision.number || orderIndex.toString(),
-      provision.text,
-      orderIndex
-    ]);
-  }
 
 
   // Insert modifications

@@ -19,7 +19,9 @@
     "clean": "rimraf dist",
     "start": "node dist/index.js",
     "dev": "ts-node src/index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "qdrant:hash": "ts-node src/add-to-vector/qdrant.ts",
+    "sync:titles": "ts-node src/import-to-pg/sync_document_title.ts"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.864.0",

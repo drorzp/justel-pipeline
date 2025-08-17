@@ -1,34 +1,15 @@
-import { Client, ClientConfig } from 'pg';
+import { Pool, PoolClient, PoolConfig } from 'pg';
 import OpenAI from 'openai';
 import * as dotenv from 'dotenv';
 import logger from '../utils/logger';
-// UPDATE documents
-// SET title = document_title.new_title 
-// FROM document_title
-// WHERE documents.document_number = document_title.document_number  and document_title.new_title is not null;
-// Load environment variables
+
+// Load env variables
 dotenv.config();
 
 // Types
-interface DocumentTitleRecord {
-    id: number;
-    old_title: string;
-    document_number: string;
-    new_title: string | null;
-    document_id: number;
-}
-
-interface DatabaseConfig extends ClientConfig {
-    user: string;
-    host: string;
-    database: string;
-    password: string;
-    port: number;
-}
-
-interface LLMConfig {
+export interface LLMConfig {
     openaiApiKey: string;
-    model: 'gpt-4o-mini' | 'gpt-3.5-turbo';
+    model: string;
     maxRetries: number;
     retryDelay: number;
     requestDelay: number;
@@ -36,56 +17,51 @@ interface LLMConfig {
     batchSize: number;
 }
 
-// Configuration
-const dbConfig: DatabaseConfig = {
-    user: process.env.DB_USER || 'postgres',
-    host: '3.20.213.252',
-    database: process.env.DB_NAME || 'lawyers',
-    password: process.env.DB_PASSWORD || 'strongpassword',
-    port: parseInt(process.env.DB_PORT || '5433'),
-};
+export interface DocumentTitleRecord {
+    id: number;
+    document_number: string;
+    old_title: string | null;
+    new_title: string | null;
+    document_id?: number;
+}
 
-// MAXIMUM SPEED configuration - push the limits!
-const llmConfig: LLMConfig = {
-    openaiApiKey: process.env.OPENAI_API_KEY || '',
-    model: 'gpt-4o-mini',
-    maxRetries: 2, // Reduced retries for faster failure recovery
-    retryDelay: 200, // Minimal retry delay
-    requestDelay: 0, // No delay between requests (GPT-4o-mini has very high rate limits)
-    concurrentRequests: 300, // EXTREME concurrency - GPT-4o-mini can handle this!
-    batchSize: 2000, // Even larger batches for maximum throughput
-};
 
-class DocumentTitleProcessor {
-    private client: Client;
+ 
+export class DocumentTitleProcessor {
+    private pool: Pool;
+    public client!: PoolClient;
     private openai: OpenAI;
     private config: LLMConfig;
 
-    constructor(dbConfig: DatabaseConfig, llmConfig: LLMConfig) {
-        this.client = new Client(dbConfig);
-        this.openai = new OpenAI({
-            apiKey: llmConfig.openaiApiKey,
-        });
-        this.config = llmConfig;
+    constructor(db: PoolConfig, config: LLMConfig) {
+        this.pool = new Pool(db);
+        this.config = config;
+        this.openai = new OpenAI({ apiKey: config.openaiApiKey });
     }
 
     async connect(): Promise<void> {
-        try {
-            await this.client.connect();
-            logger.info('Connected to PostgreSQL database');
-        } catch (error) {
-            console.error('Failed to connect to database:', error);
-            throw error;
-        }
+        this.client = await this.pool.connect();
     }
 
     async disconnect(): Promise<void> {
         try {
-            await this.client.end();
-            logger.info('Disconnected from PostgreSQL database');
-        } catch (error) {
-            console.error('Error disconnecting from database:', error);
+            this.client?.release();
+        } finally {
+            await this.pool.end();
         }
+    }
+
+    private ensureClient(): void {
+        if (!this.client) {
+            throw new Error('Database client not connected. Call connect() first.');
+        }
+    }
+
+    private getClient(): PoolClient {
+        if (!this.client) {
+            throw new Error('Database client is not connected. Call connect() first.');
+        }
+        return this.client;
     }
 
     async getAllDocumentTitles(startFromId?: number): Promise<DocumentTitleRecord[]> {
@@ -103,7 +79,7 @@ class DocumentTitleProcessor {
 
             query += ` ORDER BY id`;
 
-            const result = await this.client.query(query);
+            const result = await this.getClient().query(query);
             logger.info(`Found ${result.rows.length} documents needing title generation${startFromId ? ` (starting from ID ${startFromId})` : ''}`);
             logger.info(`📋 These documents have old_title but missing new_title`);
 
@@ -291,7 +267,7 @@ Respond with only the shortened title, no explanation.
         WHERE id = $2
       `;
 
-            await this.client.query(query, [newTitle, id]);
+            await this.getClient().query(query, [newTitle, id]);
         } catch (error) {
             console.error(`Error updating document title for ID ${id}:`, error);
             throw error;
@@ -308,7 +284,7 @@ Respond with only the shortened title, no explanation.
                 WHERE d.document_number = dt.document_number
                   AND dt.new_title IS NOT NULL
             `;
-            const result = await this.client.query(query);
+            const result = await this.getClient().query(query);
             logger.info(`Updated ${result.rowCount ?? 0} document titles in documents table`);
             return result.rowCount ?? 0;
         } catch (error) {
@@ -317,7 +293,7 @@ Respond with only the shortened title, no explanation.
         }
     }
 
-    async processAllDocumentTitles(): Promise<void> {
+   async processAllDocumentTitles(): Promise<void> {
         try {
             logger.info('Starting document title processing...');
 
@@ -371,7 +347,7 @@ Respond with only the shortened title, no explanation.
                     logger.info('Continuing with next document...\n');
                 }
             }
-
+            await this.applyNewTitlesToDocuments();
             logger.info('\n=== Processing Complete ===');
             logger.info(`Total documents: ${documents.length}`);
             logger.info(`Successfully processed: ${processed}`);
@@ -385,48 +361,6 @@ Respond with only the shortened title, no explanation.
 
     private async delay(ms: number): Promise<void> {
         return new Promise(resolve => setTimeout(resolve, ms));
-    }
-
-    // Concurrent processing method
-    async processAllDocumentTitlesConcurrent(startFromId?: number): Promise<void> {
-        try {
-            logger.info('Starting concurrent document title processing...');
-            const documents = await this.getAllDocumentTitles(startFromId);
-
-            if (documents.length === 0) {
-                logger.info('No documents found to process');
-                return;
-            }
-
-            logger.info(`Found ${documents.length} documents to process`);
-            logger.info(`Using ${this.config.concurrentRequests} concurrent requests`);
-            logger.info(`Processing in batches of ${this.config.batchSize}`);
-
-            let totalProcessed = 0;
-            let totalErrors = 0;
-
-            // Process documents in batches
-            for (let i = 0; i < documents.length; i += this.config.batchSize) {
-                const batch = documents.slice(i, i + this.config.batchSize);
-                logger.info(`\n=== Processing batch ${Math.floor(i / this.config.batchSize) + 1}/${Math.ceil(documents.length / this.config.batchSize)} (${batch.length} documents) ===`);
-
-                const { processed, errors } = await this.processBatchConcurrent(batch, totalProcessed);
-                totalProcessed += processed;
-                totalErrors += errors;
-
-                // Removed delay between batches for faster processing
-                // GPT-4o-mini can handle high throughput
-            }
-
-            logger.info('\n=== Processing Complete ===');
-            logger.info(`Total documents: ${documents.length}`);
-            logger.info(`Successfully processed: ${totalProcessed}`);
-            logger.info(`Errors: ${totalErrors}`);
-
-        } catch (error) {
-            console.error('Error in processAllDocumentTitlesConcurrent:', error);
-            throw error;
-        }
     }
 
     private async processBatchConcurrent(batch: DocumentTitleRecord[], startIndex: number): Promise<{ processed: number; errors: number }> {
@@ -480,55 +414,3 @@ Respond with only the shortened title, no explanation.
     }
 }
 
-// Helper to run only the cross-table UPDATE
-export async function applyTitlesUpdate(): Promise<number> {
-    const processor = new DocumentTitleProcessor(dbConfig, llmConfig);
-    await processor.connect();
-    try {
-        const updated = await processor.applyNewTitlesToDocuments();
-        return updated;
-    } finally {
-        await processor.disconnect();
-    }
-}
-
-// Main execution function
-export async function main(): Promise<void> {
-    logger.info('started')
-    if (!llmConfig.openaiApiKey) {
-        console.error('Error: OPENAI_API_KEY environment variable is required');
-        process.exit(1);
-    }
-    // Check for command line argument to resume from specific ID
-    const args = process.argv.slice(2);
-    let startFromId: number | undefined;
-
-    if (args.length > 0) {
-        const resumeArg = args.find(arg => arg.startsWith('--resume='));
-        if (resumeArg) {
-            startFromId = parseInt(resumeArg.split('=')[1]);
-            logger.info(`🔄 Resuming processing from ID: ${startFromId}`);
-        }
-    }
-
-    const processor = new DocumentTitleProcessor(dbConfig, llmConfig);
-
-    try {
-        logger.info('connecting')
-        await processor.connect();
-        logger.info('connected')
-        logger.info('DocumentTitleProcessor connected')
-        await processor.processAllDocumentTitlesConcurrent(startFromId);
-        logger.info('DocumentTitleProcessor processed')
-    } catch (error) {
-        console.error('Fatal error:', error);
-        process.exit(1);
-    } finally {
-        await processor.disconnect();
-    }
-}
-
-// Run if this file is executed directly
-if (require.main === module) {
-    main().catch(console.error);
-}
