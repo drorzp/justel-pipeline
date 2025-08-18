@@ -5,10 +5,14 @@ Handles batch uploads of JSON files to S3 with progress tracking and error recov
 """
 
 import os
+from dotenv import load_dotenv
 import boto3
 import json
 from pathlib import Path
 from datetime import datetime
+
+# Load environment variables from .env file
+load_dotenv()
 from typing import List, Dict, Optional, Tuple
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
