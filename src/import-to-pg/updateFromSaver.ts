@@ -1,25 +1,18 @@
-import { Pool, PoolClient, PoolConfig } from 'pg';
+import { Pool, PoolClient } from 'pg';
 import * as dotenv from 'dotenv';
 
 dotenv.config();
 
-// Align DB config with other modules
-const dbConfig: PoolConfig = {
-  host: process.env.DB_HOST || 'localhost',
-  port: parseInt(process.env.DB_PORT || '5433'),
-  database: process.env.DB_NAME || 'lawyers',
-  user: process.env.DB_USER || 'postgres',
-  password: process.env.DB_PASSWORD || 'strongpassword',
-};
+// Align DB config with other module
 
-const pool = new Pool(dbConfig);
+
 
 /**
  * Executes a set-based UPDATE to copy main_text from article_contents_saver
  * into article_contents where (document_number, article_number) match and
  * the hashes are equal.
  */
-export async function updateArticleContentsFromSaver(): Promise<void> {
+export async function updateArticleContentsFromSaver(pool: Pool): Promise<void> {
   const client: PoolClient = await pool.connect();
   try {
     const updateSql = `

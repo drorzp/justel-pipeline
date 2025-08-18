@@ -1,6 +1,6 @@
 import * as fs from 'fs/promises';
 import * as path from 'path';
-import { Pool, PoolClient, PoolConfig } from 'pg';
+import { Pool, PoolClient } from 'pg';
 import Ajv, { ValidateFunction } from 'ajv';
 import addFormats from 'ajv-formats';
 import * as dotenv from 'dotenv';
@@ -128,14 +128,6 @@ export interface ProcessingSummary {
   warnings: ValidationWarning[];
 }
 
-const dbConfig: PoolConfig = {
-  host: process.env.DB_HOST || 'localhost',
-  port: parseInt(process.env.DB_PORT || '5433'),
-  database: process.env.DB_NAME || 'lawyers',
-  user: process.env.DB_USER || 'postgres',
-  password: process.env.DB_PASSWORD || 'strongpassword'
-};
-const pool = new Pool(dbConfig);
 const documentSchema = {
   type: 'object',
   required: ['document_metadata', 'document_hierarchy'],
@@ -167,23 +159,7 @@ const documentSchema = {
     }
   }
 };
-class Logger {
-  static info(message: string, data: any = {}): void {
-    console.log(`[INFO] ${new Date().toISOString()} - ${message}`, data);
-  }
 
-  static error(message: string, error: any = {}): void {
-    console.error(`[ERROR] ${new Date().toISOString()} - ${message}`, error);
-  }
-
-  static success(message: string, data: any = {}): void {
-    console.log(`[SUCCESS] ${new Date().toISOString()} - ${message}`, data);
-  }
-
-  static warning(message: string, data: any = {}): void {
-    console.warn(`[WARNING] ${new Date().toISOString()} - ${message}`, data);
-  }
-}
 
 class ValidationResults {
   private processed: number = 0;
@@ -280,7 +256,7 @@ class DatabaseOperations {
     }
     
     // Return null if format is unrecognized
-    Logger.warning(`Unrecognized date format: ${dateString}`);
+    console.log(`Unrecognized date format: ${dateString}`);
     return null;
   }
 
@@ -640,9 +616,9 @@ export class DocumentProcessor {
   }
 
   // Process a single document
-  async processDocument(filePath: string): Promise<void> {
+  async processDocument(pool:Pool,filePath: string): Promise<void> {
     const filename = path.basename(filePath);
-    Logger.info(`Processing file: ${filename}`);
+    console.info(`Processing file: ${filename}`);
 
     try {
       // Read and parse file
@@ -677,7 +653,7 @@ export class DocumentProcessor {
 
         // Insert document - now returns number (SERIAL id)
         const documentId = await DatabaseOperations.insertDocument(client, data.document_metadata);
-        Logger.info(`Inserted document with ID: ${documentId}`);
+        console.info(`Inserted document with ID: ${documentId}`);
 
         // Insert version info
         await DatabaseOperations.insertVersionInfo(client, documentId, data.document_metadata.version_info);
@@ -699,7 +675,7 @@ export class DocumentProcessor {
 
         await client.query('COMMIT');
         this.results.addSuccess(filename);
-        Logger.success(`Successfully imported document: ${data.document_metadata.document_number}`);
+        console.log(`Successfully imported document: ${data.document_metadata.document_number}`);
 
       } catch (dbError: any) {
         await client.query('ROLLBACK');
@@ -710,12 +686,12 @@ export class DocumentProcessor {
 
     } catch (error: any) {
       this.results.addFailure(filename, error.message);
-      Logger.error(`Failed to process ${filename}:`, error);
+      console.error(`Failed to process ${filename}:`, error);
     }
   }
 
   // Process all files in directory
-  async processDirectory(directoryPath: string): Promise<ProcessingSummary> {
+  async processDirectory(pool:Pool,directoryPath: string): Promise<ProcessingSummary> {
     try {
       const files = await fs.readdir(directoryPath);
 
@@ -725,9 +701,9 @@ export class DocumentProcessor {
           const fileToDelete = path.join(directoryPath, file);
           try {
             await fs.unlink(fileToDelete);
-            Logger.info(`Deleted ignored file: ${file}`);
+            console.info(`Deleted ignored file: ${file}`);
           } catch (deleteErr: any) {
-            Logger.warning(`Failed to delete ignored file ${file}`, { error: deleteErr });
+            console.info(`Failed to delete ignored file ${file}`, { error: deleteErr });
           }
         }
       }
@@ -736,97 +712,19 @@ export class DocumentProcessor {
         (file.endsWith('.json') || file.endsWith('.txt')) && !file.endsWith('_tables.json')
       );
 
-      Logger.info(`Found ${jsonFiles.length} files to process`);
+      console.info(`Found ${jsonFiles.length} files to process`);
 
       for (const file of jsonFiles) {
         const filePath = path.join(directoryPath, file);
-        await this.processDocument(filePath);
+        await this.processDocument(pool,filePath);
       }
 
       return this.results.getSummary();
 
     } catch (error) {
-      Logger.error('Failed to read directory:', error);
+      console.error('Failed to read directory:', error);
       throw error;
     }
   }
-}
-async function main(): Promise<void> {
-  const args = process.argv.slice(2);
-  
-  if (args.length === 0) {
-    Logger.info('Usage: ts-node import-documents.ts <directory-path>');
-    Logger.info('Environment variables:');
-    Logger.info('  DB_HOST     - PostgreSQL host (default: localhost)');
-    Logger.info('  DB_PORT     - PostgreSQL port (default: 5433)');
-    Logger.info('  DB_NAME     - Database name (default: lawyers)');
-    Logger.info('  DB_USER     - Database user (default: postgres)');
-    Logger.info('  DB_PASSWORD - Database password');
-    process.exit(1);
-  }
-
-  const directoryPath = args[0];
-
-  // Verify directory exists
-  try {
-    const stats = await fs.stat(directoryPath);
-    if (!stats.isDirectory()) {
-      Logger.error(`${directoryPath} is not a directory`);
-      process.exit(1);
-    }
-  } catch (error) {
-    Logger.error(`Directory ${directoryPath} does not exist`);
-    process.exit(1);
-  }
-
-  // Test database connection
-  try {
-    await pool.query('SELECT NOW()');
-    Logger.info('Database connection successful');
-  } catch (error) {
-    Logger.error('Database connection failed:', error);
-    process.exit(1);
-  }
-
-  // Process documents
-  const processor = new DocumentProcessor();
-  
-  try {
-    const summary = await processor.processDirectory(directoryPath);
-    
-    // Print summary
-    Logger.info('\n=== Import Summary ===');
-    Logger.info(`Total files processed: ${summary.total}`);
-    Logger.info(`Successful imports: ${summary.successful}`);
-    Logger.info(`Failed imports: ${summary.failed}`);
-    
-    if (summary.failures.length > 0) {
-      Logger.info('\nFailures:');
-      summary.failures.forEach(failure => {
-        Logger.info(`  - ${failure.filename}: ${failure.reason}`);
-      });
-    }
-    
-    if (summary.warnings.length > 0) {
-      Logger.info('\nWarnings:');
-      summary.warnings.forEach(warning => {
-        Logger.info(`  - ${warning.filename}: ${warning.warning}`);
-      });
-    }
-
-  } catch (error) {
-    Logger.error('Import process failed:', error);
-    process.exit(1);
-  } finally {
-    await pool.end();
-  }
-}
-
-// Run if executed directly
-if (require.main === module) {
-  main().catch(error => {
-    Logger.error('Unhandled error:', error);
-    process.exit(1);
-  });
 }
 

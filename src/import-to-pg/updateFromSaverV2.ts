@@ -1,25 +1,16 @@
-import { Pool, PoolClient, PoolConfig } from 'pg';
+import { Pool, PoolClient } from 'pg';
 import * as dotenv from 'dotenv';
 
 dotenv.config();
 
 // Align DB config with other modules
-const dbConfig: PoolConfig = {
-  host: process.env.DB_HOST || 'localhost',
-  port: parseInt(process.env.DB_PORT || '5433'),
-  database: process.env.DB_NAME || 'lawyers',
-  user: process.env.DB_USER || 'postgres',
-  password: process.env.DB_PASSWORD || 'strongpassword',
-};
-
-const pool = new Pool(dbConfig);
 
 /**
  * For all (document_number, article_number) where the hash differs between
  * article_contents_saver and article_contents_saver_v2, update article_contents
  * with the v2 main_text fields.
  */
-export async function updateArticleContentsFromSaverV2Diff(): Promise<void> {
+export async function updateArticleContentsFromSaverV2Diff(pool:Pool): Promise<void> {
   const client: PoolClient = await pool.connect();
   try {
     await client.query('BEGIN');
@@ -76,16 +67,4 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
   } finally {
     client.release();
   }
-}
-
-// Allow running directly: npx ts-node src/import-to-pg/updateFromSaverV2.ts
-if (require.main === module) {
-  updateArticleContentsFromSaverV2Diff()
-    .catch((err) => {
-      console.error(err);
-      process.exitCode = 1;
-    })
-    .finally(async () => {
-      await pool.end();
-    });
 }

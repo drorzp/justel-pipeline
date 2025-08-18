@@ -1,7 +1,6 @@
 import { Pool, PoolClient, PoolConfig } from 'pg';
 import OpenAI from 'openai';
 import * as dotenv from 'dotenv';
-import logger from '../utils/logger';
 
 // Load env variables
 dotenv.config();
@@ -37,8 +36,8 @@ export async function getAllDocumentTitles(client: PoolClient, startFromId?: num
         AND (new_title IS NULL OR new_title = '')`;
 
         const result = await client.query(query);
-        logger.info(`Found ${result.rows.length} documents needing title generation${startFromId ? ` (starting from ID ${startFromId})` : ''}`);
-        logger.info(`📋 These documents have old_title but missing new_title`);
+        console.info(`Found ${result.rows.length} documents needing title generation${startFromId ? ` (starting from ID ${startFromId})` : ''}`);
+        console.info(`📋 These documents have old_title but missing new_title`);
 
         return result.rows as DocumentTitleRecord[];
     } catch (error) {
@@ -118,7 +117,7 @@ Respond with only the transformed title, no additional text or explanation.
 
             // Second pass for overly long titles
             if (newTitle.length > 80) {
-                logger.info(`Title too long (${newTitle.length} chars), applying second pass refinement...`);
+                console.info(`Title too long (${newTitle.length} chars), applying second pass refinement...`);
                 const refinedTitle = await refineLongTitle(openai, config, newTitle);
                 newTitle = refinedTitle || newTitle; // Fallback to original if refinement fails
             }
@@ -176,7 +175,7 @@ Respond with only the shortened title, no explanation.
 
         const refinedTitle = completion.choices[0]?.message?.content?.trim();
         if (refinedTitle && refinedTitle.length < longTitle.length) {
-            logger.info(`Refined title: "${refinedTitle}" (${refinedTitle.length} chars)`);
+            console.info(`Refined title: "${refinedTitle}" (${refinedTitle.length} chars)`);
             return refinedTitle;
         }
         return null;
@@ -242,7 +241,7 @@ export async function applyNewTitlesToDocuments(client: PoolClient): Promise<num
                   AND dt.new_title IS NOT NULL
             `;
         const result = await client.query(query);
-        logger.info(`Updated ${result.rowCount ?? 0} document titles in documents table`);
+        console.info(`Updated ${result.rowCount ?? 0} document titles in documents table`);
         return result.rowCount ?? 0;
     } catch (error) {
         console.error('Error applying new titles to documents:', error);
@@ -250,18 +249,17 @@ export async function applyNewTitlesToDocuments(client: PoolClient): Promise<num
     }
 }
 
-export async function processAllDocumentTitles(dbConfig: PoolConfig, config: LLMConfig): Promise<void> {
-    const pool = new Pool(dbConfig);
+export async function processAllDocumentTitles(pool:Pool, config: LLMConfig): Promise<void> {
     const client = await pool.connect();
     const openai = new OpenAI({ apiKey: config.openaiApiKey });
 
     try {
-        logger.info('Starting document title processing...');
+        console.info('Starting document title processing...');
 
         const documents = await getAllDocumentTitles(client);
 
         if (documents.length === 0) {
-            logger.info('No documents found to process');
+            console.info('No documents found to process');
             return;
         }
 
@@ -270,24 +268,24 @@ export async function processAllDocumentTitles(dbConfig: PoolConfig, config: LLM
 
         for (const doc of documents) {
             try {
-                logger.info(`Processing document ${processed + 1}/${documents.length} (ID: ${doc.id})`);
+                console.info(`Processing document ${processed + 1}/${documents.length} (ID: ${doc.id})`);
 
                 // Check if old_title exists
                 if (!doc.old_title) {
                     throw new Error(`Document ID ${doc.id} has no old_title to process`);
                 }
 
-                logger.info(`Original title: "${doc.old_title}"`);
+                console.info(`Original title: "${doc.old_title}"`);
 
                 // Generate new title using LLM
                 const newTitle = await generateNewTitle(openai, config, doc.old_title, doc.document_number);
-                logger.info(`Generated title: "${newTitle}"`);
+                console.info(`Generated title: "${newTitle}"`);
 
                 // Update database
                 await updateDocumentTitle(client, doc.id, newTitle);
 
                 processed++;
-                logger.info(`✅ Successfully processed document ID ${doc.id}\n`);
+                console.info(`✅ Successfully processed document ID ${doc.id}\n`);
 
                 // Removed rate limiting delay for faster processing
             } catch (error) {
@@ -296,23 +294,23 @@ export async function processAllDocumentTitles(dbConfig: PoolConfig, config: LLM
                 
                 // Create a fallback title to avoid leaving empty titles
                 const fallbackTitle = createFallbackTitle(doc.old_title || `Document ${doc.document_number}`);
-                logger.info(`Using fallback title: "${fallbackTitle}"`);
+                console.info(`Using fallback title: "${fallbackTitle}"`);
                 
                 try {
                     await updateDocumentTitle(client, doc.id, fallbackTitle);
-                    logger.info(`✅ Updated with fallback title for document ID ${doc.id}`);
+                    console.info(`✅ Updated with fallback title for document ID ${doc.id}`);
                 } catch (updateError) {
                     console.error(`❌ Failed to update fallback title for document ID ${doc.id}:`, updateError);
                 }
                 
-                logger.info('Continuing with next document...\n');
+                console.info('Continuing with next document...\n');
             }
         }
         await applyNewTitlesToDocuments(client);
-        logger.info('\n=== Processing Complete ===');
-        logger.info(`Total documents: ${documents.length}`);
-        logger.info(`Successfully processed: ${processed}`);
-        logger.info(`Errors: ${errors}`);
+        console.info('\n=== Processing Complete ===');
+        console.info(`Total documents: ${documents.length}`);
+        console.info(`Successfully processed: ${processed}`);
+        console.info(`Errors: ${errors}`);
 
     } catch (error) {
         console.error('Error in processAllDocumentTitles:', error);

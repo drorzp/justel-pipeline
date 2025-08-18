@@ -1,6 +1,5 @@
 import 'dotenv/config';
-import { PoolConfig } from 'pg';
-import { pool, connectPostgreSQL } from './postgres/pgConnect';
+import { Pool, PoolConfig } from 'pg';
 import { runS3Batch } from './import-to-pg/process';
 import {  moveArticlesToMongo } from './transfer-to-mongo/articles';
 import { moveLawsToMongo } from './transfer-to-mongo/laws';
@@ -11,6 +10,7 @@ import { updateArticleContentsFromSaverV2Diff } from './import-to-pg/updateFromS
 import { updateArticleVector } from './add-to-vector/loop_over_articles';
 import { sync_document_title, sync_not_changed } from './import-to-pg/sync_document_title';
 import { processAllDocumentTitles, LLMConfig } from './import-to-pg/llm_title';
+import logger from './logger';
 
 export const llmConfig: LLMConfig = {
     openaiApiKey: process.env.OPENAI_API_KEY || '',
@@ -34,27 +34,29 @@ const dbConfig: PoolConfig = {
 
 async function main() {
 
-  await connectPostgreSQL();
+const pool = new Pool(dbConfig);
   try {
     // shahars code goes here 
-    await copyContentArticle(dbConfig);   // truncate the article_contents_saver table and copy all html into it
-    await truncateImportTables(dbConfig);    /// clean all tables
-    await runS3Batch(); // create all tables 
-    await sync_document_title();  
-    await sync_not_changed();
-    await processAllDocumentTitles(dbConfig, llmConfig);
-    // await updateArticleContentsFromSaver() // not sure we need it since it is the same ? this one will restore the html that was not changed
+    await copyContentArticle(pool);   // truncate the article_contents_saver table and copy all html into it
+    await truncateImportTables(pool);    /// clean all tables
+    await runS3Batch(pool); // create all tables 
+    await sync_document_title(pool);  
+    await sync_not_changed(pool);
+    await processAllDocumentTitles(pool, llmConfig);
+    // await updateArticleContentsFromSaver(pool) // not sure we need it since it is the same ? this one will restore the html that was not changed
     // updateArticleContentsFromSaverV2Diff() // this one will restore the html that was changed
     // updateArticleVector();
     // moveLawsToMongo();
     // await moveArticlesToMongo() // has to replace one by one ???? delete small table 
 
     // Run S3 batch processor programmatically
-    await updateArticleContentsFromSaverV2Diff();
-    await moveLawsToMongo();
-    await moveArticlesToMongo();
-  } catch (err) {
-    console.error('Error running batch task:', err);
+    await updateArticleContentsFromSaverV2Diff(pool);
+    await moveLawsToMongo(pool);
+    await moveArticlesToMongo(pool);  
+    await updateArticleVector(pool);
+  } catch (err:unknown) {
+    const message = err instanceof Error ? err.message : 'Unknown error';
+    console.error('Error running batch task:', message);
     process.exitCode = 1;
   } finally {
     await pool.end();

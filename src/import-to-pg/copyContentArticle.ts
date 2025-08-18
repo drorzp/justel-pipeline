@@ -1,4 +1,4 @@
-import { Pool, PoolConfig } from 'pg';
+import { Pool } from 'pg';
 import * as dotenv from 'dotenv';
 
 dotenv.config();
@@ -17,8 +17,7 @@ function qualifyProc(schema: string | undefined, proc: string): string {
 
 // Calls stored procedure: COPY CONTENT ARTICLE
 // Default schema is public; override if needed.
-export async function copyContentArticle(dbConfig: PoolConfig, schema: string = 'public'): Promise<void> {
-  const pool = new Pool(dbConfig);
+export async function copyContentArticle(pool: Pool, schema: string = 'public'): Promise<void> {
   const qualified = qualifyProc(schema, 'reset_and_insert_from_article_content');
   const client = await pool.connect();
   try {

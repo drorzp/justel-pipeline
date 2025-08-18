@@ -1,6 +1,5 @@
 import { MongoClient, Db } from 'mongodb';
 import { config } from 'dotenv';
-import logger from '../utils/logger';
 config();
 
 let client: MongoClient;
@@ -22,9 +21,9 @@ export const connectMongoDB = async () => {
     await client.connect();
     db = client.db(dbName);
     
-    logger.info('MongoDB connected successfully');
-    logger.info('MongoDB URI:', uri);
-    logger.info('Database:', dbName);
+    console.info('MongoDB connected successfully');
+    console.info('MongoDB URI:', uri);
+    console.info('Database:', dbName);
     
     return db;
   } catch (error) {
@@ -43,6 +42,6 @@ export const getDB = () => {
 export const closeMongoDB = async () => {
   if (client) {
     await client.close();
-    logger.info('MongoDB connection closed');
+    console.info('MongoDB connection closed');
   }
 };

@@ -1,24 +1,23 @@
 import { connectMongoDB, getDB, closeMongoDB } from '../mongodb/mongoConnect';
-import { ReadOnlyDatabaseService, connectPostgreSQL } from '../postgres/pgConnect';
-import logger from '../utils/logger';
+import { Pool, PoolClient} from 'pg';
 import { Law } from './models/Law';
 import { LawRoot } from './models/RootLaw';
 
 
 
-async function getLawsList(startFromId?: string, endId?: string) {
+async function getLawsList(client:PoolClient) {
   try {
-    logger.info('Connecting to PostgreSQL...');
-    await connectPostgreSQL();
+    console.info('Connecting to PostgreSQL...');
+
     
     let query: string;
     let params: any[];
     query = 'SELECT id,document_number FROM public.documents ORDER BY id';
     
-    const result = await ReadOnlyDatabaseService.query(query);
+    const result = await client.query(query);
     
 const laws = result.rows;
-    logger.info(`Found ${laws.length} laws to process`);
+    console.info(`Found ${laws.length} laws to process`);
     return laws;
     
   } catch (error) {
@@ -28,13 +27,13 @@ const laws = result.rows;
 }
 
 
-async function getLawFromPostgres(document_number: string): Promise<any> {
+async function getLawFromPostgres(client:PoolClient,document_number: string): Promise<any> {
      try { 
       const query = 'SELECT public.get_document_data($1) as law_data';
-      const result = await ReadOnlyDatabaseService.query(query, [document_number]);
+      const result = await client.query(query, [document_number]);
       
       if (result.rows.length === 0 || !result.rows[0].law_data) {
-        logger.info(`No data for ${document_number}`);
+        console.info(`No data for ${document_number}`);
         return null;
       }
       
@@ -43,7 +42,7 @@ async function getLawFromPostgres(document_number: string): Promise<any> {
           ? JSON.parse(result.rows[0].law_data)
           : result.rows[0].law_data;
       
-      logger.info(`✓ Successfully fetched ${document_number}`);
+      console.info(`✓ Successfully fetched ${document_number}`);
       return lawData;
     } catch (error: unknown) {
     return null;
@@ -51,22 +50,22 @@ async function getLawFromPostgres(document_number: string): Promise<any> {
 }
 
 
-export async function moveLawsToMongo(startId?: string, endId?: string) {
+export async function moveLawsToMongo(pool:Pool, ) {
   const startTime = Date.now();
   let processedCount = 0;
   let successCount = 0;
   let errorCount = 0;
   
   try {
-    logger.info('Starting conservative migration...');
+    console.info('Starting conservative migration...');
     
     // Connect to databases
-    await connectPostgreSQL();
+    const client: PoolClient = await pool.connect();
     await connectMongoDB();
     
     const db = getDB();
     const collection = db.collection('lawroots');
-    const LawsList: any[] | null = await getLawsList();
+    const LawsList: any[] | null = await getLawsList(client);
     
     // Use for...of loop to properly handle async operations
     for (const law of LawsList!) {
@@ -74,10 +73,10 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
       
       try {
         
-        const result = await getLawFromPostgres(law.document_number);
+        const result = await getLawFromPostgres(client,law.document_number);
         
         if (!result) {
-          logger.info(`⚠️  No data for ${law.document_number}`);
+          console.info(`⚠️  No data for ${law.document_number}`);
           continue;
         }
         await LawRoot.findOneAndUpdate(
@@ -93,7 +92,7 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
           ).lean();
 
           const existingLaw = await Law.findOne({document_number: law.document_number});
-          
+
           if(existingLaw){
             await Law.findOneAndUpdate(
               { 
@@ -122,6 +121,6 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
     process.exit(1);
   } finally {
     await closeMongoDB();
-    logger.info('Connections closed');
+    console.info('Connections closed');
   }
 }

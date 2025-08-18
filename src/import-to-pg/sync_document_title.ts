@@ -1,25 +1,16 @@
-import { Pool, PoolClient, PoolConfig } from 'pg';
+import { Pool, PoolClient } from 'pg';
 import * as dotenv from 'dotenv';
 
 // Load env
 dotenv.config();
 
-// DB config aligned with other import-to-pg modules
-const dbConfig: PoolConfig = {
-  host: process.env.DB_HOST || 'localhost',
-  port: parseInt(process.env.DB_PORT || '5433'),
-  database: process.env.DB_NAME || 'lawyers',
-  user: process.env.DB_USER || 'postgres',
-  password: process.env.DB_PASSWORD || 'strongpassword',
-};
 
-const pool = new Pool(dbConfig);
 
 /**
  * Insert missing rows into public.document_title for all documents
  * that don't yet have a corresponding entry. Sets new_title to empty string.
  */
-export async function sync_document_title(): Promise<void> {
+export async function sync_document_title(pool:Pool): Promise<void> {
   const client: PoolClient = await pool.connect();
   try {
     await client.query('BEGIN');
@@ -52,7 +43,7 @@ export async function sync_document_title(): Promise<void> {
  * Update documents.title to dt.new_title only when the current title equals dt.old_title
  * and new_title is present and non-empty.
  */
-export async function sync_not_changed(): Promise<void> {
+export async function sync_not_changed(pool:Pool): Promise<void> {
   const client: PoolClient = await pool.connect();
   try {
     await client.query('BEGIN');

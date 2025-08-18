@@ -1,4 +1,4 @@
-import { Pool, PoolConfig } from 'pg';
+import { Pool } from 'pg';
 import * as dotenv from 'dotenv';
 
 dotenv.config();
@@ -36,7 +36,7 @@ function qualify(schema: string | undefined, table: string): string {
 }
 
 export async function truncateTables(
-  dbConfig: PoolConfig,
+  pool: Pool,
   tables: string[],
   options: TruncateOptions = {}
 ): Promise<void> {
@@ -50,7 +50,6 @@ export async function truncateTables(
   parts.push('RESTART IDENTITY');
   if (cascade) parts.push('CASCADE');
 
-  const pool = new Pool(dbConfig);
   const client = await pool.connect();
   try {
     const info = await client.query("select current_database() as db, current_user as usr");
@@ -72,38 +71,9 @@ export async function truncateTables(
   }
 }
 
-export async function truncateImportTables(dbConfig: PoolConfig, options: TruncateOptions = {}): Promise<void> {
+export async function truncateImportTables(pool:Pool, options: TruncateOptions = {}): Promise<void> {
   // Order matters for TRUNCATE without CASCADE; with CASCADE it's safe.
   // We still pass all in one statement for efficiency.
-  await truncateTables(dbConfig, DEFAULT_IMPORT_TABLES, { cascade: true, restartIdentity: true, ...options });
+  await truncateTables(pool , DEFAULT_IMPORT_TABLES, { cascade: true, restartIdentity: true, ...options });
 }
 
-// Optional CLI entrypoint: ts-node src/import-to-pg/truncate.ts documents,articles
-if (require.main === module) {
-  (async () => {
-    const args = process.argv.slice(2);
-    // Build config from env (prefer POSTGRES_* if present)
-    const cliDbConfig: PoolConfig = {
-      host: process.env.POSTGRES_HOST || process.env.DB_HOST || 'localhost',
-      port: Number(process.env.POSTGRES_PORT || process.env.DB_PORT || 5433),
-      database: process.env.POSTGRES_DB || process.env.DB_NAME || 'lawyers',
-      user: process.env.POSTGRES_USER || process.env.DB_USER || 'postgres',
-      password: process.env.POSTGRES_PASSWORD || process.env.DB_PASSWORD || 'strongpassword',
-      ssl: false,
-    };
-    try {
-      if (args.length > 0) {
-        await truncateTables(cliDbConfig, args);
-        console.log(`Truncated: ${args.join(', ')}`);
-      } else {
-        await truncateImportTables(cliDbConfig);
-        console.log('Truncated default import tables');
-      }
-    } catch (err) {
-      console.error('Failed to truncate tables:', err);
-      process.exit(1);
-    } finally {
-      // nothing to close; pools are closed inside functions
-    }
-  })();
-}
