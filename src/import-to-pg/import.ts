@@ -427,8 +427,7 @@ class DatabaseOperations {
       mainTextHash,
     ];
 
-    const result = await client.query(query, values);
-    const contentId = result.rows[0].id;
+    await client.query(query, values);
 
   }
 

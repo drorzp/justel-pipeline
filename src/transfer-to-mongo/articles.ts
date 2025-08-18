@@ -50,7 +50,7 @@ async function getArticleFromPostgres(document_number: string,article_number:str
 }
 
 
-export async function moveArticlesToMongo(startId?: string, endId?: string) {
+export async function moveArticlesToMongo() {
   const startTime = Date.now();
   let processedCount = 0;
   let successCount = 0;
@@ -79,8 +79,11 @@ export async function moveArticlesToMongo(startId?: string, endId?: string) {
           logger.info(`⚠️  No data for ${article.document_number}`);
           continue;
         }
-        await collection.deleteOne({document_number: article.document_number,article_number: article.article_number});
-        await collection.insertOne(result);
+        await collection.replaceOne(
+          { document_number: article.document_number, article_number: article.article_number },
+          { $set: result },
+          { upsert: true }
+        );
         
         successCount++;
         

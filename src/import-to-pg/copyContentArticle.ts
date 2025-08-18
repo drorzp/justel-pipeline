@@ -17,7 +17,7 @@ function qualifyProc(schema: string | undefined, proc: string): string {
 
 // Calls stored procedure: COPY CONTENT ARTICLE
 // Default schema is public; override if needed.
-export async function callCopyContentArticle(dbConfig: PoolConfig, schema: string = 'public'): Promise<void> {
+export async function copyContentArticle(dbConfig: PoolConfig, schema: string = 'public'): Promise<void> {
   const pool = new Pool(dbConfig);
   const qualified = qualifyProc(schema, 'reset_and_insert_from_article_content');
   const client = await pool.connect();

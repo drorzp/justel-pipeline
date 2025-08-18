@@ -78,11 +78,10 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
           logger.info(`⚠️  No data for ${law.document_number}`);
           continue;
         }
-        await collection.deleteOne({document_number: law.document_number});
-        await collection.insertOne(result);
-        
+        await collection.replaceOne({ document_number: law.document_number },
+          { $set: result },
+          { upsert: true });
         successCount++;
-        
         // Progress report every 100 articles
         if (processedCount % 100 === 0) {
           const elapsed = (Date.now() - startTime) / 1000;

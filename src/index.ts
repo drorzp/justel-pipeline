@@ -5,12 +5,12 @@ import { runS3Batch } from './import-to-pg/process';
 import {  moveArticlesToMongo } from './transfer-to-mongo/articles';
 import { moveLawsToMongo } from './transfer-to-mongo/laws';
 import { truncateImportTables } from './import-to-pg/truncate';
-import { callCopyContentArticle } from './import-to-pg/copyContentArticle';
+import { copyContentArticle } from './import-to-pg/copyContentArticle';
 import { updateArticleContentsFromSaver } from './import-to-pg/updateFromSaver';
 import { updateArticleContentsFromSaverV2Diff } from './import-to-pg/updateFromSaverV2';
 import { updateArticleVector } from './add-to-vector/loop_over_articles';
 import { sync_document_title, sync_not_changed } from './import-to-pg/sync_document_title';
-import { DocumentTitleProcessor, LLMConfig } from './import-to-pg/llm_title';
+import { processAllDocumentTitles, LLMConfig } from './import-to-pg/llm_title';
 
 export const llmConfig: LLMConfig = {
     openaiApiKey: process.env.OPENAI_API_KEY || '',
@@ -37,22 +37,21 @@ async function main() {
   await connectPostgreSQL();
   try {
     // shahars code goes here 
-   // await callCopyContentArticle(dbConfig);   // truncate the article_contents_saver table and copy all html into it
-   // await truncateImportTables(dbConfig);    /// clean all tables
-   // await runS3Batch(); // create all tables 
-    // await sync_document_title();  
-     await sync_not_changed();
-    const llmTitleProcessor = new DocumentTitleProcessor(dbConfig, llmConfig);
-    await llmTitleProcessor.connect();
-    await llmTitleProcessor.processAllDocumentTitles();
-    // updateArticleContentsFromSaver() // this one will restore the html that was not changed
+    await copyContentArticle(dbConfig);   // truncate the article_contents_saver table and copy all html into it
+    await truncateImportTables(dbConfig);    /// clean all tables
+    await runS3Batch(); // create all tables 
+    await sync_document_title();  
+    await sync_not_changed();
+    await processAllDocumentTitles(dbConfig, llmConfig);
+    // await updateArticleContentsFromSaver() // not sure we need it since it is the same ? this one will restore the html that was not changed
     // updateArticleContentsFromSaverV2Diff() // this one will restore the html that was changed
     // updateArticleVector();
     // moveLawsToMongo();
     // await moveArticlesToMongo() // has to replace one by one ???? delete small table 
 
     // Run S3 batch processor programmatically
-  
+    await updateArticleContentsFromSaverV2Diff();
+    
   } catch (err) {
     console.error('Error running batch task:', err);
     process.exitCode = 1;
