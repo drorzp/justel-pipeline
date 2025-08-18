@@ -1,0 +1,13 @@
+# JUSTEL Web Scraper Dependencies - High Performance Version
+
+# Data processing
+pandas>=1.5.0
+
+# High-performance web scraping
+httpx>=0.25.0          # Fastest HTTP client with async support
+selectolax>=0.3.17     # Fastest HTML parser (C-based)
+
+# Standard library extensions (no additional installs needed)
+# asyncio - Built into Python 3.7+
+# re - Built into Python
+# logging - Built into Python

@@ -11,6 +11,7 @@ import { updateArticleContentsFromSaverV2Diff } from './import-to-pg/updateFromS
 import { updateArticleVector } from './add-to-vector/loop_over_articles';
 import { sync_document_title, sync_not_changed } from './import-to-pg/sync_document_title';
 import { processAllDocumentTitles, LLMConfig } from './import-to-pg/llm_title';
+import { runPythonDataPipeline } from './utils/pythonRunner';
 
 export const llmConfig: LLMConfig = {
     openaiApiKey: process.env.OPENAI_API_KEY || '',
@@ -33,10 +34,13 @@ const dbConfig: PoolConfig = {
 };
 
 async function main() {
-
-  await connectPostgreSQL();
+  
+  // await connectPostgreSQL(); // Temporarily disabled for testing
   try {
-    // shahars code goes here 
+    // Run Python data pipeline first (find urls + scraping + processing)
+    await runPythonDataPipeline();
+    
+    
     await copyContentArticle(dbConfig);   // truncate the article_contents_saver table and copy all html into it
     await truncateImportTables(dbConfig);    /// clean all tables
     await runS3Batch(); // create all tables 
@@ -56,7 +60,7 @@ async function main() {
     console.error('Error running batch task:', err);
     process.exitCode = 1;
   } finally {
-    await pool.end();
+    // await pool.end(); // Temporarily disabled for testing
   }
 }
 
