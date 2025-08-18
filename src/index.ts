@@ -51,7 +51,8 @@ async function main() {
 
     // Run S3 batch processor programmatically
     await updateArticleContentsFromSaverV2Diff();
-    
+    await moveLawsToMongo();
+    await moveArticlesToMongo();
   } catch (err) {
     console.error('Error running batch task:', err);
     process.exitCode = 1;
