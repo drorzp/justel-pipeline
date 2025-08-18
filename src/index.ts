@@ -10,7 +10,12 @@ import { updateArticleContentsFromSaverV2Diff } from './import-to-pg/updateFromS
 import { updateArticleVector } from './add-to-vector/loop_over_articles';
 import { sync_document_title, sync_not_changed } from './import-to-pg/sync_document_title';
 import { processAllDocumentTitles, LLMConfig } from './import-to-pg/llm_title';
+<<<<<<< HEAD
 import logger from './logger';
+import { runPythonDataPipeline } from './utils/pythonRunner';
+=======
+import { runPythonDataPipeline } from './utils/pythonRunner';
+>>>>>>> a8fa7ffebedf91ebd2db64153fe80248caeadca3
 
 export const llmConfig: LLMConfig = {
     openaiApiKey: process.env.OPENAI_API_KEY || '',
@@ -37,7 +42,7 @@ async function main() {
 const pool = new Pool(dbConfig);
   try {
     // shahars code goes here 
-
+    await runPythonDataPipeline();
     console.log('started')
     await copyContentArticle(pool); 
     console.log('copyContentArticle')  // truncate the article_contents_saver table and copy all html into it
@@ -65,7 +70,7 @@ const pool = new Pool(dbConfig);
     console.error('Error running batch task:', message);
     process.exitCode = 1;
   } finally {
-    await pool.end();
+    // await pool.end(); // Temporarily disabled for testing
   }
 }
 

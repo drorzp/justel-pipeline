@@ -17,3 +17,7 @@ pnpm-debug.log*
 # Editor
 .vscode/
 .DS_Store
+
+
+src/justel-data-processer/input
+src/justel-data-processer/output
