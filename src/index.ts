@@ -37,23 +37,29 @@ async function main() {
 const pool = new Pool(dbConfig);
   try {
     // shahars code goes here 
-    await copyContentArticle(pool);   // truncate the article_contents_saver table and copy all html into it
-    await truncateImportTables(pool);    /// clean all tables
-    await runS3Batch(pool); // create all tables 
-    await sync_document_title(pool);  
-    await sync_not_changed(pool);
-    await processAllDocumentTitles(pool, llmConfig);
-    // await updateArticleContentsFromSaver(pool) // not sure we need it since it is the same ? this one will restore the html that was not changed
-    // updateArticleContentsFromSaverV2Diff() // this one will restore the html that was changed
-    // updateArticleVector();
-    // moveLawsToMongo();
-    // await moveArticlesToMongo() // has to replace one by one ???? delete small table 
 
-    // Run S3 batch processor programmatically
-    await updateArticleContentsFromSaverV2Diff(pool);
-    await moveLawsToMongo(pool);
-    await moveArticlesToMongo(pool);  
+    console.log('started')
+    await copyContentArticle(pool); 
+    console.log('copyContentArticle')  // truncate the article_contents_saver table and copy all html into it
+    await truncateImportTables(pool);  
+    console.log('truncateImportTables')   /// clean all tables
+    await runS3Batch(pool); 
+    console.log('runS3Batch') // create all tables 
+    await sync_document_title(pool);  
+    console.log('sync_document_title')
+    await sync_not_changed(pool);
+    console.log('sync_not_changed')
+    await processAllDocumentTitles(pool, llmConfig);
+    console.log('processAllDocumentTitles')
+    // await updateArticleContentsFromSaver(pool) // not sure we need it since it is the same ? this one will restore the html that was not changed
+    await updateArticleContentsFromSaverV2Diff(pool) 
+    console.log('updateArticleContentsFromSaverV2Dif')
     await updateArticleVector(pool);
+    console.log('updateArticleVector')
+    await moveLawsToMongo(pool);
+    console.log('moveLawsToMongo')
+    await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+    console.log('moveArticlesToMongo')
   } catch (err:unknown) {
     const message = err instanceof Error ? err.message : 'Unknown error';
     console.error('Error running batch task:', message);
