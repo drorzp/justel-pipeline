@@ -64,6 +64,7 @@ export async function sync_not_changed(): Promise<void> {
       WHERE d.document_number = dt.document_number 
         AND d.title = dt.old_title 
         AND dt.new_title IS NOT NULL 
+        and trim(dt.new_title) !=trim(d.title)
         AND dt.new_title != '';
     `;
 
@@ -79,17 +80,4 @@ export async function sync_not_changed(): Promise<void> {
   }
 }
 
-// Allow running directly: npx ts-node src/import-to-pg/sync_document_title.ts
-if (require.main === module) {
-  (async () => {
-    try {
-      await sync_document_title();
-      await sync_not_changed();
-    } catch (err) {
-      console.error(err);
-      process.exitCode = 1;
-    } finally {
-      await pool.end();
-    }
-  })();
-}
+

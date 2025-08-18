@@ -1,0 +1,18 @@
+{
+  "zipFile": "incoming3/20250815_210327_belgian_legal_batch_033_valid_20250815_210326_76_files.zip",
+  "processedAt": "2025-08-18T01:04:13.830Z",
+  "failedDocuments": [
+    {
+      "filename": "1965011802.json",
+      "error": "duplicate key value violates unique constraint \"idx_article_contents_doc_art\""
+    },
+    {
+      "filename": "1965033130.json",
+      "error": "duplicate key value violates unique constraint \"idx_article_contents_doc_art\""
+    },
+    {
+      "filename": "1965033150.json",
+      "error": "duplicate key value violates unique constraint \"idx_article_contents_doc_art\""
+    }
+  ]
+}

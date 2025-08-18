@@ -1,19 +1,7 @@
 import { Pool, PoolConfig } from 'pg';
 import * as dotenv from 'dotenv';
 
-
 dotenv.config();
-
-// Write-capable pool config aligned with src/import-to-pg/import.ts
-const dbConfig: PoolConfig = {
-  host: process.env.DB_HOST || 'localhost',
-  port: parseInt(process.env.DB_PORT || '5433'),
-  database: process.env.DB_NAME || 'lawyers',
-  user: process.env.DB_USER || 'postgres',
-  password: process.env.DB_PASSWORD || 'strongpassword',
-};
-
-const pool = new Pool(dbConfig);
 
 // Default tables involved in the import pipeline
 export const DEFAULT_IMPORT_TABLES = [
@@ -25,7 +13,6 @@ export const DEFAULT_IMPORT_TABLES = [
   'modified_articles',
   'external_links',
   'extraction_metadata',
-  'external_links',
   'documents'
 ];
 
@@ -49,6 +36,7 @@ function qualify(schema: string | undefined, table: string): string {
 }
 
 export async function truncateTables(
+  dbConfig: PoolConfig,
   tables: string[],
   options: TruncateOptions = {}
 ): Promise<void> {
@@ -62,44 +50,60 @@ export async function truncateTables(
   parts.push('RESTART IDENTITY');
   if (cascade) parts.push('CASCADE');
 
-  const sql = `TRUNCATE TABLE ${qualified.join(', ')} ${parts.join(' ')};`;
-
+  const pool = new Pool(dbConfig);
   const client = await pool.connect();
   try {
+    const info = await client.query("select current_database() as db, current_user as usr");
+    console.log("[truncate] Target:", info.rows[0]);
     await client.query('BEGIN');
-    await client.query(sql);
+    // Truncate one-by-one to allow per-table success logging
+    for (const q of qualified) {
+      const sql = `TRUNCATE TABLE ${q} ${parts.join(' ')};`;
+      await client.query(sql);
+      console.log(`[truncate] Success: ${q}`);
+    }
     await client.query('COMMIT');
   } catch (err) {
     await client.query('ROLLBACK');
     throw err;
   } finally {
     client.release();
+    await pool.end();
   }
 }
 
-export async function truncateImportTables(options: TruncateOptions = {}): Promise<void> {
+export async function truncateImportTables(dbConfig: PoolConfig, options: TruncateOptions = {}): Promise<void> {
   // Order matters for TRUNCATE without CASCADE; with CASCADE it's safe.
   // We still pass all in one statement for efficiency.
-  await truncateTables(DEFAULT_IMPORT_TABLES, { cascade: true, restartIdentity: true, ...options });
+  await truncateTables(dbConfig, DEFAULT_IMPORT_TABLES, { cascade: true, restartIdentity: true, ...options });
 }
 
 // Optional CLI entrypoint: ts-node src/import-to-pg/truncate.ts documents,articles
 if (require.main === module) {
   (async () => {
     const args = process.argv.slice(2);
+    // Build config from env (prefer POSTGRES_* if present)
+    const cliDbConfig: PoolConfig = {
+      host: process.env.POSTGRES_HOST || process.env.DB_HOST || 'localhost',
+      port: Number(process.env.POSTGRES_PORT || process.env.DB_PORT || 5433),
+      database: process.env.POSTGRES_DB || process.env.DB_NAME || 'lawyers',
+      user: process.env.POSTGRES_USER || process.env.DB_USER || 'postgres',
+      password: process.env.POSTGRES_PASSWORD || process.env.DB_PASSWORD || 'strongpassword',
+      ssl: false,
+    };
     try {
       if (args.length > 0) {
-        await truncateTables(args);
+        await truncateTables(cliDbConfig, args);
         console.log(`Truncated: ${args.join(', ')}`);
       } else {
-        await truncateImportTables();
+        await truncateImportTables(cliDbConfig);
         console.log('Truncated default import tables');
       }
     } catch (err) {
       console.error('Failed to truncate tables:', err);
       process.exit(1);
     } finally {
-      await pool.end();
+      // nothing to close; pools are closed inside functions
     }
   })();
 }

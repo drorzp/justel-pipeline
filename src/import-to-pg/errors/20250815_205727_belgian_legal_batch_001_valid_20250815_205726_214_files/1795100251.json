@@ -1,0 +1,742 @@
+{
+  "document_metadata": {
+    "document_number": "1795100251",
+    "title": "2 OCTOBRE 1795. - Décret sur la police intérieure des communes (10 vendémiaire an IV)",
+    "publication_date": "1795-10-02",
+    "source": "",
+    "page_number": 0,
+    "dossier_number": "1795-10-02/30",
+    "effective_date": "indéterminée",
+    "end_validity_date": "",
+    "language": "fr",
+    "document_type": "DECRET",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "",
+    "official_publication_pdf_url": "",
+    "consolidated_pdf_url": ""
+  },
+  "preamble": "",
+  "abrogation_info": {},
+  "document_hierarchy": [
+    {
+      "type": "titre",
+      "label": "TITRE Ier. ",
+      "metadata": {
+        "title_type": "TITRE Ier.",
+        "title_content": "",
+        "rank": 1
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1",
+          "metadata": {
+            "article_range": "1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1",
+            "anchor_id": "art_1",
+            "content": {
+              "main_text_raw": "Tous citoyens habitant la même commune sont garants civilement des attentats commis sur le territoire de la commune, soit envers les personnes, soit contre les propriété.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Tous citoyens habitant la même commune sont garants civilement des attentats commis sur le territoire de la commune, soit envers les personnes, soit contre les propriété.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173191"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "TITRE IV. Des espèces de délits dont les communes sont civilement responsables.",
+      "metadata": {
+        "title_type": "TITRE IV.",
+        "title_content": "Des espèces de délits dont les communes sont civilement responsables.",
+        "rank": 1
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1",
+          "metadata": {
+            "article_range": "1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1",
+            "anchor_id": "art_1",
+            "content": {
+              "main_text_raw": "Chaque commune est responsable des délits commis à force ouverte ou par violence sur son territoire, par des attroupements ou rassemblements armés ou non armés, soit envers les personnes, soit contre les propriétés nationales ou privées, ainsi que des dommages-intérêts auxquels ils donneront lieu.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Chaque commune est responsable des délits commis à force ouverte ou par violence sur son territoire, par des attroupements ou rassemblements armés ou non armés, soit envers les personnes, soit contre les propriétés nationales ou privées, ainsi que des dommages-intérêts auxquels ils donneront lieu.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173298"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 2",
+          "metadata": {
+            "article_range": "2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2",
+            "anchor_id": "art_2",
+            "content": {
+              "main_text_raw": "[...]",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>[...]</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173368"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "metadata": {
+            "article_range": "3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3",
+            "anchor_id": "art_3",
+            "content": {
+              "main_text_raw": "Si les attroupements ou rassemblements ont été formés d'habitants de plusieurs communes, toutes seront responsables des délits qu'ils auront commis, et contribuables, à la réparation et dommages-intérêts qu'au paiement de l'amendes.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Si les attroupements ou rassemblements ont été formés d'habitants de plusieurs communes, toutes seront responsables des délits qu'ils auront commis, et contribuables, à la réparation et dommages-intérêts qu'au paiement de l'amendes.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173455"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "metadata": {
+            "article_range": "4",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4",
+            "anchor_id": "art_4",
+            "content": {
+              "main_text_raw": "Les habitants de la commune ou des communes contribuables qui prétendraient n'avoir pris aucune part aux délits, et contre lesquels il ne s'élèverait aucune preuve de complicité ou participation aux attroupements, pourront exercer leur recours contre les auteurs et complices des délits.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-4\"><header class=\"article-header\"><h2 class=\"article-number\">Article 4</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Les habitants de la commune ou des communes contribuables qui prétendraient n'avoir pris aucune part aux délits, et contre lesquels il ne s'élèverait aucune preuve de complicité ou participation aux attroupements, pourront exercer leur recours contre les auteurs et complices des délits.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173547"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "metadata": {
+            "article_range": "5",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "5",
+            "anchor_id": "art_5",
+            "content": {
+              "main_text_raw": "Dans les cas où les rassemblements auraient été formés d'individus étrangers à la commune sur le territoire de laquelle des délits ont été commis, et où la commune aurait pris toutes les mesures qui étaient en son pouvoir à l'effet de les prévenir et d'en faire connaître les auteurs, elle demeurera déchargée de toute responsabilité.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-5\"><header class=\"article-header\"><h2 class=\"article-number\">Article 5</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Dans les cas où les rassemblements auraient été formés d'individus étrangers à la commune sur le territoire de laquelle des délits ont été commis, et où la commune aurait pris toutes les mesures qui étaient en son pouvoir à l'effet de les prévenir et d'en faire connaître les auteurs, elle demeurera déchargée de toute responsabilité.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173645"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 6",
+          "metadata": {
+            "article_range": "6",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "6",
+            "anchor_id": "art_6",
+            "content": {
+              "main_text_raw": "Lorsque, par suite de rassemblements ou attroupements, un individu, domicilié ou non sur une commune, y aura été pillé, maltraité ou homicidé, tous les habitants seront tenus de lui payer, ou en cas de morts, à sa veuve et enfants, des dommages-intérêts.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-6\"><header class=\"article-header\"><h2 class=\"article-number\">Article 6</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Lorsque, par suite de rassemblements ou attroupements, un individu, domicilié ou non sur une commune, y aura été pillé, maltraité ou homicidé, tous les habitants seront tenus de lui payer, ou en cas de morts, à sa veuve et enfants, des dommages-intérêts.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173727"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "metadata": {
+            "article_range": "7",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "7",
+            "anchor_id": "art_7",
+            "content": {
+              "main_text_raw": "Lorsque des ponts auront été rompus, des routes coupées ou interceptées par des abatis d'arbres ou autrement, dans une commune, la municipalité ou l'administration municipale du canton les fera réparer sans délai aux frais de la commune, sauf son recours contre les auteurs du délit.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-7\"><header class=\"article-header\"><h2 class=\"article-number\">Article 7</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Lorsque des ponts auront été rompus, des routes coupées ou interceptées par des abatis d'arbres ou autrement, dans une commune, la municipalité ou l'administration municipale du canton les fera réparer sans délai aux frais de la commune, sauf son recours contre les auteurs du délit.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173812"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "metadata": {
+            "article_range": "8",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "8",
+            "anchor_id": "art_8",
+            "content": {
+              "main_text_raw": "Cette responsabilité de la commune n'aura pas lieu dans les cas où elle justifierait avoir résisté à la destruction des ponts et des route,s ou bien avoir pris toutes les mesures qui étaient en son pouvoir pour prévenir l'événement, et encore dans le cas où elle désignerait les auteurs, provocateurs et complices du délit, tous étrangers à la commune.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-8\"><header class=\"article-header\"><h2 class=\"article-number\">Article 8</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Cette responsabilité de la commune n'aura pas lieu dans les cas où elle justifierait avoir résisté à la destruction des ponts et des route,s ou bien avoir pris toutes les mesures qui étaient en son pouvoir pour prévenir l'événement, et encore dans le cas où elle désignerait les auteurs, provocateurs et complices du délit, tous étrangers à la commune.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173903"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "metadata": {
+            "article_range": "9",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "9",
+            "anchor_id": "art_9",
+            "content": {
+              "main_text_raw": "Lorsque, dans une commune, des cultivateurs tiendront leurs voitures démontées, ou n'exécuteront pas les réquisitions qui en seront faites légalement pour transports et charrois, les habitants de la commune sont responsables des dommages-intérêts en résultant.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-9\"><header class=\"article-header\"><h2 class=\"article-number\">Article 9</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Lorsque, dans une commune, des cultivateurs tiendront leurs voitures démontées, ou n'exécuteront pas les réquisitions qui en seront faites légalement pour transports et charrois, les habitants de la commune sont responsables des dommages-intérêts en résultant.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.173976"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "metadata": {
+            "article_range": "10",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "10",
+            "anchor_id": "art_10",
+            "content": {
+              "main_text_raw": "Si, dans une commune, des cultivateurs à part de fruits refusent de livrer, au terme du bail, la portion due aux propriétaires, tous les habitants de cette commune sont tenus des dommages-intérêts.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-10\"><header class=\"article-header\"><h2 class=\"article-number\">Article 10</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Si, dans une commune, des cultivateurs à part de fruits refusent de livrer, au terme du bail, la portion due aux propriétaires, tous les habitants de cette commune sont tenus des dommages-intérêts.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174059"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "metadata": {
+            "article_range": "11",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "11",
+            "anchor_id": "art_11",
+            "content": {
+              "main_text_raw": "Dans les cas énoncés aux articles 9 et 10 les habitants de la commune exerceront leurs recours contre les cultivateurs qui auraient donné lieu aux dommages-intérêts.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-11\"><header class=\"article-header\"><h2 class=\"article-number\">Article 11</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Dans les cas énoncés aux articles 9 et 10 les habitants de la commune exerceront leurs recours contre les cultivateurs qui auraient donné lieu aux dommages-intérêts.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174132"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "metadata": {
+            "article_range": "12",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "12",
+            "anchor_id": "art_12",
+            "content": {
+              "main_text_raw": "Lorsqu'un adjudicataire de domaines nationaux aura été contraint à force ouverte, par suite de rassemblements ou attroupements, de payer tout ou partie du prix de son adjudication à autres que dans la caisse des domaines et revenus nationaux, lorsqu'un fermier ou locataire aura également été contraint de payer tout ou partie du prix de son bail à autres que le propriétaire, dans ces cas, les habitants de la commune où les délits auront été commis seront tenus des dommages-intérêts en résultant, sauf leur recours contre les auteurs et complices des délits.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-12\"><header class=\"article-header\"><h2 class=\"article-number\">Article 12</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Lorsqu'un adjudicataire de domaines nationaux aura été contraint à force ouverte, par suite de rassemblements ou attroupements, de payer tout ou partie du prix de son adjudication à autres que dans la caisse des domaines et revenus nationaux, lorsqu'un fermier ou locataire aura également été contraint de payer tout ou partie du prix de son bail à autres que le propriétaire, dans ces cas, les habitants de la commune où les délits auront été commis seront tenus des dommages-intérêts en résultant, sauf leur recours contre les auteurs et complices des délits.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174246"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "titre",
+      "label": "TITRE V. Des dommages-intérêts et réparations civiles.",
+      "metadata": {
+        "title_type": "TITRE V.",
+        "title_content": "Des dommages-intérêts et réparations civiles.",
+        "rank": 1
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1",
+          "metadata": {
+            "article_range": "1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1",
+            "anchor_id": "art_1",
+            "content": {
+              "main_text_raw": "Lorsque, par suite de rassemblements ou attroupements, un citoyen aura été contraint de payer, lorsqu'il aura été volé ou pillé sur le territoire d'une commune, tous les habitants de la commune seront tenus de la restitution, en même nature, des objets pillés et choses enlevées par force, ou d'en payer le prix sur le pied du double de leur valeur, au cours du jour où le pillage aura été commis.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Lorsque, par suite de rassemblements ou attroupements, un citoyen aura été contraint de payer, lorsqu'il aura été volé ou pillé sur le territoire d'une commune, tous les habitants de la commune seront tenus de la restitution, en même nature, des objets pillés et choses enlevées par force, ou d'en payer le prix sur le pied du double de leur valeur, au cours du jour où le pillage aura été commis.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174344"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 2",
+          "metadata": {
+            "article_range": "2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2",
+            "anchor_id": "art_2",
+            "content": {
+              "main_text_raw": "[...]",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>[...]</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174401"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "metadata": {
+            "article_range": "3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3",
+            "anchor_id": "art_3",
+            "content": {
+              "main_text_raw": "[...]",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>[...]</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174450"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "metadata": {
+            "article_range": "4",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4",
+            "anchor_id": "art_4",
+            "content": {
+              "main_text_raw": "Les dommages-intérêts dont les communes sont tenues aux termes des articles précédents, seront fixés par le tribunal civil du département, sur le vu des procès-verbaux et autres pièces constatant les voies de fait, excès et délits.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-4\"><header class=\"article-header\"><h2 class=\"article-number\">Article 4</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Les dommages-intérêts dont les communes sont tenues aux termes des articles précédents, seront fixés par le tribunal civil du département, sur le vu des procès-verbaux et autres pièces constatant les voies de fait, excès et délits.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174526"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "metadata": {
+            "article_range": "5",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "5",
+            "anchor_id": "art_5",
+            "content": {
+              "main_text_raw": "Le tribunal civil du département réglera le montant de la réparation des dommages-intérêts dans la décade, au plus tard, qui suivra l'envoi des procès-verbaux.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-5\"><header class=\"article-header\"><h2 class=\"article-number\">Article 5</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le tribunal civil du département réglera le montant de la réparation des dommages-intérêts dans la décade, au plus tard, qui suivra l'envoi des procès-verbaux.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174597"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 6",
+          "metadata": {
+            "article_range": "6",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "6",
+            "anchor_id": "art_6",
+            "content": {
+              "main_text_raw": "Les dommages-intérêts ne pourront jamais être moindres que la valeur entière des objets pillés et choses enlevées.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-6\"><header class=\"article-header\"><h2 class=\"article-number\">Article 6</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Les dommages-intérêts ne pourront jamais être moindres que la valeur entière des objets pillés et choses enlevées.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174664"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "metadata": {
+            "article_range": "7",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "7",
+            "anchor_id": "art_7",
+            "content": {
+              "main_text_raw": "Le jugement du tribunal civil, portant fixation des dommages-intérêts, sera envoyé, dans les vingt-quatre heures, par le commissaire du pouvoir exécutif, à l'administration départementale, qui sera tenue de l'envoyer, sous trois jours, à la municipalité ou à l'administration municipale du canton.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-7\"><header class=\"article-header\"><h2 class=\"article-number\">Article 7</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le jugement du tribunal civil, portant fixation des dommages-intérêts, sera envoyé, dans les vingt-quatre heures, par le commissaire du pouvoir exécutif, à l'administration départementale, qui sera tenue de l'envoyer, sous trois jours, à la municipalité ou à l'administration municipale du canton.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174752"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "metadata": {
+            "article_range": "8",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "8",
+            "anchor_id": "art_8",
+            "content": {
+              "main_text_raw": "La municipalité ou l'administration municipale sera tenue de verser le montant des dommages-intérêts à la caisse du département dans le délai d'une décade: à cet effet elle fera contribuer les vingt plus forts contribuables résidant dans la commune.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-8\"><header class=\"article-header\"><h2 class=\"article-number\">Article 8</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La municipalité ou l'administration municipale sera tenue de verser le montant des dommages-intérêts à la caisse du département dans le délai d'une décade: à cet effet elle fera contribuer les vingt plus forts contribuables résidant dans la commune.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174836"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "metadata": {
+            "article_range": "9",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "9",
+            "anchor_id": "art_9",
+            "content": {
+              "main_text_raw": "La répartition et la perception pour le remboursement des sommes avancées, seront faites sur tous les habitants de la commune, par la municipalité ou l'administration municipale du canton d'après le tableau des domiciliés, et à raison des facultés de chaque habitant.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-9\"><header class=\"article-header\"><h2 class=\"article-number\">Article 9</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La répartition et la perception pour le remboursement des sommes avancées, seront faites sur tous les habitants de la commune, par la municipalité ou l'administration municipale du canton d'après le tableau des domiciliés, et à raison des facultés de chaque habitant.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": true,
+                "generation_timestamp": "2025-08-15T20:57:24.174917"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 10",
+          "metadata": {
+            "article_range": "10",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "10",
+            "anchor_id": "art_10",
+            "content": {
+              "main_text_raw": "Dans le cas de réclamations de la part d'un ou plusieurs contribuables, l'administration départementale statuera sur la demande en réduction.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-10\"><header class=\"article-header\"><h2 class=\"article-number\">Article 10</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Dans le cas de réclamations de la part d'un ou plusieurs contribuables, l'administration départementale statuera sur la demande en réduction.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.174986"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "metadata": {
+            "article_range": "11",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "11",
+            "anchor_id": "art_11",
+            "content": {
+              "main_text_raw": "A défaut de payement dans la décade, l'administration départementale requerra une force armée suffisante, et l'établira dans les communes contribuables, avec un commissaire pour opérer le versement de la contribution.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-11\"><header class=\"article-header\"><h2 class=\"article-number\">Article 11</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>A défaut de payement dans la décade, l'administration départementale requerra une force armée suffisante, et l'établira dans les communes contribuables, avec un commissaire pour opérer le versement de la contribution.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.175065"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "metadata": {
+            "article_range": "12",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "12",
+            "anchor_id": "art_12",
+            "content": {
+              "main_text_raw": "Les frais de commissaire de département et de séjour de la force armée, seront ajoutés au montant des contributions prononcées et supportées par les communes contribuables.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-12\"><header class=\"article-header\"><h2 class=\"article-number\">Article 12</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Les frais de commissaire de département et de séjour de la force armée, seront ajoutés au montant des contributions prononcées et supportées par les communes contribuables.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.175138"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "metadata": {
+            "article_range": "13",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "13",
+            "anchor_id": "art_13",
+            "content": {
+              "main_text_raw": "Dans la décade du versement fait dans la caisse du département, l'administration fera remettre aux parties le montant du jugement portant fixation de dommages-intérêts. [5A]",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-13\"><header class=\"article-header\"><h2 class=\"article-number\">Article 13</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Dans la décade du versement fait dans la caisse du département, l'administration fera remettre aux parties le montant du jugement portant fixation de dommages-intérêts. [5A]</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:24.175218"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": []
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-08-15T20:57:24.175332",
+    "source_file": "1795100251.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false,
+      "preamble_extracted": false,
+      "is_abrogated_document": false
+    }
+  }
+}

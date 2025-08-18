@@ -79,10 +79,10 @@ class S3BatchProcessor {
       } : undefined
     });
     
-    this.stateFilePath = path.join(process.cwd(), 'processing-state.json');
-    this.documentsDir = path.join(process.cwd(), 'documents');
-    this.zippedDir = path.join(process.cwd(), 'zipped');
-    this.errorsDir = path.join(process.cwd(), 'errors');
+    this.stateFilePath = path.join(process.cwd(),'src','import-to-pg', 'processing-state.json');
+    this.documentsDir = path.join(process.cwd(), 'src','import-to-pg','documents');
+    this.zippedDir = path.join(process.cwd(), 'src','import-to-pg','zipped');
+    this.errorsDir = path.join(process.cwd(), 'src','import-to-pg','errors');
     
     this.state = {
       lastProcessedFile: null,
@@ -533,89 +533,89 @@ class S3BatchProcessor {
   }
 }
 
-async function main(): Promise<void> {
-  const args = process.argv.slice(2);
+// async function main(): Promise<void> {
+//   const args = process.argv.slice(2);
   
-  if (args.length === 0) {
-    logger.info('Usage: ts-node s3-batch-processor.ts <command>');
-    logger.info('');
-    logger.info('Commands:');
-    logger.info('  process                    - Process all zip files from S3 bucket');
-    logger.info('  status                     - Show current processing status');
-    logger.info('  reset                      - Reset processing state');
-    logger.info('');
-    logger.info('Configuration (via .env file or environment variables):');
-    logger.info('  AWS_REGION                 - AWS region (default: us-east-1)');
-    logger.info('  AWS_ACCESS_KEY_ID          - AWS access key (optional if using IAM roles)');
-    logger.info('  AWS_SECRET_ACCESS_KEY      - AWS secret key (optional if using IAM roles)');
-    logger.info('  S3_BUCKET                  - S3 bucket name (required)');
-    logger.info('  S3_PREFIX                  - S3 prefix/folder (optional)');
-    logger.info('');
-    logger.info('Examples:');
-    logger.info('  ts-node s3-batch-processor.ts process');
-    logger.info('  ts-node s3-batch-processor.ts status');
-    logger.info('  ts-node s3-batch-processor.ts reset');
-    process.exit(1);
-  }
+//   if (args.length === 0) {
+//     logger.info('Usage: ts-node s3-batch-processor.ts <command>');
+//     logger.info('');
+//     logger.info('Commands:');
+//     logger.info('  process                    - Process all zip files from S3 bucket');
+//     logger.info('  status                     - Show current processing status');
+//     logger.info('  reset                      - Reset processing state');
+//     logger.info('');
+//     logger.info('Configuration (via .env file or environment variables):');
+//     logger.info('  AWS_REGION                 - AWS region (default: us-east-1)');
+//     logger.info('  AWS_ACCESS_KEY_ID          - AWS access key (optional if using IAM roles)');
+//     logger.info('  AWS_SECRET_ACCESS_KEY      - AWS secret key (optional if using IAM roles)');
+//     logger.info('  S3_BUCKET                  - S3 bucket name (required)');
+//     logger.info('  S3_PREFIX                  - S3 prefix/folder (optional)');
+//     logger.info('');
+//     logger.info('Examples:');
+//     logger.info('  ts-node s3-batch-processor.ts process');
+//     logger.info('  ts-node s3-batch-processor.ts status');
+//     logger.info('  ts-node s3-batch-processor.ts reset');
+//     process.exit(1);
+//   }
 
-  const command = args[0];
+//   const command = args[0];
   
-  // Read configuration from environment variables
-  const config: S3Config = {
-    region: process.env.AWS_REGION || 'us-east-1',
-    bucket: process.env.S3_BUCKET || '',
-    prefix: process.env.S3_PREFIX || '',
-    accessKeyId: process.env.AWS_ACCESS_KEY_ID,
-    secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
-  };
+//   // Read configuration from environment variables
+//   const config: S3Config = {
+//     region: process.env.AWS_REGION || 'us-east-1',
+//     bucket: process.env.S3_BUCKET || '',
+//     prefix: process.env.S3_PREFIX || '',
+//     accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+//     secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
+//   };
 
-  // Validate required configuration
-  if (!config.bucket) {
-    console.error('❌ S3_BUCKET environment variable is required');
-    console.error('💡 Please set S3_BUCKET in your .env file or environment variables');
-    process.exit(1);
-  }
+//   // Validate required configuration
+//   if (!config.bucket) {
+//     console.error('❌ S3_BUCKET environment variable is required');
+//     console.error('💡 Please set S3_BUCKET in your .env file or environment variables');
+//     process.exit(1);
+//   }
 
-  logger.info(`🔧 Configuration:`);
-  logger.info(`   Region: ${config.region}`);
-  logger.info(`   Bucket: ${config.bucket}`);
-  logger.info(`   Prefix: ${config.prefix || '(none)'}`);
-  logger.info(`   Using AWS credentials: ${config.accessKeyId ? 'Yes (from env)' : 'No (using IAM/default)'}`);
-  logger.info('');
+//   logger.info(`🔧 Configuration:`);
+//   logger.info(`   Region: ${config.region}`);
+//   logger.info(`   Bucket: ${config.bucket}`);
+//   logger.info(`   Prefix: ${config.prefix || '(none)'}`);
+//   logger.info(`   Using AWS credentials: ${config.accessKeyId ? 'Yes (from env)' : 'No (using IAM/default)'}`);
+//   logger.info('');
 
-  const processor = new S3BatchProcessor(config);
+//   const processor = new S3BatchProcessor(config);
 
-  try {
-    switch (command) {
-      case 'process':
-        await processor.processAllZipFiles();
-        break;
+//   try {
+//     switch (command) {
+//       case 'process':
+//         await processor.processAllZipFiles();
+//         break;
         
-      case 'status':
-        await processor.showStatus();
-        break;
+//       case 'status':
+//         await processor.showStatus();
+//         break;
         
-      case 'reset':
-        await processor.resetState();
-        break;
+//       case 'reset':
+//         await processor.resetState();
+//         break;
         
-      default:
-        console.error(`❌ Unknown command: ${command}`);
-        process.exit(1);
-    }
-  } catch (error) {
-    console.error('💥 Process failed:', error);
-    process.exit(1);
-  }
-}
+//       default:
+//         console.error(`❌ Unknown command: ${command}`);
+//         process.exit(1);
+//     }
+//   } catch (error) {
+//     console.error('💥 Process failed:', error);
+//     process.exit(1);
+//   }
+// }
 
-// Run if executed directly
-if (require.main === module) {
-  main().catch(error => {
-    console.error('💥 Unhandled error:', error);
-    process.exit(1);
-  });
-}
+// // Run if executed directly
+// if (require.main === module) {
+//   main().catch(error => {
+//     console.error('💥 Unhandled error:', error);
+//     process.exit(1);
+//   });
+// }
 
 // Programmatic API for calling from other modules (e.g., index.ts)
 export function buildS3ConfigFromEnv(overrides: Partial<S3Config> = {}): S3Config {

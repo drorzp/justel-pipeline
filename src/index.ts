@@ -36,26 +36,20 @@ async function main() {
 
   await connectPostgreSQL();
   try {
-    const { rows } = await pool.query('SELECT NOW() as now');
-    console.log('DB connected. Time:', rows[0].now);
     // shahars code goes here 
-    await callCopyContentArticle();   // truncate the article_contents_saver table and copy all html into it
-    await truncateImportTables();    /// clean all tables
-    await runS3Batch(); // create all tables 
-    await sync_document_title();  
-    await sync_not_changed();
+   // await callCopyContentArticle(dbConfig);   // truncate the article_contents_saver table and copy all html into it
+   // await truncateImportTables(dbConfig);    /// clean all tables
+   // await runS3Batch(); // create all tables 
+    // await sync_document_title();  
+     await sync_not_changed();
     const llmTitleProcessor = new DocumentTitleProcessor(dbConfig, llmConfig);
     await llmTitleProcessor.connect();
-    try {
-      await llmTitleProcessor.processAllDocumentTitles();
-    } finally {
-      await llmTitleProcessor.disconnect();
-    }
-    updateArticleContentsFromSaver() // this one will restore the html that was not changed
-    updateArticleContentsFromSaverV2Diff() // this one will restore the html that was changed
-    updateArticleVector();
-    moveLawsToMongo();
-    await moveArticlesToMongo() // has to replace one by one ???? delete small table 
+    await llmTitleProcessor.processAllDocumentTitles();
+    // updateArticleContentsFromSaver() // this one will restore the html that was not changed
+    // updateArticleContentsFromSaverV2Diff() // this one will restore the html that was changed
+    // updateArticleVector();
+    // moveLawsToMongo();
+    // await moveArticlesToMongo() // has to replace one by one ???? delete small table 
 
     // Run S3 batch processor programmatically
   

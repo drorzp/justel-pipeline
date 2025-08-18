@@ -1,0 +1,770 @@
+{
+  "document_metadata": {
+    "document_number": "1933042550",
+    "title": "25 AVRIL 1933. - Loi relative à la pension du personnel communal.",
+    "publication_date": "1933-05-05",
+    "source": "",
+    "page_number": 2344,
+    "dossier_number": "1933-04-25/30",
+    "effective_date": "1934-05-05",
+    "end_validity_date": "",
+    "language": "fr",
+    "document_type": "LOI",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/loi/1933/04/25/1933042550/justel",
+    "official_publication_pdf_url": "",
+    "consolidated_pdf_url": ""
+  },
+  "preamble": "",
+  "abrogation_info": {},
+  "document_hierarchy": [
+    {
+      "type": "article",
+      "label": "Article 1",
+      "metadata": {
+        "article_range": "1",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "1",
+        "anchor_id": "art_1",
+        "content": {
+          "main_text_raw": "<abrogé par L 1989-05-26/33, art. 1,**En vigueur:**01-06-1989>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1989-05-26/33\" data-article-number=\"1\" data-law-type=\"L\" data-effective-date=\"\">&lt;abrogé par, L 1989-05-26/33, art. 1, **En vigueur:**01-06-1989&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.679667"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par L 1989-05-26/33, art. 1,**En vigueur:**01-06-1989",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "L",
+              "dossier_number": "1989-05-26/33",
+              "article_number": "1",
+              "sequence_number": "**En vigueur:**01-06-1989",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par L 1989-05-26/33, art. 1,**En vigueur:**01-06-1989>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1989-05-26/33",
+              "raw_article": "1",
+              "start_pos": 0,
+              "end_pos": 62,
+              "matched_text": "<abrogé par L 1989-05-26/33, art. 1,**En vigueur:**01-06-1989>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 2",
+      "metadata": {
+        "article_range": "2",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "2",
+        "anchor_id": "art_2",
+        "content": {
+          "main_text_raw": "Les agents des communes qui jouissent d'un statut plus favorable au point de vue de la pension, conservent le bénéfice de celui-ci. Si l'institution de prévoyance à laquelle la commune est affiliée, ne peut assumer le payement de l'intégralité de la pension telle qu'elle est prévue par la loi, la différence est payée directement par la commune.",
+          "numbered_provisions": [],
+          "main_text": "<article class=\"legal-article\" id=\"art-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Les agents des communes qui jouissent d'un statut plus favorable au point de vue de la pension, conservent le bénéfice de celui-ci. Si l'institution de prévoyance à laquelle la commune est affiliée, ne peut assumer le payement de l'intégralité de la pension telle qu'elle est prévue par la loi, la différence est payée directement par la commune.</p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.679771"
+          }
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 3",
+      "metadata": {
+        "article_range": "3",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "3",
+        "anchor_id": "art_3",
+        "content": {
+          "main_text_raw": "<abrogé par L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1989-05-26/33\" data-article-number=\"2\" data-law-type=\"L\" data-effective-date=\"\">&lt;abrogé par, L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.679854"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "L",
+              "dossier_number": "1989-05-26/33",
+              "article_number": "2",
+              "sequence_number": "35°,**En vigueur:**01-06-1989",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1989-05-26/33",
+              "raw_article": "2",
+              "start_pos": 0,
+              "end_pos": 67,
+              "matched_text": "<abrogé par L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 4",
+      "metadata": {
+        "article_range": "4",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "4",
+        "anchor_id": "art_4",
+        "content": {
+          "main_text_raw": "<abrogé par AR 1986-12-31/64, art. 5> <confirmé par L 30-03-1987, art. 5, MB 01-04-1987>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-4\"><header class=\"article-header\"><h2 class=\"article-number\">Article 4</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1986-12-31/64\" data-article-number=\"5\" data-law-type=\"AR\" data-effective-date=\"\">&lt;abrogé par, AR 1986-12-31/64, art. 5, art. 5, MB 01-04-1987&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.679939"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par AR 1986-12-31/64, art. 5",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "AR",
+              "dossier_number": "1986-12-31/64",
+              "article_number": "5",
+              "sequence_number": "art. 5, MB 01-04-1987",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par AR 1986-12-31/64, art. 5> <confirmé par L 30-03-1987, art. 5, MB 01-04-1987>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1986-12-31/64",
+              "raw_article": "5> <confirmé par L 30-03-1987",
+              "start_pos": 0,
+              "end_pos": 88,
+              "matched_text": "<abrogé par AR 1986-12-31/64, art. 5> <confirmé par L 30-03-1987, art. 5, MB 01-04-1987>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 5",
+      "metadata": {
+        "article_range": "5",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "5",
+        "anchor_id": "art_5",
+        "content": {
+          "main_text_raw": "<abrogé par L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-5\"><header class=\"article-header\"><h2 class=\"article-number\">Article 5</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1989-05-26/33\" data-article-number=\"2\" data-law-type=\"L\" data-effective-date=\"\">&lt;abrogé par, L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.680022"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "L",
+              "dossier_number": "1989-05-26/33",
+              "article_number": "2",
+              "sequence_number": "35°, c et d,**En vigueur:**01-06-1989",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1989-05-26/33",
+              "raw_article": "2",
+              "start_pos": 0,
+              "end_pos": 75,
+              "matched_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 6",
+      "metadata": {
+        "article_range": "6",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "6",
+        "anchor_id": "art_6",
+        "content": {
+          "main_text_raw": "<abrogé par L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-6\"><header class=\"article-header\"><h2 class=\"article-number\">Article 6</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1989-05-26/33\" data-article-number=\"2\" data-law-type=\"L\" data-effective-date=\"\">&lt;abrogé par, L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.680105"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "L",
+              "dossier_number": "1989-05-26/33",
+              "article_number": "2",
+              "sequence_number": "35°, c et d,**En vigueur:**01-06-1989",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1989-05-26/33",
+              "raw_article": "2",
+              "start_pos": 0,
+              "end_pos": 75,
+              "matched_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, c et d,**En vigueur:**01-06-1989>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 7",
+      "metadata": {
+        "article_range": "7",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "7",
+        "anchor_id": "art_7",
+        "content": {
+          "main_text_raw": "<abrogé par AR 1986-12-31/64, art. 5> <confirmé par L 30-03-1987, art. 5, MB 01-04-1987>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-7\"><header class=\"article-header\"><h2 class=\"article-number\">Article 7</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1986-12-31/64\" data-article-number=\"5\" data-law-type=\"AR\" data-effective-date=\"\">&lt;abrogé par, AR 1986-12-31/64, art. 5, art. 5, MB 01-04-1987&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.680186"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par AR 1986-12-31/64, art. 5",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "AR",
+              "dossier_number": "1986-12-31/64",
+              "article_number": "5",
+              "sequence_number": "art. 5, MB 01-04-1987",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par AR 1986-12-31/64, art. 5> <confirmé par L 30-03-1987, art. 5, MB 01-04-1987>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1986-12-31/64",
+              "raw_article": "5> <confirmé par L 30-03-1987",
+              "start_pos": 0,
+              "end_pos": 88,
+              "matched_text": "<abrogé par AR 1986-12-31/64, art. 5> <confirmé par L 30-03-1987, art. 5, MB 01-04-1987>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 8",
+      "metadata": {
+        "article_range": "8",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "8",
+        "anchor_id": "art_8",
+        "content": {
+          "main_text_raw": "<abrogé par L 1989-05-26/33, art. 2, 35°, e,**En vigueur:**01-06-1989>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-8\"><header class=\"article-header\"><h2 class=\"article-number\">Article 8</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1989-05-26/33\" data-article-number=\"2\" data-law-type=\"L\" data-effective-date=\"\">&lt;abrogé par, L 1989-05-26/33, art. 2, 35°, e,**En vigueur:**01-06-1989&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.680268"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par L 1989-05-26/33, art. 2, 35°, e,**En vigueur:**01-06-1989",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "L",
+              "dossier_number": "1989-05-26/33",
+              "article_number": "2",
+              "sequence_number": "35°, e,**En vigueur:**01-06-1989",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, e,**En vigueur:**01-06-1989>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1989-05-26/33",
+              "raw_article": "2",
+              "start_pos": 0,
+              "end_pos": 70,
+              "matched_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, e,**En vigueur:**01-06-1989>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "metadata": {
+        "article_range": "9",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "9",
+        "anchor_id": "art_9",
+        "content": {
+          "main_text_raw": "<abrogé par L 1989-05-26/33, art. 2, 35°, f,**En vigueur:**01-06-1989>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-9\"><header class=\"article-header\"><h2 class=\"article-number\">Article 9</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1989-05-26/33\" data-article-number=\"2\" data-law-type=\"L\" data-effective-date=\"\">&lt;abrogé par, L 1989-05-26/33, art. 2, 35°, f,**En vigueur:**01-06-1989&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.680348"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par L 1989-05-26/33, art. 2, 35°, f,**En vigueur:**01-06-1989",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "L",
+              "dossier_number": "1989-05-26/33",
+              "article_number": "2",
+              "sequence_number": "35°, f,**En vigueur:**01-06-1989",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, f,**En vigueur:**01-06-1989>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1989-05-26/33",
+              "raw_article": "2",
+              "start_pos": 0,
+              "end_pos": 70,
+              "matched_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, f,**En vigueur:**01-06-1989>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 9",
+      "metadata": {
+        "article_range": "9",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "9",
+        "anchor_id": "art_9",
+        "content": {
+          "main_text_raw": "bis. (disposition transitoire) <AR 31-03-1936, art. 2, MB 07-04-1986>",
+          "numbered_provisions": [],
+          "main_text": "<article class=\"legal-article\" id=\"art-9\"><header class=\"article-header\"><h2 class=\"article-number\">Article 9</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>bis. (disposition transitoire) <span class=\"citation\">&lt;AR 31-03-1936, art. 2, MB 07-04-1986&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.680413"
+          }
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10",
+      "metadata": {
+        "article_range": "10",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "10",
+        "anchor_id": "art_10",
+        "content": {
+          "main_text_raw": "<abrogé par L 1989-05-26/33, art. 2, 35°, g,**En vigueur:**01-06-1989>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-10\"><header class=\"article-header\"><h2 class=\"article-number\">Article 10</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1989-05-26/33\" data-article-number=\"2\" data-law-type=\"L\" data-effective-date=\"\">&lt;abrogé par, L 1989-05-26/33, art. 2, 35°, g,**En vigueur:**01-06-1989&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.680493"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par L 1989-05-26/33, art. 2, 35°, g,**En vigueur:**01-06-1989",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "L",
+              "dossier_number": "1989-05-26/33",
+              "article_number": "2",
+              "sequence_number": "35°, g,**En vigueur:**01-06-1989",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, g,**En vigueur:**01-06-1989>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1989-05-26/33",
+              "raw_article": "2",
+              "start_pos": 0,
+              "end_pos": 70,
+              "matched_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, g,**En vigueur:**01-06-1989>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10bis",
+      "metadata": {
+        "article_range": "10bis",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "10bis",
+        "anchor_id": "art_10bis",
+        "content": {
+          "main_text_raw": "<abrogé par L 1989-05-26/33, art. 2, 35°, h,**En vigueur:**01-06-1989>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-10bis\"><header class=\"article-header\"><h2 class=\"article-number\">Article 10bis</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1989-05-26/33\" data-article-number=\"2\" data-law-type=\"L\" data-effective-date=\"\">&lt;abrogé par, L 1989-05-26/33, art. 2, 35°, h,**En vigueur:**01-06-1989&gt;</span></p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.680574"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par L 1989-05-26/33, art. 2, 35°, h,**En vigueur:**01-06-1989",
+            "urls": []
+          },
+          "enhanced_citations": [
+            {
+              "citation_type": "abrogation",
+              "law_type": "L",
+              "dossier_number": "1989-05-26/33",
+              "article_number": "2",
+              "sequence_number": "35°, h,**En vigueur:**01-06-1989",
+              "effective_date": "",
+              "url": "",
+              "full_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, h,**En vigueur:**01-06-1989>",
+              "prefix": "abrogé par",
+              "raw_dossier": "1989-05-26/33",
+              "raw_article": "2",
+              "start_pos": 0,
+              "end_pos": 70,
+              "matched_text": "<abrogé par L 1989-05-26/33, art. 2, 35°, h,**En vigueur:**01-06-1989>"
+            }
+          ]
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "article",
+      "label": "Article 10ter",
+      "metadata": {
+        "article_range": "10ter",
+        "rank": 5
+      },
+      "article_content": {
+        "article_number": "10ter",
+        "anchor_id": "art_10ter",
+        "content": {
+          "main_text_raw": "<abrogé par L 20-05-1949, art. 4, MB 12-06-1949>",
+          "numbered_provisions": [],
+          "abrogation_status": "abrogé",
+          "main_text": "<article class=\"legal-article\" id=\"art-10ter\"><header class=\"article-header\"><h2 class=\"article-number\">Article 10ter</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>&lt;abrogé par L 20-05-1949, art. 4, MB 12-06-1949&gt;</p></div></div></article>",
+          "structured_content_metadata": {
+            "paragraph_count": 0,
+            "provision_count": 0,
+            "has_tables": false,
+            "generation_timestamp": "2025-08-15T20:57:38.680642"
+          },
+          "legal_citation": {
+            "full_text": "abrogé par L 20-05-1949, art. 4, MB 12-06-1949",
+            "urls": []
+          }
+        }
+      },
+      "footnotes": [],
+      "footnote_references": []
+    },
+    {
+      "type": "section",
+      "label": "Dispositions spéciales. ",
+      "metadata": {
+        "title_type": "Dispositions spéciales.",
+        "title_content": "",
+        "rank": 3
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 11",
+          "metadata": {
+            "article_range": "11",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "11",
+            "anchor_id": "art_11",
+            "content": {
+              "main_text_raw": "(Les articles 157 à 166 de la nouvelle loi communale) s'appliquent aux (chefs de brigade) et aux agents des établissements subordonnés à la commune et des associations de communes. Les sommes dues à (l'Office national de sécurité sociale des administrations provinciales et locales) du chef de l'affiliation des (chefs de brigade) sont payées par les provinces. Les députations permanentes des conseils provinciaux pourront répartir la dépense entre les communes de la brigade. (Les sommes dont sont redevables à (l'Office national de sécurité sociale des administrations provinciales et locales) les établissements subordonnés aux communes sont payées par les communes en cause.) Celles-ci peuvent récupérer les versements quelles ont effectués à leur décharge. (Les associations de communes sont assimilées aux communes tant pour l'affiliation éventuelle à (Office national de sécurité sociale des administrations provinciales et locales) que pour la récupération des sommes dues à cette institution.) <modifié par: - AR 31-03-1936, art. 4, MB 07-04-1936 - AR 1986-12-31/64, art. 10; - L 1989-05-26/33, art. 2, 35°, i,**En vigueur:**01-06-1989>",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-11\"><header class=\"article-header\"><h2 class=\"article-number\">Article 11</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">(Les articles 157 à 166 de la nouvelle loi communale) s'appliquent aux (chefs de brigade) et aux agents des établissements subordonnés à la commune et des associations de communes. Les sommes dues à (l'Office national de sécurité sociale des administrations provinciales et locales) du chef de l'affiliation des (chefs de brigade) sont payées par les provinces. Les députations permanentes des conseils provinciaux pourront répartir la dépense entre les communes de la brigade. (Les sommes dont sont redevables à (l'Office national de sécurité sociale des administrations provinciales et locales) les établissements subordonnés aux communes sont payées par les communes en cause.) Celles-ci peuvent récupérer les versements quelles ont effectués à leur décharge. (Les associations de communes sont assimilées aux communes tant pour l'affiliation éventuelle à (Office national de sécurité sociale des administrations provinciales et locales) que pour la récupération des sommes dues à cette institution.) &lt;modifié par:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\">AR 31-03-1936, art. 4, MB 07-04-1936</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">AR 1986-12-31/64, art. 10</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">L 1989-05-26/33, art. 2, 35°, i,**En vigueur:**01-06-1989&gt;</span></li></ul></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:38.680855"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "metadata": {
+            "article_range": "12",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "12",
+            "anchor_id": "art_12",
+            "content": {
+              "main_text_raw": "<abrogé par L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989>",
+              "numbered_provisions": [],
+              "abrogation_status": "abrogé",
+              "main_text": "<article class=\"legal-article\" id=\"art-12\"><header class=\"article-header\"><h2 class=\"article-number\">Article 12</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"legal-citation legal-citation-abrogation\" data-citation-type=\"abrogation\" data-dossier-number=\"1989-05-26/33\" data-article-number=\"2\" data-law-type=\"L\" data-effective-date=\"\">&lt;abrogé par, L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989&gt;</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:38.680941"
+              },
+              "legal_citation": {
+                "full_text": "abrogé par L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989",
+                "urls": []
+              },
+              "enhanced_citations": [
+                {
+                  "citation_type": "abrogation",
+                  "law_type": "L",
+                  "dossier_number": "1989-05-26/33",
+                  "article_number": "2",
+                  "sequence_number": "35°,**En vigueur:**01-06-1989",
+                  "effective_date": "",
+                  "url": "",
+                  "full_text": "<abrogé par L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989>",
+                  "prefix": "abrogé par",
+                  "raw_dossier": "1989-05-26/33",
+                  "raw_article": "2",
+                  "start_pos": 0,
+                  "end_pos": 67,
+                  "matched_text": "<abrogé par L 1989-05-26/33, art. 2, 35°,**En vigueur:**01-06-1989>"
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "metadata": {
+            "article_range": "13",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "13",
+            "anchor_id": "art_13",
+            "content": {
+              "main_text_raw": "La présente loi entrera en vigueur à une date à déterminer par arrêté royal et, au plus tard, une année après sa publication.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-13\"><header class=\"article-header\"><h2 class=\"article-number\">Article 13</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La présente loi entrera en vigueur à une date à déterminer par arrêté royal et, au plus tard, une année après sa publication.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T20:57:38.681018"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": [
+      {
+        "modification_type": "Loi",
+        "modification_date": "1989-07-06",
+        "publication_date": "1989-07-08",
+        "modified_articles": [
+          "3"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/1989/07/08_1.pdf#Page3",
+        "full_title": "Loi du 06-07-1989 publié le 08-07-1989"
+      },
+      {
+        "modification_type": "Loi",
+        "modification_date": "1989-05-26",
+        "publication_date": "1989-05-30",
+        "modified_articles": [
+          "1",
+          "3",
+          "5",
+          "6",
+          "8-12"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/1989/05/30_1.pdf#Page3",
+        "full_title": "Loi du 26-05-1989 publié le 30-05-1989"
+      },
+      {
+        "modification_type": "Arrêté royal",
+        "modification_date": "1988-06-24",
+        "publication_date": "1988-09-03",
+        "modified_articles": [
+          "1",
+          "3",
+          "5",
+          "6",
+          "8",
+          "10",
+          "10BIS",
+          "12"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/1988/09/03_1.pdf#Page5",
+        "full_title": "Arrêté royal du 24-06-1988 publié le 03-09-1988"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-08-15T20:57:38.681110",
+    "source_file": "1933042550.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false,
+      "preamble_extracted": false,
+      "is_abrogated_document": false
+    }
+  }
+}

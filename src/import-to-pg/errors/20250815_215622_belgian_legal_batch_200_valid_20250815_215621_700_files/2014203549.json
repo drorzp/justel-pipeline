@@ -1,0 +1,1187 @@
+{
+  "document_metadata": {
+    "document_number": "2014203549",
+    "title": "13 MARS 2014. - Accord de coopération entre la Communauté française, la Commission communautaire française et la Région wallonne portant création d'une Commission de déontologie et d'éthique(NOTE : Consultation des versions antérieures à partir du 10-06-2014 et mise à jour au 05-06-2024)",
+    "publication_date": "2014-06-10",
+    "source": "Commission communautaire française - Communauté française - Service public de Wallonie",
+    "page_number": 43973,
+    "dossier_number": "2014-03-13/31",
+    "effective_date": "indéterminée",
+    "end_validity_date": "",
+    "language": "fr",
+    "document_type": "unknown",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2014/06/10_1.pdf#Page169",
+    "consolidated_pdf_url": ""
+  },
+  "preamble": "",
+  "abrogation_info": {},
+  "document_hierarchy": [
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE Ier. Définitions",
+      "metadata": {
+        "title_type": "CHAPITRE Ier.",
+        "title_content": "Définitions",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1er",
+          "metadata": {
+            "article_range": "1er",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1er",
+            "anchor_id": "art_1er",
+            "content": {
+              "main_text_raw": "§ 1er. Pour l'application du présent accord de coopération, on entend par \" mandataire public \": 1° tout membre du Parlement de la Région wallonne, du Parlement de la Communauté française ou de l'Assemblée de la Commission communautaire française; 2° toute personne agissant en qualité d'administrateur public, de gestionnaire public ou de commissaire du gouvernement dans le cadre des textes législatifs suivants: - décret de la Communauté française du 5 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française.; - décret de la Région wallonne du 12 février 2004 relatif au statut de l'administrateur public; - décret de la Région wallonne du 12 février 2004 relatif aux Commissaires du Gouvernement; - décret de la Région wallonne du 12 février 2004 relatif au statut de l'administrateur public pour les matières réglées en vertu de l'article 138 de la Constitution; - décret de la Région wallonne du 12 février 2004 relatif aux Commissaires du Gouvernement pour les matières réglées en vertu de l'article 138 de la Constitution; 3° tout fonctionnaire général des Services du Gouvernement wallon et des organismes d'intérêt public soumis au décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne et des Services du Gouvernement de la Communauté française et des organismes d'intérêt public relevant de la Communauté française; 4° tout chef de cabinet ou chef de cabinet adjoint des membres du Gouvernement de la Région wallonne, du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française; 5° toute personne agissant en qualité d'administrateur public, de gestionnaire public ou commissaire de gouvernement nommée, présentée ou désignée par la Région wallonne, la Communauté française ou la Commission communautaire française ou sur proposition de ceux-ci; 6° tout fonctionnaire dirigeant et mandataire public de la Commission communautaire française. § 2. Pour l'application du présent accord de coopération, on entend par \" mandataire local \": 1° tout conseiller communal, échevin, bourgmestre, député provincial, conseiller provincial et président ou conseiller de centre public d'action sociale de la Région wallonne; 2° tout membre des conseils d'administration et des comités de directions des intercommunales, des associations de droit public visées par le Chapitre XII de la loi organique des centres publics d'action sociale, ou des sociétés de logement de la Région wallonne; 3° toute personne qui, à la suite de la décision de l'un des organes de la commune, la province, d'une intercommunale, d'une régie communale ou provinciale autonome ou une société de logement, exerce des responsabilités dans la gestion d'une personne juridique ou d'une association de fait.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "tout membre du Parlement de la Région wallonne, du Parlement de la Communauté française ou de l'Assemblée de la Commission communautaire française",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "toute personne agissant en qualité d'administrateur public, de gestionnaire public ou de commissaire du gouvernement dans le cadre des textes législatifs suivants:",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "tout fonctionnaire général des Services du Gouvernement wallon et des organismes d'intérêt public soumis au décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne et des Services du Gouvernement de la Communauté française et des organismes d'intérêt public relevant de la Communauté française",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "tout chef de cabinet ou chef de cabinet adjoint des membres du Gouvernement de la Région wallonne, du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "toute personne agissant en qualité d'administrateur public, de gestionnaire public ou commissaire de gouvernement nommée, présentée ou désignée par la Région wallonne, la Communauté française ou la [2 Commission communautaire française",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "tout fonctionnaire dirigeant et mandataire public de la Commission communautaire française.",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "tout conseiller communal, échevin, bourgmestre, député provincial, conseiller provincial et président ou conseiller de centre public d'action sociale de la Région wallonne",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "tout membre des conseils d'administration et des comités de directions des intercommunales, des associations de droit public visées par le Chapitre XII de la loi organique des centres publics d'action sociale, ou des sociétés de logement de la Région wallonne",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "toute personne qui, à la suite de la décision de l'un des organes de la commune, la province, d'une intercommunale, d'une régie communale ou provinciale autonome ou une société de logement, exerce des responsabilités dans la gestion d'une personne juridique ou d'une association de fait.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-1er\"><header class=\"article-header\"><h2 class=\"article-number\">Article 1er</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">Pour l'application du présent accord de coopération, on entend par &quot; mandataire public &quot;:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">tout membre du Parlement de la Région wallonne, du Parlement de la Communauté française ou de l'Assemblée de la<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"Commission communautaire française\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.2\" data-article-dossier-number=\"\">Commission communautaire française</span></span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">toute personne agissant en qualité d'administrateur public, de gestionnaire public ou de commissaire du gouvernement dans le cadre des textes législatifs suivants:</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">tout fonctionnaire général des Services du Gouvernement wallon et des organismes d'intérêt public soumis au décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne et des Services du Gouvernement de la Communauté française et des organismes d'intérêt public relevant de la Communauté française</span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">tout chef de cabinet ou chef de cabinet adjoint des membres du Gouvernement de la Région wallonne, du Gouvernement de la Communauté française ou du Collège de la<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"Commission communautaire française\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.2\" data-article-dossier-number=\"\">Commission communautaire française</span></span></li><li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">toute personne agissant en qualité d'administrateur public, de gestionnaire public ou commissaire de gouvernement nommée, présentée ou désignée par la Région wallonne, la Communauté française ou la [2<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"Commission communautaire française\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.2\" data-article-dossier-number=\"\">Commission communautaire française</span></span></li><li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">tout fonctionnaire dirigeant et mandataire public de la<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"Commission communautaire française\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.2\" data-article-dossier-number=\"\">Commission communautaire française</span>.</span></li></ol><p class=\"intro-text\">Pour l'application du présent accord de coopération, on entend par &quot; mandataire public &quot;: 1° tout membre du Parlement de la Région wallonne, du Parlement de la Communauté française ou de l'Assemblée de la<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"Commission communautaire française\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.2\" data-article-dossier-number=\"\">Commission communautaire française</span>; 2° toute personne agissant en qualité d'administrateur public, de gestionnaire public ou de commissaire du gouvernement dans le cadre des textes législatifs suivants:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\"><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"décret de la Communauté française du 5 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.1\" data-article-dossier-number=\"\">décret de la Communauté française du 5 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française.</span></span></li><li class=\"hyphenated-item\"><span class=\"item-text\">décret de la Région wallonne du 12 février 2004 relatif au statut de l'administrateur public</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">décret de la Région wallonne du 12 février 2004 relatif aux Commissaires du Gouvernement</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">décret de la Région wallonne du 12 février 2004 relatif au statut de l'administrateur public pour les matières réglées en vertu de l'article 138 de la Constitution</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">décret de la Région wallonne du 12 février 2004 relatif aux Commissaires du Gouvernement pour les matières réglées en vertu de l'article 138 de la Constitution; 3° tout fonctionnaire général des Services du Gouvernement wallon et des organismes d'intérêt public soumis au décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne et des Services du Gouvernement de la Communauté française et des organismes d'intérêt public relevant de la Communauté française; 4° tout chef de cabinet ou chef de cabinet adjoint des membres du Gouvernement de la Région wallonne, du Gouvernement de la Communauté française ou du Collège de la<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"Commission communautaire française\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.2\" data-article-dossier-number=\"\">Commission communautaire française</span>; 5° toute personne agissant en qualité d'administrateur public, de gestionnaire public ou commissaire de gouvernement nommée, présentée ou désignée par la Région wallonne, la Communauté française ou la Commission communautaire française ou sur proposition de ceux-ci; 6° tout fonctionnaire dirigeant et mandataire public de la Commission communautaire française.</span></li></ul></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">Pour l'application du présent accord de coopération, on entend par &quot; mandataire local &quot;:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">tout conseiller communal, échevin, bourgmestre, député provincial, conseiller provincial et président ou conseiller de centre public d'action sociale de la Région wallonne</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">tout membre des conseils d'administration et des comités de directions des intercommunales, des associations de droit public visées par le Chapitre XII de la loi organique des centres publics d'action sociale, ou des sociétés de logement de la Région wallonne</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">toute personne qui, à la suite de la décision de l'un des organes de la commune, la province, d'une intercommunale, d'une régie communale ou provinciale autonome ou une société de logement, exerce des responsabilités dans la gestion d'une personne juridique ou d'une association de fait.</span></li></ol></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 9,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.265099"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 1, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 1",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.1"
+            },
+            {
+              "footnote_number": "2",
+              "footnote_content": "(2)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 2, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 2",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.2"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 426,
+              "referenced_text": "décret de la Communauté française du 5 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 décret de la Communauté française du 5 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française.]1"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 2000,
+              "referenced_text": "Commission communautaire française",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 Commission communautaire française]2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE II. Création",
+      "metadata": {
+        "title_type": "CHAPITRE II.",
+        "title_content": "Création",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 2",
+          "metadata": {
+            "article_range": "2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2",
+            "anchor_id": "art_2",
+            "content": {
+              "main_text_raw": "Il est institué une Commission de déontologie et d'éthique des mandataires publics, ci-après dénommée \" la Commission \". La Commission est un organe permanent relevant conjointement du Parlement wallon, du Parlement de la Communauté française et de l'Assemblée de la Commission communautaire française.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Il est institué une Commission de déontologie et d'éthique des mandataires publics, ci-après dénommée &quot; la Commission &quot;. La Commission est un organe permanent relevant conjointement du Parlement wallon, du Parlement de la Communauté française et de l'Assemblée de la Commission communautaire française.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.265208"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE III. Missions et compétences",
+      "metadata": {
+        "title_type": "CHAPITRE III.",
+        "title_content": "Missions et compétences",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 3",
+          "metadata": {
+            "article_range": "3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3",
+            "anchor_id": "art_3",
+            "content": {
+              "main_text_raw": "§ 1er. La Commission a pour mission de rendre des avis, à la demande d'un mandataire public, sur une situation particulière de déontologie, d'éthique ou de conflits d'intérêts le concernant. Ces avis sont traités de manière confidentielle. La commission a pour mission de rendre des avis sur une situation particulière de déontologie, d'éthique ou de conflit d'intérêts d'un mandataire public, sur base d'une demande signée par au moins un tiers des membres du Parlement de la Communauté française, de l'Assemblée de la Commission communautaire française ou du Parlement wallon, issus d'au moins deux groupes politiques. La commission a pour mission de rendre des avis sur une situation particulière de déontologie, d'éthique ou de conflit d'intérêts d'un mandataire public visé à l'article 1er, § 1er, 2° à 6°, à la demande du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française ou du Gouvernement wallon. La Commission peut également rendre des avis confidentiels, à la demande d'un membre du Gouvernement wallon, du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française, sur une situation particulière de déontologie, d'éthique ou de conflits d'intérêts le concernant. § 2. La Commission a pour mission de formuler des avis ou des recommandations à caractère général, à l'exclusion de cas particuliers visant nommément un ou plusieurs mandataires publics, en matière de déontologie et d'éthique et de conflits d'intérêts, d'initiative ou sur base d'une demande signée par au moins un tiers des membres du Parlement wallon, du Parlement de la Communauté française ou de l'Assemblée de la Commission communautaire française. La Commission a pour mission de formuler des avis ou des recommandations à caractère général,... en matière de déontologie et d'éthique et de conflits d'intérêts à la demande du gouvernement wallon, du gouvernement de la Communauté française ou du Collège de la Commission communautaire française. § 3. La Commission a pour mission de formuler des avis ou des recommandations à caractère général, à l'exclusion de cas particuliers visant nommément un ou plusieurs mandataires publics, en matière de déontologie, d'éthique ou de conflit d'intérêts, à la demande motivée de tout mandataire public. La Commission juge irrecevable toute demande anonyme, non motivée, obscure ou injurieuse.",
+              "numbered_provisions": [
+                {
+                  "number": "2°",
+                  "text": "à",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 3</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">La Commission a pour mission de rendre des avis, à la demande d'un mandataire public, sur une situation particulière de déontologie, d'éthique ou de conflits d'intérêts le concernant. Ces avis sont traités de manière confidentielle. La commission a pour mission de rendre des avis sur une situation particulière de déontologie, d'éthique ou de conflit d'intérêts d'un mandataire public, sur base d'une demande signée par au moins un tiers des membres du Parlement de la Communauté française, de l'Assemblée de la Commission communautaire française ou du Parlement wallon, issus d'au moins deux groupes politiques. La commission a pour mission de rendre des avis sur une situation particulière de déontologie, d'éthique ou de conflit d'intérêts d'un mandataire public visé à l'article 1er, § 1er,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">à</span></li></ol><p class=\"closing-text\">6°, à la demande du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française ou du Gouvernement wallon. La Commission peut également rendre des avis confidentiels, à la demande d'un membre du Gouvernement wallon, du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française, sur une situation particulière de déontologie, d'éthique ou de conflits d'intérêts le concernant.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>La Commission a pour mission de formuler des avis ou des recommandations à caractère général, à l'exclusion de cas particuliers visant nommément un ou plusieurs mandataires publics, en matière de déontologie et d'éthique et de conflits d'intérêts, d'initiative ou sur base d'une demande signée par au moins un tiers des membres du Parlement wallon, du Parlement de la Communauté française ou de l'Assemblée de la Commission communautaire française. La Commission a pour mission de formuler des avis ou des recommandations à caractère général,<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"...\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.4\" data-article-dossier-number=\"\">...</span>en matière de déontologie et d'éthique et de conflits d'intérêts à la demande du gouvernement wallon, du gouvernement de la Communauté française ou du Collège de la Commission communautaire française.</p></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p>La Commission a pour mission de formuler des avis ou des recommandations à caractère général, à l'exclusion de cas particuliers visant nommément un ou plusieurs mandataires publics, en matière de déontologie, d'éthique ou de conflit d'intérêts, à la demande motivée de tout mandataire public. La Commission juge irrecevable toute demande anonyme, non motivée, obscure ou injurieuse.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 3,
+                "provision_count": 1,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.265809"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 3, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 3",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.3"
+            },
+            {
+              "footnote_number": "2",
+              "footnote_content": "(2)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 4, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 4",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.4"
+            },
+            {
+              "footnote_number": "3",
+              "footnote_content": "(3)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 5, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 5",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.5"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 242,
+              "referenced_text": "La commission a pour mission de rendre des avis sur une situation particulière de déontologie, d'éthique ou de conflit d'intérêts d'un mandataire public, sur base d'une demande signée par au moins un tiers des membres du Parlement de la Communauté française, de l'Assemblée de la Commission communautaire française ou du Parlement wallon, issus d'au moins deux groupes politiques.  \nLa commission a pour mission de rendre des avis sur une situation particulière de déontologie, d'éthique ou de conflit d'intérêts d'un mandataire public visé à l'article 1er, § 1er, 2° à 6°, à la demande du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française ou du Gouvernement wallon.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 La commission a pour mission de rendre des avis sur une situation particulière de déontologie, d'éthique ou de conflit d'intérêts d'un mandataire public, sur base d'une demande signée par au moins un tiers des membres du Parlement de la Communauté française, de l'Assemblée de la Commission communautaire française ou du Parlement wallon, issus d'au moins deux groupes politiques.  \nLa commission a pour mission de rendre des avis sur une situation particulière de déontologie, d'éthique ou de conflit d'intérêts d'un mandataire public visé à l'article 1er, § 1er, 2° à 6°, à la demande du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française ou du Gouvernement wallon.]1"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 1819,
+              "referenced_text": "...",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 ...]2"
+            },
+            {
+              "reference_number": "3",
+              "text_position": 2036,
+              "referenced_text": "La Commission a pour mission de formuler des avis ou des recommandations à caractère général, à l'exclusion de cas particuliers visant nommément un ou plusieurs mandataires publics, en matière de déontologie, d'éthique ou de conflit d'intérêts, à la demande motivée de tout mandataire public.  \nLa Commission juge irrecevable toute demande anonyme, non motivée, obscure ou injurieuse.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[3 La Commission a pour mission de formuler des avis ou des recommandations à caractère général, à l'exclusion de cas particuliers visant nommément un ou plusieurs mandataires publics, en matière de déontologie, d'éthique ou de conflit d'intérêts, à la demande motivée de tout mandataire public.  \nLa Commission juge irrecevable toute demande anonyme, non motivée, obscure ou injurieuse.]3"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "metadata": {
+            "article_range": "4",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4",
+            "anchor_id": "art_4",
+            "content": {
+              "main_text_raw": "§ 1er. La Commission rédige un projet de Code au plus tard trois mois après son installation. Il contient des règles de nature déontologique, d'éthique, de conflits d'intérêts ainsi que toute ligne directrice jugée utile par la Commission en matière de déontologie et d'éthique et de conflits d'intérêts. Ce Code est approuvé par un décret wallon, un décret de la Communauté française et un décret de la Commission communautaire française et est applicable aux mandataires publics visés à l'article 1, § 1er, à l'exclusion de ceux visés au 1°. § 2. Le Parlement wallon, le Parlement de la Communauté française et l'Assemblée de la Commission communautaire française peuvent, chacun pour ce qui le concerne, compléter ou amender le Code de déontologie applicable à leurs membres, soit d'initiative, soit sur proposition de la Commission, notamment en fonction des avis ou des recommandations rendus en application de l'article 3.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-4\"><header class=\"article-header\"><h2 class=\"article-number\">Article 4</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>La Commission rédige un projet de Code au plus tard trois mois après son installation. Il contient des règles de nature déontologique, d'éthique, de conflits d'intérêts ainsi que toute ligne directrice jugée utile par la Commission en matière de déontologie et d'éthique et de conflits d'intérêts. Ce Code est approuvé par un décret wallon, un décret de la Communauté française et un décret de la Commission communautaire française et est applicable aux mandataires publics visés à l'article 1, § 1er, à l'exclusion de ceux visés au 1°.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Le Parlement wallon, le Parlement de la Communauté française et l'Assemblée de la Commission communautaire française peuvent, chacun pour ce qui le concerne, compléter ou amender le Code de déontologie applicable à leurs membres, soit d'initiative, soit sur proposition de la Commission, notamment en fonction des avis ou des recommandations rendus en application de l'article 3.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.265997"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE IV. Composition et incompatibilités",
+      "metadata": {
+        "title_type": "CHAPITRE IV.",
+        "title_content": "Composition et incompatibilités",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 5",
+          "metadata": {
+            "article_range": "5",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "5",
+            "anchor_id": "art_5",
+            "content": {
+              "main_text_raw": "La Commission est composée de douze membres. Les membres sont nommés pour une période de cinq ans, renouvelable une fois, prenant cours le jour de l'installation, par le Parlement wallon, le Parlement de la Communauté française et l'Assemblée de la Commission communautaire française agissant conjointement et, chacun pour ce qui le concerne, à la majorité des deux tiers des suffrages, deux tiers des membres devant être présents. Neuf membres sont présentés sur une liste, adoptée à la majorité des deux tiers des suffrages des membres présents, par le Parlement de la Région wallonne, et trois membres sont présentés, sur une liste adoptée à la majorité des deux tiers des suffrages des membres présents, par l'Assemblée de la Commission communautaire française.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-5\"><header class=\"article-header\"><h2 class=\"article-number\">Article 5</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La Commission est composée de douze membres. Les membres sont nommés pour une période de cinq ans, renouvelable une fois, prenant cours le jour de l'installation, par le Parlement wallon, le Parlement de la Communauté française et l'Assemblée de la Commission communautaire française agissant conjointement et, chacun pour ce qui le concerne, à la majorité des deux tiers des suffrages, deux tiers des membres devant être présents. Neuf membres sont présentés sur une liste, adoptée à la majorité des deux tiers des suffrages des membres présents, par le Parlement de la Région wallonne, et trois membres sont présentés, sur une liste adoptée à la majorité des deux tiers des suffrages des membres présents, par l'Assemblée de la Commission communautaire française.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.266147"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 6",
+          "metadata": {
+            "article_range": "6",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "6",
+            "anchor_id": "art_6",
+            "content": {
+              "main_text_raw": "Il ne peut être procédé aux présentations de listes que quinze jours au moins après la publication de la vacance au Moniteur belge. Cette publication a lieu au plus tôt trois mois avant la vacance. Chaque désignation fait l'objet d'une publication au Moniteur belge.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-6\"><header class=\"article-header\"><h2 class=\"article-number\">Article 6</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Il ne peut être procédé aux présentations de listes que quinze jours au moins après la publication de la vacance au Moniteur belge. Cette publication a lieu au plus tôt trois mois avant la vacance. Chaque désignation fait l'objet d'une publication au Moniteur belge.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.266234"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 7",
+          "metadata": {
+            "article_range": "7",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "7",
+            "anchor_id": "art_7",
+            "content": {
+              "main_text_raw": "§ 1er. Pour pouvoir être nommé membre de la Commission, le candidat doit satisfaire à l'une des conditions suivantes: 1° avoir, en Belgique et pendant au moins trois ans, occupé la fonction: a) soit de conseiller, de procureur général, de premier avocat général ou d'avocat général à la Cour de Cassation; b) soit de conseiller d'Etat ou d'auditeur général, d'auditeur général adjoint ou de premier auditeur ou de premier référendaire au Conseil d'Etat; c) soit de juge ou de référendaire à la Cour constitutionnelle; d) soit de professeur ordinaire, de professeur extraordinaire, de professeur ou de professeur associé de droit dans une université belge; e) soit de président, de procureur général, ou de conseiller à la cour d'appel; f) soit de président d'un tribunal de première instance; 2° avoir été pendant trois ans au moins, et ne plus être au moment de sa nomination à la Commission, membre du Parlement wallon, du Parlement de la Communauté française ou de l'Assemblée de la Commission communautaire française; 3° avoir été pendant trois ans au moins, et ne plus être au moment de sa nomination à la Commission, un mandataire public tel que visé à l'article 1, 2° à 6°. § 2. La commission compte parmi ses membres six membres répondant aux conditions fixées au § 1er, 1°, et six membres répondant aux conditions fixées au § 1er, 2° ou 3°, dont au moins un répondant aux conditions fixées au § 1er, 2°, et au moins une répondant aux conditions fixées au § 1er, 3°. Dans la mesure des candidatures reçues, il est veillé à respecter le principe de la représentation proportionnelle sur l'ensemble des membres visés à l'article 7, § 1er, 2° et 3°. § 3. Un candidat dont la présentation est fondée sur les conditions fixées au § 1er, 1°, ne peut être présenté en vertu des conditions fixées au § 1er, 2° et 3°. Un candidat dont la présentation est fondée sur les conditions fixées au § 1er, 2°, ne peut être présenté en vertu des conditions fixées aux § 1er, 1° et 3°. Un candidat dont la présentation est fondée sur les conditions fixées au § 1er, 3°, ne peut être présenté en vertu des conditions fixées aux § 1er, 1° et 2°. § 4. Deux tiers au maximum des membres de la Commission sont du même sexe.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "avoir, en Belgique et pendant au moins [1 trois ans",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "avoir été pendant [1 trois ans",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "avoir été pendant [1 trois ans",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "à",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "ou",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "et",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "et",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "et",
+                  "sub_items": []
+                },
+                {
+                  "number": "1°",
+                  "text": "et",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-7\"><header class=\"article-header\"><h2 class=\"article-number\">Article 7</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">Pour pouvoir être nommé membre de la Commission, le candidat doit satisfaire à l'une des conditions suivantes:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">avoir, en Belgique et pendant au moins [1<span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"trois ans\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.6\" data-article-dossier-number=\"\">trois ans</span></span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">à</span></li></ol><p class=\"intro-text\">la Cour de Cassation; b) soit de conseiller d'Etat ou d'auditeur général, d'auditeur général adjoint ou de premier auditeur ou de premier référendaire au Conseil d'Etat; c) soit de juge ou de référendaire à la Cour constitutionnelle; d) soit de professeur ordinaire, de professeur extraordinaire, de professeur ou de professeur associé de droit dans une université belge; e) soit de président, de procureur général, ou de conseiller à la cour d'appel; f) soit de président d'un tribunal de première instance;:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">ou</span></li></ol><p class=\"intro-text\">de l'Assemblée de la Commission communautaire française; 3° avoir été pendant<span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"trois ans\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.6\" data-article-dossier-number=\"\">trois ans</span>au moins, et ne plus être au moment de sa nomination à la Commission, un mandataire public tel que visé à l'article 1,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li></ol><p class=\"intro-text\">our pouvoir être nommé membre de la Commission, le candidat doit satisfaire à l'une des conditions suivantes: 1° avoir, en Belgique et pendant au moins<span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"trois ans\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.6\" data-article-dossier-number=\"\">trois ans</span>, occupé la fonction: a) soit de conseiller, de procureur général, de premier avocat général ou d'avocat général à la Cour de Cassation; b) soit de conseiller d'Etat ou d'auditeur général, d'auditeur général adjoint ou de premier auditeur ou de premier référendaire au Conseil d'Etat; c) soit de juge ou de référendaire à la Cour constitutionnelle; d) soit de professeur ordinaire, de professeur extraordinaire, de professeur ou de professeur associé de droit dans une université belge; e) soit de président, de procureur général, ou de conseiller à la cour d'appel; f) soit de président d'un tribunal de première instance;:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li></ol><p class=\"closing-text\">ne plus être au moment de sa nomination à la Commission, membre du Parlement wallon, du Parlement de la Communauté française ou de l'Assemblée de la Commission communautaire française; 3° avoir été pendant trois ans au moins, et ne plus être au moment de sa nomination à la Commission, un mandataire public tel que visé à l'article 1, 2° à 6°.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">La commission compte parmi ses membres six membres répondant aux conditions fixées au § 1er, 1°, et six membres répondant aux conditions fixées au § 1er,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">à</span></li></ol><p class=\"intro-text\">respecter le principe de la représentation proportionnelle sur l'ensemble des membres visés à l'article 7, § 1er,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">ou</span></li></ol><p class=\"intro-text\">a commission compte parmi ses membres six membres répondant aux conditions fixées au § 1er, 1°,<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"La commission compte parmi ses membres six membres répondant aux conditions fixées au § 1er, 1°, et six membres répondant aux conditions fixées au § 1er, 2° ou 3°, dont au moins un répondant aux conditions fixées au § 1er, 2°, et au moins une répondant aux conditions fixées au § 1er, 3°. Dans la mesure des candidatures reçues, il est veillé à respecter le principe de la représentation proportionnelle sur l'ensemble des membres visés à l'article 7, § 1er, 2° et 3°.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.7\" data-article-dossier-number=\"\">et six membres répondant aux conditions fixées au § 1er</span>,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li></ol><p class=\"intro-text\">au moins une répondant aux conditions fixées au § 1er, 3°. Dans la mesure des candidatures reçues,<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"La commission compte parmi ses membres six membres répondant aux conditions fixées au § 1er, 1°, et six membres répondant aux conditions fixées au § 1er, 2° ou 3°, dont au moins un répondant aux conditions fixées au § 1er, 2°, et au moins une répondant aux conditions fixées au § 1er, 3°. Dans la mesure des candidatures reçues, il est veillé à respecter le principe de la représentation proportionnelle sur l'ensemble des membres visés à l'article 7, § 1er, 2° et 3°.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.7\" data-article-dossier-number=\"\">il est veillé à respecter le principe de la représentation proportionnelle sur l'ensemble des membres visés à l'article 7</span>, § 1er,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li></ol></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">Un candidat dont la présentation est fondée sur les conditions fixées au § 1er, 1°, ne peut être présenté en vertu des conditions fixées au § 1er,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li></ol><p class=\"intro-text\">3°. Un candidat dont la présentation est fondée sur les conditions fixées au § 1er,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li></ol><p class=\"intro-text\">3°. Un candidat dont la présentation est fondée sur les conditions fixées au § 1er, 3°, ne peut être présenté en vertu des conditions fixées aux § 1er,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li></ol></div></section><section class=\"paragraph\" id=\"para-4\"><h3 class=\"paragraph-marker\">§ 4.</h3><div class=\"paragraph-content\"><p>Deux tiers au maximum des membres de la Commission sont du même sexe.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 4,
+                "provision_count": 9,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.267620"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 6, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 6",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.6"
+            },
+            {
+              "footnote_number": "2",
+              "footnote_content": "(2)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 7, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 7",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.7"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 163,
+              "referenced_text": "trois ans",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 trois ans]1"
+            },
+            {
+              "reference_number": "1",
+              "text_position": 837,
+              "referenced_text": "trois ans",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 trois ans]1"
+            },
+            {
+              "reference_number": "1",
+              "text_position": 1073,
+              "referenced_text": "trois ans",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 trois ans]1"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 1223,
+              "referenced_text": "La commission compte parmi ses membres six membres répondant aux conditions fixées au § 1er, 1°, et six membres répondant aux conditions fixées au § 1er, 2° ou 3°, dont au moins un répondant aux conditions fixées au § 1er, 2°, et au moins une répondant aux conditions fixées au § 1er, 3°. Dans la mesure des candidatures reçues, il est veillé à respecter le principe de la représentation proportionnelle sur l'ensemble des membres visés à l'article 7, § 1er, 2° et 3°.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 La commission compte parmi ses membres six membres répondant aux conditions fixées au § 1er, 1°, et six membres répondant aux conditions fixées au § 1er, 2° ou 3°, dont au moins un répondant aux conditions fixées au § 1er, 2°, et au moins une répondant aux conditions fixées au § 1er, 3°. Dans la mesure des candidatures reçues, il est veillé à respecter le principe de la représentation proportionnelle sur l'ensemble des membres visés à l'article 7, § 1er, 2° et 3°.]2"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 8",
+          "metadata": {
+            "article_range": "8",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "8",
+            "anchor_id": "art_8",
+            "content": {
+              "main_text_raw": "La qualité de membre de la Commission est incompatible avec l'exercice d'un mandat public tel que visé à l'article 1er ainsi qu'avec la qualité de membre d'un Gouvernement, d'un Parlement ou avec la qualité de mandataire local.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-8\"><header class=\"article-header\"><h2 class=\"article-number\">Article 8</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La qualité de membre de la Commission est incompatible avec l'exercice d'un mandat public tel que visé à l'article 1er ainsi qu'avec la qualité de membre d'un Gouvernement, d'un Parlement ou avec la qualité de mandataire local.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.267709"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 9",
+          "metadata": {
+            "article_range": "9",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "9",
+            "anchor_id": "art_9",
+            "content": {
+              "main_text_raw": "En cas de démission, empêchement de plus de trois réunions successives ou décès d'un membre de la Commission, il est pourvu à son remplacement par le Parlement wallon, le Parlement de la Communauté française et l'Assemblée de la Commission communautaire française, pour la durée restante du mandat à pourvoir, dans le respect des conditions prévues aux articles 5 à 8. Le membre remplaçant, désigné conformément à l'alinéa 1er, peut encore être désigné pour une période de cinq ans, renouvelable une fois, conformément à l'article 5.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-9\"><header class=\"article-header\"><h2 class=\"article-number\">Article 9</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>En cas de démission, empêchement de plus de trois réunions successives ou décès d'un membre de la Commission, il est pourvu à son remplacement par le Parlement wallon, le Parlement de la Communauté française et l'Assemblée de la Commission communautaire française, pour la durée restante du mandat à pourvoir, dans le respect des conditions prévues aux articles 5 à 8. Le membre remplaçant, désigné conformément à l'alinéa 1er, peut encore être désigné pour une période de cinq ans, renouvelable une fois, conformément à l'article 5.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.267832"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE V. Organisation",
+      "metadata": {
+        "title_type": "CHAPITRE V.",
+        "title_content": "Organisation",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 10",
+          "metadata": {
+            "article_range": "10",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "10",
+            "anchor_id": "art_10",
+            "content": {
+              "main_text_raw": "§ 1er. Les membres de la Commission élisent en leur sein un Président et un Vice-Président. § 2. Afin de faciliter le travail au sein de la Commission, il lui est laissé la faculté de s'organiser en chambre. Dans ce cas, chaque chambre comprend au moins un membre visé à l'article 7, § 1er, 1°, un membre visé à l'article 7, § 1er, 2°, et un membre visé à l'article 7, § 1er, 3°.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-10\"><header class=\"article-header\"><h2 class=\"article-number\">Article 10</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Les membres de la Commission élisent en leur sein un Président et un Vice-Président.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Afin de faciliter le travail au sein de la Commission, il lui est laissé la faculté de s'organiser en chambre. Dans ce cas, chaque chambre comprend au moins un membre visé à l'article 7, § 1er, 1°, un membre visé à l'article 7, § 1er, 2°, et un membre visé à l'article 7, § 1er, 3°.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.267972"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 11",
+          "metadata": {
+            "article_range": "11",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "11",
+            "anchor_id": "art_11",
+            "content": {
+              "main_text_raw": "La Commission établit son règlement d'ordre intérieur.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-11\"><header class=\"article-header\"><h2 class=\"article-number\">Article 11</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La Commission établit son règlement d'ordre intérieur.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.268039"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 12",
+          "metadata": {
+            "article_range": "12",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "12",
+            "anchor_id": "art_12",
+            "content": {
+              "main_text_raw": "La Commission rédige un rapport de ses activités qu'elle présente annuellement devant le Parlement wallon, le Parlement de la Communauté française et devant l'Assemblée de la Commission communautaire française. Les avis formulés en vertu de l'article 3, § 1er, alinéa 1er sont présentés dans le rapport d'activités de manière anonyme.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-12\"><header class=\"article-header\"><h2 class=\"article-number\">Article 12</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La Commission rédige un rapport de ses activités qu'elle présente annuellement devant le Parlement wallon, le Parlement de la Communauté française et devant l'Assemblée de la Commission communautaire française.<span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Les avis formulés en vertu de l'article 3, § 1er, alinéa 1er sont présentés dans le rapport d'activités de manière anonyme.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.8\" data-article-dossier-number=\"\">Les avis formulés en vertu de l'article 3, § 1er, alinéa 1er sont présentés dans le rapport d'activités de manière anonyme.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.268170"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 8, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 8",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.8"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 211,
+              "referenced_text": "Les avis formulés en vertu de l'article 3, § 1er, alinéa 1er sont présentés dans le rapport d'activités de manière anonyme.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Les avis formulés en vertu de l'article 3, § 1er, alinéa 1er sont présentés dans le rapport d'activités de manière anonyme.]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 13",
+          "metadata": {
+            "article_range": "13",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "13",
+            "anchor_id": "art_13",
+            "content": {
+              "main_text_raw": "Les membres de la Commission bénéficient d'un jeton de présence, pour la participation aux réunions de la Commission, dont le montant est fixé à 250 € pour le Président et 125 € pour les autres membres. Ces montants sont liés à l'indice-pivot 101,02 (base 2013) et évoluent de la même manière que celle prévue dans la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation, des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-13\"><header class=\"article-header\"><h2 class=\"article-number\">Article 13</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Les membres de la Commission bénéficient d'un jeton de présence, pour la participation aux réunions de la Commission, dont le montant est fixé à 250 € pour le Président et 125 € pour les autres membres.<span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Ces montants sont liés à l'indice-pivot 101,02 (base 2013) et évoluent de la même manière que celle prévue dans la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation, des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.9\" data-article-dossier-number=\"\">Ces montants sont liés à l'indice-pivot 101,02 (base 2013) et évoluent de la même manière que celle prévue dans la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation, des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.268356"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 9, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 9",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.9"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 203,
+              "referenced_text": "Ces montants sont liés à l'indice-pivot 101,02 (base 2013) et évoluent de la même manière que celle prévue dans la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation, des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Ces montants sont liés à l'indice-pivot 101,02 (base 2013) et évoluent de la même manière que celle prévue dans la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation, des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 14",
+          "metadata": {
+            "article_range": "14",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "14",
+            "anchor_id": "art_14",
+            "content": {
+              "main_text_raw": "Il est institué auprès de la Commission un secrétariat chargé des tâches techniques et administratives que lui confie le Président ou la Commission.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-14\"><header class=\"article-header\"><h2 class=\"article-number\">Article 14</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Il est institué auprès de la Commission un secrétariat chargé des tâches techniques et administratives que lui confie le Président ou la Commission.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.268436"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE VI. Procédure",
+      "metadata": {
+        "title_type": "CHAPITRE VI.",
+        "title_content": "Procédure",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 15",
+          "metadata": {
+            "article_range": "15",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "15",
+            "anchor_id": "art_15",
+            "content": {
+              "main_text_raw": "La Commission est saisie par une demande écrite d'avis ou de recommandation visée à l'article 3, adressée par pli recommandé au Président de la Commission.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-15\"><header class=\"article-header\"><h2 class=\"article-number\">Article 15</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La Commission est saisie par une demande écrite d'avis ou de recommandation visée à l'article 3, adressée par pli recommandé au Président de la Commission.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.268513"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 16",
+          "metadata": {
+            "article_range": "16",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "16",
+            "anchor_id": "art_16",
+            "content": {
+              "main_text_raw": "§ 1er. La Commission se réunit sur convocation du président, autant de fois et avec la fréquence que l'examen des avis et recommandations, qui lui sont soumis ou qu'elle entame d'initiative en vertu de l'article 3, l'exigent. Les réunions de la Commission ne sont pas publiques. Sous peine de démission d'office, les membres de la Commission sont tenus à la confidentialité des travaux. § 2. La Commission se réunit au minimum une fois par an, notamment en vue de l'élaboration de recommandations et de l'approbation de son rapport annuel.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-16\"><header class=\"article-header\"><h2 class=\"article-number\">Article 16</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>La Commission se réunit sur convocation du président, autant de fois et avec la fréquence que l'examen des avis et recommandations, qui lui sont soumis ou qu'elle entame d'initiative en vertu de l'article 3, l'exigent. Les réunions de la Commission ne sont pas publiques. Sous peine de démission d'office, les membres de la Commission sont tenus à la confidentialité des travaux.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>La Commission se réunit au minimum une fois par an, notamment en vue de l'élaboration de recommandations et de l'approbation de son rapport annuel.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.268724"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 17",
+          "metadata": {
+            "article_range": "17",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "17",
+            "anchor_id": "art_17",
+            "content": {
+              "main_text_raw": "La Commission ne peut valablement délibérer que si au moins la moitié des membres sont présents. La Commission prend ses décisions à la majorité des voix, la voix du Président étant prépondérante en cas de parité des voix.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-17\"><header class=\"article-header\"><h2 class=\"article-number\">Article 17</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La Commission ne peut valablement délibérer que si au moins la moitié des membres sont présents. La Commission prend ses décisions à la majorité des voix, la voix du Président étant prépondérante en cas de parité des voix.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.268827"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 18",
+          "metadata": {
+            "article_range": "18",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "18",
+            "anchor_id": "art_18",
+            "content": {
+              "main_text_raw": "Le mandataire public, ou le membre du Gouvernement wallon, du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française, qui demande un avis sur une question particulière le concernant, conformément à l'article 3, § 1er, peut demander à être entendu par la Commission. La Commission peut entendre toute personne qu'elle juge utile et faire appel à des experts.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-18\"><header class=\"article-header\"><h2 class=\"article-number\">Article 18</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le mandataire public, ou le membre du Gouvernement wallon, du Gouvernement de la Communauté française ou du Collège de la Commission communautaire française, qui demande un avis sur une question particulière le concernant, conformément à l'article 3, § 1er, peut demander à être entendu par la Commission. La Commission peut entendre toute personne qu'elle juge utile et faire appel à des experts.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.268926"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 19",
+          "metadata": {
+            "article_range": "19",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "19",
+            "anchor_id": "art_19",
+            "content": {
+              "main_text_raw": "§ 1er. La Commission rend son avis dans les soixante jours de la saisine. § 2. Les avis sont communiqués par pli recommandé au mandataire public concerné ou au membre du Gouvernement concerné. Le cas échéant, les avis sont communiqués par pli recommandé au Parlement qui a demandé l'avis, ou au Gouvernement qui a demandé l'avis ou au mandataire public, qui a demandé l'avis. § 3. Les avis et recommandations sont publiés, dix jours après leur communication, sur le site internet de la Commission. Les avis formulés à la demande d'un mandataire public sur une question particulière le concernant sont publiés de manière anonyme, avec le consentement préalable de la personne concernée.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-19\"><header class=\"article-header\"><h2 class=\"article-number\">Article 19</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>La Commission rend son avis dans les soixante jours de la saisine.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Les avis sont communiqués par pli recommandé au mandataire public concerné ou au membre du Gouvernement concerné. Le cas échéant, les avis sont communiqués par pli recommandé au Parlement qui a demandé l'avis, ou au Gouvernement qui a demandé l'avis ou au mandataire public, qui a demandé l'avis.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2024040441#Art.10\" data-article-dossier-number=\"\">Les avis sont communiqués par pli recommandé au mandataire public concerné ou au membre du Gouvernement concerné. Le cas échéant, les avis sont communiqués par pli recommandé au Parlement qui a demandé l'avis, ou au Gouvernement qui a demandé l'avis ou au mandataire public, qui a demandé l'avis.</span></p></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p>Les avis et recommandations sont publiés, dix jours après leur communication, sur le site internet de la Commission. Les avis formulés à la demande d'un mandataire public sur une question particulière le concernant sont publiés de manière anonyme, avec le consentement préalable de la personne concernée.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 3,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.269244"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 10, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 10",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.10"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 81,
+              "referenced_text": "Les avis sont communiqués par pli recommandé au mandataire public concerné ou au membre du Gouvernement concerné. Le cas échéant, les avis sont communiqués par pli recommandé au Parlement qui a demandé l'avis, ou au Gouvernement qui a demandé l'avis ou au mandataire public, qui a demandé l'avis.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Les avis sont communiqués par pli recommandé au mandataire public concerné ou au membre du Gouvernement concerné. Le cas échéant, les avis sont communiqués par pli recommandé au Parlement qui a demandé l'avis, ou au Gouvernement qui a demandé l'avis ou au mandataire public, qui a demandé l'avis.]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 21",
+          "metadata": {
+            "article_range": "21",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "21",
+            "anchor_id": "art_21",
+            "content": {
+              "main_text_raw": "(Ancien Art.20) Lorsque, dans l'exercice de leur fonction, la Commission ou l'un de ses membres acquièrent la connaissance d'un crime ou d'un délit, ils sont tenus d'en donner avis sur-le-champ au procureur du Roi près le tribunal dans le ressort duquel ce crime ou délit aura été commis ou dans lequel l'inculpé pourrait être trouvé, et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs, conformément à l'article 29 du Code d'instruction criminelle.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-21\"><header class=\"article-header\"><h2 class=\"article-number\">Article 21</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>(Ancien Art.20) Lorsque, dans l'exercice de leur fonction, la Commission ou l'un de ses membres acquièrent la connaissance d'un crime ou d'un délit, ils sont tenus d'en donner avis sur-le-champ au procureur du Roi près le tribunal dans le ressort duquel ce crime ou délit aura été commis ou dans lequel l'inculpé pourrait être trouvé, et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs, conformément à l'article 29 du Code d'instruction criminelle.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.269359"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE VII. Dispositions finales",
+      "metadata": {
+        "title_type": "CHAPITRE VII.",
+        "title_content": "Dispositions finales",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 22",
+          "metadata": {
+            "article_range": "22",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "22",
+            "anchor_id": "art_22",
+            "content": {
+              "main_text_raw": "(Ancien Art.21) Le présent accord est conclu pour une durée indéterminée.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-22\"><header class=\"article-header\"><h2 class=\"article-number\">Article 22</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>(Ancien Art.21) Le présent accord est conclu pour une durée indéterminée.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.269432"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 23",
+          "metadata": {
+            "article_range": "23",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "23",
+            "anchor_id": "art_23",
+            "content": {
+              "main_text_raw": "(Ancien Art.22) Les gouvernements de la Communauté française, de l'Assemblée de la Commission communautaire française et de la Région wallonne octroient les crédits nécessaires au fonctionnement de la commission de déontologie et d'éthique, en ce compris celui du personnel assurant son secrétariat, dans les dotations à leur Parlement. Les crédits sont répartis de la manière suivante: - 35% à charge du Parlement de la Communauté française; - 15% à charge de l'Assemblée de la Commission communautaire française; - 50% à charge du Parlement de Wallonie.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-23\"><header class=\"article-header\"><h2 class=\"article-number\">Article 23</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">(Ancien Art.22) Les gouvernements de la Communauté française, de l'Assemblée de la Commission communautaire française et de la Région wallonne octroient les crédits nécessaires au fonctionnement de la commission de déontologie et d'éthique, en ce compris celui du personnel assurant son secrétariat, dans les dotations à leur Parlement. Les crédits sont répartis de la manière suivante:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\">35% à charge du Parlement de la Communauté française</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">15% à charge de l'Assemblée de la Commission communautaire française</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">50% à charge du Parlement de Wallonie.</span></li></ul></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.269652"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 13, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 13",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.13"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 16,
+              "referenced_text": "Les gouvernements de la Communauté française, de l'Assemblée de la Commission communautaire française et de la Région wallonne octroient les crédits nécessaires au fonctionnement de la commission de déontologie et d'éthique, en ce compris celui du personnel assurant son secrétariat, dans les dotations à leur Parlement.  \nLes crédits sont répartis de la manière suivante :  \n\\- 35% à charge du Parlement de la Communauté française ;  \n\\- 15% à charge de l'Assemblée de la Commission communautaire française ;  \n\\- 50% à charge du Parlement de Wallonie.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Les gouvernements de la Communauté française, de l'Assemblée de la Commission communautaire française et de la Région wallonne octroient les crédits nécessaires au fonctionnement de la commission de déontologie et d'éthique, en ce compris celui du personnel assurant son secrétariat, dans les dotations à leur Parlement.  \nLes crédits sont répartis de la manière suivante :  \n\\- 35% à charge du Parlement de la Communauté française ;  \n\\- 15% à charge de l'Assemblée de la Commission communautaire française ;  \n\\- 50% à charge du Parlement de Wallonie.]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 23",
+          "metadata": {
+            "article_range": "23",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "23",
+            "anchor_id": "art_23",
+            "content": {
+              "main_text_raw": "Les crédits nécessaires au fonctionnement de la Commission sont inclus au budget des Dotations du Parlement wallon, du Parlement de la Communauté française et de l'Assemblée de la Commission communautaire française.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-23\"><header class=\"article-header\"><h2 class=\"article-number\">Article 23</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Les crédits nécessaires au fonctionnement de la Commission sont inclus au budget des Dotations du Parlement wallon, du Parlement de la Communauté française et de l'Assemblée de la Commission communautaire française.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.269741"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 24",
+          "metadata": {
+            "article_range": "24",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "24",
+            "anchor_id": "art_24",
+            "content": {
+              "main_text_raw": "Le siège de la commission est établi au siège du Parlement de la Communauté française. Le secrétariat de la commission est assuré conjointement par le Parlement de la Communauté française et par le Parlement wallon, selon les modalités fixées par l'accord de coopération visé à l'article 23. Les réunions de la commission se tiennent dans les locaux du Parlement de la Communauté française, de l'Assemblée de la Commission communautaire française ou du Parlement wallon, selon la décision de la commission.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-24\"><header class=\"article-header\"><h2 class=\"article-number\">Article 24</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le siège de la commission est établi au siège du Parlement de la Communauté française. Le secrétariat de la commission est assuré conjointement par le Parlement de la Communauté française et par le Parlement wallon, selon les modalités fixées par l'accord de coopération visé à l'article 23. Les réunions de la commission se tiennent dans les locaux du Parlement de la Communauté française, de l'Assemblée de la Commission communautaire française ou du Parlement wallon, selon la décision de la commission.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:56:18.269889"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<Inséré par DEC [2024-04-04/41](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441), art. 14, 002; En vigueur : 05-04-2024>",
+              "law_reference": {
+                "law_type": "DEC",
+                "date_reference": "2024-04-04/41",
+                "article_number": "art. 14",
+                "sequence_number": "002",
+                "full_reference": "DEC [2024-04-04/41]"
+              },
+              "effective_date": "05-04-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024040441#Art.14"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Le siège de la commission est établi au siège du Parlement de la Communauté française.  \nLe secrétariat de la commission est assuré conjointement par le Parlement de la Communauté française et par le Parlement wallon, selon les modalités fixées par l'accord de coopération visé à l'article 23.  \nLes réunions de la commission se tiennent dans les locaux du Parlement de la Communauté française, de l'Assemblée de la Commission communautaire française ou du Parlement wallon, selon la décision de la commission.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Le siège de la commission est établi au siège du Parlement de la Communauté française.  \nLe secrétariat de la commission est assuré conjointement par le Parlement de la Communauté française et par le Parlement wallon, selon les modalités fixées par l'accord de coopération visé à l'article 23.  \nLes réunions de la commission se tiennent dans les locaux du Parlement de la Communauté française, de l'Assemblée de la Commission communautaire française ou du Parlement wallon, selon la décision de la commission.]1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": [
+      {
+        "modification_type": "Décret (Bruxelles)",
+        "modification_date": "2024-04-04",
+        "publication_date": "2024-06-05",
+        "modified_articles": [
+          "1",
+          "3",
+          "7",
+          "12",
+          "13",
+          "19",
+          "20",
+          "21",
+          "22",
+          "24 Entrée en vigueur à déterminer."
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2024/06/05_1.pdf#Page261",
+        "full_title": "Décret (Bruxelles) du 04-04-2024 publié le 05-06-2024"
+      },
+      {
+        "modification_type": "Décret région wallonne",
+        "modification_date": "2024-03-14",
+        "publication_date": "2024-04-25",
+        "modified_articles": [
+          "1",
+          "3",
+          "7",
+          "12",
+          "13",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24 Entrée en vigueur à déterminer."
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2024/04/25_1.pdf#Page139",
+        "full_title": "Décret région wallonne du 14-03-2024 publié le 25-04-2024"
+      },
+      {
+        "modification_type": "Décret communauté française",
+        "modification_date": "2024-03-07",
+        "publication_date": "2024-04-04",
+        "modified_articles": [
+          "1",
+          "3",
+          "7",
+          "12",
+          "13",
+          "19",
+          "20",
+          "21",
+          "22",
+          "24 Entrée en vigueur à déterminer."
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2024/04/04_1.pdf#Page22",
+        "full_title": "Décret communauté française du 07-03-2024 publié le 04-04-2024"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-08-15T21:56:18.270058",
+    "source_file": "2014203549.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false,
+      "preamble_extracted": false,
+      "is_abrogated_document": false
+    }
+  }
+}

@@ -1,0 +1,792 @@
+{
+  "document_metadata": {
+    "document_number": "2009031518",
+    "title": "8 OCTOBRE 2009. - Arrêté du Gouvernement de la Région de Bruxelles-Capitale fixant la méthode et les conditions de mesure du champ électromagnétique émis par certaines antennes(NOTE : Consultation des versions antérieures à partir du 20-10-2009 et mise à jour au 09-07-2021)",
+    "publication_date": "2009-10-20",
+    "source": "Région de Bruxelles-Capitale",
+    "page_number": 68355,
+    "dossier_number": "2009-10-08/03",
+    "effective_date": "2009-10-20",
+    "end_validity_date": "",
+    "language": "fr",
+    "document_type": "ARRETE",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/arrete/2009/10/08/2009031518/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/2009/10/20_2.pdf#Page27",
+    "consolidated_pdf_url": "https://www.ejustice.just.fgov.be/img_l/pdf/2009/10/08/2009031518_F.pdf"
+  },
+  "preamble": "Le Gouvernement de la Région de Bruxelles-Capitale,  \nVu l'article 20 de la loi spéciale du 8 août 1980 de réformes institutionnelles;  \nVu l'ordonnance du 1er mars 2007 relative à la protection de l'environnement contre les éventuels effets nocifs et nuisances provoqués par les radiations non ionisantes, articles 3 et 7;  \nVu l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement et plus particulièrement ses articles 11bis et 16;  \nVu l'avis du Conseil de l'Environnement de la Région de Bruxelles-Capitale, donné le 11 mars 2009;  \nVu l'avis du Conseil économique et social pour la Région de Bruxelles-Capitale, donné le 19 mars 2009;  \nVu l'avis n° 47.068/1/V du Conseil d'Etat, donné le 25 août 2009, en application de l'article 84, § 1er, premier alinéa, 1° des lois sur le Conseil d'Etat coordonnées le 12 janvier 1973;  \nSur la proposition de la Ministre chargée de l'Environnement;  \nAprès délibération,  \nArrête :",
+  "abrogation_info": {},
+  "document_hierarchy": [
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE Ier. Définitions",
+      "metadata": {
+        "title_type": "CHAPITRE Ier.",
+        "title_content": "Définitions",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1er",
+          "metadata": {
+            "article_range": "1er",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1er",
+            "anchor_id": "art_1er",
+            "content": {
+              "main_text_raw": "Au sens du présent arrêté, on entend par: 1° Ordonnance: ordonnance du 1er mars 2007 relative à la protection de l'environnement contre les éventuels effets nocifs et nuisances provoqués par les radiations non ionisantes; 2° Champ électromagnétique global: champ généré par la superposition d'un ensemble de signaux électromagnétiques, chacun caractérisé par une bande de fréquence attribuée par l'Institut belge des Postes et Télécommunications. 3° Niveau de champ électrique: l'intensité du champ électrique exprimée en volt par mètre (V/m); 4° Moyenne quadratique, ou RMS (pour Root Mean Square) est définie de la manière suivante: (Formule non reprise pour des raisons techniques, voir M.B. du 20-10-2009, p. 68356) où x i est la valeur du signal i en V/m et n est le nombre total de signaux pris en considération durant la période de mesure. 5° Somme quadratique: la somme de différents signaux électromagnétiques définie en V/m par la relation: (Formule non reprise pour des raisons techniques, voir M.B. du 20-10-2009, p. 68356) où Xi est la valeur du signal i en V/m et n est le nombre total de signaux pris en considération; 6° Norme vectorielle: si Ef,x, Ef,y et Ef,z sont les valeurs en V/m des trois composantes du signal électromagnétique de bande de fréquence f suivant les directions x, y et z, la norme vectorielle de ce signal en V/m est donnée par la formule: (Formule non reprise pour des raisons techniques, voir M.B. du 20-10-2009, p. 68356) 7° Valeur absolue d'un champ électrique: la valeur en V/m donnée par la norme vectorielle des 3 composantes orthogonales en V/m du champ électrique qui le composent; 8° Antenne: système d'émission conçu pour émettre un signal de radio-télécommunication par ondes électromagnétiques. L'antenne peut être une antenne passive ou une antenne active; 9° Antenne passive: antenne dont le gain est fonction de la fréquence mais est indépendant du temps; 10° Antenne active: antenne dont le gain est fonction de la fréquence et du temps; 11° Appel du faisceau: un appel de données (vers une antenne 5G active) effectué par un smartphone configuré en mode de communication dit 5G. L'appel de données consiste au téléchargement continu d'un fichier suffisamment volumineux pour que ledit téléchargement puisse se poursuivre sans interruption pendant au moins 2 minutes.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "Ordonnance: ordonnance du 1er mars 2007 relative à la protection de l'environnement contre les éventuels effets nocifs et nuisances provoqués par les radiations non ionisantes",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "Champ électromagnétique global: champ généré par la superposition d'un ensemble de signaux électromagnétiques, chacun caractérisé par une bande de fréquence attribuée par l'Institut belge des Postes et Télécommunications.",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "Niveau de champ électrique: l'intensité du champ électrique exprimée en volt par mètre (V/m)",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "Moyenne quadratique, ou RMS (pour Root Mean Square) est définie de la manière suivante:",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "Somme quadratique: la somme de différents signaux électromagnétiques définie en V/m par la relation:",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "[2 Norme vectorielle",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "Valeur absolue d'un champ électrique: la valeur en V/m donnée par la [2 norme vectorielle",
+                  "sub_items": []
+                },
+                {
+                  "number": "8°",
+                  "text": "[2 Antenne: système d'émission conçu pour émettre un signal de radio-télécommunication par ondes électromagnétiques. L'antenne peut être une antenne passive ou une antenne active",
+                  "sub_items": []
+                },
+                {
+                  "number": "9°",
+                  "text": "[2 Antenne passive: antenne dont le gain est fonction de la fréquence mais est indépendant du temps",
+                  "sub_items": []
+                },
+                {
+                  "number": "10°",
+                  "text": "Antenne active: antenne dont le gain est fonction de la fréquence et du temps",
+                  "sub_items": []
+                },
+                {
+                  "number": "11°",
+                  "text": "Appel du faisceau: un appel de données (vers une antenne 5G active) effectué par un smartphone configuré en mode de communication dit 5G. L'appel de données consiste au téléchargement continu d'un fichier suffisamment volumineux pour que ledit téléchargement puisse se poursuivre sans interruption pendant au moins 2 minutes.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-1er\"><header class=\"article-header\"><h2 class=\"article-number\">Article 1er</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Au sens du présent arrêté, on entend par:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">Ordonnance: ordonnance du 1er mars 2007 relative à la protection de l'environnement contre les éventuels effets nocifs et nuisances provoqués par les radiations non ionisantes</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">Champ électromagnétique global: champ généré par la superposition d'un ensemble de signaux électromagnétiques, chacun caractérisé par une bande de fréquence attribuée par l'Institut belge des Postes et Télécommunications.</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">Niveau de champ électrique: l'intensité du champ électrique exprimée en volt par mètre (V/m)</span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">Moyenne quadratique, ou RMS (pour Root Mean Square) est définie de la manière suivante:</span></li><li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">Somme quadratique: la somme de différents signaux électromagnétiques définie en V/m par la relation:</span></li><li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">[2<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"Norme vectorielle\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021070115#Art.1\" data-article-dossier-number=\"\">Norme vectorielle</span></span></li><li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">Valeur absolue d'un champ électrique: la valeur en V/m donnée par la [2<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"norme vectorielle\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021070115#Art.1\" data-article-dossier-number=\"\">norme vectorielle</span></span></li><li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">[2 Antenne: système d'émission conçu pour émettre un signal de radio-télécommunication par ondes électromagnétiques. L'antenne peut être une antenne passive ou une antenne active</span></li><li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">[2 Antenne passive: antenne dont le gain est fonction de la fréquence mais est indépendant du temps</span></li><li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">Antenne active: antenne dont le gain est fonction de la fréquence et du temps</span></li><li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">Appel du faisceau: un appel de données (vers une antenne 5G active) effectué par un smartphone configuré en mode de communication dit 5G.<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"11° Appel du faisceau : un appel de données (vers une antenne 5G active) effectué par un smartphone configuré en mode de communication dit 5G. L'appel de données consiste au téléchargement continu d'un fichier suffisamment volumineux pour que ledit téléchargement puisse se poursuivre sans interruption pendant au moins 2 minutes.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021070115#Art.1\" data-article-dossier-number=\"\">L'appel de données consiste au téléchargement continu d'un fichier suffisamment volumineux pour que ledit téléchargement puisse se poursuivre sans interruption pendant au moins 2 minutes.</span></span></li></ol></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 11,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.107673"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<ARR [2014-04-03/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317), art. 7, 002; En vigueur : 15-05-2014>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2014-04-03/17",
+                "article_number": "art. 7",
+                "sequence_number": "002",
+                "full_reference": "ARR [2014-04-03/17]"
+              },
+              "effective_date": "15-05-2014",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317#Art.7"
+            },
+            {
+              "footnote_number": "2",
+              "footnote_content": "(2)<ARR [2021-07-01/15](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021070115), art. 1, 003; En vigueur : 19-07-2021>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2021-07-01/15",
+                "article_number": "art. 1",
+                "sequence_number": "003",
+                "full_reference": "ARR [2021-07-01/15]"
+              },
+              "effective_date": "19-07-2021",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021070115",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021070115#Art.1"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "2",
+              "text_position": 1162,
+              "referenced_text": "Norme vectorielle",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 Norme vectorielle]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 1315,
+              "referenced_text": "les directions x, y et z, la norme vectorielle de ce signal en V/m est",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 les directions x, y et z, la norme vectorielle de ce signal en V/m est]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 1576,
+              "referenced_text": "norme vectorielle",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 norme vectorielle]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 1680,
+              "referenced_text": "Antenne : système d'émission conçu pour émettre un signal de radio-télécommunication par ondes électromagnétiques. L'antenne peut être une antenne passive ou une antenne active;",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 Antenne : système d'émission conçu pour émettre un signal de radio-télécommunication par ondes électromagnétiques. L'antenne peut être une antenne passive ou une antenne active;]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 1868,
+              "referenced_text": "Antenne passive : antenne dont le gain est fonction de la fréquence mais est indépendant du temps;",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 Antenne passive : antenne dont le gain est fonction de la fréquence mais est indépendant du temps;]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 1974,
+              "referenced_text": "10° Antenne active : antenne dont le gain est fonction de la fréquence et du temps;",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 10° Antenne active : antenne dont le gain est fonction de la fréquence et du temps;]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 2065,
+              "referenced_text": "11° Appel du faisceau : un appel de données (vers une antenne 5G active) effectué par un smartphone configuré en mode de communication dit 5G. L'appel de données consiste au téléchargement continu d'un fichier suffisamment volumineux pour que ledit téléchargement puisse se poursuivre sans interruption pendant au moins 2 minutes.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 11° Appel du faisceau : un appel de données (vers une antenne 5G active) effectué par un smartphone configuré en mode de communication dit 5G. L'appel de données consiste au téléchargement continu d'un fichier suffisamment volumineux pour que ledit téléchargement puisse se poursuivre sans interruption pendant au moins 2 minutes.]2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE II. Mesure du champ électrique",
+      "metadata": {
+        "title_type": "CHAPITRE II.",
+        "title_content": "Mesure du champ électrique",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 2/1",
+          "metadata": {
+            "article_range": "2/1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2/1",
+            "anchor_id": "art_2/1",
+            "content": {
+              "main_text_raw": "ancien art. 2 Mise en place du dispositif de mesure. La mesure du champ électrique visé par l'ordonnance, en un point donné, est réalisée à l'aide de l'appareillage de mesure tel que décrit à l'article 6. La sonde est fixée à un support et se trouve à 1,50 m de hauteur. Il convient de tenir la sonde à une distance au moins égale à 0,5 m des murs et 2 m des personnes",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-2/1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2/1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"ancien art. 2\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040317#Art.8\" data-article-dossier-number=\"\">ancien art. 2</span>Mise en place du dispositif de mesure. La mesure du champ électrique visé par l'ordonnance, en un point donné, est réalisée à l'aide de l'appareillage de mesure tel que décrit à l'article 6. La sonde est fixée à un support et se trouve à 1,50 m de hauteur. Il convient de tenir la sonde à une distance au moins égale à 0,5 m des murs et 2 m des personnes</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.107814"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<ARR [2014-04-03/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317), art. 8, 002; En vigueur : 15-05-2014>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2014-04-03/17",
+                "article_number": "art. 8",
+                "sequence_number": "002",
+                "full_reference": "ARR [2014-04-03/17]"
+              },
+              "effective_date": "15-05-2014",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317#Art.8"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "ancien art. 2",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1]ancien art. 2][1]"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 2/2",
+          "metadata": {
+            "article_range": "2/2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2/2",
+            "anchor_id": "art_2/2",
+            "content": {
+              "main_text_raw": "Lorsque la fréquence du signal est inférieure à 300 MHz, tant la partie magnétique que la partie électrique du champ sont mesurées.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-2/2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2/2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Lorsque la fréquence du signal est inférieure à 300 MHz, tant la partie magnétique que la partie électrique du champ sont mesurées.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040317#Art.8\" data-article-dossier-number=\"\">Lorsque la fréquence du signal est inférieure à 300 MHz, tant la partie magnétique que la partie électrique du champ sont mesurées.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.107915"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<Inséré par ARR [2014-04-03/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317), art. 8, 002; En vigueur : 15-05-2014>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2014-04-03/17",
+                "article_number": "art. 8",
+                "sequence_number": "002",
+                "full_reference": "ARR [2014-04-03/17]"
+              },
+              "effective_date": "15-05-2014",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317#Art.8"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Lorsque la fréquence du signal est inférieure à 300 MHz, tant la partie magnétique que la partie électrique du champ sont mesurées.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Lorsque la fréquence du signal est inférieure à 300 MHz, tant la partie magnétique que la partie électrique du champ sont mesurées.]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 2/3",
+          "metadata": {
+            "article_range": "2/3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2/3",
+            "anchor_id": "art_2/3",
+            "content": {
+              "main_text_raw": "Les signaux de technologie UMTS et LTE sont mesurés par intégration de la totalité du signal.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-2/3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2/3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Les signaux de technologie UMTS et LTE sont mesurés par intégration de la totalité du signal.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040317#Art.9\" data-article-dossier-number=\"\">Les signaux de technologie UMTS et LTE sont mesurés par intégration de la totalité du signal.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.108007"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<Inséré par ARR [2014-04-03/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317), art. 9, 002; En vigueur : 15-05-2014>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2014-04-03/17",
+                "article_number": "art. 9",
+                "sequence_number": "002",
+                "full_reference": "ARR [2014-04-03/17]"
+              },
+              "effective_date": "15-05-2014",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317#Art.9"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Les signaux de technologie UMTS et LTE sont mesurés par intégration de la totalité du signal.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Les signaux de technologie UMTS et LTE sont mesurés par intégration de la totalité du signal.]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "metadata": {
+            "article_range": "3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3",
+            "anchor_id": "art_3",
+            "content": {
+              "main_text_raw": "Mesure du niveau maximum des différents signaux en un point donné et durant une période de mesure donnée.... L'ensemble des signaux du champ électrique présents au droit du point considéré est mesuré dans trois directions orthogonales tel que chaque technologie (par exemple GSM, GSMR, DCS, UMTS, LTE, TETRA, 5G-NR -antennes passives et antennes actives-,...) fasse l'objet d'une mesure d'au moins deux minutes par opérateur du réseau de téléphonie mobile (dénommé ci-après opérateur). Au moment de la mesure des signaux de la 5G émis par une ou plusieurs antennes actives, l'analyseur de spectre mesure tour à tour le spectre 5G correspondant à chaque opérateur et l'agent chargé de la surveillance peut procéder à l'appel du faisceau de l'opérateur dont la mesure est en cours. Un filtre est utilisé par l'analyseur de spectre pour ne conserver que les signaux de bande de fréquence conformément à l'article 4, § 1er. Les valeurs du champ électrique sont mesurées pour chaque période à l'aide d'un détecteur RMS en mode moyenne. La norme vectorielle maximale des trois composantes orthogonales de chaque signal (obtenue en RMS) est calculée pour obtenir les valeurs absolues moyennes de chaque signal considéré Conformément à l'article 3, § 1er, de l'ordonnance, la valeur absolue du champ total à considérer est calculée telle que: - pour chaque opérateur dont les signaux sont présents au droit du point de mesure, on calcule le rapport (en %) entre la valeur mesurée (en W/m2) et la limite légale (en W/m2), et ce, pour chacune des bandes de fréquences de ces signaux; - pour vérifier le respect de la norme en vigueur, la somme de tous ces rapports est effectuée. Celle-ci ne doit pas dépasser la limite des 100 %; - pour vérifier un quota (d'un opérateur donné dont les signaux sont présents au droit du point de mesure), la somme des rapports relatifs à toutes les bandes de fréquences de cet opérateur est effectuée. Cette somme ne peut pas dépasser la valeur dudit quota.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Mesure du niveau maximum des différents signaux en un point donné et durant une période de mesure donnée<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"...\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021070115#Art.2\" data-article-dossier-number=\"\">...</span>. L'ensemble des signaux du champ électrique présents au droit du point considéré est mesuré dans trois directions orthogonales tel que chaque technologie (par exemple GSM, GSMR, DCS, UMTS, LTE, TETRA, 5G-NR -antennes passives et antennes actives-,...) fasse l'objet d'une mesure d'au moins deux minutes par opérateur du réseau de téléphonie mobile (dénommé ci-après opérateur). Au moment de la mesure des signaux de la 5G émis par une ou plusieurs antennes actives, l'analyseur de spectre mesure tour à tour le spectre 5G correspondant à chaque opérateur et l'agent chargé de la surveillance peut procéder à l'appel du faisceau de l'opérateur dont la mesure est en cours. Un filtre est utilisé par l'analyseur de spectre pour ne conserver que les signaux de bande de fréquence conformément à l'article 4, § 1er. Les valeurs du champ électrique sont mesurées pour chaque période à l'aide d'un détecteur RMS en mode moyenne. La<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"norme vectorielle maximale\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021070115#Art.2\" data-article-dossier-number=\"\">norme vectorielle maximale</span>des trois composantes orthogonales de chaque signal (obtenue en RMS) est calculée pour obtenir les valeurs absolues moyennes de chaque signal considéré Conformément à l'article 3, § 1er, de l'ordonnance, la valeur absolue du champ total à considérer est calculée telle que:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\">pour chaque opérateur dont les signaux sont présents au droit du point de mesure,<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"Conformément à l'article 3, § 1er, de l'ordonnance, la valeur absolue du champ total à considérer est calculée telle que : \\- pour chaque opérateur dont les signaux sont présents au droit du point de mesure, on calcule le rapport (en %) entre la valeur mesurée (en W/m2) et la limite légale (en W/m2), et ce, pour chacune des bandes de fréquences de ces signaux; \\- pour vérifier le respect de la norme en vigueur, la somme de tous ces rapports est effectuée. Celle-ci ne doit pas dépasser la limite des 100 %; \\- pour vérifier un quota (d'un opérateur donné dont les signaux sont présents au droit du point de mesure), la somme des rapports relatifs à toutes les bandes de fréquences de cet opérateur est effectuée. Cette somme ne peut pas dépasser la valeur dudit quota.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021070115#Art.2\" data-article-dossier-number=\"\">on calcule le rapport (en %) entre la valeur mesurée (en W/m2) et la limite légale (en W/m2)</span>, et ce, pour chacune des bandes de fréquences de ces signaux</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">pour vérifier le respect de la norme en vigueur, la somme de tous ces rapports est effectuée.</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">pour vérifier un quota (d'un opérateur donné dont les signaux sont présents au droit du point de mesure), la somme des rapports relatifs à toutes les bandes de fréquences de cet opérateur est effectuée.</span></li></ul><div class=\"closing-text\"><p>Cette somme ne peut pas dépasser la valeur dudit quota.</p></div></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.108569"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<ARR [2014-04-03/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317), art. 10, 002; En vigueur : 15-05-2014>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2014-04-03/17",
+                "article_number": "art. 10",
+                "sequence_number": "002",
+                "full_reference": "ARR [2014-04-03/17]"
+              },
+              "effective_date": "15-05-2014",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317#Art.10"
+            },
+            {
+              "footnote_number": "2",
+              "footnote_content": "(2)<ARR [2021-07-01/15](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021070115), art. 2, 003; En vigueur : 19-07-2021>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2021-07-01/15",
+                "article_number": "art. 2",
+                "sequence_number": "003",
+                "full_reference": "ARR [2021-07-01/15]"
+              },
+              "effective_date": "19-07-2021",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021070115",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2021070115#Art.2"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "2",
+              "text_position": 108,
+              "referenced_text": "...",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 ...]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 119,
+              "referenced_text": "L'ensemble des signaux du champ électrique présents au droit du point considéré est mesuré dans trois directions orthogonales tel que chaque technologie (par exemple GSM, GSMR, DCS, UMTS, LTE, TETRA, 5G-NR -antennes passives et antennes actives-, ...) fasse l'objet d'une mesure d'au moins deux minutes par opérateur du réseau de téléphonie mobile (dénommé ci-après opérateur). Au moment de la mesure des signaux de la 5G émis par une ou plusieurs antennes actives, l'analyseur de spectre mesure tour à tour le spectre 5G correspondant à chaque opérateur et l'agent chargé de la surveillance peut procéder à l'appel du faisceau de l'opérateur dont la mesure est en cours. Un filtre est utilisé par l'analyseur de spectre pour ne conserver que les signaux de bande de fréquence conformément à l'article 4, § 1er.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 L'ensemble des signaux du champ électrique présents au droit du point considéré est mesuré dans trois directions orthogonales tel que chaque technologie (par exemple GSM, GSMR, DCS, UMTS, LTE, TETRA, 5G-NR -antennes passives et antennes actives-, ...) fasse l'objet d'une mesure d'au moins deux minutes par opérateur du réseau de téléphonie mobile (dénommé ci-après opérateur). Au moment de la mesure des signaux de la 5G émis par une ou plusieurs antennes actives, l'analyseur de spectre mesure tour à tour le spectre 5G correspondant à chaque opérateur et l'agent chargé de la surveillance peut procéder à l'appel du faisceau de l'opérateur dont la mesure est en cours. Un filtre est utilisé par l'analyseur de spectre pour ne conserver que les signaux de bande de fréquence conformément à l'article 4, § 1er.]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 1054,
+              "referenced_text": "norme vectorielle maximale",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 norme vectorielle maximale]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 1240,
+              "referenced_text": "Conformément à l'article 3, § 1er, de l'ordonnance, la valeur absolue du champ total à considérer est calculée telle que :  \n\\- pour chaque opérateur dont les signaux sont présents au droit du point de mesure, on calcule le rapport (en %) entre la valeur mesurée (en W/m2) et la limite légale (en W/m2), et ce, pour chacune des bandes de fréquences de ces signaux;  \n\\- pour vérifier le respect de la norme en vigueur, la somme de tous ces rapports est effectuée. Celle-ci ne doit pas dépasser la limite des 100 %;  \n\\- pour vérifier un quota (d'un opérateur donné dont les signaux sont présents au droit du point de mesure), la somme des rapports relatifs à toutes les bandes de fréquences de cet opérateur est effectuée. Cette somme ne peut pas dépasser la valeur dudit quota.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 Conformément à l'article 3, § 1er, de l'ordonnance, la valeur absolue du champ total à considérer est calculée telle que :  \n\\- pour chaque opérateur dont les signaux sont présents au droit du point de mesure, on calcule le rapport (en %) entre la valeur mesurée (en W/m2) et la limite légale (en W/m2), et ce, pour chacune des bandes de fréquences de ces signaux;  \n\\- pour vérifier le respect de la norme en vigueur, la somme de tous ces rapports est effectuée. Celle-ci ne doit pas dépasser la limite des 100 %;  \n\\- pour vérifier un quota (d'un opérateur donné dont les signaux sont présents au droit du point de mesure), la somme des rapports relatifs à toutes les bandes de fréquences de cet opérateur est effectuée. Cette somme ne peut pas dépasser la valeur dudit quota.]2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE III. Calcul du niveau maximum des signaux [1 ...]1 en un point donné et durant une période de mesure donnée",
+      "metadata": {
+        "title_type": "CHAPITRE III.",
+        "title_content": "Calcul du niveau maximum des signaux [1 ...]1 en un point donné et durant une période de mesure donnée",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 4",
+          "metadata": {
+            "article_range": "4",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4",
+            "anchor_id": "art_4",
+            "content": {
+              "main_text_raw": "Sélection des signaux pertinents pour la mesure § 1er. Le filtre de sélection de fréquence utilisé par l'analyseur de spectre est défini pour isoler et mesurer indépendamment chacune des bandes de fréquence entrant dans le champ d'application de l'ordonnance. § 2....",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-4\"><header class=\"article-header\"><h2 class=\"article-number\">Article 4</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Le filtre de sélection de fréquence utilisé par l'analyseur de spectre est défini pour isoler et mesurer indépendamment chacune des bandes de fréquence entrant dans le champ d'application de l'ordonnance.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"...\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040317#Art.11\" data-article-dossier-number=\"\">...</span></p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.108726"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<ARR [2014-04-03/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317), art. 11, 002; En vigueur : 15-05-2014>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2014-04-03/17",
+                "article_number": "art. 11",
+                "sequence_number": "002",
+                "full_reference": "ARR [2014-04-03/17]"
+              },
+              "effective_date": "15-05-2014",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317#Art.11"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 269,
+              "referenced_text": "...",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 ...]1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE IV. [1 Champs composés]1",
+      "metadata": {
+        "title_type": "CHAPITRE IV.",
+        "title_content": "[1 Champs composés]1",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 5",
+          "metadata": {
+            "article_range": "5",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "5",
+            "anchor_id": "art_5",
+            "content": {
+              "main_text_raw": "Pour les technologies GSM900, DCS 1800, UMTS et LTE, les valeurs de densités maximales, définies à l'article 3 de l'ordonnance, sont calculées à 800, 900, 1800, 2100, 2600 et 3500 MHz selon la bande de fréquence utilisée par la technologie.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-5\"><header class=\"article-header\"><h2 class=\"article-number\">Article 5</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Pour les technologies GSM900, DCS 1800, UMTS et LTE, les valeurs de densités maximales, définies à l'article 3 de l'ordonnance, sont calculées à 800, 900, 1800, 2100, 2600 et 3500 MHz selon la bande de fréquence utilisée par la technologie.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040317#Art.13\" data-article-dossier-number=\"\">Pour les technologies GSM900, DCS 1800, UMTS et LTE, les valeurs de densités maximales, définies à l'article 3 de l'ordonnance, sont calculées à 800, 900, 1800, 2100, 2600 et 3500 MHz selon la bande de fréquence utilisée par la technologie.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.108837"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<ARR [2014-04-03/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317), art. 13, 002; En vigueur : 15-05-2014>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2014-04-03/17",
+                "article_number": "art. 13",
+                "sequence_number": "002",
+                "full_reference": "ARR [2014-04-03/17]"
+              },
+              "effective_date": "15-05-2014",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317#Art.13"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Pour les technologies GSM900, DCS 1800, UMTS et LTE, les valeurs de densités maximales, définies à l'article 3 de l'ordonnance, sont calculées à 800, 900, 1800, 2100, 2600 et 3500 MHz selon la bande de fréquence utilisée par la technologie.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Pour les technologies GSM900, DCS 1800, UMTS et LTE, les valeurs de densités maximales, définies à l'article 3 de l'ordonnance, sont calculées à 800, 900, 1800, 2100, 2600 et 3500 MHz selon la bande de fréquence utilisée par la technologie.]1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE V. Des caractéristiques des appareils de mesure",
+      "metadata": {
+        "title_type": "CHAPITRE V.",
+        "title_content": "Des caractéristiques des appareils de mesure",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 6",
+          "metadata": {
+            "article_range": "6",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "6",
+            "anchor_id": "art_6",
+            "content": {
+              "main_text_raw": "§ 1er. L'appareillage de mesure se compose d'un analyseur de spectre permettant la sélection des signaux visés par l'ordonnance et d'une ou plusieurs antenne(s) triaxiale(s) ayant une largeur de bande suffisante pour l'acquisition de signaux visés par l'ordonnance. § 2. L'appareil de mesure doit être calibré une fois par an avec un maximum de 15 mois entre deux calibrations.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-6\"><header class=\"article-header\"><h2 class=\"article-number\">Article 6</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>L'appareillage de mesure se compose d'un analyseur de spectre permettant la sélection des signaux visés par l'ordonnance et d'une ou plusieurs antenne(s) triaxiale(s) ayant une largeur de bande suffisante pour l'acquisition de signaux visés par l'ordonnance.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>L'appareil de mesure doit être calibré une fois par an avec un maximum de 15 mois entre deux calibrations.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.108968"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE VI. Contrôle des appareils et installations",
+      "metadata": {
+        "title_type": "CHAPITRE VI.",
+        "title_content": "Contrôle des appareils et installations",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 7",
+          "metadata": {
+            "article_range": "7",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "7",
+            "anchor_id": "art_7",
+            "content": {
+              "main_text_raw": "Les conditions générales minimales auxquelles doivent satisfaire les personnes, laboratoires ou organismes privés ou publics conformément à l'article 7 de l'ordonnance sont: - soit: de disposer d'une connaissance approfondie de l'électromagnétisme attestée par un diplôme; - soit: de disposer d'une expérience attestée de 3 ans minimum; - soit: de faire partie d'une administration dont les compétences en matières de radiations non-ionisantes sont reconnues; Et disposer d'un équipement technique adéquat répondant au minimum aux exigences décrites à l'article 6 et employé pour effectuer les mesures.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-7\"><header class=\"article-header\"><h2 class=\"article-number\">Article 7</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Les conditions générales minimales auxquelles doivent satisfaire les personnes, laboratoires ou organismes privés ou publics conformément à l'article 7 de l'ordonnance sont:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\">soit: de disposer d'une connaissance approfondie de l'électromagnétisme attestée par un diplôme</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">soit: de disposer d'une expérience attestée de 3 ans minimum</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">soit: de faire partie d'une administration dont les compétences en matières de radiations non-ionisantes sont reconnues; Et disposer d'un équipement technique adéquat répondant au minimum aux exigences décrites à l'article 6 et employé pour effectuer les mesures.</span></li></ul></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.109121"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE VII. [1 Rapport de mesures]1",
+      "metadata": {
+        "title_type": "CHAPITRE VII.",
+        "title_content": "[1 Rapport de mesures]1",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 8",
+          "metadata": {
+            "article_range": "8",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "8",
+            "anchor_id": "art_8",
+            "content": {
+              "main_text_raw": "Sans préjudice des dispositions fixées par l'article 17 de l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement, le Ministre en charge de l'Environnement peut compléter ou préciser les indications consignées dans le rapport de mesures.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-8\"><header class=\"article-header\"><h2 class=\"article-number\">Article 8</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Sans préjudice des dispositions fixées par l'article 17 de l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement, le Ministre en charge de l'Environnement peut compléter ou préciser les indications consignées dans le rapport de mesures.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014040317#Art.14\" data-article-dossier-number=\"\">Sans préjudice des dispositions fixées par l'article 17 de l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement, le Ministre en charge de l'Environnement peut compléter ou préciser les indications consignées dans le rapport de mesures.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.109241"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<Inséré par ARR [2014-04-03/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317), art. 14, 002; En vigueur : 15-05-2014>",
+              "law_reference": {
+                "law_type": "ARR",
+                "date_reference": "2014-04-03/17",
+                "article_number": "art. 14",
+                "sequence_number": "002",
+                "full_reference": "ARR [2014-04-03/17]"
+              },
+              "effective_date": "15-05-2014",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014040317#Art.14"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Sans préjudice des dispositions fixées par l'article 17 de l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement, le Ministre en charge de l'Environnement peut compléter ou préciser les indications consignées dans le rapport de mesures.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Sans préjudice des dispositions fixées par l'article 17 de l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement, le Ministre en charge de l'Environnement peut compléter ou préciser les indications consignées dans le rapport de mesures.]1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE VII. Disposition finale",
+      "metadata": {
+        "title_type": "CHAPITRE VII.",
+        "title_content": "Disposition finale",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 8",
+          "metadata": {
+            "article_range": "8",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "8",
+            "anchor_id": "art_8",
+            "content": {
+              "main_text_raw": "Le présent arrêté entre en vigueur à la date de sa publication au Moniteur belge.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-8\"><header class=\"article-header\"><h2 class=\"article-number\">Article 8</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le présent arrêté entre en vigueur à la date de sa publication au Moniteur belge.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:43:39.109313"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": [
+      {
+        "modification_type": "Arrêté (Bruxelles)",
+        "modification_date": "2021-07-01",
+        "publication_date": "2021-07-09",
+        "modified_articles": [
+          "1",
+          "3"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2021/07/09_1.pdf#Page846",
+        "full_title": "Arrêté (Bruxelles) du 01-07-2021 publié le 09-07-2021"
+      },
+      {
+        "modification_type": "Arrêté (Bruxelles)",
+        "modification_date": "2014-04-03",
+        "publication_date": "2014-04-30",
+        "modified_articles": [
+          "1",
+          "2",
+          "2/2",
+          "2/3",
+          "3",
+          "4",
+          "5",
+          "8"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2014/04/30_1.pdf#Page243",
+        "full_title": "Arrêté (Bruxelles) du 03-04-2014 publié le 30-04-2014"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-08-15T21:43:39.109429",
+    "source_file": "2009031518.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false,
+      "preamble_extracted": true,
+      "is_abrogated_document": false
+    }
+  }
+}

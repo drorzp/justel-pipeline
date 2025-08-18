@@ -1,0 +1,1055 @@
+{
+  "document_metadata": {
+    "document_number": "1996003316",
+    "title": "10 JUILLET 1996. - Loi contenant le premier ajustement du Budget général des dépenses de l'année budgétaire 1996. (NOTE : Consultation des versions antérieures à partir du 21-08-1996 et mise à jour au 04-03-1998)",
+    "publication_date": "1996-08-21",
+    "source": "Finances",
+    "page_number": 21852,
+    "dossier_number": "1996-07-10/41",
+    "effective_date": "1996-08-31",
+    "end_validity_date": "",
+    "language": "fr",
+    "document_type": "LOI",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/loi/1996/07/10/1996003316/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/1996/08/21_1.pdf#Page52",
+    "consolidated_pdf_url": ""
+  },
+  "preamble": "ALBERT II, Roi des Belges,  \nA tous, présents et à venir, Salut.  \nLa Chambre des représentants a adopté et Nous sanctionnons ce qui suit :",
+  "abrogation_info": {},
+  "document_hierarchy": [
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE I. Dispositions générales.",
+      "metadata": {
+        "title_type": "CHAPITRE I.",
+        "title_content": "Dispositions générales.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1.00.1",
+          "metadata": {
+            "article_range": "1.00.1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1.00.1",
+            "anchor_id": "art_1.00.1",
+            "content": {
+              "main_text_raw": "La présente loi règle une matière visée à l'article 74, 3 de la Constitution.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-1-00-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 1.00.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>La présente loi règle une matière visée à l'article 74, 3 de la Constitution.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:21:37.646815"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 1.00.2",
+          "metadata": {
+            "article_range": "1.00.2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1.00.2",
+            "anchor_id": "art_1.00.2",
+            "content": {
+              "main_text_raw": "Le Budget général des dépenses pour l'année budgétaire 1996 est ajusté: 1° en ce qui concerne les crédits prévus pour les dotations, conformément au tableau y afférent annexé à la présente loi; 2° en ce qui concerne les crédits par programme, conformément aux totaux des programmes figurant dans les budgets administratifs ajustés, annexés à la présente loi.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "en ce qui concerne les crédits prévus pour les dotations, conformément au tableau y afférent annexé à la présente loi",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "en ce qui concerne les crédits par programme, conformément aux totaux des programmes figurant dans les budgets administratifs ajustés, annexés à la présente loi.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-1-00-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 1.00.2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Le Budget général des dépenses pour l'année budgétaire 1996 est ajusté:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">en ce qui concerne les crédits prévus pour les dotations, conformément au tableau y afférent annexé à la présente loi</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">en ce qui concerne les crédits par programme, conformément aux totaux des programmes figurant dans les budgets administratifs ajustés, annexés à la présente loi.</span></li></ol></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 2,
+                "has_tables": true,
+                "generation_timestamp": "2025-08-15T21:21:37.647013"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE II. Dispositions particulières des départements.",
+      "metadata": {
+        "title_type": "CHAPITRE II.",
+        "title_content": "Dispositions particulières des départements.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "section",
+          "label": "SECTION 11. Services du Premier Ministre.",
+          "metadata": {
+            "title_type": "SECTION 11.",
+            "title_content": "Services du Premier Ministre.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.11.1",
+              "metadata": {
+                "article_range": "2.11.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.11.1",
+                "anchor_id": "art_2.11.1",
+                "content": {
+                  "main_text_raw": "Dans l'article 2.11.7 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 sont insérées les subventions suivantes: - au Programme 60/0 - Subsistance: subvention au service social des Services fédéraux des affaires scientifiques, techniques et culturelles; - au Programme 60/1 - R-D dans le cadre national: subvention destinée au recrutement de chercheurs supplémentaires au sein des universités et des établissements scientifiques fédéraux dans le cadre des mesures de soutien de la politique de recherche inscrite dans le plan pluriannuel pour l'emploi; - au Programme 60/3 - Etablissements scientifiques fédéraux et assimilés: subventions aux: - Centre d'informatique appelée au développement et à l'agriculture tropicale (CIDAT); - Service de documentation en agronomie tropicale et en développement rural (SERDAT).",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-11-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.11.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Dans l'article 2.11.7 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 sont insérées les subventions suivantes:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\">au Programme 60/0</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">Subsistance: subvention au service social des Services fédéraux des affaires scientifiques, techniques et culturelles</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">au Programme 60/1</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">R-D dans le cadre national: subvention destinée au recrutement de chercheurs supplémentaires au sein des universités et des établissements scientifiques fédéraux dans le cadre des mesures de soutien de la politique de recherche inscrite dans le plan pluriannuel pour l'emploi</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">au Programme 60/3</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">Etablissements scientifiques fédéraux et assimilés: subventions aux:</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">Centre d'informatique appelée au développement et à l'agriculture tropicale (CIDAT)</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">Service de documentation en agronomie tropicale et en développement rural (SERDAT).</span></li></ul></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.647217"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 12. Ministère de la Justice.",
+          "metadata": {
+            "title_type": "SECTION 12.",
+            "title_content": "Ministère de la Justice.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.12.1",
+              "metadata": {
+                "article_range": "2.12.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.12.1",
+                "anchor_id": "art_2.12.1",
+                "content": {
+                  "main_text_raw": "L'article 2.12.1 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 est remplacé par le texte suivant: Par dérogation à l'article 15 de la loi du 29 octobre 1846, relative à l'organisation de la Cour des comptes: a) des avances de fonds d'un montant maximum de 30.000.000 de francs peuvent être consenties aux comptables extraordinaires du Département. Au moyen de ces avances, les comptables extraordinaires du Département sont autorisés à payer tous les frais de service n'excédant pas 250.000 francs, ainsi que, quels qu'en soient les montants, les frais de consommation d'eau, gaz, électricité, téléphone, mazout et carburant pour voitures automobiles de même que les indemnités de toute nature allouées sur le budget et les frais encourus lorsque la responsabilité civile de l'Etat est engagée; b) des avances de fonds d'un montant maximum de 35.000.000 de francs peuvent être consenties aux comptables extraordinaires de la Comptabilité générale chargés du paiement des indemnités forfaitaires aux membres de la police judiciaire et de la Sûreté de l'Etat. Les comptables extraordinaires du Département chargés du paiement des avances sur frais de mission à l'étranger sont autorisés à consentir aux fonctionnaires envoyés en mission à l'étranger les avances nécessaires. Les comptables extraordinaires peuvent également consentir des avances aux officiers de liaison de la police judiciaire en poste à l'étranger pour leur permettre de payer les dépenses qu'ils effectuent, conformément aux règles en vigueur dans les pays concernés, quels qu'en soient les montants.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-12-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.12.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>L'article 2.12.1 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 est remplacé par le texte suivant: Par dérogation à l'article 15 de la loi du 29 octobre 1846, relative à l'organisation de la Cour des comptes: a) des avances de fonds d'un montant maximum de 30.000.000 de francs peuvent être consenties aux comptables extraordinaires du Département. Au moyen de ces avances, les comptables extraordinaires du Département sont autorisés à payer tous les frais de service n'excédant pas 250.000 francs, ainsi que, quels qu'en soient les montants, les frais de consommation d'eau, gaz, électricité, téléphone, mazout et carburant pour voitures automobiles de même que les indemnités de toute nature allouées sur le budget et les frais encourus lorsque la responsabilité civile de l'Etat est engagée; b) des avances de fonds d'un montant maximum de 35.000.000 de francs peuvent être consenties aux comptables extraordinaires de la Comptabilité générale chargés du paiement des indemnités forfaitaires aux membres de la police judiciaire et de la Sûreté de l'Etat. Les comptables extraordinaires du Département chargés du paiement des avances sur frais de mission à l'étranger sont autorisés à consentir aux fonctionnaires envoyés en mission à l'étranger les avances nécessaires. Les comptables extraordinaires peuvent également consentir des avances aux officiers de liaison de la police judiciaire en poste à l'étranger pour leur permettre de payer les dépenses qu'ils effectuent, conformément aux règles en vigueur dans les pays concernés, quels qu'en soient les montants.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": true,
+                    "generation_timestamp": "2025-08-15T21:21:37.647446"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.12.2",
+              "metadata": {
+                "article_range": "2.12.2",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.12.2",
+                "anchor_id": "art_2.12.2",
+                "content": {
+                  "main_text_raw": "L'article 2.12.5 de la même loi est remplacé par le texte suivant: Par dérogation à l'article 15 de la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes, des avances de fonds d'un montant maximum de 8.000.000 de francs peuvent être consenties aux comptables des brigades de la police judiciaire chargés du paiement des menues dépenses.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-12-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.12.2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>L'article 2.12.5 de la même loi est remplacé par le texte suivant: Par dérogation à l'article 15 de la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes, des avances de fonds d'un montant maximum de 8.000.000 de francs peuvent être consenties aux comptables des brigades de la police judiciaire chargés du paiement des menues dépenses.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": true,
+                    "generation_timestamp": "2025-08-15T21:21:37.647550"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.12.3",
+              "metadata": {
+                "article_range": "2.12.3",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.12.3",
+                "anchor_id": "art_2.12.3",
+                "content": {
+                  "main_text_raw": "A l'article 2.12.7 de la même loi, le texte mentionné sous le programme \"51/0 - Contrat avec le citoyen\" est remplacé par le texte suivant: PROGRAMME 51/0 - CONTRAT AVEC LE CITOYEN 1° Subsides à des organismes d'accueil et de guidance agissant dans le cadre des travaux d'intérêt général. 2° Subsides à des organismes chargés de l'accompagnement thérapeutique des auteurs d'agressions sexuelles.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "Subsides à des organismes d'accueil et de guidance agissant dans le cadre des travaux d'intérêt général.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "Subsides à des organismes chargés de l'accompagnement thérapeutique des auteurs d'agressions sexuelles.",
+                      "sub_items": []
+                    }
+                  ],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-12-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.12.3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">A l'article 2.12.7 de la même loi, le texte mentionné sous le programme &quot;51/0 - Contrat avec le citoyen&quot; est remplacé par le texte suivant: PROGRAMME 51/0 - CONTRAT AVEC LE CITOYEN:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">Subsides à des organismes d'accueil et de guidance agissant dans le cadre des travaux d'intérêt général.</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">Subsides à des organismes chargés de l'accompagnement thérapeutique des auteurs d'agressions sexuelles.</span></li></ol><p class=\"intro-text\">A l'article 2.12.7 de la même loi, le texte mentionné sous le programme &quot;51/0:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\">Contrat avec le citoyen&quot; est remplacé par le texte suivant: PROGRAMME 51/0</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">CONTRAT AVEC LE CITOYEN 1° Subsides à des organismes d'accueil et de guidance agissant dans le cadre des travaux d'intérêt général. 2° Subsides à des organismes chargés de l'accompagnement thérapeutique des auteurs d'agressions sexuelles.</span></li></ul></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 2,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.647779"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 13. Ministère de l'Intérieur.",
+          "metadata": {
+            "title_type": "SECTION 13.",
+            "title_content": "Ministère de l'Intérieur.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.13.1",
+              "metadata": {
+                "article_range": "2.13.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.13.1",
+                "anchor_id": "art_2.13.1",
+                "content": {
+                  "main_text_raw": "L'article 2.13.2 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 est complété comme suit: 4° Dépenses relatives au remboursement aux communes des traitements du personnel des centres de secours \"100\".",
+                  "numbered_provisions": [
+                    {
+                      "number": "4°",
+                      "text": "Dépenses relatives au remboursement aux communes des traitements du personnel des centres de secours \"100\".",
+                      "sub_items": []
+                    }
+                  ],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-13-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.13.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">L'article 2.13.2 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 est complété comme suit:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">Dépenses relatives au remboursement aux communes des traitements du personnel des centres de secours &quot;100&quot;.</span></li></ol></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 1,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.647921"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 15. Coopération au Développement.",
+          "metadata": {
+            "title_type": "SECTION 15.",
+            "title_content": "Coopération au Développement.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2",
+              "metadata": {
+                "article_range": "2",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2",
+                "anchor_id": "art_2",
+                "content": {
+                  "main_text_raw": "15.1. Le texte de l'article 2.15.5 de la loi du 24 novembre 1995 portant le Budget général des dépenses pour l'année budgétaire 1996 est modifié comme suit: - au PROGRAMME 54/1 le texte suivant est inséré: \"10° Subsides aux personnes et aux organisations non-gouvernementales en matière de mise au travail des jeunes demandeurs d'emploi dans des projets de coopération agréés; 11° Coopération avec des organisations non-gouvernementales locales et avec d'autres opérateurs en matière de coopération au développement.\" - au PROGRAMME 54/2 les alinéas 3° et 5° sont annulés. - au PROGRAMME 54/4 le texte est modifié comme suit: \"1° Dépenses de toute nature liées au programme de bourses d'études en Belgique et à l'étranger en faveur de ressortissants de pays en voie de développement. 2° Subventions à des institutions scientifiques belges pour la réalisation de projets et de programmes de recherche dans le domaine de la coopération au développement. 3° Dépenses pour la recherche en appui à la politique via le Vlaamse Interuniversitaire Raad et le Conseil interuniversitaire francophone. 4° Subside pour le secrétariat du Vlaamse Interuniversitaire Raad et du Conseil interuniversitaire francophone. 5° Allocation de fonctionnement aux institutions universitaires pour les étudiants des pays en voie de développement. 6° Initiatives des institutions universitaires en matière de programmes de formation et de congrès internationaux concernant la coopération au développement et voyages d'études d'étudiants vers les pays en voie de développement. 7° Programmes de coopération institutionnelle universitaire dans les pays en voie de développement. 8° Initiatives des institutions universitaires en matière de projets dans les pays en voie de développement.\"",
+                  "numbered_provisions": [
+                    {
+                      "number": "10°",
+                      "text": "Subsides aux personnes et aux organisations non-gouvernementales en matière de mise au travail des jeunes demandeurs d'emploi dans des projets de coopération agréés",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "11°",
+                      "text": "Coopération avec des organisations non-gouvernementales locales et avec d'autres opérateurs en matière de coopération au développement.\"",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "et",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "5°",
+                      "text": "sont annulés.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "1°",
+                      "text": "Dépenses de toute nature liées au programme de bourses d'études en Belgique et à l'étranger en faveur de ressortissants de pays en voie de développement.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "Subventions à des institutions scientifiques belges pour la réalisation de projets et de programmes de recherche dans le domaine de la coopération au développement.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "Dépenses pour la recherche en appui à la politique via le Vlaamse Interuniversitaire Raad et le Conseil interuniversitaire francophone.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "4°",
+                      "text": "Subside pour le secrétariat du Vlaamse Interuniversitaire Raad et du Conseil interuniversitaire francophone.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "5°",
+                      "text": "Allocation de fonctionnement aux institutions universitaires pour les étudiants des pays en voie de développement.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "6°",
+                      "text": "Initiatives des institutions universitaires en matière de programmes de formation et de congrès internationaux concernant la coopération au développement et voyages d'études d'étudiants vers les pays en voie de développement.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "7°",
+                      "text": "Programmes de coopération institutionnelle universitaire dans les pays en voie de développement.",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "8°",
+                      "text": "Initiatives des institutions universitaires en matière de projets dans les pays en voie de développement.\"",
+                      "sub_items": []
+                    }
+                  ],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">15.1. Le texte de l'article 2.15.5 de la loi du 24 novembre 1995 portant le Budget général des dépenses pour l'année budgétaire 1996 est modifié comme suit: - au PROGRAMME 54/1 le texte suivant est inséré: &quot;:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">Subsides aux personnes et aux organisations non-gouvernementales en matière de mise au travail des jeunes demandeurs d'emploi dans des projets de coopération agréés</span></li><li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">Coopération avec des organisations non-gouvernementales locales et avec d'autres opérateurs en matière de coopération au développement.&quot;</span></li></ol><p class=\"intro-text\">- au PROGRAMME 54/2 les alinéas:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li><li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">sont annulés.</span></li></ol><p class=\"intro-text\">- au PROGRAMME 54/4 le texte est modifié comme suit: &quot;:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">Dépenses de toute nature liées au programme de bourses d'études en Belgique et à l'étranger en faveur de ressortissants de pays en voie de développement.</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">Subventions à des institutions scientifiques belges pour la réalisation de projets et de programmes de recherche dans le domaine de la coopération au développement.</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">Dépenses pour la recherche en appui à la politique via le Vlaamse Interuniversitaire Raad et le Conseil interuniversitaire francophone.</span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">Subside pour le secrétariat du Vlaamse Interuniversitaire Raad et du Conseil interuniversitaire francophone.</span></li><li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">Allocation de fonctionnement aux institutions universitaires pour les étudiants des pays en voie de développement.</span></li><li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">Initiatives des institutions universitaires en matière de programmes de formation et de congrès internationaux concernant la coopération au développement et voyages d'études d'étudiants vers les pays en voie de développement.</span></li><li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">Programmes de coopération institutionnelle universitaire dans les pays en voie de développement.</span></li><li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">Initiatives des institutions universitaires en matière de projets dans les pays en voie de développement.&quot;</span></li></ol><p class=\"intro-text\">15.1. Le texte de l'article 2.15.5 de la loi du 24 novembre 1995 portant le Budget général des dépenses pour l'année budgétaire 1996 est modifié comme suit:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\">au PROGRAMME 54/1 le texte suivant est inséré: &quot;10° Subsides aux personnes et aux organisations non-gouvernementales en matière de mise au travail des jeunes demandeurs d'emploi dans des projets de coopération agréés; 11° Coopération avec des organisations non-gouvernementales locales et avec d'autres opérateurs en matière de coopération au développement.&quot;</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">au PROGRAMME 54/2 les alinéas 3° et 5° sont annulés.</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">au PROGRAMME 54/4 le texte est modifié comme suit: &quot;1° Dépenses de toute nature liées au programme de bourses d'études en Belgique et à l'étranger en faveur de ressortissants de pays en voie de développement. 2° Subventions à des institutions scientifiques belges pour la réalisation de projets et de programmes de recherche dans le domaine de la coopération au développement. 3° Dépenses pour la recherche en appui à la politique via le Vlaamse Interuniversitaire Raad et le Conseil interuniversitaire francophone. 4° Subside pour le secrétariat du Vlaamse Interuniversitaire Raad et du Conseil interuniversitaire francophone. 5° Allocation de fonctionnement aux institutions universitaires pour les étudiants des pays en voie de développement. 6° Initiatives des institutions universitaires en matière de programmes de formation et de congrès internationaux concernant la coopération au développement et voyages d'études d'étudiants vers les pays en voie de développement. 7° Programmes de coopération institutionnelle universitaire dans les pays en voie de développement. 8° Initiatives des institutions universitaires en matière de projets dans les pays en voie de développement.&quot;</span></li></ul></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 12,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.648758"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 16. Ministère de la Défense nationale.",
+          "metadata": {
+            "title_type": "SECTION 16.",
+            "title_content": "Ministère de la Défense nationale.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.16.1",
+              "metadata": {
+                "article_range": "2.16.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.16.1",
+                "anchor_id": "art_2.16.1",
+                "content": {
+                  "main_text_raw": "L'article 2.16.10 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996, est complété comme suit: \"5. ASBL. \"Tank Museum\"; 6. ASBL. \"Brussels Air Museum Foundation\".\"",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-16-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.16.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>L'article 2.16.10 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996, est complété comme suit: &quot;5. ASBL. &quot;Tank Museum&quot;; 6. ASBL. &quot;Brussels Air Museum Foundation&quot;.&quot;</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.648852"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.16.2",
+              "metadata": {
+                "article_range": "2.16.2",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.16.2",
+                "anchor_id": "art_2.16.2",
+                "content": {
+                  "main_text_raw": "A l'article 2.16.13, premier alinéa de la même loi, le montant de 50 millions de francs est remplacé par le montant de 300 millions de francs.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-16-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.16.2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>A l'article 2.16.13, premier alinéa de la même loi, le montant de 50 millions de francs est remplacé par le montant de 300 millions de francs.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.648926"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.16.3",
+              "metadata": {
+                "article_range": "2.16.3",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.16.3",
+                "anchor_id": "art_2.16.3",
+                "content": {
+                  "main_text_raw": "A l'article 2.16.14, premier alinéa de la même loi, le texte \"Les paiements sont toutefois limités à 60 millions de francs pour l'année budgétaire.\" est remplacé par le texte suivant: \"Les paiements sont toutefois limités à 150 millions de francs pour l'année budgétaire\".",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-16-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.16.3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>A l'article 2.16.14, premier alinéa de la même loi, le texte &quot;Les paiements sont toutefois limités à 60 millions de francs pour l'année budgétaire.&quot; est remplacé par le texte suivant: &quot;Les paiements sont toutefois limités à 150 millions de francs pour l'année budgétaire&quot;.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.649015"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.16.4",
+              "metadata": {
+                "article_range": "2.16.4",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.16.4",
+                "anchor_id": "art_2.16.4",
+                "content": {
+                  "main_text_raw": "A l'article 2.16.20, premier alinéa de la même loi, le texte: \"... et par extension de l'article 156 de la loi du 30 décembre 1992 portant des dispositions sociales et diverses,...\" est remplacé par le texte suivant: \"... et par extension de l'article 48 de la loi du 20 décembre 1995 portant des dispositions fiscales, financières et diverses,...\". Au deuxième alinéa du même article, le texte: \"Les paiements sont toutefois limités à 1.740 millions de francs pour l'année budgétaire.\" est remplacé par le texte suivant: \"Les paiements sont toutefois limités à 1.650 millions de francs pour l'année budgétaire.\". Le quatrième alinéa du même article est remplacé par l'alinéa suivant: \"Par dérogation à l'article 48 de la loi du 20 décembre 1995 portant des dispositions fiscales, financières et diverses, ces dépenses sont soumises, préalablement à tout engagement juridique, à l'avis de l'Inspecteur des Finances conformément aux dispositions des articles 14 et 15 de l'arrêté royal du 16 novembre 1994 relatif au contrôle administratif et budgétaire ainsi qu'au visa de la Cour des comptes au sens de l'article 14 de la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes.\"",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-16-4\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.16.4</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>A l'article 2.16.20, premier alinéa de la même loi, le texte: &quot;... et par extension de l'article 156 de la loi du 30 décembre 1992 portant des dispositions sociales et diverses,...&quot; est remplacé par le texte suivant: &quot;... et par extension de l'article 48 de la loi du 20 décembre 1995 portant des dispositions fiscales, financières et diverses,...&quot;. Au deuxième alinéa du même article, le texte: &quot;Les paiements sont toutefois limités à 1.740 millions de francs pour l'année budgétaire.&quot; est remplacé par le texte suivant: &quot;Les paiements sont toutefois limités à 1.650 millions de francs pour l'année budgétaire.&quot;. Le quatrième alinéa du même article est remplacé par l'alinéa suivant: &quot;Par dérogation à l'article 48 de la loi du 20 décembre 1995 portant des dispositions fiscales, financières et diverses, ces dépenses sont soumises, préalablement à tout engagement juridique, à l'avis de l'Inspecteur des Finances conformément aux dispositions des articles 14 et 15 de l'arrêté royal du 16 novembre 1994 relatif au contrôle administratif et budgétaire ainsi qu'au visa de la Cour des comptes au sens de l'article 14 de la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes.&quot;</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.649204"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2",
+              "metadata": {
+                "article_range": "2",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2",
+                "anchor_id": "art_2",
+                "content": {
+                  "main_text_raw": "16.5. Les opérations de recettes pour ordre effectuées dans le cadre des expositions organisées dans le Musée royal de l'Armée seront enregistrées au moyen du compte 87.07.03.02.B de la section \"Opérations pour ordre de la Trésorerie\". Le solde des recettes des expositions organisées en coopération avec des tiers, après décompte avec ces tiers, peut être utilisé pour l'organisation de nouvelles expositions. La législation des marchés publics ainsi que le système de délégation correspondant sont d'application aux opérations de dépenses. En outre, ces dépenses sont soumises, préalablement à tout engagement juridique, à l'avis de l'Inspecteur des Finances conformément aux dispositions des articles 14 et 15 de l'arrêté royal du 16 novembre 1994 relatif au contrôle administratif et budgétaire.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>16.5. Les opérations de recettes pour ordre effectuées dans le cadre des expositions organisées dans le Musée royal de l'Armée seront enregistrées au moyen du compte 87.07.03.02.B de la section &quot;Opérations pour ordre de la Trésorerie&quot;. Le solde des recettes des expositions organisées en coopération avec des tiers, après décompte avec ces tiers, peut être utilisé pour l'organisation de nouvelles expositions. La législation des marchés publics ainsi que le système de délégation correspondant sont d'application aux opérations de dépenses. En outre, ces dépenses sont soumises, préalablement à tout engagement juridique, à l'avis de l'Inspecteur des Finances conformément aux dispositions des articles 14 et 15 de l'arrêté royal du 16 novembre 1994 relatif au contrôle administratif et budgétaire.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.649340"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.16.6",
+              "metadata": {
+                "article_range": "2.16.6",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.16.6",
+                "anchor_id": "art_2.16.6",
+                "content": {
+                  "main_text_raw": "Les dépenses à caractère très urgent à réaliser lors des opérations à l'étranger peuvent être exécutées dans le cadre des marchés pouvant être adjugés de gré à gré. Les principes de base de la législation sur les marchés publics seront appliqués pour la conclusion des marchés précités à moins que les circonstances locales ne le permettent pas.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-16-6\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.16.6</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Les dépenses à caractère très urgent à réaliser lors des opérations à l'étranger peuvent être exécutées dans le cadre des marchés pouvant être adjugés de gré à gré. Les principes de base de la législation sur les marchés publics seront appliqués pour la conclusion des marchés précités à moins que les circonstances locales ne le permettent pas.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.649433"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.16.7",
+              "metadata": {
+                "article_range": "2.16.7",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.16.7",
+                "anchor_id": "art_2.16.7",
+                "content": {
+                  "main_text_raw": "Au cours de l'année budgétaire 1996, les fonds disponibles au compte du comptable du Service d'achats des subsistances pourront être utilisés à concurrence de 400 millions de francs en vue de couvrir des dépenses de personnel.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-16-7\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.16.7</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Au cours de l'année budgétaire 1996, les fonds disponibles au compte du comptable du Service d'achats des subsistances pourront être utilisés à concurrence de 400 millions de francs en vue de couvrir des dépenses de personnel.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": true,
+                    "generation_timestamp": "2025-08-15T21:21:37.649564"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 18. Ministère des Finances.",
+          "metadata": {
+            "title_type": "SECTION 18.",
+            "title_content": "Ministère des Finances.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.18.1",
+              "metadata": {
+                "article_range": "2.18.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.18.1",
+                "anchor_id": "art_2.18.1",
+                "content": {
+                  "main_text_raw": "Par dérogation aux articles 5 et 34 des lois sur la comptabilité de l'Etat, coordonnées le 17 juillet 1991, des créances d'années antérieures peuvent être apurées à charge des crédits ouverts par la présente loi et relatives aux: - sommes dues à l'Office central des Fournitures suite aux fournitures imputables aux allocations de base 12.01 ou 74.01 d'un programme de subsistance; - dépenses fixes qui sont imputables à l'allocation de base 11.04 afin de régulariser le compte d'ordre 87.10.18.51 de l'Administration de la trésorerie relatif aux traitements des contractuels subventionnés.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-18-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.18.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Par dérogation aux articles 5 et 34 des lois sur la comptabilité de l'Etat, coordonnées le 17 juillet 1991, des créances d'années antérieures peuvent être apurées à charge des crédits ouverts par la présente loi et relatives aux:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\">sommes dues à l'Office central des Fournitures suite aux fournitures imputables aux allocations de base 12.01 ou 74.01 d'un programme de subsistance</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">dépenses fixes qui sont imputables à l'allocation de base 11.04 afin de régulariser le compte d'ordre 87.10.18.51 de l'Administration de la trésorerie relatif aux traitements des contractuels subventionnés.</span></li></ul></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": true,
+                    "generation_timestamp": "2025-08-15T21:21:37.649709"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.18.2",
+              "metadata": {
+                "article_range": "2.18.2",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.18.2",
+                "anchor_id": "art_2.18.2",
+                "content": {
+                  "main_text_raw": "Sont relevés de la prescription quinquennale, les titres de paiements désignés ci-après. Ils seront de nouveau exigibles et payables durant l'année suivant la date de l'entrée en vigueur de la présente loi. Ces titres de paiement relevés de la prescription ne peuvent faire l'objet d'une créance d'intérêts de retard pour autant que leur paiement ait eu lieu après le soixantième jour suivant leur nouvelle introduction. Le délai de paiement de soixante jours est compté au plus tôt à partir de la date d'entrée en vigueur de la présente loi. Les dépenses causées par ces titres de paiement relevés de la prescription sont imputables aux moyens budgétaires de l'allocation de base 18.61.06.16.01 de l'année en cours. Beneficiaire Annee d'emission Montant SCHEERS Daniel 1976 311 SCHEERS Daniel 1978 2.309 VERLAECKEN Andre 1978 56.453 VERLAECKEN Andre 1979 89.004 VERLAECKEN Andre 1980 92.706 MAROT Freddy 1984 11.624 DANEELS Dirk 1986 1.479 KOCAK Ali 1986 17.340 VAN HOVE Frans-WOUTERS Josepha 1986 137.279 MERGAERTS Willem 1987 1.503 TUREYEN Bedri 1987 2.619 TACKX Jacobus-BOGAERTS Maria 1988 5.967 BAILLIEU Patrick-NAESENS Sabine 1989 16.055 VAN DER HEYDEN Hugo-REYNIERS Sonja 1989 114.703 DE BEUKER Godelieve 1990 3.110 LEMPEREUR Simone 1990 7.392 POPELIER Frank 1990 2.244",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-18-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.18.2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Sont relevés de la prescription quinquennale, les titres de paiements désignés ci-après. Ils seront de nouveau exigibles et payables durant l'année suivant la date de l'entrée en vigueur de la présente loi. Ces titres de paiement relevés de la prescription ne peuvent faire l'objet d'une créance d'intérêts de retard pour autant que leur paiement ait eu lieu après le soixantième jour suivant leur nouvelle introduction. Le délai de paiement de soixante jours est compté au plus tôt à partir de la date d'entrée en vigueur de la présente loi. Les dépenses causées par ces titres de paiement relevés de la prescription sont imputables aux moyens budgétaires de l'allocation de base 18.61.06.16.01 de l'année en cours. Beneficiaire Annee d'emission Montant SCHEERS Daniel 1976 311 SCHEERS Daniel 1978 2.309 VERLAECKEN Andre 1978 56.453 VERLAECKEN Andre 1979 89.004 VERLAECKEN Andre 1980 92.706 MAROT Freddy 1984 11.624 DANEELS Dirk 1986 1.479 KOCAK Ali 1986 17.340 VAN HOVE Frans-WOUTERS Josepha 1986 137.279 MERGAERTS Willem 1987 1.503 TUREYEN Bedri 1987 2.619 TACKX Jacobus-BOGAERTS Maria 1988 5.967 BAILLIEU Patrick-NAESENS Sabine 1989 16.055 VAN DER HEYDEN Hugo-REYNIERS Sonja 1989 114.703 DE BEUKER Godelieve 1990 3.110 LEMPEREUR Simone 1990 7.392 POPELIER Frank 1990 2.244</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": true,
+                    "generation_timestamp": "2025-08-15T21:21:37.649899"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.18.3",
+              "metadata": {
+                "article_range": "2.18.3",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.18.3",
+                "anchor_id": "art_2.18.3",
+                "content": {
+                  "main_text_raw": "L'article 2.18.11, § 1er, alinéa 1, de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 est remplacé par le texte suivant: \"Voor het jaar 1996 wordt de machtiging verleend een programma voor leningen aan vreemde Staten te onderhandelen ten belope van 750.000.000 frank.\"",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-18-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.18.3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>L'article 2.18.11, § 1er, alinéa 1, de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 est remplacé par le texte suivant: &quot;Voor het jaar 1996 wordt de machtiging verleend een programma voor leningen aan vreemde Staten te onderhandelen ten belope van 750.000.000 frank.&quot;</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.649997"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 19. Ministère de la Fonction publique.",
+          "metadata": {
+            "title_type": "SECTION 19.",
+            "title_content": "Ministère de la Fonction publique.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.19.1",
+              "metadata": {
+                "article_range": "2.19.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.19.1",
+                "anchor_id": "art_2.19.1",
+                "content": {
+                  "main_text_raw": "A l'article 2.19.2 de la loi du 24 novembre 1995 contenant le budget général des dépenses de l'année budgétaire 1996, le texte suivant est inséré avant les mots \"PROGRAMME 53/1 - FORMATION DES FONCTIONNAIRES\": \"PROGRAMME 40/0 - PROGRAMME DE SUBSISTANCE Subside à l'ASBL. Service social du Ministère de la Fonction publique. Dépenses diverses du Service social.\"",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-19-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.19.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">A l'article 2.19.2 de la loi du 24 novembre 1995 contenant le budget général des dépenses de l'année budgétaire 1996, le texte suivant est inséré avant les mots &quot;PROGRAMME 53/1:</p><ul class=\"hyphenated-items\"><li class=\"hyphenated-item\"><span class=\"item-text\">FORMATION DES FONCTIONNAIRES&quot;: &quot;PROGRAMME 40/0</span></li><li class=\"hyphenated-item\"><span class=\"item-text\">PROGRAMME DE SUBSISTANCE Subside à l'ASBL.</span></li></ul><div class=\"closing-text\"><p>Service social du Ministère de la Fonction publique. Dépenses diverses du Service social.&quot;</p></div></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.650119"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 21. Pensions.",
+          "metadata": {
+            "title_type": "SECTION 21.",
+            "title_content": "Pensions.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.21.1",
+              "metadata": {
+                "article_range": "2.21.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.21.1",
+                "anchor_id": "art_2.21.1",
+                "content": {
+                  "main_text_raw": "A l'article 2.21.3, 2e alinéa, de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996, le montant de 6.600,0 millions de francs est remplacé par le montant de 9.600,0 millions de francs.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-21-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.21.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>A l'article 2.21.3, 2e alinéa, de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996, le montant de 6.600,0 millions de francs est remplacé par le montant de 9.600,0 millions de francs.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.650204"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 23. Ministère de l'Emploi et du Travail.",
+          "metadata": {
+            "title_type": "SECTION 23.",
+            "title_content": "Ministère de l'Emploi et du Travail.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.23.1",
+              "metadata": {
+                "article_range": "2.23.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.23.1",
+                "anchor_id": "art_2.23.1",
+                "content": {
+                  "main_text_raw": "L'article 2.23.3 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 est adapté comme suit: PROGRAMME 40/5 EGALITE DES CHANCES ENTRE FEMMES ET HOMMES 2° Subside à l'ASBL. Centre des Femmes \"AMAZONE\" est complété par \"y compris l'intervention en faveur de l'ASBL. Centre d'Archives pour l'Histoire des Femmes\".",
+                  "numbered_provisions": [
+                    {
+                      "number": "2°",
+                      "text": "Subside à l'ASBL. Centre des Femmes \"AMAZONE\" est complété par \"y compris l'intervention en faveur de l'ASBL. Centre d'Archives pour l'Histoire des Femmes\".",
+                      "sub_items": []
+                    }
+                  ],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-23-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.23.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">L'article 2.23.3 de la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996 est adapté comme suit: PROGRAMME 40/5 EGALITE DES CHANCES ENTRE FEMMES ET HOMMES:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">Subside à l'ASBL. Centre des Femmes &quot;AMAZONE&quot; est complété par &quot;y compris l'intervention en faveur de l'ASBL. Centre d'Archives pour l'Histoire des Femmes&quot;.</span></li></ol></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 1,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.650357"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 32. Ministère des Affaires économiques.",
+          "metadata": {
+            "title_type": "SECTION 32.",
+            "title_content": "Ministère des Affaires économiques.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.32.1",
+              "metadata": {
+                "article_range": "2.32.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.32.1",
+                "anchor_id": "art_2.32.1",
+                "content": {
+                  "main_text_raw": "Le solde du \"Fonds pour l'Exposition internationale de Séville 1992\" disponible au 31 décembre 1995, est transféré au \"Fonds pour l'organisation d'Expositions internationales\" inscrit au programme 32.62.2. Les montants à encaisser et les créances à liquider dans le chef du \"Fonds pour l'Exposition internationale de Séville 1992\" doivent être imputés, à partir du 1er janvier 1996, au \"Fonds pour l'organisation d'Expositions internationales\" inscrit au programme 32.62.2.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-32-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.32.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le solde du &quot;Fonds pour l'Exposition internationale de Séville 1992&quot; disponible au 31 décembre 1995, est transféré au &quot;Fonds pour l'organisation d'Expositions internationales&quot; inscrit au programme 32.62.2. Les montants à encaisser et les créances à liquider dans le chef du &quot;Fonds pour l'Exposition internationale de Séville 1992&quot; doivent être imputés, à partir du 1er janvier 1996, au &quot;Fonds pour l'organisation d'Expositions internationales&quot; inscrit au programme 32.62.2.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.650466"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "SECTION 33. Ministère des Communications et de l'Infrastructure.",
+          "metadata": {
+            "title_type": "SECTION 33.",
+            "title_content": "Ministère des Communications et de l'Infrastructure.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 2.33.1",
+              "metadata": {
+                "article_range": "2.33.1",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.33.1",
+                "anchor_id": "art_2.33.1",
+                "content": {
+                  "main_text_raw": "Le Ministre des Transports est autorisé à reprendre la dette de la Communauté flamande du chef des prestations fournies par la Régie des Transports maritimes et ce à concurrence de 397.211.701 F, montant de la dette au 31 décembre 1995. Cette reprise de dette fera office d'apurement de factures à liquider par l'Administration fédérale des Affaires maritimes et de la Navigation, émises par la Communauté flamande à concurrence de 312.863.205 F pour des services prestés par celle-ci en exécution de l'accord de prestation de services conclu le 7 octobre 1992. Le montant restant dû de la sorte à l'Etat fédéral par le Communauté flamande, sera imputé au budget des Voies et Moyens, venant en réduction de la dette telle que reprise ci-dessus, en apurement partiel de la dette de la Régie des Transports maritimes envers l'Administration des Pensions. Les montants précités seront actualisés compte tenu des intérêts de retard calculés à partir du 1er janvier 1996 jusqu'à la date de paiement du solde par la Communauté flamande.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-33-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.33.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le Ministre des Transports est autorisé à reprendre la dette de la Communauté flamande du chef des prestations fournies par la Régie des Transports maritimes et ce à concurrence de 397.211.701 F, montant de la dette au 31 décembre 1995. Cette reprise de dette fera office d'apurement de factures à liquider par l'Administration fédérale des Affaires maritimes et de la Navigation, émises par la Communauté flamande à concurrence de 312.863.205 F pour des services prestés par celle-ci en exécution de l'accord de prestation de services conclu le 7 octobre 1992. Le montant restant dû de la sorte à l'Etat fédéral par le Communauté flamande, sera imputé au budget des Voies et Moyens, venant en réduction de la dette telle que reprise ci-dessus, en apurement partiel de la dette de la Régie des Transports maritimes envers l'Administration des Pensions. Les montants précités seront actualisés compte tenu des intérêts de retard calculés à partir du 1er janvier 1996 jusqu'à la date de paiement du solde par la Communauté flamande.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.650628"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.33.2",
+              "metadata": {
+                "article_range": "2.33.2",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.33.2",
+                "anchor_id": "art_2.33.2",
+                "content": {
+                  "main_text_raw": "Le Ministre des Transports est dispensé de procéder au recouvrement à charge de la SA BULKCHARTERING de la somme de 89.184.373 F qu'elle doit à l'Etat belge du fait de l'octroi d'un crédit maritime en exécution de la loi du 23 août 1948.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-33-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.33.2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le Ministre des Transports est dispensé de procéder au recouvrement à charge de la SA BULKCHARTERING de la somme de 89.184.373 F qu'elle doit à l'Etat belge du fait de l'octroi d'un crédit maritime en exécution de la loi du 23 août 1948.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.650711"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.33.3",
+              "metadata": {
+                "article_range": "2.33.3",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.33.3",
+                "anchor_id": "art_2.33.3",
+                "content": {
+                  "main_text_raw": "Est approuvé le budget de l'Office régulateur de la Navigation de l'année 1996 annexé à la présente loi. Ce budget s'élève pour les recettes à 82.955.000 francs et pour les dépenses à 91.770.000 francs. Il comporte en dépenses des crédits d'engagement pour un montant de 2.000.000 de francs. Les recettes pour ordre sont évalués à 105.400.000 francs et les dépenses pour ordre à 109.500.000 francs.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-33-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.33.3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Est approuvé le budget de l'Office régulateur de la Navigation de l'année 1996 annexé à la présente loi. Ce budget s'élève pour les recettes à 82.955.000 francs et pour les dépenses à 91.770.000 francs. Il comporte en dépenses des crédits d'engagement pour un montant de 2.000.000 de francs. Les recettes pour ordre sont évalués à 105.400.000 francs et les dépenses pour ordre à 109.500.000 francs.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.650810"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 2.33.4",
+              "metadata": {
+                "article_range": "2.33.4",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "2.33.4",
+                "anchor_id": "art_2.33.4",
+                "content": {
+                  "main_text_raw": "Est approuvé le budget de l'Institut belge des Services postaux et Télécommunications de l'année 1996 annexé à la présente loi. Ce budget s'élève pour les recettes à 610.900.000 francs et pour les dépenses 610.900.000 de francs. Il comporte en dépenses des crédits d'engagement pour un montant de 25.000.000 de francs.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-2-33-4\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2.33.4</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Est approuvé le budget de l'Institut belge des Services postaux et Télécommunications de l'année 1996 annexé à la présente loi. Ce budget s'élève pour les recettes à 610.900.000 francs et pour les dépenses 610.900.000 de francs. Il comporte en dépenses des crédits d'engagement pour un montant de 25.000.000 de francs.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:21:37.650902"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE III. Fonds de restitution et d'attribution.",
+      "metadata": {
+        "title_type": "CHAPITRE III.",
+        "title_content": "Fonds de restitution et d'attribution.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 3.01.1",
+          "metadata": {
+            "article_range": "3.01.1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3.01.1",
+            "anchor_id": "art_3.01.1",
+            "content": {
+              "main_text_raw": "Le tableau 3 annexé à la présente loi remplace le tableau 3 (fonds de restitution et d'attribution), annexé à la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-3-01-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 3.01.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le tableau 3 annexé à la présente loi remplace le tableau 3 (fonds de restitution et d'attribution), annexé à la loi du 24 novembre 1995 contenant le Budget général des dépenses pour l'année budgétaire 1996.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": true,
+                "generation_timestamp": "2025-08-15T21:21:37.650980"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE IV. Services de l'Etat à gestion séparée.",
+      "metadata": {
+        "title_type": "CHAPITRE IV.",
+        "title_content": "Services de l'Etat à gestion séparée.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 4.01.1",
+          "metadata": {
+            "article_range": "4.01.1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4.01.1",
+            "anchor_id": "art_4.01.1",
+            "content": {
+              "main_text_raw": "Les opérations pendant l'année budgétaire 1996 du service de l'Etat à gestion séparée \"Secrétariat permanent de recrutement\", sont estimées aux sommes mentionnées dans le budget 1996 annexé à la présente loi. Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge. Donné à Bruxelles, le 10 juillet 1996. ALBERT Par le Roi: Le Premier Ministre, J.-L. DEHAENE Le Vice-Premier Ministre, E. DI RUPO Le Vice-Premier Ministre, J. VANDE LANOTTE Le Vice-Premier Ministre et Ministre des Finances, Ph. MAYSTADT Le Vice-Premier Ministre et Ministre du Budget, H. VAN ROMPUY Scellé du sceau de l'Etat: Le Ministre de la Justice, S. DE CLERCK",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-4-01-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 4.01.1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Les opérations pendant l'année budgétaire 1996 du service de l'Etat à gestion séparée &quot;Secrétariat permanent de recrutement&quot;, sont estimées aux sommes mentionnées dans le budget 1996 annexé à la présente loi. Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge. Donné à Bruxelles, le 10 juillet 1996. ALBERT Par le Roi: Le Premier Ministre, J.-L. DEHAENE Le Vice-Premier Ministre, E. DI RUPO Le Vice-Premier Ministre, J. VANDE LANOTTE Le Vice-Premier Ministre et Ministre des Finances, Ph. MAYSTADT Le Vice-Premier Ministre et Ministre du Budget, H. VAN ROMPUY Scellé du sceau de l'Etat: Le Ministre de la Justice, S. DE CLERCK</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:21:37.651115"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "annexe",
+      "label": "ANNEXE.",
+      "metadata": {
+        "title_type": "ANNEXE.",
+        "title_content": "",
+        "rank": 1
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article N",
+          "metadata": {
+            "article_range": "N",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "N",
+            "anchor_id": "art_N",
+            "content": {
+              "main_text_raw": "(Tableaux 1 à 6. Tableaux non repris pour des raisons techniques, voir M.B. 21-08-1996, p. 21858-60, 21860-22229, 22231-3, 22234, 22235, 22235-41.) (Modifi»cations par:) <L %%1998-01-26/40%%, art. 2 et 3,**En vigueur:**04-03-1998>",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-N\"><header class=\"article-header\"><h2 class=\"article-number\">Article N</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>(Tableaux 1 à 6. Tableaux non repris pour des raisons techniques, voir M.B. 21-08-1996, p. 21858-60, 21860-22229, 22231-3, 22234, 22235, 22235-41.) (Modifi»cations par:) <span class=\"citation\">&lt;L %%1998-01-26/40%%, art. 2 et 3,**En vigueur:**04-03-1998&gt;</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": true,
+                "generation_timestamp": "2025-08-15T21:21:37.651206"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    }
+  ],
+  "references": {
+    "modifies": [],
+    "modified_by": []
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-08-15T21:21:37.651386",
+    "source_file": "1996003316.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false,
+      "preamble_extracted": true,
+      "is_abrogated_document": false
+    }
+  }
+}

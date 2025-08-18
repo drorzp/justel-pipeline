@@ -73,15 +73,9 @@ export class DocumentTitleProcessor {
         AND old_title != ''
         AND (new_title IS NULL OR new_title = '')`;
 
-            if (startFromId) {
-                query += ` AND id >= ${startFromId}`;
-            }
-
-            query += ` ORDER BY id`;
-
-            const result = await this.getClient().query(query);
-            logger.info(`Found ${result.rows.length} documents needing title generation${startFromId ? ` (starting from ID ${startFromId})` : ''}`);
-            logger.info(`📋 These documents have old_title but missing new_title`);
+        const result = await this.getClient().query(query);
+        logger.info(`Found ${result.rows.length} documents needing title generation${startFromId ? ` (starting from ID ${startFromId})` : ''}`);
+        logger.info(`📋 These documents have old_title but missing new_title`);
 
             return result.rows as DocumentTitleRecord[];
         } catch (error) {

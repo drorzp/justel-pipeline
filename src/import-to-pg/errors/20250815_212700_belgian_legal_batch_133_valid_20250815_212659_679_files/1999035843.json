@@ -1,0 +1,2019 @@
+{
+  "document_metadata": {
+    "document_number": "1999035843",
+    "title": "18 MAI 1999. - Décret relatif au secteur de la santé mentale (TRADUCTION). (NOTE : Les articles 20, 30, chapitre IX et l'article 35 modifiés avec effet à une date indéterminée par <DCFL [2013-06-21/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2013062117), art. 21-25; En vigueur : indéterminée >) (NOTE : Consultation des versions antérieures à partir du 17-07-1999 et mise à jour au 10-01-2024)",
+    "publication_date": "1999-07-17",
+    "source": "Communauté flamande",
+    "page_number": 27428,
+    "dossier_number": "1999-05-18/62",
+    "effective_date": "2000-01-01",
+    "end_validity_date": "",
+    "language": "fr",
+    "document_type": "DECRET",
+    "status": "active",
+    "version_info": {
+      "archived_versions_count": 0,
+      "archived_versions_url": "",
+      "execution_orders_count": 0,
+      "execution_orders_url": ""
+    },
+    "official_justel_url": "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035843/justel",
+    "official_publication_pdf_url": "https://www.ejustice.just.fgov.be/mopdf/1999/07/17_1.pdf#Page13",
+    "consolidated_pdf_url": "https://www.ejustice.just.fgov.be/img_l/pdf/1999/05/18/1999035843_F.pdf"
+  },
+  "preamble": "Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :",
+  "abrogation_info": {},
+  "document_hierarchy": [
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE I. Dispositions générales et définitions.",
+      "metadata": {
+        "title_type": "CHAPITRE I.",
+        "title_content": "Dispositions générales et définitions.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 1",
+          "metadata": {
+            "article_range": "1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "1",
+            "anchor_id": "art_1",
+            "content": {
+              "main_text_raw": "Le présent décret règle une matière communautaire.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le présent décret règle une matière communautaire.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.567601"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 2",
+          "metadata": {
+            "article_range": "2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "2",
+            "anchor_id": "art_2",
+            "content": {
+              "main_text_raw": "Au sens du présent décret on entend par: 1° centre de santé mentale: la structure de soins agréée qui dispense, de manière multidisciplinaire et ambulatoire et dans un cadre extra-muros, des soins de santé mentale à des personnes souffrant de troubles de la santé mentale; 2° LOGO: le partenariat pour la concertation et l'organisation sanitaires à l'échelle supra-locale tel que visé au chapitre IIbis de l'arrêté du Gouvernement flamand du 31 juillet 1991 relatif à la promotion de la santé, inséré par l'arrêté du Gouvernement flamand du 19 décembre 1997; 3° patient: personne souffrant de problèmes graves de santé mentale ou de problèmes de santé mentale présentant un risque grave de chronicité et qui sont admissibles au soins; 4° réseau psychiatrique: l'ensemble de structures, d'institutions, de services et d'initiatives juridiquement indépendants formant un partenariat fonctionnel afin de proposer à des groupes-cibles des programmes de soins concus comme des ensembles cohérents; 5° Gouvernement: le Gouvernement flamand; 6° enregistrement: la collecte uniformisée de données quantitatives et qualitatives anonymisées relatives aux caractéristiques de la population de patients et des soins justifiés dispensés, en vue de l'auto-évaluation du centre de santé mentale et de la communication d'informations utiles au Gouvernement; 7° enveloppe de subventions: le budget que le centre de santé mentale reçoit annuellement, sur la base de paramètres déterminés au préalable par le Gouvernement, afin de réaliser les prestations et résultats convenus d'une manière qualitative supérieure; 8° instances de renvoi: les instances désignées par le Gouvernement qui, sur base notamment de leur connaissance adéquate des formules d'aide présentes au sein de la Communauté flamande, renvoient des patients aux centres de santé mentale.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "centre de santé mentale: la structure de soins agréée qui dispense, de manière multidisciplinaire et ambulatoire et dans un cadre extra-muros, des soins de santé mentale à des personnes souffrant de troubles de la santé mentale",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "LOGO: le partenariat pour la concertation et l'organisation sanitaires à l'échelle supra-locale tel que visé au chapitre IIbis de l'arrêté du Gouvernement flamand du 31 juillet 1991 relatif à la promotion de la santé, inséré par l'arrêté du Gouvernement flamand du 19 décembre 1997",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "patient: personne souffrant de problèmes graves de santé mentale ou de problèmes de santé mentale présentant un risque grave de chronicité et qui sont admissibles au soins",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "réseau psychiatrique: l'ensemble de structures, d'institutions, de services et d'initiatives juridiquement indépendants formant un partenariat fonctionnel afin de proposer à des groupes-cibles des programmes de soins concus comme des ensembles cohérents",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "Gouvernement: le Gouvernement flamand",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "enregistrement: la collecte uniformisée de données quantitatives et qualitatives anonymisées relatives aux caractéristiques de la population de patients et des soins justifiés dispensés, en vue de l'auto-évaluation du centre de santé mentale et de la communication d'informations utiles au Gouvernement",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "enveloppe de subventions: le budget que le centre de santé mentale reçoit annuellement, sur la base de paramètres déterminés au préalable par le Gouvernement, afin de réaliser les prestations et résultats convenus d'une manière qualitative supérieure",
+                  "sub_items": []
+                },
+                {
+                  "number": "8°",
+                  "text": "instances de renvoi: les instances désignées par le Gouvernement qui, sur base notamment de leur connaissance adéquate des formules d'aide présentes au sein de la Communauté flamande, renvoient des patients aux centres de santé mentale.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Au sens du présent décret on entend par:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">centre de santé mentale: la structure de soins agréée qui dispense, de manière multidisciplinaire et ambulatoire et dans un cadre extra-muros, des soins de santé mentale à des personnes souffrant de troubles de la santé mentale</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">LOGO: le partenariat pour la concertation et l'organisation sanitaires à l'échelle supra-locale tel que visé au chapitre IIbis de l'arrêté du Gouvernement flamand du 31 juillet 1991 relatif à la promotion de la santé, inséré par l'arrêté du Gouvernement flamand du 19 décembre 1997</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">patient: personne souffrant de problèmes graves de santé mentale ou de problèmes de santé mentale présentant un risque grave de chronicité et qui sont admissibles au soins</span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">réseau psychiatrique: l'ensemble de structures, d'institutions, de services et d'initiatives juridiquement indépendants formant un partenariat fonctionnel afin de proposer à des groupes-cibles des programmes de soins concus comme des ensembles cohérents</span></li><li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">Gouvernement: le Gouvernement flamand</span></li><li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">enregistrement: la collecte uniformisée de données quantitatives et qualitatives anonymisées relatives aux caractéristiques de la population de patients et des soins justifiés dispensés, en vue de l'auto-évaluation du centre de santé mentale et de la communication d'informations utiles au Gouvernement</span></li><li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">enveloppe de subventions: le budget que le centre de santé mentale reçoit annuellement, sur la base de paramètres déterminés au préalable par le Gouvernement, afin de réaliser les prestations et résultats convenus d'une manière qualitative supérieure</span></li><li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">instances de renvoi: les instances désignées par le Gouvernement qui, sur base notamment de leur connaissance adéquate des formules d'aide présentes au sein de la Communauté flamande, renvoient des patients aux centres de santé mentale.</span></li></ol></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 8,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.568294"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 3",
+          "metadata": {
+            "article_range": "3",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "3",
+            "anchor_id": "art_3",
+            "content": {
+              "main_text_raw": "Un centre de santé mentale est tenu, conformément à la définition de sa mission, de dispenser, sans distinction d'âge ou de sexe, de conviction idéologique, philosophique ou religieuse et quelle que soit la situation financière de l'intéressé, des soins justifiés tels que visés à l'article 4 et de le traiter avec respect.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-3\"><header class=\"article-header\"><h2 class=\"article-number\">Article 3</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Un centre de santé mentale est tenu, conformément à la définition de sa mission, de dispenser, sans distinction d'âge ou de sexe, de conviction idéologique, philosophique ou religieuse et quelle que soit la situation financière de l'intéressé, des soins justifiés tels que visés à l'article 4 et de le traiter avec respect.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.568390"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 4",
+          "metadata": {
+            "article_range": "4",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "4",
+            "anchor_id": "art_4",
+            "content": {
+              "main_text_raw": "§ 1er. Un centre de santé mentale dispense des soins justifiés lorsque ces soins remplissent les conditions d'efficacité, d'effectivité, de continuité, de sécurité et d'acceptabilité sociale et comprennent notamment les éléments suivants: admission, diagnostic, traitement et accompagnement socio-psychiatriques et psychothérapeutiques, communication d'informations et d'avis aux instances de renvoi au sujet de sa mission, ses principes de fonctionnement et ses groupes-cibles. § 2. Sans préjudice des dispositions du § 1er, et après concertation avec le patient, le centre de santé mentale consulte l'instance de renvoi et, le cas échéant, d'autres intervenants et/ou personnes des milieux habituels de vie du patient. Cette consultation donne lieu à des accords quant aux contributions respectives aux soins de la part de tous ces intéressés.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-4\"><header class=\"article-header\"><h2 class=\"article-number\">Article 4</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Un centre de santé mentale dispense des soins justifiés lorsque ces soins remplissent les conditions d'efficacité, d'effectivité, de continuité, de sécurité et d'acceptabilité sociale et comprennent notamment les éléments suivants: admission, diagnostic, traitement et accompagnement socio-psychiatriques et psychothérapeutiques, communication d'informations et d'avis aux instances de renvoi au sujet de sa mission, ses principes de fonctionnement et ses groupes-cibles.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Sans préjudice des dispositions du § 1er, et après concertation avec le patient, le centre de santé mentale consulte l'instance de renvoi et, le cas échéant, d'autres intervenants et/ou personnes des milieux habituels de vie du patient. Cette consultation donne lieu à des accords quant aux contributions respectives aux soins de la part de tous ces intéressés.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.568569"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 5",
+          "metadata": {
+            "article_range": "5",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "5",
+            "anchor_id": "art_5",
+            "content": {
+              "main_text_raw": "Le centre de santé mentale respecte en tout temps les droits de l'enfant tels qu'énoncés dans la Convention relative aux droits de l'Enfant signée à New York le 20 novembre 1989 et approuvée par la loi du 25 novembre 1991.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-5\"><header class=\"article-header\"><h2 class=\"article-number\">Article 5</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le centre de santé mentale respecte en tout temps les droits de l'enfant tels qu'énoncés dans la Convention relative aux droits de l'Enfant signée à New York le 20 novembre 1989 et approuvée par la loi du 25 novembre 1991.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.568653"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 6",
+          "metadata": {
+            "article_range": "6",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "6",
+            "anchor_id": "art_6",
+            "content": {
+              "main_text_raw": "Le centre de santé mentale respecte en tout temps les droits de l'homme tels qu'énoncés dans la Convention de sauvegarde des droits de l'homme et des libertés fondamentales signée à New York le 4 novembre 1950 et dans les protocoles à cette Convention.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-6\"><header class=\"article-header\"><h2 class=\"article-number\">Article 6</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le centre de santé mentale respecte en tout temps les droits de l'homme tels qu'énoncés dans la Convention de sauvegarde des droits de l'homme et des libertés fondamentales signée à New York le 4 novembre 1950 et dans les protocoles à cette Convention.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.568739"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE II. Définition de la mission et des principes de travail.",
+      "metadata": {
+        "title_type": "CHAPITRE II.",
+        "title_content": "Définition de la mission et des principes de travail.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "section",
+          "label": "Section 1. Définition de la mission.",
+          "metadata": {
+            "title_type": "Section 1.",
+            "title_content": "Définition de la mission.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 7",
+              "metadata": {
+                "article_range": "7",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "7",
+                "anchor_id": "art_7",
+                "content": {
+                  "main_text_raw": "§ 1er. Le secteur de la santé mentale a pour mission de dispenser les soins justifiés en vue de rétablir l'équilibre psychique ou de rendre les troubles psychiques supportables pour les patients et leurs milieux de vie, pour que les patients acquièrent ou développent des compétences formant la base de leur émancipation et de leur insertion sociale. § 2. Les centres de santé mentale contribuent à l'accomplissement de la mission telle que définie au § 1er. § 3. Le Gouvernement peut conclure des accords avec les structures et services ou initiatives qui, en raison de leur expertise et expérience spécifiques en ce qui concerne certains groupes-cibles et/ou problématiques, contribuent en Flandre à l'accomplissement de la mission telle que définie au § 1er. § 4. Le Gouvernement prévoit des protocoles-cadre entre les secteurs de la santé et de l'aide sociale et le secteur \" centres de santé mentale \", afin d'optimaliser la coopération visée à l'article 9, § 1er, 7°.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-7\"><header class=\"article-header\"><h2 class=\"article-number\">Article 7</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Le secteur de la santé mentale a pour mission de dispenser les soins justifiés en vue de rétablir l'équilibre psychique ou de rendre les troubles psychiques supportables pour les patients et leurs milieux de vie, pour que les patients acquièrent ou développent des compétences formant la base de leur émancipation et de leur insertion sociale.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Les centres de santé mentale contribuent à l'accomplissement de la mission telle que définie au</p></div></section><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p></p></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p>Le Gouvernement peut conclure des accords avec les structures et services ou initiatives qui, en raison de leur expertise et expérience spécifiques en ce qui concerne certains groupes-cibles et/ou problématiques, contribuent en Flandre à l'accomplissement de la mission telle que définie au</p></div></section><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p></p></div></section><section class=\"paragraph\" id=\"para-4\"><h3 class=\"paragraph-marker\">§ 4.</h3><div class=\"paragraph-content\"><p>Le Gouvernement prévoit des protocoles-cadre entre les secteurs de la santé et de l'aide sociale et le secteur &quot; centres de santé mentale &quot;, afin d'optimaliser la coopération visée à l'article 9, § 1er, 7°.</p></div></section></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 6,
+                    "provision_count": 0,
+                    "has_tables": true,
+                    "generation_timestamp": "2025-08-15T21:26:57.569006"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "Section 2. Principes de fonctionnement.",
+          "metadata": {
+            "title_type": "Section 2.",
+            "title_content": "Principes de fonctionnement.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 8",
+              "metadata": {
+                "article_range": "8",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "8",
+                "anchor_id": "art_8",
+                "content": {
+                  "main_text_raw": "Sans préjudice des dispositions du décret du 25 février 1997 relatif à la gestion totale de la qualité dans les établissements de soins, l'aide proposée est basée sur le respect de la vie privée du patient. Elle fera appel de façon maximale à la co-responsabilité et à l'autonomie du patient, appliquant le traitement le moins radical pour maximaliser les effets souhaités face à la problématique constatée.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-8\"><header class=\"article-header\"><h2 class=\"article-number\">Article 8</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Sans préjudice des dispositions du décret du 25 février 1997 relatif à la gestion totale de la qualité dans les établissements de soins, l'aide proposée est basée sur le respect de la vie privée du patient. Elle fera appel de façon maximale à la co-responsabilité et à l'autonomie du patient, appliquant le traitement le moins radical pour maximaliser les effets souhaités face à la problématique constatée.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.569109"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 9",
+              "metadata": {
+                "article_range": "9",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "9",
+                "anchor_id": "art_9",
+                "content": {
+                  "main_text_raw": "§ 1er. Afin de contribuer à l'accomplissement de la mission telle que définie à l'article 7: 1° le centre de santé mentale se présente comme structure de santé de second échelon; 2° le centre de santé mentale fait prévaloir l'intérêt du patient; 3° le centre de santé mentale prête une attention particulière aux enfants, aux personnes âgées et aux personnes socialement et financièrement faibles; 4° le centre de santé mentale travaille de façon interdisciplinaire en faisant appel aux disciplines psychiatriques, psychologiques, socioculturelles et sociales. Le centre prévoit à cet effet un soutien logistique; 5° le centre de santé mentale opère au sein d'un ou plusieurs réseaux psychiatriques, où des accords et procédures de collaboration sont convenus afin de réaliser une offre de soins de santé mentale suffisamment différenciée et axée sur des groupes-cibles, de manière à garantir aux patients une aide adéquate sur mesure; 6° le centre de santé mentale désigne des équipes multidisciplinaires qui dispensent des soins de santé mentale aux enfants et aux personnes âgées visés au 3°; 7° le centre de santé mentale conclut des accords avec ses instances de renvoi et collabore avec les structures de santé et d'aide sociale de premier échelon dans son ressort; 8° le centre de santé mentale élabore un code déontologique et les collaborateurs du centre de santé mentale sont tenus au respect du secret professionnel; 9° le centre de santé mentale prête son concours à des actions de prévention qui s'inscrivent dans le cadre de sa mission et qui s'adressent à des groupes-cibles spécifiques de la population, et conclut à cet effet des accords de coopération avec les LOGO actifs dans le ressort du centre de santé mentale. § 2. Le Gouvernement peut confier des tâches complémentaires aux centres de santé mentale au bénéfice de groupes-cibles, problématiques ou besoins régionaux spécifiques ou en cas de situations de crise aiguës. § 3. Afin d'assurer l'effectivité, l'uniformité et le professionnalisme de l'approche de la problématique de la drogue, les centres de santé mentale font appel à l'assistance et à l'accompagnement de l'Association pour problèmes d'alcool et autres drogues (VAD) ou de son ayant-cause. § 4. Un centre de santé mentale peut se faire confier, contre rémunération, des tâches par des personnes, services ou structures autres que ceux visés à l'article 2, 8°. Ces tâches supplémentaires se limitent aux domaines définis dans le cadre de sa mission. Elles ne peuvent en aucun cas donner lieu à une réalisation réduite ni compromettre la réalisation de cette mission. Les centres de santé mentale soumettent annuellement au Gouvernement un rapport sur la nature et l'ampleur de ces tâches supplémentaires.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "le centre de santé mentale se présente comme structure de santé de second échelon",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "le centre de santé mentale fait prévaloir l'intérêt du patient",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "le centre de santé mentale prête une attention particulière aux enfants, aux personnes âgées et aux personnes socialement et financièrement faibles",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "4°",
+                      "text": "le centre de santé mentale travaille de façon interdisciplinaire en faisant appel aux disciplines psychiatriques, psychologiques, socioculturelles et sociales. Le centre prévoit à cet effet un soutien logistique",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "5°",
+                      "text": "le centre de santé mentale opère au sein d'un ou plusieurs réseaux psychiatriques, où des accords et procédures de collaboration sont convenus afin de réaliser une offre de soins de santé mentale suffisamment différenciée et axée sur des groupes-cibles, de manière à garantir aux patients une aide adéquate sur mesure",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "6°",
+                      "text": "le centre de santé mentale désigne des équipes multidisciplinaires qui dispensent des soins de santé mentale aux enfants et aux personnes âgées visés au",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "7°",
+                      "text": "le centre de santé mentale conclut des accords avec ses instances de renvoi et collabore avec les structures de santé et d'aide sociale de premier échelon dans son ressort",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "8°",
+                      "text": "le centre de santé mentale élabore un code déontologique et les collaborateurs du centre de santé mentale sont tenus au respect du secret professionnel",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "9°",
+                      "text": "le centre de santé mentale prête son concours à des actions de prévention qui s'inscrivent dans le cadre de sa mission et qui s'adressent à des groupes-cibles spécifiques de la population, et conclut à cet effet des accords de coopération avec les LOGO actifs dans le ressort du centre de santé mentale.",
+                      "sub_items": []
+                    }
+                  ],
+                  "main_text": "<article class=\"legal-article\" id=\"art-9\"><header class=\"article-header\"><h2 class=\"article-number\">Article 9</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">Afin de contribuer à l'accomplissement de la mission telle que définie à l'article 7:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le centre de santé mentale se présente comme structure de santé de second échelon</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le centre de santé mentale fait prévaloir l'intérêt du patient</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le centre de santé mentale prête une attention particulière aux enfants, aux personnes âgées et aux personnes socialement et financièrement faibles</span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le centre de santé mentale travaille de façon interdisciplinaire en faisant appel aux disciplines psychiatriques, psychologiques, socioculturelles et sociales. Le centre prévoit à cet effet un soutien logistique</span></li><li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">le centre de santé mentale opère au sein d'un ou plusieurs réseaux psychiatriques, où des accords et procédures de collaboration sont convenus afin de réaliser une offre de soins de santé mentale suffisamment différenciée et axée sur des groupes-cibles, de manière à garantir aux patients une aide adéquate sur mesure</span></li><li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">le centre de santé mentale désigne des équipes multidisciplinaires qui dispensent des soins de santé mentale aux enfants et aux personnes âgées visés au</span></li><li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">le centre de santé mentale conclut des accords avec ses instances de renvoi et collabore avec les structures de santé et d'aide sociale de premier échelon dans son ressort</span></li><li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">le centre de santé mentale élabore un code déontologique et les collaborateurs du centre de santé mentale sont tenus au respect du secret professionnel</span></li><li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">le centre de santé mentale prête son concours à des actions de prévention qui s'inscrivent dans le cadre de sa mission et qui s'adressent à des groupes-cibles spécifiques de la population, et conclut à cet effet des accords de coopération avec les LOGO actifs dans le ressort du centre de santé mentale.</span></li></ol></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Le Gouvernement peut confier des tâches complémentaires aux centres de santé mentale au bénéfice de groupes-cibles, problématiques ou besoins régionaux spécifiques ou en cas de situations de crise aiguës.</p></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p>Afin d'assurer l'effectivité, l'uniformité et le professionnalisme de l'approche de la problématique de la drogue, les centres de santé mentale font appel à l'assistance et à l'accompagnement de l'Association pour problèmes d'alcool et autres drogues (VAD) ou de son ayant-cause.</p></div></section><section class=\"paragraph\" id=\"para-4\"><h3 class=\"paragraph-marker\">§ 4.</h3><div class=\"paragraph-content\"><p>Un centre de santé mentale peut se faire confier, contre rémunération, des tâches par des personnes, services ou structures autres que ceux visés à l'article 2, 8°. Ces tâches supplémentaires se limitent aux domaines définis dans le cadre de sa mission. Elles ne peuvent en aucun cas donner lieu à une réalisation réduite ni compromettre la réalisation de cette mission. Les centres de santé mentale soumettent annuellement au Gouvernement un rapport sur la nature et l'ampleur de ces tâches supplémentaires.</p></div></section></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 4,
+                    "provision_count": 9,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.570081"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 10",
+              "metadata": {
+                "article_range": "10",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "10",
+                "anchor_id": "art_10",
+                "content": {
+                  "main_text_raw": "§ 1er. En exécution de la disposition définie à l'article 4, le centre de santé mentale établit un plan d'action pour chaque patient. § 2. L'élaboration, l'évaluation intermédiaire et l'évaluation finale de chaque plan d'action s'effectuent par une équipe multidisciplinaire sous la direction d'un psychiatre.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-10\"><header class=\"article-header\"><h2 class=\"article-number\">Article 10</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>En exécution de la disposition définie à l'article 4, le centre de santé mentale établit un plan d'action pour chaque patient.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>L'élaboration, l'évaluation intermédiaire et l'évaluation finale de chaque plan d'action s'effectuent par une équipe multidisciplinaire sous la direction d'un psychiatre.</p></div></section></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 2,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.570203"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 11",
+              "metadata": {
+                "article_range": "11",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "11",
+                "anchor_id": "art_11",
+                "content": {
+                  "main_text_raw": "§ 1er. Sans préjudice des dispositions de l'article 3, le centre de santé mentale prend en charge chaque patient qui lui est renvoyé par une instance de renvoi. § 2. Le centre de santé mentale entame les entretiens de premier accueil et l'aide éventuelle qui s'ensuit dans un délai raisonnable après le premier contact. Ce délai raisonnable est défini dans le plan de gestion tel que visé à l'article 25. § 3. Les centres de santé mentale, les instances de renvoi et les structures visées à l'article 9, § 1er, 7° échangent leurs expériences afin d'évaluer l'effectivité et l'efficacité des renvois et, au besoin, mettre au point des mécanismes susceptibles d'optimaliser les renvois.",
+                  "numbered_provisions": [
+                    {
+                      "number": "7°",
+                      "text": "échangent leurs expériences afin d'évaluer l'effectivité et l'efficacité des renvois et, au besoin, mettre au point des mécanismes susceptibles d'optimaliser les renvois.",
+                      "sub_items": []
+                    }
+                  ],
+                  "main_text": "<article class=\"legal-article\" id=\"art-11\"><header class=\"article-header\"><h2 class=\"article-number\">Article 11</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Sans préjudice des dispositions de l'article 3, le centre de santé mentale prend en charge chaque patient qui lui est renvoyé par une instance de renvoi.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Le centre de santé mentale entame les entretiens de premier accueil et l'aide éventuelle qui s'ensuit dans un délai raisonnable après le premier contact. Ce délai raisonnable est défini dans le plan de gestion tel que visé à l'article 25.</p></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">Les centres de santé mentale, les instances de renvoi et les structures visées à l'article 9, § 1er,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">échangent leurs expériences afin d'évaluer l'effectivité et l'efficacité des renvois et, au besoin, mettre au point des mécanismes susceptibles d'optimaliser les renvois.</span></li></ol></div></section></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 3,
+                    "provision_count": 1,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.570439"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 12",
+              "metadata": {
+                "article_range": "12",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "12",
+                "anchor_id": "art_12",
+                "content": {
+                  "main_text_raw": "Tous les partenaires des réseaux psychiatriques effectuent un enregistrement tel que visé à l'article 2, 6°, selon les modalités fixées par le Gouvernement.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-12\"><header class=\"article-header\"><h2 class=\"article-number\">Article 12</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Tous les partenaires des réseaux psychiatriques effectuent un enregistrement tel que visé à l'article 2, 6°, selon les modalités fixées par le Gouvernement.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.570516"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 13",
+              "metadata": {
+                "article_range": "13",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "13",
+                "anchor_id": "art_13",
+                "content": {
+                  "main_text_raw": "Le centre de santé mentale compose un dossier multidisciplinaire pour chaque patient pris en charge.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-13\"><header class=\"article-header\"><h2 class=\"article-number\">Article 13</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le centre de santé mentale compose un dossier multidisciplinaire pour chaque patient pris en charge.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.570583"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 14",
+              "metadata": {
+                "article_range": "14",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "14",
+                "anchor_id": "art_14",
+                "content": {
+                  "main_text_raw": "Le Gouvernement fixe les règles relatives à la composition, à la tenue, à la multiplication et à la destruction des dossiers des patients, ainsi que la procédure de la consultation et de la transmission éventuelles du dossier. Il tient compte des règles en vigueur en matière de secret professionnel, de déontologie et des règles relatives à la protection des personnes physiques à l'égard du traitement des données à caractère personnel.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-14\"><header class=\"article-header\"><h2 class=\"article-number\">Article 14</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le Gouvernement fixe les règles relatives à la composition, à la tenue, à la multiplication et à la destruction des dossiers des patients, ainsi que la procédure de la consultation et de la transmission éventuelles du dossier. Il tient compte des règles en vigueur en matière de secret professionnel, de déontologie et<span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"des règles relatives à la protection des personnes physiques à l'égard du traitement des données à caractère personnel\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018060804#Art.93\" data-article-dossier-number=\"\">des règles relatives à la protection des personnes physiques à l'égard du traitement des données à caractère personnel</span>.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.570718"
+                  }
+                }
+              },
+              "footnotes": [
+                {
+                  "footnote_number": "1",
+                  "footnote_content": "(1)<DCFL [2018-06-08/04](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018060804), art. 93, 009; En vigueur : 25-05-2018>",
+                  "law_reference": {
+                    "law_type": "DCFL",
+                    "date_reference": "2018-06-08/04",
+                    "article_number": "art. 93",
+                    "sequence_number": "009",
+                    "full_reference": "DCFL [2018-06-08/04]"
+                  },
+                  "effective_date": "25-05-2018",
+                  "modification_type": "modification",
+                  "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018060804",
+                  "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018060804#Art.93"
+                }
+              ],
+              "footnote_references": [
+                {
+                  "reference_number": "1",
+                  "text_position": 319,
+                  "referenced_text": "des règles relatives à la protection des personnes physiques à l'égard du traitement des données à caractère personnel",
+                  "embedded_law_references": [],
+                  "bracket_pattern": "[1 des règles relatives à la protection des personnes physiques à l'égard du traitement des données à caractère personnel]1"
+                }
+              ]
+            },
+            {
+              "type": "article",
+              "label": "Article 15",
+              "metadata": {
+                "article_range": "15",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "15",
+                "anchor_id": "art_15",
+                "content": {
+                  "main_text_raw": "Tous les trois ans, le centre de santé mentale signale au Gouvernement, par l'interprétation des données recueillies dans le cadre de l'enregistrement, les facteurs influant systématiquement sur la santé mentale de la population de leur territoire. Un premier rapport en la matière est établi par le centre de santé mentale dans les six mois du terme de la première convention visée à l'article 24.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-15\"><header class=\"article-header\"><h2 class=\"article-number\">Article 15</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Tous les trois ans, le centre de santé mentale signale au Gouvernement, par l'interprétation des données recueillies dans le cadre de l'enregistrement, les facteurs influant systématiquement sur la santé mentale de la population de leur territoire. Un premier rapport en la matière est établi par le centre de santé mentale dans les six mois du terme de la première convention visée à l'article 24.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.570818"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 16",
+              "metadata": {
+                "article_range": "16",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "16",
+                "anchor_id": "art_16",
+                "content": {
+                  "main_text_raw": "Le centre de santé mentale organise la permanence minimale nécessaire pendant les périodes de vacances ainsi que son accessibilité pendant les heures de fermeture.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-16\"><header class=\"article-header\"><h2 class=\"article-number\">Article 16</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le centre de santé mentale organise la permanence minimale nécessaire pendant les périodes de vacances ainsi que son accessibilité pendant les heures de fermeture.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.570890"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 17",
+              "metadata": {
+                "article_range": "17",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "17",
+                "anchor_id": "art_17",
+                "content": {
+                  "main_text_raw": "Le centre de santé mentale créé les conditions propices à une formation suffisante et permanente de son personnel.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-17\"><header class=\"article-header\"><h2 class=\"article-number\">Article 17</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le centre de santé mentale créé les conditions propices à une formation suffisante et permanente de son personnel.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.570958"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 18",
+              "metadata": {
+                "article_range": "18",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "18",
+                "anchor_id": "art_18",
+                "content": {
+                  "main_text_raw": "Le Gouvernement fixe, en concertation avec toutes les parties intéressées, l'affectation et les modalités de la contribution financière du patient en fonction notamment du revenu, de la situation familiale, de l'intensité et de la chronicité des soins nécessités.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-18\"><header class=\"article-header\"><h2 class=\"article-number\">Article 18</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le Gouvernement fixe, en concertation avec toutes les parties intéressées, l'affectation et les modalités de la contribution financière du patient en fonction notamment du revenu, de la situation familiale, de l'intensité et de la chronicité des soins nécessités.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.571040"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE III. Agrément des centres de santé mentale.",
+      "metadata": {
+        "title_type": "CHAPITRE III.",
+        "title_content": "Agrément des centres de santé mentale.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 19",
+          "metadata": {
+            "article_range": "19",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "19",
+            "anchor_id": "art_19",
+            "content": {
+              "main_text_raw": "Tout centre de santé mentale doit être agréé à ce titre par le Gouvernement.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-19\"><header class=\"article-header\"><h2 class=\"article-number\">Article 19</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Tout centre de santé mentale doit être agréé à ce titre par le Gouvernement.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.571104"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 20",
+          "metadata": {
+            "article_range": "20",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "20",
+            "anchor_id": "art_20",
+            "content": {
+              "main_text_raw": "§ 1er. Pour obtenir et maintenir l'agrément, les conditions suivantes doivent être remplies: 1° avoir été créé par une association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres, une province, une commune, un centre public d'aide sociale ou une université qui, selon le cas, en vertu de la loi, du décret ou des statuts, y sont habilitées; 2° être établi dans des bâtiments ou locaux qui remplissent les conditions en matière d'hygiène, de sécurité et d'habitabilité; 3° disposer d'une infrastructure qui permet une exécution de qualité des missions et la protection de la vie privée; 4° permettre le contrôle par l'inspection et le contrôle par la commission d'évaluation, comme prévu aux articles 34 et 35; 5° accomplir les tâches et respecter les principes de fonctionnement tels que définis au chapitre II et remplir les dispositions du chapitre VII; 6° mettre en oeuvre une politique en matière de qualité conformément aux dispositions du décret du 25 février 1997 relatif à la gestion totale de la qualité dans les établissements de soins; 7° s'inscrire dans la programmation comme prévu à l'article 27; 8° tenir une comptabilité conformément au plan comptable de la Communauté flamande; 9° revêtir la forme d'une association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres ou d'une association créée en vertu des articles 118 à 135 inclus de la loi organique du 8 juillet 1976 des centres publics d'aide sociale. § 2. Le Gouvernement arrête la procédure et les modalités d'agrément. § 3. Dans des cas spécifiques, le Gouvernement peut autoriser des dérogations aux conditions telles que visées au § 1er, 7°, étant entendu que le nombre total des centres de santé mentale agréés ne dépasse pas 26.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "avoir été créé par une [1 association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "être établi dans des bâtiments ou locaux qui remplissent les conditions en matière d'hygiène, de sécurité et d'habitabilité",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "disposer d'une infrastructure qui permet une exécution de qualité des missions et la protection de la vie privée",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "permettre le contrôle par l'inspection et le contrôle par la commission d'évaluation, comme prévu aux articles 34 et 35",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "accomplir les tâches et respecter les principes de fonctionnement tels que définis au chapitre II et remplir les dispositions du chapitre VII",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "mettre en oeuvre une politique en matière de qualité conformément aux dispositions du décret du 25 février 1997 relatif à la gestion totale de la qualité dans les établissements de soins",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "s'inscrire dans la programmation comme prévu à l'article 27",
+                  "sub_items": []
+                },
+                {
+                  "number": "8°",
+                  "text": "tenir une comptabilité conformément au plan comptable de la Communauté flamande",
+                  "sub_items": []
+                },
+                {
+                  "number": "9°",
+                  "text": "revêtir la forme d'une [1 association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-20\"><header class=\"article-header\"><h2 class=\"article-number\">Article 20</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">Pour obtenir et maintenir l'agrément, les conditions suivantes doivent être remplies:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">avoir été créé par une [1<span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071517#Art.45\" data-article-dossier-number=\"\">association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres</span></span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">être établi dans des bâtiments ou locaux qui remplissent les conditions en matière d'hygiène, de sécurité et d'habitabilité</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">disposer d'une infrastructure qui permet une exécution de qualité des missions et la protection de la vie privée</span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">permettre le contrôle par l'inspection et le contrôle par la commission d'évaluation, comme prévu aux articles 34 et 35</span></li><li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">accomplir les tâches et respecter les principes de fonctionnement tels que définis au chapitre II et remplir les dispositions du chapitre VII</span></li><li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">mettre en oeuvre une politique en matière de qualité conformément aux dispositions du décret du 25 février 1997 relatif à la gestion totale de la qualité dans les établissements de soins</span></li><li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">s'inscrire dans la programmation comme prévu à l'article 27</span></li><li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">tenir une comptabilité conformément au plan comptable de la Communauté flamande</span></li><li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">revêtir la forme d'une [1<span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2016071517#Art.45\" data-article-dossier-number=\"\">association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres</span></span></li></ol><p class=\"closing-text\">ue pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres, une province, une commune, un centre public d'aide sociale ou une université qui, selon le cas, en vertu de la loi, du décret ou des statuts, y sont habilitées; 2° être établi dans des bâtiments ou locaux qui remplissent les conditions en matière d'hygiène, de sécurité et d'habitabilité; 3° disposer d'une infrastructure qui permet une exécution de qualité des missions et la protection de la vie privée; 4° permettre le contrôle par l'inspection et le contrôle par la commission d'évaluation, comme prévu aux articles 34 et 35; 5° accomplir les tâches et respecter les principes de fonctionnement tels que définis au chapitre II et remplir les dispositions du chapitre VII; 6° mettre en oeuvre une politique en matière de qualité conformément aux dispositions du décret du 25 février 1997 relatif à la gestion totale de la qualité dans les établissements de soins; 7° s'inscrire dans la programmation comme prévu à l'article 27; 8° tenir une comptabilité conformément au plan comptable de la Communauté flamande; 9° revêtir la forme d'une association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres ou d'une association créée en vertu des articles 118 à 135 inclus de la loi organique du 8 juillet 1976 des centres publics d'aide sociale.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Le Gouvernement arrête la procédure et les modalités d'agrément.</p></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p>Dans des cas spécifiques, le Gouvernement peut autoriser des dérogations aux conditions telles que visées au § 1er, 7°, étant entendu que le nombre total des centres de santé mentale agréés ne dépasse pas 26.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 3,
+                "provision_count": 9,
+                "has_tables": true,
+                "generation_timestamp": "2025-08-15T21:26:57.572092"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DCFL [2016-07-15/17](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2016071517), art. 45, 008; En vigueur : 29-08-2016>",
+              "law_reference": {
+                "law_type": "DCFL",
+                "date_reference": "2016-07-15/17",
+                "article_number": "art. 45",
+                "sequence_number": "008",
+                "full_reference": "DCFL [2016-07-15/17]"
+              },
+              "effective_date": "29-08-2016",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2016071517",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2016071517#Art.45"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 122,
+              "referenced_text": "association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres]1"
+            },
+            {
+              "reference_number": "1",
+              "text_position": 1332,
+              "referenced_text": "association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 21",
+          "metadata": {
+            "article_range": "21",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "21",
+            "anchor_id": "art_21",
+            "content": {
+              "main_text_raw": "§ 1er. Le Gouvernement peut retirer l'agrément d'un centre de santé mentale lorsqu'une ou plusieurs conditions de l'article 20 ne sont plus remplies. § 2. Le Gouvernement arrête la procédure de retrait de l'agrément. Cette procédure garantit les droits de la défense.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-21\"><header class=\"article-header\"><h2 class=\"article-number\">Article 21</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Le Gouvernement peut retirer l'agrément d'un centre de santé mentale lorsqu'une ou plusieurs conditions de l'article 20 ne sont plus remplies.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Le Gouvernement arrête la procédure de retrait de l'agrément. Cette procédure garantit les droits de la défense.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.572211"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 22",
+          "metadata": {
+            "article_range": "22",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "22",
+            "anchor_id": "art_22",
+            "content": {
+              "main_text_raw": "§ 1er. Sans préjudice de l'application des articles 20 et 21, il faut qu'un centre de santé mentale qui sera agréé le 1er janvier 2000 et qui a été créé par une instance telle que visée à l'article 20, § 1er, 1°, ou son ayant-cause, était agréé le 1er janvier 1999. § 2. Si plus de deux centres de santé mentale sont agréés dans un territoire tel que défini à l'article 27, § 1er, le Gouvernement peut octroyer, à partir du 1er janvier 2001, à une instance telle que visée à l'article 20, § 1er, 1°, à condition que les dispositions de l'article 20 et de l'article 27, § 1er soient remplies.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-22\"><header class=\"article-header\"><h2 class=\"article-number\">Article 22</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Sans préjudice de l'application des articles 20 et 21, il faut qu'un centre de santé mentale qui sera agréé le 1er janvier 2000 et qui a été créé par une instance telle que visée à l'article 20, § 1er, 1°, ou son ayant-cause, était agréé le 1er janvier 1999.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Si plus de deux centres de santé mentale sont agréés dans un territoire tel que défini à l'article 27, § 1er, le Gouvernement peut octroyer, à partir du 1er janvier 2001, à une instance telle que visée à l'article 20, § 1er, 1°, à condition que les dispositions de l'article 20 et de l'article 27, § 1er soient remplies.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.572362"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 23",
+          "metadata": {
+            "article_range": "23",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "23",
+            "anchor_id": "art_23",
+            "content": {
+              "main_text_raw": "Le chapitre III du décret du 7 décembre 2007 portant création... d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats-)accueillants s'applique à la procédure relative à l'agrément, à la suspension de l'agrément et au retrait de l'agrément des centres de santé mentale.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-23\"><header class=\"article-header\"><h2 class=\"article-number\">Article 23</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le chapitre III du décret du 7 décembre 2007 portant création<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"...\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023120110#Art.2\" data-article-dossier-number=\"\">...</span>d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"et des (Candidats-)accueillants\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023120110#Art.2\" data-article-dossier-number=\"\">et des (Candidats-)accueillants</span>s'applique à la procédure relative à l'agrément, à la suspension de l'agrément et au retrait de l'agrément des centres de santé mentale.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.572511"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DCFL [2009-03-20/36](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2009032036), art. 49, 010; En vigueur : indéterminée >",
+              "law_reference": {
+                "law_type": "DCFL",
+                "date_reference": "2009-03-20/36",
+                "article_number": "art. 49",
+                "sequence_number": "010",
+                "full_reference": "DCFL [2009-03-20/36]"
+              },
+              "effective_date": "indéterminée",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2009032036",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2009032036#Art.49"
+            },
+            {
+              "footnote_number": "2",
+              "footnote_content": "(2)<DCFL [2023-12-01/10](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2023120110), art. 2, 010; En vigueur : 20-01-2024>",
+              "law_reference": {
+                "law_type": "DCFL",
+                "date_reference": "2023-12-01/10",
+                "article_number": "art. 2",
+                "sequence_number": "010",
+                "full_reference": "DCFL [2023-12-01/10]"
+              },
+              "effective_date": "20-01-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2023120110",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2023120110#Art.2"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "2",
+              "text_position": 66,
+              "referenced_text": "...",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 ...]2"
+            },
+            {
+              "reference_number": "2",
+              "text_position": 182,
+              "referenced_text": "et des (Candidats-)accueillants",
+              "embedded_law_references": [],
+              "bracket_pattern": "[2 et des (Candidats-)accueillants]2"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 23",
+          "metadata": {
+            "article_range": "23",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "23",
+            "anchor_id": "art_23",
+            "content": {
+              "main_text_raw": "Le chapitre III du décret du 7 décembre 2007 portant création du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille s'applique à la procédure relative à l'agrément, à la suspension de l'agrément et au retrait de l'agrément des centres de santé mentale.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-23\"><header class=\"article-header\"><h2 class=\"article-number\">Article 23</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Le chapitre III du décret du 7 décembre 2007 portant création du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille s'applique à la procédure relative à l'agrément, à la suspension de l'agrément et au retrait de l'agrément des centres de santé mentale.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009032036#Art.49\" data-article-dossier-number=\"\">Le chapitre III du décret du 7 décembre 2007 portant création du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille s'applique à la procédure relative à l'agrément, à la suspension de l'agrément et au retrait de l'agrément des centres de santé mentale.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.572644"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DCFL [2009-03-20/36](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2009032036), art. 49, 005; En vigueur : indéterminée >",
+              "law_reference": {
+                "law_type": "DCFL",
+                "date_reference": "2009-03-20/36",
+                "article_number": "art. 49",
+                "sequence_number": "005",
+                "full_reference": "DCFL [2009-03-20/36]"
+              },
+              "effective_date": "indéterminée",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2009032036",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2009032036#Art.49"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Le chapitre III du décret du 7 décembre 2007 portant création du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille s'applique à la procédure relative à l'agrément, à la suspension de l'agrément et au retrait de l'agrément des centres de santé mentale.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Le chapitre III du décret du 7 décembre 2007 portant création du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille s'applique à la procédure relative à l'agrément, à la suspension de l'agrément et au retrait de l'agrément des centres de santé mentale.]1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE IV. Convention et plan de gestion.",
+      "metadata": {
+        "title_type": "CHAPITRE IV.",
+        "title_content": "Convention et plan de gestion.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 24",
+          "metadata": {
+            "article_range": "24",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "24",
+            "anchor_id": "art_24",
+            "content": {
+              "main_text_raw": "Est seul admissible aux subventions, un centre de santé mentale agréé avec lequel le Gouvernement conclut une convention. Cette convention comprend deux volets: d'une part la description du plan de gestion, d'autre part la détermination de l'enveloppe de subventions. Cette convention définit, pour une période de 3 ans, les objectifs généraux et spécifiques ainsi que les prestations auxquelles on s'engage et les résultats envisagés par le centre de santé mentale.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-24\"><header class=\"article-header\"><h2 class=\"article-number\">Article 24</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Est seul admissible aux subventions, un centre de santé mentale agréé avec lequel le Gouvernement conclut une convention. Cette convention comprend deux volets: d'une part la description du plan de gestion, d'autre part la détermination de l'enveloppe de subventions. Cette convention définit, pour une période de 3 ans, les objectifs généraux et spécifiques ainsi que les prestations auxquelles on s'engage et les résultats envisagés par le centre de santé mentale.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.572754"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 25",
+          "metadata": {
+            "article_range": "25",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "25",
+            "anchor_id": "art_25",
+            "content": {
+              "main_text_raw": "Le plan de gestion comprend au minimum: 1° la manière dont le centre de santé mentale réalise les dispositions du chapitre II; 2° la manière dont les indicateurs de qualité et de prestation sont appliqués et quelles sont les actions qui seront éventuellement entreprises en vue d'optimaliser le fonctionnement du centre de santé mentale; 3° le cas échéant, l'accord tel que visé à l'article 27, § 3.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "la manière dont le centre de santé mentale réalise les dispositions du chapitre II",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "la manière dont les indicateurs de qualité et de prestation sont appliqués et quelles sont les actions qui seront éventuellement entreprises en vue d'optimaliser le fonctionnement du centre de santé mentale",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "le cas échéant, l'accord tel que visé à l'article 27, § 3.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-25\"><header class=\"article-header\"><h2 class=\"article-number\">Article 25</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Le plan de gestion comprend au minimum:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la manière dont le centre de santé mentale réalise les dispositions du chapitre II</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la manière dont les indicateurs de qualité et de prestation sont appliqués et quelles sont les actions qui seront éventuellement entreprises en vue d'optimaliser le fonctionnement du centre de santé mentale</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le cas échéant, l'accord tel que visé à l'article 27, § 3.</span></li></ol></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 3,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.572993"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 26",
+          "metadata": {
+            "article_range": "26",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "26",
+            "anchor_id": "art_26",
+            "content": {
+              "main_text_raw": "(§ 1.) Dans le cadre de la convention telle que visée à l'article 24, le Gouvernement négocie avec les centres de santé mentale: <DCFL 2005-11-25/34, art. 2, 004;**En vigueur:**08-01-2006> 1° la quote-part des frais de personnel et de fonctionnement dans l'enveloppe de subventions; 2° l'ampleur de l'évolution de l'enveloppe de subventions à la suite de l'indexation et de l'évolution salariale. (§ 2. Si la nouvelle convention relative à l'enveloppe de subventions entre le Gouvernement et le centre de santé mentale n'est pas encore signée au début de la nouvelle période de convention triennale, il sera octroyé au centre agréé, en vue de la continuité du subventionnement, une avance mensuelle en attendant la signature de la convention ou de l'application de l'alinéa deux. Cette avance représente 1/12 de l'enveloppe attribuée de l'année précédente. Si, dans les six mois de l'expiration de la convention visée à l'article 24, la nouvelle convention entre le gouvernement et le centre de santé mentale n'est pas encore signée, le Gouvernement fixe unilatéralement le montant de l'enveloppe qui sera attribuée. Si la nouvelle enveloppe de subventions ou l'enveloppe de subventions fixée unilatéralement par le Gouvernement conformément à l'alinéa deux, les avances mensuelles visées à l'alinéa premier sont considérées comme acquises pour le centre de santé mentale. Le total des avances mensuelles versées est décompté de la nouvelle enveloppe de subventions.) <DCFL 2005-11-25/34, art. 2, 004;**En vigueur:**08-01-2006>",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "la quote-part des frais de personnel et de fonctionnement dans l'enveloppe de subventions",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "l'ampleur de l'évolution de l'enveloppe de subventions à la suite de l'indexation et de l'évolution salariale.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-26\"><header class=\"article-header\"><h2 class=\"article-number\">Article 26</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1\"><h3 class=\"paragraph-marker\">§ 1.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">) Dans le cadre de la convention telle que visée à l'article 24, le Gouvernement négocie avec les centres de santé mentale: <span class=\"legal-citation legal-citation-standard\" data-citation-type=\"standard\" data-dossier-number=\"2005-11-25/34\" data-article-number=\"2\" data-law-type=\"DCFL\" data-effective-date=\"08-01-2006\">&lt;DCFL 2005-11-25/34, art. 2, 004; En vigueur : 08-01-2006&gt;</span>:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la quote-part des frais de personnel et de fonctionnement dans l'enveloppe de subventions</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">l'ampleur de l'évolution de l'enveloppe de subventions à la suite de l'indexation et de l'évolution salariale.</span></li></ol></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Si la nouvelle convention relative à l'enveloppe de subventions entre le Gouvernement et le centre de santé mentale n'est pas encore signée au début de la nouvelle période de convention triennale, il sera octroyé au centre agréé, en vue de la continuité du subventionnement, une avance mensuelle en attendant la signature de la convention ou de l'application de l'alinéa deux. Cette avance représente 1/12 de l'enveloppe attribuée de l'année précédente. Si, dans les six mois de l'expiration de la convention visée à l'article 24, la nouvelle convention entre le gouvernement et le centre de santé mentale n'est pas encore signée, le Gouvernement fixe unilatéralement le montant de l'enveloppe qui sera attribuée. Si la nouvelle enveloppe de subventions ou l'enveloppe de subventions fixée unilatéralement par le Gouvernement conformément à l'alinéa deux, les avances mensuelles visées à l'alinéa premier sont considérées comme acquises pour le centre de santé mentale. Le total des avances mensuelles versées est décompté de la nouvelle enveloppe de subventions.) <span class=\"legal-citation legal-citation-standard\" data-citation-type=\"standard\" data-dossier-number=\"2005-11-25/34\" data-article-number=\"2\" data-law-type=\"DCFL\" data-effective-date=\"08-01-2006\">&lt;DCFL 2005-11-25/34, art. 2, 004; En vigueur : 08-01-2006&gt;</span></p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 2,
+                "provision_count": 2,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.573403"
+              },
+              "enhanced_citations": [
+                {
+                  "citation_type": "standard",
+                  "law_type": "DCFL",
+                  "dossier_number": "2005-11-25/34",
+                  "article_number": "2",
+                  "sequence_number": "004",
+                  "effective_date": "08-01-2006",
+                  "url": "",
+                  "full_text": "<DCFL 2005-11-25/34, art. 2, 004;**En vigueur:**08-01-2006>",
+                  "prefix": "",
+                  "raw_dossier": "2005-11-25/34",
+                  "raw_article": "2",
+                  "start_pos": 129,
+                  "end_pos": 188,
+                  "matched_text": "<DCFL 2005-11-25/34, art. 2, 004;**En vigueur:**08-01-2006>"
+                },
+                {
+                  "citation_type": "standard",
+                  "law_type": "DCFL",
+                  "dossier_number": "2005-11-25/34",
+                  "article_number": "2",
+                  "sequence_number": "004",
+                  "effective_date": "08-01-2006",
+                  "url": "",
+                  "full_text": "<DCFL 2005-11-25/34, art. 2, 004;**En vigueur:**08-01-2006>",
+                  "prefix": "",
+                  "raw_dossier": "2005-11-25/34",
+                  "raw_article": "2",
+                  "start_pos": 1468,
+                  "end_pos": 1527,
+                  "matched_text": "<DCFL 2005-11-25/34, art. 2, 004;**En vigueur:**08-01-2006>"
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE V. Programmation des centres de santé mentale et leurs moyens d'investissement.",
+      "metadata": {
+        "title_type": "CHAPITRE V.",
+        "title_content": "Programmation des centres de santé mentale et leurs moyens d'investissement.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "section",
+          "label": "Section 1. Programmation.",
+          "metadata": {
+            "title_type": "Section 1.",
+            "title_content": "Programmation.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 27",
+              "metadata": {
+                "article_range": "27",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "27",
+                "anchor_id": "art_27",
+                "content": {
+                  "main_text_raw": "§ 1er. Le ressort d'un centre de santé mentale est formé par un ensemble sociologique de communes limitrophes qui compte au moins 400.000 habitants et qui couvre au maximum les ressorts des LOGO qui participent à une plate-forme provinciale de prévention. 2 centres de santé mentale au maximum peuvent être agréés par ressort. Pour la Communauté flamande, 26 centres de santé mentale au maximum peuvent être agréés, dont 2 à Bruxelles-Capitale. § 2. Chaque centre de santé mentale peut disposer de plusieurs lieux d'établissement, afin de réaliser une bonne accessibilité au public. § 3. Dans chaque ressort, le cas échéant, les 2 centres de santé mentale formalisent leurs accords, afin de concrétiser la conformité aux dispositions de l'article 9, 5°. § 4. Les centres de santé mentale ne peuvent être agréés avant que ne soit démontré que la somme des ressorts des centres de santé mentale couvre la totalité de la Communauté flamande.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-27\"><header class=\"article-header\"><h2 class=\"article-number\">Article 27</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Le ressort d'un centre de santé mentale est formé par un ensemble sociologique de communes limitrophes qui compte au moins 400.000 habitants et qui couvre au maximum les ressorts des LOGO qui participent à une plate-forme provinciale de prévention. 2 centres de santé mentale au maximum peuvent être agréés par ressort. Pour la Communauté flamande, 26 centres de santé mentale au maximum peuvent être agréés, dont 2 à Bruxelles-Capitale.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Chaque centre de santé mentale peut disposer de plusieurs lieux d'établissement, afin de réaliser une bonne accessibilité au public.</p></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p>Dans chaque ressort, le cas échéant, les 2 centres de santé mentale formalisent leurs accords, afin de concrétiser la conformité aux dispositions de l'article 9, 5°.</p></div></section><section class=\"paragraph\" id=\"para-4\"><h3 class=\"paragraph-marker\">§ 4.</h3><div class=\"paragraph-content\"><p>Les centres de santé mentale ne peuvent être agréés avant que ne soit démontré que la somme des ressorts des centres de santé mentale couvre la totalité de la Communauté flamande.</p></div></section></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 4,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.573628"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            },
+            {
+              "type": "article",
+              "label": "Article 28",
+              "metadata": {
+                "article_range": "28",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "28",
+                "anchor_id": "art_28",
+                "content": {
+                  "main_text_raw": "Le Gouvernement arrête les paramètres appliqués en vue de détecter les besoins en soins de chaque ressort, afin d'arriver à une répartition équilibrée de la capacité de soins.",
+                  "numbered_provisions": [],
+                  "main_text": "<article class=\"legal-article\" id=\"art-28\"><header class=\"article-header\"><h2 class=\"article-number\">Article 28</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le Gouvernement arrête les paramètres appliqués en vue de détecter les besoins en soins de chaque ressort, afin d'arriver à une répartition équilibrée de la capacité de soins.</p></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 0,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.573705"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "label": "Section 2. Moyens d'investissement.",
+          "metadata": {
+            "title_type": "Section 2.",
+            "title_content": "Moyens d'investissement.",
+            "rank": 3
+          },
+          "children": [
+            {
+              "type": "article",
+              "label": "Article 29",
+              "metadata": {
+                "article_range": "29",
+                "rank": 5
+              },
+              "article_content": {
+                "article_number": "29",
+                "anchor_id": "art_29",
+                "content": {
+                  "main_text_raw": "Les centres de santé mentale peuvent faire appel aux moyens d'investissement attribués au VIPA dans les limites des crédits budgétaires disponibles, à condition que: 1° le centre de santé mentale remplit les conditions d'agrément telles que visées à l'article 20; 2° le besoin de construction neuve, de transformation ou d'extension soit démontré et que, dans les ressorts des réseaux psychiatriques, aucun bâtiment ou structure subventionnés en tout ou en partie par la Communauté flamande ne soit disponible; 3° les travaux répondent aux normes physiques et financières fixées par le Gouvernement.",
+                  "numbered_provisions": [
+                    {
+                      "number": "1°",
+                      "text": "le centre de santé mentale remplit les conditions d'agrément telles que visées à l'article 20",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "2°",
+                      "text": "le besoin de construction neuve, de transformation ou d'extension soit démontré et que, dans les ressorts des réseaux psychiatriques, aucun bâtiment ou structure subventionnés en tout ou en partie par la Communauté flamande ne soit disponible",
+                      "sub_items": []
+                    },
+                    {
+                      "number": "3°",
+                      "text": "les travaux répondent aux normes physiques et financières fixées par le Gouvernement.",
+                      "sub_items": []
+                    }
+                  ],
+                  "main_text": "<article class=\"legal-article\" id=\"art-29\"><header class=\"article-header\"><h2 class=\"article-number\">Article 29</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Les centres de santé mentale peuvent faire appel aux moyens d'investissement attribués au VIPA dans les limites des crédits budgétaires disponibles, à condition que:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le centre de santé mentale remplit les conditions d'agrément telles que visées à l'article 20</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le besoin de construction neuve, de transformation ou d'extension soit démontré et que, dans les ressorts des réseaux psychiatriques, aucun bâtiment ou structure subventionnés en tout ou en partie par la Communauté flamande ne soit disponible</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les travaux répondent aux normes physiques et financières fixées par le Gouvernement.</span></li></ol></div></div></article>",
+                  "structured_content_metadata": {
+                    "paragraph_count": 0,
+                    "provision_count": 3,
+                    "has_tables": false,
+                    "generation_timestamp": "2025-08-15T21:26:57.573962"
+                  }
+                }
+              },
+              "footnotes": [],
+              "footnote_references": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE VI. Appui scientifique multidisciplinaire.",
+      "metadata": {
+        "title_type": "CHAPITRE VI.",
+        "title_content": "Appui scientifique multidisciplinaire.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 30",
+          "metadata": {
+            "article_range": "30",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "30",
+            "anchor_id": "art_30",
+            "content": {
+              "main_text_raw": "Le Gouvernement flamand met annuellement un montant à disposition, dans les limites des crédits budgétaires disponibles, pour l'appui scientifique par projets des soins de santé mentale. Le Gouvernement flamand fixe les montants de subvention et les conditions pour l'établissement, le paiement et le recouvrement des subventions.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-30\"><header class=\"article-header\"><h2 class=\"article-number\">Article 30</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Le Gouvernement flamand met annuellement un montant à disposition, dans les limites des crédits budgétaires disponibles, pour l'appui scientifique par projets des soins de santé mentale. Le Gouvernement flamand fixe les montants de subvention et les conditions pour l'établissement, le paiement et le recouvrement des subventions.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014121918#Art.105\" data-article-dossier-number=\"\">Le Gouvernement flamand met annuellement un montant à disposition, dans les limites des crédits budgétaires disponibles, pour l'appui scientifique par projets des soins de santé mentale. Le Gouvernement flamand fixe les montants de subvention et les conditions pour l'établissement, le paiement et le recouvrement des subventions.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.574083"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DCFL [2014-12-19/18](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014121918), art. 105, 007; En vigueur : 01-01-2015>",
+              "law_reference": {
+                "law_type": "DCFL",
+                "date_reference": "2014-12-19/18",
+                "article_number": "art. 105",
+                "sequence_number": "007",
+                "full_reference": "DCFL [2014-12-19/18]"
+              },
+              "effective_date": "01-01-2015",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014121918",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014121918#Art.105"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Le Gouvernement flamand met annuellement un montant à disposition, dans les limites des crédits budgétaires disponibles, pour l'appui scientifique par projets des soins de santé mentale. Le Gouvernement flamand fixe les montants de subvention et les conditions pour l'établissement, le paiement et le recouvrement des subventions.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Le Gouvernement flamand met annuellement un montant à disposition, dans les limites des crédits budgétaires disponibles, pour l'appui scientifique par projets des soins de santé mentale. Le Gouvernement flamand fixe les montants de subvention et les conditions pour l'établissement, le paiement et le recouvrement des subventions.]1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE VII. Organisations prestataires de services.",
+      "metadata": {
+        "title_type": "CHAPITRE VII.",
+        "title_content": "Organisations prestataires de services.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 31",
+          "metadata": {
+            "article_range": "31",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "31",
+            "anchor_id": "art_31",
+            "content": {
+              "main_text_raw": "Le Gouvernement flamand peut annuellement mettre un montant à disposition pour des missions d'encadrement ou de prestation de services aux centres de soins de santé mentale, par une organisation ou plusieurs organisations. Le Gouvernement met ces moyens à disposition par le biais de conventions.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-31\"><header class=\"article-header\"><h2 class=\"article-number\">Article 31</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Le Gouvernement flamand peut annuellement mettre un montant à disposition pour des missions d'encadrement ou de prestation de services aux centres de soins de santé mentale, par une organisation ou plusieurs organisations. Le Gouvernement met ces moyens à disposition par le biais de conventions.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2014121918#Art.106\" data-article-dossier-number=\"\">Le Gouvernement flamand peut annuellement mettre un montant à disposition pour des missions d'encadrement ou de prestation de services aux centres de soins de santé mentale, par une organisation ou plusieurs organisations. Le Gouvernement met ces moyens à disposition par le biais de conventions.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.574197"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<DCFL [2014-12-19/18](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014121918), art. 106, 007; En vigueur : 01-01-2015>",
+              "law_reference": {
+                "law_type": "DCFL",
+                "date_reference": "2014-12-19/18",
+                "article_number": "art. 106",
+                "sequence_number": "007",
+                "full_reference": "DCFL [2014-12-19/18]"
+              },
+              "effective_date": "01-01-2015",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014121918",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2014121918#Art.106"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Le Gouvernement flamand peut annuellement mettre un montant à disposition pour des missions d'encadrement ou de prestation de services aux centres de soins de santé mentale, par une organisation ou plusieurs organisations. Le Gouvernement met ces moyens à disposition par le biais de conventions.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Le Gouvernement flamand peut annuellement mettre un montant à disposition pour des missions d'encadrement ou de prestation de services aux centres de soins de santé mentale, par une organisation ou plusieurs organisations. Le Gouvernement met ces moyens à disposition par le biais de conventions.]1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE VIII. Personnel et direction du centre de santé mentale.",
+      "metadata": {
+        "title_type": "CHAPITRE VIII.",
+        "title_content": "Personnel et direction du centre de santé mentale.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 32",
+          "metadata": {
+            "article_range": "32",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "32",
+            "anchor_id": "art_32",
+            "content": {
+              "main_text_raw": "§ 1er. Le centre de santé mentale est dirigé par une personne qui dispose de l'expérience et de l'expertise suffisantes et qui a suivi une formation spécifique en matière de direction. Le Gouvernement définit ce qu'il faut entendre par expérience et expertise suffisantes et la formation spécifique en matière de direction prise en considération. § 2. Le poste de direction est admissible aux subventions dans les limites de l'enveloppe de subventions telle que définie à l'article 26, si le centre dispose d'un effectif d'au moins quinze équivalents à temps plein. Le Gouvernement peut admettre aux subventions, dans les limites de l'enveloppe de subventions telle que définie à l'article 26, des frais de fonctionnement supplémentaires par tranche additionnelle de cinq membres du personnel. § 3. Les disciplines mentionnées à l'article 9, § 1er, 4° sont représentées au sein de l'équipe multidisciplinaire et permettent au centre de santé mentale d'accomplir les missions définies à l'article 7. Le Gouvernement peut fixer des conditions supplémentaires pour la composition de l'équipe. § 4. Le Gouvernement fixe les barèmes minimum des membres du personnel des centres de santé mentale, ainsi que les diplômes requis pour les disciplines respectives mentionnées à l'article 9, § 1er, 4°.",
+              "numbered_provisions": [
+                {
+                  "number": "4°",
+                  "text": "sont représentées au sein de l'équipe multidisciplinaire et permettent au centre de santé mentale d'accomplir les missions définies à l'article 7. Le Gouvernement peut fixer des conditions supplémentaires pour la composition de l'équipe.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-32\"><header class=\"article-header\"><h2 class=\"article-number\">Article 32</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Le centre de santé mentale est dirigé par une personne qui dispose de l'expérience et de l'expertise suffisantes et qui a suivi une formation spécifique en matière de direction. Le Gouvernement définit ce qu'il faut entendre par expérience et expertise suffisantes et la formation spécifique en matière de direction prise en considération.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Le poste de direction est admissible aux subventions dans les limites de l'enveloppe de subventions telle que définie à l'article 26, si le centre dispose d'un effectif d'au moins quinze équivalents à temps plein. Le Gouvernement peut admettre aux subventions, dans les limites de l'enveloppe de subventions telle que définie à l'article 26, des frais de fonctionnement supplémentaires par tranche additionnelle de cinq membres du personnel.</p></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p class=\"intro-text\">Les disciplines mentionnées à l'article 9, § 1er,:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">sont représentées au sein de l'équipe multidisciplinaire et permettent au centre de santé mentale d'accomplir les missions définies à l'article 7. Le Gouvernement peut fixer des conditions supplémentaires pour la composition de l'équipe.</span></li></ol></div></section><section class=\"paragraph\" id=\"para-4\"><h3 class=\"paragraph-marker\">§ 4.</h3><div class=\"paragraph-content\"><p>Le Gouvernement fixe les barèmes minimum des membres du personnel des centres de santé mentale, ainsi que les diplômes requis pour les disciplines respectives mentionnées à l'article 9, § 1er, 4°.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 4,
+                "provision_count": 1,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.574532"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 33",
+          "metadata": {
+            "article_range": "33",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "33",
+            "anchor_id": "art_33",
+            "content": {
+              "main_text_raw": "§ 1er. Afin de faire un usage maximal de l'expertise spécifique, 10 pour-cent au maximum du personnel d'un centre de santé mentale peuvent être affectés à un projet auquel participent d'autres centres de santé mentale et/ou un ou plusieurs partenaires d'un réseau psychiatrique et/ou l'appui multidisciplinaire visé à l'article 30 et/ou les organisations prestataires de services visées à l'article 31. § 2. Les membres du personnel visés au § 1er restent attachés administrativement à leur centre de santé mentale d'origine. Ce centre de santé mentale fait rapport au Gouvernement sur cette participation à des projets. § 3. Tout centre de santé mentale peut transférer une partie proportionnelle de son budget de fonctionnement aux projets visés au § 1er. § 4. L'application des §§ 1er et 3 ne peut donner lieu au non-exécution, par un centre de santé mentale, des missions visées à l'article 7.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-33\"><header class=\"article-header\"><h2 class=\"article-number\">Article 33</h2></header><div class=\"article-content\"><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p>Afin de faire un usage maximal de l'expertise spécifique, 10 pour-cent au maximum du personnel d'un centre de santé mentale peuvent être affectés à un projet auquel participent d'autres centres de santé mentale et/ou un ou plusieurs partenaires d'un réseau psychiatrique et/ou l'appui multidisciplinaire visé à l'article 30 et/ou les organisations prestataires de services visées à l'article 31.</p></div></section><section class=\"paragraph\" id=\"para-2\"><h3 class=\"paragraph-marker\">§ 2.</h3><div class=\"paragraph-content\"><p>Les membres du personnel visés au § 1er restent attachés administrativement à leur centre de santé mentale d'origine. Ce centre de santé mentale fait rapport au Gouvernement sur cette participation à des projets.</p></div></section><section class=\"paragraph\" id=\"para-3\"><h3 class=\"paragraph-marker\">§ 3.</h3><div class=\"paragraph-content\"><p>Tout centre de santé mentale peut transférer une partie proportionnelle de son budget de fonctionnement aux projets visés au</p></div></section><section class=\"paragraph\" id=\"para-1er\"><h3 class=\"paragraph-marker\">§ 1er.</h3><div class=\"paragraph-content\"><p></p></div></section><section class=\"paragraph\" id=\"para-4\"><h3 class=\"paragraph-marker\">§ 4.</h3><div class=\"paragraph-content\"><p>L'application des §§ 1er et 3 ne peut donner lieu au non-exécution, par un centre de santé mentale, des missions visées à l'article 7.</p></div></section></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 5,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.574776"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE VIII/1. [1 Mise en oeuvre des accords sociaux]1",
+      "metadata": {
+        "title_type": "CHAPITRE VIII/1.",
+        "title_content": "[1 Mise en oeuvre des accords sociaux]1",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 33/1",
+          "metadata": {
+            "article_range": "33/1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "33/1",
+            "anchor_id": "art_33/1",
+            "content": {
+              "main_text_raw": "Dans le cadre de la mise en oeuvre des accords sociaux relatifs au secteur de la santé qui répondent à toutes les conditions suivantes, le Gouvernement flamand peut arrêter les mesures dont la Communauté flamande prend l'impact financier à sa charge, et le Gouvernement flamand peut fixer les conditions et la procédure en vue de l'établissement de l'impact financier, du montant et du paiement de l'intervention financière: 1° les accords sociaux concernent les centres de santé mentale avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24; 2° les accords sociaux ne sont pas encore financés par l'enveloppe de subventions visée aux articles 24 et 26.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "les accords sociaux concernent les centres de santé mentale avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "les accords sociaux ne sont pas encore financés par l'enveloppe de subventions visée aux articles 24 et 26.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-33/1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 33/1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Dans le cadre de la mise en oeuvre des accords sociaux relatifs au secteur de la santé qui répondent à toutes les conditions suivantes, le Gouvernement flamand peut arrêter les mesures dont la Communauté flamande prend l'impact financier à sa charge, et le Gouvernement flamand peut fixer les conditions et la procédure en vue de l'établissement de l'impact financier, du montant et du paiement de l'intervention financière:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les accords sociaux concernent les centres de santé mentale avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les accords sociaux ne sont pas encore financés par l'enveloppe de subventions visée aux articles 24 et 26.</span></li></ol></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 2,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.575069"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<Inséré par DCFL [2023-12-01/10](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2023120110), art. 4, 010; En vigueur : 20-01-2024>",
+              "law_reference": {
+                "law_type": "DCFL",
+                "date_reference": "2023-12-01/10",
+                "article_number": "art. 4",
+                "sequence_number": "010",
+                "full_reference": "DCFL [2023-12-01/10]"
+              },
+              "effective_date": "20-01-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2023120110",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2023120110#Art.4"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Dans le cadre de la mise en oeuvre des accords sociaux relatifs au secteur de la santé qui répondent à toutes les conditions suivantes, le Gouvernement flamand peut arrêter les mesures dont la Communauté flamande prend l'impact financier à sa charge, et le Gouvernement flamand peut fixer les conditions et la procédure en vue de l'établissement de l'impact financier, du montant et du paiement de l'intervention financière :  \n1° les accords sociaux concernent les centres de santé mentale avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24 ;  \n2° les accords sociaux ne sont pas encore financés par l'enveloppe de subventions visée aux articles 24 et 26.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Dans le cadre de la mise en oeuvre des accords sociaux relatifs au secteur de la santé qui répondent à toutes les conditions suivantes, le Gouvernement flamand peut arrêter les mesures dont la Communauté flamande prend l'impact financier à sa charge, et le Gouvernement flamand peut fixer les conditions et la procédure en vue de l'établissement de l'impact financier, du montant et du paiement de l'intervention financière :  \n1° les accords sociaux concernent les centres de santé mentale avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24 ;  \n2° les accords sociaux ne sont pas encore financés par l'enveloppe de subventions visée aux articles 24 et 26.]1"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "label": "Article 33/2",
+          "metadata": {
+            "article_range": "33/2",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "33/2",
+            "anchor_id": "art_33/2",
+            "content": {
+              "main_text_raw": "Le Gouvernement flamand peut prendre des initiatives pour promouvoir l'attractivité de l'emploi dans les centres de santé mentale agréés avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24, et dont l'impact financier est pris en charge par la Communauté flamande. Les initiatives précitées peuvent couvrir tous les aspects suivants: 1° les conditions de travail; 2° les conditions de remboursement; 3° la réduction du temps de travail; 4° la réduction de la charge de travail; 5° la formation; 6° la qualification et la formation; 7° la participation au processus décisionnel. Le Gouvernement flamand détermine les conditions et la procédure de détermination de l'impact financier, du montant et du versement de l'intervention financière visée à l'alinéa 1er.",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "les conditions de travail",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "les conditions de remboursement",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "la réduction du temps de travail",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "la réduction de la charge de travail",
+                  "sub_items": []
+                },
+                {
+                  "number": "5°",
+                  "text": "la formation",
+                  "sub_items": []
+                },
+                {
+                  "number": "6°",
+                  "text": "la qualification et la formation",
+                  "sub_items": []
+                },
+                {
+                  "number": "7°",
+                  "text": "la participation au processus décisionnel.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-33/2\"><header class=\"article-header\"><h2 class=\"article-number\">Article 33/2</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Le Gouvernement flamand peut prendre des initiatives pour promouvoir l'attractivité de l'emploi dans les centres de santé mentale agréés avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24, et dont l'impact financier est pris en charge par la Communauté flamande. Les initiatives précitées peuvent couvrir tous les aspects suivants:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les conditions de travail</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les conditions de remboursement</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">la réduction du temps de travail</span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">la réduction de la charge de travail</span></li><li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">la formation</span></li><li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">la qualification et la formation</span></li><li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">la participation au processus décisionnel.</span></li></ol><p class=\"closing-text\">Le Gouvernement flamand détermine les conditions et la procédure de détermination de l'impact financier, du montant et du versement de l'intervention financière visée à l'alinéa 1er.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 7,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.575610"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<Inséré par DCFL [2023-12-01/10](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2023120110), art. 5, 010; En vigueur : 20-01-2024>",
+              "law_reference": {
+                "law_type": "DCFL",
+                "date_reference": "2023-12-01/10",
+                "article_number": "art. 5",
+                "sequence_number": "010",
+                "full_reference": "DCFL [2023-12-01/10]"
+              },
+              "effective_date": "20-01-2024",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2023120110",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2023120110#Art.5"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Le Gouvernement flamand peut prendre des initiatives pour promouvoir l'attractivité de l'emploi dans les centres de santé mentale agréés avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24, et dont l'impact financier est pris en charge par la Communauté flamande. Les initiatives précitées peuvent couvrir tous les aspects suivants :  \n1° les conditions de travail ;  \n2° les conditions de remboursement ;  \n3° la réduction du temps de travail ;  \n4° la réduction de la charge de travail ;  \n5° la formation ;  \n6° la qualification et la formation ;  \n7° la participation au processus décisionnel.  \nLe Gouvernement flamand détermine les conditions et la procédure de détermination de l'impact financier, du montant et du versement de l'intervention financière visée à l'alinéa 1er.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Le Gouvernement flamand peut prendre des initiatives pour promouvoir l'attractivité de l'emploi dans les centres de santé mentale agréés avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24, et dont l'impact financier est pris en charge par la Communauté flamande. Les initiatives précitées peuvent couvrir tous les aspects suivants :  \n1° les conditions de travail ;  \n2° les conditions de remboursement ;  \n3° la réduction du temps de travail ;  \n4° la réduction de la charge de travail ;  \n5° la formation ;  \n6° la qualification et la formation ;  \n7° la participation au processus décisionnel.  \nLe Gouvernement flamand détermine les conditions et la procédure de détermination de l'impact financier, du montant et du versement de l'intervention financière visée à l'alinéa 1er.]1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE IX. Contrôle et évaluation des centres de santé mentale.",
+      "metadata": {
+        "title_type": "CHAPITRE IX.",
+        "title_content": "Contrôle et évaluation des centres de santé mentale.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 34",
+          "metadata": {
+            "article_range": "34",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "34",
+            "anchor_id": "art_34",
+            "content": {
+              "main_text_raw": "Le Gouvernement organise le contrôle des centres de santé mentale, ainsi qu'une procédure de conseil.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-34\"><header class=\"article-header\"><h2 class=\"article-number\">Article 34</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le Gouvernement organise le contrôle des centres de santé mentale, ainsi qu'une procédure de conseil.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.575685"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 35",
+          "metadata": {
+            "article_range": "35",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "35",
+            "anchor_id": "art_35",
+            "content": {
+              "main_text_raw": "En vue d'optimaliser les soins et la gestion des centres de santé mentale, chaque centre de santé mentale est évalué au moins tous les six ans par une commission d'évaluation. Cette commission d'évaluation se compose au moins de fonctionnaires et d'experts extérieurs. Le Gouvernement arrête les missions, la composition et le fonctionnement de la commission d'évaluation.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-35\"><header class=\"article-header\"><h2 class=\"article-number\">Article 35</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>En vue d'optimaliser les soins et la gestion des centres de santé mentale, chaque centre de santé mentale est évalué au moins tous les six ans par une commission d'évaluation. Cette commission d'évaluation se compose au moins de fonctionnaires et d'experts extérieurs. Le Gouvernement arrête les missions, la composition et le fonctionnement de la commission d'évaluation.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.575783"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 35/1",
+          "metadata": {
+            "article_range": "35/1",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "35/1",
+            "anchor_id": "art_35/1",
+            "content": {
+              "main_text_raw": "Sans préjudice de l'article 13 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des Communautés et des Régions, ainsi qu'à l'organisation du contrôle par la Cour des Comptes et sans préjudice de l'article 21 du décret du 18 mai 1999 relatif au secteur de la santé mentale, les subventions de l'année d'activité suivante peuvent, en cas d'infraction au présent décret ou à ses arrêtés d'exécution, être proportionnellement réduites, en proportion de la gravité de l'infraction et à l'importance de l'enveloppe.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-35/1\"><header class=\"article-header\"><h2 class=\"article-number\">Article 35/1</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"Sans préjudice de l'article 13 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des Communautés et des Régions, ainsi qu'à l'organisation du contrôle par la Cour des Comptes et sans préjudice de l'article 21 du décret du 18 mai 1999 relatif au secteur de la santé mentale, les subventions de l'année d'activité suivante peuvent, en cas d'infraction au présent décret ou à ses arrêtés d'exécution, être proportionnellement réduites, en proportion de la gravité de l'infraction et à l'importance de l'enveloppe.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012122101#Art.42\" data-article-dossier-number=\"\">Sans préjudice de l'article 13 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des Communautés et des Régions, ainsi qu'à l'organisation du contrôle par la Cour des Comptes et sans préjudice de l'article 21 du décret du 18 mai 1999 relatif au secteur de la santé mentale, les subventions de l'année d'activité suivante peuvent, en cas d'infraction au présent décret ou à ses arrêtés d'exécution, être proportionnellement réduites, en proportion de la gravité de l'infraction et à l'importance de l'enveloppe.</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.575935"
+              }
+            }
+          },
+          "footnotes": [
+            {
+              "footnote_number": "1",
+              "footnote_content": "(1)<Inséré par DCFL [2012-12-21/01](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2012122101), art. 42, 006; En vigueur : 01-01-2013>",
+              "law_reference": {
+                "law_type": "DCFL",
+                "date_reference": "2012-12-21/01",
+                "article_number": "art. 42",
+                "sequence_number": "006",
+                "full_reference": "DCFL [2012-12-21/01]"
+              },
+              "effective_date": "01-01-2013",
+              "modification_type": "modification",
+              "direct_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2012122101",
+              "direct_article_url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2012122101#Art.42"
+            }
+          ],
+          "footnote_references": [
+            {
+              "reference_number": "1",
+              "text_position": 0,
+              "referenced_text": "Sans préjudice de l'article 13 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des Communautés et des Régions, ainsi qu'à l'organisation du contrôle par la Cour des Comptes et sans préjudice de l'article 21 du décret du 18 mai 1999 relatif au secteur de la santé mentale, les subventions de l'année d'activité suivante peuvent, en cas d'infraction au présent décret ou à ses arrêtés d'exécution, être proportionnellement réduites, en proportion de la gravité de l'infraction et à l'importance de l'enveloppe.",
+              "embedded_law_references": [],
+              "bracket_pattern": "[1 Sans préjudice de l'article 13 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des Communautés et des Régions, ainsi qu'à l'organisation du contrôle par la Cour des Comptes et sans préjudice de l'article 21 du décret du 18 mai 1999 relatif au secteur de la santé mentale, les subventions de l'année d'activité suivante peuvent, en cas d'infraction au présent décret ou à ses arrêtés d'exécution, être proportionnellement réduites, en proportion de la gravité de l'infraction et à l'importance de l'enveloppe.]1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "chapitre",
+      "label": "CHAPITRE X. Dispositions abrogatoires et transitoires et entrée en vigueur.",
+      "metadata": {
+        "title_type": "CHAPITRE X.",
+        "title_content": "Dispositions abrogatoires et transitoires et entrée en vigueur.",
+        "rank": 2
+      },
+      "children": [
+        {
+          "type": "article",
+          "label": "Article 36",
+          "metadata": {
+            "article_range": "36",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "36",
+            "anchor_id": "art_36",
+            "content": {
+              "main_text_raw": "Sont abrogés au 1er janvier 2000: 1° l'arrêté du Gouvernement flamand du 12 octobre 1988 relatif à l'agrément et au subventionnement des centre de santé mentale en Flandre; 2° l'arrêté du Gouvernement flamand du 21 mars 1990 relatif aux diplômes et aux qualifications spécifiques requis pour l'exercice de certaines fonctions dans les centres de santé mentale; 3° l'arrêté du Gouvernement flamand du 21 mars 1990 relatif aux locaux et à l'infrastructure des centres de santé mentale; 4° l'arrêté ministériel du 21 mars 1990 relatif à l'introduction et la composition du dossier de demande d'accord de principe, du dossier d'agrément et du dossier de renouvellement de l'agrément des centres de santé mentale. (Les arrêtés énumérés à l'alinéa 1er restent d'application à un centre de santé mentale ou son ayant droit, jusqu'à la date de son agrément conformément aux dispositions de l'article 20 du décret précité et au plus tard le 30 septembre 2000.) <DCFL 1999-12-22/35, art. 49, 002;**En vigueur:**01-01-2000>",
+              "numbered_provisions": [
+                {
+                  "number": "1°",
+                  "text": "l'arrêté du Gouvernement flamand du 12 octobre 1988 relatif à l'agrément et au subventionnement des centre de santé mentale en Flandre",
+                  "sub_items": []
+                },
+                {
+                  "number": "2°",
+                  "text": "l'arrêté du Gouvernement flamand du 21 mars 1990 relatif aux diplômes et aux qualifications spécifiques requis pour l'exercice de certaines fonctions dans les centres de santé mentale",
+                  "sub_items": []
+                },
+                {
+                  "number": "3°",
+                  "text": "l'arrêté du Gouvernement flamand du 21 mars 1990 relatif aux locaux et à l'infrastructure des centres de santé mentale",
+                  "sub_items": []
+                },
+                {
+                  "number": "4°",
+                  "text": "l'arrêté ministériel du 21 mars 1990 relatif à l'introduction et la composition du dossier de demande d'accord de principe, du dossier d'agrément et du dossier de renouvellement de l'agrément des centres de santé mentale.",
+                  "sub_items": []
+                }
+              ],
+              "main_text": "<article class=\"legal-article\" id=\"art-36\"><header class=\"article-header\"><h2 class=\"article-number\">Article 36</h2></header><div class=\"article-content\"><div class=\"article-text\"><p class=\"intro-text\">Sont abrogés au 1er janvier 2000:</p><ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'arrêté du Gouvernement flamand du 12 octobre 1988 relatif à l'agrément et au subventionnement des centre de santé mentale en Flandre</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">l'arrêté du Gouvernement flamand du 21 mars 1990 relatif aux diplômes et aux qualifications spécifiques requis pour l'exercice de certaines fonctions dans les centres de santé mentale</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">l'arrêté du Gouvernement flamand du 21 mars 1990 relatif aux locaux et à l'infrastructure des centres de santé mentale</span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">l'arrêté ministériel du 21 mars 1990 relatif à l'introduction et la composition du dossier de demande d'accord de principe, du dossier d'agrément et du dossier de renouvellement de l'agrément des centres de santé mentale.</span></li></ol><p class=\"closing-text\">(Les arrêtés énumérés à l'alinéa 1er restent d'application à un centre de santé mentale ou son ayant droit, jusqu'à la date de son agrément conformément aux dispositions de l'article 20 du décret précité et au plus tard le 30 septembre 2000.)<span class=\"legal-citation legal-citation-standard\" data-citation-type=\"standard\" data-dossier-number=\"1999-12-22/35\" data-article-number=\"49\" data-law-type=\"DCFL\" data-effective-date=\"01-01-2000\">&lt;DCFL 1999-12-22/35, art. 49, 002; En vigueur : 01-01-2000&gt;</span></p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 4,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.576313"
+              },
+              "enhanced_citations": [
+                {
+                  "citation_type": "standard",
+                  "law_type": "DCFL",
+                  "dossier_number": "1999-12-22/35",
+                  "article_number": "49",
+                  "sequence_number": "002",
+                  "effective_date": "01-01-2000",
+                  "url": "",
+                  "full_text": "<DCFL 1999-12-22/35, art. 49, 002;**En vigueur:**01-01-2000>",
+                  "prefix": "",
+                  "raw_dossier": "1999-12-22/35",
+                  "raw_article": "49",
+                  "start_pos": 952,
+                  "end_pos": 1012,
+                  "matched_text": "<DCFL 1999-12-22/35, art. 49, 002;**En vigueur:**01-01-2000>"
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 37",
+          "metadata": {
+            "article_range": "37",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "37",
+            "anchor_id": "art_37",
+            "content": {
+              "main_text_raw": "(Les centres de santé mentale agréés à partir du 1er janvier 2000, conformément à l'article 22, soumettent leur plan de gestion visé à l'article 25 à l'administration de la Santé, trois mois après la notification de leur agrément.) <DCFL 1999-12-22/35, art. 50, 002;**En vigueur:**01-01-2000> Afin d'assurer la continuité des subventions, il est octroyé à ces centres, en attendant la signature des conventions, une avance mensuelle. Cette avance égale 1/12 de la somme des subventions octroyées en 1999 aux centres de santé mentale dont les centres agréés à partir du 1er janvier 2000 sont la même personne morale ou l'ayant-cause, majoré de 5 % de frais de fonctionnement et de 1/12 du coût pour un poste de direction.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-37\"><header class=\"article-header\"><h2 class=\"article-number\">Article 37</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>(Les centres de santé mentale agréés à partir du 1er janvier 2000, conformément à l'article 22, soumettent leur plan de gestion visé à l'article 25 à l'administration de la Santé, trois mois après la notification de leur agrément.) <span class=\"legal-citation legal-citation-standard\" data-citation-type=\"standard\" data-dossier-number=\"1999-12-22/35\" data-article-number=\"50\" data-law-type=\"DCFL\" data-effective-date=\"01-01-2000\">&lt;DCFL 1999-12-22/35, art. 50, 002; En vigueur : 01-01-2000&gt;</span> Afin d'assurer la continuité des subventions, il est octroyé à ces centres, en attendant la signature des conventions, une avance mensuelle. Cette avance égale 1/12 de la somme des subventions octroyées en 1999 aux centres de santé mentale dont les centres agréés à partir du 1er janvier 2000 sont la même personne morale ou l'ayant-cause, majoré de 5 % de frais de fonctionnement et de 1/12 du coût pour un poste de direction.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.576474"
+              },
+              "enhanced_citations": [
+                {
+                  "citation_type": "standard",
+                  "law_type": "DCFL",
+                  "dossier_number": "1999-12-22/35",
+                  "article_number": "50",
+                  "sequence_number": "002",
+                  "effective_date": "01-01-2000",
+                  "url": "",
+                  "full_text": "<DCFL 1999-12-22/35, art. 50, 002;**En vigueur:**01-01-2000>",
+                  "prefix": "",
+                  "raw_dossier": "1999-12-22/35",
+                  "raw_article": "50",
+                  "start_pos": 232,
+                  "end_pos": 292,
+                  "matched_text": "<DCFL 1999-12-22/35, art. 50, 002;**En vigueur:**01-01-2000>"
+                }
+              ]
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        },
+        {
+          "type": "article",
+          "label": "Article 38",
+          "metadata": {
+            "article_range": "38",
+            "rank": 5
+          },
+          "article_content": {
+            "article_number": "38",
+            "anchor_id": "art_38",
+            "content": {
+              "main_text_raw": "Le présent décret entre en vigueur le 1er janvier 2000.",
+              "numbered_provisions": [],
+              "main_text": "<article class=\"legal-article\" id=\"art-38\"><header class=\"article-header\"><h2 class=\"article-number\">Article 38</h2></header><div class=\"article-content\"><div class=\"article-text\"><p>Le présent décret entre en vigueur le 1er janvier 2000.</p></div></div></article>",
+              "structured_content_metadata": {
+                "paragraph_count": 0,
+                "provision_count": 0,
+                "has_tables": false,
+                "generation_timestamp": "2025-08-15T21:26:57.576545"
+              }
+            }
+          },
+          "footnotes": [],
+          "footnote_references": []
+        }
+      ]
+    }
+  ],
+  "references": {
+    "modifies": [
+      {
+        "numac": "1990030390",
+        "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&numac_search=1990030390"
+      },
+      {
+        "numac": "1990030391",
+        "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&numac_search=1990030391"
+      },
+      {
+        "numac": "1989029078",
+        "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&numac_search=1989029078"
+      },
+      {
+        "numac": "1991035079",
+        "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&numac_search=1991035079"
+      }
+    ],
+    "modified_by": [
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2024-01-10",
+        "modified_articles": [
+          "23",
+          "33/1",
+          "33/2"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2024/01/10_1.pdf#Page108",
+        "full_title": "Décret conseil flamand du 01-12-2023 publié le 10-01-2024"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2023-05-30",
+        "modified_articles": [
+          "8",
+          "20 Entrée en vigueur à déterminer."
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2023/05/30_1.pdf#Page260",
+        "full_title": "Décret conseil flamand du 05-05-2023 publié le 30-05-2023"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2019-05-17",
+        "modified_articles": [
+          "INTITULE",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "18",
+          "20",
+          "22",
+          "24",
+          "29",
+          "30",
+          "31",
+          "33",
+          "34",
+          "35",
+          "35/1",
+          "36",
+          "37",
+          "Entrée en vigueur à déterminer."
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2019/05/17_1.pdf#Page171",
+        "full_title": "Décret conseil flamand du 05-04-2019 publié le 17-05-2019"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2018-06-26",
+        "modified_articles": [
+          "14"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2018/06/26_1.pdf#Page69",
+        "full_title": "Décret conseil flamand du 08-06-2018 publié le 26-06-2018"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2016-08-19",
+        "modified_articles": [
+          "20"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2016/08/19_2.pdf#Page78",
+        "full_title": "Décret conseil flamand du 15-07-2016 publié le 19-08-2016"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2014-12-30",
+        "modified_articles": [
+          "30",
+          "31"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2014/12/30_1.pdf#Page88",
+        "full_title": "Décret conseil flamand du 19-12-2014 publié le 30-12-2014"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2013-08-14",
+        "modified_articles": [
+          "20",
+          "30",
+          "35 Entrée en vigueur à déterminer."
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2013/08/14_2.pdf#Page106",
+        "full_title": "Décret conseil flamand du 21-06-2013 publié le 14-08-2013"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2012-12-31",
+        "modified_articles": [
+          "35/1"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2012/12/31_1.pdf#Page61",
+        "full_title": "Décret conseil flamand du 21-12-2012 publié le 31-12-2012"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2009-04-06",
+        "modified_articles": [
+          "23 Entrée en vigueur à déterminer."
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2009/04/06_1.pdf#Page23",
+        "full_title": "Décret conseil flamand du 20-03-2009 publié le 06-04-2009"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2005-12-29",
+        "modified_articles": [
+          "26"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2005/12/29_1.pdf#Page98",
+        "full_title": "Décret conseil flamand du 25-11-2005 publié le 29-12-2005"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "2001-10-10",
+        "modified_articles": [
+          "30",
+          "31"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/2001/10/10_1.pdf#Page77",
+        "full_title": "Décret conseil flamand du 06-07-2001 publié le 10-10-2001"
+      },
+      {
+        "modification_type": "",
+        "modification_date": "",
+        "publication_date": "1999-12-30",
+        "modified_articles": [
+          "36",
+          "37"
+        ],
+        "source_url": "https://www.ejustice.just.fgov.be/mopdf/1999/12/30_2.pdf#Page82",
+        "full_title": "Décret conseil flamand du 22-12-1999 publié le 30-12-1999"
+      }
+    ]
+  },
+  "external_links": {
+    "official_links": [],
+    "parliamentary_work": []
+  },
+  "extraction_metadata": {
+    "extraction_date": "2025-08-15T21:26:57.576769",
+    "source_file": "1999035843.md",
+    "sections_included": [
+      "document_metadata",
+      "document_hierarchy",
+      "references"
+    ],
+    "sections_excluded": [
+      "articles",
+      "legal_references",
+      "modification_history"
+    ],
+    "completeness_flags": {
+      "all_articles_extracted": true,
+      "footnotes_linked": true,
+      "hierarchical_structure_complete": true,
+      "metadata_complete": true,
+      "is_minimal_document": false,
+      "preamble_extracted": true,
+      "is_abrogated_document": false
+    }
+  }
+}
