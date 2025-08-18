@@ -1,6 +1,8 @@
 import { connectMongoDB, getDB, closeMongoDB } from '../mongodb/mongoConnect';
 import { ReadOnlyDatabaseService, connectPostgreSQL } from '../postgres/pgConnect';
 import logger from '../utils/logger';
+import { Law } from './models/Law';
+import { LawRoot } from './models/RootLaw';
 
 
 
@@ -78,15 +80,34 @@ export async function moveLawsToMongo(startId?: string, endId?: string) {
           logger.info(`⚠️  No data for ${law.document_number}`);
           continue;
         }
-        await collection.replaceOne({ document_number: law.document_number },
-          { $set: result },
-          { upsert: true });
-        successCount++;
-        // Progress report every 100 articles
-        if (processedCount % 100 === 0) {
-          const elapsed = (Date.now() - startTime) / 1000;
-          const rate = Math.round(processedCount / elapsed);
-        }
+        await LawRoot.findOneAndUpdate(
+          { 
+            document_number: law.document_number},
+            result,  // Mongoose will handle $set automatically
+            { 
+              upsert: true, 
+              new: true,
+              timestamps: true,
+              overwrite: true  // Makes it behave like replace
+            }
+          ).lean();
+
+          const existingLaw = await Law.findOne({document_number: law.document_number});
+          
+          if(existingLaw){
+            await Law.findOneAndUpdate(
+              { 
+                document_number: law.document_number},
+                result,  // Mongoose will handle $set automatically
+                { 
+                  upsert: true, 
+                  new: true,
+                  timestamps: true,
+                  overwrite: true  // Makes it behave like replace
+                }
+              ).lean();
+          }
+
         
       } catch (error) {
         errorCount++;

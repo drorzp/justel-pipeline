@@ -1,6 +1,7 @@
 import { connectMongoDB, getDB, closeMongoDB } from '../mongodb/mongoConnect';
 import { ReadOnlyDatabaseService, connectPostgreSQL } from '../postgres/pgConnect';
 import logger from '../utils/logger';
+import { Article } from './models/Articles';
 
 
 
@@ -49,7 +50,6 @@ async function getArticleFromPostgres(document_number: string,article_number:str
   }
 }
 
-
 export async function moveArticlesToMongo() {
   const startTime = Date.now();
   let processedCount = 0;
@@ -64,7 +64,7 @@ export async function moveArticlesToMongo() {
     await connectMongoDB();
     
     const db = getDB();
-    const collection = db.collection('article_roots');
+    // const collection = db.collection('article_roots');
     const articleList: any[] | null = await getArticlesList();
     
     // Use for...of loop to properly handle async operations
@@ -79,21 +79,20 @@ export async function moveArticlesToMongo() {
           logger.info(`⚠️  No data for ${article.document_number}`);
           continue;
         }
-        await collection.replaceOne(
-          { document_number: article.document_number, article_number: article.article_number },
-          { $set: result },
-          { upsert: true }
-        );
-        
-        successCount++;
-        
-        // Progress report every 100 articles
-        if (processedCount % 100 === 0) {
-          const elapsed = (Date.now() - startTime) / 1000;
-          const rate = Math.round(processedCount / elapsed);
+          await Article.findOneAndUpdate(
+            { 
+            document_number: article.document_number, article_number: article.article_number },
+            result,  // Mongoose will handle $set automatically
+            { 
+              upsert: true, 
+              new: true,
+              timestamps: true,
+              overwrite: true  // Makes it behave like replace
+            }
+          ).lean();
+          console.log(`Created new article: ${article.document_number}-${article.article_number}`);
         }
-        
-      } catch (error) {
+         catch (error) {
         errorCount++;
         console.error(`❌ Error processing ${article.document_number}:`, error);
       }
