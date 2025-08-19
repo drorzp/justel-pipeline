@@ -5,47 +5,50 @@ import { Article } from './models/Articles';
 
 
 async function getArticlesList(pool:Pool) {
+  let client: PoolClient | null = null;
   try {
     console.info('Connecting to PostgreSQL...');
-  const client: PoolClient = await pool.connect();
+    client = await pool.connect();
 
-    let query: string;
-    let params: any[];
-    query = 'SELECT id,document_number.article_number FROM public.article_contents';
-    
+    const query = 'SELECT id, document_number, article_number FROM public.article_contents';
     const result = await client.query(query);
-    
-const articles = result.rows;
-    console.info(`Found ${articles.length} laws to process`);
+
+    const articles = result.rows;
+    console.info(`Found ${articles.length} articles to process`);
     return articles;
-    
+
   } catch (error) {
     console.error('Error getting laws list:', error);
     return null;
-  } 
+  } finally {
+    try { client?.release(); } catch {}
+  }
 }
 
 
 async function getArticleFromPostgres(pool:Pool,document_number: string,article_number:string): Promise<any> {
-     try { 
-      const client: PoolClient = await pool.connect();
-      const query = 'SELECT public.article_with_relations($1,$2) as law_data';
-      const result = await client.query(query, [document_number,article_number]);
-      
-      if (result.rows.length === 0 || !result.rows[0].law_data) {
-        console.info(`No data for ${document_number}`);
-        return null;
-      }
-      
-      const lawData = 
-        typeof result.rows[0].law_data === 'string'
-          ? JSON.parse(result.rows[0].law_data)
-          : result.rows[0].law_data;
-      
-      console.info(`✓ Successfully fetched ${document_number}`);
-      return lawData;
-    } catch (error: unknown) {
+  let client: PoolClient | null = null;
+  try { 
+    client = await pool.connect();
+    const query = 'SELECT public.article_with_relations($1,$2) as law_data';
+    const result = await client.query(query, [document_number,article_number]);
+    
+    if (result.rows.length === 0 || !result.rows[0].law_data) {
+      console.info(`No data for ${document_number}`);
+      return null;
+    }
+    
+    const lawData = 
+      typeof result.rows[0].law_data === 'string'
+        ? JSON.parse(result.rows[0].law_data)
+        : result.rows[0].law_data;
+    
+    console.info(`✓ Successfully fetched ${document_number}`);
+    return lawData;
+  } catch (error: unknown) {
     return null;
+  } finally {
+    try { client?.release(); } catch {}
   }
 }
 

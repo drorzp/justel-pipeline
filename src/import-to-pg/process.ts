@@ -70,7 +70,7 @@ class S3BatchProcessor {
   private errorsDir: string;
   private state: ProcessingState;
 
-  constructor(config: S3Config,pool:Pool) {
+  constructor(config: S3Config,pool:Pool,prefix:string) {
     this.config = config;
     this.mypool = pool;
     this.s3Client = new S3Client({
@@ -82,9 +82,9 @@ class S3BatchProcessor {
     });
     
     this.stateFilePath = path.join(process.cwd(),'src','import-to-pg', 'processing-state.json');
-    this.documentsDir = path.join(process.cwd(), 'src','import-to-pg','documents');
-    this.zippedDir = path.join(process.cwd(), 'src','import-to-pg','zipped');
-    this.errorsDir = path.join(process.cwd(), 'src','import-to-pg','errors');
+    this.documentsDir = path.join(process.cwd(), 'src','import-to-pg','documents',prefix);
+    this.zippedDir = path.join(process.cwd(), 'src','import-to-pg','zipped',prefix);
+    this.errorsDir = path.join(process.cwd(), 'src','import-to-pg','errors',prefix);
     
     this.state = {
       lastProcessedFile: null,
@@ -318,6 +318,18 @@ class S3BatchProcessor {
     }
   }
 
+  private async removeErrorSirectory(): Promise<void> {
+    // Remove the entire errors directory tree
+    try {
+      await rimraf(this.stateFilePath);
+      await rimraf(this.errorsDir);
+      await rimraf(this.zippedDir);
+      await rimraf(this.documentsDir);
+    } catch (error) {
+      console.warn('⚠️  Failed to remove errors directory:', error);
+    }
+  }
+
   private async cleanupDirectories(): Promise<void> {
     console.info('🧹 Cleaning up directories...');
     
@@ -434,6 +446,8 @@ class S3BatchProcessor {
   }
 
   async processAllZipFiles(): Promise<void> {
+    await this.removeErrorSirectory();
+
     console.info('🚀 Starting S3 batch processing...');
     
     try {
@@ -536,21 +550,21 @@ class S3BatchProcessor {
 }
 
 
-export function buildS3ConfigFromEnv(overrides: Partial<S3Config> = {}): S3Config {
+export function buildS3ConfigFromEnv(prefix: string, overrides: Partial<S3Config> = {}): S3Config {
   return {
     region: process.env.AWS_REGION || 'us-east-2',
     bucket: overrides.bucket ?? (process.env.S3_BUCKET || ''),
-    prefix: overrides.prefix ?? (process.env.S3_PREFIX || ''),
+    prefix: `${prefix}/`,
     accessKeyId: overrides.accessKeyId ?? process.env.AWS_ACCESS_KEY_ID,
     secretAccessKey: overrides.secretAccessKey ?? process.env.AWS_SECRET_ACCESS_KEY,
   };
 }
 
-export async function runS3Batch(pool:Pool)
+export async function runS3Batch(pool:Pool,prefix:string)
 : Promise<void> {
-  const config = buildS3ConfigFromEnv();
-
-  const processor = new S3BatchProcessor(config,pool);
+  const config = buildS3ConfigFromEnv(prefix);
+// send it without the /
+  const processor = new S3BatchProcessor(config,pool,prefix);
   await processor.processAllZipFiles();
 
 }

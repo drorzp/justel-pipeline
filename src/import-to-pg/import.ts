@@ -10,6 +10,20 @@ import { createHash } from 'crypto';
 // Load environment variables
 dotenv.config();
 
+// Helper to format Postgres errors with useful details
+function formatPgError(err: any): string {
+  const parts: string[] = [];
+  if (err && err.code) parts.push(`code=${err.code}`);
+  if (err && err.detail) parts.push(`detail=${err.detail}`);
+  if (err && err.constraint) parts.push(`constraint=${err.constraint}`);
+  if (err && err.table) parts.push(`table=${err.table}`);
+  if (err && err.column) parts.push(`column=${err.column}`);
+  if (err && err.schema) parts.push(`schema=${err.schema}`);
+  if (err && err.position) parts.push(`position=${err.position}`);
+  const meta = parts.length ? ` (${parts.join(', ')})` : '';
+  return `${err?.message || err}${meta}`;
+}
+
 interface DocumentMetadata {
   document_number: string;
   title: string;
@@ -55,16 +69,6 @@ interface ArticleContent {
     main_text_raw: string;
     
   };
-}
-
-
-
-interface LawReference {
-  law_type?:string;
-  date_reference?: string;
-  article_number?: string;
-  sequence_number?: string;
-  full_reference?: string;
 }
 
 
@@ -652,26 +656,62 @@ export class DocumentProcessor {
         await client.query('BEGIN');
 
         // Insert document - now returns number (SERIAL id)
-        const documentId = await DatabaseOperations.insertDocument(client, data.document_metadata);
-        console.info(`Inserted document with ID: ${documentId}`);
+        let documentId: number;
+        try {
+          documentId = await DatabaseOperations.insertDocument(client, data.document_metadata);
+          console.info(`Inserted document with ID: ${documentId}`);
+        } catch (e: any) {
+          throw new Error(`[documents] insert failed for document_number=${data.document_metadata.document_number}: ${formatPgError(e)}`);
+        }
 
         // Insert version info
-        await DatabaseOperations.insertVersionInfo(client, documentId, data.document_metadata.version_info);
+        try {
+          await DatabaseOperations.insertVersionInfo(client, documentId, data.document_metadata.version_info);
+        } catch (e: any) {
+          throw new Error(`[document_versions] insert failed for document_id=${documentId}: ${formatPgError(e)}`);
+        }
 
         // Insert hierarchy elements
         let elementRank = 1;
         for (const element of data.document_hierarchy) {
-          await DatabaseOperations.insertHierarchyElement(client, documentId, element, data.document_metadata.document_number, null, elementRank++);
+          try {
+            await DatabaseOperations.insertHierarchyElement(
+              client,
+              documentId,
+              element,
+              data.document_metadata.document_number,
+              null,
+              elementRank
+            );
+          } catch (e: any) {
+            const label = element?.label || '';
+            const type = element?.type || '';
+            throw new Error(`[hierarchy_elements/article_contents] insert failed at rank=${elementRank} type=${type} label="${label}": ${formatPgError(e)}`);
+          } finally {
+            elementRank++;
+          }
         }
 
         // Insert modifications
-        await DatabaseOperations.insertModifications(client, documentId, data.references);
+        try {
+          await DatabaseOperations.insertModifications(client, documentId, data.references);
+        } catch (e: any) {
+          throw new Error(`[document_modifies/document_modified_by/modified_articles] insert failed for document_id=${documentId}: ${formatPgError(e)}`);
+        }
 
         // Insert external links
-        await DatabaseOperations.insertExternalLinks(client, documentId, data.external_links);
+        try {
+          await DatabaseOperations.insertExternalLinks(client, documentId, data.external_links);
+        } catch (e: any) {
+          throw new Error(`[external_links] insert failed for document_id=${documentId}: ${formatPgError(e)}`);
+        }
 
         // Insert extraction metadata
-        await DatabaseOperations.insertExtractionMetadata(client, documentId, data.extraction_metadata);
+        try {
+          await DatabaseOperations.insertExtractionMetadata(client, documentId, data.extraction_metadata);
+        } catch (e: any) {
+          throw new Error(`[extraction_metadata] insert failed for document_id=${documentId}: ${formatPgError(e)}`);
+        }
 
         await client.query('COMMIT');
         this.results.addSuccess(filename);

@@ -21,3 +21,9 @@ pnpm-debug.log*
 
 src/justel-data-processer/input
 src/justel-data-processer/output
+src/import-to-pg/documents/incoming3    
+src/import-to-pg/documents/incoming_no_articles3
+src/import-to-pg/zipped
+src/import-to-pg/errors
+src/import-to-pg/processing-state.json
+logs/

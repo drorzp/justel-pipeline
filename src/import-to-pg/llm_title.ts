@@ -21,7 +21,6 @@ export interface DocumentTitleRecord {
     document_number: string;
     old_title: string | null;
     new_title: string | null;
-    document_id?: number;
 }
 
 // Functional utilities and main processing entry
@@ -29,7 +28,7 @@ export interface DocumentTitleRecord {
 export async function getAllDocumentTitles(client: PoolClient, startFromId?: number): Promise<DocumentTitleRecord[]> {
     try {
         const query = `
-        SELECT id, document_number, old_title, new_title, document_id
+        SELECT id, document_number, old_title, new_title
         FROM public.document_title
         WHERE old_title IS NOT NULL
         AND old_title != ''
@@ -318,9 +317,7 @@ export async function processAllDocumentTitles(pool:Pool, config: LLMConfig): Pr
     } finally {
         try {
             client?.release();
-        } finally {
-            await pool.end();
-        }
+        } catch {}
     }
 }
 

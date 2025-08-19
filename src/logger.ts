@@ -40,6 +40,8 @@ class FileLogger {
         };
 
         this.setupConsoleOverrides();
+        // Announce where logs are written (visible in both console and file)
+        console.info('Logger initialized. Writing to:', this.logFile);
         this.setupProcessHandlers();
     }
 

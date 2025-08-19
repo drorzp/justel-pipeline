@@ -1,0 +1,36 @@
+SELECT 
+id, 
+decision_id, ok 
+file_name,  ok 
+url_official_publication, ok
+ecli_alias, ok
+language_metadata,    ok
+court_ecli_code,  ok
+court_fr,    missing ?
+court_category,   missing 
+decision_type_fr,  ??
+decision_type_ecli_code, ?? did u mix those 2
+decision_date,  ok 
+decision_year, do we need it ?
+versions,  ok
+url_pdf, 
+ecli,
+created_at, 
+updated_at
+FROM public.decisions;
+
+
+
+metaLanguage - > language_metadata
+fileName -> file_name
+
+courtEcliCode -> court_ecli_code
+url -> url_official_publication
+ecli -> decision_id 
+ecliAlias -> ecli_alias is it an array ?
+decisionDate -> decision_date
+courtEcliCode -> court_ecli_code
+decisionTypeEcliCode -> decision_type_fr
+versions -> versions
+
+pdfUrl -> url_pdf

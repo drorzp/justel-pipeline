@@ -21,6 +21,7 @@ export async function copyContentArticle(pool: Pool, schema: string = 'public'):
   const qualified = qualifyProc(schema, 'reset_and_insert_from_article_content');
   const client = await pool.connect();
   try {
+    console.log(`COPY CONTENT ARTICLE ${qualified}`);
     await client.query('BEGIN');
     await client.query(`CALL ${qualified}()`);
     await client.query('COMMIT');
