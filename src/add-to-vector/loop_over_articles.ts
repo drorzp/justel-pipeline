@@ -41,8 +41,12 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
     for (const row of rows) {
       const document_number: string = row.document_number;
       const article_number: string = row.article_number;
-      const translateToLLM:string="we need to llm it"
-      smartUpsert(row.id, translateToLLM, document_number, article_number);
+      const main_text_raw_v1: string = row.main_text_raw_v1;
+
+      if (main_text_raw_v1) {
+        smartUpsert(row.id, main_text_raw_v1, document_number, article_number);
+      }
+
       updated++;
     }
 
