@@ -672,6 +672,23 @@ class ArticleExtractor:
         # Keep track of which articles have been used to avoid reusing them
         used_articles = set()
 
+        # Track used article numbers within this document to prevent duplicates
+        used_article_numbers = set()
+
+        def make_unique_article_number(base_number, used_numbers):
+            """Generate a unique article number by appending a suffix if needed."""
+            if base_number not in used_numbers:
+                used_numbers.add(base_number)
+                return base_number
+
+            counter = 2
+            while f"{base_number}_{counter}" in used_numbers:
+                counter += 1
+
+            unique_number = f"{base_number}_{counter}"
+            used_numbers.add(unique_number)
+            return unique_number
+
         # Recursively populate tree nodes
         def populate_node(node):
             if node["type"] == "article":
@@ -738,8 +755,11 @@ class ArticleExtractor:
                                 break
 
                         if article_obj:
+                            # Get the original article number and make it unique within the document
+                            original_article_number = article_obj.get("article_number")
+                            unique_article_number = make_unique_article_number(original_article_number, used_article_numbers)
+
                             # Update the label to match the unique article number
-                            unique_article_number = article_obj.get("article_number")
                             node["label"] = f"Article {unique_article_number}"
 
                             # Update metadata.article_range to match the complete article identifier
@@ -776,13 +796,15 @@ class ArticleExtractor:
                                     break
 
                             if article_obj:
-                                # Use the unique article number for the label
-                                unique_article_number = article_obj.get("article_number")
+                                # Get the original article number and make it unique within the document
+                                original_article_number = article_obj.get("article_number")
+                                unique_article_number = make_unique_article_number(original_article_number, used_article_numbers)
+
                                 child_node = {
                                     "type": "article",
                                     "label": f"Article {unique_article_number}",
                                     "metadata": {
-                                        "article_range": article_num,  # Keep original for metadata
+                                        "article_range": unique_article_number,  # Use unique number for consistency
                                         "rank": 5
                                     },
                                     "article_content": {
