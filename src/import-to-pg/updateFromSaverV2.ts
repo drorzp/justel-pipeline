@@ -47,6 +47,7 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
       const article_number: string = row.article_number;
 
       // shahar has to help me run the llm from here then i will update the html
+      // need to call a method that takes main_text_v1(html) and return the nice html.
       const translateToLLM:string="we need to llm it"
       
 
