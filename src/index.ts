@@ -39,28 +39,28 @@ const pool = new Pool(dbConfig); //
   try {
   //  await runPythonDataPipeline();
   //   console.log(`started `); // Fixed console.log syntax
-    await copyContentArticle(pool); 
-    console.log('copyContentArticle')  // truncate the article_contents_saver table and copy all html into it
-    await truncateImportTables(pool);  
-    console.log('truncateImportTables')   /// clean all tables
-    await runS3Batch(pool,'incoming3'); 
-    console.log('runS3Batch incoming3'); // create all tables 
-    await runS3Batch(pool,'incoming_no_articles3'); 
-    console.log('runS3Batch incoming_no_articles3/'); // create all tables 
-    await sync_document_title(pool);  
-    console.log('sync_document_title')
-    await sync_not_changed(pool);
-    console.log('sync_not_changed');
-    await processAllDocumentTitles(pool, llmConfig);
-    console.log('processAllDocumentTitles');
-     await updateArticleContentsFromSaver(pool);
-     console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
+    // await copyContentArticle(pool); 
+    // console.log('copyContentArticle')  // truncate the article_contents_saver table and copy all html into it
+    // await truncateImportTables(pool);  
+    // console.log('truncateImportTables')   /// clean all tables
+    // await runS3Batch(pool,'incoming3'); 
+    // console.log('runS3Batch incoming3'); // create all tables 
+    // await runS3Batch(pool,'incoming_no_articles3'); 
+    // console.log('runS3Batch incoming_no_articles3/'); // create all tables 
+    // await sync_document_title(pool);  
+    // console.log('sync_document_title')
+    // await sync_not_changed(pool);
+    // console.log('sync_not_changed');
+    // await processAllDocumentTitles(pool, llmConfig);
+    // console.log('processAllDocumentTitles');
+    //  await updateArticleContentsFromSaver(pool);
+    //  console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
     //  await updateArticleContentsFromSaverV2Diff(pool) 
     // console.log('updateArticleContentsFromSaverV2Dif');
-    await moveLawsToMongo(pool);
-    console.log('moveLawsToMongo');
-    await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
-    console.log('moveArticlesToMongo')
+    // await moveLawsToMongo(pool);
+    // console.log('moveLawsToMongo');
+    // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+    // console.log('moveArticlesToMongo')
     await updateArticleVector(pool);
     //console.log('updateArticleVector');
   } catch (err:unknown) {
