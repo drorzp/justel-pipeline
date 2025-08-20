@@ -1,0 +1,46 @@
+"id","courtfr","category"
+AHANT,Cour du travail d'Anvers,APPEAL
+AHGNT,Cour du travail de Gand,APPEAL
+ARANT,Tribunal du travail d'Anvers,BASE
+ARBRL,Tribunal du travail Néerlandophone de Bruxelles,BASE
+ARGNT,Tribunal du travail de Gand,BASE
+ARLEU,Tribunal du travail de Louvain,BASE
+CABRL,Cour d'appel du ressort de Bruxelles,APPEAL
+CALIE,Cour d'appel du ressort de Liège,APPEAL
+CAMON,Cour d'appel du ressort de Mons,APPEAL
+CASS,Cour de cassation,SUPREME
+COHSAV,Commission pour l'aide financière,NON-JUD
+COPRIV,Commission pour la Protection de la Vie privée,NON-JUD
+COVHDP,Commission d'indemnisation de la détention préventive inopérante,NON-JUD
+CTBRL,Cour du travail de Bruxelles,APPEAL
+CTLIE,Cour du travail de Liège,APPEAL
+CTMON,Cour du travail de Mons,APPEAL
+EAANT,Tribunal de première instance d'Anvers,BASE
+EABRL,Tribunal de première instance Néerlandophone de Bruxelles,BASE
+EALEU,Tribunal de première instance de Louvain,BASE
+EALIM,Tribunal de première instance du Limbourg,BASE
+EAOVL,Tribunal de première instance de Flandre Orientale,BASE
+EAWVL,Tribunal de première instance de Flandre Occidentale,BASE
+GBAPD,Autorité de protection des données,NON-JUD
+GHCC,Cour constitutionnelle,SUPREME
+HBANT,Cour d'appel du ressort d'Anvers,APPEAL
+HBGNT,Cour d'appel du ressort de Gand,APPEAL
+NTRCND,Conseil national de discipline,NON-JUD
+ORANT,Tribunal de l'entreprise d'Anvers,BASE
+ORBRL,Tribunal de l'entreprise Néerlandophone de Bruxelles,BASE
+ORGNT,Tribunal de l'entreprise de Gand,BASE
+PIBRL,Tribunal de première instance Francophone de Bruxelles,BASE
+PIBRW,Tribunal de première instance du Brabant Wallon,BASE
+PIHAI,Tribunal de première instance du Hainaut,BASE
+PILIE,Tribunal de première instance de Liège,BASE
+PILUX,Tribunal de première instance du Luxembourg,BASE
+PINAM,Tribunal de première instance de Namur,BASE
+TEBRL,Tribunal de l'entreprise Francophone de Bruxelles,BASE
+TEBRW,Tribunal de l'entreprise du Brabant Wallon,BASE
+TEHAI,Tribunal de l'entreprise du Hainaut,BASE
+TELIE,Tribunal de l'entreprise de Liège,BASE
+TREUP,Tribunal d'Eupen,BASE
+TTBRL,Tribunal du travail Francophone de Bruxelles,BASE
+TTBRW,Tribunal du travail du Brabant Wallon,BASE
+TTHAI,Tribunal du travail du Hainaut,BASE
+TTLIE,Tribunal du travail de Liège,BASE

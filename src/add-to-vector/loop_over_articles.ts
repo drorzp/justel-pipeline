@@ -13,10 +13,10 @@ dotenv.config();
 export async function updateArticleVector(pool:Pool): Promise<void> {
   const client: PoolClient = await pool.connect();
   try {
-    await client.query('BEGIN');
 
     const selectSql = `
 SELECT
+    t1.id,
     t1.document_number,
     t1.article_number,
     t1.main_text_raw AS main_text_raw_v1,
@@ -41,23 +41,30 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
     for (const row of rows) {
       const document_number: string = row.document_number;
       const article_number: string = row.article_number;
-      const main_text_raw_v1: string = row.main_text_raw_v1;
+      const main_text_raw_v1: string | null = row.main_text_raw_v1;
+      const id: number | null = row.id ?? null;
 
-      if (main_text_raw_v1) {
-        smartUpsert(row.id, main_text_raw_v1, document_number, article_number);
+      if (!id) {
+        console.warn(`Skipping ${document_number}-${article_number}: missing id`);
+        continue;
       }
 
+      if (!main_text_raw_v1) {
+        console.warn(`Skipping ${document_number}-${article_number}: missing main_text_raw_v1`);
+        continue;
+      }
+
+      await smartUpsert(id, main_text_raw_v1, document_number, article_number);
       updated++;
     }
 
-    await client.query('COMMIT');
-    console.log(`[SUCCESS] Updated article_contents rows: ${updated}`);
+
+    console.log(`[SUCCESS] Upserted vectors for rows: ${updated}`);
   } catch (err) {
-    await client.query('ROLLBACK');
-    console.error('[ERROR] Failed to update article_contents from saver_v2 diffs', err);
+
+    console.error('[ERROR] Failed to upsert article vectors', err);
     throw err;
   } finally {
     client.release();
   }
 }
-

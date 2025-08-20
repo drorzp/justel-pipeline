@@ -22,10 +22,17 @@ async function getEmbedding(text: string) {
 }
 
 // Smart upsert that checks for changes
-export async function smartUpsert( id: number, newText: string, document_number:string, article_number:string) {
+export async function smartUpsert(id: number, newText: string, document_number: string, article_number: string) {
   try {
+    if (id === null || id === undefined || Number.isNaN(id)) {
+      throw new Error('Invalid point id');
+    }
+    if (!newText || typeof newText !== 'string') {
+      throw new Error('Invalid text');
+    }
+
     // Try to retrieve existing point
-    const existingPoints = await qdrant.retrieve( 'articles_of_law', {
+    const existingPoints = await qdrant.retrieve('articles_of_law', {
       ids: [id],
       with_payload: true,
     });
@@ -44,7 +51,7 @@ export async function smartUpsert( id: number, newText: string, document_number:
     // Text is new or changed - get embedding and upsert
     const vector = await getEmbedding(newText);
     
-    await qdrant.upsert(  'articles_of_law', {
+    await qdrant.upsert('articles_of_law', {
       points: [
         {
           id,
@@ -52,8 +59,8 @@ export async function smartUpsert( id: number, newText: string, document_number:
           payload: {
             text: newText,
             article_id: id,
-            document_numnber:document_number,
-            article_number:article_number,
+            document_number: document_number,
+            article_number: article_number,
             text_hash: hashText(newText),
             updated_at: new Date().toISOString(),
           },
