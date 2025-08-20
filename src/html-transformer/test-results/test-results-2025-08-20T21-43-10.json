@@ -1,0 +1,71 @@
+{
+  "summary": {
+    "totalTests": 3,
+    "passed": 3,
+    "failed": 0,
+    "successRate": "100.0%",
+    "timestamp": "2025-08-20T21:43:10.603Z"
+  },
+  "testResults": [
+    {
+      "testName": "Well-formed article with footnote",
+      "document_number": "1802040850",
+      "article_number": "61_REGION_DE_BRUXELLES-CAPITALE",
+      "inputHtmlLength": 988,
+      "plainTextLength": 238,
+      "duration_ms": 15635,
+      "timestamp": "2025-08-20T21:42:54.619Z",
+      "success": true,
+      "outputHtmlLength": 1049,
+      "validations": {
+        "hasLegalArticleClass": true,
+        "hasArticleNumber": true,
+        "inputFootnotes": 1,
+        "outputFootnotes": 1,
+        "footnotesPreserved": true
+      },
+      "originalHtml": "<article class=\"legal-article\" id=\"art-61_REGION_DE_BRUXELLES-CAPITALE\"><header class=\"article-header\"><h2 class=\"article-number\">Article 61_REGION_DE_BRUXELLES-CAPITALE</h2></header><div class=\"article-content\"><div class=\"article-text\"><p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"L'évêque règle le nombre et l'étendue de ces succursales qui ne dépassent pas les limites du territoire de la Région de Bruxelles Capitale. Les plans arrêtés sont soumis pour approbation au Gouvernement de la Région de Bruxelles-Capitale.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2002071838#Art.2\" data-article-dossier-number=\"\">L'évêque règle le nombre et l'étendue de ces succursales qui ne dépassent pas les limites du territoire de la Région de Bruxelles Capitale. Les plans arrêtés sont soumis pour approbation au Gouvernement de la Région de Bruxelles-Capitale.</span></p></div></div></article>",
+      "transformedHtml": "<article class=\"legal-article\" id=\"art-61_REGION_DE_BRUXELLES-CAPITALE\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 61_REGION_DE_BRUXELLES-CAPITALE</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p><span class=\"footnote-ref\" data-footnote-id=\"1\" data-referenced-text=\"L'évêque règle le nombre et l'étendue de ces succursales qui ne dépassent pas les limites du territoire de la Région de Bruxelles Capitale. Les plans arrêtés sont soumis pour approbation au Gouvernement de la Région de Bruxelles-Capitale.\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2002071838#Art.2\" data-article-dossier-number=\"\">L'évêque règle le nombre et l'étendue de ces succursales qui ne dépassent pas les limites du territoire de la Région de Bruxelles Capitale. Les plans arrêtés sont soumis pour approbation au Gouvernement de la Région de Bruxelles-Capitale.</span></p>\n        </div>\n    </div>\n</article>"
+    },
+    {
+      "testName": "Article with broken HTML and numbered list",
+      "document_number": "TEST001",
+      "article_number": "42",
+      "inputHtmlLength": 257,
+      "plainTextLength": 101,
+      "duration_ms": 8878,
+      "timestamp": "2025-08-20T21:43:03.498Z",
+      "success": true,
+      "outputHtmlLength": 514,
+      "validations": {
+        "hasLegalArticleClass": true,
+        "hasArticleNumber": true,
+        "inputFootnotes": 1,
+        "outputFootnotes": 1,
+        "footnotesPreserved": true
+      },
+      "originalHtml": "<div>Article 42<p>Les conditions sont:</p>1° avoir 18 ans<br>2° être domicilié<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"en Belgique\" data-direct-article-url=\"http://example.com\">en Belgique</span><br>3° avoir la nationalité</div>",
+      "transformedHtml": "<article class=\"legal-article\">\n    <header>\n        <h2 class=\"article-number\">Article 42</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Les conditions sont:</p>\n        <ol class=\"numbered-provisions\">\n            <li>avoir 18 ans</li>\n            <li>être domicilié<span class=\"footnote-ref\" data-footnote-id=\"2\" data-referenced-text=\"en Belgique\" data-direct-article-url=\"http://example.com\">en Belgique</span></li>\n            <li>avoir la nationalité</li>\n        </ol>\n    </div>\n</article>"
+    },
+    {
+      "testName": "Article with legal citations",
+      "document_number": "TEST002",
+      "article_number": "15bis",
+      "inputHtmlLength": 135,
+      "plainTextLength": 126,
+      "duration_ms": 7104,
+      "timestamp": "2025-08-20T21:43:10.602Z",
+      "success": true,
+      "outputHtmlLength": 299,
+      "validations": {
+        "hasLegalArticleClass": true,
+        "hasArticleNumber": true,
+        "inputFootnotes": 0,
+        "outputFootnotes": 0,
+        "footnotesPreserved": true
+      },
+      "originalHtml": "<p>Conformément à <L 1987-03-31/52, art. 5, 002; En vigueur : 01-01-1988> et §2 de la loi, les dispositions suivantes s'appliquent.</p>",
+      "transformedHtml": "<article class=\"legal-article\">\n    <header>\n        <h1 class=\"article-number\">Article 15bis</h1>\n    </header>\n    <p>Conformément à <span class=\"legal-citation\"><L 1987-03-31/52, art. 5, 002; En vigueur : 01-01-1988></span> et §2 de la loi, les dispositions suivantes s'appliquent.</p>\n</article>"
+    }
+  ]
+}
