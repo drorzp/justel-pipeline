@@ -456,12 +456,12 @@ class ComprehensivePipeline:
                     self.logger.info("✅ Cleaned up temporary input files")
 
             # Optionally remove ZIP file after successful upload
-            if zip_path and zip_path.exists() and self.stats.get('upload_success', False):
-                if not self.dry_run:
-                    response = input(f"\nRemove local ZIP file {zip_path.name} after successful upload? (y/N): ")
-                    if response.lower() == 'y':
-                        zip_path.unlink()
-                        self.logger.info(f"✅ Removed local ZIP file: {zip_path.name}")
+            # if zip_path and zip_path.exists() and self.stats.get('upload_success', False):
+            #     if not self.dry_run:
+            #         response = input(f"\nRemove local ZIP file {zip_path.name} after successful upload? (y/N): ")
+            #         if response.lower() == 'y':
+            #             zip_path.unlink()
+            #             self.logger.info(f"✅ Removed local ZIP file: {zip_path.name}")
 
         except Exception as e:
             self.logger.error(f"❌ Error during cleanup: {e}")

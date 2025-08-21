@@ -27,3 +27,7 @@ src/import-to-pg/zipped
 src/import-to-pg/errors
 src/import-to-pg/processing-state.json
 logs/
+
+
+src/html-transformer/output
+src/html-transformer/test-results/

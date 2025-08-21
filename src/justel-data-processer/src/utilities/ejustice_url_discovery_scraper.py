@@ -898,10 +898,10 @@ Resume: {resume}
         print("This could take several days or weeks to complete.")
         print("Make sure you have sufficient disk space and network bandwidth.")
 
-        response = input("\nDo you want to continue? (y/N): ")
-        if response.lower() not in ['y', 'yes']:
-            print("Operation cancelled.")
-            return
+        # response = input("\nDo you want to continue? (y/N): ")
+        # if response.lower() not in ['y', 'yes']:
+        #     print("Operation cancelled.")
+        #     return
 
     # Run the discovery process
     try:
