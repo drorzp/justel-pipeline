@@ -11,6 +11,7 @@ import { updateArticleVector } from './add-to-vector/loop_over_articles';
 import { sync_document_title, sync_not_changed } from './import-to-pg/sync_document_title';
 import { processAllDocumentTitles, LLMConfig } from './import-to-pg/llm_title';
 import { runPythonDataPipeline } from './utils/pythonRunner';
+import { clearS3ZipFiles } from './utils/s3';
 import './logger';
 import * as path from 'path';
 export const llmConfig: LLMConfig = {
@@ -37,38 +38,41 @@ async function main() {
 
 const pool = new Pool(dbConfig); // 
   try {
-  //  await runPythonDataPipeline();
-  //   console.log(`started `); // Fixed console.log syntax
-    // await copyContentArticle(pool); 
-    // console.log('copyContentArticle')  // truncate the article_contents_saver table and copy all html into it
-    // await truncateImportTables(pool);  
-    // console.log('truncateImportTables')   /// clean all tables
-    // await runS3Batch(pool,'incoming3'); 
-    // console.log('runS3Batch incoming3'); // create all tables 
-    // await runS3Batch(pool,'incoming_no_articles3'); 
-    // console.log('runS3Batch incoming_no_articles3/'); // create all tables 
-    // await sync_document_title(pool);  
-    // console.log('sync_document_title')
-    // await sync_not_changed(pool);
-    // console.log('sync_not_changed');
-    // await processAllDocumentTitles(pool, llmConfig);
-    // console.log('processAllDocumentTitles');
-    //  await updateArticleContentsFromSaver(pool);
-    //  console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
-    //  await updateArticleContentsFromSaverV2Diff(pool) 
-    // console.log('updateArticleContentsFromSaverV2Dif');
-    // await moveLawsToMongo(pool);
-    // console.log('moveLawsToMongo');
-    // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
-    // console.log('moveArticlesToMongo')
+    // Clear S3 folders before running pipeline
+    await clearS3ZipFiles(['incoming3', 'incoming_no_articles3']);
+    console.log('Cleared S3 ZIP files from incoming3 and incoming_no_articles3');
+    await runPythonDataPipeline();
+    console.log(`started `); // Fixed console.log syntax
+    await copyContentArticle(pool); 
+    console.log('copyContentArticle')  // truncate the article_contents_saver table and copy all html into it
+    await truncateImportTables(pool);  
+    console.log('truncateImportTables')   /// clean all tables
+    await runS3Batch(pool,'incoming3'); 
+    console.log('runS3Batch incoming3'); // create all tables 
+    await runS3Batch(pool,'incoming_no_articles3'); 
+    console.log('runS3Batch incoming_no_articles3/'); // create all tables 
+    await sync_document_title(pool);  
+    console.log('sync_document_title')
+    await sync_not_changed(pool);
+    console.log('sync_not_changed');
+    await processAllDocumentTitles(pool, llmConfig);
+    console.log('processAllDocumentTitles');
+    await updateArticleContentsFromSaver(pool);
+    console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
+    await updateArticleContentsFromSaverV2Diff(pool) 
+    console.log('updateArticleContentsFromSaverV2Dif');
+    await moveLawsToMongo(pool);
+    console.log('moveLawsToMongo');
+    await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+    console.log('moveArticlesToMongo')
     await updateArticleVector(pool);
-    //console.log('updateArticleVector');
+    console.log('updateArticleVector');
   } catch (err:unknown) {
     const message = err instanceof Error ? err.message : 'Unknown error';
     console.error('Error running batch task:', message);
     process.exitCode = 1;
   } finally {
-    // await pool.end(); // Temporarily disabled for testing
+    await pool.end(); // Temporarily disabled for testing
   }
 }
 

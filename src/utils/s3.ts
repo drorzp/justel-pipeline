@@ -65,3 +65,45 @@ export async function deleteS3(folder: string): Promise<void> {
     continuationToken = listResp.IsTruncated ? listResp.NextContinuationToken : undefined;
   } while (continuationToken);
 }
+
+export async function clearS3ZipFiles(folders: string[]): Promise<void> {
+  const client = getS3Client();
+  const bucket = getBucket();
+  
+  console.log(`🗑️  Clearing ZIP files from S3 folders: ${folders.join(', ')}`);
+  
+  for (const folder of folders) {
+    const prefix = folder.endsWith('/') ? folder : `${folder}/`;
+    let totalDeleted = 0;
+    let continuationToken: string | undefined = undefined;
+    
+    do {
+      const listResp: ListObjectsV2CommandOutput = await client.send(
+        new ListObjectsV2Command({ 
+          Bucket: bucket, 
+          Prefix: prefix, 
+          ContinuationToken: continuationToken,
+          MaxKeys: 1000 
+        })
+      );
+
+      const contents: _Object[] = listResp.Contents || [];
+      const zipFiles = contents.filter(obj => obj.Key?.endsWith('.zip'));
+      
+      if (zipFiles.length > 0) {
+        const objects = zipFiles.map((o) => ({ Key: o.Key! }));
+        await client.send(
+          new DeleteObjectsCommand({
+            Bucket: bucket,
+            Delete: { Objects: objects, Quiet: true },
+          })
+        );
+        totalDeleted += zipFiles.length;
+      }
+
+      continuationToken = listResp.IsTruncated ? listResp.NextContinuationToken : undefined;
+    } while (continuationToken);
+    
+    console.log(`   ✅ Deleted ${totalDeleted} ZIP files from ${prefix}`);
+  }
+}

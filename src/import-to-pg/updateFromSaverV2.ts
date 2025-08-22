@@ -20,7 +20,7 @@ export async function updateArticleContentsFromSaverV2Diff(pool:Pool): Promise<v
 SELECT
     t1.document_number,
     t1.article_number,
-    t1.main_text_raw AS main_text_raw_v1,"Policies"
+    t1.main_text_raw AS main_text_raw_v1,
     t1.main_text AS main_text_v1,
     t1.main_text_hash AS main_text_hash_v1,
     t2.main_text_raw AS main_text_raw_v2,

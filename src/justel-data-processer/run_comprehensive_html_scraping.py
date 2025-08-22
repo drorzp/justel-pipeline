@@ -83,15 +83,15 @@ def main():
         print(f"  Note: Conservative estimate - may be even faster in practice")
     
     # Confirm before starting
-    if not args.test:
-        print(f"\n⚠️  This will process 207,911 URLs and may take several hours.")
-        print(f"   The process can be interrupted and resumed using checkpoints.")
-        print(f"   HTML files will be saved to: {output_dir}")
+    # if not args.test:
+    #     print(f"\n⚠️  This will process 207,911 URLs and may take several hours.")
+    #     print(f"   The process can be interrupted and resumed using checkpoints.")
+    #     print(f"   HTML files will be saved to: {output_dir}")
         
-        response = input(f"\n🚀 Start comprehensive HTML scraping? (y/N): ")
-        if response.lower() != 'y':
-            print("❌ Operation cancelled.")
-            return 0
+    #     response = input(f"\n🚀 Start comprehensive HTML scraping? (y/N): ")
+    #     if response.lower() != 'y':
+    #         print("❌ Operation cancelled.")
+    #         return 0
     
     try:
         print(f"\n🏃 Starting comprehensive HTML scraping...")

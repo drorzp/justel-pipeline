@@ -83,9 +83,9 @@ class DirectoryRestructurer:
                 
         if existing_targets:
             self.logger.warning(f"Target directories already exist: {existing_targets}")
-            response = input("Continue anyway? (y/N): ")
-            if response.lower() != 'y':
-                return False
+            # response = input("Continue anyway? (y/N): ")
+            # if response.lower() != 'y':
+            #     return False
                 
         return True
         
