@@ -2078,13 +2078,19 @@ class LegalHtmlGenerator:
             # Create footnote marker HTML with data attributes for React processing
             footnote = ref_info['footnote']
             direct_article_url = footnote.get('direct_article_url', '')
+            
+            # Extract dossier number from the footnote's law reference
+            footnote_dossier_number = ''
+            law_reference = footnote.get('law_reference', {})
+            if law_reference:
+                footnote_dossier_number = law_reference.get('date_reference', '')
 
             marker_html = (
                 f'<span class="footnote-ref" '
                 f'data-footnote-id="{escape(ref_number)}" '
                 f'data-referenced-text="{escape(referenced_text)}" '
                 f'data-direct-article-url="{escape(direct_article_url)}" '
-                f'data-article-dossier-number="{escape(dossier_number or "")}">'
+                f'data-article-dossier-number="{escape(footnote_dossier_number)}">'
                 f'{escape(actual_text)}'
                 f'</span>'
             )

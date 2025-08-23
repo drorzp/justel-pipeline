@@ -44,6 +44,7 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
 
     let updated = 0;
     let failed = 0;
+    let skipped = 0;
     
     for (const row of rows) { 
       const document_number: string = row.document_number;
@@ -59,7 +60,13 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
 
       const result = await transformArticleHtml(transformationInput);
       
-      if (result.success && result.transformedHtml) {
+      if (result.skipped) {
+        // Handle skipped transformations
+        skipped++;
+        console.log(`[SKIPPED] Article ${document_number}:${article_number} - ${result.skipReason}`);
+        // Don't update the database for skipped articles
+        continue;
+      } else if (result.success && result.transformedHtml) {
         // Update with the successfully transformed HTML
         const transformedHtml = result.transformedHtml;
         
@@ -83,6 +90,9 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
 
     await client.query('COMMIT');
     console.log(`[SUCCESS] Updated article_contents rows: ${updated}`);
+    if (skipped > 0) {
+      console.log(`[INFO] Skipped ${skipped} articles (no relevant patterns found)`);
+    }
     if (failed > 0) {
       console.log(`[WARNING] Failed to transform ${failed} articles`);
     }

@@ -270,6 +270,10 @@ class ArticleExtractor:
 
             # Extract article content
             article_content = content[start_pos:end_pos].strip()
+            
+            # Capture the raw markdown text including the **ARTICLE** marker
+            raw_markdown_start = match.start()  # Start from the **ARTICLE** marker
+            raw_markdown_text = content[raw_markdown_start:end_pos].strip()
 
             # Split main content from footnotes
             main_content, footnotes = self.footnote_processor.split_article_content_and_footnotes(article_content, article_number)
@@ -334,7 +338,8 @@ class ArticleExtractor:
             # Build article content structure with optional legal citation
             article_content = {
                 "main_text_raw": main_text_raw,  # Use original text with angle brackets
-                "numbered_provisions": numbered_provisions
+                "numbered_provisions": numbered_provisions,
+                "raw_markdown": raw_markdown_text  # Add the raw markdown text for the article
             }
 
             # Add abrogation status if detected
@@ -530,6 +535,10 @@ c. ont été éliminés ;
 
             article_text = content[start_pos:end_pos].strip()
             
+            # Capture the raw markdown text including the **ARTICLE** marker
+            raw_markdown_start = match.start()  # Start from the **ARTICLE** marker
+            raw_markdown_text = content[raw_markdown_start:end_pos].strip()
+            
             # Split content and footnotes
             main_content, footnotes = self.footnote_processor.split_article_content_and_footnotes(article_text, article_number)
             
@@ -590,7 +599,8 @@ c. ont été éliminés ;
             # Build article content structure with optional legal citation
             article_content = {
                 "main_text_raw": main_text_raw,  # Use original text with angle brackets
-                "numbered_provisions": numbered_provisions
+                "numbered_provisions": numbered_provisions,
+                "raw_markdown": raw_markdown_text  # Add the raw markdown text for the article
             }
 
             # Add abrogation status if detected

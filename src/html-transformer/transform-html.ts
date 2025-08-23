@@ -18,6 +18,8 @@ export interface TransformationResult {
     error?: string;
     validationErrors?: string[];
     model?: 'deepseek' | 'gemini-2.5-flash';
+    skipped?: boolean;
+    skipReason?: string;
 }
 
 class HtmlTransformer {
@@ -27,7 +29,7 @@ class HtmlTransformer {
     private readonly RETRY_DELAY = 100;
     private readonly DEEPSEEK_TOKEN_LIMIT = 6000;
     private readonly GEMINI_INPUT_TOKEN_LIMIT = 1000000; // 1M tokens
-    private readonly GEMINI_OUTPUT_TOKEN_LIMIT = 65536; // 65K tokens
+    private readonly GEMINI_OUTPUT_TOKEN_LIMIT = 55000; // 65K tokens
 
     constructor() {
         const deepseekApiKey = process.env.DEEPSEEK_API_KEY;
@@ -133,6 +135,15 @@ Generate the clean HTML:`;
             .trim();
     }
 
+    private shouldTransform(mainText: string): boolean {
+        // Check if the HTML contains any of the required patterns
+        const hasFootnoteRef = mainText.includes('<span class="footnote-ref"');
+        const hasSectionSymbol = mainText.includes('§');
+        const hasProvisionList = mainText.includes('<li class="provision"');
+        
+        return hasFootnoteRef || hasSectionSymbol || hasProvisionList;
+    }
+
     private validateTransformation(original: string, transformed: string, articleNumber: string): {
         isValid: boolean;
         errors: string[];
@@ -175,7 +186,7 @@ Generate the clean HTML:`;
         try {
             const prompt = this.buildPrompt(input);
             
-            const model = this.gemini.getGenerativeModel({ model: 'gemini-2.0-flash-exp' });
+            const model = this.gemini.getGenerativeModel({ model: 'gemini-2.5-flash' });
             const result = await model.generateContent({
                 contents: [{
                     role: 'user',
@@ -268,6 +279,16 @@ Generate the clean HTML:`;
 
     async transform(input: TransformationInput): Promise<TransformationResult> {
         try {
+            // Check if the content needs transformation
+            if (!this.shouldTransform(input.main_text)) {
+                console.log(`⏭️ Skipping transformation for article ${input.article_number} - no relevant patterns found`);
+                return {
+                    success: true,
+                    skipped: true,
+                    skipReason: 'No footnotes, section symbols, or provision lists found in content'
+                };
+            }
+            
             // Check token limits and route to appropriate model
             const estimatedInputTokens = this.estimateTokens(input.main_text, input.main_text_raw);
             const estimatedOutputTokens = this.estimateOutputTokens(estimatedInputTokens);
