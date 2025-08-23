@@ -386,6 +386,9 @@ class DatabaseOperations {
 
   // Insert article content
   static async insertArticleContent(client: PoolClient, hierarchyElementId: number, content: ArticleContent, document_number: string): Promise<void> {
+
+    try {
+      await client.query('BEGIN');
     const query = `
       INSERT INTO article_contents (
         hierarchy_element_id, article_number, anchor_id, main_text, main_text_raw, document_number,main_text_hash,raw_markdown
@@ -409,6 +412,11 @@ class DatabaseOperations {
     ];
 
     await client.query(query, values);
+    await client.query('COMMIT');
+  }
+  catch(err){
+    console.log('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',err)
+  }
 
   }
 
