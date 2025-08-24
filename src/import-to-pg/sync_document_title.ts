@@ -13,8 +13,7 @@ dotenv.config();
 export async function sync_document_title(pool:Pool): Promise<void> {
   const client: PoolClient = await pool.connect();
   try {
-    await client.query('BEGIN');
-
+    // copy all new ones
     const sql = `
       INSERT INTO public.document_title (document_number, old_title, new_title)
       SELECT 
@@ -28,10 +27,8 @@ export async function sync_document_title(pool:Pool): Promise<void> {
     `;
 
     const result = await client.query(sql);
-    await client.query('COMMIT');
     console.log(`[SUCCESS] Inserted ${result.rowCount ?? 0} missing document_title rows.`);
   } catch (err) {
-    await client.query('ROLLBACK');
     console.error('[ERROR] Failed to sync document_title', err);
     throw err;
   } finally {
@@ -46,8 +43,7 @@ export async function sync_document_title(pool:Pool): Promise<void> {
 export async function sync_not_changed(pool:Pool): Promise<void> {
   const client: PoolClient = await pool.connect();
   try {
-    await client.query('BEGIN');
-
+// update non changed we dont need to llm those
     const sql = `
       UPDATE public.documents d 
       SET title = dt.new_title 
@@ -60,10 +56,8 @@ export async function sync_not_changed(pool:Pool): Promise<void> {
     `;
 
     const result = await client.query(sql);
-    await client.query('COMMIT');
     console.log(`[SUCCESS] Updated ${result.rowCount ?? 0} document titles where unchanged.`);
   } catch (err) {
-    await client.query('ROLLBACK');
     console.error('[ERROR] Failed to apply not-changed title updates', err);
     throw err;
   } finally {

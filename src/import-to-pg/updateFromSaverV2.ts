@@ -15,7 +15,7 @@ export async function updateArticleContentsFromSaverV2Diff(pool:Pool): Promise<v
   const client: PoolClient = await pool.connect();
   try {
     await client.query('BEGIN');
-
+// all new and changed
     const selectSql = `
 SELECT
     t1.document_number,

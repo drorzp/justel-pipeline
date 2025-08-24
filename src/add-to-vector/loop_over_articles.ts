@@ -36,7 +36,7 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
     const { rows } = await client.query(selectSql);
     console.log(`[INFO] Rows with differing hashes: ${rows.length}`);
 
-
+// wiil wrtie to qdrant
     let updated = 0;
     for (const row of rows) {
       const document_number: string = row.document_number;

@@ -255,6 +255,7 @@ export async function processAllDocumentTitles(pool:Pool, config: LLMConfig): Pr
     try {
         console.info('Starting document title processing...');
 
+        // fetch all document titles thas has not new title they need llm.
         const documents = await getAllDocumentTitles(client);
 
         if (documents.length === 0) {
