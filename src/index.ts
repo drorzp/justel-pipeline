@@ -46,11 +46,16 @@ const pool = new Pool(dbConfig); //
     // await copyContentArticle(pool); 
     // console.log('copyContentArticle')  // truncate the article_contents_saver table and copy all html into it
     // await truncateImportTables(pool);  
-    // console.log('truncateImportTables')   /// clean all tables
-    // await runS3Batch(pool,'incoming3'); 
-    // console.log('runS3Batch incoming3'); // create all tables 
-    // await runS3Batch(pool,'incoming_no_articles3'); 
-    // console.log('runS3Batch incoming_no_articles3/'); // create all tables 
+    console.log('truncateImportTables')   /// clean all tables
+    await runS3Batch(pool,'incoming3'); 
+    console.log('runS3Batch incoming3'); // create all tables 
+    await runS3Batch(pool,'incoming_no_articles3'); 
+    console.log('runS3Batch incoming_no_articles3/'); // create all tables 
+
+    // Create Tax IRS Revenue Articles of Laws
+    await runS3Batch(pool,'revenu_tax_code'); 
+    console.log('runS3Batch revenue_tax_code/'); // create all tables 
+
     // await sync_document_title(pool);  
     // console.log('sync_document_title')
     // await sync_not_changed(pool);
