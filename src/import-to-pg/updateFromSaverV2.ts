@@ -20,12 +20,10 @@ export async function updateArticleContentsFromSaverV2Diff(pool:Pool): Promise<v
 SELECT
     t1.document_number,
     t1.article_number,
-    t1.main_text_raw AS main_text_raw_v1,
-    t1.main_text AS main_text_v1,
-    t1.main_text_hash AS main_text_hash_v1,
-    t2.main_text_raw AS main_text_raw_v2,
-    t2.main_text AS main_text_v2,
-    t2.main_text_hash AS main_text_hash_v2
+    t1.raw_markdown AS raw_markdown_new,
+    t1.main_text AS main_text_new,
+    t1.main_text_hash,
+    t2.main_text_hash
 FROM article_contents t1
 LEFT JOIN article_contents_saver t2
     ON t1.document_number = t2.document_number
@@ -54,12 +52,13 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
       const transformationInput: TransformationInput = {
         document_number,
         article_number,
-        main_text: row.main_text_v1,
-        main_text_raw: row.main_text_raw_v1
+        main_text: row.main_text_new,
+        raw_markdown: row.raw_markdown_new
       };
 
       const result = await transformArticleHtml(transformationInput);
       
+      // We skip the ones that their token limit will exceed Gemini maximum so we don't need to update those for now.
       if (result.skipped) {
         // Handle skipped transformations
         skipped++;
