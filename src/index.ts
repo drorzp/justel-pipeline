@@ -60,21 +60,23 @@ const pool = new Pool(dbConfig); //
     // console.log('sync_document_title')
     // await sync_not_changed(pool);
     // console.log('sync_not_changed');
-    // await processAllDocumentTitles(pool, llmConfig);
-    // console.log('processAllDocumentTitles');
+    await processAllDocumentTitles(pool, llmConfig);
+    console.log('processAllDocumentTitles');
+    const HTML_FOLDER = path.join(__dirname, process.env.HTML_FOLDER_PATH!); // Adjust this path to your actual HTML data directory
+    console.log('update article html', HTML_FOLDER);
+    await updateHtml(pool,HTML_FOLDER);
     // await updateArticleContentsFromSaver(pool);
     // console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
     // await updateArticleContentsFromSaverV2Diff(pool) 
     // console.log('updateArticleContentsFromSaverV2Dif');
-    // await moveLawsToMongo(pool);
-    // console.log('moveLawsToMongo');
-    // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
-    // console.log('moveArticlesToMongo')
-    // await updateArticleVector(pool);
-    // console.log('updateArticleVector');
-    const HTML_FOLDER = path.join(__dirname, process.env.HTML_FOLDER_PATH!); // Adjust this path to your actual HTML data directory
-    console.log('update article html', HTML_FOLDER);
-    await updateHtml(pool,HTML_FOLDER);
+    await moveLawsToMongo(pool);
+    console.log('moveLawsToMongo');
+    await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+    console.log('moveArticlesToMongo')
+    await updateArticleVector(pool);
+    console.log('updateArticleVector');
+
+
     console.log('update article html');
   } catch (err:unknown) {
     const message = err instanceof Error ? err.message : 'Unknown error';
