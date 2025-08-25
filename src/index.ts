@@ -51,6 +51,12 @@ const pool = new Pool(dbConfig); //
     console.log('runS3Batch incoming3'); // create all tables 
     await runS3Batch(pool,'incoming_no_articles3'); 
     console.log('runS3Batch incoming_no_articles3/'); // create all tables 
+
+
+    // Create Tax IRS Revenue Articles of Laws
+    await runS3Batch(pool,'revenu_tax_code'); 
+    console.log('runS3Batch revenue_tax_code/'); // create all tables 
+
     await sync_document_title(pool);  
     console.log('sync_document_title')
     await sync_not_changed(pool);
