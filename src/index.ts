@@ -60,12 +60,12 @@ const pool = new Pool(dbConfig); //
     // console.log('sync_document_title')
     // await sync_not_changed(pool);
     // console.log('sync_not_changed');
-    await processAllDocumentTitles(pool, llmConfig);
-    console.log('processAllDocumentTitles');
-    const HTML_FOLDER = path.join(__dirname, process.env.HTML_FOLDER_PATH!); // Adjust this path to your actual HTML data directory
-    console.log('update article html', HTML_FOLDER);
-    await updateHtml(pool,HTML_FOLDER);
-    downloadAndUnzip(pool, process.env.S3_BUCKET_NAME!, process.env.S3_ZIP_KEY!);
+    // await processAllDocumentTitles(pool, llmConfig);
+    // console.log('processAllDocumentTitles');
+    // const HTML_FOLDER = path.join(__dirname, process.env.HTML_FOLDER_PATH!); // Adjust this path to your actual HTML data directory
+    // console.log('update article html', HTML_FOLDER);
+    // await updateHtml(pool,HTML_FOLDER);
+    // downloadAndUnzip(pool, process.env.S3_BUCKET_NAME!, process.env.S3_ZIP_KEY!);
     // await updateArticleContentsFromSaver(pool);
     // console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
     // await updateArticleContentsFromSaverV2Diff(pool) 
