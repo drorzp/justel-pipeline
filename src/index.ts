@@ -14,7 +14,7 @@ import { runPythonDataPipeline } from './utils/pythonRunner';
 import { clearS3ZipFiles } from './utils/s3';
 import './logger';
 import * as path from 'path';
-import { downloadAndUnzip, updateHtml } from './import_article_html/import_article_html';
+import { downloadAndUnzip, processS3HtmlUpdate, updateHtml } from './import_article_html/import_article_html';
 export const llmConfig: LLMConfig = {
     openaiApiKey: process.env.OPENAI_API_KEY || '',
     model: 'gpt-4o-mini',
@@ -70,8 +70,10 @@ const pool = new Pool(dbConfig); //
     // console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
     // await updateArticleContentsFromSaverV2Diff(pool) 
     // console.log('updateArticleContentsFromSaverV2Dif');
-    await moveLawsToMongo(pool);
-    console.log('moveLawsToMongo');
+    processS3HtmlUpdate(pool, 'article-zip', 'htmls/htmls.zip');
+    console.log('processS3HtmlUpdate')
+    // await moveLawsToMongo(pool);
+    // console.log('moveLawsToMongo');
     // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
     // console.log('moveArticlesToMongo')
     // await updateArticleVector(pool);

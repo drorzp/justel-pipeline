@@ -1,5 +1,5 @@
 import { config } from 'dotenv';
-import { Dirent, promises as fs } from 'fs';
+import { createWriteStream, Dirent, promises as fs } from 'fs';
 import path from 'path';
 import { pipeline } from 'stream/promises';
 import { Readable } from 'stream';
