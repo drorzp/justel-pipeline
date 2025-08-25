@@ -103,7 +103,6 @@ const RootLawSchema = new Schema<ILaw>(
 );
 
 RootLawSchema.index({ 'document.document_number': 1 }, { unique: true });
-RootLawSchema.index({ 'document.id': 1 }, { unique: true });
 
 const LawRoot = mongoose.model<ILaw>('lawroots', RootLawSchema);
 

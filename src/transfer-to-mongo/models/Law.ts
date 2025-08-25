@@ -105,6 +105,5 @@ const LawSchema = new Schema<ILaw>(
 
 // Create unique indexes for top-level fields
 LawSchema.index({ document_number: 1 }, { unique: true });
-// LawSchema.index({ id: 1 }, { unique: true });
 const Law = mongoose.model<ILaw>('Laws', LawSchema);
 export { Law };
