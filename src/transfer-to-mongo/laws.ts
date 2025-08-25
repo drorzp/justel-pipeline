@@ -81,7 +81,7 @@ export async function moveLawsToMongo(pool:Pool, ) {
         }
         await LawRoot.findOneAndUpdate(
           { 
-            document_number: law.document_number},
+            document_number: result.document_number},
             result,  // Mongoose will handle $set automatically
             { 
               upsert: true, 
@@ -91,12 +91,12 @@ export async function moveLawsToMongo(pool:Pool, ) {
             }
           ).lean();
 
-          const existingLaw = await Law.findOne({document_number: law.document_number});
+          const existingLaw = await Law.findOne({document_number: result.document_number});
 
           if(existingLaw){
             await Law.findOneAndUpdate(
               { 
-                document_number: law.document_number},
+                document_number: result.document_number},
                 result,  // Mongoose will handle $set automatically
                 { 
                   upsert: true, 

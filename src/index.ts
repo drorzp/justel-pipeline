@@ -72,8 +72,8 @@ const pool = new Pool(dbConfig); //
     // console.log('updateArticleContentsFromSaverV2Dif');
     await moveLawsToMongo(pool);
     console.log('moveLawsToMongo');
-    await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
-    console.log('moveArticlesToMongo')
+    // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+    // console.log('moveArticlesToMongo')
     // await updateArticleVector(pool);
     // console.log('updateArticleVector');
 
