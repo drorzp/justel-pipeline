@@ -24,7 +24,7 @@ export async function runPythonScript(
     }
     
     // Spawn the Python process
-    const pythonProcess = spawn('python', [fullScriptPath, ...args], {
+    const pythonProcess = spawn('python3', [fullScriptPath, ...args], {
       cwd: cwd || path.dirname(fullScriptPath),
       env,
     });
@@ -82,28 +82,28 @@ export async function runPythonDataPipeline(): Promise<void> {
     
     // Step 1: Update the full-list.csv with newest URLs
     console.log('\n📋 Step 1: Updating full-list.csv with newest URLs...');
-    await runPythonScript(
-      path.join(pythonScriptsDir, 'populate_full_list.py'),
-      {
-        cwd: pythonScriptsDir,
-        showOutput: true
-      }
-    );
+     await runPythonScript(
+     path.join(pythonScriptsDir, 'populate_full_list.py'),
+     // {
+       // cwd: pythonScriptsDir,
+        //showOutput: true
+     // }
+    //);
     
     // Step 2: Run HTML scraping
-    console.log('\n📥 Step 2: Running HTML scraping (full production mode)...');
-    await runPythonScript(
-      path.join(pythonScriptsDir, 'run_comprehensive_html_scraping.py'),
-      {
-        args: [
-          '--concurrent', '35',  // 35 concurrent requests
-          '--delay', '0.02',     // 0.02s delay between batches
-          '--resume'             // Resume from checkpoint if exists
-        ],
-        cwd: pythonScriptsDir,
-        showOutput: true
-      }
-    );
+    //console.log('\n📥 Step 2: Running HTML scraping (full production mode)...');
+    //await runPythonScript(
+     // path.join(pythonScriptsDir, 'run_comprehensive_html_scraping.py'),
+      //{
+       // args: [
+         // '--concurrent', '35',  // 35 concurrent requests
+         // '--delay', '0.02',     // 0.02s delay between batches
+         // '--resume'             // Resume from checkpoint if exists
+       // ],
+        //cwd: pythonScriptsDir,
+       // showOutput: true
+     // }
+    //);
     
     // Step 3: Run comprehensive pipeline
     console.log('\n📊 Step 3: Running comprehensive pipeline (full production mode)...');

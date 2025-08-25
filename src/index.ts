@@ -83,3 +83,4 @@ const pool = new Pool(dbConfig); //
 if (require.main === module) {
   main();
 }
+
