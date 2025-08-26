@@ -70,12 +70,12 @@ const pool = new Pool(dbConfig);
     // console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
     // await updateArticleContentsFromSaverV2Diff(pool) 
     // console.log('updateArticleContentsFromSaverV2Dif');
-    await processS3HtmlUpdate(pool, 'article-zip', 'htmls/htmls.zip');
-    console.log('processS3HtmlUpdate')
+    // await processS3HtmlUpdate(pool, 'article-zip', 'htmls/htmls.zip');
+    // console.log('processS3HtmlUpdate')
     // await moveLawsToMongo(pool);
     // console.log('moveLawsToMongo');
-    // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
-    // console.log('moveArticlesToMongo')
+    await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+    console.log('moveArticlesToMongo')
     // await updateArticleVector(pool);
     // console.log('updateArticleVector');
 
