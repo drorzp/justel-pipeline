@@ -26,10 +26,9 @@ async function getArticlesList(pool:Pool) {
 }
 
 
-async function getArticleFromPostgres(pool:Pool,document_number: string,article_number:string): Promise<any> {
-  let client: PoolClient | null = null;
+async function getArticleFromPostgres(client:PoolClient,document_number: string,article_number:string): Promise<any> {
+
   try { 
-    client = await pool.connect();
     const query = 'SELECT public.article_with_relations($1,$2) as article_data';
     const result = await client.query(query, [document_number,article_number]);
     
@@ -69,7 +68,7 @@ export async function moveArticlesToMongo(pool:Pool) {
       
       try {
         
-        const result = await getArticleFromPostgres(pool,article.document_number,article.article_number);
+        const result = await getArticleFromPostgres(client,article.document_number,article.article_number);
         
         if (!result) {
           console.info(`⚠️  No data for ${article.document_number} ${article.article_number}`);
