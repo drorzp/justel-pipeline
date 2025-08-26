@@ -56,6 +56,7 @@ export async function moveArticlesToMongo(pool:Pool) {
     console.info('Starting conservative migration...');
     
     // Connect to databases
+    const client: PoolClient = await pool.connect();
     await connectMongoDB();
     
     const db = getDB();
@@ -71,7 +72,7 @@ export async function moveArticlesToMongo(pool:Pool) {
         const result = await getArticleFromPostgres(pool,article.document_number,article.article_number);
         
         if (!result) {
-          console.info(`⚠️  No data for ${article.document_number}`);
+          console.info(`⚠️  No data for ${article.document_number} ${article.article_number}`);
           continue;
         }
           await Article.findOneAndUpdate(
