@@ -30,26 +30,24 @@ async function getArticleFromPostgres(pool:Pool,document_number: string,article_
   let client: PoolClient | null = null;
   try { 
     client = await pool.connect();
-    const query = 'SELECT public.article_with_relations($1,$2) as law_data';
+    const query = 'SELECT public.article_with_relations($1,$2) as article_data';
     const result = await client.query(query, [document_number,article_number]);
     
-    if (result.rows.length === 0 || !result.rows[0].law_data) {
-      console.info(`No data for ${document_number}`);
+    if (result.rows.length === 0 || !result.rows[0].article_data) {
+      console.info(`No data for ${document_number} {article_number}`);
       return null;
     }
     
-    const lawData = 
-      typeof result.rows[0].law_data === 'string'
-        ? JSON.parse(result.rows[0].law_data)
-        : result.rows[0].law_data;
+    const articleData = 
+      typeof result.rows[0].article_data === 'string'
+        ? JSON.parse(result.rows[0].article_data)
+        : result.rows[0].article_data;
     
-    console.info(`✓ Successfully fetched ${document_number}`);
-    return lawData;
+    console.info(`✓ Successfully fetched ${document_number} ${article_number}`);
+    return articleData;
   } catch (error: unknown) {
     return null;
-  } finally {
-    try { client?.release(); } catch {}
-  }
+  } 
 }
 
 export async function moveArticlesToMongo(pool:Pool) {
