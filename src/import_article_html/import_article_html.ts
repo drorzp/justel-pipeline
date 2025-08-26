@@ -185,10 +185,10 @@ async function downloadFromS3(
     
     try {
       // Step 1: Download zip from S3
-      await downloadFromS3(bucketName, s3Key, tempZipPath);
+      // await downloadFromS3(bucketName, s3Key, tempZipPath);
       
-      // Step 2: Unzip the file
-      await unzipFile(tempZipPath, extractPath);
+      // // Step 2: Unzip the file
+      // await unzipFile(tempZipPath, extractPath);
       
       // Step 3: Process the unzipped HTML files
       console.log('Processing HTML files...');

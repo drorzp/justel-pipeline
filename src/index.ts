@@ -37,7 +37,7 @@ const dbConfig: PoolConfig = {
 
 async function main() {
 
-const pool = new Pool(dbConfig); // 
+const pool = new Pool(dbConfig);
   try {
     // Clear S3 folders before running pipeline
     //  await clearS3ZipFiles(['incoming3', 'incoming_no_articles3']);
@@ -70,7 +70,7 @@ const pool = new Pool(dbConfig); //
     // console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
     // await updateArticleContentsFromSaverV2Diff(pool) 
     // console.log('updateArticleContentsFromSaverV2Dif');
-    processS3HtmlUpdate(pool, 'article-zip', 'htmls/htmls.zip');
+    await processS3HtmlUpdate(pool, 'article-zip', 'htmls/htmls.zip');
     console.log('processS3HtmlUpdate')
     // await moveLawsToMongo(pool);
     // console.log('moveLawsToMongo');
