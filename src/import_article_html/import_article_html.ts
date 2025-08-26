@@ -76,7 +76,7 @@ export async function updateHtml(client: Pool, folderPath: string): Promise<void
         
         // Proceed with update if transformedHtml has content
         const res = await client.query(
-          `UPDATE articles_content
+          `UPDATE article_contents
            SET main_text = $1
            WHERE document_number = $2 and article_number = $3`,
           [original_html, document_number, article_number]
