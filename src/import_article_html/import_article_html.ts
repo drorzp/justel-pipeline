@@ -85,6 +85,7 @@ export async function updateHtml(client: Pool, folderPath: string): Promise<void
         if (res.rowCount && res.rowCount > 0) {
           updatedCount++;
         }
+        console.log(`updated ${document_number} - ${article_number} total ${updatedCount}`)
       }
     }
     
