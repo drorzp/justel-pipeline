@@ -30,9 +30,7 @@ export async function getAllDocumentTitles(client: PoolClient, startFromId?: num
         const query = `
         SELECT id, document_number, old_title, new_title
         FROM public.document_title
-        WHERE old_title IS NOT NULL
-        AND old_title != ''
-        AND (new_title IS NULL OR new_title = '')`;
+        WHERE old_title IS NOT NULL AND old_title != '' AND (new_title IS NULL OR new_title = '')`;
 
         const result = await client.query(query);
         console.info(`Found ${result.rows.length} documents needing title generation${startFromId ? ` (starting from ID ${startFromId})` : ''}`);

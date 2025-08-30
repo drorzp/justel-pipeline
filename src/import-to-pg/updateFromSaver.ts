@@ -1,17 +1,6 @@
 import { Pool, PoolClient } from 'pg';
-import * as dotenv from 'dotenv';
-
-dotenv.config();
-
-// Align DB config with other module
 
 
-
-/**
- * Executes a set-based UPDATE to copy main_text from article_contents_saver
- * into article_contents where (document_number, article_number) match and
- * the hashes are equal.
- */
 export async function updateArticleContentsFromSaver(pool: Pool): Promise<void> {
   const client: PoolClient = await pool.connect();
   try {

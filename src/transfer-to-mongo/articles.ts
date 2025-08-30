@@ -74,7 +74,7 @@ export async function moveArticlesToMongo(pool:Pool) {
           console.info(`⚠️  No data for ${article.document_number} ${article.article_number}`);
           continue;
         }
-          await Article.findOneAndUpdate(
+          await Article.findOneAndReplace(
             { 
             document_number: article.document_number, article_number: article.article_number },
             result,  // Mongoose will handle $set automatically

@@ -51,9 +51,7 @@ async function getLawFromPostgres(client:PoolClient,document_number: string): Pr
 
 
 export async function moveLawsToMongo(pool:Pool, ) {
-  const startTime = Date.now();
   let processedCount = 0;
-  let successCount = 0;
   let errorCount = 0;
   
   try {
@@ -64,7 +62,6 @@ export async function moveLawsToMongo(pool:Pool, ) {
     await connectMongoDB();
     
     const db = getDB();
-    const collection = db.collection('lawroots');
     const LawsList: any[] | null = await getLawsList(client);
     
     // Use for...of loop to properly handle async operations
@@ -79,7 +76,7 @@ export async function moveLawsToMongo(pool:Pool, ) {
           console.info(`⚠️  No data for ${law.document_number}`);
           continue;
         }
-        await LawRoot.findOneAndUpdate(
+        await LawRoot.findOneAndReplace(
           { 
             document_number: result.document_number},
             result,  // Mongoose will handle $set automatically
@@ -94,7 +91,7 @@ export async function moveLawsToMongo(pool:Pool, ) {
           const existingLaw = await Law.findOne({document_number: result.document_number});
 
           if(existingLaw){
-            await Law.findOneAndUpdate(
+            await Law.findOneAndReplace(
               { 
                 document_number: result.document_number},
                 result,  // Mongoose will handle $set automatically

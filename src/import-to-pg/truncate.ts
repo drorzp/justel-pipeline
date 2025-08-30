@@ -1,7 +1,4 @@
 import { Pool } from 'pg';
-import * as dotenv from 'dotenv';
-
-dotenv.config();
 
 // Default tables involved in the import pipeline
 export const DEFAULT_IMPORT_TABLES = [
@@ -54,16 +51,13 @@ export async function truncateTables(
   try {
     const info = await client.query("select current_database() as db, current_user as usr");
     console.log("[truncate] Target:", info.rows[0]);
-    await client.query('BEGIN');
     // Truncate one-by-one to allow per-table success logging
     for (const q of qualified) {
       const sql = `TRUNCATE TABLE ${q} ${parts.join(' ')};`;
       await client.query(sql);
       console.log(`[truncate] Success: ${q}`);
     }
-    await client.query('COMMIT');
   } catch (err) {
-    await client.query('ROLLBACK');
     throw err;
   } finally {
     client.release();
@@ -71,8 +65,6 @@ export async function truncateTables(
 }
 
 export async function truncateImportTables(pool:Pool, options: TruncateOptions = {}): Promise<void> {
-  // Order matters for TRUNCATE without CASCADE; with CASCADE it's safe.
-  // We still pass all in one statement for efficiency.
   await truncateTables(pool , DEFAULT_IMPORT_TABLES, { cascade: true, restartIdentity: true, ...options });
 }
 

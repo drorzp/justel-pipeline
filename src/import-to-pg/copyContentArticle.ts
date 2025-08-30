@@ -1,7 +1,4 @@
 import { Pool } from 'pg';
-import * as dotenv from 'dotenv';
-
-dotenv.config();
 
 function isSafeIdentifier(id: string): boolean {
   return /^[a-zA-Z_][a-zA-Z0-9_]*$/.test(id);
@@ -17,16 +14,13 @@ function qualifyProc(schema: string | undefined, proc: string): string {
 
 // Calls stored procedure: COPY CONTENT ARTICLE
 // Default schema is public; override if needed.
-export async function copyContentArticle(pool: Pool, schema: string = 'public'): Promise<void> {
+export async function saveContentArticle(pool: Pool, schema: string = 'public'): Promise<void> {
   const qualified = qualifyProc(schema, 'reset_and_insert_from_article_content');
   const client = await pool.connect();
   try {
     console.log(`COPY CONTENT ARTICLE ${qualified}`);
-    await client.query('BEGIN');
     await client.query(`CALL ${qualified}()`);
-    await client.query('COMMIT');
   } catch (err) {
-    await client.query('ROLLBACK');
     throw err;
   } finally {
     client.release();

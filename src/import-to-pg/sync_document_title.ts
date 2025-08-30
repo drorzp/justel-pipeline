@@ -1,8 +1,4 @@
 import { Pool, PoolClient } from 'pg';
-import * as dotenv from 'dotenv';
-
-// Load env
-dotenv.config();
 
 
 
@@ -40,7 +36,7 @@ export async function sync_document_title(pool:Pool): Promise<void> {
  * Update documents.title to dt.new_title only when the current title equals dt.old_title
  * and new_title is present and non-empty.
  */
-export async function sync_not_changed(pool:Pool): Promise<void> {
+export async function titles_not_changed(pool:Pool): Promise<void> {
   const client: PoolClient = await pool.connect();
   try {
 // update non changed we dont need to llm those
