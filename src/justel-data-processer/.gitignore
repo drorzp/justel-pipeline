@@ -186,4 +186,3 @@ input.zip
 # Environment variables
 .env
 .env.local
-src/justel-data-processer/data/csv_data/full-list.csv
