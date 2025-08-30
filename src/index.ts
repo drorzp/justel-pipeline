@@ -59,8 +59,8 @@ const pool = new Pool(dbConfig);
     // console.log('sync_document_title')
     // await sync_not_changed(pool);
     // console.log('sync_not_changed');
-    await processAllDocumentTitles(pool, llmConfig);
-    console.log('processAllDocumentTitles');
+    // await processAllDocumentTitles(pool, llmConfig);
+    // console.log('processAllDocumentTitles');
    
    
     // await updateArticleContentsFromSaver(pool);
@@ -71,7 +71,7 @@ const pool = new Pool(dbConfig);
     // console.log('updateArticleContentsFromSaverV2Dif');
 
 
-    // await moveLawsToMongo(pool);
+    await moveLawsToMongo(pool);
     // console.log('moveLawsToMongo');
     // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
     // console.log('moveArticlesToMongo')
