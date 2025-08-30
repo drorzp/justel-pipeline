@@ -52,7 +52,6 @@ const pool = new Pool(dbConfig);
     // console.log('runS3Batch incoming3'); // create all tables 
     // await runS3Batch(pool,'incoming_no_articles3'); 
     // console.log('runS3Batch incoming_no_articles3/'); // create all tables 
-    // // Create Tax IRS Revenue Articles of Laws
     // await runS3Batch(pool,'revenue_tax_code'); 
     // console.log('runS3Batch revenue_tax_code/'); // create all tables 
 
@@ -60,27 +59,25 @@ const pool = new Pool(dbConfig);
     // console.log('sync_document_title')
     // await sync_not_changed(pool);
     // console.log('sync_not_changed');
-    // await processAllDocumentTitles(pool, llmConfig);
-    // console.log('processAllDocumentTitles');
-    // const HTML_FOLDER = path.join(__dirname, process.env.HTML_FOLDER_PATH!); // Adjust this path to your actual HTML data directory
-    // console.log('update article html', HTML_FOLDER);
-    // await updateHtml(pool,HTML_FOLDER);
-    // downloadAndUnzip(pool, process.env.S3_BUCKET_NAME!, process.env.S3_ZIP_KEY!);
+    await processAllDocumentTitles(pool, llmConfig);
+    console.log('processAllDocumentTitles');
+   
+   
     // await updateArticleContentsFromSaver(pool);
     // console.log('updateArticleContentsFromSaver'); // not sure we need it since it is the same ? this one will restore the html that was not changed
+   
+   
     // await updateArticleContentsFromSaverV2Diff(pool) 
     // console.log('updateArticleContentsFromSaverV2Dif');
-    // await processS3HtmlUpdate(pool, 'article-zip', 'htmls/htmls.zip');
-    // console.log('processS3HtmlUpdate')
+
+
     // await moveLawsToMongo(pool);
     // console.log('moveLawsToMongo');
-    await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
-    console.log('moveArticlesToMongo')
+    // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+    // console.log('moveArticlesToMongo')
+
     // await updateArticleVector(pool);
     // console.log('updateArticleVector');
-
-
-    console.log('update article html');
   } catch (err:unknown) {
     const message = err instanceof Error ? err.message : 'Unknown error';
     console.error('Error running batch task:', message);

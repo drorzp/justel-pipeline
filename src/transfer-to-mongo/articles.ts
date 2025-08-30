@@ -29,7 +29,7 @@ async function getArticlesList(pool:Pool) {
 async function getArticleFromPostgres(client:PoolClient,document_number: string,article_number:string): Promise<any> {
 
   try { 
-    const query = 'SELECT public.get_article_with_relations($1,$2) as article_data';
+    const query = 'SELECT public.get_article_with_relations1($1,$2) as article_data';
     const result = await client.query(query, [document_number,article_number]);
 
     if (result.rows.length === 0 || !result.rows[0].article_data) {
