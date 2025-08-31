@@ -19,6 +19,7 @@ openai>=1.0.0         # OpenAI API client
 # Text processing
 markdown>=3.4.0       # Markdown processing
 markdownify>=0.11.0   # HTML to Markdown conversion
+html2text>=2020.1.16  # HTML to text/markdown conversion
 
 # Environment management
 python-dotenv>=1.0.0  # Load environment variables from .env file

@@ -14,9 +14,9 @@ function hashText(text: string) {
 // Helper to get embeddings
 async function getEmbedding(text: string) {
   const response = await openai.embeddings.create({
-    model: 'text-embedding-3-small',
+    model: 'text-embedding-3-large',
     input: text,
-    dimensions: 512
+    dimensions: 3072
   });
   return response.data[0].embedding;
 }
@@ -51,7 +51,7 @@ export async function smartUpsert(id: number, newText: string, document_number: 
     // Text is new or changed - get embedding and upsert
     const vector = await getEmbedding(newText);
     
-    await qdrant.upsert('articles_of_law', {
+    await qdrant.upsert('articles_of_law_3072', {
       points: [
         {
           id,

@@ -81,29 +81,29 @@ export async function runPythonDataPipeline(): Promise<void> {
     console.log('='.repeat(70));
     
     // Step 1: Update the full-list.csv with newest URLs
-    console.log('\n📋 Step 1: Updating full-list.csv with newest URLs...');
-     await runPythonScript(
-     path.join(pythonScriptsDir, 'populate_full_list.py'),
-     {
-       cwd: pythonScriptsDir,
-        showOutput: true
-     }
-    );
+    // console.log('\n📋 Step 1: Updating full-list.csv with newest URLs...');
+    //  await runPythonScript(
+    //  path.join(pythonScriptsDir, 'populate_full_list.py'),
+    //  {
+    //    cwd: pythonScriptsDir,
+    //     showOutput: true
+    //  }
+    // );
     
-    // Step 2: Run HTML scraping
-    console.log('\n📥 Step 2: Running HTML scraping (full production mode)...');
-    await runPythonScript(
-     path.join(pythonScriptsDir, 'run_comprehensive_html_scraping.py'),
-      {
-       args: [
-         '--concurrent', '35',  // 35 concurrent requests
-         '--delay', '0.02',     // 0.02s delay between batches
-         '--resume'             // Resume from checkpoint if exists
-       ],
-        cwd: pythonScriptsDir,
-       showOutput: true
-     }
-    );
+    // // Step 2: Run HTML scraping
+    // console.log('\n📥 Step 2: Running HTML scraping (full production mode)...');
+    // await runPythonScript(
+    //  path.join(pythonScriptsDir, 'run_comprehensive_html_scraping.py'),
+    //   {
+    //    args: [
+    //      '--concurrent', '35',  // 35 concurrent requests
+    //      '--delay', '0.02',     // 0.02s delay between batches
+    //      '--resume'             // Resume from checkpoint if exists
+    //    ],
+    //     cwd: pythonScriptsDir,
+    //    showOutput: true
+    //  }
+    // );
     
     // Step 3: Run comprehensive pipeline
     console.log(`Step 3: Running comprehensive pipeline (full production mode)...`);
@@ -113,7 +113,8 @@ export async function runPythonDataPipeline(): Promise<void> {
       {
         args: [
           '--process-all',       // Process all files
-          '--batch-size', '1000' // Process 1000 files per batch
+          '--batch-size', '1000', // Process 1000 files per batch
+          '--start-batch', '157' // Process 1000 files per batch
         ],
         cwd: pythonScriptsDir,
         showOutput: true

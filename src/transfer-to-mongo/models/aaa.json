@@ -1,0 +1,61 @@
+{
+    "id": 312,
+    "case": null,
+    "citing": [],
+    "source": "juportal.be",
+    "chamber": null,
+    "courtfr": "Tribunal du travail d'Anvers",
+    "courtnl": "Arbeidsrechtbank te Antwerpen",
+    "url_pdf": null,
+    "articles": [
+        {
+            "id": 538842,
+            "edge": "DISCUSSES_LEGAL_PROVISIONS",
+            "status": "Valid",
+            "url_text": "Lien ELI No pub 1900031050",
+            "created_at": "2025-07-18T16:05:21.496951",
+            "summary_id": "4846-1-1",
+            "url_justel": "https://www.ejustice.just.fgov.be/eli/loi/1900/03/10/1900031050/justel",
+            "article_number": "8 - 01",
+            "legal_act_type": "Loi",
+            "law_document_id": "1900031050",
+            "article_link_number": "8"
+        }
+    ],
+    "cited_in": [],
+    "fullHtml": "",
+    "keywords": [],
+    "similair": [],
+    "versions": [],
+    "file_name": "juportal.be_BE_ARANT_1975_JUG.19750220.4_FR.json",
+    "precedent": [],
+    "summaries": [
+        {
+            "summary": "Pour prouver la faute légère habituelle dans le chef de l'ouvrier, l'employeur ne peut pas exciper d'actes ultérieures accomplis par l'ouvrier au service de son nouvel employeur. Il apparaît effectivement du rapport existant entre les dispositions du second et du troisième alinéa de l'article 8 de la loi sur le contrat de travail, que la faute, à laquelle il est fait allusion, ne concerne que le dommage causé à l'employeur par l'ouvrier \"dans l'exécution de son contrat\".",
+            "legalbasis": [
+                "Loi - 10-03-1900 - 8 - 01 Lien ELI No pub 1900031050"
+            ],
+            "decision_id": 312,
+            "keywordsfree": "Contrats de louage de travail Ouvriers Obligations du travailleur Responsabilité Faute légère habituelle Notion Dommage ultérieurement causé au nouvel employeur Ne pas prendre en considération."
+        }
+    ],
+    "rol_number": "1645",
+    "decision_id": "ECLI:BE:ARANT:1975:JUG.19750220.4",
+    "followed_by": [],
+    "preceded_by": [],
+    "field_of_law": null,
+    "jurisdiction": "BE",
+    "related_case": [],
+    "decision_date": "1975-02-20",
+    "rectification": [],
+    "court_category": "BASE",
+    "court_ecli_code": "ARANT",
+    "decision_type_fr": "Jugement",
+    "decision_type_nl": "Vonnis",
+    "similar_keywords": {},
+    "language_metadata": "FR",
+    "see_more_recently": [],
+    "decision_type_ecli_code": "JUG",
+    "opinion_public_attorney": null,
+    "url_official_publication": "https://juportal.be/content/ECLI:BE:ARANT:1975:JUG.19750220.4/FR"
+}
