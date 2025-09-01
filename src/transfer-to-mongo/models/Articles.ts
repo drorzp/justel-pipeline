@@ -34,33 +34,6 @@ const DecisionForArticleSchema = new Schema({
   decision_details: { type: DecisionForArticleDetailSchema, required: true }
 }, { _id: false });
 
-// Schema for footnotes
-const FootNotesSchema = new Schema({
-  id: { type: Number, required: true },
-  footnote_number: { type: String, required: true },
-  footnote_content: { type: String, required: true },
-  law_type: { type: String, required: true },
-  date_reference: { type: String, required: true },
-  sequence_number: { type: String, required: true },
-  full_reference: { type: String, required: true },
-  effective_date: { type: String, required: true },
-  modification_type: { type: String, required: true },
-  direct_url: { type: String, required: true },
-  direct_article_url: { type: String, required: true },
-  created_at: { type: Date, required: true }
-}, { _id: false });
-
-// Schema for footnote references
-const FootNotesRefSchema = new Schema({
-  id: { type: Number, required: true },
-  footnote_id: { type: Number, required: true },
-  reference_number: { type: String, required: true },
-  text_position: { type: String, required: true },
-  referenced_text: { type: String, required: true },
-  bracket_pattern: { type: String, required: true },
-  created_at: { type: Date, required: true }
-}, { _id: false });
-
 // Main Article schema
 export const ArticleSchema = new Schema<IArticle>({
   id: { type: Number, required: true, unique: true },
@@ -70,8 +43,6 @@ export const ArticleSchema = new Schema<IArticle>({
   anchor_id: { type: String, required: true },
   main_text: { type: String, required: true },
   created_at: { type: Date, required: true },
-  // footnotes: { type: [FootNotesSchema], default: [] },
-  // footnote_references: { type: [FootNotesRefSchema], default: [] },
   decisions: { type: [DecisionForArticleSchema], default: [] }
 }, {
   timestamps: true,

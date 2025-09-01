@@ -30,29 +30,6 @@ export interface IDecisionForArticle {
   decision_article_created_at: Date;
   decision_details: IDecisionForArticleDetail;
 }
-export interface IFootNotes {
-  id: number;
-  footnote_number: string;
-  footnote_content: string;
-  law_type: string;
-  date_reference: string;
-  sequence_number: string;
-  full_reference: string;
-  effective_date: string;
-  modification_type: string;
-  direct_url: string;
-  direct_article_url: string;
-  created_at: Date;
-}
-export interface IFootNotesRef {
-  id: number;
-  footnote_id: number;
-  reference_number: string;
-  text_position: string;
-  referenced_text: string;
-  bracket_pattern: string;
-  created_at: Date;
-}
 
 export interface IArticle extends Document {
   id: number;
