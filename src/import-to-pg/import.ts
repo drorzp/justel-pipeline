@@ -195,6 +195,7 @@ class ValidationResults {
     };
   }
 }
+
 class DatabaseOperations {
   // Helper function to convert date format from DD-MM-YYYY to YYYY-MM-DD
   private static convertDateFormat(dateString: string | null | undefined): string | null {
@@ -592,6 +593,7 @@ class DatabaseOperations {
     ]);
   }
 }
+
 export class DocumentProcessor {
   private results: ValidationResults;
   private validator: ValidateFunction<LegalDocument>;

@@ -46,9 +46,8 @@ export async function titles_not_changed(pool:Pool): Promise<void> {
       FROM public.document_title dt 
       WHERE d.document_number = dt.document_number 
         AND d.title = dt.old_title 
-        AND dt.new_title IS NOT NULL 
-        and trim(dt.new_title) !=trim(d.title)
-        AND dt.new_title != '';
+        AND dt.new_title IS NOT NULL AND dt.new_title != ''
+        AND trim(dt.new_title) !=trim(d.title)
     `;
 
     const result = await client.query(sql);
