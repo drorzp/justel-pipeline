@@ -78,7 +78,7 @@ const pool = new Pool(dbConfig);
     console.log('Move to mongo document collection completed');
     await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
     console.log('moveArticlesToMongo started')
-    await updateArticleVector(pool);
+    // await updateArticleVector(pool);
     console.log('moveArticlesToMongo completed')
     // console.log('updateArticleVector started')
     // await updateArticleVector(pool);
