@@ -38,7 +38,9 @@ export interface IArticle extends Document {
   document_number: string;
   anchor_id: string;
   main_text: string;
-
+  gen_1: string;
+  gen_2: string;
+  gen_3: string;
   created_at: Date;
   // footnotes:IFootNotes[];
   // footnote_references:IFootNotesRef[];

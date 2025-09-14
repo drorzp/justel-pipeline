@@ -14,7 +14,11 @@ const DecisionForArticleDetailSchema = new Schema({
   decision_type_ecli_code: { type: String, required: true },
   decision_date: { type: String, required: true },
   decision_year: { type: String, required: true },
-  versions: { type: String, default: null },
+  versions: {
+    type: [String],
+    default: [],
+    required: false
+},
   url_pdf: { type: String, default: null },
   ecli: { type: String, default: null }
 }, { _id: false });
@@ -42,6 +46,9 @@ export const ArticleSchema = new Schema<IArticle>({
   document_number: { type: String, required: true },
   anchor_id: { type: String, required: true },
   main_text: { type: String, required: true },
+  gen_1:{type: String},
+  gen_2:{type: String},
+  gen_3:{type: String}, 
   created_at: { type: Date, required: true },
   decisions: { type: [DecisionForArticleSchema], default: [] }
 }, {
