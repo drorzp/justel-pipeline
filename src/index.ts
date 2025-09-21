@@ -11,6 +11,7 @@ import { updateArticleVector } from './add-to-vector/loop_over_articles';
 import { sync_document_title, titles_not_changed } from './import-to-pg/sync_document_title';
 import { processAllDocumentTitles, LLMConfig } from './import-to-pg/llm_title';
 import { runPythonDataPipeline } from './utils/pythonRunner';
+import { updateGet } from './import-to-pg/upgete_gen_on_articles';
 import { clearS3ZipFiles } from './utils/s3';
 import './logger';
 export const llmConfig: LLMConfig = {
@@ -36,6 +37,7 @@ const dbConfig: PoolConfig = {
 async function main() {
 
 const pool = new Pool(dbConfig);
+
   try {
     // console.log('Clear S3 folders before running pipeline');
     // await clearS3ZipFiles(['incoming3', 'incoming_no_articles3']);
@@ -74,13 +76,16 @@ const pool = new Pool(dbConfig);
     // await updateArticleContentsFromSaverV2Diff(pool) 
     // console.log('llmall html that was changed/new completed')
     // console.log('Move to mongo document collection started');
+    // console.log('update gen completed');
+    // await updateGet(pool);
+    //  console.log('update gen started');
     // await moveLawsToMongo(pool);
     // console.log('Move to mongo document collection completed');
     // console.log('moveArticlesToMongo started')
-    await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
-    console.log('moveArticlesToMongo completed')
-    // console.log('updateArticleVector started')
-    // await updateArticleVector(pool);
+    // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+    // console.log('moveArticlesToMongo completed')
+    console.log('updateArticleVector started')
+    await updateArticleVector(pool);
     // console.log('updateArticleVector completed');
     // console.log('process completed');
   } catch (err:unknown) {

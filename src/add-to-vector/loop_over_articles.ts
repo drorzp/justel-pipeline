@@ -15,24 +15,37 @@ export async function updateArticleVector(pool: Pool): Promise<void> {
   const MAX_CHARS = 30000; // Roughly ~6000 tokens to stay under 8192 limit
   
   try {
+    // const selectSql = `
+    //   SELECT
+    //     t1.id,
+    //     t1.document_number,
+    //     t1.article_number,
+    //     t1.main_text_raw AS main_text_raw_v1,
+    //     t1.main_text AS main_text_v1,
+    //     t1.main_text_hash AS main_text_hash_v1,
+    //     t2.main_text_raw AS main_text_raw_v2,
+    //     t2.main_text AS main_text_v2,
+    //     t2.main_text_hash AS main_text_hash_v2
+    //   FROM article_contents t1
+    //   // LEFT JOIN article_contents_saver t2
+    //   //   ON t1.document_number = t2.document_number
+    //   //   AND t1.article_number = t2.article_number
+    //   // WHERE t2.document_number IS NULL  -- t2 doesn't exist
+    //   //   OR t1.main_text_hash <> t2.main_text_hash  -- or hashes don't match
+    // `;
+
+
     const selectSql = `
-      SELECT
-        t1.id,
-        t1.document_number,
-        t1.article_number,
-        t1.main_text_raw AS main_text_raw_v1,
-        t1.main_text AS main_text_v1,
-        t1.main_text_hash AS main_text_hash_v1,
-        t2.main_text_raw AS main_text_raw_v2,
-        t2.main_text AS main_text_v2,
-        t2.main_text_hash AS main_text_hash_v2
-      FROM article_contents t1
-      LEFT JOIN article_contents_saver t2
-        ON t1.document_number = t2.document_number
-        AND t1.article_number = t2.article_number
-      WHERE t2.document_number IS NULL  -- t2 doesn't exist
-        OR t1.main_text_hash <> t2.main_text_hash  -- or hashes don't match
-    `;
+  SELECT 
+      t1.id,
+      t1.document_number,
+      t1.article_number,
+      t1.main_text_raw AS main_text_raw_v1,
+      t1.main_text AS main_text_v1,
+      t1.main_text_hash AS main_text_hash_v1,
+      t2.effective_date
+  FROM article_contents t1
+  LEFT JOIN documents t2 ON t1.document_number = t2.document_number`
 
     const { rows } = await client.query(selectSql);
     console.log(`[INFO] Rows with differing hashes: ${rows.length}`);
@@ -41,6 +54,7 @@ export async function updateArticleVector(pool: Pool): Promise<void> {
     let updated = 0;
     for (const row of rows) {
       const document_number: string = row.document_number;
+      const effective_date: Date = row.effective_date;
       const article_number: string = row.article_number;
       const main_text_raw_v1: string | null = row.main_text_raw_v1;
       const id: number | null = row.id ?? null;
@@ -63,7 +77,7 @@ export async function updateArticleVector(pool: Pool): Promise<void> {
         console.log(`[INFO] Truncated ${document_number}-${article_number}: ${main_text_raw_v1.length} -> ${MAX_CHARS} chars`);
       }
 
-      await smartUpsert(id, truncatedText, document_number, article_number);
+      await smartUpsert(id, truncatedText, document_number, article_number,effective_date);
       updated++;
     }
 
