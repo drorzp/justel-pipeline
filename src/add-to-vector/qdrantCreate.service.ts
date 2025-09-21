@@ -75,7 +75,7 @@ export async function smartUpsert(
   newText: string,
   document_number: string,
   article_number: string,
-  effective_date: Date
+  effective_date: Date | null
 ) {
   try {
     if (id === null || id === undefined || Number.isNaN(id)) {
@@ -138,7 +138,7 @@ export async function smartUpsert(
       vector: vectors[i],
       payload: {
         article_id: id,
-        effective_date: effective_date.toString(),
+        effective_date: effective_date ? effective_date.toString() : null,
         document_number,
         article_number,
         chunk_index: i,
