@@ -30,3 +30,4 @@ logs/
 src/html-transformer/output
 src/html-transformer/test-results/
 src/justel-data-processer/input
+src/import_article_html/import_article_html
