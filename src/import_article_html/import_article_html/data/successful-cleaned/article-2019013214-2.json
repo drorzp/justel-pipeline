@@ -1,7 +1,0 @@
-{
-  "documentNumber": "2019013214",
-  "articleNumber": "2",
-  "transformedHtml": "```html\n<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Ne peuvent prétendre à aucune reconnaissance ou subvention :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les personnes morales qui ont fait l'objet d'une condamnation pénale, prononcée par décision de justice coulée en force de chose jugée, en application des lois, décrets ou ordonnances tendant à lutter contre le racisme et les discriminations, pour :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">incitation à la haine, à la discrimination ou à la violence à l'égard d'une personne, d'un groupe, d'une communauté ou de leurs membres;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">diffusion d'idées fondées sur la supériorité ou la haine raciale;</li>\n            <li class=\"sub-provision\" data-marker",
-  "processedAt": "2025-09-20T13:22:33.334Z",
-  "tokenUsage": {}
-}
