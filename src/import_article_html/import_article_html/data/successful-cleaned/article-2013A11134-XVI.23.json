@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A11134",
+  "articleNumber": "XVI.23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-XVI-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article XVI.23</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-04/41\" data-law-type=\"L\" data-article-number=\"3\">\n      <section class=\"paragraph\" id=\"para-1er\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les membres du personnel qui sont associés aux procédures de règlement extrajudiciaire des litiges de consommation en application de l'article XVI.6,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">possèdent des connaissances suffisantes dans le domaine du règlement des litiges de consommation.</span>\n            </li>\n          </ol>\n          <p>Le Roi peut préciser les règles pour l'application de l'alinéa précédent.</p>\n        </div>\n      </section>\n    </span>\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2014-04-04/41\" data-law-type=\"L\" data-article-number=\"3\">\n      <section class=\"paragraph\" id=\"para-2\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les membres du personnel visés au paragraphe 1er communiquent sans délai au Comité de direction visé à l'article XVI.8, § 1er, toute circonstance susceptible d'affecter ou d'être considérée comme affectant leur indépendance et leur impartialité ou de donner lieu à un conflit d'intérêts avec l'une ou l'autre partie à une procédure de règlement extrajudiciaire d'un litige de consommation à laquelle ils sont associés.</p>\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.111Z",
+  "tokenUsage": {
+    "prompt": 2111,
+    "completion": 511,
+    "total": 2622
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1971072007",
+  "articleNumber": "3bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1990-12-29/30\" data-law-type=\"L\" data-article-number=\"91\">\n          &lt;L 1990-12-29/30, art. 91, 005; En vigueur : 01-01-1991&gt;\n        </span>\n        Lorsque les conditions fixées à (l'article 1er et à l'article 2, alinéa 1er, 1°, alinéas 2 et 4) sont remplies, mais qu'il n'est pas encore établi qu'il est satisfait aux conditions visées à l'article 2, alinéa 1er, 2° et à l'article 3, l'Office national d'allocations familiales pour travailleurs salariés paie les prestations, par voie d'avances aux montants fixés par le Roi, à partir du mois de la demande.\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1996-04-29/32\" data-law-type=\"L\" data-article-number=\"61\">\n          &lt;L 1996-04-29/32, art. 61, 006; En vigueur : 30-04-1996&gt;\n        </span>\n        L'Office national est de plein droit subrogé au droit aux prestations familiales dues pour le même enfant et pour la même période à un autre titre visé à l'article 2, alinéa 1er, 2°. Cette subrogation s'exerce dans les limites du montant versé. L'organisme débiteur des prestations familiales qui ne les a pas encore payées, les retient au profit de l'Office national lorsque celui-ci en fait la demande.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.621Z",
+  "tokenUsage": {
+    "prompt": 2030,
+    "completion": 465,
+    "total": 2495
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044842",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La présente section est limitée à l'entreprise répondant à la définition de la très petite, la petite, la moyenne entreprise, ainsi que l'association sans but lucratif, visée à l'article 1er, § 1er, alinéa 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et 3°, du décret du 19 octobre 2022.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.365Z",
+  "tokenUsage": {
+    "prompt": 1541,
+    "completion": 196,
+    "total": 1737
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003021248",
+  "articleNumber": "289",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-289\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 289</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 288, 2°, est applicable à partir de l'exercice d'imposition 2004.</p>\n            <p>L'article 288, 1° et 3°, est applicable à partir de l'exercice d'imposition 2005.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.761Z",
+  "tokenUsage": {
+    "prompt": 1459,
+    "completion": 134,
+    "total": 1593
+  }
+}

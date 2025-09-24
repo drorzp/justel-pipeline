@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003194",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-07-20/40\" data-law-type=\"L\" data-article-number=\"301\">\n        <p>Sans préjudice des missions de l'organe légal d'administration, les établissements de crédit constituent, au sein de cet organe, les comités suivants :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">un comité d'audit ;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un comité des risques ;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">un comité de rémunération ;</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">un comité de nomination,</span></li>\n        </ol>\n        <p>exclusivement composés de membres de l'organe légal d'administration qui n'en sont pas membres exécutifs, un membre ne pouvant pas siéger dans plus de trois des comités précités.</p>\n        <p>Les membres du comité d'audit sont en majorité indépendants au sens de l'article 3, 83° et son président est désigné par ses membres.</p>\n        <p>Les comités des risques, de rémunération et de nomination comprennent au moins un membre indépendant au sens de l'article 3, 83°.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.032Z",
+  "tokenUsage": {
+    "prompt": 1943,
+    "completion": 424,
+    "total": 2367
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011274",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 68</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5 de la même loi, modifié par la loi du 26 octobre 2015, est complété par les 52°, 53° et 54° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"52°\">\n          <span class=\"provision-text\">\"l'EIOPA\" : l'Autorité européenne des assurances et des pensions professionnelles, visée dans le Règlement (UE) n° 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles), modifiant la Décision n° 716/2009/CE et abrogeant la Décision 2009/79/CE de la Commission;</span>\n        </li>\n        <li class=\"provision\" data-number=\"53°\">\n          <span class=\"provision-text\">\"le Règlement (UE) n° 1286/2014\" : le Règlement (UE) n° 1286/2014 du Parlement européen et du Conseil du 26 novembre 2014 sur les documents d'informations clés relatifs aux produits d'investissement packagés de détail et fondés sur l'assurance;</span>\n        </li>\n        <li class=\"provision\" data-number=\"54°\">\n          <span class=\"provision-text\">\"PRIIP\" : un produit tel que défini à l'article 4.3 du Règlement (UE) n° 1286/2014.\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.239Z",
+  "tokenUsage": {
+    "prompt": 1967,
+    "completion": 434,
+    "total": 2401
+  }
+}

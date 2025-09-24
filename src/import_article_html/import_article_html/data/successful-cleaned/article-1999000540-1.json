@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999000540",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le cadre de leur activité de recherche sur le comportement des électeurs, l'Université Catholique de Louvain et la &quot;Katholieke Universiteit Leuven&quot; sont autorisées à recevoir communication des informations visées à l'article 3, alinéa 1er, 1°, 2°, 3°, 5° et 6°, et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques.</p>\n      <p class=\"intro-text\">La communication des modifications successives apportées aux informations visées à l'alinéa 1er est limitée à une période de dix années précédant la communication de ces informations.</p>\n      <p class=\"intro-text\">L'utilisation des informations obtenues en communication du Registre national et visées aux alinéas 1er et 2 est autorisée aux seules fins énumérées ci-après:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pour la vérification des adresses d'environ 4 250 électeurs domiciliés dans la Région wallonne, dans la Région de Bruxelles-Capitale ou dans la Région flamande, dans la mesure où ces électeurs ont coopéré à une enquête portant sur leur comportement lors des élections de 1991 et de 1995 et seront invités à participer à l'activité de recherche faisant l'objet du présent arrêté</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour la mise à disposition d'un nouvel échantillon tiré par le Registre national sur une base aléatoire de 10 000 électeurs domiciliés dans la Région wallonne, dans la Région de Bruxelles-Capitale ou dans la Région flamande.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.124Z",
+  "tokenUsage": {
+    "prompt": 2100,
+    "completion": 490,
+    "total": 2590
+  }
+}

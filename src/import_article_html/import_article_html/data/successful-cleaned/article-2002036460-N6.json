@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002036460",
+  "articleNumber": "N6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article N6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Annexe 6. - Certificat du premier degré de l'enseignement secondaire. \n        (Formulaire non repris pour motifs techniques. Voir M.B. 04-12-2002, p. 54545).\n      </p>\n      <p class=\"intro-text\">Modifié par:</p>\n      <span class=\"legal-citation legal-citation-standard\" \n            data-dossier-number=\"2007-09-07/50\" \n            data-law-type=\"AGF\" \n            data-article-number=\"30\" \n            data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2007090750\">\n        &lt;AGF 2007-09-07/50, art. 30, 6° et 7° , 006; En vigueur : 30-06-2007&gt;\n      </span>\n      <br>\n      <span class=\"legal-citation legal-citation-standard\" \n            data-dossier-number=\"2018-06-01/11\" \n            data-law-type=\"AGF\" \n            data-article-number=\"32\" \n            data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018060111\">\n        &lt;AGF 2018-06-01/11, art. 32, 020; En vigueur : 01-09-2020&gt;\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.712Z",
+  "tokenUsage": {
+    "prompt": 2275,
+    "completion": 409,
+    "total": 2684
+  }
+}

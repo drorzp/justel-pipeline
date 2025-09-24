@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035971",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 4, § 1er, du même arrêté sont ajoutés un point 9° et un point 10°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">l'intervention financière suite à des dommages causés par une calamité publique, visée à l'article 6, § 1er, II,</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"5°\">\n                            <span class=\"provision-text\">de la loi spéciale ;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">la procédure judiciaire pour l'expropriation pour cause d'utilité publique, visée à l'article 6quater de la loi spéciale \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.342Z",
+  "tokenUsage": {
+    "prompt": 1690,
+    "completion": 298,
+    "total": 1988
+  }
+}

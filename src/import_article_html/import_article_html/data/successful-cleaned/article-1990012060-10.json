@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990012060",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Seuls les membres visés à l'article 3, 3° et 4° ont voix (délibérative). <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1990-10-16/30\" data-law-type=\"AM\" data-article-number=\"6\">&lt;AM 1990-10-16/30, art. 6, 002;<strong>En vigueur :</strong>10-05-1990&gt;</span></p>\n            <p>Les membres visés à l'article 3, 1° et 5° ont voix (consultative). <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1990-10-16/30\" data-law-type=\"AM\" data-article-number=\"6\">&lt;AM 1990-10-16/30, art. 6, 002;<strong>En vigueur :</strong>10-05-1990&gt;</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.724Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 290,
+    "total": 1969
+  }
+}

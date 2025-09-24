@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003022508",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 6 du même arrêté royal, les mots : \" aux catégories 3 et 4, visées à l'article 6, § 4, alinéa 1er, 3° et 4° \" sont remplacés par les mots \" aux catégories 3, 4 et 5, visées à l'article 6, § 3, alinéa 1er, 3°, 4° et 5° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.818Z",
+  "tokenUsage": {
+    "prompt": 1654,
+    "completion": 182,
+    "total": 1836
+  }
+}

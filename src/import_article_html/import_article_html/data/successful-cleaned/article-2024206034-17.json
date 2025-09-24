@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024206034",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En exécution de l'article 8, § 1er, alinéa 4, du décret, les motifs énumérés ci-après peuvent être pris en compte pour une dispense totale ou partielle des conditions mentionnées à l'article 8, § 1er, alinéas 1er et 2, du décret :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">un arrêt des études décidé par la haute école autonome pour cause d'inaptitude professionnelle;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">une résiliation d'un contrat d'apprentissage conformément à l'article 23, § 1er, 8° et 9°, et à l'article 25 de l'arrêté du Gouvernement du 4 juin 2009 portant établissement des conditions de formation pour les apprentis des Classes moyennes et pour les entreprises de formation;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">des raisons médicales;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">une rupture du contrat d'apprentissage, un décrochage scolaire ou un arrêt des études pour cause de force majeure.</span></li>\n      </ol>\n      <p class=\"closing-text\">Les motifs mentionnés à l'alinéa 1er conduisent à une dispense des conditions mentionnées à l'article 8, § 1er, alinéas 1er et 2, du décret lorsqu'ils entraînent une impossibilité de satisfaire auxdites conditions. La notion d'impossibilité est soumise au principe de proportionnalité. Le Ministre peut solliciter l'avis de la Commission mentionnée à l'article 13 du décret aux fins de l'évaluation des demandes.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.761Z",
+  "tokenUsage": {
+    "prompt": 2074,
+    "completion": 497,
+    "total": 2571
+  }
+}

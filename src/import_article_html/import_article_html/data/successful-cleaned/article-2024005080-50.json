@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005080",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 50</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 2 de la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement, de la santé et des travailleurs, modifié en dernier lieu par la loi du 26 avril 2023, est complété par les:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"25°\">\n                    <span class=\"provision-text\">Règlement Batterie: règlement (UE) 2023/1542 du Parlement européen et du Conseil du 12 juillet 2023 relatif aux batteries et aux déchets batteries, modifiant la directive 2008/98/CE et le règlement (UE) 2019/1020, et abrogeant la directive 2006/66/CE.</span>\n                </li>\n                <li class=\"provision\" data-number=\"26°\">\n                    <span class=\"provision-text\">Règlement Déforestation: règlement (UE) 2023/1115 du Parlement européen et du Conseil du 31 mai 2023 relatif à la mise à disposition sur le marché de l'Union et à l'exportation à partir de l'Union de certains produits de base et produits associés à la déforestation et à la dégradation des forêts, et abrogeant le règlement (UE) n° 995/2010.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.429Z",
+  "tokenUsage": {
+    "prompt": 1986,
+    "completion": 391,
+    "total": 2377
+  }
+}

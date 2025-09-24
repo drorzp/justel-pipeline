@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1973122706",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 54</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le membre du personnel ne peut être promu au grade supérieur pendant qu'il est soit en non-activité, soit suspendu par mesure d'ordre, soit séparé de la gendarmerie.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Peut être promu avec effet rétroactif :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le membre du personnel repris à l'activité après une non-activité pour motif de santé et qui n'a subi aucune perte d'ancienneté en raison de celle-ci</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le membre du personnel de carrière qui a été suspendu par mesure d'ordre</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le membre du personnel qui rejoint la gendarmerie après en avoir été séparé</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le membre du personnel dont l'examen de la candidature a été retardé pour des raisons de santé ou pour des raisons dues à l'administration.</span></li>\n        </ol>\n        <p class=\"intro-text\">Il est tenu compte, dans les cas cités aux 2° et 3° ci-dessus, des pertes d'ancienneté éventuellement subies.</p>\n        <p class=\"closing-text\">Des dispositions spéciales pour la régularisation de l'avancement des membres du personnel de la gendarmerie visés au présent paragraphe peuvent être prises par le Roi.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.606Z",
+  "tokenUsage": {
+    "prompt": 2097,
+    "completion": 518,
+    "total": 2615
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006023200",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 25 du même arrêté, il est inséré un § 7, rédigé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-7\">\n      <h3 class=\"paragraph-marker\">§ 7.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par hôpital, un montant de 2.200 EUR est attribué, à partir du 1er juillet 2006, pour couvrir les frais du software permettant la collecte de données sur la situation financière et tous renseignements statistiques. Ce montant est compris dans les montants visés à l'article 29, § 3, 3°, § 4, 3° et § 5, 3°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.668Z",
+  "tokenUsage": {
+    "prompt": 1619,
+    "completion": 229,
+    "total": 1848
+  }
+}

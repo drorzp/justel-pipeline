@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010021133",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 171 du Code des impôts sur les revenus 1992, modifié en dernier lieu par la loi du 22 décembre 2009, le 6°, quatrième tiret, est remplacé par ce qui suit :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"sub-provision\" data-marker=\"-\">\n          <span class=\"provision-text\">\" les rémunérations visées à l'article 31, alinéa 2, 1° et 4°, du mois de décembre qui sont, pour la première fois, payées ou attribuées par une autorité publique au cours de ce mois de décembre au lieu du mois de janvier de l'année suivante suite à une décision de cette autorité publique de payer ou d'attribuer les rémunérations du mois de décembre dorénavant au cours de ce mois de décembre au lieu d'au cours du mois de janvier de l'année suivante. \"</span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.244Z",
+  "tokenUsage": {
+    "prompt": 1726,
+    "completion": 288,
+    "total": 2014
+  }
+}

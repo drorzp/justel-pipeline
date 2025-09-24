@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000007153",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le militaire qui satisfait aux conditions fixées à l'article 2, alinéa 1er, 2° et 3°, mais qui n'introduit pas de demande d'obtention d'une mise en disponibilité, ne peut bénéficier des dérogations particulières fixées à l'article 19 de la loi du 14 janvier 1975 portant le règlement de discipline des forces armées.</p>\n                <p>Toute autorisation antérieurement accordée d'exercer une activité professionnelle, dont bénéficiait le militaire visé à l'alinéa 1er, est automatiquement retirée au 1er janvier 1998.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'exercice d'une activité professionnelle par le militaire visé au § 1er, alinéa 1er, constitue un fait grave incompatible avec son état de militaire visé à l'article 23 de la loi du 1er mars 1958 relative au statut des officiers de carrière des forces terrestre, aérienne et navale et du service médical, ainsi que des officiers de réserve de toutes les forces armées et du service médical, à l'article 25 de la loi du 27 décembre 1961 portant statut des sous-officiers du cadre actif des forces terrestre, aérienne et navale et du service médical, et à l'article 18bis de la loi du 12 juillet 1973 portant statut des volontaires du cadre actif des forces terrestre, aérienne et navale et du service médical.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.104Z",
+  "tokenUsage": {
+    "prompt": 2054,
+    "completion": 470,
+    "total": 2524
+  }
+}

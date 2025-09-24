@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025003690",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans la partie I, titre 1, chapitre III, section 2, de la liste jointe comme annexe à l'arrêté royal du 23 novembre 2021 fixant les procédures, délais et conditions dans lesquelles l'assurance obligatoire soins de santé et indemnités intervient dans le coût des prestations pharmaceutiques visées à l'article 34, alinéa 1er, 5° a), 19°, 20° et 20bis de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, le produit suivant est supprimé:</p>\n      <div class=\"missing-table-placeholder\">\n        <table border=\"1\" class=\"legal-table\">\n          <tr>\n            <td valign=\"top\">CNK</td>\n            <td valign=\"top\">Indic</td>\n            <td valign=\"top\">Dénomination</td>\n            <td valign=\"top\">Benaming</td>\n            <td valign=\"top\">Labo</td>\n            <td valign=\"top\">AfFabrP PexUs</td>\n            <td valign=\"top\">AprPrijs PrixPhn</td>\n            <td valign=\"top\">AprPrijs btw incl. PrixPhn T.V.A. incl.</td>\n          </tr>\n          <tr>\n            <td valign=\"top\">3090768<br/>7111669*</td>\n            <td valign=\"top\">Z</td>\n            <td valign=\"top\">MYSTAR EXTRA Système d'autosurveillance de la glycémie</td>\n            <td valign=\"top\">MYSTAR EXTRA Bloedglucosemeetsysteem</td>\n            <td valign=\"top\">Sanofi Belgium</td>\n            <td valign=\"top\">18,50</td>\n            <td valign=\"top\">20,91</td>\n            <td valign=\"top\">22,16</td>\n          </tr>\n        </table>\n      </div>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.718Z",
+  "tokenUsage": {
+    "prompt": 1842,
+    "completion": 494,
+    "total": 2336
+  }
+}

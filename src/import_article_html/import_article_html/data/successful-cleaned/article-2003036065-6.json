@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003036065",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les projets ont une durée de 2 ans au maximum.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La subvention du projet est plafonnée à 75 % des frais globaux.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>La subvention pour un projet est plafonnée à 20 % des subventions prévues pour les modules énumérés à l'art. 5, 1°-2° et à 40 % des subventions prévues pour les modules cités à l'art. 5, 3°-4°.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le champ d'application du projet concerne le territoire de la Flandre.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-5\">\n      <h3 class=\"paragraph-marker\">§ 5.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          Toutes les activités organisées dans le cadre des projets requièrent les permis nécessaires et les autorisations légalement requises des autorités compétentes. Les collaborateurs (volontaires) du projet devront être couverts par une assurance responsabilité civile et une assurance-accidents.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.723Z",
+  "tokenUsage": {
+    "prompt": 1874,
+    "completion": 486,
+    "total": 2360
+  }
+}

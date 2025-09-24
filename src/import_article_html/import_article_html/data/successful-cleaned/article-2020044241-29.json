@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044241",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 29</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                En application de l'article 28 de l'arrêté du Gouvernement wallon de pouvoirs spéciaux n° 36 du 7 mai 2020 relatif aux diverses dispositions prises en matière de financement des opérateurs du secteur du handicap, les adaptations envisagées pour la détermination de l'occupation moyenne \n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-01-19/22\" data-law-type=\"AM\" data-article-number=\"8\">\n                    des années 2020, 2021 et 2022\n                </span> \n                visées à l'article 26, \n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">4°, sont applicables aux prises en charge des personnes handicapées déclarées prioritaires</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.080Z",
+  "tokenUsage": {
+    "prompt": 1792,
+    "completion": 297,
+    "total": 2089
+  }
+}

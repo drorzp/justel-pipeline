@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030897",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 40</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le cas où des centres de diagnostic externes ne sont pas en mesure de fournir des diagnostics classificatoires en temps utile en raison des mesures de sécurité mises en place dans le cadre de la lutte contre la pandémie de COVID-19, par dérogation à l'article 294, § 2, 1°, e), et 2°, f), du même code, la rédaction d'un rapport temporaire est possible pendant l'année scolaire 2021-2022 et en vue de la rentrée 2022-2023, si le parcours diagnostique orienté vers l'action nécessaire à la rédaction d'un rapport n'a pas pu être finalisé à temps avec le diagnostic requis.</p>\n      <p class=\"intro-text\">Afin d'établir un rapport temporaire, il n'est pas nécessaire de remplir les conditions relatives au diagnostic, visées à l'article 259, § 1er, 2°, 3°, 4°, 6°, 7° et 8°, du même code.</p>\n      <p class=\"intro-text\">Le rapport temporaire peut être établi pour une entrée dans l'enseignement spécial ou un démarrage d'IAC dans l'enseignement ordinaire ou si le type ou la forme d'enseignement d'un rapport déjà existant est modifié.</p>\n      <p class=\"intro-text\">Le rapport temporaire est converti en rapport final dès que le diagnostic requis est disponible. Si le diagnostic requis n'est pas fourni au 31 août 2023, le rapport temporaire est annulé de plein droit à la rentrée scolaire 2023-2024.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.842Z",
+  "tokenUsage": {
+    "prompt": 2011,
+    "completion": 415,
+    "total": 2426
+  }
+}

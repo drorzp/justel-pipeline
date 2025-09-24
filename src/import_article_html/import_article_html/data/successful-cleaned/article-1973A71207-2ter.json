@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1973A71207",
+  "articleNumber": "2ter",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2ter\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2ter</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2001-12-06/56\" data-law-type=\"DRW\" data-article-number=\"2\">\n        Les interdictions visées à l'article 2bis, § 2, 1°, 2° et 3°, s'appliquent aux espèces figurant à l'annexe III, à l'exception de la détention temporaire d'amphibiens ou de leurs oeufs à des fins pédagogiques ou scientifiques. La détention, l'achat, l'échange, la vente ou la mise en vente des espèces de l'annexe III sont également interdits, ainsi que la perturbation ou la destruction des sites de reproduction des mammifères.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.603Z",
+  "tokenUsage": {
+    "prompt": 1702,
+    "completion": 242,
+    "total": 1944
+  }
+}

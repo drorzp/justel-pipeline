@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045121",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le présent arrêté entre en vigueur le 1er juillet 2023.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 11 cesse d'être en vigueur pour les demandes dont les factures sont établies après le 31 décembre 2025.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les articles 5, 3°, 10, 2° à 4°, 13, 14, 15, 16, 2°, 17, 3°, 18, 2° et 3°, 19, 20, 21, 22, 23, 2°, 24, 2° et 4°, 25, 2°, 26, 2°, 27, 2° et 4°, 28, 3°, 29, 2°, 30, 2°, et 31 cessent d'être en vigueur le 1er juillet 2026.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.375Z",
+  "tokenUsage": {
+    "prompt": 1859,
+    "completion": 393,
+    "total": 2252
+  }
+}

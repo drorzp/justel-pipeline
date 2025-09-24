@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995009015",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sont maintenus transitoirement en vigueur dans leur rédaction antérieure à la publication de la présente loi les articles 318, § 3, alinéa premier, 1°, 320,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et 348, § 1, alinéa premier, 3,</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">du Code civil pour les procédures relatives à la filiation, à l'adoption et à l'adoption plénière et qui se réfèrent à une demande en divorce introduite avant le 1er octobre 1994.</li>\n          </ol>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Promulguons la présente loi, ordonnons qu'elle soit revêtue du screau de l'Etat et publiée par le Moniteur belge. Donné à Bruxelles, le 27 décembre 1994. ALBERT Par le Roi : Le Ministre de la Justice, M. WATHELET Scellé du sceau de l'Etat : Le Ministre de la Justice, M. WATHELET</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.985Z",
+  "tokenUsage": {
+    "prompt": 1828,
+    "completion": 352,
+    "total": 2180
+  }
+}

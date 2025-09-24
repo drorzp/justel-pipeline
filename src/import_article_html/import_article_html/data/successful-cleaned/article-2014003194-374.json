@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003194",
+  "articleNumber": "374",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-374\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 374</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Par dérogation à l'article 236, § 1er, 1° et 4°, de la présente loi et à <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-05-02/25\" data-law-type=\"L\" data-article-number=\"61\">l'article XX.110 du Code de droit économique, nonobstant les articles XX.111 à XX.114 dudit Code</span>, si l'établissement de crédit dispose à titre onéreux, après l'adoption d'une mesure d'assainissement ou l'ouverture d'une procédure de faillite, d'un immeuble, d'un navire ou d'un aéronef soumis à immatriculation dans un registre public, d'instruments financiers ou de droits sur de tels instruments dont l'existence ou le transfert suppose une inscription dans un registre, un compte ou auprès d'un système de dépôt centralisé détenus ou situés dans un autre Etat membre, la nullité ou l'inopposabilité de cet acte est appréciée au regard de la loi de l'Etat membre sur le territoire duquel le bien immobilier est situé, ou sous l'autorité duquel ce registre, ce compte ou ce système de dépôt est tenu.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.032Z",
+  "tokenUsage": {
+    "prompt": 1953,
+    "completion": 381,
+    "total": 2334
+  }
+}

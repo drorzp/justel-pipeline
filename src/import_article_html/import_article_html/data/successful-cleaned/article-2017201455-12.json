@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017201455",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le demandeur d'emploi peut accéder à une banque de données électronique sécurisée sur le site internet du FOREm et y vérifier si, bien qu'il ne soit pas encore engagé par un employeur, il satisfait aux conditions pour bénéficier des allocations de travail visées à l'article 3, alinéa 1er, 1° à 3°, ou à l'article 4, alinéa 1er, 1° et 2°.</p>\n      <p>Les informations obtenues au terme de cette vérification n'exonèrent pas le demandeur d'emploi de satisfaire aux conditions des articles 3 et 4, la veille de la date de son entrée en service chez l'employeur.</p>\n      <p>Le Forem assure la mise à jour de la banque de données sur base des informations dont il dispose ainsi que des documents justificatifs qui lui sont transmis par le demandeur d'emploi, tel qu'arrêté par le Gouvernement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.633Z",
+  "tokenUsage": {
+    "prompt": 1728,
+    "completion": 279,
+    "total": 2007
+  }
+}

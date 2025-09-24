@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002036460",
+  "articleNumber": "N10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article N10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Annexe 10. - Certificat d'études de deuxième année du troisième degré de l'enseignement secondaire.</p>\n            <p>(Formulaire non repris pour motifs techniques. Voir M.B. 04-12-2002, p. 54549).</p>\n            <p>Modifié par :</p>\n            <p>\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-09-12/33\" data-law-type=\"AGF\" data-article-number=\"7\">\n                    &lt;AGF 2003-09-12/33, art. 7, 002 ;<strong>En vigueur :</strong>01-09-2002&gt;\n                </span>\n            </p>\n            <p>\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-09-07/50\" data-law-type=\"AGF\" data-article-number=\"30\">\n                    &lt;AGF <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007090750\">2007-09-07/50</a>, art. 30, 6° et 7° , 006; En vigueur : 30-06-2007&gt;\n                </span>\n            </p>\n            <p>\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2009-10-09/08\" data-law-type=\"AGF\" data-article-number=\"43\">\n                    &lt;AGF <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009100908\">2009-10-09/08</a>, art. 43, 009; En vigueur : 01-09-2009&gt;\n                </span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.713Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 500,
+    "total": 2476
+  }
+}

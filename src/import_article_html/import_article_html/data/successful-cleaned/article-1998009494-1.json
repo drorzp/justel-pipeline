@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998009494",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2, § 2; l'article 8, premier, deuxième et troisième alinéa; l'article 9, troisième alinéa, 2°, 3° et 4°; l'article 11, deuxième alinéa; l'article 12, troisième alinéa; et l'article 13, deuxième alinéa, de l'arrêté royal du 11 juillet 1994 sur le service général d'appui policier, les mots \" comité de direction \" sont remplacés par le mot \" directeur \".</p>\n      <p class=\"closing-text\">A l'article 7, dernier alinéa, du même arrêté, les mots \" d'un des directeurs du comité de direction \" sont remplacés par les mots \" du directeur \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.159Z",
+  "tokenUsage": {
+    "prompt": 1725,
+    "completion": 248,
+    "total": 1973
+  }
+}

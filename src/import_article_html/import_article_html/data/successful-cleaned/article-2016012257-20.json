@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016012257",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le chapitre IIbis du même arrêté royal, l'article 6quinquies est remplacé par ce qui suit :</p>\n      <p class=\"intro-text\">\"Art. 6quinquies. Les employeurs sont dispensés, durant une période déterminée par le Roi, d'établir et de tenir le compte individuel visé à l'article 4, paragraphe 1er, du présent arrêté pour autant que, durant la période d'occupation visée à l'article 6ter, ils fournissent aux fonctionnaires désignés par le Roi, à leur demande :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">une copie des documents relatifs à la rémunération prévus par la législation du pays où est établi l'employeur et qui sont équivalents au compte individuel visé à l'article 4, paragraphe 1er, et/ou;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">par dérogation à l'article 36 du Code pénal social, une traduction, soit dans une des langues nationales, soit en anglais, des documents visés au 1°.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Les employeurs visés à l'alinéa 1er peuvent être dispensés par le Roi, dans les conditions qu'Il détermine, en tenant compte de la durée limitée de leurs activités en Belgique ou de la nature particulière de ces activités, de l'obligation de fournir les documents visés à l'alinéa 1er, 1° et 2°.</p>\n      <p class=\"intro-text\">Les documents visés à l'alinéa 1er, 1° et 2° peuvent être fournis sur support papier ou en format électronique.\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.247Z",
+  "tokenUsage": {
+    "prompt": 2105,
+    "completion": 505,
+    "total": 2610
+  }
+}

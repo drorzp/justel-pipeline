@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014201868",
+  "articleNumber": "64",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-64\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 64</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 219 du même Code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans les 2° et 7°, les \" a. \" et \" b. \" sont remplacés par des \" a) \" et \" b) \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le 3° les mots \" du présent article \" sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.373Z",
+  "tokenUsage": {
+    "prompt": 1569,
+    "completion": 223,
+    "total": 1792
+  }
+}

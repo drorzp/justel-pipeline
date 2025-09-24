@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009003463",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 18, du même arrêté, modifié par les arrêtés royaux des 5 septembre 2001, 16 février 2004, 23 août 2004 et 31 janvier 2007, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le paragraphe 2 est complété par le c) rédigé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"c)\">\n              <span class=\"provision-text\">le montant total annuel n'excède pas 400.000 euros pour l'ensemble des livraisons intracommunautaires de biens visées à l'article 39bis, alinéa 1er, 1° et 4°, du Code et des livraisons subséquentes de biens visées à l'article 25quinquies, § 3, alinéa 3, du Code.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 3, alinéa 2, la phrase \"Ils ont toujours effet au 1er janvier de l'année civile qui suit la date de la demande. \" est remplacée par la phrase \"Ils entrent en vigueur le premier jour de la période de déclaration du régime sollicité par l'assujetti qui suit la date de l'acceptation de la demande par l'administration concernée.\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 6, a), l'alinéa 2 est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.029Z",
+  "tokenUsage": {
+    "prompt": 2052,
+    "completion": 496,
+    "total": 2548
+  }
+}

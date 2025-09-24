@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024202586",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article R.IV.4-3 du même Code, modifié par l'arrêté du Gouvernement wallon du 9 mai 2019, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, 10°, les mots \" des mares et \" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 5 est remplacé par ce qui suit : \" Par dérogation à l'alinéa 1er, 1° et 2°, les modifications du relief du sol réalisées soit lors de la création et de l'équipement de la zone d'activité économique, soit qui visent la réhabilitation du site à réaménager sont sensibles lorsqu'elles sont d'une hauteur supérieure à un mètre en zone d'activité économique ou dans le site à réaménager. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.708Z",
+  "tokenUsage": {
+    "prompt": 1774,
+    "completion": 324,
+    "total": 2098
+  }
+}

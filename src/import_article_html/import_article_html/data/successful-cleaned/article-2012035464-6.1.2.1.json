@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012035464",
+  "articleNumber": "6.1.2.1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6-1-2-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6.1.2.1</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        Le transporteur de déchets doit disposer d'un enregistrement pour le transport des déchets à moins qu'il ne s'agisse d'un transport de transit des déchets par la Région flamande. Le transporteur de déchets qui est considéré comme un transporteur enregistré conformément à l'article 6.1.4.1. est tenu de le démontrer à la demande de l'autorité compétente. L'OVAM met à disposition sur son site web un registre des transporteurs de déchet enregistrés en Région flamande.\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        Les communes et associations de communes qui collectent les déchets ménagers et les déchets industriels similaires aux déchets ménagers sont enregistrées de plein droit comme transporteur de déchets. \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-12-22/75\" data-law-type=\"AGF\" data-article-number=\"103\">\n          Les acteurs mentionnés dans l'article 6.1.1.2, § 1er, alinéa 1er, \n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">5°</span>\n            </li>\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">6°</span>\n            </li>\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">7°, sont exclus de l'obligation d'enregistrement en tant que transporteur van déchets.</span>\n            </li>\n          </ol>\n        </span>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.274Z",
+  "tokenUsage": {
+    "prompt": 2028,
+    "completion": 500,
+    "total": 2528
+  }
+}

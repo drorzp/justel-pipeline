@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A27132",
+  "articleNumber": "927",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-927\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 927</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-05-15/55\" data-law-type=\"ARW\" data-article-number=\"2\">\n                <p class=\"intro-text\">Est considérée comme une modification d'agrément :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la modification de la répartition horaire entre les phases visées à l'article 907, § 2, 1° à 3°;</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la modification de la répartition horaire entre les différentes finalités existantes de la phase de formation qualifiante.</span></li>\n                </ol>\n                <p>Les modifications visées aux 1° et 2° peuvent soit être initiées par le centre à tout moment, soit résulter du plan de réorientation visé à l'article 921.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.121Z",
+  "tokenUsage": {
+    "prompt": 1769,
+    "completion": 310,
+    "total": 2079
+  }
+}

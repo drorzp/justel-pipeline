@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001012802",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 35, § 1er, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, remplacé par la loi du 26 mars 1999 et modifié par les lois des 24 décembre 1999 et 12 août 2000 est complété comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">le Roi peut, par arrêté royal délibéré en Conseil des ministres, déterminer les conditions et les règles suivant lesquelles la réduction de cotisations visée aux</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"3°\">\n                            <span class=\"provision-text\">peut être augmentée pour les travailleurs faisant partie de la catégorie 1 ou de la catégorie 3 qui, le dernier jour du trimestre, sont âgés d'au moins 58 ans. Le montant de cette réduction complémentaire de cotisations peut varier en fonction de l'âge du travailleur, sans pouvoir excéder le montant trimestriel de la réduction de cotisations visée au</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.214Z",
+  "tokenUsage": {
+    "prompt": 1936,
+    "completion": 385,
+    "total": 2321
+  }
+}

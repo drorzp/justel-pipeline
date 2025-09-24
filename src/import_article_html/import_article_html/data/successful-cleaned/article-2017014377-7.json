@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014377",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 11 de la même loi, modifié en dernier lieu par la loi du 4 mai 2016, les modifications suivantes sont apportées:</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"sub-provision-text\">dans le paragraphe 3, alinéa 1er, les 2° et 3° sont remplacés par ce qui suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">ne pas avoir été condamné comme auteur ou complice à une amende correctionnelle de plus de cinq cents euros, à une peine correctionnelle principale sous surveillance électronique, à une peine correctionnelle principale d'emprisonnement ou à une peine criminelle du chef d'une des infractions visées à l'article 5, § 4, 2° ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">ne pas avoir été condamné à une des peines ni fait l'objet d'une des mesures visées à l'article 5, § 4, 1°, 1° /1, et 4° ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"sub-provision-text\">dans le paragraphe 3, alinéa 1er, le 4° est abrogé;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"c)\">\n          <span class=\"sub-provision-text\">dans le paragraphe 3, alinéa 1er, le 9° est complété par le g) rédigé comme suit:</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"g)\">\n              <span class=\"sub-provision-text\">la conservation d'une arme dans un patrimoine, sous les conditions précisées aux articles 11/1 et 11/2, alinéas 2 et 3.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.585Z",
+  "tokenUsage": {
+    "prompt": 2138,
+    "completion": 564,
+    "total": 2702
+  }
+}

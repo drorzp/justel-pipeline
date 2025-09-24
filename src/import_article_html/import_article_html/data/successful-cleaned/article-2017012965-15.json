@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017012965",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 10bis, § 1er, de l'arrêté royal du 12 décembre 2001 concernant les titres-services, inséré par l'arrêté royal du 14 décembre 2012, les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.604Z",
+  "tokenUsage": {
+    "prompt": 1541,
+    "completion": 210,
+    "total": 1751
+  }
+}

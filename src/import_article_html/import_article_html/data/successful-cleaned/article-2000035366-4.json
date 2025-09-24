@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035366",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour que l'usager puisse épandre les quantités d'engrais visées à l'article 3, celui-ci doit présenter une demande à la Mestbank à l'aide du formulaire de demande. Il remplit à cet effet un formulaire de demande mis à disposition par la Mestbank, complété par un relevé des parcelles faisant l'objet de la demande, sur base de l'indication sur du matériel cartographique dans le cadre de la déclaration, telle que visée à l'article 3, § 1, 5° du décret.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La demande visée au § 1 doit être introduite auprès de la Mestbank :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">avant le 1er janvier de l'année au titre de laquelle l'augmentation est appliquée, pour ce qui concerne les combinaisons de cultures visées à l'article 2, 1° et 2°;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">avant le 1er mai de l'année au titre de laquelle l'augmentation est appliquée, pour ce qui concerne les combinaisons de cultures visées à l'article 2, 3° et 4°.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.249Z",
+  "tokenUsage": {
+    "prompt": 2006,
+    "completion": 458,
+    "total": 2464
+  }
+}

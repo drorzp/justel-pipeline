@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002021488",
+  "articleNumber": "490",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-490\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 490</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 7 de la même loi, les mots &quot; des services visés à l'article 6, § 1er, 1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2° et</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">3°, pour autant que pour l'organisation de ces services, il soit fait &quot; sont remplacés par les mots &quot; le droit pour les services visés à l'article 6, § 1er, 1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2° et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">3°, de faire &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.639Z",
+  "tokenUsage": {
+    "prompt": 1653,
+    "completion": 289,
+    "total": 1942
+  }
+}

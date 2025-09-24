@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998060850",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er de l'arrêté du Gouvernement de la Communauté française du 8 septembre 1997 déterminant les domaines de formation dans l'enseignement de promotion sociale, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 36° et au 37°, le mot \" sociologie \" est ajouté après les mots \" gestion des ressources humaines et du personnel \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">après le 38°, sont ajoutés les mots suivants :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"39°\">\n              <span class=\"provision-text\">sciences appliquées - enseignement secondaire : chimie, physique, biologie, biochimie, biophysique, optique;</span>\n            </li>\n            <li class=\"provision\" data-number=\"40°\">\n              <span class=\"provision-text\">sciences appliquées - enseignement supérieur : chimie, physique, biologie, biochimie, biophysique, optique.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.070Z",
+  "tokenUsage": {
+    "prompt": 1790,
+    "completion": 374,
+    "total": 2164
+  }
+}

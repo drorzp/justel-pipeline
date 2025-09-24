@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012519",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2, § 1er du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 1° est remplacé par ce qui suit : \" 1° travailleurs de nationalité étrangère et travailleurs d'origine étrangère; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le 5° est complété par les mots : \" ou dans une fonction spécifique de l'entreprise; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">il est inséré un 7° rédigé comme suit : \" 7° personnes victimes ou susceptibles d'être victimes d'une ou de plusieurs discriminations telles que prévues à l'article 4, 2° et 3° de l'ordonnance du 4 septembre 2008 relative à la lutte contre la discrimination et à l'égalité de traitement en matière d'emploi. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le paragraphe 2 est complété par un alinéa rédigé comme suit : \" Le plan de diversité intègre la perspective de genre consistant en l'examen et la prise en compte systématique et transversale des différences entre les femmes et les hommes dans les domaines et actions visés à l'article 6, § 1er. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">dans le paragraphe 2, les mots \" l'Observatoire bruxellois du marché du travail et des qualifications visées à l'article 33 \" sont remplacés par les mots \" l'Observatoire bruxellois de l'emploi et de la formation visé à l'article 34 \";</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.309Z",
+  "tokenUsage": {
+    "prompt": 2107,
+    "completion": 541,
+    "total": 2648
+  }
+}

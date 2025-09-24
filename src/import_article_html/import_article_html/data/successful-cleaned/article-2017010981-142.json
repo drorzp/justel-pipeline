@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010981",
+  "articleNumber": "142",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-142\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 142</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La valeur nette d'inventaire des parts est déterminée sur la base de la valeur réelle des actifs et des passifs, sauf disposition contraire prévue par l'arrêté royal du 10 novembre 2006.</p>\n            <p class=\"intro-text\">Pour au moins 80 % des actifs, une valeur, telle que visée à l'alinéa 1er, qui n'était pas encore connue au moment de la clôture de la période de réception des demandes d'émission ou de rachat de parts, ou de changement de compartiment, est prise en compte.</p>\n            <p class=\"intro-text\">Pour les valeurs mobilières, les instruments du marché monétaire et les instruments financiers dérivés négociés sur un marché visé à l'article 35, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n            </ol>\n            <p class=\"closing-text\">3°, la valeur visée à l'alinéa 1er est égale au cours de clôture de l'instrument concerné, sauf disposition contraire prévue par l'arrêté royal du 10 novembre 2006 précité.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.747Z",
+  "tokenUsage": {
+    "prompt": 1817,
+    "completion": 382,
+    "total": 2199
+  }
+}

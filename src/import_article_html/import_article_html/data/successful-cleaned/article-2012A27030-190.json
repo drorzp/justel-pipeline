@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012A27030",
+  "articleNumber": "190",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-190\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 190</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le gestionnaire du réseau de transport local et l'utilisateur du réseau de transport local conviennent du point de mesure pour les mesures mentionnées aux articles 186, 2° et 186, 3°.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>A défaut d'accord, le gestionnaire du réseau de transport local détermine le point de mesure et en informe la CWaPE.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.085Z",
+  "tokenUsage": {
+    "prompt": 1590,
+    "completion": 236,
+    "total": 1826
+  }
+}

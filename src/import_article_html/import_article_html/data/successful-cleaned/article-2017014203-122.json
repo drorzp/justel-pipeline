@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014203",
+  "articleNumber": "122",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-122\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 122</h2>\n  </header>\n  <div class=\"article-content\">\n    <p class=\"intro-text\">Dans l'article 75, § 1er, de la même loi, modifié en dernière lieu par la loi du 25 octobre 2016, les modifications suivantes sont apportées:</p>\n    <ol>\n      <li class=\"sub-provision\" data-marker=\"a)\">\n        <span class=\"provision-text\">le 2° est remplacé par ce qui suit: \"2° à l'Agence Fédérale de la Dette;\";</span>\n      </li>\n      <li class=\"sub-provision\" data-marker=\"b)\">\n        <span class=\"provision-text\">au 8°, les mots \"entreprises de marché\" sont remplacés par les mots \"opérateurs de marché\";</span>\n      </li>\n      <li class=\"sub-provision\" data-marker=\"c)\">\n        <span class=\"provision-text\">le 20°, inséré par l'arrêté royal du 3 mars 2011, est abrogé;</span>\n      </li>\n      <li class=\"sub-provision\" data-marker=\"d)\">\n        <span class=\"provision-text\">le paragraphe est complété par les 22° et 23°, rédigés comme suit:</span>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"22°\">\n            <span class=\"provision-text\">dans les limites des règlements et directives européens, aux autorités investies de la surveillance des personnes exerçant des activités sur les marchés des quotas d'émission;</span>\n          </li>\n          <li class=\"provision\" data-number=\"23°\">\n            <span class=\"provision-text\">dans les limites des règlements et directives européens, aux autorités investies de la surveillance des personnes exerçant des activités sur les marchés dérivés de matières premières agricoles.\".</span>\n          </li>\n        </ol>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.585Z",
+  "tokenUsage": {
+    "prompt": 1972,
+    "completion": 474,
+    "total": 2446
+  }
+}

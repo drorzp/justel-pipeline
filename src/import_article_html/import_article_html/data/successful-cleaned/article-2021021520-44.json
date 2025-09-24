@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021021520",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 44</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La prime unique pour certains bénéficiaires des mesures temporaires de crise de droit passerelle dans le cadre de la crise de la COVID-19 telle que visée au chapitre 3/1 de la loi du 23 mars 2020 modifiant la loi du 22 décembre 2016 instaurant un droit passerelle en faveur des travailleurs indépendants et introduisant les mesures temporaires dans le cadre du COVID-19 en faveur des travailleurs indépendants, est imposable à l'impôt sur les revenus dans le chef du travailleur indépendant, de l'aidant ou du conjoint aidant en tant qu'indemnité obtenue en réparation totale ou partielle d'une perte temporaire de, selon le cas, bénéfices, profits ou rémunérations.</p>\n      <p class=\"intro-text\">Par dérogation aux articles 130 à 145 et 146 à 156 du Code des impôts sur les revenus 1992, la prime unique visée à l'alinéa 1er est imposable distinctement au taux visé à l'article 171, 4°, du Code précité, sauf si la somme de l'impôt ainsi calculé et de l'impôt calculé conformément à l'article 171 du Code précité sur les revenus y mentionnés, majorée de l'impôt Etat afférent aux autres revenus, est supérieure à l'impôt calculé conformément aux articles 130 à 145 et 146 à 156 précités afférent aux revenus visés aux articles 17, § 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1° à 3°</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">6° et 9°</span></li>\n      </ol>\n      <p class=\"closing-text\">du Code précité et aux plus-values sur valeurs et titres mobiliers imposables sur base de l'article 90, alinéa 1er, 1°, du même Code majoré de l'impôt Etat afférent à l'ensemble des autres revenus imposables.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.178Z",
+  "tokenUsage": {
+    "prompt": 2250,
+    "completion": 545,
+    "total": 2795
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008022703",
+  "articleNumber": "47",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-47\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 47</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 174 de la même loi, un alinéa rédigé comme suit est inséré entre les alinéas 2 et 3 :</p>\n      <blockquote class=\"inserted-text\">\n        \" Les prescriptions prévues aux \n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"5°\">\n            <span class=\"provision-text\">5°</span>\n          </li>\n          <li class=\"provision\" data-number=\"6°\">\n            <span class=\"provision-text\">6°</span>\n          </li>\n          <li class=\"provision\" data-number=\"7°\">\n            <span class=\"provision-text\">7°</span>\n          </li>\n        </ol>\n        sont fixées à un an, en cas de paiement indu résultant d'une erreur de droit ou d'une erreur matérielle de l'organisme assureur et lorsque l'assuré erronément crédité ne savait pas ou ne devait pas savoir qu'il n'avait pas ou plus droit, en tout ou en partie, à la prestation versée. \"\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.006Z",
+  "tokenUsage": {
+    "prompt": 1635,
+    "completion": 320,
+    "total": 1955
+  }
+}

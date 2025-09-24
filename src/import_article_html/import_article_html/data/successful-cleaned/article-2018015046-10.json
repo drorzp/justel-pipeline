@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015046",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 85bis du même Code, inséré par la loi du 8 août 1980, et remplacé par la loi du 1er juillet 2016, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, les mots &quot;Après la notification ou la signification visées à l'article 85, le receveur compétent peut&quot; sont remplacés par les mots &quot;Après reprise de la dette fiscale dans un registre de perception et recouvrement rendu exécutoire, le receveur compétent peut&quot;.</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 2, les mots &quot;au moyen d'une procédure utilisant les techniques de l'informatique&quot; sont à chaque fois remplacés par les mots &quot;par voie électronique&quot;.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 5, alinéa 1er, 1° et 2°, les mots &quot;au moyen d'une procédure utilisant les techniques de l'informatique&quot; sont chaque fois remplacés par les mots &quot;par voie électronique&quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.709Z",
+  "tokenUsage": {
+    "prompt": 1968,
+    "completion": 420,
+    "total": 2388
+  }
+}

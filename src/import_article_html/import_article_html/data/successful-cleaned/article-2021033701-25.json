@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021033701",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les cours et tribunaux prononcent la confiscation de la carte professionnelle si le ressortissant étranger a été condamné pour sa contrefaçon ou sa falsification ou pour les infractions visées à l'article 21, 2° et 3°, et à l'article 22, 2° à 4°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.189Z",
+  "tokenUsage": {
+    "prompt": 1494,
+    "completion": 150,
+    "total": 1644
+  }
+}

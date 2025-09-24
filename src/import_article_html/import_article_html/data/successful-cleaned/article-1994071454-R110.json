@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071454",
+  "articleNumber": "R110",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R110\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article R110</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Loi du 9 août 1963, article 61, remplacé par la loi du 16 juillet 1974, article 9; la référence \"l'article 45\" est remplacée par la référence \"l'article 86\", \"l'article 21, alinéa 1er, 7° et 8° par \"l'article 32, alinéa 1er, 7° et 8° et \"l'article 45\" par \"l'article 86\"; dans le texte néerlandais, le mot \"rechthebbenden\" est remplacé par le mot \"rechthebbende\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.949Z",
+  "tokenUsage": {
+    "prompt": 1620,
+    "completion": 213,
+    "total": 1833
+  }
+}

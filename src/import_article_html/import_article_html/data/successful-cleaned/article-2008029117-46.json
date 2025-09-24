@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008029117",
+  "articleNumber": "46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 46</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 208 du même décret, le point 2° est remplacé par le point 2° suivant :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'article 26, les points 7° et 8° sont remplacés par les points suivants :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">d'assurer la formation en cours de carrière des membres du personnel du Service général de l'Inspection, à l'exclusion des membres du personnel exerçant une fonction de promotion d'Inspecteur général ou d'Inspecteur général coordonnateur;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"8°\">\n                            <span class=\"provision-text\">d'assurer les formations donnant accès à la désignation en qualité de conseiller pédagogique ou de conseiller pédagogique coordonnateur visées à l'article 153, alinéa 2, 1° et alinéa 3, 1° et à l'article 154, § 3, 1°, et de délivrer les attestations de fréquentation relatives à ces formations;</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.053Z",
+  "tokenUsage": {
+    "prompt": 2033,
+    "completion": 374,
+    "total": 2407
+  }
+}

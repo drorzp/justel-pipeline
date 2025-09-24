@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001A00327",
+  "articleNumber": "12.11.31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12-11-31\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12.11.31</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sans préjudice de l'alinéa 2, et par dérogation à l'article XI.III.12, alinéa 1, 2° et alinéa 2, les membres actuels du personnel du cadre opérationnel qui, jusqu'à et y compris le jour précédant la date d'entrée en vigueur du présent arrêté, appartenaient au personnel roulant de la police des autoroutes et des routes pour automobiles déterminées par le Roi, ou effectuaient régulièrement leur service avec une motocyclette de service au sein du corps opérationnel d'un corps de police communale ou du cadre opérationnel d'un corps de police locale, sont censés répondre aux conditions imposées par la disposition visée à ce même article.</p>\n      <p class=\"intro-text\">Toutefois, pour les membres actuels du personnel du cadre opérationnel n'appartenant pas au personnel roulant de la police des autoroutes et des routes pour automobiles déterminées par le Roi, et dans l'attente qu'une formation de mise à niveau leur soit dispensée, les montants prévus à l'annexe 6, point 2, sont remplacés par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pour le cadre de base : 36 000 francs (892,42 EUR);</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour le cadre moyen : 42 750 francs (1 059,42 EUR);</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">pour le cadre d'officiers : 43 380 francs (1 075,37 EUR).</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les montants prévus à l'annexe 6 sont accordés au premier du mois qui suit la date de réussite de la formation. Si cette date coïncide avec le premier d'un mois, le montant supérieur est immédiatement accordé.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.680Z",
+  "tokenUsage": {
+    "prompt": 2177,
+    "completion": 551,
+    "total": 2728
+  }
+}

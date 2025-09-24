@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997035953",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 29</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Par application de l'article 183,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">du décret, les articles 2, § 2, 7, § 3, 8, 11, 12 et 13 de l'arrêté royal n° 65 du 20 juillet 1982 fixant la façon de déterminer les fonctions du personnel directeur et enseignant dans les établissement d'enseignement spécial et les articles 3, § 2 et § 3 et 8 de l'arrêté royal n° 67 du 20 juillet 1982 fixant la façon de déterminer les fonctions du personnel paramédical dans les établissements d'enseignement spécial, à l'exception des internats ou semi-internats, sont supprimés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.919Z",
+  "tokenUsage": {
+    "prompt": 1722,
+    "completion": 304,
+    "total": 2026
+  }
+}

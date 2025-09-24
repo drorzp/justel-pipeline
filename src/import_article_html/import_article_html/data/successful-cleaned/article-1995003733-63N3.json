@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995003733",
+  "articleNumber": "63N3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-63N3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 63N3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">63. Rentes. Le précompte professionnel dû sur le montant des rentes visées à l'article 90,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">4°, du Code des impôts sur les revenus 1992, que des habitants du Royaume versent à des non-habitants du Royaume, est égal à 27,30 p.c. des 80 p.c. du montant de ces rentes.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.984Z",
+  "tokenUsage": {
+    "prompt": 1579,
+    "completion": 222,
+    "total": 1801
+  }
+}

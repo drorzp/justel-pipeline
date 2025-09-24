@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006023149",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 35</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">La nullité d'un organisme de financement de pensions ne peut être prononcée que dans les cas suivants :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">si les statuts ne contiennent pas les mentions visées à l'article 46, alinéa 1er, 1° et 2°;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">si un des buts en vue duquel il est constitué, contrevient à la loi ou à l'ordre public.</span>\n                    </li>\n                </ol>\n                <p class=\"closing-text\">Sans préjudice des articles 50 et 51, la nullité produit ses effets à dater de la décision qui la prononce. La décision prononçant la nullité de l'organisme de financement de pensions entraîne la liquidation de celui-ci conformément à l'article 38. Sans préjudice des effets de l'état de liquidation, la nullité de l'organisme de financement de pensions n'affecte pas la validité de ses engagements ni celle des engagements pris envers lui.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Nonobstant toute clause contraire, les membres sont tenus solidairement à l'égard de tous tiers intéressés à la réparation du préjudice qui est une suite immédiate et directe de la nullité de l'organisme de financement de pensions prononcée conformément au paragraphe précédent.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.673Z",
+  "tokenUsage": {
+    "prompt": 2008,
+    "completion": 488,
+    "total": 2496
+  }
+}

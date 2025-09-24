@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1968080501",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les articles 1er et 2 sont applicables lorsque les services qu'ils visent ont été prestés ou sont devenus admissibles avant la date à laquelle la présente loi produit ses effets.</p>\n            <p class=\"intro-text\">(Lorsque ces services sont devenus admissibles avant le 1er avril 1961 et ont donné lieu au versement des réserves mathématiques de rentes visées à l'article 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">aux institutions qui gèrent le régime des pensions de retraite ou à celles qui gèrent le régime des pensions de survie du secteur public, ces transferts sont censés avoir été effectués en exécution de la présente loi.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Le Roi détermine, dans ce cas, à quelles conditions des sommes restent à transférer en application de l'article 1er, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">ainsi que le mode de calcul de ces sommes.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">). <span class=\"legal-citation legal-citation-standard\" data-law-type=\"L\" data-dossier-number=\"1975-06-20\" data-article-number=\"8\">L. 20 juin 1975, art. 8.</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.547Z",
+  "tokenUsage": {
+    "prompt": 1893,
+    "completion": 491,
+    "total": 2384
+  }
+}

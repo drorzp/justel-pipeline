@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995003275",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 101 de la même loi est remplacé par la disposition suivante :</p>\n            <blockquote class=\"article-quote\">\n                <p class=\"quote-text\">\"Article 101. La S.A. Société fédérale de Participations doit conserver au moins 25,1 p.c. des droits de vote attachés aux titres représentatifs ou non du capital, émis par la société. Elle a le droit de présenter, sur une liste double, les candidats pour un quart au moins des mandats d'administrateurs existants, abstraction faite des mandats d'administrateurs membres du comité de direction.</p>\n                <p class=\"quote-text\">S'ils sont plusieurs, les membres du conseil d'administration qui sont nommés sur présentation de la SA. Société fédérale de Participations comptent autant de membres d'expression française que de membres d'expression néerlandaise, à l'exception d'un membre, si leur nombre est impair. Ils sont soumis aux dispositions des articles 202, § 1er, :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">1°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">2°</span>\n                    </li>\n                </ol>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.990Z",
+  "tokenUsage": {
+    "prompt": 1814,
+    "completion": 380,
+    "total": 2194
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024202318",
+  "articleNumber": "130",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-130\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 130</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les articles X.3-4, § 1er, X.3-7, alinéa 1er et X.5-7, alinéa 2,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">du même code, les mots &quot; de la santé et de la sécurité &quot; sont remplacés par les mots &quot; du bien-être &quot;, les mots &quot; leur santé et sécurité &quot; sont remplacés par les mots &quot; leur bien-être &quot; et les mots &quot; la sécurité ou la santé &quot; sont chaque fois remplacés par les mots &quot; le bien-être &quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.698Z",
+  "tokenUsage": {
+    "prompt": 1671,
+    "completion": 291,
+    "total": 1962
+  }
+}

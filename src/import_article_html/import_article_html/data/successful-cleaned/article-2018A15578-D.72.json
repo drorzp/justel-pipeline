@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018A15578",
+  "articleNumber": "D.72",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-D-72\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article D.72</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Gouvernement définit la structure du Comité visé à l'article D.71, sa composition, son mode de financement éventuel et de fonctionnement, les responsabilités de ses membres ainsi que leur rémunération éventuelle, le mode de contrôle ainsi que les sanctions éventuelles à l'égard de ses membres sans préjudice de l'article D.105, § 2, 34° et 35°.</p>\n      <p class=\"closing-text\">Le Gouvernement désigne le Président et les membres visés à l'alinéa 1er, compte tenu de leur compétence sur le plan biomédical, biologique, éthique et de leur connaissance du bien-être animal, selon les modalités qu'il détermine. Le Comité peut être composé en partie d'experts intervenant de manière ponctuelle pour l'analyse de dossiers nécessitant une expertise particulière. Les experts respectent l'entière confidentialité et sont exempts de conflits d'intérêts.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.446Z",
+  "tokenUsage": {
+    "prompt": 1779,
+    "completion": 279,
+    "total": 2058
+  }
+}

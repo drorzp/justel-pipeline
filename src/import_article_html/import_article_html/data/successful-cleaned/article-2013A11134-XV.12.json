@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A11134",
+  "articleNumber": "XV.12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-XV-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article XV.12</h2>\n    </header>\n    <div class=\"article-content\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/23\" data-law-type=\"L\" data-article-number=\"4\">\n            <section class=\"paragraph\" id=\"para-1er\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Les agents visés à l'article XV.2 sont également compétents pour rechercher et constater les actes qui, sans être punissables, peuvent faire l'objet d'une action en cessation formée à l'initiative du ministre. Les procès-verbaux dressés à ce propos font foi jusqu'à preuve du contraire.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\" id=\"para-2\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Dans l'exercice de leurs fonctions, les agents visés au paragraphe 1er disposent des pouvoirs mentionnés à l'article XV.3,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">1°</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">2°</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">7°</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n        </span>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.111Z",
+  "tokenUsage": {
+    "prompt": 1885,
+    "completion": 424,
+    "total": 2309
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011258",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les fournisseurs tiennent une liste du fournisseur, conformément à l'article 14, alinéa premier, point 4° de l'arrêté du 26 janvier 2018. Cette liste comprend les éléments suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le nom de la variété ainsi que, le cas échéant, ses synonymes courants ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les indications concernant la sélection conservatrice de la variété et le système de multiplication appliqué ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">la description de la variété, au moins sur la base de ses caractères et de leurs expressions, conformément aux dispositions relatives aux demandes à déposer pour la protection communautaire des obtentions végétales, lorsque celles-ci sont applicables ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">des indications, dans la mesure du possible, de la manière dont la variété diffère des autres variétés qui lui ressemblent le plus.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les obligations visées à l'alinéa premier, 2° et 4°, ne s'appliquent pas aux fournisseurs dont l'activité se limite à la mise sur le marché de matériels de multiplication de plantes ornementales.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.768Z",
+  "tokenUsage": {
+    "prompt": 1918,
+    "completion": 429,
+    "total": 2347
+  }
+}

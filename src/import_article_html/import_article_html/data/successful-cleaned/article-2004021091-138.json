@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004021091",
+  "articleNumber": "138",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-138\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 138</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 3nonies, § 1er, alinéa 3, de la loi du 16 juin 1960 plaçant sous la garantie de l'Etat belge les organismes gérant la sécurité sociale des employés du Congo belge et du Ruanda Urundi et portant garantie par l'Etat belge des prestations sociales assurées en faveur de ceux-ci, inséré par la loi du 27 mai 1983 et modifié par la loi du 20 juillet 1990, est remplacé par l'alinéa suivant :  &quot; Le droit à la pension de retraite prévue à l'alinéa 1er est reconnu :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">aux ressortissants d'un des Etats membres de l'Espace économique européen;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">aux ressortissants de la Confédération suisse;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">aux apatrides et aux réfugiés tels qu'ils sont définis à l'article 18ter ;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">aux ressortissants d'un pays avec lequel a été conclu un accord de réciprocité qui leur en accorde le bénéfice;</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">aux ex-épouses d'une personne de nationalité mentionnée aux 1°, 2°, 3° et 4°.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.776Z",
+  "tokenUsage": {
+    "prompt": 1981,
+    "completion": 459,
+    "total": 2440
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008036032",
+  "articleNumber": "10.22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10.22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article VI.4, § 1er, du même décret, le point 1° est remplacé par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les écoles visées à l'article VI.3 sont classées suivant le pourcentage d'élèves qui répondent à un ou plusieurs indicateurs d'égalité des chances visés à l'article VI.2, § 1er,\n            <ol>\n              <li class=\"sub-provision\" data-marker=\"1°\">1°</li>\n              <li class=\"sub-provision\" data-marker=\"2°\">2°</li>\n              <li class=\"sub-provision\" data-marker=\"3°\">3°</li>\n              <li class=\"sub-provision\" data-marker=\"4°\">4°, le nombre d'élèves réguliers ne répondant qu'aux indicateurs d'égalité des chances visés à l'article VI.2, § 1er,</li>\n            </ol>\n            <ol>\n              <li class=\"sub-provision\" data-marker=\"1°\">1°</li>\n              <li class=\"sub-provision\" data-marker=\"1°\">1°</li>\n              <li class=\"sub-provision\" data-marker=\"5°\">5° étant multiplié par un coefficient fixé par le Gouvernement flamand qui est au moins égal à 0,1 et au plus égal à 1. A l'intérieur d'un même pourcentage, les écoles sont classées suivant le nombre absolu de ces élèves;</li>\n            </ol>\n          </span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.042Z",
+  "tokenUsage": {
+    "prompt": 1913,
+    "completion": 448,
+    "total": 2361
+  }
+}

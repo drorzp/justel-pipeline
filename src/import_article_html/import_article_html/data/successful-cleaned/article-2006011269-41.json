@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006011269",
+  "articleNumber": "41",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-41\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 41</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>\n      Lorsqu'elle prend une décision visée à l'article 30, 1°, la chambre de \n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-04-03/18\" data-law-type=\"L\" data-article-number=\"20\">l'Autorité belge de la concurrence</span> \n      qui connaît de l'affaire peut infliger, à chacune des entreprises et associations d'entreprises concernées, des amendes ne dépassant pas 10 % de leur chiffre d'affaires, déterminé selon les critères visés à l'article 52. En outre, elle peut, par la même décision, à la demande de l'auditeur, infliger à chacune des entreprises et associations d'entreprises concernées, des astreintes pour non-respect de sa décision, jusqu'à concurrence de 5 % du chiffre d'affaires journalier moyen, déterminé selon les critères visés à l'article 52, par jour de retard à compter de la date qu'elle fixe dans la décision.\n    </p>\n    <p>\n      Ces amendes et astreintes peuvent en outre être infligées en cas d'application des articles 30, 1°, 3° et 4°, et 31, § 2, et en cas de non-respect des décisions visées aux articles 36, § 2, 1°, et 37, § 7.\n    </p>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.824Z",
+  "tokenUsage": {
+    "prompt": 2009,
+    "completion": 372,
+    "total": 2381
+  }
+}

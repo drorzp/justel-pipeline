@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024008365",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 59</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 255/1 du même code, inséré par l'arrêté du Gouvernement wallon du 20 décembre 2018, est remplacé par ce qui suit : \" Art. 255/1.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Le personnel visé à l'article 155/8, § 1er, alinéa 1er, 4°, du Code décrétal, possède au moins lors de son engagement :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">soit un bachelier d'assistant social, d'assistant en psychologie, d'auxiliaire social, d'éducateur, d'infirmier social ou d'assistant juridique ou l'équivalent ;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">soit un master dans le domaine des sciences humaines ou sociales, en droit ou l'équivalent.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Pour les missions prévues à l'article 155/7, alinéa 2, du Code, le personnel visé à l'article 155/8, alinéa 1er, 4°, du Code, prend en charge l'accompagnement individuel d'au moins quinze MENA ou ancien MENA durant une année.</p>\n        <p class=\"closing-text\">L'accompagnement est gratuit pour le public visé à l'article 150, alinéa 1er, 5° et 6°, du Code décrétal.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.462Z",
+  "tokenUsage": {
+    "prompt": 2099,
+    "completion": 515,
+    "total": 2614
+  }
+}

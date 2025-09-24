@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005810",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sont soumis à l'avis préalable de l'Inspection des Finances :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les plans de personnel</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les ouvertures de postes statutaires et contractuels</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les promotions et octrois de fonctions supérieures</span></li>\n      </ol>\n      <p class=\"closing-text\">Les demandes d'avis visées à l'alinéa 1er, 2° et 3°, peuvent, avec l'accord écrit de l'Inspecteur des Finances compétent pour la matière, être remplacées par une demande regroupée, en exécution du plan de personnel visé à l'alinéa 1er,1°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.559Z",
+  "tokenUsage": {
+    "prompt": 1699,
+    "completion": 299,
+    "total": 1998
+  }
+}

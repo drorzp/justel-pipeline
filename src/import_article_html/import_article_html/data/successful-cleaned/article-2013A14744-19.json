@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A14744",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-05-09/03\" data-law-type=\"DIVERS\" data-article-number=\"1-34\">\n                <section class=\"paragraph\">\n                    <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>Nomination, rémunération et révocation</p>\n                        <p>Le directeur général, visé à l'article 14, § 1er, 4°, est nommé par le conseil d'administration, à la majorité simple, pour un terme renouvelable de six (6) ans. Cette nomination a lieu sur la proposition unanime des membres du conseil d'administration visés à l'article 14, § 1er, 2° et 3°.</p>\n                        <p>Si un directeur général est en fonction, il n'assiste pas aux délibérations ni ne prend part au vote relatifs à ce point à l'ordre du jour. Le directeur général est présumé absent pour le calcul du quorum de majorité. Il est choisi pour sa compétence particulière en matière de ressources humaines.</p>\n                        <p>Il est révoqué de la même manière.</p>\n                        <p>Sa mission, visée à l'article 20, § 1er, est déterminée par le conseil d'administration de la même manière.</p>\n                        <p>Le statut administratif et pécuniaire du directeur général est établi par le conseil d'administration de HR Rail. Si un directeur général est en fonction, il n'assiste pas aux délibérations ni ne prend part au vote relatifs à ce point à l'ordre du jour. Le directeur général est présumé absent pour le calcul du quorum de majorité.</p>\n                    </div>\n                </section>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.111Z",
+  "tokenUsage": {
+    "prompt": 2055,
+    "completion": 464,
+    "total": 2519
+  }
+}

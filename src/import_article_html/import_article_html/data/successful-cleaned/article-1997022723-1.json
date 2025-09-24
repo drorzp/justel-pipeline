@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022723",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p><span class=\"footnote footnote-reference\" data-footnote-id=\"1\">L'article 225, § 2, de l'arrêté royal du 3 juillet 1996 portant exécution de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, est complété par l'alinéa suivant :  \" La condition de cohabitation n'est pas requise pendant la période au cours de laquelle le titulaire visé au § 1er, 1° à 4°, est hospitalisé ou hébergé dans une institution ou un service visé à l'article 34, 11° et 18°, de la loi coordonnée, détenu en prison ou interné dans un établissement de défense sociale, sans préjudice des autres conditions à remplir pour la reconnaissance de la qualité de travailleur ayant personne à charge \".</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.967Z",
+  "tokenUsage": {
+    "prompt": 1705,
+    "completion": 266,
+    "total": 1971
+  }
+}

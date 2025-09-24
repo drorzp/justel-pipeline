@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999022509",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Les modifications suivantes sont apportées à l'article 10 du même arrêté :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">dans le texte actuel, qui formera le § 1er, l'alinéa 1er est remplacé par la disposition suivante :</span>\n        <p>\" La Commission délibère valablement lorsque la moitié au moins des membres siégeant avec voix délibérative prévus à l'article 2, conformément aux § 2 et § 3 du présent article, est présente.</p>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">il est ajouté un § 2 et un § 3, rédigé comme suit :</span>\n      </li>\n    </ol>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsque la Commission délibère sur une des professions autre que celles visées aux articles 2, § 1er et 3, de l'arrêté royal n° 78 précité, elle se compose des membres visés à l'article 2, point 1° à 8° et les quatre membres pour la profession concernée.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsque la Commission délibère sur une des professions visées aux articles 2, § 1er, et 3, de l'arrêté royal n° 78 précité, elle se compose des membres visés à l'article 2, point 1° à 8°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.282Z",
+  "tokenUsage": {
+    "prompt": 2127,
+    "completion": 490,
+    "total": 2617
+  }
+}

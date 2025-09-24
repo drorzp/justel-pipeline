@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1970072905",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 40</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Sans préjudice de l'article 29 du Code d'instruction criminelle, tout délit, acte d'infidélité ou manquement grave, révélé à l'occasion du fonctionnement des services visés à l'article 2, 1°, 2° et 3°, est immédiatement signalé au Comité. En cas d'urgence, cette information est donnée par communication téléphonique ou par télégramme.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.557Z",
+  "tokenUsage": {
+    "prompt": 1522,
+    "completion": 164,
+    "total": 1686
+  }
+}

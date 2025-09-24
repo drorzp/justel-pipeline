@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042110",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans la version francophone de l'article 7 de la version francophone du même arrêté, les termes \" visés à l'article 2, 1°, 2° et 5° \" sont insérés entre les mots \" contractuels \" et \" sont engagés \".</p>\n            <p class=\"intro-text\">Dans la version néerlandophone de l'aricle 7 du même arrêté, les termes \" artikel 2, 1° en 2° \" sont remplacés par \" artikel 2, 1°, 2° en 5° \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.885Z",
+  "tokenUsage": {
+    "prompt": 1796,
+    "completion": 205,
+    "total": 2001
+  }
+}

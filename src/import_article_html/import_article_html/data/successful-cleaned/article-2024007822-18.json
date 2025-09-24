@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024007822",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'évaluation de la qualité du fonctionnement, visée à l'article 17 du décret du 26 avril 2024, le département élabore un cadre d'évaluation qui permet :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">pour les critères d'évaluation visés à l'article 17, alinéa 1er, 1° à 3°, du décret précité, d'attribuer un score par critère d'évaluation et un score global basé sur l'évaluation qualitative des critères d'évaluation précités ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">pour les critères d'évaluation visés à l'article 17, alinéa 1er, 4° et 5°, du décret précité, d'attribuer une valeur qualitative ;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">de déterminer les valeurs seuils pour une augmentation ou une diminution de la subvention de base, telle que visée à l'article 18, § 2, du décret précité.</span></li>\n            </ol>\n            <p class=\"closing-text\">Le ministre décide de l'approbation du cadre d'évaluation visé à l'alinéa 1er.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.453Z",
+  "tokenUsage": {
+    "prompt": 1883,
+    "completion": 392,
+    "total": 2275
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013014394",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté royal du 20 novembre 2006 relatif à la certification des prestataires de services de navigation aérienne et à la désignation des prestataires de services de la circulation aérienne et de services météorologiques, est complété d'un point 10° et 11°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">plan de performance : le plan de performance élaboré et adopté conformément aux articles 9 à 12 du Règlement (UE) N° 691/2010 de la Commission du 29 juillet 2010 établissant un système de performance pour les services de navigation aérienne et les fonctions de réseau et modifiant le Règlement (CE) n° 2096/2005 établissant les exigences communes pour la fourniture de services de navigation aérienne.</span>\n        </li>\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">Règlement (UE) N° 691/2010 : le Règlement (UE) n° 691/2010 de la Commission du 29 juillet 2010 établissant un système de performance pour les services de navigation aérienne et les fonctions de réseau et modifiant le Règlement (CE) n° 2096/2005 établissant les exigences communes pour la fourniture de services de navigation aérienne;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.126Z",
+  "tokenUsage": {
+    "prompt": 1956,
+    "completion": 415,
+    "total": 2371
+  }
+}

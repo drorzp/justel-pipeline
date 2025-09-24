@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004567",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 16 de la même loi, modifié en dernier lieu par la loi du 6 novembre 2023, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le paragraphe 1er, alinéa 1er, est complété par le 20° rédigé comme suit: \"20° fixe les montants alloués au Programme d'accès précoce;\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 3, les mots \"et 7° \" sont remplacés par les mots \", 7° et 20°, \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 3, dans le texte néerlandais, les mots \"artikel 12\" sont remplacés par les mots \"artikel 15\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.356Z",
+  "tokenUsage": {
+    "prompt": 1762,
+    "completion": 333,
+    "total": 2095
+  }
+}

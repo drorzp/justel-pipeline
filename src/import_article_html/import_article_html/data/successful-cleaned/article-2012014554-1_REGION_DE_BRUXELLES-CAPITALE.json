@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012014554",
+  "articleNumber": "1_REGION_DE_BRUXELLES-CAPITALE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1_REGION_DE_BRUXELLES-CAPITALE\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1_REGION_DE_BRUXELLES-CAPITALE</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Peuvent seuls être commissionnés par le procureur général près la cour d'appel pour l'application de la procédure faisant l'objet du présent arrêté, les agents qualifiés visés à l'article 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">7°</span></li>\n            </ol>\n            <p class=\"closing-text\">du Code de la route. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-03-07/14\" data-law-type=\"ARR\" data-article-number=\"4\">Les contrôleurs routiers visés à l'article 2 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 1er février 2023 relatif au contrôle routier peuvent également être commissionnés par le procureur général près la Cour d'appel pour l'application de la procédure faisant l'objet du présent arrêté, et ce dans les limites de leurs compétences.</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.180Z",
+  "tokenUsage": {
+    "prompt": 1822,
+    "completion": 383,
+    "total": 2205
+  }
+}

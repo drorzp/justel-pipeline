@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011031388",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 8, § 4 de la même ordonnance, les mots &quot; fourniture d'électricité si ce n'est pour les cas visés à l'article 24bis,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">et au Chapitre IVbis de la présente ordonnance. &quot; sont remplacés par les mots &quot; production ni de fourniture d'électricité si ce n'est pour couvrir ses besoins propres, compenser les pertes et remplir les missions et obligations de service public visées aux articles 24 et 24bis et au chapitre IVbis de la présente ordonnance. Tout achat complémentaire d'électricité se fait selon des procédures transparentes et non discriminatoires. &quot;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.204Z",
+  "tokenUsage": {
+    "prompt": 1663,
+    "completion": 261,
+    "total": 1924
+  }
+}

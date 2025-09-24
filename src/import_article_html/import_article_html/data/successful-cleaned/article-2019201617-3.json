@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019201617",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les inspecteurs sont chargés de contrôler le respect des législations suivantes et de rechercher et constater les infractions aux législations et réglementations relatives à la reconversion et au recyclage professionnels visées à l'article 3,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">4°, du décret du 11 avril 2014 relatif aux compétences de la Communauté française dont l'exercice est transféré à la Région wallonne et à la Commission communautaire française.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.417Z",
+  "tokenUsage": {
+    "prompt": 1593,
+    "completion": 227,
+    "total": 1820
+  }
+}

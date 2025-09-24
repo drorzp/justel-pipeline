@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015036646",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le présent arrêté, on entend par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">contractuels subventionnés : les contractuels subventionnés contractuels subventionnés engagés dans le cadre d'un contrat, tel que visé à l'article 1er, 12°, 14°, 15° et 36° de l'arrêté du Gouvernement flamand du 27 octobre 1993 portant généralisation du régime des contractuels subventionnés et à l'article 1er, 13°, de l'arrêté du Gouvernement flamand du 27 octobre 1993 portant exécution de l'arrêté royal n° 474 du 28 octobre 1986 portant création d'un régime de contractuels subventionnés par l'Etat auprès de certains pouvoirs locaux ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">extinction : l'interdiction pour l'employeur de remplacer le travailleur en exercice qui quitte le service ou qui prend sa retraite ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">régularisation : la fin des interventions à l'employeur, l'abrogation du statut spécial des contractuels subventionnés, visés à l'arrêté du Gouvernement flamand du 27 octobre 1993 portant généralisation du régime des contractuels subventionnés, l'arrêté du 27 octobre 1993 portant exécution de l'arrêté royal n° 474 du 28 octobre 1986 portant création d'un régime de contractuels subventionnés par l'Etat auprès de certains pouvoirs locaux, et la cessation de conventions en cours entre la Région flamande et l'employeur.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.193Z",
+  "tokenUsage": {
+    "prompt": 2077,
+    "completion": 493,
+    "total": 2570
+  }
+}

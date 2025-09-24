@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042701",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 2244 du même arrêté, inséré par l'arrêté royal du 8 mars 1989 et modifié par l'arrêté royal du 17 février 2019, est remplacé par ce qui suit :</p>\n      <p class=\"intro-text\">\"Art. 2244. La taxe annuelle sur les participations bénéficiaires et, le cas échéant, les intérêts et les amendes sont acquittés, avant que ces taxe, intérêts et amendes ne soient repris au registre de perception et recouvrement rendu exécutoire visé à l'article 20139 du Code des droits et taxes divers, par versement ou par virement au compte financier du bureau déterminé par l'article 2241, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour la perception de la taxe annuelle sur les contrats d'assurance.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.501Z",
+  "tokenUsage": {
+    "prompt": 1759,
+    "completion": 332,
+    "total": 2091
+  }
+}

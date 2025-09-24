@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045501",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 3, alinéa 3, de l'arrêté royal du 17 septembre 2005 relatif à l'aptitude au service aérien, modifié par les arrêtés royaux des 17 août 2013 et 18 septembre 2019, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">le 6° est remplacé par ce qui suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">tactical coordinator;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">l'alinéa est complété par les 7° et 8° rédigés comme suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">air refueling operator-loadmaster;</span>\n            </li>\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">les postulants, les candidats militaires et les militaires qui souhaitent exercer une des fonctions visées au présent alinéa, 2° à 7°.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.395Z",
+  "tokenUsage": {
+    "prompt": 1848,
+    "completion": 414,
+    "total": 2262
+  }
+}

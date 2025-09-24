@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030526",
+  "articleNumber": "103",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-103\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 103</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Concernant les éleveurs commerçants au sens de l'arrêté du 27 avril 2007 portant les conditions d'agrément des établissements pour animaux et portant les conditions de commercialisation des animaux :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'article 19/5, 1° et 3°, de l'arrêté du 27 avril 2007 portant les conditions d'agrément des établissements pour animaux et portant les conditions de commercialisation des animaux continue à s'appliquer jusqu'au 30 juin 2023 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">par dérogation à l'article 101, alinéa 1er, du présent arrêté, les agréments délivrés conformément à l'arrêté du 27 avril 2007 portant les conditions d'agrément des établissements pour animaux et portant les conditions de commercialisation des animaux prennent fin au plus tard le 1er janvier 2026.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.713Z",
+  "tokenUsage": {
+    "prompt": 1785,
+    "completion": 331,
+    "total": 2116
+  }
+}

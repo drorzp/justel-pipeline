@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022200307",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">- Modification de l'agrément</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er</h3>\n                <div class=\"paragraph-content\">\n                    <p>Pendant son agrément, le prestataire communique par écrit à l'Office, dans les trente jours, toute modification apportée aux informations mentionnées à l'article 3, § 1er, alinéa 2, 1°, 2° et 4°.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 2</h3>\n                <div class=\"paragraph-content\">\n                    <p>Les modifications apportées aux informations mentionnées à l'article 3, § 1er, alinéa 2, 3°, sont soumises à une approbation préalable. A cette fin, le prestataire introduit une demande individuelle par écrit auprès de l'Office.</p>\n                    <p>Dans les soixante jours suivant la réception de la demande complète, l'Office établit un avis motivé.</p>\n                    <p><span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-12-21/42\" data-law-type=\"ACG\" data-article-number=\"56\">Le Ministre statue, sur avis préalable du comité de gestion,</span> sur l'approbation de la modification dans un délai de soixante jours à compter de la réception de l'avis motivé. A défaut de décision dans le délai imparti, l'approbation est censée être refusée.</p>\n                    <p>La durée de l'approbation de la modification est limitée pour la première fois à douze mois au plus et peut être renouvelée après évaluation jusqu'à l'expiration de l'agrément d'origine.</p>\n                    <p>L'Office consigne toute approbation de la modification, sa justification ainsi que sa durée.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.877Z",
+  "tokenUsage": {
+    "prompt": 2149,
+    "completion": 517,
+    "total": 2666
+  }
+}

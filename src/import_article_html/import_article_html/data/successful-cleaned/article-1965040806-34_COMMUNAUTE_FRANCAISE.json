@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1965040806",
+  "articleNumber": "34_COMMUNAUTE_FRANCAISE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34_COMMUNAUTE_FRANCAISE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34_COMMUNAUTE_FRANCAISE</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En prononçant la déchéance totale ou partielle de (l'autorité parentale), le tribunal de la jeunesse désigne la personne qui, sous son contrôle, exercera les droits mentionnés à l'article 33, 1° et 2°, dont les parents ou l'un d'entre eux sont déchus et remplira les obligations qui y sont corrélatives, ou confie le mineur (au conseiller de l'aide à la jeunesse), lequel désigne une personne qui exercera ces droits après que sa désignation aura été homologuée par ce tribunal, sur réquisition du ministère public. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"31-03-1987\" data-law-type=\"L\" data-article-number=\"105\">&lt;L 31-03-1987, art. 105&gt;</span> <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1991-03-04/36\" data-law-type=\"DCFR\" data-article-number=\"62\" data-effective-date=\"24-12-1991\">&lt;DCFR 1991-03-04/36, art. 62, § 4, 005; En vigueur : 24-12-1991&gt;</span></p>\n      <p>Le père et la mère sont préalablement entendus ou appelés.</p>\n      <p>Si un seul des parents a encouru la déchéance, le tribunal de la jeunesse désigne, pour le remplacer, le parent non déchu, lorsque l'intérêt du mineur ne s'y oppose pas.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.539Z",
+  "tokenUsage": {
+    "prompt": 1973,
+    "completion": 440,
+    "total": 2413
+  }
+}

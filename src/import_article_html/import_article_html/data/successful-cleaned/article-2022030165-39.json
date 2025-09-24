@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030165",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 39</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sans préjudice des causes de prolongation visées à l'article 38, § 2, le stage peut être prolongé au maximum de quatre mois dans les cas visés aux articles 47, alinéa 1er,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et 48, § 2, alinéa 1er,</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">2°. Pendant la période de prolongation du stage, l'intéressé conserve sa qualité de stagiaire.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.841Z",
+  "tokenUsage": {
+    "prompt": 1588,
+    "completion": 224,
+    "total": 1812
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994000274",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les fonctionnaires de la Société terrienne flamande visés à (l'article 1er, alinéa 2), sont autorisés à utiliser le numéro d'identification des personnes inscrites au Registre national des personnes physiques. \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2002-05-02/47\" data-law-type=\"AR\" data-article-number=\"3\">&lt;AR 2002-05-02/47, art. 3, 002; En vigueur : 20-08-2002&gt;</span>\n      </p>\n      <p class=\"intro-text\">\n        L'autorisation d'utilisation du numéro d'identification est limitée à l'accomplissement des tâches visées à (l'article 1er, alinéa 1er, 1° et 3°). \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2002-05-02/47\" data-law-type=\"AR\" data-article-number=\"3\">&lt;AR 2002-05-02/47, art. 3, 002; En vigueur : 20-08-2002&gt;</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.058Z",
+  "tokenUsage": {
+    "prompt": 1802,
+    "completion": 344,
+    "total": 2146
+  }
+}

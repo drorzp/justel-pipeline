@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022201829",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement du 24 octobre 2013 établissant le modèle du bulletin de signalement et du rapport d'évaluation pour différentes catégories de personnel dans l'enseignement de la Communauté germanophone, modifié par les arrêtés du Gouvernement des 17 mars 2016, 1er mars 2018 et 26 février 2019, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 10° est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par les 29° et 30° rédigés comme suit :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"29°\">\n              <span class=\"sub-provision-text\">l'annexe 29 vaut pour le responsable informatique;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"30°\">\n              <span class=\"sub-provision-text\">l'annexe 30 vaut pour le conseiller en psychologie scolaire.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.826Z",
+  "tokenUsage": {
+    "prompt": 1800,
+    "completion": 369,
+    "total": 2169
+  }
+}

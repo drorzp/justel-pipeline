@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030262",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        L'article 7.1.10, § 3/1, du Décret sur l'Energie du 8 mai 2009, tel que modifié par l'article 5, 2°, et l'article 7.1.11, § 2/2, du Décret sur l'Energie du 8 mai 2009, tel qu'inséré par l'article 6, 4°, s'appliquent pour la première fois à la période de restitution prenant fin le \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-12-23/01\" data-law-type=\"DCFL\" data-article-number=\"58\">30 avril 2023</span>.\n      </p>\n      <p class=\"intro-text\">\n        Les articles 7, 20, 21 et 23, \n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">9°</span></li>\n        <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">10°</span></li>\n        <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">11°</span></li>\n        <li class=\"provision\" data-number=\"12°\"><span class=\"provision-text\">12°</span></li>\n        <li class=\"provision\" data-number=\"13°\"><span class=\"provision-text\">13°</span></li>\n        <li class=\"provision\" data-number=\"14°\"><span class=\"provision-text\">14°</span></li>\n      </ol>\n      <p class=\"closing-text\">\n        entrent en vigueur le 1er janvier 2022. L'article 12 entre en vigueur à une date à fixer par le Gouvernement flamand.\n      </p>\n      <p class=\"note-text\">\n        (NOTE : Entrée en vigueur de l'article 12 fixée au 01-10-2023 par AGF\n        <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2023061613\">[2023-06-16/13]</a>, art. 110)\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.844Z",
+  "tokenUsage": {
+    "prompt": 2028,
+    "completion": 621,
+    "total": 2649
+  }
+}

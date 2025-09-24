@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029131",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">La fonction de directeur peut être confiée temporairement à un membre du personnel remplissant toutes les conditions visées à l'article 42 :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">si le titulaire de la fonction est temporairement absent;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">dans l'hypothèse visée à l'article 41.</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">Pendant cette période, le membre du personnel technique reste titulaire de l'emploi dans lequel il est nommé à titre définitif.) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"Errata, M.B. 14-06-2002\" data-law-type=\"Errata\" data-article-number=\"p. 27361\">&lt;Errata, M.B. 14-06-2002, p. 27361&gt;</span></p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation au § 1er, alinéa 1er, pour toute désignation d'une durée égale ou inférieure à quinze semaines, les conditions visées à l'article 42, 3° et 4°, ne sont pas exigées. La commission paritaire locale doit fixer la procédure de désignation.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.747Z",
+  "tokenUsage": {
+    "prompt": 1893,
+    "completion": 472,
+    "total": 2365
+  }
+}

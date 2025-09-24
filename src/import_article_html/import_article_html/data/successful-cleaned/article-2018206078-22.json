@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018206078",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 22</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 153/7, alinéa 1er, du même Code, inséré par le décret du 27 mars 2014, les modifications suivantes sont apportées :</p>\n            <ol class=\"sub-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"sub-provision-text\">au 1°, les mots \" de la personne chargée de la direction, de la personne chargée de la gestion administrative et financière et du coordinateur de projets \" sont remplacés par les mots \" des personnes visées à l'article 153/3, alinéa 1er, 1°, 2°, 3°, 4° et 6°\";</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"sub-provision-text\">au 2°, les mots \" d'au moins trois responsables de projets \" sont remplacés par les mots \" des personnes visées à l'article 153/3, 5° \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.328Z",
+  "tokenUsage": {
+    "prompt": 1747,
+    "completion": 313,
+    "total": 2060
+  }
+}

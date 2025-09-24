@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023043851",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 29</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le présent arrêté entre en vigueur le premier jour du mois qui suit l'expiration d'un délai de dix jours prenant cours le jour après la publication du présent arrêté au Moniteur belge, à l'exception des articles 3, 1° et 4, 1°.</p>\n        <p>Les articles 3, 1° et 4, 1° entrent en vigueur le même jour que l'article 5 de la loi du 11 juillet 2023 modifiant les lois coordonnées sur le Conseil d'Etat.</p>\n        <p>Le présent arrêté est uniquement applicable aux recours et demandes qui ont été introduits au Conseil d'Etat à partir de la date visée à l'alinéa 1er, à l'exception des articles 3, 1° et 4, 1°.</p>\n        <p>Les articles 3, 1° et 4, 1° sont uniquement applicables aux recours et demandes qui ont été introduits au Conseil d'Etat à partir de la date visée à l'alinéa 2.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.850Z",
+  "tokenUsage": {
+    "prompt": 1791,
+    "completion": 335,
+    "total": 2126
+  }
+}

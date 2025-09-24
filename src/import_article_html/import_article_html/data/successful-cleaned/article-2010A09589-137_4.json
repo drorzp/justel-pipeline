@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010A09589",
+  "articleNumber": "137/4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-137/4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 137/4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-12-26/01\" data-law-type=\"L\" data-article-number=\"42\">\n                <p class=\"intro-text\">L'obligation d'enregistrement des présences des travailleurs et d'autres personnes physiques sur les lieux de travail où des activités de nettoyage et/ou d'entretien sont effectuées. Est puni d'une sanction de niveau 1:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">le travailleur, visé à l'article 23, 1° de la loi-programme du 26 décembre 2022 qui, en contravention à l'article 38, alinéa 1er, de la même loi-programme du 26 décembre 2022, se présente sur un lieu de travail et n'effectue pas les enregistrements de débuts et de fins d'activités sur le lieu de travail, ainsi que les enregistrements des intervalles de repos au moment où celles-ci débutent et se terminent;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">l'employeur, l'entrepreneur, le sous-traitant, visés à l'article 23, 2° et 3° de la loi-programme du 26 décembre 2022 qui, en contravention à l'article 38, alinéa 2, de la même loi-programme du 26 décembre 2022, se présente sur un lieu de travail et n'effectue pas les enregistrements de son arrivée et son départ au moment où il arrive et quitte le lieu de travail.</span>\n                    </li>\n                </ol>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.337Z",
+  "tokenUsage": {
+    "prompt": 2184,
+    "completion": 475,
+    "total": 2659
+  }
+}

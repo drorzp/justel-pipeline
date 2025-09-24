@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005002116",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les articles 25 et 26 de la loi du 22 mars 1999 portant diverses mesures en matière de fonction publique entrent en vigueur à la date d'entrée en vigueur du présent arrêté pour les services publics visés à l'article 25, § 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">3°, pour autant qu'ils soient repris dans l'article 1er de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique,</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.745Z",
+  "tokenUsage": {
+    "prompt": 1558,
+    "completion": 278,
+    "total": 1836
+  }
+}

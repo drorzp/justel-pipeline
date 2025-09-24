@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035613",
+  "articleNumber": "III.77",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-III-77\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article III.77</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent chapitre entre en vigueur le 1er septembre 2014, à l'exception des articles III.2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à 7°</span>\n        </li>\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">à 11°</span>\n        </li>\n        <li class=\"provision\" data-number=\"13°\">\n          <span class=\"provision-text\">, III.6, III.7, III.8, III.14, III.15, III.16, III.21, III.44, 1°, III.46, III.47, III.56, III.57, III.72, III.73, III.74, III.75 et III.76, qui entrent en vigueur le 1er janvier 2015 pour ce qui est des inscriptions portant sur l'année scolaire 2015-2016</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">et à l'exception des articles III.4, III.9, III.12, III.13, III.37, III.40, III.41, III.43, III.44, 2°, III.45, III.67 et III.68, qui entrent en vigueur le 1er avril 2014 et à l'exception des articles III.51, III.54, III.58 et III.59, qui entrent en vigueur le 1er septembre 2015.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.340Z",
+  "tokenUsage": {
+    "prompt": 1932,
+    "completion": 445,
+    "total": 2377
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1955042250",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La règle visée aux articles 5, 3°, 6, 2° et 7, 2° n'est applicable que si l'occupation dans le pays du nouveau lieu de travail a lieu dans un délai d'un mois, à compter de la fin de l'occupation dans le pays de l'ancien lieu de travail.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.462Z",
+  "tokenUsage": {
+    "prompt": 1578,
+    "completion": 153,
+    "total": 1731
+  }
+}

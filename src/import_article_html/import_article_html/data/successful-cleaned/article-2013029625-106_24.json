@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013029625",
+  "articleNumber": "106/24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-106/24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 106/24</h2>\n    </header>\n    <div class=\"article-content\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-11-17/07\" data-law-type=\"DCFR\" data-article-number=\"17\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Le Gouvernement fixe les modalités générales de fonctionnement de la plateforme e-paysage.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Sous réserve d'autres délais de conservation expressément prévus par la loi ou le décret, le Gouvernement détermine également le délai de conservation des données à caractère personnel contenues dans la plateforme ou mises à disposition au moyen de celle-ci, sans que celui-ci ne puisse excéder 10 ans. S'agissant des données visées aux articles <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"106/4\" data-law-type=\"L\" data-article-number=\"9\">106/4, 9°</span> et <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"106/7\" data-law-type=\"L\" data-article-number=\"7\">106/7</span>, le délai de conservation s'étend jusqu'au décès de la personne concernée.</p>\n                    <p>Le délai visé à l'alinéa précédent court à compter du jour de la mise à disposition des données.</p>\n                </div>\n            </section>\n        </span>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.051Z",
+  "tokenUsage": {
+    "prompt": 1902,
+    "completion": 423,
+    "total": 2325
+  }
+}

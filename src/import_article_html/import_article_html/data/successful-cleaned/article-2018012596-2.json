@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012596",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Produisent leurs effets le 1er mai 2017:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les articles 5, 4° et 5°, 7, § 3, alinéa 3, 2° et 3°, 9, 10 et 11, § 2, 2° de la loi du 28 avril 2017 portant création du \" War Heritage Institute \" et portant intégration des missions, des moyens et du personnel de l'Institut des Vétérans - Institut National des Invalides de Guerre, Anciens Combattants et Victimes de Guerre, du Musée Royal de l'Armée et d'Histoire Militaire, du Mémorial national du Fort de Breendonk et du Pôle historique de la Défense;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le présent arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.693Z",
+  "tokenUsage": {
+    "prompt": 1760,
+    "completion": 316,
+    "total": 2076
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A11134",
+  "articleNumber": "XVII.8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-XVII-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article XVII.8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-26/37\" data-law-type=\"L\" data-article-number=\"3\">\n                <p class=\"intro-text\">Sans préjudice de l'application éventuelle de l'article VI. 104 et de l'article <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-04-21/10\" data-law-type=\"L\" data-article-number=\"3\">XVII.1/4</span> aux actes qu'ils visent, l'action pour violation de l'article XVII.2 est formée exclusivement à la demande du ministre qui est compétent pour la matière concernée.</p>\n                <p class=\"intro-text\">L'action fondée sur l'article XVII.2, 9°, est formée à la demande du ministre qui a l'environnement dans ses attributions. Le Comité créé par la loi du 14 juillet 1994 portant création du Comité d'attribution du label écologique européen peut proposer au ministre d'introduire une telle action.</p>\n                <p class=\"intro-text\">L'action fondée sur l'article XVII.2,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">à 6°, en ce qui concerne l'obstacle à la surveillance exercée en vertu des lois relatives à la tenue des documents sociaux,</span></li>\n                    <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">et</span></li>\n                    <li class=\"provision\" data-number=\"13°\"><span class=\"provision-text\">sont formées à la demande du ministre ou du fonctionnaire dirigeant le service d'inspection compétent visé à l'article 17 du Code pénal social.</span></li>\n                </ol>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.111Z",
+  "tokenUsage": {
+    "prompt": 2085,
+    "completion": 498,
+    "total": 2583
+  }
+}

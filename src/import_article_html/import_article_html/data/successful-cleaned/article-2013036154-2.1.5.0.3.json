@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013036154",
+  "articleNumber": "2.1.5.0.3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2-1-5-0-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2.1.5.0.3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          Les réductions, visées à l'article 2.1.5.0.1, § 1er, 1° à 3° inclus, \n          <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2022-12-16/10\" data-law-type=\"DCFL\" data-article-number=\"10\">article 2.1.5.0.1, § 1er/1,</span> \n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-11-19/12\" data-law-type=\"DCFL\" data-article-number=\"3\">à l'article 2.1.5.0.1, § 2, alinéa premier, 1° à 7° inclus</span>, \n          et à l'article 2.1.5.0.2, § 1er, 1° et 2°, sont évaluées en fonction de la situation le 1er janvier de l'année dont le millésime désigne l'année d'imposition du précompte immobilier. Ces réductions peuvent être cumulées, à l'exception de la réduction, visée à l'article 2.1.5.0.1, § 2, alinéa premier, 3°, qui ne peut être cumulée avec les réductions, visées à l'article 2.1.5.0.1, § 2, alinéa premier, 1° et 2°.\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.098Z",
+  "tokenUsage": {
+    "prompt": 2101,
+    "completion": 449,
+    "total": 2550
+  }
+}

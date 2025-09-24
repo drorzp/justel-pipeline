@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011711",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Le tribunal de la jeunesse peut proposer au délinquant mineur d'élaborer un projet positif tel que visé à l'article 29, § 2, alinéa 1er, 3°, dont la concrétisation est assurée par le mineur lui-même.  \n        Les dispositions relatives à la procédure, visées à l'article 23, § 1er, alinéa s 2, 3, 5, 6 et 7, et §§ 2 et 3, sont applicables. Par dérogation à l'article 23, § 1er, alinéa 5, 1°, le projet positif ne peut dépasser 220 heures.  \n        Par dérogation à l'article 23, le tribunal de la jeunesse prévoit en même temps une sanction de remplacement pour le cas où le délinquant mineur ne met pas en oeuvre le projet positif ou ne le met pas en oeuvre conformément à la proposition visée à l'article 23, § 1er, alinéa 3. Si le projet positif n'est pas réalisé ou n'est pas réalisé conformément à la proposition précitée, le tribunal de la jeunesse peut d'office imposer la sanction de remplacement prévue. Elle peut, le cas échéant, tenir compte de la réalisation partielle du projet positif, pour ajuster la sanction de remplacement.\n      </p>\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-19/14\" data-law-type=\"DCFL\" data-article-number=\"19\">\n        <p class=\"footnote-text\">\n          Les sanctions visées à l'article 29, § 2, alinéa 1er, 4°, 5°, 5° /0, 6° et 7° peuvent être imposées à titre de sanction de remplacement.\n        </p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.458Z",
+  "tokenUsage": {
+    "prompt": 2214,
+    "completion": 486,
+    "total": 2700
+  }
+}

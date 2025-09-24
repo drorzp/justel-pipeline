@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005A27314",
+  "articleNumber": "R95-4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R95-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article R95-4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-02-17/11\" data-law-type=\"ARW\" data-article-number=\"4\">\n        <p class=\"intro-text\">L'autorité de bassin peut désigner des zones de mélange adjacentes aux points de rejets. Les concentrations d'une ou plusieurs des substances énumérées à l'annexe Xbis, partie A, peuvent dépasser les normes de qualité environnementales applicables à l'intérieur de ces zones de mélange si la conformité à ces normes du reste de la masse d'eau de surface ne s'en trouve pas compromise.</p>\n        <p class=\"intro-text\">L'étendue de ces zones de mélange est limitée à la proximité du point de rejet et proportionnée, eu égard à la concentration de polluants au point de rejet et aux conditions relatives aux émissions des polluants figurant dans les autorisations et permis d'environnement, conformément à l'application des meilleures techniques disponibles et après réexamen des autorisations et permis d'environnement.</p>\n        <p class=\"intro-text\">Lorsqu'elle désigne des zones de mélange, l'autorité de bassin décrit, sur base des documents guides produits par la Commission européenne, dans les plans de gestion du bassin hydrographique wallon visés à l'article D. 24 les approches et les méthodes appliquées pour définir ces zones ainsi que les mesures prises en vue de réduire l'étendue des zones de mélange à l'avenir, telles que celles qui sont prévues à l'article D. 23, § 3,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"8°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"12°\">\n            <span class=\"provision-text\">ou d'un réexamen des autorisations et permis d'environnement.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.797Z",
+  "tokenUsage": {
+    "prompt": 2103,
+    "completion": 506,
+    "total": 2609
+  }
+}

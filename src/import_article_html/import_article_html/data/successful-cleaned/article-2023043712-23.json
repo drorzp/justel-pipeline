@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023043712",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 4 de la même loi, modifié par les lois du 30 décembre 2009, du 17 août 2013 et du 20 juillet 2022, les modifications suivantes sont apportées:</p>\n      <ol class=\"sub-provisions\">\n        <li class=\"sub-provision\" data-marker=\"a)\">dans le 4°, les mots &quot;ou la condition&quot; sont insérés entre les mots &quot;l'origine&quot; et &quot;sociale&quot;;</li>\n        <li class=\"sub-provision\" data-marker=\"b)\">dans le 6°, les mots &quot;de l'un des critères&quot; sont remplacés par les mots &quot;d'un ou plusieurs des critères&quot;;</li>\n        <li class=\"sub-provision\" data-marker=\"c)\">dans les 7° et 9°, les mots &quot;l'un des critères&quot; sont chaque fois remplacés par les mots &quot;un ou plusieurs des critères&quot;;</li>\n        <li class=\"sub-provision\" data-marker=\"d)\">dans le 8°, les mots &quot;l'un des critères&quot; sont remplacés par les mots &quot;un ou plusieurs des critères&quot;;</li>\n        <li class=\"sub-provision\" data-marker=\"e)\">dans les 10° et 11°, les mots &quot;l'un des critères&quot; sont chaque fois remplacés par les mots &quot;un ou plusieurs des critères&quot;;</li>\n        <li class=\"sub-provision\" data-marker=\"f)\">dans le 13°, les mots &quot;de l'un des critères&quot; sont remplacés par les mots &quot;d'un ou plusieurs des critères&quot;.</li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.850Z",
+  "tokenUsage": {
+    "prompt": 1959,
+    "completion": 448,
+    "total": 2407
+  }
+}

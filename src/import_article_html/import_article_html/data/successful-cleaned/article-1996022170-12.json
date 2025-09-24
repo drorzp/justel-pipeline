@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022170",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 58bis, § 2, de la même loi, inséré par l'arrêté royal n° 530 du 31 mars 1987, est remplacé par la disposition suivante :</p>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les dispositions des articles 51, 52 et 52bis ne sont pas applicables aux missions visées au § 1, 2°, 3° et 5°.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.898Z",
+  "tokenUsage": {
+    "prompt": 1559,
+    "completion": 198,
+    "total": 1757
+  }
+}

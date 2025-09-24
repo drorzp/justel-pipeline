@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999027479",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 88, sub article 1er du décret du 27 novembre 1997 modifiant le Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine, le:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">est remplacé par la disposition suivante:</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans les cas visés à l'article 84, § 1er,</span>\n        </li>\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">13°; &quot;. Dans le même article, est inséré, entre les alinéas 1er et 2, un nouvel alinéa rédigé comme suit: &quot; La durée du permis peut être limitée s'il est relatif à des actes et travaux dans une zone qui n'est pas destinée à l'urbanisation.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.289Z",
+  "tokenUsage": {
+    "prompt": 1732,
+    "completion": 351,
+    "total": 2083
+  }
+}

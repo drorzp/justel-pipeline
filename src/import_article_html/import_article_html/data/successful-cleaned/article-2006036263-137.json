@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036263",
+  "articleNumber": "137",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-137\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 137</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 4 avril 2003 instaurant un régime de primes pour des sites protégés, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 3° est remplacé par la disposition suivante : \" 3° agence : l'entité de l'agence \"RO-Vlaanderen\" du Ministère flamand de l'Aménagement du Territoire, de la Politique du Logement et du Patrimoine immobilier qui est chargée de la protection du patrimoine immobilier;\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le point 9°, les mots \"approuvé par le Ministre ou son délégué\" et les mots \"que le Ministre ou son délégué désigne\" sont supprimés et les mots \"l'article 16\" sont remplacés par les mots \"l'article 32\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans les points 12°, 13° et 14°, les mots \"que le Ministre ou son délégué désigne comme telles\" sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le point 16°, les mots \"accordée par le Ministre ou son délégué au preneur de prime\" et les mots \"approuvés par le ministre ou son délégué\", sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">le point 17° est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">dans le point 18°, les mots \"accordée par le Ministre ou son délégué à un preneur de prime\" sont supprimés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.727Z",
+  "tokenUsage": {
+    "prompt": 2147,
+    "completion": 564,
+    "total": 2711
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042233",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 14 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, le 1°, 2° et 3° sont remplacés par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">le Directeur scientifique, en qualité de président ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">cinq personnalités scientifiques choisies en dehors de l'établissement en raison de leur compétence dans les disciplines scientifiques dont relèvent les collections du Musée.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 2, les mots \" double du Directeur et du Directeur scientifique ou, à leur défaut, par le Directeur général \" sont remplacés par les mots \" du Directeur scientifique ou, à son défaut, par l'Administrateur général \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'alinéa 2 est complété par la phrase suivante \" Ils sont choisis au sein des universités francophones disposant de troisièmes cycles dans les disciplines pertinentes pour le Musée, de manière à représenter l'ensemble de la communauté universitaire.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.887Z",
+  "tokenUsage": {
+    "prompt": 1938,
+    "completion": 450,
+    "total": 2388
+  }
+}

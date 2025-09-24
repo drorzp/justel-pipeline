@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024204576",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article D.38 du même Code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, sont insérés les 10° et 11° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"10°\">\n              <span class=\"provision-text\">lorsque la demande porte exclusivement sur l'installation d'équipements d'énergie solaire d'une capacité inférieure ou égale à 15 kW;</span>\n            </li>\n            <li class=\"provision\" data-number=\"11°\">\n              <span class=\"provision-text\">lorsque la demande porte exclusivement sur l'installation d'une pompe à chaleur.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par un alinéa rédigé comme suit :</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\" Par dérogation à l'alinéa 1er, le service désigné par le Gouvernement ne soumet pas à réunion de patrimoine la demande qui porte exclusivement sur l'installation d'équipements d'énergie solaire d'une capacité inférieure ou égale à 15 kW visée à l'alinéa 1er, 10°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.754Z",
+  "tokenUsage": {
+    "prompt": 1882,
+    "completion": 417,
+    "total": 2299
+  }
+}

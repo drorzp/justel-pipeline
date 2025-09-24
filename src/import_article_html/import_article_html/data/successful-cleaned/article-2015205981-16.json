@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015205981",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La Chambre de Concertation et d'Agrément se compose :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">du président et du vice-président de la Chambre des Métiers;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">du président et du vice-président de la Chambre Enseignement-Formation;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">de la direction du Service;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">du directeur de la cellule exécutive du Consortium de validation des compétences;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">d'un représentant de chacune des parties à l'accord.</span></li>\n      </ol>\n      <p>Au moment de l'examen des profils métiers et des profils de formation, la Chambre de Concertation et d'Agrément peut solliciter l'expertise du méthodologiste qui a accompagné la commission chargée de l'élaboration de ces profils. Les membres désignés au présent article, 1° et 2°, ont voix délibérative.</p>\n      <p>Les membres désignés au présent article, 3° à 5°, ont voix consultative.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.304Z",
+  "tokenUsage": {
+    "prompt": 1864,
+    "completion": 404,
+    "total": 2268
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006021363",
+  "articleNumber": "257",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-257\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 257</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 143, § 3, de la même loi, abrogé par la loi du 24 décembre 2002 et rétabli par la loi du 13 décembre 2006, les mots \"l'article 73bis, 2°, 7° et 8°\" sont remplacés par les mots \"l'article 73bis, 1°, 2°, 3°, 7° et 8°\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.832Z",
+  "tokenUsage": {
+    "prompt": 1545,
+    "completion": 178,
+    "total": 1723
+  }
+}

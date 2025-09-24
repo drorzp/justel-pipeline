@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019200641",
+  "articleNumber": "46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 46</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">- Obligations pour conserver l'agréation Pour conserver l'agréation, les prestataires remplissent les obligations suivantes:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">respect des obligations mises à l'octroi de l'agréation conformément à l'article 43</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">respect des obligations mentionnées à l'article 35, alinéa 1er, 2° à 4°, 6° et 7°.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Le Gouvernement peut:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">préciser les obligations mentionnées à l'alinéa 1er</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">fixer d'autres obligations pour conserver l'agréation.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.419Z",
+  "tokenUsage": {
+    "prompt": 1818,
+    "completion": 354,
+    "total": 2172
+  }
+}

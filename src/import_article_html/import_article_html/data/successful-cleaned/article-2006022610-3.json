@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006022610",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le Fonds des accidents du travail peut renoncer à l'application de l'article 9 de l'arrêté royal du 30 décembre 1976 portant exécution de certaines dispositions de l'article 59quater de la loi du 10 avril 1971 sur les accidents du travail en ce qui concerne les montants visés à l'article 59, 4° et 5°, de la loi, lorsque l'employeur a payé les cotisations pour affiliation d'office et les montants à récupérer dans les trois mois qui suivent la date de la notification de la créance.</p>\n            <p>Toutefois, l'employeur doit avoir payé un acompte de 10 p.c. du montant principal au cours du délai réglementaire.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.668Z",
+  "tokenUsage": {
+    "prompt": 1659,
+    "completion": 235,
+    "total": 1894
+  }
+}

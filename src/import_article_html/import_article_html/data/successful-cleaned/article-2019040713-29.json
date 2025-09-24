@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040713",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 29</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          A l'article 37 du décret du 13 juillet 1998 précité, l'alinéa 3 est supprimé et l'alinéa 6, devenant l'alinéa 5, est remplacé comme suit : \n          \" Les transferts des périodes octroyées dans le cadre du décret du 7 février 2019 visant à l'accueil, la scolarisation et l'accompagnement des élèves qui ne maîtrisent pas la langue de l'enseignement dans l'enseignement organisé ou subventionné par la Communauté française, sont autorisés entre établissements de mêmes pouvoirs organisateurs ou de pouvoirs organisateurs différents lorsque ces établissements sont associés à la tâche d'insertion des primo-arrivants conformément aux articles 17 et 18 du décret du 7 février 2019 précité.\n        </p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          A l'article 41, § 2, du décret du 13 juillet 1998 précité, l'alinéa 4 est supprimé et l'alinéa 5, devenant l'alinéa 4, est remplacé par : \n          \" Les élèves tels que définis à l'article 2, § 1er, 1° et 2°, du décret du 7 février 2019 visant à l'accueil, la scolarisation et l'accompagnement des élèves qui ne maîtrisent pas la langue de l'enseignement dans l'enseignement organisé ou subventionné par la Communauté française, ou qui l'ont été dans une des deux années scolaires précédentes sont comptés pour 1,5.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.379Z",
+  "tokenUsage": {
+    "prompt": 2099,
+    "completion": 495,
+    "total": 2594
+  }
+}

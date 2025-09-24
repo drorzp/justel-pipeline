@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040958",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le même arrêté, modifié par les arrêtés du Gouvernement flamand des 15 juillet 2011 et 28 mars 2014, il est inséré un article 21/1 ainsi rédigé :</p>\n            <blockquote class=\"article-quote\">\n                <p class=\"quote-text\">\" Art. 21/1. Les périodes d'emploi avant le 1er janvier 2018 qui ont été prises conformément à l'article 3, alinéa 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"5°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"6°\">\n                        <span class=\"provision-text\">de l'arrêté du Gouvernement flamand du 3 juillet 2009 relatif à l'octroi d'un congé pour l'exercice d'un autre emploi pour certains membres du personnel des centres d'éducation de base, sont également éligibles à l'octroi d'augmentations de traitement périodiques visées à l'article 4 du présent arrêté.</span>\n                    </li>\n                </ol>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.624Z",
+  "tokenUsage": {
+    "prompt": 1763,
+    "completion": 342,
+    "total": 2105
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019015074",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les parties à un contrat de bail à ferme peuvent conclure une clause prévoyant l'interdiction :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">de combler, drainer ou remblayer des fossés, des mares, des points d'eau et des zones humides ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de couper des arbres ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">d'enlever des arbres tombés ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">de créer des fossés ;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">de modifier le tracé et le lit naturel des cours d'eau et des cours d'eau non classés ;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">de modifier ou supprimer des chemins.</span></li>\n      </ol>\n      <p class=\"intro-text\">Les interdictions prévues à l'alinéa 1er peuvent être levées moyennant un accord préalable et écrit du bailleur. En cas de force majeure ou de sécurité publique, l'accord préalable et écrit du bailleur n'est pas nécessaire pour l'application de l'alinéa 1er, 2° et 3°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.393Z",
+  "tokenUsage": {
+    "prompt": 1896,
+    "completion": 433,
+    "total": 2329
+  }
+}

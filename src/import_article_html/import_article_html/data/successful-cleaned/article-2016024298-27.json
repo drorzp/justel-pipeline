@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016024298",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 142 de la même loi, rétabli par la loi du 13 décembre 2006 et modifié par les lois des 27 décembre 2006, 29 mars 2012, 19 mars 2013 et 10 avril 2014, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, 7°, les mots \"9° et 10° \" sont insérés après le mot \"7° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 2, alinéa 2, le mot \"deux\" est remplacé par le mot \"trois\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 3, alinéa 1er, 2°, les mots \"1°, 2°, 3° et 7° \" sont remplacés par les mots \"1°, 2°, 3°, 7°, 9° et 10° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.289Z",
+  "tokenUsage": {
+    "prompt": 1859,
+    "completion": 382,
+    "total": 2241
+  }
+}

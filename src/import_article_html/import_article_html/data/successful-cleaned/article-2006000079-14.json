@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006000079",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le premier renouvellement intégral du Conseil se fera le 27 janvier 2007.</p>\n      <p class=\"intro-text\">Les membres visés à l'article 1er,4°, 5°, 6°, 7°, 8°, 9°, 10°, 23° et 24° ainsi que la moitié des membres visés à l'article 1er, 13° et 14° du présent arrêté sont nommés pour une période qui s'achève le 26 janvier 2007.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.801Z",
+  "tokenUsage": {
+    "prompt": 1682,
+    "completion": 195,
+    "total": 1877
+  }
+}

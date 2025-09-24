@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002003381",
+  "articleNumber": "102",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-102\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 102</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 35, § 3, de la même loi est remplacé par la disposition suivante :</p>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>La convention de premier emploi prend fin automatiquement lorsque le contrat de travail visé à l'article 27, 1° et 2°, ainsi que les formations, les contrats et les conventions visés à l'article 27, 2° et 3°, prennent fin.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.798Z",
+  "tokenUsage": {
+    "prompt": 1553,
+    "completion": 195,
+    "total": 1748
+  }
+}

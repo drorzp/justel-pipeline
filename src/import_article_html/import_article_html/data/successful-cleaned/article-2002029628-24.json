@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029628",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Un § 6bis , rédigé comme suit, est inséré dans l'article 19 du même décret :</p>\n    <section class=\"paragraph\" id=\"para-6bis\">\n      <h3 class=\"paragraph-marker\">§ 6bis.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les cas visés au 5°, 10° et 11° du § 1er, par dérogation au § 3, la commission paritaire est convoquée chaque fois que le Ministre ayant l'Audiovisuel dans ses attributions en fait la demande au Président. Pour les cas visés au 5° et 10° du § 1er, la saisine de la commission paritaire est obligatoire.</p>\n        <p>Par dérogation aux §§ 4 et 6, elle émet dans les cas visés au 5°, 10° et 11° du § 1er, un avis motivé dans un délai d'un mois à dater de la réception des projets ou des dossiers. Lorsque le ministre justifie l'urgence, le délai est porté à 10 jours.</p>\n        <p>Cet avis se présente sous la forme d'un protocole qui résume la discussion et acte soit l'avis unanime de la commission paritaire, soit la position respective des parties.</p>\n        <p>Pour le cas visé au 10° du § 1er, le Gouvernement est lié par le protocole lorsque celui-ci a reçu l'accord de toutes les parties.</p>\n        <p>Le § 5 n'est pas applicable dans les cas visés au 5°, 10° et 11° du § 1er.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.747Z",
+  "tokenUsage": {
+    "prompt": 2329,
+    "completion": 435,
+    "total": 2764
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048419",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 36</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 149, § 3, de la loi du 25 avril 2014 portant des dispositions diverses en matière de Justice, les mots \"dix ans\" dans les dispositions:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">sont chaque fois remplacés par les mots \"douze ans\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.501Z",
+  "tokenUsage": {
+    "prompt": 1544,
+    "completion": 213,
+    "total": 1757
+  }
+}

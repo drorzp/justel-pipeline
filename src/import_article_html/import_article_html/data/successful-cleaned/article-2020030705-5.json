@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020030705",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 7.4.3, § 4 de l'Arrêté relatif à l'énergie du 19 novembre 2010, inséré par l'arrêté du Gouvernement flamand du 13 septembre 2013 et modifié par les arrêtés du Gouvernement flamand des 17 juillet 2015, 27 novembre 2015 et 30 novembre 2018, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au premier alinéa, les phrases \" Un appel auprès d'une juridiction administrative suspend les délais, visés à l'alinéa 1er, 1°, 2° et 3°. Le Ministre peut prolonger le délai, visé au 1° sur demande motivée. \" sont abrogées ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">entre les premier et deuxième alinéas sont insérés deux alinéas ainsi rédigés :</span>\n                    <p class=\"inserted-text\">\" Un appel auprès d'une juridiction administrative suspend les délais visés à l'alinéa premier. Le Ministre peut prolonger le délai visé à l'alinéa premier, 1° sur demande motivée. Le Ministre peut prolonger une seule fois pour une période maximale de vingt-quatre mois le délai visé au premier alinéa, 3°, pour les projets qui, au moment du dépôt de la demande d'aide, n'étaient pas encore soumis au permis de recherche et d'extraction visé au décret du 8 mai 2009 concernant le sous-sol profond.</p>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.259Z",
+  "tokenUsage": {
+    "prompt": 2144,
+    "completion": 467,
+    "total": 2611
+  }
+}

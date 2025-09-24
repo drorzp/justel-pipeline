@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011205367",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le même arrêté, il est inséré un chapitre III/1, composé d'un article 8/1, rédigé comme suit : \"CHAPITRE III/1 Congé exceptionnel pour cause de force majeure Art. 8/1. Au membre du personnel, visé à l'article 1er, un congé exceptionnel peut être accordé suite à la maladie ou un accident d'une des personnes suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le conjoint ou le partenaire cohabitant;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un parent ou allié habitant sous le même toit;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">une personne accueillie en vue de son adoption ou de l'exercice d'une tutelle officieuse habitant sous le même toit;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">un parent ou allié au premier degré qui ne vit pas sous le même toit.</span></li>\n            </ol>\n            <p>La nécessité du congé, visé au premier alinéa, est prouvée au moyen d'un certificat médical.</p>\n            <p>Dans les situations, visées au premier alinéa, 1°, 2° et 3°, le congé est assimilé à une période d'activité de service et est rémunéré. La durée du congé s'élève à maximum quatre jours par année calendaire.</p>\n            <p class=\"closing-text\">Dans la situation, visée au premier alinéa, 4°, le membre du personnel intéressé peut prendre au maximum quatre jours par année calendaire le congé comme congé non rémunéré assimilé à une période d'activité de service, ou comme un jour de vacances acquis déduit du nombre de jours de vacances.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.227Z",
+  "tokenUsage": {
+    "prompt": 2117,
+    "completion": 523,
+    "total": 2640
+  }
+}

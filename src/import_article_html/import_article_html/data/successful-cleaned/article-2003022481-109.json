@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003022481",
+  "articleNumber": "109",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-109\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 109</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le Roi peut, aux conditions qu'Il fixe, instaurer un régime:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">d'assurances complémentaires au régime d'assurance d'avantages extra-légaux qu'Il a instauré en vertu de l'article 22, § 2, de la loi du 12 juillet 1957 relative à la pension de retraite et de survie des employés</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">d'avantages de pension extra-légaux et d'assurances complémentaires pour les personnes visées à l'article 32, alinéa 1er, 1° et 2° du Code des impôts sur les revenus 1992.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.818Z",
+  "tokenUsage": {
+    "prompt": 1750,
+    "completion": 279,
+    "total": 2029
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1983012033",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les mentions visées à l'article 15, 9°, 11° et 12° de l'arrêté royal du 8 août 1980 peuvent être inscrites sur le compte individuel sous la forme de codes, à condition que les travailleurs et les fonctionnaires et agents chargés de la surveillance de l'exécution du présent arrêté puissent, à tout moment, connaître la signification desdits codes.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les mentions visées à l'article 15, 13° et 14° de l'arrêté royal du 8 août 1980 ne doivent pas être inscrites sur le compte individuel; les mentions suivantes doivent figurer sur le compte individuel :</p>\n        <ol class=\"sub-provisions\">\n          <li class=\"sub-provision\" data-marker=\"a)\">la date de la reconnaissance comme travailleur portuaire par la sous-commission paritaire;</li>\n          <li class=\"sub-provision\" data-marker=\"b)\">la date de la fin de cette reconnaissance.</li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.677Z",
+  "tokenUsage": {
+    "prompt": 1812,
+    "completion": 360,
+    "total": 2172
+  }
+}

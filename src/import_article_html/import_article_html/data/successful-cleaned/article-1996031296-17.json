@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996031296",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsque le Membre du Collège intéressé ne peut se rallier à un avis défavorable émis par un Inspecteur des Finances sur une des propositions visées à l'article 14, 2° et 3°, il saisit de la proposition, suivant le cas, le Membre du Collège qui a le budget ou la fonction publique dans ses attributions.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Membre du Collège saisi de la proposition dispose d'un délai de 20 jours calendrier à compter de la réception de la demande pour se prononcer sur la proposition. Si le Membre du Collège ne s'est pas prononcé dans le délai précité, il est censé donner son accord sur la proposition.</p>\n        <p>Par une décision motivée signifiée au Membre du Collège intéressé, le délai visé à l'alinéa 1er peut être prolongé au maximum de 10 jours.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si le Membre du Collège saisi de la proposition ne peut donner son accord sur la proposition, le Membre du Collège intéressé peut la soumettre au Collège.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.107Z",
+  "tokenUsage": {
+    "prompt": 1944,
+    "completion": 441,
+    "total": 2385
+  }
+}

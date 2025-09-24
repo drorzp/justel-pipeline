@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040574",
+  "articleNumber": "77",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-77\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 77</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 24 du même décret, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er les modifications suivantes sont apportées :\n            <ol class=\"sub-provisions\">\n              <li class=\"sub-provision\" data-marker=\"a)\">au 3° les mots \" de l'Administrateur général de l'Infrastructure \" sont remplacés par les mots \" du directeur général des infrastructures \" ;</li>\n              <li class=\"sub-provision\" data-marker=\"b)\">au 4° les mots \" handicapées et/ou à besoins spécifiques \" sont remplacés par les mots \" en situation de handicap \" ;</li>\n              <li class=\"sub-provision\" data-marker=\"c)\">au 5° les mots \" Agence wallonne pour l'Intégration de la Personne handicapée \" sont remplacés par les mots \" l'Agence pour une Vie de Qualité \" ;</li>\n              <li class=\"sub-provision\" data-marker=\"d)\">au 8° les mots \" de la psychologie, médicale, paramédicale et sociale \" sont remplacés par les mots \" médical, paramédical, social et psychologique \" ;</li>\n              <li class=\"sub-provision\" data-marker=\"e)\">au 9° les mots \" d'un représentant \" sont remplacés par les mots \" deux représentants \" ;</li>\n            </ol>\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 3, les mots \" aux 5 et 6 \" sont remplacés par les mots \" aux 5° et 6° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">à l'alinéa 4, le mot \" Commission \" est remplacé par le mot \" CESI \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.380Z",
+  "tokenUsage": {
+    "prompt": 2091,
+    "completion": 540,
+    "total": 2631
+  }
+}

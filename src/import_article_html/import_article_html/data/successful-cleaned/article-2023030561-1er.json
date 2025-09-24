@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030561",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Dans le texte néerlandais des articles 2, § 2, alinéa 2,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">et 4, § 2, alinéa 1er,</span>\n                    </li>\n                </ol>\n                <p>2°, de l'arrêté royal du 21 décembre 2022 visant à déterminer les conditions liées aux déclarations électroniques en matière d'état civil, le mot \" woonplaats \" est chaque fois remplacé par le mot \" geboorteplaats \".</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.711Z",
+  "tokenUsage": {
+    "prompt": 1587,
+    "completion": 246,
+    "total": 1833
+  }
+}

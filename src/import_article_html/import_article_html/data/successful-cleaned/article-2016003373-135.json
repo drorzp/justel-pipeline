@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003373",
+  "articleNumber": "135",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-135\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 135</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans les articles 4,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">a)</span>\n            <ol>\n              <li class=\"sub-provision\" data-marker=\"a)\">et</li>\n              <li class=\"sub-provision\" data-marker=\"d)\">5°</li>\n            </ol>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.316Z",
+  "tokenUsage": {
+    "prompt": 1627,
+    "completion": 205,
+    "total": 1832
+  }
+}

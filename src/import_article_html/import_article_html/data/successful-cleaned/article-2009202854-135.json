@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202854",
+  "articleNumber": "135",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-135\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 135</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 20, alinéa 2, du même décret, les 1° et 2° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">une description du concept pédagogique global, y compris les méthodes pédagogiques et les mesures de soutien individuel de l'élève, qui est appliqué dans l'école concernée, respectivement dans le groupe d'apprentissage</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la structure organisationnelle de l'école au niveau pédagogique, notamment les critères de répartition des élèves dans les classes, respectivement en groupes d'apprentissage, et la guidance d'élèves pour lesquels la nécessité d'un soutien pédagogique spécialisé a été établie</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Dans l'article 20, alinéa 2, du même décret, le 5° est abrogé.</p>\n      <p class=\"closing-text\">Dans le même article, deux nouveaux alinéas rédigés comme suit sont insérés après l'alinéa 2 :</p>\n      <p class=\"closing-text\">\"Sans préjudice du premier alinéa, le projet d'établissement comprend également, dans l'enseignement ordinaire, la description des mesures qui sont prises pour les élèves nécessitant un soutien pédagogique spécialisé, y compris les formes de coopération avec des écoles spécialisées ou d'autres services et établissements reconnus par le Gouvernement ou l'Office pour les personnes handicapées.</p>\n      <p class=\"closing-text\">Sans préjudice du premier alinéa, le projet d'établissement comprend également, dans l'enseignement spécialisé, le processus de guidance pour tous les enfants nécessitant un soutien pédagogique spécialisé, indépendamment de leur lieu de soutien respectif.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.315Z",
+  "tokenUsage": {
+    "prompt": 2046,
+    "completion": 495,
+    "total": 2541
+  }
+}

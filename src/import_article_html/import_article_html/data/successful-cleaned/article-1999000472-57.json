@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999000472",
+  "articleNumber": "57",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-57\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 57</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les sanctions disciplinaires définitives portées à la connaissance de l'intéressé sont portées, sans délai, au feuillet des sanctions disciplinaires.</p>\n      <p class=\"intro-text\">Sans préjudice de leur exécution, les sanctions disciplinaires visées à l'article 4,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">1°</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2°, sont effacées d'office du feuillet des sanctions disciplinaires à l'issue d'une période de deux ans [...], pour autant qu'aucune nouvelle sanction disciplinaire ne soit intervenue dans ce délai.</span>\n          <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2001-05-31/39\" data-law-type=\"L\" data-article-number=\"35\" data-effective-date=\"01-04-2001\">&lt;L 2001-05-31/39, art. 35, 003; En vigueur : 01-04-2001&gt;</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Sans préjudice de leur exécution, les sanctions disciplinaires lourdes sont effacées d'office du feuillet des sanctions disciplinaires à l'issue d'une période de cinq ans, pour autant qu'aucune nouvelle sanction disciplinaire ne soit intervenue dans ce délai.</p>\n      <p class=\"closing-text\">Les délais fixés aux alinéas 2 et 3 courent à partir de la date à laquelle la sanction disciplinaire a été prononcée (définitivement).</p>\n      <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2001-05-31/39\" data-law-type=\"L\" data-article-number=\"35\" data-effective-date=\"01-04-2001\">&lt;L 2001-05-31/39, art. 35, 003; En vigueur : 01-04-2001&gt;</span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.125Z",
+  "tokenUsage": {
+    "prompt": 2037,
+    "completion": 553,
+    "total": 2590
+  }
+}

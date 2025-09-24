@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006011531",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 25</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 19 du même arrêté sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">aux points 1° et 3°, les mots \" intermédiation en assurances \" et \" intermédiaire d'assurances \" sont remplacés respectivement par les mots \" intermédiation en assurances ou en réassurances \" et \" intermédiaire d'assurances ou de réassurances \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au point 2°, les mots \" F 30 000 000 \", \" F 100 000 000 \", \" 1995 \" et \" (base 1988 = 100) \" sont remplacés respectivement par les mots (\" 1 000 000 euros \", \" 3 000 000 euros \", \" 2006 \" et \" (base 2004 = 100) \");</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au point 3°, les mots \" F 30 000 000 \", \" F 25 000 \", \" 1995 \" et \" (base 1988 = 100) \" sont remplacés respectivement par les mots (\" 750 000 euros \", \" 625 euros \", \" 2006 \" et \" (base 2004 = 100) \"), et, dans la dernière phrase, le signe de ponctuation \". \" est remplacé par le signe de ponctuation \" ; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">après le point 3°, il est ajouté un nouveau point, rédigé comme suit : \" 4° L'assurance de responsabilité professionnelle doit couvrir l'ensemble du territoire de l'Espace économique européen.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.828Z",
+  "tokenUsage": {
+    "prompt": 2115,
+    "completion": 523,
+    "total": 2638
+  }
+}

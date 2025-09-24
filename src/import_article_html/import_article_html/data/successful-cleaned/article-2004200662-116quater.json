@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004200662",
+  "articleNumber": "116quater",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-116quater\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 116quater</h2>\n    </header>\n    <div class=\"article-content\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2008-10-23/37\" data-law-type=\"DRW\" data-article-number=\"31\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Le taux de la subvention s'élève à 30 % du coût des acquisitions, travaux et honoraires visés à l'article 116bis.</p>\n                    <p>Par dérogation à l'alinéa 1er, le taux de la subvention s'élève à 50 % du coût des investissements visé à l'article l16ter, 1°, 5°, 9° et 10°.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Aucune subvention ne peut être accordée lorsque le coût des acquisitions, travaux et honoraires est inférieur à 5.000 euros par village de vacances, taxe sur la valeur ajoutée déductible non comprise.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 3.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Le montant total des subventions accordées pour un village de vacances ne peut dépasser 50.000 euros par période de trois ans, même s'il y a changement de propriétaire.</p>\n                </div>\n            </section>\n        </span>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.695Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 422,
+    "total": 2370
+  }
+}

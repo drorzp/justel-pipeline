@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022328",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 35, § 2, de la même loi, les 1°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">sont complétés comme suit :</span></li>\n      </ol>\n      <p class=\"closing-text\">&quot; [...] et à la Commission de contrôle budgétaire.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.966Z",
+  "tokenUsage": {
+    "prompt": 1519,
+    "completion": 200,
+    "total": 1719
+  }
+}

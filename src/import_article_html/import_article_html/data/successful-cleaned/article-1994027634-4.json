@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994027634",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1998-01-22/41\" data-law-type=\"ARW\" data-article-number=\"1\">&lt;ARW 1998-01-22/41, art. 1, 004; En vigueur : 24-02-1998&gt;</span> Par dérogation à l'article 18, alinéa 1er, 1° et 3°, du statut, les fonctionnaires lauréats des examens d'avancement au grade de chef opérateur mécanographe de 1ère classe ou au grade de chef opérateur mécanographe de 2ème classe d'une session antérieure à 1995 doivent compter une ancienneté de trois ans dans le grade D3 pour la promotion, par avancement de grade, au grade de rang D2.\n            </p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Par dérogation à l'article 21 du statut, les fonctionnaires lauréats des examens d'avancement aux grades de chef opérateur mécanographe de 1ère classe ou de chef électricien d'une session antérieure à 1995 sont promus prioritairement aux fonctionnaires non lauréats de ces examens, pour la promotion, par avancement de grade, au grade de rang D1.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Par dérogation à l'article 21 du statut, les fonctionnaires lauréats des examens d'avancement au grade de chef opérateur mécanographe de 2e classe d'une session antérieure à 1995 sont promus prioritairement aux fonctionnaires non lauréats de ces examens, pour la promotion, par avancement de grade, au grade de rang D2.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.943Z",
+  "tokenUsage": {
+    "prompt": 2083,
+    "completion": 523,
+    "total": 2606
+  }
+}

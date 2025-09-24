@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022489",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 23, § 1er du même arrêté, modifié par les arrêtés royaux des 20 mars 1981, 20 novembre 1987 et 14 juillet 1995, le deuxième alinéa est remplacé par la disposition suivantes :</p>\n                <p>\" Celui-ci est débiteur envers l'Office national des pensions de cette cotisation. Toutefois, en ce qui concerne les cotisations reprises à l'article 22, § 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"a)\">\n                        <span class=\"provision-text\">2°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"b)\">\n                        <span class=\"provision-text\">1° et 2° relatif au période du 1er juillet 1995 jusqu'au 30 juin 2000, l'employeur est dispensé du versement à l'Office national des pensions, sans qu'il soit toutefois porté préjudice aux droits à la pension, fixées par le présent arrêté.</span>\n                    </li>\n                </ol>\n                <p>Le Roi peut sur base de l'étude quinquennale de l'Office national des pensions sur la situation financière du régime spécial de pension pour le personnel navigant de l'aviation civile, une seule fois accorder le prolongement de cinq ans de la dispense prévue à l'alinéa précédent.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.971Z",
+  "tokenUsage": {
+    "prompt": 1934,
+    "completion": 415,
+    "total": 2349
+  }
+}

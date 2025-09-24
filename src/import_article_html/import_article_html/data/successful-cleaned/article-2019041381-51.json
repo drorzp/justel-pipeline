@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041381",
+  "articleNumber": "51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-51\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 51</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 17 du même arrêté le membre de phrase &quot; à l'article 9, § 1er, 4° et 5° du décret cadre sur la politique administrative du 18 juillet 2003 et conformément à l'article 25, alinéa 1er, de l'arrêté du Gouvernement flamand du 10 octobre 2003 réglant la délégation de compétences de décision aux chefs des agences autonomisées internes de l'Administration flamande &quot; est remplacé par le membre de phrase &quot; aux articles III.61 et III.62 du décret de gouvernance du 7 décembre 2018 et conformément à l'article 26, alinéa 1er de l'arrêté du Gouvernement flamand du 30 octobre 2015 réglant la délégation de compétences de décision aux chefs des départements et des agences autonomisées internes &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.480Z",
+  "tokenUsage": {
+    "prompt": 1783,
+    "completion": 271,
+    "total": 2054
+  }
+}

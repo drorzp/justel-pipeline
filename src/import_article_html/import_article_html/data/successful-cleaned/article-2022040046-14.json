@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040046",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans la même sous-section 5, il est inséré un article 206/5 rédigé comme suit : \"Art. 206/5. Du solde des bénéfices déterminé et ventilé conformément aux articles 206/1 à 206/4 sont, dans la mesure où ils s'y retrouvent encore, déduits successivement :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les bénéfices exonérés par convention ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">globalement :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">\n                            la partie exonérée des libéralités visées à l'article 14533, § 1er, alinéa 1er, 1° à 3° et 4°, a ;\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">\n                            les autres éléments non imposables, compris dans les bénéfices et non visés au 1° ou 2°, a), notamment l'exonération pour passif social en vertu du statut unique visée à l'article 67quater, les indemnités compensatoires visées à l'article 67quinquies et les remboursements des amendes visées à l'article 53, 6°.\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le total des sommes visées à l'alinéa 1er, 2°, est déduit par priorité des bénéfices belges de la période imposable et, pour l'excédent éventuel, des bénéfices non exonérés par convention de cette période.\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.783Z",
+  "tokenUsage": {
+    "prompt": 2044,
+    "completion": 488,
+    "total": 2532
+  }
+}

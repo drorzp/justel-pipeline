@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015000177",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 51 de l'arrêté royal du 21 décembre 2006 relatif aux conditions en matière de formation et d'expérience professionnelles, aux conditions en matière d'examen psychotechnique pour l'exercice d'une fonction dirigeante ou d'exécution dans une entreprise de gardiennage ou d'un service interne de gardiennage et relatif à l'agrément des formations, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, les mots <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2006-12-21\" data-law-type=\"AR\" data-article-number=\"51\">`aux articles 9, 3°, 10, 2°, 12, 2° et 3°, 13, 1°, 14, 1°, 15, 1°, 17, 2°, 18, 1°, 19, 2°, 21, 1°, 21bis, 1°, et 22, 1° '</span> sont remplacés par les mots <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2006-12-21\" data-law-type=\"AR\" data-article-number=\"51\">`aux articles 9, 3°, 10, 2°, 12, 2° et 3°, 13, 1°, 14, 1°, 15, 1°, 17, 2°, 18, 1°, 19, 2°, 21, 1°, 21bis, 1° et 4°, et 22, 1° ';</span></span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 2 est supprimé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.216Z",
+  "tokenUsage": {
+    "prompt": 2002,
+    "completion": 529,
+    "total": 2531
+  }
+}

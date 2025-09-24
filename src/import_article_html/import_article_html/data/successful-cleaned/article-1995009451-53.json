@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995009451",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 53</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 158 des mêmes lois coordonnées, modifié par les lois des 5 décembre 1984, 20 juillet 1991 et 29 juin 1993, est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\"Art. 158. Sont applicables aux sociétés coopératives à responsabilité limitée :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'article 52ter</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">l'article 62</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">l'article 77, alinéas 1er à 4, 6 et 7</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">l'article 78, à l'exception de l'alinéa 1er, 3° et de l'alinéa 2</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">l'article 79</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">l'article 80, à l'exception de l'alinéa 2, 3°</span></li>\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">l'article 80bis</span></li>\n        <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">l'article 132bis</span></li>\n        <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">l'article 133bis.\"</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.991Z",
+  "tokenUsage": {
+    "prompt": 1974,
+    "completion": 505,
+    "total": 2479
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016021079",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'entrée en vigueur des dispositions du présent accord de coopération est fixée comme suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">concernant le chapitre 1er, les articles 1, 2, 3 et 4 produisent leurs effets le 30 juin 2014;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">concernant le même chapitre 1er, l'article 5 produit ses effets le 1er janvier 2015, à l'exception des dispositions qui visent le calcul des revenus professionnels des travailleurs indépendants qui produisent leurs effets le 30 juin 2014;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">concernant le chapitre 2, les articles 6 et 7 produisent leurs effets le 1er octobre 2014;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">concernant le chapitre 3, les articles 8 et 9 produisent leurs effets le 1er janvier 2015;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">concernant le chapitre 4, les articles 10, 11, 12, 13, à l'exception des 3° et 4°, et les articles 14 et 15 produisent leurs effets le 1er janvier 2015;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">concernant le même chapitre 4, l'article 13, 3° et 4°, produit ses effets le 30 juin 2014;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">concernant le chapitre 5, les articles 16, 17 et 18 produisent leurs effets le 1er juillet 2015.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.250Z",
+  "tokenUsage": {
+    "prompt": 2146,
+    "completion": 583,
+    "total": 2729
+  }
+}

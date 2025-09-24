@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017031388",
+  "articleNumber": "76",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-76\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 76</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les personnes visées à l'article 60, 1°, 3°, 4° et 5°, doivent être détentrices d'une carte d'identification délivrée par le ministre de l'Intérieur.</p>\n      <p>La carte d'identification a une durée de validité de cinq ans. Elle peut être renouvelée pour un délai identique.</p>\n      <p>Le Roi peut, pour des raisons de sécurité, par arrêté délibéré en Conseil des ministres, déterminer une durée de validité plus courte pour la carte d'identification des personnes qui exercent des activités à des endroits déterminés ou dans des situations déterminées.</p>\n      <p>Dans les cas déterminés par le Roi, le ministre de l'Intérieur peut délivrer une carte temporaire non renouvelable valable pour une période de six mois.</p>\n      <p>L'entreprise ou le service interne est responsable de ce que les personnes visées à l'alinéa 1er, qui travaillent pour lui, disposent d'une carte d'identification avant l'exercice de toute activité.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.714Z",
+  "tokenUsage": {
+    "prompt": 1840,
+    "completion": 311,
+    "total": 2151
+  }
+}

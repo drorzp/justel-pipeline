@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010903",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 34 de l'annexe Ire au même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, le membre de phrase \" les articles 25, § 2, alinéa premier, 1°, 26, 1° et 27, alinéa premier, 1° \" est remplacé par le membre de phrase \" les articles 25, § 2, 1°, et 27, § 1er, alinéa premier, 1° \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 2, le membre de phrase \" les articles 25, § 2, alinéa premier, 2°, 3° et 4°, 26, 2°, 3° et 4° et 27, premier alinéa 2°, 3° et 4°, \" est remplacé par le nombre de phrase \" les articles 25, § 2, 2°, 3° et 4°, et 27, § 1er, alinéa premier, 2°, 3° et 4° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.750Z",
+  "tokenUsage": {
+    "prompt": 1906,
+    "completion": 392,
+    "total": 2298
+  }
+}

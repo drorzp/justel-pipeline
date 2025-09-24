@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014031770",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 20 du même arrêté, les 3° et 5° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Les attestations quant à la nature des droits réels dont dispose le demandeur sur l'immeuble;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">Un mémoire indiquant les raisons qui justifient l'exécution des travaux proposés ou l'achat des équipements ou mobiliers proposés. Ce mémoire doit comporter les éléments suivants :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              <span>les plans, surfaces et affectations des locaux pour la situation existante;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              <span>le territoire à desservir;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"c)\">\n              <span>pour le bâtiment existant, la description des lieux et du bâtiment (ancienneté, vétusté);</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"d)\">\n              <span>une note relative à l'environnement, aux voies d'accès et moyens de transport;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"e)\">\n              <span>une ébauche de projet de collectif.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.329Z",
+  "tokenUsage": {
+    "prompt": 1895,
+    "completion": 441,
+    "total": 2336
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025002457",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5 du même arrêté, les mots \" Les articles 3, hormis le § 1er, 2° et 3°, 4, 6 à 16, 17, hormis l'alinéa 4, 23, 24, et 26 à 28 \" sont remplacés par les mots \" Les articles 3, hormis le § 1er, 2° et 3°, 3/1, 4, 6 à 16, 17, hormis l'alinéa 4, 23, 24, 25/1, 25/2 et 26 à 28 \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.714Z",
+  "tokenUsage": {
+    "prompt": 1714,
+    "completion": 228,
+    "total": 1942
+  }
+}

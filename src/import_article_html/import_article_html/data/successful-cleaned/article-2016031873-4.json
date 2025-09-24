@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016031873",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Chaque fournisseur fournit les informations visées à l'article 3, § 2,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">Aucune notification n'est requise pour les fournisseurs agréés conformément à l'article 11, § 1er, de l'arrêté du 3 mars 2005.</span></li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les fournisseurs notifient au Service tout changement de situation concernant les informations visées à l'article 3, § 2,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Service informe les fournisseurs de leur enregistrement et de toute modification de celui-ci dans un délai de trente jours ouvrables à partir de la date de réception de la demande d'enregistrement ou de modification de l'enregistrement.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.228Z",
+  "tokenUsage": {
+    "prompt": 1901,
+    "completion": 474,
+    "total": 2375
+  }
+}

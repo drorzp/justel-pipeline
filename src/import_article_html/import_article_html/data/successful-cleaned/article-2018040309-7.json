@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018040309",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    L'article 1er, 4°, du présent arrêté entre en vigueur le 1er septembre 2018.\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    Les articles 1er, 3° et 2, 2°, du présent arrêté entrent en vigueur le 1er novembre 2018.\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 3.</h3>\n                <div class=\"paragraph-content\">\n                    Les articles 1er, 1°, 2°, 5° à 7°, 2, 1° et 3°, 3 et 4 du présent arrêté entrent en vigueur le 1er décembre 2018.\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.348Z",
+  "tokenUsage": {
+    "prompt": 1630,
+    "completion": 301,
+    "total": 1931
+  }
+}

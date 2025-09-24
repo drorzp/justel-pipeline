@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996027212",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un article 2bis, rédigé comme suit, est inséré dans l'arrêté du Gouvernement wallon du 9 juin 1994 déterminant les conditions d'octroi des prêts hypothécaires accordés par la Société régionale wallonne du Logement :</p>\n            <p class=\"intro-text\">\"Article 2bis. Le conseil d'administration de la société ne peut accorder des prêts hypothécaires aux personnes physiques dont les revenus sont visés à l'article 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5°</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">6°</span></li>\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">7°</span></li>\n            </ol>\n            <p class=\"intro-text\">du présent arrêté qu'à concurrence de 20 % maximum du volume des programmes d'investissements.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.106Z",
+  "tokenUsage": {
+    "prompt": 1661,
+    "completion": 315,
+    "total": 1976
+  }
+}

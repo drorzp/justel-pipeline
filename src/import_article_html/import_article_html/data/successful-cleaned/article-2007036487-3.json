@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036487",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 des mêmes décrets sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au point 1°, modifié par le décret du 3 février 1994, les mots \" Vlaamse Huisvestingsmaatschappij \" sont remplacés par les mots \" Vlaamse Maatschappij voor Sociaal Wonen\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux points 2°, 3°, 5° et 6°, les mots \" personnes âgées \" sont remplacés chaque fois par le mot \" seniors \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au 6°, le mot \"établissement\" est remplacé par le mot \"structure\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le point 7°, abrogé par le décret du 14 juillet 1998, est rétabli dans la rédaction suivante : \" 7° centre de court séjour : les locaux dans une maison de repos dans lesquels sont offerts aux seniors des nuitées ou un séjour pour une période restreinte, assortis des soins familiaux et ménagers habituels; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.974Z",
+  "tokenUsage": {
+    "prompt": 1883,
+    "completion": 407,
+    "total": 2290
+  }
+}

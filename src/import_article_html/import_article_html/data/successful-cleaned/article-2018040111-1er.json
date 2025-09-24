@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018040111",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er du décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française, les 10°, 11° et 12° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">\"Télévisions locales et fédération de télévisions locales : le secteur d'activités réglementé par le Décret coordonné du 26 mars 2009 sur les services de médias audiovisuels\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">\"Ateliers de production et d'accueil : le secteur réglementé par le Chapitre 1er du Titre VI du décret du 10 novembre 2011 relatif au soutien au cinéma et à la création audiovisuelle, à l'exception des ateliers d'écoles visés à l'article 62,</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"3°\">\n              <span class=\"provision-text\">et le Chapitre II du titre IX du Décret coordonné du 26 mars 2009 sur les services de médias audiovisuels pour ce qui concerne l'atelier de création sonore et radiophonique\"</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"12°\">\n          <span class=\"provision-text\">\"Point-Culture\" : l'organisme agréé par l'arrêté royal du 7 avril 1971 fixant les conditions d'octroi de subventions à la Médiathèque francophone de Belgique et les conditions d'agréation et d'octroi de subventions aux organismes régionaux et locaux assurant le prêt de moyens audiovisuels au service de l'éducation permanente, devenu \"Point Culture\" par modification de ses statuts du 5 juillet 2013.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.349Z",
+  "tokenUsage": {
+    "prompt": 2137,
+    "completion": 541,
+    "total": 2678
+  }
+}

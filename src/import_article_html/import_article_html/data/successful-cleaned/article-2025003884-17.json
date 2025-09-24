@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025003884",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 6.7.4, § 2, alinéa 9, et l'article 6.7.9, § 2, alinéa 9, de l'arrêté relatif à l'énergie du 19 novembre 2010, tels que modifiés par l'article 7, points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"13°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">14°, et l'article 9, points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"12°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">13°, du présent arrêté, s'appliquent pour la première fois aux conventions de participation conclues à partir de l'entrée en vigueur du présent arrêté.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.716Z",
+  "tokenUsage": {
+    "prompt": 1692,
+    "completion": 302,
+    "total": 1994
+  }
+}

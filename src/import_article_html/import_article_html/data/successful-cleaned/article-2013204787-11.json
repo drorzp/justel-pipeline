@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013204787",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'évaluation visée à l'article 8 peut mener à un ajustement dans l'attribution des mesures d'aide à l'emploi.</p>\n      <p class=\"intro-text\">Le constat de la modification du besoin en mesures d'aide à l'emploi qui détermine le parcours de transition visé à l'article 23,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">1°</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">s'effectue provisoirement à la condition suspensive de transition par le travailleur de groupe cible.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Si, à l'issue du parcours de transition, la transition du travailleur de groupe cible n'a pas lieu, pour des raisons indépendantes de sa volonté ou de celle de l'entreprise de travail adapté, le VDAB rétablit le besoin en mesures d'aide à l'emploi.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.171Z",
+  "tokenUsage": {
+    "prompt": 1726,
+    "completion": 317,
+    "total": 2043
+  }
+}

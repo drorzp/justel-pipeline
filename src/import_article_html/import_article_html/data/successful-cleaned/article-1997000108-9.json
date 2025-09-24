@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997000108",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 9 de la même loi dont le texte actuel formera le § 1er, est complété par un § 2, rédigé comme suit :</p>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Si le client est en même temps l'employeur du détective privé, le § 1er, alinéa 1er, 2° et alinéa 4 ne sont pas d'application.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.115Z",
+  "tokenUsage": {
+    "prompt": 1597,
+    "completion": 197,
+    "total": 1794
+  }
+}

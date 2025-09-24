@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996031100",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A condition qu'ils ne bénéficient pas d'avantages de même nature accordés par un service social constitué auprès d'une autre administration, les bénéficiaires du service social sont:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les agents qui, à quelque titre que ce soit, appartiennent au Centre d'Informatique pour la Région Bruxelloise</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les agents admis à la retraite</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les personnes assimilées aux bénéficiaires définis aux points 1 et 2 : les ascendants et les descendants au premier degré, le conjoint ou la personne avec laquelle le bénéficiaire vit en couple, à condition que celles-ci fassent partie de son ménage</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les veufs, veuves et orphelins des personnes qui sont reprises sous les points 1° et 2°</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">Les personnes non comprises sous 1°, 2°, 3° et 4° feront l'objet d'un examen individuel par le Conseil d'administration.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les personnes bénéficiaires s'adressent directement au service social.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.106Z",
+  "tokenUsage": {
+    "prompt": 1909,
+    "completion": 448,
+    "total": 2357
+  }
+}

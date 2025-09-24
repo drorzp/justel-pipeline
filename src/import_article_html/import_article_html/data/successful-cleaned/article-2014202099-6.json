@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014202099",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article L3122-1 du même Code, les mots : \" à l'exception des établissements visés au 7° et financés au niveau communal \" sont insérés entre les mots : \" une autorité visée à l'article L3111-1, § 1er, \" et les mots : \" viole la loi ou blesse l'intérêt général.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.371Z",
+  "tokenUsage": {
+    "prompt": 1569,
+    "completion": 164,
+    "total": 1733
+  }
+}

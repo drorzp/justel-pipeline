@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998036337",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans la partie XIV, titre 3, chapitre 2, section 5, des arrêtés visés par l'article 1er, 2° et 3°, a, il est inséré un article XIV 34bis, rédigé comme suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. XIV 34bis.</h3>\n        <div class=\"paragraph-content\">\n          <p>Le membre du personnel contractuel a droit à une interruption de la carrière à temps plein pour une période de trois mois, à l'occasion de la naissance ou de l'adoption d'un enfant.</p>\n          <p>Lorsque le membre du personnel contractuel demande l'interruption à l'occasion de la naissance d'un enfant, l'interruption de la carrière doit :</p>\n          <ul class=\"hyphenated-items\">\n            <li class=\"hyphenated-item\" data-marker=\"-\">\n              <span class=\"item-text\">suivre immédiatement le congé de maternité, lorsqu'il s'agit d'un membre du personnel féminin;</span>\n            </li>\n            <li class=\"hyphenated-item\" data-marker=\"-\">\n              <span class=\"item-text\">prendre cours au plus tard le premier jour qui suit la période de huit semaines à compter de la naissance de l'enfant, lorsqu'il s'agit d'un membre du personnel masculin.</span>\n            </li>\n          </ul>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.070Z",
+  "tokenUsage": {
+    "prompt": 1806,
+    "completion": 383,
+    "total": 2189
+  }
+}

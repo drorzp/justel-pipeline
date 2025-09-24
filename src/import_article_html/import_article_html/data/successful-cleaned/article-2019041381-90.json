@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041381",
+  "articleNumber": "90",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-90\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 90</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2, alinéa 1er du même arrêté les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive le membre de phrase &quot; l'article 5 du décret &quot; est remplacé par le membre de phrase &quot; l'article III.46 du décret de gouvernance du 7 décembre 2018 &quot; ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le point 3° le membre de phrase &quot; l'organe d'avis ou d'administration, au sens de l'article 2 du décret &quot; est remplacé par le membre de phrase &quot; l'organe consultatif, visé à l'article I.3, 3° du décret précité, ou l'organisme public flamand, visé à l'article III.36 du décret précité &quot; ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans les points 6°, 7° et 9° le membre de phrase &quot; l'article 3 du décret &quot; est remplacé par le membre de phrase &quot; l'article III.44 du décret précité &quot; ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le point 8° le membre de phrase &quot; l'article 4 &quot; est remplacé par le membre de phrase &quot; l'article III.45 du décret précité &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.480Z",
+  "tokenUsage": {
+    "prompt": 2002,
+    "completion": 483,
+    "total": 2485
+  }
+}

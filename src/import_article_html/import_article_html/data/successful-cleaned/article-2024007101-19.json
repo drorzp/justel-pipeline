@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024007101",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La salle de consommation dispose au moins des installations sanitaires suivantes pour ses usagers :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">une toilette avec lavabo à proximité de l'espace d'attente visé à l'article 18, § 1er, 2° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">une toilette avec lavabo à proximité de l'espace de repos visé à l'article 18, § 1er, 5° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">en plus des toilettes visées aux 1° et 2°, une toilette accessible aux personnes à mobilité réduite ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">une douche accessible aux personnes à mobilité réduite.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.552Z",
+  "tokenUsage": {
+    "prompt": 1717,
+    "completion": 324,
+    "total": 2041
+  }
+}

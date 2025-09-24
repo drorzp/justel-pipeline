@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007022208",
+  "articleNumber": "15/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15/1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15/1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-03-26/15\" data-law-type=\"AR\" data-article-number=\"13\">L'évaluation gériatrique pluridisciplinaire s'effectue au moyen d'instruments scientifiquement validés et est réalisée par un médecin spécialiste visé à l'article 12, 1°, un infirmier visé à l'article 12, 2° et encore au moins un autre dispensateur de soins visé à l'article 12, 4°, 5°, 6°, 7° ou 8°.</span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.863Z",
+  "tokenUsage": {
+    "prompt": 1669,
+    "completion": 228,
+    "total": 1897
+  }
+}

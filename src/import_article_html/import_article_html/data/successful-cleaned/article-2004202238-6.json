@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004202238",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-04-25/73\" data-law-type=\"AR\" data-article-number=\"1\">&lt;AR 2007-04-25/73, art. 1, 002; En vigueur : 22-06-2007&gt;</span> En cas de manque d'ouvriers portuaires reconnus <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-12-21/30\" data-law-type=\"AR\" data-article-number=\"6\">repris dans le pool</span>, constaté par le service régional de placement, le travailleur qui n'est pas reconnu comme ouvrier portuaire peut exceptionnellement et pour une tâche, être engagé pour le travail portuaire. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-12-21/30\" data-law-type=\"AR\" data-article-number=\"6\">Ces</span> ouvriers portuaires occasionnels doivent satisfaire aux conditions fixées à l'article 4, § 1er, 1°, 2°, <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-12-12/12\" data-law-type=\"AR\" data-article-number=\"2\">4°, 5° et 9°</span>. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-12-21/30\" data-law-type=\"AR\" data-article-number=\"6\">...</span>\n            </p>\n            <p class=\"closing-text\">\n                Les organisations d'employeurs agréées par arrêté royal en application de l'article 3bis de la loi du 8 juin 1972 organisant le travail portuaire, transmettent chaque mois à <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-12-21/30\" data-law-type=\"AR\" data-article-number=\"6\">les fonctionnaires visés à l'article 1er, § 1er, alinéa 1er</span> une liste des ouvriers portuaires occasionnels qui ont été occupés.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.707Z",
+  "tokenUsage": {
+    "prompt": 2287,
+    "completion": 585,
+    "total": 2872
+  }
+}

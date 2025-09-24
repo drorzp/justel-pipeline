@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003195",
+  "articleNumber": "141",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-141\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 141</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 105, § 1er, 2°, de la même loi, inséré par la loi du 27 novembre 2012, les mots \"visées à l'article 19, § 1er, 1° et 2° de la loi bancaire.\" sont remplacés par les mots \"visées à l'article 20, § 1er, 1°, 2° et 3° de la loi bancaire.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.031Z",
+  "tokenUsage": {
+    "prompt": 1653,
+    "completion": 179,
+    "total": 1832
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004029170",
+  "articleNumber": "160",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-160\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 160</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les membres du personnel des institutions visées à l'article 10, 1°, 4° et 5°, qui sont revêtus des grades de chargé de cours associé et de professeur associé sont nommés respectivement chargés de cours ou professeurs.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.783Z",
+  "tokenUsage": {
+    "prompt": 1462,
+    "completion": 134,
+    "total": 1596
+  }
+}

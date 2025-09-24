@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001003382",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Conformément à l'article 53,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et 35ter de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, et compte tenu des soldes définitifs de décompte de l'année budgétaire 2000, les moyens financiers des Régions en provenance des parties attribuées du produit de l'impôt des personnes physiques sont estimés pour l'année budgétaire 2001 à 259.734.900.000 francs belges pour la Région flamande, à 145.607.900.000 francs belges pour la Région wallonne et à 39.309.200.000 francs belges pour la Région Bruxelles-Capitale.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.205Z",
+  "tokenUsage": {
+    "prompt": 1722,
+    "completion": 300,
+    "total": 2022
+  }
+}

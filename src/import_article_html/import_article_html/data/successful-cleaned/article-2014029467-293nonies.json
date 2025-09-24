@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029467",
+  "articleNumber": "293nonies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-293nonies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 293nonies</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les maîtres de religion et de morale non confessionnelle visés aux:</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1°,</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">2°,</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3°,</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">de l'article 293octies, voient leurs anciennetés de fonction et de service acquises auprès du Pouvoir organisateur dans le cadre du décret du 10 mars 2006 précité ou du 6 juin 1994 précité respectivement, réputées comme ancienneté de fonction acquise au sens de l'article 34 du décret du 6 juin 1994 précité en qualité de maître de philosophie et de citoyenneté.</span>\n            </li>\n          </ol>\n          <p>\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-07-13/04\" data-law-type=\"DCFR\" data-article-number=\"27\">\n              Toutefois, ils ne peuvent se prévaloir de cette valorisation que pour prétendre à la même fonction.\n            </span>\n          </p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.106Z",
+  "tokenUsage": {
+    "prompt": 2033,
+    "completion": 452,
+    "total": 2485
+  }
+}

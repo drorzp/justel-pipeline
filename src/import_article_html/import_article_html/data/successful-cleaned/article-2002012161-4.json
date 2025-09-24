@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002012161",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les articles 5, alinéa 2,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">2°, 6, phrase liminaire et:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et 16 du même arrêté, modifié par l'arrêté royal du 4 mai 1999, les mots &quot; agent cancérigène &quot; sont remplacés par les mots &quot; agent cancérigène ou mutagène &quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.810Z",
+  "tokenUsage": {
+    "prompt": 1605,
+    "completion": 262,
+    "total": 1867
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995022258",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'arrêté royal du 18 janvier 1984 réglant les modalités de perception et de répartition des cotisations de sécurité sociale dues par les victimes des maladies professionnelles, bénéficiaires de la loi du 24 décembre 1963 relative à la réparation des dommages résultant des maladies professionnelles et à la prévention de celles-ci, à l'article 3, alinéa 2, modifié par les arrêtés royaux des 12 décembre 1972 et 29 mars 1985, et aux articles 4, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et 7, alinéa 1er, modifiés par l'arrêté royal du 29 mars 1985, les mots \"Caisse de secours et de prévoyance en faveur des marins naviguant sous pavillon belge\" sont remplacés par les mots \"Caisse de secours et de prévoyance en faveur des marins\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.998Z",
+  "tokenUsage": {
+    "prompt": 1780,
+    "completion": 316,
+    "total": 2096
+  }
+}

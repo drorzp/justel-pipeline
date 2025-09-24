@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029077",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un budget annuel est consacré au financement du Comité. Ce budget comprend notamment les frais de fonctionnement du Secrétariat, les frais de parcours de tous les membres du Comité ainsi que les jetons de présence dont le montant est fixé à 1 000 BEF (24,7894 euro) pour les membres visés à l'article 3, 2° à 6° et les experts visés à l'article 4. Ces montants sont indexés le 1er janvier de chaque année.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.698Z",
+  "tokenUsage": {
+    "prompt": 1634,
+    "completion": 188,
+    "total": 1822
+  }
+}

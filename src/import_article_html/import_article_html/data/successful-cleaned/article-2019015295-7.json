@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019015295",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le membre du Comité de Gestion nommé en remplacement d'un membre démissionnaire ou décédé, achève le mandat de celui-ci.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les membres visés à l'article 5, § 1er, 2° et 3° de la loi du 10 avril 1973, portant création de l'Office Central d'Action Sociale et Culturelle du Ministère de la Défense sont nommés sur proposition de leur syndicat.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.394Z",
+  "tokenUsage": {
+    "prompt": 1634,
+    "completion": 258,
+    "total": 1892
+  }
+}

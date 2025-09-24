@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005462",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 68</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>La demande de renonciation à la concession domaniale est adressée à l'autorité concédante.</p>\n        <p>L'acceptation d'une renonciation est, le cas échéant, subordonnée à la mise en oeuvre des mesures prévues à l'article 53, paragraphe 1er, 8° et 9° et 48.</p>\n        <p>L'acceptation de la renonciation est prononcée par le ministre, sur proposition de la Direction générale de l'Energie.</p>\n        <p>La décision de la Direction générale de l'Energie acceptant la renonciation à la concession domaniale est notifiée par lettre recommandée au concessionnaire, à la commission, au gestionnaire du réseau de transmission et aux administrations concernées.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Une indemnité de renonciation est due, destinée à compenser tous les dommages et coûts supportés par l'Etat du fait de la renonciation, y compris les coûts liés à la préparation et à l'organisation d'une nouvelle procédure de mise en concurrence et le manque à gagner potentiel lié au mécanisme de compensation.</p>\n        <p>En cas de renonciation avant la mise en service de la première unité de production, le montant de la garantie financière visée à l'article 17, § 1er, 4°, est dû et comprend l'indemnité de renonciation.</p>\n        <p>En cas de renonciation après la mise en service de la première unité de production, les obligations financières de démantèlement restent également à charge du concessionnaire.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.431Z",
+  "tokenUsage": {
+    "prompt": 2163,
+    "completion": 507,
+    "total": 2670
+  }
+}

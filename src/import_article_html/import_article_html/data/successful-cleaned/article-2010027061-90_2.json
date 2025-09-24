@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010027061",
+  "articleNumber": "90/2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-90/2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 90/2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-02-18/08\" data-law-type=\"AM\" data-article-number=\"25\">\n        <p class=\"intro-text\">Pour l'octroi des majorations de primes visées aux articles 5, § 3 et § 4, 6, § 3, § 4 et § 5, et 7, § 3 et § 4 :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">en ce qui concerne les éco-primes octroyées par la SWCS : Par dérogation à l'article 1er, 13°, les revenus sont calculés conformément à l'arrêté du Gouvernement wallon du 20 décembre 2007 portant règlement des prêts hypothécaires de la Société wallonne du Crédit social et des Guichets du Crédit social;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">en ce qui concerne les éco-primes octroyées par le FLW : par dérogation à l'article 1er, 13°, 14° et 15°, les revenus modestes et précaires correspondent respectivement aux revenus des catégories II et I, calculés conformément à l'arrêté du Gouvernement wallon du 25 février 1999 concernant les prêts hypothécaires et l'aide locative du Fonds du Logement des Familles nombreuses de Wallonie.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.250Z",
+  "tokenUsage": {
+    "prompt": 2019,
+    "completion": 435,
+    "total": 2454
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014356",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sont abrogés à partir du 1er janvier 2018 :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les articles 41 à 43 de la loi du 30 juin 1994 relative au droit d'auteur et aux droits voisins, en ce qui concerne l'utilisation de phonogrammes visé à l'article 42 ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les articles 22, § 1, 4° et 4° bis, 22bis, § 1er, alinéa 1er, 1° et 2°, et 59 jusqu'à 61 de la même loi du 30 juin 1994.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.589Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 278,
+    "total": 1957
+  }
+}

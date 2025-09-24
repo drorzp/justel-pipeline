@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071451",
+  "articleNumber": "183",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-183\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 183</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1996-04-29/32\" data-law-type=\"L\" data-article-number=\"130\">&lt;L 1996-04-29/32, art. 130, 007;**En vigueur :**01-03-1997&gt;</span>\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-05-19/06\" data-law-type=\"L\" data-article-number=\"10\">Le médecin directeur général du Service d'évaluation et de contrôle médicaux est chargé de l'exécution des décisions de son Comité, conformément à l'autorisation qui lui a été accordée en vertu de l'article 181, alinéa 7. Il assiste aux séances de ce Comité et en assure le secrétariat.\n      Le directeur général du Service du contrôle administratif est chargé de l'exécution des décisions du Comité général de gestion prises en exécution de l'article 12, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">8°</span></li><li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">9°</span></li></ol>, conformément à l'autorisation qui lui a été accordée en vertu de l'article 181, alinéa 7.</span>\n      En cas d'empêchement du médecin directeur général ou du directeur général précités, leurs pouvoirs sont exercés par un fonctionnaire du service concerné, désigné par le Comité général.\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2013-03-19/03\" data-law-type=\"L\" data-article-number=\"36\">Le médecin directeur général du Service d'évaluation et de contrôle médicaux et le directeur général du Service du contrôle administratif mentionnés aux alinéas précédents, assistent aux séances du Comité général.</span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.950Z",
+  "tokenUsage": {
+    "prompt": 2185,
+    "completion": 510,
+    "total": 2695
+  }
+}

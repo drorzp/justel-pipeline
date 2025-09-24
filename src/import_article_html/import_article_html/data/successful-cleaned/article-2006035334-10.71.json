@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006035334",
+  "articleNumber": "10.71",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10-71\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10.71</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le congé politique accordé pour un mandat politique mentionné aux articles X 65, X 66 et X 67, premier alinéa, 1°, 2° et 3°, prend fin au plus tard le dernier jour du mois suivant le mois pendant lequel le mandat expire.</p>\n                <p>Le congé politique accordé pour un mandat politique mentionné à l'article X 67, premier alinéa, 4° à 10° inclus, prend fin au plus tard au terme du sixième mois suivant l'expiration du mandat.</p>\n                <p>A partir de cet instant, l'intéressé obtient de nouveau tous les droits statutaires.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Apres sa nouvelle entrée en service, le membre du personnel ne peut cumuler son traitement avec un avantage quelconque rattaché à l'exercice du mandat expiré.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.719Z",
+  "tokenUsage": {
+    "prompt": 1801,
+    "completion": 347,
+    "total": 2148
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042211",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 128 du même arrêté est complété par un 5° et 6°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">si l'emploi de l'agent, après une absence pour cause de maladie de longue durée, n'existe plus</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">si l'agent se trouve dans l'impossibilité de reprendre son poste actuel après une absence due à une maladie de longue durée.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.739Z",
+  "tokenUsage": {
+    "prompt": 1590,
+    "completion": 232,
+    "total": 1822
+  }
+}

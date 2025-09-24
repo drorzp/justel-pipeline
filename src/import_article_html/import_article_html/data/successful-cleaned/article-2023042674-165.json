@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042674",
+  "articleNumber": "165",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-165\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 165</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 6 du même arrêté, remplacé par l'arrêté du Gouvernement flamand du 16 mai 2014, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, 2° et 15°, paragraphe 4, 4°, et paragraphe 7, les mots \" l'agence \" sont remplacés par les mots \" l'administration \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 7, le membre de phrase \" (www.zorg-en-gezondheid.be) \" est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.758Z",
+  "tokenUsage": {
+    "prompt": 1675,
+    "completion": 276,
+    "total": 1951
+  }
+}

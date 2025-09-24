@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043067",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 30bis, § 3, alinéa 2, de la même loi, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots &quot;aux articles 22ter, 22quater,&quot; sont chaque fois insérés entre les mots &quot;le cas échéant à l'article 7duodecies,&quot; et les mots &quot;à l'article 23, § 2, 3°, 3° bis&quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les mots &quot;et 29° &quot; sont chaque fois remplacés par les mots &quot;, 29° et 52° &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.864Z",
+  "tokenUsage": {
+    "prompt": 1681,
+    "completion": 289,
+    "total": 1970
+  }
+}

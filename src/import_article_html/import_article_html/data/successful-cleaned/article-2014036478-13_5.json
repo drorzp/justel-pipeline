@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036478",
+  "articleNumber": "13/5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13/5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13/5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-10-19/02\" data-law-type=\"AGF\" data-article-number=\"1\">\n        <p>Le Ministre flamand chargé de la politique énergétique, a la délégation de statuer sur la date de début et la prolongation de la situation d'urgence civile, visée à l'article 4, alinéa 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">, du décret du 17 octobre 2018 portant dérogation à l'obligation régionale d'autorisation en situation d'urgence civile.</span></li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.343Z",
+  "tokenUsage": {
+    "prompt": 1712,
+    "completion": 278,
+    "total": 1990
+  }
+}

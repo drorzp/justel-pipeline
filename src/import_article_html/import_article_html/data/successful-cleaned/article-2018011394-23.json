@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011394",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 1017 du même Code, modifié en dernier lieu par la loi du 25 décembre 2016, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">l'alinéa 2 est remplacé par ce qui suit : \"La condamnation aux dépens est toutefois toujours prononcée, sauf en cas de demande téméraire ou vexatoire, à charge de l'autorité ou de l'organisme tenu d'appliquer les lois et règlements :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">visés aux articles 579, 6°, 580, 581 et 582, 1° et 2°, en ce qui concerne les demandes introduites par ou contre les assurés sociaux personnellement;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">relatifs à la sécurité sociale du personnel statutaire de la fonction publique qui sont analogues aux lois et règlements relatifs à la sécurité sociale des travailleurs salariés visés au 1°, en ce qui concerne les demandes introduites par ou contre les assurés sociaux personnellement.</span>\n                        </li>\n                    </ol>\n                    <span class=\"provision-text\">\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">dans l'alinéa 4, les mots \"cohabitants légaux ou de fait,\" sont insérés entre le mot \"conjoints,\" et le mot \"ascendants,\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.770Z",
+  "tokenUsage": {
+    "prompt": 1990,
+    "completion": 469,
+    "total": 2459
+  }
+}

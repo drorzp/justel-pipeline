@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023043812",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er du décret du 9 décembre 1993 relatif à la promotion de l'utilisation rationnelle de l'énergie, des économies d'énergie et des énergies renouvelables est complété par les 7°, 8° et 9° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">Ministre : le Ministre ayant l'Energie dans ses attributions;</span></li>\n        <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">gestionnaire de réseau de distribution : le gestionnaire d'un réseau de distribution désigné conformément à l'article 10 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et à l'article 10 du décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz;</span></li>\n        <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">bonus : l'écart, en faveur du gestionnaire de réseau de distribution, entre l'ensemble des charges nettes contrôlables budgétées et l'ensemble des charges nettes contrôlables réelles, lorsque ces dernières sont inférieures aux charges nettes contrôlables budgétées, telles que prévues dans la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution d'électricité et de gaz actifs en Région wallonne approuvée par la Commission wallonne pour l'énergie, ci-après dénommée la \" CWaPE \".</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.850Z",
+  "tokenUsage": {
+    "prompt": 1967,
+    "completion": 430,
+    "total": 2397
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005027144",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 15, § 3, alinéa 1er,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">du même décret, les mots \"à dater de la notification des décisions visées à l'article 23\" sont remplacés par les mots \"à dater du 31 décembre 2003\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.880Z",
+  "tokenUsage": {
+    "prompt": 1538,
+    "completion": 216,
+    "total": 1754
+  }
+}

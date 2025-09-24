@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006000703",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 30bis, § 2, alinéa 1er, de la même loi, inséré par la loi du 27 décembre 2004, dans les points 1° et 2°, les mots \"l'article 10, alinéa 1er, 1° et 4°\" sont remplacés par les mots \"l'article 10, § 1er, alinéa 1er, 1° et 4° à 7°\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.866Z",
+  "tokenUsage": {
+    "prompt": 1569,
+    "completion": 190,
+    "total": 1759
+  }
+}

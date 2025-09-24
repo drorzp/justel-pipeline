@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991013192",
+  "articleNumber": "78sexies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-78sexies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 78sexies</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-02-03/08\" data-law-type=\"AR\" data-article-number=\"12\">\n        <section class=\"paragraph\">\n          <div class=\"paragraph-content\">Par dérogation à l'article 27, 4°, l'allocation de travail visée à l'article 27, 11° et l'allocation d'expérience visée à l'article 27, 13°, ne sont pas considérées comme une allocation pour l'application des articles 38, § 1er, alinéa 1er, 1°, 42, 79, § 4, 80, 89, 92, 93 et 97.</div>\n        </section>\n        <section class=\"paragraph\">\n          <div class=\"paragraph-content\">Par dérogation à l'article 27, 4°, l'allocation d'intégration visée à l'article 131quater et l'allocation de réinsertion visée à l'article 131quinquies ne sont pas considérées comme une allocation pour l'application des articles 38, § 1er, alinéa 1er, 1°, 42, 80, 89, 92, 93 et 97.</div>\n        </section>\n        <section class=\"paragraph\">\n          <div class=\"paragraph-content\">Pour l'application des dispositions du présent arrêté dans lesquelles il est tenu compte du salaire d'un travailleur, l'allocation d'intégration visée à l'article 131quater, l'allocation de réinsertion visée à l'article 131quinquies, l'allocation de travail visée à l'article 27, 11°, ou l'allocation d'expérience visée à l'article 27, 13°, sont considérées comme faisant partie intégrante du salaire.</div>\n        </section>\n        <section class=\"paragraph\">\n          <div class=\"paragraph-content\">Le travailleur ne peut, pour la même période, avoir droit qu'à une des allocations visées aux alinéas précédents.</div>\n        </section>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.490Z",
+  "tokenUsage": {
+    "prompt": 2207,
+    "completion": 534,
+    "total": 2741
+  }
+}

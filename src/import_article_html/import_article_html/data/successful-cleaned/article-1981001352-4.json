@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1981001352",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le président, le vice-président, les membres effectifs et les membres suppléants sont nommés par Nous pour une durée de six ans. Leur mandat est renouvelable. Le président et le vice-président doivent justifier de la connaissance, l'un de la langue française, l'autre de la langue néerlandaise.</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Les membres effectifs visés à l'article 2, 2° et leurs suppléants appartiennent pour moitié au rôle linguistique français et pour moitié au rôle linguistique néerlandais.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">La moitié des membres effectifs visés à l'article 2, 3° et de leurs suppléants doit justifier de la connaissance de la langue française et l'autre moitié, de la langue néerlandaise.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.707Z",
+  "tokenUsage": {
+    "prompt": 1735,
+    "completion": 310,
+    "total": 2045
+  }
+}

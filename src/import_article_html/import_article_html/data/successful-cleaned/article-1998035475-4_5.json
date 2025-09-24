@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998035475",
+  "articleNumber": "4_5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les transformateurs dont le liquide contient plus de 0,05 % du poids en PCB peuvent être nettoyés dans les conditions suivantes :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">le nettoyage a pour but d'abaisser la teneur en PCB à un pourcentage inférieur à 0,05 et, si possible, à une valeur ne dépassant pas 0,005 % du poids;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">le liquide de substitution, qui ne contient aucun PCB, doit être nettement moins dangereux;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">le remplacement du liquide ne peut menacer l'élimination ultérieure des PCB;</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">l'étiquette du transformateur, après nettoyage, doit être remplacee par l'étiquette mentionnée à l'annexe 4.8 du présent arrêté.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les transformateurs dont les liquides contiennent des PCB à concurrence de 0,05 à 0,005 % de leur poids peuvent être nettoyés aux conditions visées aux alinéas 2°, 3° et 4° du § 1.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.060Z",
+  "tokenUsage": {
+    "prompt": 1993,
+    "completion": 496,
+    "total": 2489
+  }
+}

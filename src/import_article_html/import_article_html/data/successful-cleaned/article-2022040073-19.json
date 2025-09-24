@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040073",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">CA l'article 70, § 9, de la même loi, inséré par la loi du 26 avril 2010 et modifié en dernier lieu par la loi du 19 juillet 2021, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \"15, § 1er, 1°, 2°, 3°, 4°, 5°, 6° et 9°, \" sont remplacés par les mots \"15, § 1er, 1°, 2°, 3°, 3° bis, 4°, 5°, 6° et 9°, \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les mots \"17bis, §§ 1er, 1° et 2, s'il s'agit d'une société mutualiste visée aux articles 43bis, § 5, ou 70, § 7,\" sont insérés entre les mots \"17,\" et les les mots \"18, § 1er\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les mots \"24bis s'il s'agit d'une société mutualiste visée aux articles 43bis, § 5, ou 70, § 7, 25 s'il s'agit d'une société mutualiste visée aux articles 43bis, § 5, ou 70, § 7, en remplaçant à chaque fois les mots \"à laquelle la mutualité est affiliée\" par les mots \"à laquelle la société mutualiste est affiliée\", 31, alinéas 4 et 5 s'il s'agit d'une société mutualiste visée aux articles 43bis, § 5, ou 70, § 7,\" sont insérés entre les mots \"24,\" et les les mots \"38bis,\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.784Z",
+  "tokenUsage": {
+    "prompt": 2170,
+    "completion": 537,
+    "total": 2707
+  }
+}

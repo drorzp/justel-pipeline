@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012436",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 50</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 42, § 3, du Code de la taxe sur la valeur ajoutée, remplacé par la loi du 28 décembre 1992 et modifié en dernier lieu par la loi du 21 décembre 2013, les modifications suivantes sont apportées:\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">l'alinéa 2 est remplacé par ce qui suit:</span>\n          <blockquote>\n            \"Les exemptions visées à l'alinéa 1er, 1° et 2°, sont soumises à la réciprocité habituelle dans les relations diplomatiques, consulaires et internationales.\"\n          </blockquote>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">le paragraphe 3 est complété par un alinéa rédigé comme suit:</span>\n          <blockquote>\n            \"A moins qu'une convention internationale ou un accord de siège n'en dispose autrement, le Roi détermine les conditions d'application pour l'octroi des exemptions visées à l'alinéa 1er, 1° à 8°, les conditions auxquelles il peut être renoncé à ces exemptions, les montants, la nature et les quantités des biens et des services qui peuvent bénéficier de ces exemptions. Le Roi peut, à cette fin, charger le ministre des Finances ou son délégué de fixer la procédure d'obtention des exemptions, la période dans laquelle les exemptions doivent être demandées et les seuils maximums par période, notamment pour lutter contre les abus. Ces critères peuvent être déterminés par le ministre des Finances ou son délégué après consultation ou sur demande d'autres ministres. Le Roi peut également déterminer que les exemptions visées à l'alinéa 1er sont accordées par voie de remboursement.\"\n          </blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.308Z",
+  "tokenUsage": {
+    "prompt": 2106,
+    "completion": 508,
+    "total": 2614
+  }
+}

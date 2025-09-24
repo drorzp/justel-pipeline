@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015029014",
+  "articleNumber": "49",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-49\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 49</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 35 du décret-cadre du 10 avril 2003 relatif à la reconnaissance et au subventionnement du secteur professionnel des Arts de la scène, il est ajouté un alinéa 2 formulé comme suit :</p>\n      <p class=\"intro-text\">\" Le montant des types d'aides visés à l'alinéa 1er</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">est réduit de 1 % en 2015.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.184Z",
+  "tokenUsage": {
+    "prompt": 1589,
+    "completion": 239,
+    "total": 1828
+  }
+}

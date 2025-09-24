@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997021186",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Est confirmé avec effet à la date de son entrée en vigueur : Arrêté royal du 18 octobre 1996 portant des mesures relatives à la Banque nationale de Belgique, en application des articles 2 et 3, § 1, 1° et 6°, de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.033Z",
+  "tokenUsage": {
+    "prompt": 1533,
+    "completion": 169,
+    "total": 1702
+  }
+}

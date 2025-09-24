@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031619",
+  "articleNumber": "48",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-48\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 48</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 27, 6°, et l'article 28,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">5°, du même décret, le membre de phrase &quot; &quot; Kind en Gezin &quot; &quot; est remplacé par les mots &quot; l'agence Grandir régie &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.132Z",
+  "tokenUsage": {
+    "prompt": 1526,
+    "completion": 200,
+    "total": 1726
+  }
+}

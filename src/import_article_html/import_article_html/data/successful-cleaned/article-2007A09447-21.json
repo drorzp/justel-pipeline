@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007A09447",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 21</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Il est alloué pour la recherche de substances ayant une action hormonale ou anti-hormonale, ou bêta-adrénergique ou à action stimulatrice de production, dans les matières organiques :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au moyen d'un test immunochimique par échantillon, pour les 10 premiers : ,27<br>A partir du 11ème échantillon, par groupe de substances : 29,33</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au moyen d'une technique de chromatographie couplée à une détection spectrométrique afin de confirmer une réaction immunochimique préliminaire positif : par échantillon et par groupe de substances : 175,81</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au moyen d'une technique de chromatographie couplée à une détection spectrométrique : par échantillon et par groupe de substances. Dans ce dernier cas, ces groupes doivent être indiqués explicitement dans le réquisitoire : 234,40</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Seuls les honoraires prévus aux 1° et 2° du présent article sont cumulables.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.017Z",
+  "tokenUsage": {
+    "prompt": 1902,
+    "completion": 405,
+    "total": 2307
+  }
+}

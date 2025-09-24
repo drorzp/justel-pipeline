@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998022059",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les articles 1erbis, 5°, c), 14, § 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et 16, § 1er,</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, du même arrêté royal, les mots \"ou à partir du 1er janvier 1997 le service pour la néonatologie intensive (indice NIC)\" sont insérés après les mots \"(indice N)\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.082Z",
+  "tokenUsage": {
+    "prompt": 1568,
+    "completion": 215,
+    "total": 1783
+  }
+}

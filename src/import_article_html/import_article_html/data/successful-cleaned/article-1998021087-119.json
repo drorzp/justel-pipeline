@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998021087",
+  "articleNumber": "119",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-119\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 119</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Au point 7° de l'article 12 de la même loi coordonnée, remplacé par l'article 143 de la présente loi, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \"visées à l'article 191, alinéa 1er, 1°, 1°bis, 6° à 9° et 12° à 20° et 23°\" sont remplacés par les mots \"visées à l'article 191, alinéa 1er, 1°, 1°bisa), 6° à 9° et 12° à 21° et 23°\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">après les mots \"au secteur des indemnités\" sont ajoutés les mots \"et au secteur des pensions d'invalidité prévues par l'arrêté-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers mineurs et assimilés\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.081Z",
+  "tokenUsage": {
+    "prompt": 1807,
+    "completion": 341,
+    "total": 2148
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004003033",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un article 14quater, rédigé comme suit, est inséré dans la même loi :</p>\n      <p>\" Art. 14quater. - Les personnes visées à l'article 2, alinéa 1er, 2°, 3°, 4°, 6°, 8°, 9°, 10°, 19° et 20°, ne peuvent ouvrir une succursale ou un bureau de représentation domicilié, enregistré ou établi dans un Etat ou un territoire désigné par le Roi en application de l'article 14ter. Elles ne peuvent acquérir ou créer, directement ou par l'intermédiaire d'une compagnie financière ou d'une compagnie financière mixte, une filiale exerçant l'activité d'un établissement de crédit ou d'une entreprise d'investissement ou d'une entreprise d'assurances, domiciliée, enregistrée ou établie dans un Etat ou un territoire susvisé. \"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.650Z",
+  "tokenUsage": {
+    "prompt": 1738,
+    "completion": 276,
+    "total": 2014
+  }
+}

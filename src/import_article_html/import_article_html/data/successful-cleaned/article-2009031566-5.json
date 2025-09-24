@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009031566",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Au plus tard six mois avant l'expiration de la période de validité de l'agrément, une nouvelle demande est envoyée par l'instructeur en vue du renouvellement de l'agrément. Cette demande doit être accompagnée des documents suivants :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">ceux visés à l'article 3, 1° et 3°;</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">ceux visés à l'article 3, 2° et 4°, si des modifications ont été apportées.</span></li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Lorsqu'il est satisfait à ces conditions, l'agrément est renouvelé provisoirement jusqu'à décision des Ministres.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.080Z",
+  "tokenUsage": {
+    "prompt": 1767,
+    "completion": 356,
+    "total": 2123
+  }
+}

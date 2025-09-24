@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013036201",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 3.1.0.0.6 du même Code est remplacé par les dispositions suivantes :</p>\n      <blockquote>\n        <p>\" Art. 3.1.0.0.6. Les provinces et les communes levant des centimes additionnels en application de l'article 2.1.4.0.2, et perdant ces revenus en application de l'article 2.1.4.0.1, § 2, alinéa premier, 5°,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">et</span></li>\n        </ol>\n        <p>7°, et de l'article 2.1.6.0.1, alinéa premier, 4°, sont entièrement indemnisées pour ces pertes par la Région flamande.</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.200Z",
+  "tokenUsage": {
+    "prompt": 1680,
+    "completion": 276,
+    "total": 1956
+  }
+}

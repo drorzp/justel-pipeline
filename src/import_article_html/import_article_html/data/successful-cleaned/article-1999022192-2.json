@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999022192",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Dans le texte néerlandais de l'article 34, § 2, 3° de la loi relative à la police de la circulation routière, coordonnée le 16 mars 1968, les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1968-03-16\" data-law-type=\"L\" data-article-number=\"34\">\"het in artikel 63, § 1, bedoelde bloedmonster\"</span> sont remplacés par les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1968-03-16\" data-law-type=\"L\" data-article-number=\"63\">\"de bloedproef bedoeld in artikel 63, § 1, 1° en 2°\"</span>.</p>\n                <p>Dans le texte français de l'article 34, § 2, 3°, de la même loi, les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1968-03-16\" data-law-type=\"L\" data-article-number=\"63\">\"l'article 63, § 1er\"</span> sont remplacés par les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1968-03-16\" data-law-type=\"L\" data-article-number=\"63\">\"l'article 63, § 1er, 1° et 2°\"</span>.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.281Z",
+  "tokenUsage": {
+    "prompt": 1655,
+    "completion": 419,
+    "total": 2074
+  }
+}

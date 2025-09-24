@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014011264",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er, § 2, b), de l'arrêté royal du 17 janvier 2006 instaurant un régime de prestations d'aide à la maternité en faveur des travailleuses indépendantes et modifiant l'arrêté royal du 12 décembre 2001 concernant les titres services, remplacé par l'arrêté royal du 12 août 2008, les mots \" et redevable soit de cotisations sociales calculées au moins sur un revenu minimum tel que visé aux articles 12, § 1er, alinéa 2 ou 12, § 1erter, alinéa 1er, soit, en cas de début d'activité, de cotisations visées à l'article 13bis, § 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">2°, de l'arrêté royal n° 38 précité\" sont abrogés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.153Z",
+  "tokenUsage": {
+    "prompt": 1771,
+    "completion": 314,
+    "total": 2085
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014203686",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 68</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 51ter du même décret, inséré par le décret du 17 juillet 2008 et modifié par le décret du 27 octobre 2011, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive du paragraphe 1er, les mots &quot; et du développement durable &quot; sont inséré entre les mots &quot; Fonds énergie &quot; et les mots &quot; est alimenté &quot;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 2, alinéa 1er, la phrase &quot; Le montant de la dotation de la CWaPE s'élève à 3.610.950 euros. &quot; est remplacée par la phrase &quot; Le montant du budget global annuel de la CWaPE s'élève à 5.600.000 euros. &quot;, les mots &quot; de l'année précédant l'entrée en vigueur du présent décret &quot; sont remplacés par le chiffre &quot; du mois de juin 2012 &quot;, et la phrase &quot; Le montant de la dotation est prélevé au prorata des redevances visées respectivement à l'article 51quinquies, § 1er, 1° et 2°. &quot; est remplacée par la phrase &quot; Ce budget global provient pour partie d'une redevance sur les certificats verts, perçue par la CWaPE, en fonction des MWh produits, à concurrence d'un montant annuel de 1.800.000 € correspondant à sa charge de gestion du mécanisme et de traitement des certificats verts, et pour le solde de la dotation de la CWaPE. &quot;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.208Z",
+  "tokenUsage": {
+    "prompt": 2163,
+    "completion": 512,
+    "total": 2675
+  }
+}

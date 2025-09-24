@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015130",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 2, l'article 3, 1°, les articles 5 et 6, les articles 8 à 10, l'article 11, 1° et 2°, les articles 12 et 13, l'article 14, 2°, les articles 16 et 17 et les articles 19 à 21 du décret du 7 juillet 2017 modifiant la loi du 26 mars 1971 sur la protection des eaux de surface contre la pollution, le décret du 24 janvier 1984 portant des mesures en matière de gestion des eaux souterraines et le décret du 24 mai 2002 relatif aux eaux destinées à l'utilisation humaine, et portant délégation en matière de coordination et de codification de la réglementation relative à l'eau, entrent en vigueur le 1er janvier 2019.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.710Z",
+  "tokenUsage": {
+    "prompt": 1707,
+    "completion": 256,
+    "total": 1963
+  }
+}

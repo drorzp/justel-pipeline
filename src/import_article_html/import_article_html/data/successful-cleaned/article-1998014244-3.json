@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998014244",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Les modifications suivantes sont apportées à l'article 5 du même arrêté :</p>\n        <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"A.\">\n                <span class=\"sub-provision-text\">le texte actuel de l'article devient § 1er;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"B.\">\n                <span class=\"sub-provision-text\">les §§ 2 et 3, libellés comme suit, sont ajoutés à l'article :</span>\n                <section class=\"paragraph\" id=\"para-2\">\n                    <h3 class=\"paragraph-marker\">§ 2.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>En ce qui concerne les appareils émetteurs ou émetteurs-récepteurs pour stations terrestres de communications par satellite, le § 1er, 5°, du présent article comprend également l'utilisation efficace du spectre des fréquences disponibles et la prévention d'interférences perturbatrices entre les systèmes de communication stationnés dans l'espace ou terrestres et les autres systèmes techniques.</p>\n                    </div>\n                </section>\n                <section class=\"paragraph\" id=\"para-3\">\n                    <h3 class=\"paragraph-marker\">§ 3.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>Les appareils pour stations terrestres de communications par satellite qui ne sont pas destinés au raccordement terrestre à un réseau public de télécommunications, sont uniquement soumis aux prescriptions fondamentales visées au § 1er, 1°, 3° et 5° du présent article.</p>\n                    </div>\n                </section>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.170Z",
+  "tokenUsage": {
+    "prompt": 1936,
+    "completion": 428,
+    "total": 2364
+  }
+}

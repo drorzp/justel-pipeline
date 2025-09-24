@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000003794",
+  "articleNumber": "59bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59bis\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 59bis</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2002-12-24/31\" data-law-type=\"L\" data-article-number=\"246\">\n                    &lt;Inséré par L 2002-12-24/31, art. 246; En vigueur : 10-01-2003&gt;\n                </span>\n                Le présent chapitre prévoit une intervention dans les coûts de la prime syndicale pour les travailleurs salariés employés dans des établissements et services désignés par le Roi et effectuant des prestations de soins qui apparaissent dans l'article 34,\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-12-10/35\" data-law-type=\"L\" data-article-number=\"56\">\n                    6°,\n                </span>\n                7°, 9°, 11°, 12°, 13°, 18° et 21°, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994. Cette intervention est prise en charge par l'assurance obligatoire soins de santé et indemnités.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.106Z",
+  "tokenUsage": {
+    "prompt": 1982,
+    "completion": 333,
+    "total": 2315
+  }
+}

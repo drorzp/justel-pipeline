@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014200341",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 53</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 48 de la même loi spéciale, modifié par les lois spéciales des 16 juillet 1993 et 27 mars 2006, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les mots \"des alinéas 2 à 4 et sans préjudice de\" sont insérés entre les mots \"sans préjudice\" et les mots \"de l'application\".</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par trois alinéas rédigés comme suit :</span>\n          <blockquote>\n            <p>\"Les attributions visées à l'article 4, § 2quater, 1°, 2° et 7°, de la loi du 26 juillet 1971 organisant les agglomérations et les fédérations de communes sont exercées par le président du gouvernement visé à l'article 34.</p>\n            <p>Le gouvernement attribue à un haut fonctionnaire qu'il désigne, sur l'avis conforme du gouvernement fédéral, certaines de ces missions, en particulier celles relatives à la sécurité civile et à l'élaboration des plans relatifs aux situations d'urgence, et à l'exclusion de celles relatives au maintien de l'ordre, à la coordination de la sécurité et à l'harmonisation des règlements communaux de police. Si l'avis du gouvernement fédéral n'est pas rendu dans les quarante jours de la notification par le gouvernement de région de la proposition de nomination, il est réputé être favorable.</p>\n            <p>Les attributions visées à l'article 4, § 2quater, 3° et 4°, de la même loi sont exercées par le gouvernement visé à l'article 34.\"</p>\n          </blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.364Z",
+  "tokenUsage": {
+    "prompt": 2114,
+    "completion": 515,
+    "total": 2629
+  }
+}

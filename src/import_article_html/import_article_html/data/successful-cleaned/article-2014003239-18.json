@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003239",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 88, alinéa 2, du même Code, inséré par la loi du 10 août 2001, est remplacé par ce qui suit :</p>\n            <p class=\"intro-text\">\"Cette disposition ne s'applique pas lorsque l'impôt Etat augmenté de l'impôt afférent aux revenus visés aux articles 17, § 1er, 1° à 3° et 90, 6° et 9°, et aux plus-values sur valeurs et titres mobiliers imposables sur base de l'article 90, 1°, pris ensemble pour les deux conjoints, s'en trouve majoré.\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.062Z",
+  "tokenUsage": {
+    "prompt": 1704,
+    "completion": 220,
+    "total": 1924
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994011372",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 38</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La valeur actuelle des placements du poste C. doit être indiquée en annexe selon la forme imposée par l'état n° 3.</p>\n      <p class=\"intro-text\">Cette valeur actuelle est déterminée conformément à l'article 27,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et à l'article 31, alinéa 7.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">L'indication de la valeur actuelle des placements du poste C.I. \" Terrains et constructions \" n'est pas obligatoire avant le 1er janvier 1999, à moins qu'elle ne soit connue de l'entreprise.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.932Z",
+  "tokenUsage": {
+    "prompt": 1652,
+    "completion": 279,
+    "total": 1931
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000029121",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Au terme des projets visés à l'article 2, les établissements d'enseignement de promotion sociale bénéficiaires devront, dans les trois mois, fournir les copies des documents énumérés ci-après au Service de l'Enseignement de promotion sociale de la Direction générale de l'Enseignement non obligatoire, Cité administrative de l'Etat, boulevard Pachéco 19, bte 0, bureau 4007, à 1010 Bruxelles :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le compte détaillé, en double exemplaire, des recettes et des dépenses relatives aux projets visés à l'article 2;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les pièces justificatives relatives à toutes les dépenses visées au 1°.</span>\n        </li>\n      </ol>\n      <p>Ces pièces doivent être établies en double exemplaire et reprises par ordre chronologique sur un relevé récapitulatif établi également en double exemplaire.</p>\n      <p>Les établissements bénéficiaires tiendront par ailleurs un exemplaire des documents visés au 1° et au 2° à la disposition du Service de Vérification.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.249Z",
+  "tokenUsage": {
+    "prompt": 1855,
+    "completion": 371,
+    "total": 2226
+  }
+}

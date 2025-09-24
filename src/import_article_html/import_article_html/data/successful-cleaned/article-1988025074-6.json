@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1988025074",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\"><span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"\" data-law-type=\"\" data-article-number=\"\">&lt;Voir note sous TITRE&gt;</span> Les conditions de déversement sont fixées en fonction des volumes spécifiques de référence suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pour le sous-secteur I : 0,5 mètre cube d'effluent par tonne d'huile brute traitée à la raffinerie;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour le sous-secteur II : 0,5 mètre cube d'effluent par tonne d'huile brute traitée dans la raffinerie plus 0,1 mètre cube par tonne pour chaque opération complémentaire mentionnée pour le groupe A et plus 0,03 mètre cube par tonne pour chaque opération complémentaire mentionnée pour le groupe B. Au total, le volume spécifique de référence ne peut toutefois dépasser 1,2 mètre cube par tonne d'huile brute traitée; Pour l'application du 1° et du 2°, il n'est pas tenu compte des eaux pluviales polluées.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le volume spécifique de référence n'est pas fixé pour le sous-secteur III.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.713Z",
+  "tokenUsage": {
+    "prompt": 1876,
+    "completion": 416,
+    "total": 2292
+  }
+}

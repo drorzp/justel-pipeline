@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005022676",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les organismes doivent, chaque année de cotisation, introduire, par voie électronique, une déclaration annuelle à l'Institut national, par laquelle ils communiquent les données suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les noms, prénoms et le numéro de registre national des personnes physiques visées à l'article 2, c) de la loi, qui ont exercé, au cours de l'année précédant l'année de cotisation, un mandat public en leur sein;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la dénomination et le numéro d'entreprise des personnes morales visées à l'article 2, c) de la loi, qui ont exercé, au cours de l'année précédant l'année de cotisation, un mandat public en leur sein;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">pour chacune des personnes visées au 1° et 2° :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              <span class=\"sub-provision-text\">le montant total brut des rétributions attribuées du chef de l'exercice du mandat public au cours de l'année précédant l'année de cotisation;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              <span class=\"sub-provision-text\">la période d'exercice du mandat public au cours de l'année précédant l'année de cotisation;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"c)\">\n              <span class=\"sub-provision-text\">l'identité et le numéro d'entreprise de l'organisme que le mandataire public représente.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.886Z",
+  "tokenUsage": {
+    "prompt": 2038,
+    "completion": 517,
+    "total": 2555
+  }
+}

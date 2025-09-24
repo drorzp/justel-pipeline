@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024009175",
+  "articleNumber": "67",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-67\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 67</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 9 du même arrêté, l'alinéa 3 est remplacé par ce qui suit :</p>\n            <p class=\"quote-text\">\" L'interdiction visée à l'alinéa 2, 2° et 3°, ne s'applique pas à la pratique de la chasse particulière et la lutte contre les sangliers, à condition que les instruments soient autorisés par la loi sur les armes du 8 juin 2006. Le ministre fixe les modalités relatives à la détention et à l'utilisation de ces instruments.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.466Z",
+  "tokenUsage": {
+    "prompt": 1622,
+    "completion": 201,
+    "total": 1823
+  }
+}

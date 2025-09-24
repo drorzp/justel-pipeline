@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005649",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 29</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Le Gouvernement flamand détermine pour chaque catégorie d'associations environnementales, visées à l'article 5, alinéa 1er,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">une subvention de démarrage qui ne peut servir qu'à soutenir des activités non économiques en vue de développer un fonctionnement permettant de remplir les missions essentielles, visées aux articles 6 et 7, lors d'une période d'agrément ultérieure.</span>\n                        </li>\n                    </ol>\n                    <p>Le montant de la subvention de démarrage annuelle peut être ajusté en fonction de l'évolution de l'indice de santé.</p>\n                    <p>La subvention de démarrage ne peut être accordée pour des frais de fonctionnement déjà couverts par une autre forme de subventionnement.</p>\n                    <p>Les associations environnementales qui reçoivent une subvention de démarrage ne peuvent pas constituer de réserves avec celle-ci.</p>\n                    <p>Le Gouvernement flamand détermine les modalités de paiement de la subvention de démarrage.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.557Z",
+  "tokenUsage": {
+    "prompt": 1785,
+    "completion": 400,
+    "total": 2185
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998009494",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Les Ministres fixent, de commun accord et après avis du conseil d'administration, l'organisation détaillée, le fonctionnement, les missions et la composition en personnel des services du directeur et des services qui relèvent des divisions.</p>\n                <p class=\"intro-text\">Ils désignent de commun accord et sur proposition du conseil d'administration, qui recueille au préalable l'avis du directeur, les chefs des divisions visées à l'article 2.</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">Les chefs des divisions visées à l'article 2, 1°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">n'appartiennent pas au même service de police générale.</span>\n                    </li>\n                </ol>\n                <p class=\"closing-text\">A l'article 14, § 2 le troisième alinéa est abrogé.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.160Z",
+  "tokenUsage": {
+    "prompt": 1765,
+    "completion": 340,
+    "total": 2105
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025001305",
+  "articleNumber": "127",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-127\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 127</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 148 de la même loi, modifié en dernier lieu par la loi du 20 juillet 2022, les modifications suivantes dont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, le \n            <ol class=\"sub-provisions\">\n              <li class=\"sub-provision\" data-marker=\"b)\">est complété par les mots \"ou du règlement (UE) 2022/2554\"</li>\n            </ol>\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, le \n            <ol class=\"sub-provisions\">\n              <li class=\"sub-provision\" data-marker=\"c)\">est complété par les mots \"ou aux articles 6 à 9 et 18 à 27 du règlement (UE) 2017/2402\"</li>\n            </ol>\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le paragraphe 2 est complété par deux alinéas rédigé comme suit :</span>\n        </li>\n      </ol>\n      <p>\"En cas d'infraction aux articles 6 à 9 et 18 à 27 du règlement 2017/2402, à un acte délégué adopté en vertu desdits articles ou à un acte d'exécution adopté en vertu desdits articles ou d'un tel acte délégué, le montant de l'amende administrative visée à alinéa 1er est dans le cas d'une personne morale, de maximum 5.000.000 euros ou 10 % du chiffre d'affaires annuel total réalisé par cette société au cours de l'exercice précédent. Sans préjudice de l'alinéa 1er, 2° et de l'alinéa 4, lorsque l'infraction a procuré un profit au contrevenant ou a permis à ce dernier d'éviter une perte, le montant maximum de l'amende administrative peut être porté au double du montant de ce profit ou de cette perte.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.775Z",
+  "tokenUsage": {
+    "prompt": 2169,
+    "completion": 574,
+    "total": 2743
+  }
+}

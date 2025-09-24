@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007007077",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-07-31/04\" data-law-type=\"L\" data-article-number=\"26\">\n        <p class=\"intro-text\">Ne justifie pas des qualités morales indispensables visées à l'article 9, alinéa 1er, 3°, le postulant qui, selon le cas :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">a été condamné à une peine criminelle;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">a été condamné à une peine correctionnelle de trois mois ou plus, à l'exception des infractions que le Roi détermine en fonction de leur compatibilité avec l'état de militaire;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">a été destitué d'un emploi public ou a été déchu de l'un des droits prévus à l'article 31, 1° et 6°, du Code pénal, indépendamment de l'infraction commise;</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">comme militaire de réserve, a fait l'objet d'un retrait d'office du grade ou d'un retrait du grade parce qu'il s'est rendu coupable de faits graves incompatibles avec son état de militaire ou, selon le cas, a été mis prématurément, pour les mêmes motifs, en disponibilité, en congé illimité ou en congé définitif lorsqu'il effectuait des prestations volontaires d'encadrement.</span></li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.782Z",
+  "tokenUsage": {
+    "prompt": 2096,
+    "completion": 467,
+    "total": 2563
+  }
+}

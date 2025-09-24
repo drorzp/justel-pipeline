@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002633",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Au plus tard le 30 juin, au moins tous les trois ans, le médiateur adresse aux Parlements un rapport sur l'exercice des missions du service d'enquête visé à l'article 2, 4°, des décrets conjoints.</p>\n      <p>Ce rapport contient au minimum :</p>\n      <ul>\n        <li>le nombre de signalements reçus au cours de l'année civile précédente ou des années civiles précédentes;</li>\n        <li>le nombre de signalements déclarés recevables et le nombre de signalements traités</li>\n        <li>le nombre de signalements ayant conduit au constat de l'existence d'une irrégularité;</li>\n        <li>le nombre de demandes de protection;</li>\n        <li>les recommandations et propositions formulées en application de l'article 23, § 1er, alinée 2, des décrets conjoints ;</li>\n        <li>les mesures formulées dans le rapport établi en application de l'article 23, § 1er, alinéa 2, 4° et 5°, des décrets conjoints.</li>\n      </ul>\n      <p>Le rapport visé à l'alinéa 1er est rendu public par les Parlements.</p>\n      <p>Si aucun rapport n'est établi auparavant, le premier rapport relatif à l'exécution des missions du service d'enquête est transmis aux Parlements au plus tard le 30 juin 2027.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.446Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 398,
+    "total": 2339
+  }
+}

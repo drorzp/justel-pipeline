@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040046",
+  "articleNumber": "90",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-90\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 90</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 21 du même Code, modifié en dernier lieu par la loi du 6 juillet 2017, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">dans le 4° les mots \"article 46, § 2\" sont remplacés par les mots \"article 46, § 3\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">le 13° est renuméroté 14° et remplacé par ce qui suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"14°\">\n                            <span class=\"provision-text\">une procuration authentique destinée exclusivement à représenter une ou plusieurs parties lors de la passation d'un acte authentique, à condition que le fonctionnaire instrumentant ne réclame pas d'honoraire, de vacations ou de frais pour la passation de la procuration et pour autant que la procuration produise ses effets seulement dans les six mois de sa signature.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.783Z",
+  "tokenUsage": {
+    "prompt": 1819,
+    "completion": 357,
+    "total": 2176
+  }
+}

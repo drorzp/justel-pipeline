@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024A05930",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le cadre de sa mission de concertation et de dialogue permanent, la plateforme est chargée de :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">élaborer et émettre des productions concertées synthétisant et articulant les positions des membres permanents de la plateforme. Ces productions sont destinées à alimenter les réflexions du Collège, du Collège réuni et du Gouvernement et à contribuer aux travaux des organes consultatifs communautaires et régionaux bruxellois</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">réaliser ou commander des études, en fonction des besoins identifiés par les membres permanents de la plateforme visés à l'article 4, § 1er, 1° et 2°</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de suivre l'exécution des accords du non-marchand et de contribuer à leur évaluation et leur impact sur l'évolution du secteur non-marchand</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de contribuer aux orientations de développements des outils de gestion utiles à la connaissance du secteur non-marchand</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">de constituer une base documentaire transversale concernant le secteur non-marchand</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">d'assurer la communication, auprès du grand public, des négociations et des protocoles d'accords concernant le secteur non-marchand et de la mise en oeuvre des accords du non-marchand</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.768Z",
+  "tokenUsage": {
+    "prompt": 2022,
+    "completion": 517,
+    "total": 2539
+  }
+}

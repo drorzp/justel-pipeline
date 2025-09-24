@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998003665",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 199 du même Code est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\"Art. 199. A l'exclusion des revenus visés à l'article 21,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">, et des libéralités faites sous la forme d'oeuvres d'art visées à l'article 104, 5°, b, les revenus exonérés en vertu du présent Code ou de dispositions légales particulières, qui sont compris dans les bénéfices de la période imposable, sont, pour la détermination du revenu imposable, déduits desdits bénéfices.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.075Z",
+  "tokenUsage": {
+    "prompt": 1677,
+    "completion": 282,
+    "total": 1959
+  }
+}

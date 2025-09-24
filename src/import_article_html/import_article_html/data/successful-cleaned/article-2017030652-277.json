@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030652",
+  "articleNumber": "277",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-277\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 277</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 26, alinéa 1er, de la même loi, modifié par la loi du 25 avril 2014, est complété par les 5° et 6° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">la gestion des connaissances;</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">d'autres tâches de consultance relatives aux activités de formation et de gestion des connaissances de l'Institut, qui sont désignées par le conseil d'administration.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.729Z",
+  "tokenUsage": {
+    "prompt": 1596,
+    "completion": 228,
+    "total": 1824
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012011493",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les pouvoirs publics et les associations d'institutions de prêt peuvent décider de remplir les obligations prévues par l'article 7, § 1er, pour le compte d'institutions de prêt.</p>\n      <p class=\"intro-text\">Lorsque les pouvoirs publics et/ou les associations d'institutions de prêt font usage de cette faculté, ils payent à la société de gestion soit le montant visé à l'article 4, § 1er, 2°, soit le montant total de la rémunération pour prêt public visé à l'article 4, § 1er, 1° et 2°, dus pour l'ensemble de ces institutions de prêt.</p>\n      <p class=\"closing-text\">Dans ce cas, la société de gestion effectue la notification visée à l'article 8 aux pouvoirs publics et aux associations d'institutions de prêt pour ce qui concerne ces institutions de prêt.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.179Z",
+  "tokenUsage": {
+    "prompt": 1751,
+    "completion": 274,
+    "total": 2025
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029327",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 3,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">de l'arrêté du Gouvernement de la Communauté française du 19 janvier 2001 fixant les conditions d'octroi des subventions pour l'achat de matériel sportif, les termes &quot; et de la région bilingue de Bruxelles-Capitale &quot; sont insérés après les termes &quot; de la région de langue française &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.745Z",
+  "tokenUsage": {
+    "prompt": 1589,
+    "completion": 239,
+    "total": 1828
+  }
+}

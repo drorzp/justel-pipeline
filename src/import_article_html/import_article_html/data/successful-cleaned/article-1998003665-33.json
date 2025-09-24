@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998003665",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 33</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 221, 2°, du même Code, est remplacé par la disposition suivante :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">des revenus et produits de capitaux et biens mobiliers, y compris les premières tranches de revenus visées à l'article 21, 5° et 6°, ainsi que des revenus divers visés à l'article 90, 5° à 7°.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.073Z",
+  "tokenUsage": {
+    "prompt": 1553,
+    "completion": 198,
+    "total": 1751
+  }
+}

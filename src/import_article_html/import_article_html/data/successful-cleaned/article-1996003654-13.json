@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996003654",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 35, alinéa 1er, 6°, du même Code, modifié par l'article 5 de la loi du 14 avril 1965, les mots \"l'article 19, 2°, 3° et 5°\" sont remplacés par les mots \"l'article 19, 2°, 3°, 5° et 7°\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.051Z",
+  "tokenUsage": {
+    "prompt": 1605,
+    "completion": 168,
+    "total": 1773
+  }
+}

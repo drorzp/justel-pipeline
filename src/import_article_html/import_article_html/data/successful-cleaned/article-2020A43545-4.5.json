@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020A43545",
+  "articleNumber": "4.5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4.5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'établissement de rapports d'expertise, dans le cadre de transactions immobilières en vertu du présent code, les organisations de logement social font appel à une des personnes ou instances suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\"><span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2022-11-10/26\" data-law-type=\"DCFL\" data-article-number=\"7\">un estimateur-négociateur</span> du Service flamand des Impôts qui est compétent pour les estimations ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un notaire ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">un géomètre-expert, après accord commun sur l'estimateur ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\"><span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2022-06-03/17\" data-law-type=\"DCFL\" data-article-number=\"17\">un fonctionnaire autorisé par le service chargé par le Gouvernement flamand de la politique du logement, lorsque ce service n'est pas lui-même partie à la transaction immobilière pour laquelle le rapport d'expertise est établi</span>.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">L'estimation de la valeur d'un bien immeuble par une personne ou instance visée à l'alinéa premier, 1° <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-07-09/37\" data-law-type=\"DCFL\" data-article-number=\"57\">, prime sur l'estimation d'un bien immeuble par une personne ou instance visée à l'alinéa 1, 2°, 3° et 4°</span>.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.244Z",
+  "tokenUsage": {
+    "prompt": 2255,
+    "completion": 562,
+    "total": 2817
+  }
+}

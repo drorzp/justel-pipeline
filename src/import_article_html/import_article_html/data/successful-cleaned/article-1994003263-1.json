@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994003263",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article [1].</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le modèle de la formule de déclaration en matière d'impôt des non-résidents à remettre par les contribuables visés à l'article 227, 2° et 3°, du Code des impôts sur les revenus 1992 est déterminé, pour l'exercice d'imposition 1994, à l'annexe au présent arrêté.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.064Z",
+  "tokenUsage": {
+    "prompt": 1548,
+    "completion": 157,
+    "total": 1705
+  }
+}

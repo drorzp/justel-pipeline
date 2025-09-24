@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004484",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les propositions d'inscription sur la liste de sauvegarde ou de classement émanant de la CRMS, visées aux articles 210, § 1er, et 222 § 1er, 2° du CoBAT, sont introduites conformément à l'article 2, alinéas 1er et 2, 2° et 3°, et article 3, du présent arrêté.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.339Z",
+  "tokenUsage": {
+    "prompt": 1522,
+    "completion": 164,
+    "total": 1686
+  }
+}

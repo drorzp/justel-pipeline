@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994029430",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 6 du même arrêté est complété par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">&quot; pour les cours visés au </span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\">1°,</li>\n            <li class=\"sub-provision\" data-marker=\"2°\">2° et</li>\n            <li class=\"sub-provision\" data-marker=\"3°\">3°,</li>\n          </ol>\n          <span class=\"provision-text\"> dans les formations courtes, unités de formation à caractère occupationnel, dont la liste est fixée dans un arrêté délibéré au Conseil du Gouvernement de la Communauté française : 15 élèves. &quot;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.124Z",
+  "tokenUsage": {
+    "prompt": 1631,
+    "completion": 280,
+    "total": 1911
+  }
+}

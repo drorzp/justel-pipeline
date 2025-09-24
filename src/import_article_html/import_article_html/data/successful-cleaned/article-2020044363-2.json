@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044363",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 du décret du 19 mai 2006 relatif au Prêt gagnant-gagnant, modifié par les décrets des 10 décembre 2010, 19 décembre 2014, 23 décembre 2016 et 2 octobre 2020, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 1° est complété par les mots \" et ses arrêtes d'exécution \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté des points 12°, 13° et 14°, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"12°\">\n              <span class=\"provision-text\">\" Vriendenaandeel \" (Action d'Ami) : une action nominative nouvellement émise, acquise avec un apport en numéraire, qui remplit les conditions du présent décret et de ses arrêtes d'exécution</span>\n            </li>\n            <li class=\"provision\" data-number=\"13°\">\n              <span class=\"provision-text\">\" Vriendenaandeelhouder \" (Actionnaire Ami) : une personne physique qui, en dehors du cadre de ses activités commerciales ou professionnelles, a souscrit et libéré entièrement une Action d'Ami</span>\n            </li>\n            <li class=\"provision\" data-number=\"14°\">\n              <span class=\"provision-text\">émetteur : une société qui procède à une augmentation de capital ou à une émission d'actions nouvelles et qui remplit les conditions du présent décret et de ses arrêtés d'exécution.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.082Z",
+  "tokenUsage": {
+    "prompt": 2023,
+    "completion": 494,
+    "total": 2517
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017200111",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 164, § 3, du même arrêté, la première phrase de l'alinéa 3 est remplacé par la phrase suivante :</p>\n      <p class=\"intro-text\">\" L'Office élimine, en tout ou en partie, les dépenses qui, pour une autre raison que celle mentionnée dans l'article 148,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">et suite aux missions des organismes de paiement visées à l'article 24, § 2,</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"4°\">4°</li>\n            <li class=\"sub-provision\" data-marker=\"5°\">5°</li>\n          </ol>\n        </li>\n      </ol>\n      <p class=\"closing-text\">ne sont pas couvertes par une carte d'allocations valable qui accorde le droit aux allocations ou qui, pour un des motifs déterminés par l'Office, ne sont pas valablement introduites.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.624Z",
+  "tokenUsage": {
+    "prompt": 1713,
+    "completion": 354,
+    "total": 2067
+  }
+}

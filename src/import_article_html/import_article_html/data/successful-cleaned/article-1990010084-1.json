@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990010084",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour l'exécution des tâches qui relèvent de leur compétence, le Commissaire général aux réfugiés et aux apatrides, ses adjoints et les fonctionnaires délégués par le Commissaire général sont autorisés à accéder aux informations visées à l'article 3, alinéa 1er, 1° à 6°, 8° et 9°, et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques.</p>\n                <p>La délégation prévue à l'alinéa 1er ne peut être accordée qu'à des agents du niveau 1, nommément et par écrit.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.724Z",
+  "tokenUsage": {
+    "prompt": 1635,
+    "completion": 255,
+    "total": 1890
+  }
+}

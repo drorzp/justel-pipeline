@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003007126",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er, § 1er, alinéa 2, du même arrêté, les mots &quot;l'officier visé au</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et le sous-officier visé au</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">doivent &quot; sont remplacés par les mots &quot; le militaire visé à l'alinéa 1er doit &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.834Z",
+  "tokenUsage": {
+    "prompt": 1578,
+    "completion": 232,
+    "total": 1810
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011201290",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté royal du 9 juin 1999 portant exécution de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers, modifié par les arrêtés royaux des 6 février 2003, 12 septembre 2007, 23 avril 2008 et 28 mai 2009, est complété par un</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"17°\">\n          <span class=\"provision-text\">rédigé comme suit :</span>\n        </li>\n        <li class=\"provision\" data-number=\"17°\">\n          <span class=\"provision-text\">conjoint : le conjoint ainsi que toute personne liée à une autre personne par un partenariat enregistré tel que visé aux articles 10, § 1er,</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">5°, et 40bis, § 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, de la loi du 15 décembre 1980. &quot;</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.217Z",
+  "tokenUsage": {
+    "prompt": 1865,
+    "completion": 402,
+    "total": 2267
+  }
+}

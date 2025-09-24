@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024000478",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 4, 1° à 3° et 5° à 7°, ainsi que les articles 5 à 8 du présent arrêté produisent leurs effets le 1er septembre 2023.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.514Z",
+  "tokenUsage": {
+    "prompt": 1443,
+    "completion": 124,
+    "total": 1567
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011493",
+  "articleNumber": "49",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-49\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 49</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Collège fournit chaque année au CEAOB des informations agrégées sur l'ensemble des mesures et amendes administratives prononcées conformément à l'article 59.</p>\n      <p class=\"intro-text\">Le Collège communique immédiatement au CEAOB les interdictions visées à l'article 59, § 1er, alinéa 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\"></span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.240Z",
+  "tokenUsage": {
+    "prompt": 1578,
+    "completion": 237,
+    "total": 1815
+  }
+}

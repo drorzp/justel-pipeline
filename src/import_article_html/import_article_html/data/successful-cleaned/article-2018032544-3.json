@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032544",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les articles IV.I.17, § 1er et § 2, alinéas 2 et 5, remplacés par l'arrêté royal du 7 juin 2009, IV.I.27,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">5°, IV.I.29, alinéas 1er, 2 et 4 à 10, modifiés par les arrêtés royaux du 7 juin 2009, du 6 avril 2010 et du 25 juin 2010, IV.I.29ter, inséré par l'arrêté royal du 25 juin 2010, IV.I.32, § 2, 2°, remplacé par l'arrêté royal du 7 juin 2009, IV.I.54, alinéas 7 à 10, insérés par l'arrêté royal du 25 juin 2010, IV.II.46, alinéa 1er, modifié par l'arrêté royal du 7 juin 2009, VII.II.17, modifié par les arrêtés royaux du 2 avril 2004, du 7 juin 2009, du 25 juin 2010 et du 28 septembre 2016, VII.II.18, modifié par l'arrêté royal du 7 juin 2009, et VII.II.19, modifié par l'arrêté royal du 7 juin 2009, PJPol, les mots &quot;IV.I.15, alinéa 1er,&quot; sont à chaque fois remplacés par les mots &quot;IV.I.15,&quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.408Z",
+  "tokenUsage": {
+    "prompt": 2085,
+    "completion": 477,
+    "total": 2562
+  }
+}

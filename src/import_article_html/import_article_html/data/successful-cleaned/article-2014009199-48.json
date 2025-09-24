@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014009199",
+  "articleNumber": "48",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-48\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 48</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 12 de la même loi est remplacé par ce qui suit :</p>\n                <p>Art. 12. La direction est chargée de la gestion journalière de l'Institut.</p>\n                <p>Elle est composée d'un directeur de la formation judiciaire, assisté d'un directeur adjoint.</p>\n                <p>Le directeur est un magistrat.</p>\n                <p>Le directeur et le directeur adjoint sont d'un rôle linguistique différent.</p>\n                <p>En cas d'absence de longue durée tant du directeur que du directeur adjoint, le conseil d'administration peut proposer au ministre de la Justice de désigner un membre de la direction ad interim. Dans ce cas, le membre de la direction ad interim est désigné par arrêté royal, sur la proposition du ministre de la Justice.</p>\n                <p>En cas d'absence de longue durée d'un seul des deux membres de la direction, le membre de la direction présent soumet pour accord aux commissaires du gouvernement toutes les décisions importantes visées à l'article 13, alinéa 1er, 3° et 4°.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.067Z",
+  "tokenUsage": {
+    "prompt": 1775,
+    "completion": 347,
+    "total": 2122
+  }
+}

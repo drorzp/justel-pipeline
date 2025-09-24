@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002022559",
+  "articleNumber": "58",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-58\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 58</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la loi du 8 juillet 1976 organique des centres publics d'aide sociale, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">A l'article 60, § 3, deuxième alinéa, les termes \" article 6 de la loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence \" sont remplacés par les termes \" aux articles 3, 5° et 6°, 4, 11 et 13, § 2, de la loi du 26 mai 2002 concernant le droit à l'intégration sociale \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">A l'article 68bis, § 5, les mots \" article 5 de la loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence \" sont remplacés par les mots \" article 16 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.689Z",
+  "tokenUsage": {
+    "prompt": 1857,
+    "completion": 348,
+    "total": 2205
+  }
+}

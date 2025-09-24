@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019013243",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2 de l'arrêté du Gouvernement flamand du 13 juillet 2001 fixant les critères, les conditions et les montants de référence des interventions d'assistance matérielle individuelle à l'intégration sociale des personnes handicapées, modifié par les arrêtés du Gouvernement flamand des 19 juillet 2002, 14 mai 2004, 12 décembre 2008, 9 décembre 2011 et 14 décembre 2018, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les points 4°, 5° et 6° sont abrogés ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">il est ajouté un point 20°, libellé comme suit : \" 20° fiches d'aide : les fiches d'aide énumérées à l'annexe IV jointe au présent arrêté, qui contiennent la description, le groupe cible, les dispositions de cumul et les conditions spécifiques de l'assistance mentionnée dans la liste de référence ou dans la liste de référence bis.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.334Z",
+  "tokenUsage": {
+    "prompt": 1830,
+    "completion": 349,
+    "total": 2179
+  }
+}

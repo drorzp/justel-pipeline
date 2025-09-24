@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014024303",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le présent arrêté entre en vigueur le lendemain de sa publication au Moniteur belge, à l'exclusion des points 2°, 3° et 4° de l'article 18. Ces points entrent en vigueur dès que le Ministre a fixé les conditions stipulées à l'article 25 et pas avant le 1er janvier 2016.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.195Z",
+  "tokenUsage": {
+    "prompt": 1498,
+    "completion": 152,
+    "total": 1650
+  }
+}

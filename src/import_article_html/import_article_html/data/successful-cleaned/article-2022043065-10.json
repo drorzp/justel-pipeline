@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043065",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article [Art.] 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 2, 10°, à l'article 4, 1° et 2° et à l'article 11, § 2, alinéa 3 et § 3, les mots \"arrêté royal du 26 novembre 2011\" sont remplacés par les mots \"arrêté royal du 17 décembre 2021\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.863Z",
+  "tokenUsage": {
+    "prompt": 1511,
+    "completion": 160,
+    "total": 1671
+  }
+}

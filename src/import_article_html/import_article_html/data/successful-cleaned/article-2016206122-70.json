@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016206122",
+  "articleNumber": "70",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-70\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 70</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 202.D du même Code, l'expression \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1.D\" data-law-type=\"article\" data-article-number=\"11°, 15°, 16°, 19°, 26°, 29°, 33° et 41°\">\n          \" article 1.D, 11°, 15°, 16°, 19°, 26°, 29°, 33° et 41° \"\n        </span> \n        est remplacée par l'expression \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1.D\" data-law-type=\"article\" data-article-number=\"11°, 12°, 23°, 29°, 35°, 47° et 53°\">\n          \" article 1.D, 11°, 12°, 23°, 29°, 35°, 47° et 53° \"\n        </span>, \n        et les mots \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"établissement d'\" data-law-type=\"mots\" data-article-number=\"abrogés\">\n          \" établissement d' \"\n        </span> \n        sont abrogés.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.775Z",
+  "tokenUsage": {
+    "prompt": 1529,
+    "completion": 354,
+    "total": 1883
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001981",
+  "articleNumber": "259",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-259\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 259</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article D.3 du Code wallon du Patrimoine, sub article 1er du décret du 28 septembre 2023 remplaçant le Code wallon du Patrimoine et portant des dispositions diverses, les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"28°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"31°\">\n          <span class=\"provision-text\">sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.435Z",
+  "tokenUsage": {
+    "prompt": 1541,
+    "completion": 210,
+    "total": 1751
+  }
+}

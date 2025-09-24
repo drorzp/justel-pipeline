@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002021488",
+  "articleNumber": "355",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-355\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 355</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 23, § 1er, de la loi du 24 décembre 1999 en vue de la promotion de l'emploi, modifié par la loi du 2 janvier 2001, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 1° est supprime;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le 2°, les mots \" en cas de pénurie des jeunes visés au 1°, \" sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le 3°, les mots \" 1° et \" sont supprimés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.637Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 286,
+    "total": 1956
+  }
+}

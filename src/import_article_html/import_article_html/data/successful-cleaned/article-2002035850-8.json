@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002035850",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les articles VI 1, VI 2, § 2, VI 3 à VI 6 inclus, VI 8 à VI 10 inclus, VI 14, VI 17 à VI 19 inclus, VI 24, VII 1, VII 4, VIII 38, VIII 41 à VIII 43 inclus et VIII 48 du même arrêté, les mots &quot; le Secrétaire permanent au recrutement &quot; sont remplacés par les mots &quot; le Bureau de Sélection de l'Administration fédérale &quot;.</p>\n      <p class=\"intro-text\">Dans les articles VI 2, § 1er, 2°, VI 26, § 1er et VI 27, 2° et VIII 35 du même arrêté, les mots &quot; le Secrétariat permanent de Recrutement &quot; sont remplacés par les mots &quot; le Bureau de Sélection de l'Administration fédérale &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.703Z",
+  "tokenUsage": {
+    "prompt": 1780,
+    "completion": 293,
+    "total": 2073
+  }
+}

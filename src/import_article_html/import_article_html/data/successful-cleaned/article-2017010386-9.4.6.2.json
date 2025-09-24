@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010386",
+  "articleNumber": "9.4.6.2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9-4-6-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9.4.6.2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>La décision d'imposition d'une sanction par la Mestbank, telle que visée à l'article 9.4.6.1, §§ 1er et 2, est notifiée au transporteur d'engrais par envoi sécurisé.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La décision de suspension ou de retrait, visée à l'article 9.4.6.1, § 1er et § 2, 2° et 3°, est publiée dans au moins deux revues professionnelles dans les 14 jours après l'envoi de l'envoi sécurisé, visé au paragraphe 1er.</p>\n        <p>Par dérogation à l'alinéa 1er, des décisions de suspension pour une période de deux semaines au maximum ne sont pas publiées dans les revues professionnelles.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.749Z",
+  "tokenUsage": {
+    "prompt": 1840,
+    "completion": 344,
+    "total": 2184
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013003336",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 165, § 1er, du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, 1° et 3°, les mots \" § 1er\" sont chaque fois remplacés par les mots \" § § 1er et 1er/1\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 2 est remplacé par ce qui suit : \"Dans ces cas, la saisie-arrêt pratiquée par le receveur en application de l'article 164, §§ 1er et 1er/1, garde ses effets conservatoires si le receveur fait procéder par exploit d'huissier, comme prévu à l'article 1539 du Code judiciaire, à une saisie-arrêt-exécution entre les mains du tiers dans le mois qui suit :</span>\n          <ul class=\"hyphenated-items\">\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"item-text\">soit le dépôt à la poste de l'opposition du redevable prévue à l'article 164, § 1er/2, alinéa 2, ou de la déclaration prévue à l'article 1452 du Code judiciaire;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"item-text\">soit l'accusé de réception de cette déclaration si elle a été transmise au moyen d'une procédure utilisant les techniques de l'informatique comme prévu à l'article 164, § 3, alinéa 1er, premier tiret.\".</span>\n            </li>\n          </ul>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.082Z",
+  "tokenUsage": {
+    "prompt": 2056,
+    "completion": 499,
+    "total": 2555
+  }
+}

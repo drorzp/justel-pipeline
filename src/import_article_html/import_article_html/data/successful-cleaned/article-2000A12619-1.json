@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000A12619",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La présente convention s'applique aux employeurs et aux travailleurs qu'ils occupent en application des articles 22, 1° et 2°, 23 ainsi que 24 de la loi du 16 mars 1971 sur le travail.</p>\n            <p>Commentaire.</p>\n            <p class=\"closing-text\">Les travailleurs occupés en application des articles 22, 1° et 2°, 23 et 24 de la loi du 16 mars 1971 sont respectivement et en exécution de ces dispositions, ceux occupés :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">à un travail effectué par équipes successives;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">à l'exécution de travaux qui ne peuvent être interrompus en raison de leur nature;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">dans les branches d'activité, catégories d'entreprises ou les branches d'entreprises où les limites normales de la durée du travail ne peuvent être respectées;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">à des travaux préparatoires ou complémentaires qui doivent nécessairement être effectués en dehors du temps assigné au travail général de production;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">à des travaux de transport, de chargement ou de déchargement;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">à des travaux dont le temps nécessaire à l'exécution ne peut, en raison de leur nature même, être déterminé d'une manière précise;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">à des travaux où les matières mises en oeuvre sont susceptibles d'altération très rapide.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.199Z",
+  "tokenUsage": {
+    "prompt": 2034,
+    "completion": 500,
+    "total": 2534
+  }
+}

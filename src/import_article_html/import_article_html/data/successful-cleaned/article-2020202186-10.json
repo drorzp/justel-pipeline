@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020202186",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation à l'article 8, les informations et décisions relatives à la date, et le cas échéant à l'horaire des élections, ainsi que celles relatives au calendrier électoral tel que visé à l'article 14, alinéa 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">1°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"7°\">\n                        <span class=\"provision-text\">7°</span>\n                    </li>\n                </ol>\n                <p>de la loi du 4 décembre 2007, sont adaptées en fonction de la nouvelle date des élections sociales à fixer par le Roi, et conformément aux modalités déterminées à ce sujet, comme prévu à l'article 6.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.091Z",
+  "tokenUsage": {
+    "prompt": 1574,
+    "completion": 296,
+    "total": 1870
+  }
+}

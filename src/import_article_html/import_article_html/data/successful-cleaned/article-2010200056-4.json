@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010200056",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un comité directeur eHealth est institué au sein du Comité de concertation des utilisateurs de la plate-forme eHealth. Il est composé :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">du Président;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">des vice-présidents;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">de la personne chargée de la gestion journalière de la plate-forme eHealth;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">du directeur général de la plate-forme eHealth;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">de deux membres désignés parmi les membres effectifs visés à l'article 1er, § 1er, 1°, 2°, 3°, 4°, 5° et 6°.</span></li>\n      </ol>\n      <p class=\"closing-text\">Le comité directeur eHealth organise et coordonne les activités du Comité de concertation des utilisateurs de la plate-forme eHealth et prépare les réunions de celui-ci.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.295Z",
+  "tokenUsage": {
+    "prompt": 1813,
+    "completion": 378,
+    "total": 2191
+  }
+}

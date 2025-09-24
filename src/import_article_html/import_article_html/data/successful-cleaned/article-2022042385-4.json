@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042385",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le chèque \" implémentation stratégique \" porte sur la concrétisation du projet de digitalisation, à savoir sur la réalisation des développements ou investissements, et qui constitue la troisième phase de la thématique \" relance économique par le numérique \", après le diagnostic réalisé dans le cadre du chèque \" diagnostic \", et le plan d'actions stratégiques réalisé dans le cadre du chèque \" plan d'actions stratégiques \", respectivement visés par l'article 3, alinéa 1er, 1° et 2°, de l'arrêté ministériel du 20 décembre 2021.</p>\n            <p class=\"closing-text\">La prestation relative au chèque \" implémentation stratégique \" est effectuée sous la supervision du prestataire de services des chèques \" diagnostic \" ou \" plan d'actions stratégiques \" qui peut décider soit de prendre en charge lui-même la mise en oeuvre de la stratégie et le développement technique des outils, soit de recourir jusqu'à cent pour cent à un sous-traitant qui travaille sous son entière responsabilité.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.864Z",
+  "tokenUsage": {
+    "prompt": 1834,
+    "completion": 306,
+    "total": 2140
+  }
+}

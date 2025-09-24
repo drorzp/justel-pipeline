@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011245",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 78/1 de l'arrêté VLAREBO du 14 décembre 2007, inséré par l'arrêté du Gouvernement flamand du 23 octobre 2015, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les mots &quot; la personne procédant à l'assainissement du sol ainsi que &quot; sont remplacés par le membre de phrase &quot; la personne procédant à l'assainissement du sol, &quot; ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le membre de phrase &quot; la division compétente chargée de l'évaluation de l'impact sur l'environnement, &quot; est remplacé par le membre de phrase &quot; la division compétente pour l'évaluation des incidences sur l'environnement et les instances consultatives visées à l'article 83, 1° et 2°, et à l'article 84, &quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.757Z",
+  "tokenUsage": {
+    "prompt": 1817,
+    "completion": 336,
+    "total": 2153
+  }
+}

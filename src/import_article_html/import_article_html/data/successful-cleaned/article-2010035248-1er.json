@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035248",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 27 octobre 1993 portant généralisation du régime des contractuels subventionnés, dernièrement modifié par l'arrêté du Gouvernement flamand du 6 mars 2009, sont ajoutés les points 40° et 41°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"40°\">\n          <span class=\"provision-text\">\" groupe cible \"WIP\" :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">le demandeur d'emploi inoccupé qui est employé dans le cadre et pour la durée du WIP et qui au jour de son entrée en service a été inscrit comme demandeur d'emploi pendant au moins douze mois auprès du \" Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding \". Durant cette période, le demandeur d'emploi inoccupé n'a ni été chômeur complet indemnisé, ni travaillé comme salarié, ni exercé une profession indépendante;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">le demandeur d'emploi qui est employé dans le cadre et pour la durée du WIP et qui au jour de son entrée en service a été chômeur complet indemnisé pendant au moins douze mois;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"41°\">\n          <span class=\"provision-text\">WIP : le \" Werkgelegenheidsplan \" (Plan de l'emploi) et les lignes directrices du \" Investeringsplan \" (Plan d'investissement) du 18 décembre 2009. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.233Z",
+  "tokenUsage": {
+    "prompt": 2018,
+    "completion": 468,
+    "total": 2486
+  }
+}

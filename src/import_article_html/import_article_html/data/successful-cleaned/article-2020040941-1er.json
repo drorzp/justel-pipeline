@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020040941",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté royal du 6 novembre 2010 relatif à la fixation des redevances liées à l'immatriculation de véhicules, remplacé par l'arrêté royal du 9 novembre 2015 et modifié par l'arrêté royal du 15 novembre 2017, les point 5°, 6°, 7° et 8° sont remplacés et rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">pour la délivrance, visée à l'article 39 de l'arrêté royal du 8 janvier 1996 portant réglementation de l'immatriculation des plaques commerciales et des plaques nationales pour véhicules à moteur et remorques, d'une plaque essai, d'une plaque marchand ou d'une plaque professionnelle et du certificat d'immatriculation y afférant : 100 EUR</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">pour un duplicata d'un certificat d'immatriculation \" essai \", \" marchand \" ou \" professionnelle \" détérioré : 45 EUR;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">pour toute modification visée à l'article 41 de l'arrêté royal du 8 janvier 1996 portant réglementation de l'immatriculation des plaques commerciales et des plaques nationales pour véhicules à moteur et remorques : 45 EUR;</span>\n        </li>\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">pour le renouvellement, visé respectivement à l'article 37 et à l'article 38 de l'arrêté royal du 8 janvier 1996 portant réglementation de l'immatriculation des plaques commerciales et des plaques nationales pour véhicules à moteur et remorques, d'une plaque essai, d'une plaque marchand ou d'une plaque professionnelle: 45 EUR</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.265Z",
+  "tokenUsage": {
+    "prompt": 2206,
+    "completion": 538,
+    "total": 2744
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005200833",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er janvier 2005 à l'exception de ses articles 6,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">4°</span>\n                </li>\n                <li class=\"provision\" data-number=\"7\">\n                    <span class=\"provision-text\">7</span>\n                </li>\n                <li class=\"provision\" data-number=\"9\">\n                    <span class=\"provision-text\">9</span>\n                </li>\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1°</span>\n                </li>\n                <li class=\"provision\" data-number=\"12 à 15\">\n                    <span class=\"provision-text\">12 à 15</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">qui entrent en vigueur le 1er décembre 2004 et de son article 8 qui produit ses effets le 1er décembre 2002.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.794Z",
+  "tokenUsage": {
+    "prompt": 1561,
+    "completion": 356,
+    "total": 1917
+  }
+}

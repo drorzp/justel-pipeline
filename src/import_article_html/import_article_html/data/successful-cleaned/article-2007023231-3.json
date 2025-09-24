@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007023231",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 129, alinéa 1er du même arrêté, remplacé par l'arrêté royal du 29 décembre 1997 et modifié par l'arrêté royal du 16 mars 1999, les mots \" 1° à 16° et 20° \" sont remplacés par les mots \" 1° à 16°, 20° et 22° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.955Z",
+  "tokenUsage": {
+    "prompt": 1520,
+    "completion": 163,
+    "total": 1683
+  }
+}

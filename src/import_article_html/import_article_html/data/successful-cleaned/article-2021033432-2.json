@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021033432",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 332, § 1er, du Code réglementaire wallon de l'Action sociale et de la Santé, modifié par l'arrêté du Gouvernement wallon du 4 décembre 2014, les 1° et 2°, sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">0,036 équivalent temps plein responsable de l'accompagnement par tranche entamée de mille heures d'aide à la vie quotidienne admissibles à la subvention réalisée par le service l'année précédente, avec un minimum de 0,50 équivalent temps plein;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">0,022 équivalent temps plein employé administratif par tranche entamée de mille heures d'aide à la vie quotidienne admissibles à la subvention réalisée par le service l'année précédente, avec un minimum de 0,50 équivalent temps plein;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.191Z",
+  "tokenUsage": {
+    "prompt": 1774,
+    "completion": 321,
+    "total": 2095
+  }
+}

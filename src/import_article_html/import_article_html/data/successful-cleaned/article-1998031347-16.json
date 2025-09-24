@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998031347",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les modifications suivantes sont apportées à l'article 37 de la même ordonnance :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, les mots \" au plan régional de développement \" sont supprimés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'alinéa 1er, 1°, est remplacé par la disposition suivante :<br>\" 1° il ne peut être porté atteinte aux données essentielles du plan régional d'affectation du sol ni aux dispositions prises en application des articles 17, alinéa 1er, 4° et 26, deuxième alinéa, 6°; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">à l'alinéa 2, les mots \" des plans régionaux de développement et d'affectation du sol \" sont remplacés par \" du plan régional d'affectation du sol \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.055Z",
+  "tokenUsage": {
+    "prompt": 1789,
+    "completion": 347,
+    "total": 2136
+  }
+}

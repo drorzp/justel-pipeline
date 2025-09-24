@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006029091",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Pour chaque haute école et pour chacun des cursus visés <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-07-04/07\" data-law-type=\"DCFR\" data-article-number=\"1\">à l'article 7, 3°, 5° et 6°</span>, il est établi un nombre T égal au nombre total d'étudiants qui s'inscrivent pour la première fois dans le cursus concerné et qui sont pris en compte pour le financement, ainsi qu'un nombre NR égal au nombre des étudiants qui s'inscrivent pour la première fois dans le cursus concerné et qui ne sont pas considérés comme étudiants résidents au sens de l'article 1er.</p>\n      <p>Lorsque le rapport entre le nombre NR, d'une part et le nombre T de l'année académique précédente, d'autre part, atteint un pourcentage P, les autorités des hautes écoles refusent l'inscription supplémentaire d'étudiants qui n'ont jamais été inscrits dans le cursus concerné qui ne sont pas considérés comme étudiants résidents au sens de l'article 1er.</p>\n      <p>Le P visé à l'alinéa précédent est fixé à 30 pour cent. Toutefois, lorsque pour une année académique, la part des étudiants qui poursuivent leurs études ailleurs que dans le pays où ils ont obtenu leur diplôme d'études secondaires dépasse dix pour cent en moyenne dans l'ensemble des établissements d'enseignement supérieur de l'Union européenne, le P est égal, pour l'année académique suivante, à ce pourcentage multiplié par trois.</p>\n      <p>(NOTE : par son arrêt n° 89/2011 du 31-05-2011, M.B. 10-08-2011, p. 45511-45519, la Cour constitutionnelle a annulé l'article 8, sauf en ce qu'il s'applique à l'article 7, 5°.)</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.680Z",
+  "tokenUsage": {
+    "prompt": 2184,
+    "completion": 498,
+    "total": 2682
+  }
+}

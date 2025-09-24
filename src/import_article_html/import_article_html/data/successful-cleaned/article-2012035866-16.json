@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012035866",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 24 du même décret est remplacé par ce qui suit :</p>\n      <blockquote class=\"article-quote\">\n        <p class=\"intro-text\">\" Art. 24. L'article 31 du même décret est remplacé par ce qui suit :</p>\n        <blockquote class=\"article-quote\">\n          <p class=\"intro-text\">\" Art. 31. La ville ou commune introduisant une demande de subvention à l'intégration, démontre comment elle a impliqué les personnes, visées à l'article 3, alinéa premier,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1° et</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">2°, et leurs organisations à l'élaboration, et comment les personnes, visées à l'article 3, alinéa premier,</span>\n            </li>\n          </ol>\n          <p class=\"closing-text\">2°, et leurs organisations seront impliqués à l'exécution du planning pluriannuel stratégique. Le Gouvernement flamand fixe le cofinancement pour la politique locale d'intégration.</p>\n        </blockquote>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.321Z",
+  "tokenUsage": {
+    "prompt": 1784,
+    "completion": 364,
+    "total": 2148
+  }
+}

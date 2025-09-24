@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007023264",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans les limites du budget prévu à cet effet, une intervention de l'assurance soins de santé destinée à soutenir l'utilisation de solutions informatiques nécessaires à la mise en oeuvre du projet est octroyée aux candidats sélectionnés <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-11-10/30\" data-law-type=\"AR\" data-article-number=\"3\">en vertu de l'article 7</span>. Cette intervention est octroyée sous la forme d'un montant forfaitaire unique de 650 euros. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-11-10/30\" data-law-type=\"AR\" data-article-number=\"3\">Toutefois les candidats concernés par l'article 3 peuvent bénéficier d'un montant complémentaire de 280 euro à condition qu'ils répondent également aux conditions de l'article 3 bis.</span> Cette intervention est payée par le Service des soins de santé de l'Institut national d'assurance maladie-invalidité à chaque candidat sélectionné avec lequel une convention, telle que visée à l'article 2, a été conclue. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-11-10/30\" data-law-type=\"AR\" data-article-number=\"3\">Le montant de l'intervention sera récupéré auprès des candidats qui ne respectent pas les engagements repris à l'article 3bis, 3° et 4°.</span> Une somme de 180.000 euros gérée par l'Institut national d'Assurance maladie-invalidité est réservée afin de financer le suivi et le développement du projet.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.957Z",
+  "tokenUsage": {
+    "prompt": 2024,
+    "completion": 444,
+    "total": 2468
+  }
+}

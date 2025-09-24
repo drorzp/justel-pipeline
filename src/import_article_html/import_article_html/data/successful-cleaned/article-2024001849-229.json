@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001849",
+  "articleNumber": "229",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-229\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 229</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Il est inséré dans le même Code un article 588/1 rédigé comme suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 588/1.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les locaux du service de santé mentale ne peuvent jamais être mis à disposition d'un prestataire indépendant autre que ceux visé à l'article 558, § 1er, alinéa 1er, 3° et 4°.</p>\n          <p>Les locaux du service de santé mentale ne peuvent jamais être mis à disposition d'un prestataire indépendant visé à l'article 558, § 1er, alinéa 1er, 3° et 4°, lorsque ce prestataire indépendant ne respecte pas les honoraires maximaux fixés dans la convention de collaboration visée à l'article 568.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.435Z",
+  "tokenUsage": {
+    "prompt": 1766,
+    "completion": 282,
+    "total": 2048
+  }
+}

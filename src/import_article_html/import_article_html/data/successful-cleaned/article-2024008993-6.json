@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024008993",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 10 du même décret, modifié en dernier lieu par le décret du 22 décembre 2021, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">au paragraphe 1er, il est inséré l'alinéa 6 suivant :</span>\n        <blockquote>\n          <p>Par dérogation à l'alinéa 3, lorsqu'il s'agit d'une transformation ou d'une extension d'une installation ou d'une activité désignée par le Gouvernement, les délais de la procédure d'instruction du permis sont ceux applicables aux établissements de classe 1.</p>\n        </blockquote>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">il est inséré un paragraphe 4 rédigé comme suit :</span>\n        <section class=\"paragraph\" id=\"para-4\">\n          <h3 class=\"paragraph-marker\">§ 4.</h3>\n          <div class=\"paragraph-content\">\n            <p>Sauf si elle est justifiée pour permettre la mise en oeuvre des mesures de restitution, de sécurité ou de contrainte visées aux articles D.169, D.185, D.189 et D.201 du Livre Ier du Code de l'Environnement, la demande de transformation ou d'extension est irrecevable lorsque les- dites mesures n'ont pas été mises en oeuvre.</p>\n            <p>A cet effet, le fonctionnaire technique consulte les données du fichier central visé à l'article D.144, § 1er, alinéa 3, 2°, 3°, 5°, 8° et 10°, du Livre Ier du Code de l'Environnement.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.467Z",
+  "tokenUsage": {
+    "prompt": 2075,
+    "completion": 476,
+    "total": 2551
+  }
+}

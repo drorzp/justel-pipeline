@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004022939",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                La demande d'agrément en qualité de praticien d'une profession paramédicale est adressée par l'intéressé au Ministre,\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-02-16/44\" data-law-type=\"AR\" data-article-number=\"1\">...</span>, \n                à l'aide d'un formulaire fourni par la Direction générale. La demande est accompagnée d'une copie \n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-02-16/44\" data-law-type=\"AR\" data-article-number=\"1\">...</span> \n                du diplôme, du certificat ou du document délivré par un établissement créé, subventionné ou agréé par l'autorité compétente, et attestant que l'intéressé satisfait aux conditions de qualification requises, précisées par Nous pour ce qui concerne la profession en question, en exécution de l'art. 23, § 1er, ou de l'art. 22,\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">de l'arrêté royal n° 78 susmentionné du 10 novembre 1967.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">\n                Le Ministre transmet le dossier de la demande, aux fins d'avis, au groupe de travail compétent dans les dix jours ouvrables après réception.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.776Z",
+  "tokenUsage": {
+    "prompt": 1970,
+    "completion": 452,
+    "total": 2422
+  }
+}

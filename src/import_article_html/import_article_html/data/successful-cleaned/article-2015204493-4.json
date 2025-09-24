@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015204493",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Une allocation forfaitaire annuelle de fonction est attribuée :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">aux brigadiers forestiers qui étaient en fonction au 1er décembre 1994 et ce, jusqu'à leur pension;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">aux préposés forestiers visés à l'article 1er, 4° et 5°, qui exercent la fonction de brigadier forestier en application de l'article 4, § 2, alinéa 1er, 2°, et ce, pour la période durant laquelle ils exercent cette fonction.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le montant de l'allocation est fixé à 1.785,60 euros. Ce montant est rattaché à l'indice-pivot 138,01 du 1er janvier 1990 conformément à la règle prévue à l'article 514 du Code de la Fonction publique wallonne.</p>\n        <p>L'allocation est payée par douzièmes mensuels avec le traitement du deuxième mois qui suit le mois auquel elle se rapporte.</p>\n        <p>Le montant de l'allocation est diminué d'un vingtième par jour ouvrable non presté, à l'exception des congés annuels, des congés de récupération, des jours de congé accordés en compensation d'un jour férié, des jours pour lesquels une dispense de service est accordée ainsi que des jours de congés syndicaux.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.201Z",
+  "tokenUsage": {
+    "prompt": 2075,
+    "completion": 516,
+    "total": 2591
+  }
+}

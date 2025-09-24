@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018202569",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article D.IV.1, § 1er, du même Code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">le point 3° est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">le point 4° devient le point 3° et les mots \" visée à l'article 216/1, § 2, \" y sont remplacés par les mots qui suivent : \" préalable visée à l'article 25, alinéa 1er, 1°, \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"c)\">\n          <span class=\"provision-text\">le point 5° est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"d)\">\n          <span class=\"provision-text\">l'alinéa 2 du paragraphe 2 du même article, est remplacé par ce qui suit : \" Cette liste n'est toutefois pas applicable aux actes et travaux qui se rapportent à des biens classés, inscrits sur la liste de sauvegarde ou soumis provisoirement aux effets du classement. Le Gouvernement peut prévoir, pour les biens situés dans une zone de protection, pastillés à l'inventaire régional du patrimoine, repris aux inventaires communaux, ou concernant le petit patrimoine populaire, les exonérations de permis d'urbanisme qui ne sont pas applicables.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.320Z",
+  "tokenUsage": {
+    "prompt": 1952,
+    "completion": 435,
+    "total": 2387
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021030419",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les parties non justifiées des subventions doivent être remboursées à l'Office conformément à l'article 13 de la loi du 16 mai 2003 <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-05-16\" data-law-type=\"L\" data-article-number=\"13\">fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes</span> et à l'article 61,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">, du décret du 20 décembre 2011 portant organisation du budget et de la comptabilité des Services du Gouvernement de la Communauté française.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.124Z",
+  "tokenUsage": {
+    "prompt": 1649,
+    "completion": 298,
+    "total": 1947
+  }
+}

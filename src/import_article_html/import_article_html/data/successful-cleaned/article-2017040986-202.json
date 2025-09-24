@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040986",
+  "articleNumber": "202",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-202\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 202</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 129 du même décret, à l'article 16.3.24bis, à insérer, du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, au premier alinéa, le membre de phrase &quot; Les fonctionnaires désignés par le collège des bourgmestre et échevins, visés à l'article 6.2.4, alinéa premier, &quot; est remplacé par le membre de phrase &quot; les membres du personnel désignés par le collège des bourgmestre et échevins, visés à l'article 6.2.5/1, § 1, alinéa premier,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">&quot;.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.623Z",
+  "tokenUsage": {
+    "prompt": 1730,
+    "completion": 304,
+    "total": 2034
+  }
+}

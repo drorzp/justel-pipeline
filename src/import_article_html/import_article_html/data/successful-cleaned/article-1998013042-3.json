@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998013042",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le compte individuel, visé à l'article 4, §1, de l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux, énonce les totaux des sommes, prévues dans les articles 16, § 1, 7°, a) et § 2, 3° et § 3, 1° de l'arrêté royal du 8 août 1980 relatif à la tenue des documents sociaux, et les montants du salaire et de toute autre somme, visé à l'article 16, § 1, 7°, h) de ce même arrêté, en franc belge et en euro. Le compte individuel doit dans ce cas également contenir le taux de conversion entre le franc belge et l'euro, comme prévu conformément à l'article 109 L, § 4, du Traité instituant la Communauté européenne.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.159Z",
+  "tokenUsage": {
+    "prompt": 1798,
+    "completion": 268,
+    "total": 2066
+  }
+}

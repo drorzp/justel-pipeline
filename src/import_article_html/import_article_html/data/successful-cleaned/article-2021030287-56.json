@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021030287",
+  "articleNumber": "56",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-56\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 56</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-05-17/52\" data-law-type=\"AGF\" data-article-number=\"15\">\n          Les trains dont les véhicules portuaires font partie\n        </span>\n        sont à tout temps soumis aux conditions suivantes, fixées dans le présent arrêté pour le véhicule portuaire de la catégorie la plus basse faisant partie du train en question :\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les conditions de délimitation de l'usage de la voie publique ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les conditions dans lesquelles le véhicule portuaire peut être déployé sur la voie publique.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">\n        Pour l'application du premier alinéa, les véhicules portuaires visés à l'article 3,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">sont considérés comme la catégorie la plus basse et les véhicules portuaires visés à l'article 3,</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">comme la catégorie la plus haute.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.125Z",
+  "tokenUsage": {
+    "prompt": 1913,
+    "completion": 489,
+    "total": 2402
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003035650",
+  "articleNumber": "3.16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3.16</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 65 du même décret est remplacé par la disposition suivante :</p>\n        <p>\" Article 65.</p>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Des centres d'enseignement sont des structures de coopération dont le fonctionnement est réglé soit par la décision du seul pouvoir organisateur concerne, soit par la convention entre les différents pouvoirs organisateurs concernés.</p>\n                <p>En cas de structures de coopération sans transfert de la gestion, les centres d'enseignement relèvent de la responsabilité et de la tutelle hiérarchique du/des pouvoir(s) organisateur(s) concerné(s).</p>\n                <p>En cas de structures de coopération avec transfert de la gestion, les centres d'enseignement relèvent des formes de tutelle fixées dans le décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire ou la réglementation organique sur les pouvoirs locaux, respectivement les formes de tutelle organisées par le(s) pouvoir(s) organisateur(s) concerné(s).</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le transfert de la gestion n'est possible qu'à l'égard des compétences visées à l'article 71, 4°, 6°, 7°, 8°, 9°, 10° et 11°.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.721Z",
+  "tokenUsage": {
+    "prompt": 1918,
+    "completion": 409,
+    "total": 2327
+  }
+}

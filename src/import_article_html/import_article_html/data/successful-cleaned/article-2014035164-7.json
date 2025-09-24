@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035164",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">En exécution de l'article 10, alinéa premier,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">de l'arrêté du du Gouvernement flamand du 9 novembre 2012, les demandes doivent être introduites selon la procédure qui est consultable dans le manuel sur le site web de &quot; Screen Flanders &quot;.</span></li>\n            </ol>\n            <p class=\"closing-text\">Une demande ne peut être déclarée recevable que lorsqu'elle est complètement remplie et entièrement en possession de l'&quot; Agentschap Ondernemen &quot; avant la date limite d'introduction. Un projet qui a été introduit pendant un appel antérieur mais qui n'a pas bénéficié d'aide, ne peut être ré-introduit qu'une seule fois. Un projet qui a déjà bénéficié d'aide suite à un appel antérieur, ne peut plus être ré-introduit.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.336Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 324,
+    "total": 2085
+  }
+}

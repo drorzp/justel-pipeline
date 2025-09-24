@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011836",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        A l'article 3 de l'arrêté royal du 30 septembre 2005 désignant les infractions par degré aux règlements généraux pris en exécution de la loi relative à la police de la circulation routière, sanctionné par la loi du 21 décembre 2006 et modifié par les arrêtés royaux des 28 décembre 2006, 7 avril 2007, 9 janvier 2013 et 28 mars 2013 et sanctionné par les lois des 18 mai 2008 et 3 août 2016, les points:\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"47°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"48°\">\n          <span class=\"provision-text\">sont remplacés par ce qui suit:</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">(Image non reprise pour des raisons techniques, voir M.B. du 11-05-2018, p. 39303)</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.683Z",
+  "tokenUsage": {
+    "prompt": 1723,
+    "completion": 326,
+    "total": 2049
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011092",
+  "articleNumber": "299",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-299\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 299</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les entreprises locales d'assurance fournissent à la Banque, à sa demande, toutes les informations nécessaires en vue de vérifier le respect des conditions d'inscription prévues à l'article 298.</p>\n                <p>Aux fins de l'alinéa 1er, la Banque peut définir, sur une base individuelle ou par voie de règlement pris conformément à l'article 12bis, paragraphe 2, de la loi du 22 février 1998, la nature, la portée, le format, la fréquence et les modalités de transmission des informations dont elle exige la communication de la part des entreprises locales d'assurance.</p>\n                <p>Les entreprises locales d'assurance communiquent à la Banque d'initiative, sans délai, tout élément susceptible de conduire au non-respect des conditions d'inscription.</p>\n                <p>Les articles 304, alinéa 2, 1°, et 305 à 307 sont applicables.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-05-02/28\" data-law-type=\"L\" data-article-number=\"75\">L'article 102, alinéa 1er, 2° et 3° ,et alinéas 2 et 3, l'article 103, 1°, 2°, 3°, 5/1° et 6°, et les articles 105 et 106 sont applicables.</span>\n                </p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.240Z",
+  "tokenUsage": {
+    "prompt": 2057,
+    "completion": 475,
+    "total": 2532
+  }
+}

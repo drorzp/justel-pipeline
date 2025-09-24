@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001012204",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 19, &sect; 4, de la nouvelle loi communale, ins&eacute;r&eacute; par la loi du 4 mai 1999 et remplac&eacute; par la loi du 12 ao&ucirc;t 2000, sont apport&eacute;es les modifications suivantes :</p>\n      <ol class=\"sub-provisions\">\n        <li class=\"sub-provision\" data-marker=\"A)\">\n          <span class=\"provision-text\">l'alin&eacute;a 2 est remplac&eacute; par la disposition suivante : &quot; Les cotisations du travailleur et de l'employeur vis&eacute;es &agrave; l'article 38, &sect; 2, 2&deg;, 3&deg;, 4&deg;, et &sect; 3, 2&deg;, 3&deg; et 4&deg;, de la loi du 29 juin 1981 &eacute;tablissant les principes g&eacute;n&eacute;raux de la s&eacute;curit&eacute; sociale des travailleurs et &agrave; l'article 18 de l'arr&ecirc;t&eacute; royal du 25 octobre 1985 portant ex&eacute;cution du chapitre 1er, section 1, de la loi du 1er ao&ucirc;t 1985 portant des dispositions sociales, calcul&eacute;es sur le montant de leur traitement complet, sont d&eacute;clar&eacute;es et pay&eacute;es &agrave; l'Office national de s&eacute;curit&eacute; sociale des administrations provinciales et locales. &quot;;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"B)\">\n          <span class=\"provision-text\">&agrave; l'alin&eacute;a 3, le mot &quot; b&eacute;n&eacute;ficiaient &quot; est remplac&eacute; par les mots &quot; peuvent b&eacute;n&eacute;ficier &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.215Z",
+  "tokenUsage": {
+    "prompt": 2022,
+    "completion": 500,
+    "total": 2522
+  }
+}

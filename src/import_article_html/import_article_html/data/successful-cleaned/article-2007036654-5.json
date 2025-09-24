@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036654",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>La réception de données du service désigné par le Ministre chargé de l'assistance à la navigation sur les voies d'accès maritimes en dehors des zones portuaires, visé à l'article 4, § 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1°</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">2°</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">3°</span>\n          </li>\n        </ol>\n        <p>du décret, qui ont été obtenues sans convention, peut être continuée sans convention pendant un délai de six mois à partir de la date du présent arrêté.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.973Z",
+  "tokenUsage": {
+    "prompt": 1534,
+    "completion": 305,
+    "total": 1839
+  }
+}

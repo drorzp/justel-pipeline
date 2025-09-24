@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022015582",
+  "articleNumber": "192",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-192\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 192</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les dispositions du Livre II, Titre III, Chapitre IV, Section III et Section IV de la loi du 25 avril 2014 sont, pour ce qui concerne la surveillance complémentaire des conglomérats, applicables par analogie aux sociétés de bourse de droit belge faisant parties d'un groupe d'entreprises d'investissement :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">qui sont à la tête d'un conglomérat financier ; ou</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">dont l'entreprise mère est une compagnie financière mixte dans un Etat membre.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les sociétés de bourse visées au paragraphe 1er, 1° et 2°, qui font partie d'un groupe d'établissements de crédit, sont, pour leur surveillance complémentaire des conglomérats, soumises aux dispositions du Livre II, Titre III, Chapitre IV, Section III et Section IV de la loi du 25 avril 2014.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.694Z",
+  "tokenUsage": {
+    "prompt": 1891,
+    "completion": 418,
+    "total": 2309
+  }
+}

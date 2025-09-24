@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014200765",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 71bis du même arrêté, inséré par l'arrêté royal du 13 juillet 2007, sont apportées les modifications suivantes :</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">le § 1er est remplacé par la disposition suivante : \" § 1. L'article 71 ne s'applique pas au chômeur complet qui bénéficie de la dispense visée à l'article 89, § 2. Par dérogation à l'alinéa 1er, reste cependant soumis à l'article 71, alinéa 1er, 1° et 3° à 6°, le chômeur qui exerce, de façon accessoire, une activité au sens de l'article 45 pour autant qu'il choisisse cette procédure au lieu de la procédure mentionnée à l'alinéa 1er. Par dérogation à l'alinéa 1er, reste cependant soumis à l'article 71, alinéa 1er, 1° et 3° à 6°, le chômeur qui exerce une activité artistique au sens de l'article 27, 10°, qui est intégrée dans le courant des échanges économiques, ainsi que le chômeur qui perçoit un revenu au sens de l'article 130 et tiré de l'exercice d'une activité artistique \"</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">au § 2, alinéa 1er, dans la 1re phrase les mots \" ou 74bis \" sont supprimés;</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n                <span class=\"provision-text\">au § 2, dernier alinéa, les mots \" ou 74bis \" sont supprimés;</span>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.365Z",
+  "tokenUsage": {
+    "prompt": 2101,
+    "completion": 490,
+    "total": 2591
+  }
+}

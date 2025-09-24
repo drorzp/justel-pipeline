@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014009086",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sans préjudice des dispositions de l'article 20, § 5, du présent arrêté, la treizième chambre connaît, pour autant que l'auditeur du travail de Bruxelles soit compétent, des contestations relatives aux droits et obligations résultant des lois et règlements visés à l'article 581, 2°, 581, 3°, a), 581, 9°, 581, 10°, 581, 11° et 12°, ainsi qu'à l'article 581, 3°, b), du Code judiciaire, pour autant que ces contestations portent sur les prestations sociales en faveur des travailleurs indépendants.</p>\n        <p>Elle connaît également des sanctions administratives prévues par les législations en ces matières et des contestations entre les organismes chargés de l'application de ces lois et règlements, ainsi que des contestations visées à l'article 1410, § 5, du Code judiciaire, et dirigées contre des décisions d'un organisme ou service chargé d'appliquer la législation visée au présent article.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sans préjudice des dispositions de l'article 20, § 5, du présent arrêté, la quatorzième chambre connaît des contestations visées au paragraphe 1er relatives aux affaires pour lesquelles l'auditeur du travail de Hal-Vilvorde est compétent.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.065Z",
+  "tokenUsage": {
+    "prompt": 1997,
+    "completion": 445,
+    "total": 2442
+  }
+}

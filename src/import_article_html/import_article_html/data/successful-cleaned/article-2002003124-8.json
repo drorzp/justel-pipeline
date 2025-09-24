@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002003124",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 24, alinéa 1er, du même arrêté est remplacé par la disposition suivante : \" Art. 24. Les modalités d'émission des obligations linéaires par tout procédé de prise ferme conforme aux usages du marché ou par offres de vente à prix fixe visées à l'article 4, 4° et 5°, de l'arrêté cadre sont précisées :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">dans le manuel de procédure relatif à l'opération et/ou</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">dans les conventions relatives à l'opération et, le cas échéant, dans tout autre document relatif à celle-ci.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.798Z",
+  "tokenUsage": {
+    "prompt": 1649,
+    "completion": 252,
+    "total": 1901
+  }
+}

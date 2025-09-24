@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010011438",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Chaque meunerie établit une liste journalière sur laquelle figure :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les quantités de farine et de sous-produits obtenues énumérées suivant l'espèce;</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les quantités de farine et de sous-produits mises dans le commerce énumérées suivant l'espèce;</span></li>\n                    <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les dates de la livraison des quantités de farine et de sous-produits mises dans le commerce énumérées suivant l'espèce;</span></li>\n                    <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le nom et l'adresse des acheteurs et le cas échéant la destination finale des produits vendus;</span></li>\n                    <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">les quantités de farine et de sous-produits achetées et non produites par elles-mêmes énumérées suivant l'espèce.</span></li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">A la fin de chaque mois, un état récapitulatif est dressé suivant l'espèce. Cet état récapitulatif contient le stock au début, les exécutions visées au § 1er, 1°, 2° et 5° et le stock à la fin du mois.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.245Z",
+  "tokenUsage": {
+    "prompt": 2006,
+    "completion": 510,
+    "total": 2516
+  }
+}

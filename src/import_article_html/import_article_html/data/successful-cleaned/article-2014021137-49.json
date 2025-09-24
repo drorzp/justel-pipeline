@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014021137",
+  "articleNumber": "49",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-49\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 49</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 269, § 1er, du même Code, modifié en dernier lieu par la loi du 26 décembre 2013, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">dans le 1°, les mots \"autre que ceux visés aux 2° à 4° et 7°, \" sont remplacés par les mots \"autre que ceux visés aux 2° à 4°, 7° et 8°, \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">le paragraphe 1er est complété par un 8° rédigé comme suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">à 5 ou 15 p.c., les dividendes, autres que ceux visés à l'article 209, dans la mesure où leur attribution ou mise en paiement résulte d'une diminution de la réserve de liquidation visée à l'article 184quater, ou les dividendes d'origine étrangère encaissés ou recueillis en Belgique dans la mesure où leur attribution ou mise en paiement résulte de dispositions analogues ou ayant des effets équivalents prises par un autre Etat membre de l'Espace Economique Européen, et selon que la partie de ces réserves qui est diminuée a été conservée pendant une période d'au moins 5 ans ou de moins de 5 ans, à compter du dernier jour de la période imposable concernée, dans les conditions prévues à l'article 184quater, alinéa 3.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.185Z",
+  "tokenUsage": {
+    "prompt": 2062,
+    "completion": 487,
+    "total": 2549
+  }
+}

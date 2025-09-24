@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022020665",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 4.1.2, § 5, du même arrêté, inséré par l'arrêté du Gouvernement flamand du 26 janvier 2018, le membre de phrase &quot; articles 6.4.1/1 à 6.4.1/5 &quot; est remplacé par le membre de phrase &quot; articles 6.4.1/1 à 6.4.1/5/2 du présent arrêté et aux interventions calculées selon l'article 5.191 pour les travaux visés à l'article 5.189, § 2, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">à</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"closing-text\">7°, de l'arrêté Code flamand du Logement de 2021 &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.702Z",
+  "tokenUsage": {
+    "prompt": 1745,
+    "completion": 317,
+    "total": 2062
+  }
+}

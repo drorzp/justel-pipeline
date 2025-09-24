@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006014186",
+  "articleNumber": "3_REGION_DE_BRUXELLES-CAPITALE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3_REGION_DE_BRUXELLES-CAPITALE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3_REGION_DE_BRUXELLES-CAPITALE</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-07-19/14\" data-law-type=\"ARR\" data-article-number=\"19\">\n        Le total des sommes à percevoir prévues à l'annexe 2 ne peut dépasser 3.500 EUR à charge d'un même auteur d'infraction. Ce total s'élève à 7.000 EUR pour les infractions mentionnées dans les\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">4°</span>\n          </li>\n          <li class=\"provision\" data-number=\"5°\">\n            <span class=\"provision-text\">5° de l'annexe 2.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.825Z",
+  "tokenUsage": {
+    "prompt": 1712,
+    "completion": 281,
+    "total": 1993
+  }
+}

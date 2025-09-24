@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003003179",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sont visés par l'article 230, 2°, du Code des impôts sur les revenus 1992, les dépôts d'instruments financiers étrangers pour lesquels l'établissement dépositaire obtient du déposant une attestation par laquelle celui-ci certifie :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">qu'il est un non-résident visé à l'article 227 du même Code;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">qu'il n'affecte pas les instruments financiers à l'exercice d'une activité professionnelle en Belgique;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">qu'il a la pleine propriété ou l'usufruit de ces instruments financiers, ou, s'il n'en est pas propriétaire ou usufruitier, que le bénéficiaire des revenus remplit les conditions visées aux 1° et 2°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.834Z",
+  "tokenUsage": {
+    "prompt": 1759,
+    "completion": 332,
+    "total": 2091
+  }
+}

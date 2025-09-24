@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025004078",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 2, § 2, de l'arrêté royal du 14 mars 2023 relatif aux cotisations obligatoires au Fonds budgétaire pour la santé et la qualité des animaux et des produits animaux, fixées pour le secteur volailles, modifié par l'arrêté royal du 17 mars 2024, est complété par deux alinéas rédigés comme suit :</p>\n            <p class=\"quote-text\">\" Les redevables visés au paragraphe 1er, 7°, 9°, 10°, 11°, 13° jusqu'à 18° et 21°, sont dispensés du paiement de la cotisation obligatoire si moins de 200 animaux peuvent être détenus dans l'exploitation. Les redevables visés au paragraphe 1er, 12°, sont dispensés du paiement de la cotisation obligatoire si moins de 20 animaux peuvent être détenus dans l'exploitation. \"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.717Z",
+  "tokenUsage": {
+    "prompt": 1810,
+    "completion": 283,
+    "total": 2093
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1984012461",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>En ce qui concerne les assurances visées à l'article 24, alinéa 1er, 2° et 3°, de la loi du 16 avril 1963 précitée, modifié par l'arrêté royal n° 14 du 23 octobre 1978, l'augmentation du taux du supplément de prime et du taux de cotisation est applicable aux primes émises à partir du 1er août 1984, dont la date d'échéance ou de prise d'effet est, en vertu du contrat d'assurance, postérieure au 31 juillet 1984.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>En ce qui concerne les assurances visées au § 1er, les versements provisionnels visés à l'article 134 de l'arrêté royal du 5 juillet 1963 précité, dus à partir du 1er août 1984, sont calculés en appliquant au montant total des primes et accessoires émis figurant dans la déclaration annuelle relative au dernier exercice social clôturé, les dispositions de l'article 128 de l'arrêté royal précité, tel qu'il est modifié par le présent arrêté.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>La déclaration annuelle, visée à l'article 134 de l'arrêté royal du 5 juillet 1963 précité, relative à l'exercice social 1984, spécifie séparément la cotisation due respectivement pour les sept premiers mois et pour les autres mois de l'année 1984.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.678Z",
+  "tokenUsage": {
+    "prompt": 2147,
+    "completion": 512,
+    "total": 2659
+  }
+}

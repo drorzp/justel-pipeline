@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009003483",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 232, alinéa 1er, 2°, b, du même Code, modifié par les lois des 28 juillet 1992, 25 avril 2007 et 22 décembre 2008, les mots \" 7° et 9°, h ; \" sont remplacés par les mots \" 7°, 7°bis et 9°, h ; \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.027Z",
+  "tokenUsage": {
+    "prompt": 1521,
+    "completion": 164,
+    "total": 1685
+  }
+}

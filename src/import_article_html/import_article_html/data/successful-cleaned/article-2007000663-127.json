@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000663",
+  "articleNumber": "127",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-127\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 127</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'approbation par l'autorité de tutelle des décisions relatives au \n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/22\" data-law-type=\"L\" data-article-number=\"99\">plan</span> \n                du personnel \n                <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2015-11-09/19\" data-law-type=\"L\" data-article-number=\"31\">du personnel opérationnel</span>, \n                au budget et aux modifications qui y sont apportées, à la contribution d'une commune au financement de la zone et à ses modifications ainsi qu'aux comptes, ne peut être refusée que pour violation des dispositions de la présente loi ou prises en vertu de la présente loi.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.817Z",
+  "tokenUsage": {
+    "prompt": 1830,
+    "completion": 260,
+    "total": 2090
+  }
+}

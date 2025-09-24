@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044018",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article unique de l'arrêté ministériel du 8 octobre 2016 fixant les descriptions de fonction du personnel opérationnel des zones de secours est complété par les 31°, 32°, 33° et 34°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"31°\"><span class=\"provision-text\">Dir-PC-Ops</span></li>\n        <li class=\"provision\" data-number=\"32°\"><span class=\"provision-text\">FiST-API Antenne;</span></li>\n        <li class=\"provision\" data-number=\"33°\"><span class=\"provision-text\">FiST-API Debriefer;</span></li>\n        <li class=\"provision\" data-number=\"34°\"><span class=\"provision-text\">FiST-API Supervisor.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.081Z",
+  "tokenUsage": {
+    "prompt": 1645,
+    "completion": 280,
+    "total": 1925
+  }
+}

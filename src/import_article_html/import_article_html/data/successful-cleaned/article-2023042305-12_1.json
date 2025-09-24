@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042305",
+  "articleNumber": "12/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12/1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12/1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-01-10/18\" data-law-type=\"ARW\" data-article-number=\"20\">\n                <p class=\"intro-text\">Pour l'application de l'article 26, § 4, du règlement (UE) n° 2021/2115 du 2 décembre 2021, le demandeur répond aux conditions prévues à l'article 24, alinéa 1er, 2° et 3°, de l'arrêté du Gouvernement wallon du 23 février 2023, pour la définition de jeune agriculteur et aux conditions prévues à l'article 25, alinéa 1er, 2° et 3°, de l'arrêté du Gouvernement wallon du 23 février 2023, pour la définition du nouvel agriculteur, pour le 31 mai de l'année de la demande.</p>\n                <p class=\"intro-text\">Par dérogation à l'alinéa 1er, toute expérience validée par le Comité d'installation en application des articles 24, alinéa 2, 4°, et 25, alinéa 3, 4°, de l'arrêté du Gouvernement wallon du 23 février 2023 vaut pour l'année au cours de laquelle il rend son avis.</p>\n                <p class=\"closing-text\">La condition d'âge visée à l'article 24, alinéa 1er, 1°, de l'arrêté du Gouvernement wallon du 23 février 2023 est vérifiée lors de la demande d'accès à la réserve dans la demande unique.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.758Z",
+  "tokenUsage": {
+    "prompt": 2149,
+    "completion": 440,
+    "total": 2589
+  }
+}

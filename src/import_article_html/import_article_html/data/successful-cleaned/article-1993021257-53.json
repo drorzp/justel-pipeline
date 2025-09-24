@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1993021257",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 53</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1.</h3>\n            <div class=\"paragraph-content\">\n                <p>A l'article 53, alinéa 1er, de la même loi, les mots \" Au Conseil visé à l'article 51 de la présente loi ou au Conseil régional wallon, selon le cas, \" sont remplacés par les mots \" Au Conseil régional wallon \".</p>\n                <p>A l'article 53, alinéa 1er, de la même loi, les mots \" sur les matières relevant des compétences de la Région wallonne \" sont supprimés.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 53, alinéa 2, de la même loi, est remplacé par la disposition suivante :</p>\n                <blockquote>\n                    <p>\" Toutefois, des propositions de décret et des amendements peuvent être déposés en langue allemande par les membres du Conseil qui sont domiciliés dans une commune de la région de langue allemande déterminée par l'article 5 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966. \"</p>\n                </blockquote>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>A l'article 53, alinéa 4, de la même loi, les mots \" 1° et 2° \" sont supprimés.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.060Z",
+  "tokenUsage": {
+    "prompt": 2003,
+    "completion": 449,
+    "total": 2452
+  }
+}

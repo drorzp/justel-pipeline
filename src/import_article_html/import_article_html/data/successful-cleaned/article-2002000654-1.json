@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002000654",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'organisme public Fonds flamand d'Assurance Soins est autorisé à accéder aux informations visées à l'article 3, alinéa 1er, 1°, 2° (limité à la date de naissance), 3° à 6° (limité à la date de décès) inclus, 8° et 9°, et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques.</p>\n            <p class=\"intro-text\">L'autorisation d'accès aux informations est limitee à l'exécution des tâches qui émanent de l'assurance soins dont le Fonds flamand d'Assurance Soins a été chargé par le décret du 30 mars 1999 du Parlement flamand portant organisation de l'assurance soins.</p>\n            <p class=\"intro-text\">L'accès aux informations est accordé :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au fonctionnaire dirigeant du Fonds flamand d'Assurance Soins;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">aux fonctionnaires que la personne visée sous 1° désigne nommément et par écrit à cet effet, en raison de leurs fonctions et dans les limites de leurs attributions respectives.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.793Z",
+  "tokenUsage": {
+    "prompt": 2029,
+    "completion": 400,
+    "total": 2429
+  }
+}

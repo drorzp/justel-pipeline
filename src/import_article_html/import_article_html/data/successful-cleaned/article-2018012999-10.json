@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012999",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 88bis du même décret, inséré par le décret du 14 juillet 1998, remplacé par le décret du 13 juillet 2007 et modifié par les décrets des 8 mai 2009 et 19 juin 2015, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le membre de phrase \" ou l'article 88, 3° \" est remplacé par le membre de phrase \" ou l'article 88, alinéa 1er, 3° et 7° \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'alinéa 3 est remplacé par ce qui suit : \" Pendant cette période de préavis, le membre du personnel est considéré comme désigné temporairement et il peut être chargé par le conseil d'administration</span>\n                    <ul class=\"hyphenated-items\">\n                        <li class=\"hyphenated-item\" data-marker=\"-\">\n                            <span class=\"item-text\">ou dans le cas du service d'encadrement pédagogique et du centre de formation, par le directeur général</span>\n                        </li>\n                        <li class=\"hyphenated-item\" data-marker=\"-\">\n                            <span class=\"item-text\">d'une autre mission et, sauf en cas de licenciement en vertu de l'article 88, alinéa 1er, 7°, il peut être remplacé au prorata du volume de sa mission initiale.</span>\n                        </li>\n                    </ul>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.668Z",
+  "tokenUsage": {
+    "prompt": 1954,
+    "completion": 450,
+    "total": 2404
+  }
+}

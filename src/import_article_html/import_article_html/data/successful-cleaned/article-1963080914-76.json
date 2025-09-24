@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1963080914",
+  "articleNumber": "76",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-76\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 76</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"24-12-1963\" data-law-type=\"L\" data-article-number=\"31\">&lt;L 24-12-1963, art. 31&gt;</span>\n        L'allocation pour frais funéraires est payée pour (les titulaires visés à l'article 61 à l'exception des pensionnés visés à l'article 21, 7° et 8°,) pour autant qu'ils remplissent à la date du décès, la condition prévue à l'article 75.\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"20-07-1971\" data-law-type=\"AR\" data-article-number=\"17\">&lt;AR 20-07-1971, art. 17&gt;</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.484Z",
+  "tokenUsage": {
+    "prompt": 1680,
+    "completion": 268,
+    "total": 1948
+  }
+}

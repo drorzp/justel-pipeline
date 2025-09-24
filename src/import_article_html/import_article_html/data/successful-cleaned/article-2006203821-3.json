@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006203821",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article D.63, alinéa 2, 6°, du même Livre, remplacer le point final par un point-virgule.</p>\n            <p>A l'article D.63, alinéa 2, du même Livre, ajouter un 7° et un 8°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">dans le cas visé à l'article D.68, § 2, dernier alinéa, in fine ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">dans le cas visé à l'article 16 du décret modifiant le Livre Ier du Code de l'Environnement relatif à l'évaluation des incidences des projets sur l'environnement.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.910Z",
+  "tokenUsage": {
+    "prompt": 1695,
+    "completion": 284,
+    "total": 1979
+  }
+}

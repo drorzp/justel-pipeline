@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045351",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 53</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 63 du même décret, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">au paragraphe 2, 6°, modifié en dernier lieu par le décret du 1er octobre 2020, les mots \" pour toute infraction aux articles 64quinquies/4 à 64quinquies/7, qui consiste à ne pas remplir les obligations de déclaration y énoncées, et pour toute infraction à l'article 64quinquies/3, § 1er, point A., 4°, b), et § 2, 1° et 7°, qui consiste à ne pas se conformer à l'obligation d'enregistrement y prévue ou lorsque l'enregistrement a été révoqué, \" sont insérés entre les mots \" des informations visées à l'article 64quinquies/2, paragraphe 14, \" et les mots \" une amende fiscale de 2 500 euros à 25 000 euros est appliquée \"</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">le paragraphe 3, modifié en dernier lieu par le décret du 22 décembre 2021, est remplacé par ce qui suit :</span>\n        <section class=\"paragraph\" id=\"para-3\">\n          <h3 class=\"paragraph-marker\">§ 3.</h3>\n          <div class=\"paragraph-content\">\n            <p>Sous réserve de l'article 11bis, § 4, d), les amendes fiscales prévues aux paragraphes 1er et 2 sont établies, contestées et recouvrées de la même manière que la taxe à laquelle elles se rapportent, qu'elles soient enrôlées avec celle-ci ou qu'elles soient enrôlées distinctement.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.395Z",
+  "tokenUsage": {
+    "prompt": 2103,
+    "completion": 504,
+    "total": 2607
+  }
+}

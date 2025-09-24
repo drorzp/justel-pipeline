@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030600",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la version française de l'article 4 du même arrêté, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Au point 1°, le mot \"établit\" est remplacé par le mot \"introduit\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Aux points 2° et 3°, le mot \"établir\" est remplacé par le mot \" introduire\" et le mot \"des\" est ajouté entre le mot \"ou\" et le mot \"déclarations\";</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.362Z",
+  "tokenUsage": {
+    "prompt": 1616,
+    "completion": 247,
+    "total": 1863
+  }
+}

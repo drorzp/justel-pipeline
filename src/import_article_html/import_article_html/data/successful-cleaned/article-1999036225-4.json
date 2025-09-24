@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999036225",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 4, A de l'annexe III du même arrêté, il est ajouté un 11°, rédigé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"11°\">\n                    <span class=\"provision-text\">Par dérogation aux dispositions du 4° et du 8°, il peut être admis qu'un centre de services régional restreint les activités définies au 4° et 8°, à une zone ne couvrant pas toute la région. Cette dérogation n'est accordée que si l'initiateur démontre qu'un ou plusieurs autres centres de services régionaux dans la région en question ont développé ou développent les activités comme centre de services régional, de sorte que ces autres centres de services régionaux et le centre de services en question couvrent toute la région.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.265Z",
+  "tokenUsage": {
+    "prompt": 1703,
+    "completion": 276,
+    "total": 1979
+  }
+}

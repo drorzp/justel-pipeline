@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016110",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 6 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 26 octobre 2018, il est ajouté les alinéas quatre et cinq, rédigés comme suit :</p>\n      <p class=\"intro-text\">\" Un maximum de 100% du montant du forfait stratégique peut être accordé par lit, lieu ou unité.</p>\n      <p class=\"intro-text\">Dans le cas d'un partenariat doté de la personnalité juridique de deux ou plusieurs hôpitaux, les montants et le mode de calcul pour chaque hôpital du partenariat sont applicables séparément. Pour l'application de l'article 6/2, le projet de construction SA (Services d'Appui) visé à l'article 6/2, § 1er, 1er alinéa,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et le projet de construction FA (Fonctions d'appui) visé à l'article 6/2, § 2, 1er alinéa,</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, sont déterminés sur la base du rapport entre le nombre de lits de l'hôpital participant au partenariat et le nombre de lits de tous les hôpitaux participant au partenariat.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.278Z",
+  "tokenUsage": {
+    "prompt": 1867,
+    "completion": 383,
+    "total": 2250
+  }
+}

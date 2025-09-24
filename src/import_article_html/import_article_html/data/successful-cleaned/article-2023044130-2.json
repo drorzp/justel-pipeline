@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044130",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>A l'article 8, § 1er, 1°, de l'ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune du 14 décembre 2017 portant création d'une Commission bruxelloise de déontologie, les mots \"pendant au moins cinq ans\" sont remplacés par les mots \"pendant au moins trois ans\".</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">A l'article 8, § 1er, 2° et 3°, de la même ordonnance conjointe, les mots \"pendant cinq ans au moins\" sont chaque fois remplacés par les mots \"pendant trois ans au moins\".</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.859Z",
+  "tokenUsage": {
+    "prompt": 1687,
+    "completion": 286,
+    "total": 1973
+  }
+}

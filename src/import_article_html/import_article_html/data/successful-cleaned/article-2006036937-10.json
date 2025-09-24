@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036937",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsque les tâches énumérées à l'article 5, § 1er, 2° et 3°, sont exécutées pour les compétences Environnement, Rénovation rurale et Conservation de la Nature, la Banque foncière flamande peut le faire en son propre nom et pour son propre compte. Lorsque les tâches énumérées à l'article 5, § 1er, 2° et 3°, ne sont pas exécutées pour les compétences Environnement, Rénovation rurale et Conservation de la Nature, le Gouvernement flamand peut ordonner la Banque foncière flamande d'acquérir des biens immobiliers au nom et pour le compte d'une entité administrative.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La Banque foncière flamande exécutera les tâches énumérées à l'article 5, §§ 2 et 3, en son propre nom et pour son propre compte.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.901Z",
+  "tokenUsage": {
+    "prompt": 1863,
+    "completion": 349,
+    "total": 2212
+  }
+}

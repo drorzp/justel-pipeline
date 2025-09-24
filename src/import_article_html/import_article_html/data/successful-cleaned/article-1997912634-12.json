@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997912634",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 144, § 2, alinéa 1er du même arrêté, modifié par les arrêtés royaux du 14 septembre 1992, 2 octobre 1992, 25 mai 1993, 14 décembre 1994, 22 novembre 1995, 22 décembre 1995 et 9 juin 1997, les 6° et 7° sont respectivement remplacés par les dispositions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">le droit aux allocations est refusé sur base des articles 55, 2°, 4° à 7°, 60 à 70, 73, 74, § 2, alinéa 3, 75, 76, 78bis à 78quinquies ou si le droit aux allocations est suspendu sur base des articles 80 à 85;</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">le droit aux allocations est refusé sur base des dispositions relatives au calcul des allocations mentionnées aux articles 99 à 129 et aux articles 131 à 131sexies.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.930Z",
+  "tokenUsage": {
+    "prompt": 1862,
+    "completion": 368,
+    "total": 2230
+  }
+}

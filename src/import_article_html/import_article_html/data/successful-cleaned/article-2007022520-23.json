@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007022520",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 121 de la même loi, remplacé par l'arrêté royal du 25 avril 1997, les mots \" à l'article 32, alinéa 1er, </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">à </span></li>\n                <li class=\"provision\" data-number=\"16°\"><span class=\"provision-text\"> et </span></li>\n                <li class=\"provision\" data-number=\"20°\"><span class=\"provision-text\"> \" sont remplacés par les mots \" à l'article 32, alinéa 1er, </span></li>\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\"> à </span></li>\n                <li class=\"provision\" data-number=\"16°\"><span class=\"provision-text\">, </span></li>\n                <li class=\"provision\" data-number=\"20°\"><span class=\"provision-text\"> et </span></li>\n                <li class=\"provision\" data-number=\"21°\"><span class=\"provision-text\"> \".</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.864Z",
+  "tokenUsage": {
+    "prompt": 1706,
+    "completion": 344,
+    "total": 2050
+  }
+}

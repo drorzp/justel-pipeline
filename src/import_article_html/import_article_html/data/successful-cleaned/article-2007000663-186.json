@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000663",
+  "articleNumber": "186",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-186\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 186</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>En temps de guerre, les mesures imposées aux provinces et aux communes sont ordonnées par le gouverneur, <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-01-06/64\" data-law-type=\"L\" data-article-number=\"27\">l'autorité de l'agglomération bruxelloise compétente en vertu de l'article 48 de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises</span> ou par le bourgmestre en lieu et place des organes provinciaux ou communaux normalement compétents; les règlements et ordonnances deviennent, en ce cas, obligatoires dès leur publication.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.818Z",
+  "tokenUsage": {
+    "prompt": 1767,
+    "completion": 270,
+    "total": 2037
+  }
+}

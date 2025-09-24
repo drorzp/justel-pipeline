@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008029596",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Le Conseil établit un règlement d'ordre intérieur qui fixe notamment les fréquences et les lieux des séances.\n      </p>\n      <p class=\"intro-text\">\n        Ce règlement d'ordre intérieur est adopté à la double majorité au sein des catégories visées à l'article 2, alinéa 1er, 1°, et 2°, d'une part, et des catégories visées à l'article 2, alinéa 1er, 3° et 4°, d'autre part.\n      </p>\n      <p class=\"closing-text\">\n        Le règlement d'ordre intérieur et ses modifications sont soumis à l'approbation du Gouvernement.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.051Z",
+  "tokenUsage": {
+    "prompt": 1600,
+    "completion": 222,
+    "total": 1822
+  }
+}

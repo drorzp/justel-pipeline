@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042612",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 39 de la même ordonnance, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 2, 1°, le mot \" ordonnance \" est remplacé par les mots \" ordonnance ; toutefois, la personne désignée en application de l'article 69, § 2, alinéa 2, de la LGAF, maintient sa qualité d'allocataire \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par un alinéa rédigé comme suit:</span>\n          <blockquote class=\"provision-quote\">\n            \" Dans le cas visé à l'alinéa 2, 6° et 7°, le taux prévu aux articles 41, 42bis ou 50ter de la LGAF n'est pas non plus dû si les revenus cadastraux visés au titre IX du Code des impôts sur les revenus 1992 servant de base à l'imposition des revenus de l'allocataire et ceux de son conjoint avec lequel il cohabite ou de la personne avec laquelle il forme un ménage de fait, se rapportant aux biens immobiliers qui ne sont pas utilisés comme résidence principale ni à des fins commerciales propres, dépassent un plafond établi selon les modalités fixées par le Collège réuni. Toutefois, cette condition ne s'applique pas aux attributaires visés aux articles 56quater et 56quinquies de la LGAF qui, pour le mois de décembre 2019, ont bénéficié du taux visé aux articles 42bis ou 50ter de cette loi.\"\n          </blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.151Z",
+  "tokenUsage": {
+    "prompt": 2048,
+    "completion": 476,
+    "total": 2524
+  }
+}

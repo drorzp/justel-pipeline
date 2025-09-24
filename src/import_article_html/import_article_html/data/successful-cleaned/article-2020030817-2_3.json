@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020030817",
+  "articleNumber": "2/3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2/3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2/3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-01-21/07\" data-law-type=\"ACF\" data-article-number=\"1\">\n                Il est institué une cellule de veille au sein de l'Administration générale de la Culture, chargée de réceptionner et d'analyser les demandes d'aide mentionnées à l'article 2/1, alinéa 2, \n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">, et à l'article 2/2.</span>\n                    </li>\n                </ol>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.257Z",
+  "tokenUsage": {
+    "prompt": 1658,
+    "completion": 262,
+    "total": 1920
+  }
+}

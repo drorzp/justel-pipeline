@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013009163",
+  "articleNumber": "126",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-126\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 126</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le même Code, l'article 908, abrogé par la loi du 31 mars 1987, est rétabli dans la rédaction suivante :</p>\n            <p class=\"intro-text\">\" Art. 908. L'administrateur visé au livre 1er, titre XI, chapitre II/1, et quiconque exerce un mandat judiciaire, ne peuvent recevoir de don ou de legs de la personne protégée ou de la personne à l'égard de laquelle ils exercent ce mandat. La même interdiction s'applique aux ascendants ou descendants de cet administrateur ou de ce mandataire judiciaire, ainsi qu'à son conjoint ou son cohabitant légal. Les exceptions prévues à l'article 909, alinéa 3, 2° et 3°, sont applicables par analogie.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.020Z",
+  "tokenUsage": {
+    "prompt": 1732,
+    "completion": 257,
+    "total": 1989
+  }
+}

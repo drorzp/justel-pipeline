@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1984014223",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Pour être recrutés, les handicapés visés à l'article 1er, alinéa 1er, doivent remplir les conditions fixées par (l'article 5, alinéa 1er, 1° et alinéa 2) de l'arrêté royal du 8 juillet 1977 fixant le statut du personnel de <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-08-10/26\" data-law-type=\"L\" data-article-number=\"3\">Proximus</span>). <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1985-05-21/31\" data-law-type=\"AR\" data-article-number=\"1er\">&lt;AR 1985-05-21/31, art 1er, 002&gt;</span> <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1991-03-21/30\" data-law-type=\"L\" data-article-number=\"55\">&lt;L 1991-03-21/30, art. 55, 004; <strong>En vigueur :</strong> 04-09-1992&gt;</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.677Z",
+  "tokenUsage": {
+    "prompt": 1868,
+    "completion": 346,
+    "total": 2214
+  }
+}

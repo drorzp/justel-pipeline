@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1970060517",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 21</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La présente loi entre en vigueur le premier jour du mois qui suit celui au cours duquel elle aura été publiée au Moniteur belge.</p>\n            <p class=\"intro-text\">Elle produit toutefois ses effets au 1er janvier 1968 en ce qui concerne les articles 7, 8, 11 et 14, au 1er avril 1970 en ce qui concerne les articles 9, 12 et 13, au 1er juillet 1970 en ce qui concerne l'article 17 et au 1er janvier 1971 en ce qui concerne l'article 20, 3°.</p>\n            <p class=\"intro-text\">Elle entre en vigueur en ce qui concerne les articles 10, 15, 16 et 20, 1°, 2° et 4°, le jour de l'entrée en vigueur des dispositions du Code judiciaire relatives aux tribunaux du travail.</p>\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"5\" data-dossier-number=\"A\" data-law-type=\"\" data-article-number=\"\"></span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.557Z",
+  "tokenUsage": {
+    "prompt": 1775,
+    "completion": 310,
+    "total": 2085
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998031339",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le montant des subsides destinés aux <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2016-07-20/29\" data-law-type=\"ORD\" data-article-number=\"4\">bénéficiaires visés à l'article 4, 1°, 3° et 4°</span> est fixé pour des périodes successives de trois années. Le premier triennat prend cours le 1er janvier de l'année de l'entrée en vigueur de la présente ordonnance.</p>\n      <p>La première année de chaque triennat, un crédit d'engagement est inscrit au budget régional en vue d'allouer des subsides destinés à encourager la réalisation d'investissements d'intérêt public par les <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2016-07-20/29\" data-law-type=\"ORD\" data-article-number=\"4\">bénéficiaires visés à l'article 4, 1°, 3° et 4°</span>. Septante pour-cent de ce crédit est destiné à la dotation triennale d'investissement définie au chapitre V. Trente pour-cent de ces crédits sont destinés à la dotation triennale de développement définie au chapitre VI.</p>\n      <p><span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-04-30/02\" data-law-type=\"ORD\" data-article-number=\"3\">...</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.061Z",
+  "tokenUsage": {
+    "prompt": 2158,
+    "completion": 416,
+    "total": 2574
+  }
+}

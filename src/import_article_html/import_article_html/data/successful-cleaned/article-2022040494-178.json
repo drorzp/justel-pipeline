@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040494",
+  "articleNumber": "178",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-178\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 178</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5.178 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 18 décembre 2020, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa premier, alinéa deux, 3° et 4°, et alinéa trois, les mots \" sociétés de logement social \" sont remplacés par les mots \" sociétés de logement \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa deux, 1° et 3°, et alinéa trois, 2°, les mots \" société de logement social \" sont remplacés par les mots \" société de logement \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 2, les mots \" société de logement social attestant qu'il avait été inscrit auprès d'elle par le passé \" sont remplacés par les mots \" société de logement attestant qu'il avait été inscrit pour des logements locatifs sociaux de cette autre société de logement par le passé \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.783Z",
+  "tokenUsage": {
+    "prompt": 1871,
+    "completion": 388,
+    "total": 2259
+  }
+}

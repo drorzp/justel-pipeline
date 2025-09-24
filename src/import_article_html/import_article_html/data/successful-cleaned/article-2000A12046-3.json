@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000A12046",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour calculer la durée de travail hebdomadaire moyenne, il ne sera pas tenu compte du dépassement des limites fixées dans les articles 19 et 20 de la loi du 16 mars 1971 sur le travail et qui découlent de l'application de l'article 26, § 1er,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de ladite loi.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.196Z",
+  "tokenUsage": {
+    "prompt": 1580,
+    "completion": 229,
+    "total": 1809
+  }
+}

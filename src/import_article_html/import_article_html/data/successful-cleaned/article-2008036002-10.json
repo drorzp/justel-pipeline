@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008036002",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Tous les membres ayant droit de vote au sein du conseil d'administration ont des droits et des devoirs égaux.</p>\n            <p class=\"intro-text\">Les étudiants exercent leurs compétences comme membres du conseil d'administration, en tenant compte des dispositions de <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-06-19/33\" data-law-type=\"DCFL\" data-article-number=\"IV.18\">l'article II.317, § 2, alinéa premier, 1° et l'article II.355, § 2, du Code de l'Enseignement supérieur</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.040Z",
+  "tokenUsage": {
+    "prompt": 1760,
+    "completion": 225,
+    "total": 1985
+  }
+}

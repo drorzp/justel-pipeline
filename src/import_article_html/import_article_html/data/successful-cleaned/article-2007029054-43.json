@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007029054",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 43</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-4\">\n            <h3 class=\"paragraph-marker\">§ 4.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Cet article ne s'applique pas aux Ecoles supérieures des Arts visées à l'article 24, 4°, 10° et 13°, du décret, durant l'année académique 2007-2008.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.960Z",
+  "tokenUsage": {
+    "prompt": 1565,
+    "completion": 164,
+    "total": 1729
+  }
+}

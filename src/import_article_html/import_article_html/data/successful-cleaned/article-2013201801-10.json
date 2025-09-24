@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013201801",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour les visiteurs, le local d'exposition ainsi que les salles visées à l'article 5, le cas échéant, comportent un accès indépendant des locaux décrits à l'article 3, points 2° et 3°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.202Z",
+  "tokenUsage": {
+    "prompt": 1458,
+    "completion": 134,
+    "total": 1592
+  }
+}

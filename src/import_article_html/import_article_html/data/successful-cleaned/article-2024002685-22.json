@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002685",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 39/2 du même arrêté, les modifications suivantes sont apportées:</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">le paragraphe 2 est remplacé par ce qui suit: \" § 2. En application de l'article 198 du Code, l'agence immobilière sociale peut octroyer ses logements dans le cadre d'un projet spécifique destiné à loger un public particulièrement vulnérable ou confronté à des difficultés spécifiques à se loger. Ce projet spécifique s'adressera à un des publics repris à l'article 15, § 3, 3° et sera organisé sur base d'une convention avec une association spécialisée dans l'accompagnement social du public visé. Dans le cadre de cette convention, l'agence immobilière sociale veillera au respect des principes d'égalité et de transparence en ce qui concerne l'attribution de ses logements. \"</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">le paragraphe 3 est abrogé.</span>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.445Z",
+  "tokenUsage": {
+    "prompt": 1785,
+    "completion": 322,
+    "total": 2107
+  }
+}

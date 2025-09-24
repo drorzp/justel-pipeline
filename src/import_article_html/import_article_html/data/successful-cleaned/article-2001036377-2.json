@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001036377",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le Fonds répartit les subventions destinées aux caisses d'assurance soins sur la base de l'article 17, alinéa premier,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">du décret et selon le mode fixé par le présent arrêté.</span></li>\n            </ol>\n            <p class=\"intro-text\">Le paiement de la subvention s'effectue en deux parties :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">une partie qui porte sur l'article 17, alinéa premier, 1° du décret et dénommée la subvention pour les prises en charge;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">une partie qui porte sur l'article 17, alinéa premier, 1° du décret et dénommée respectivement la subvention couvrant les frais de démarrage en 2001 et la subvention de fonctionnement pour l'année 2002.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.669Z",
+  "tokenUsage": {
+    "prompt": 1797,
+    "completion": 367,
+    "total": 2164
+  }
+}

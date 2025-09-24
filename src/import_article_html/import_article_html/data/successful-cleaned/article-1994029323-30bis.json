@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994029323",
+  "articleNumber": "30bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30bis\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 30bis</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1995-04-10/24\" data-law-type=\"DCFR\" data-article-number=\"6\">Inséré par DCFR 1995-04-10/24, art. 6;<strong>En vigueur :</strong>01-01-1995</span> Par dérogation aux dispositions de l'article 30, alinéa 1er, 8° et 9°, et pour la seule année scolaire 1995-1996, sont présumés satisfaire aux conditions de nomination au 1er octobre 1995 dans l'enseignement fondamental et au 1er novembre 1995 dans les autres niveaux d'enseignement, les membres du personnel qui ont acquis, à la fin de l'année scolaire ou académique 1994-1995, une ancienneté de 600 jours dont 240 dans la fonction considérée auprès du pouvoir organisateur. Cette ancienneté doit être répartie sur trois années scolaires au moins.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.943Z",
+  "tokenUsage": {
+    "prompt": 1751,
+    "completion": 302,
+    "total": 2053
+  }
+}

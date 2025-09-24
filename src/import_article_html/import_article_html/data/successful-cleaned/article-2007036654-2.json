@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036654",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le service désigné par le Ministre, chargé de l'assistance à la navigation dans les voies d'accès maritimes en dehors des zones portuaires, visé à l'article 4, § 1er, 1°, 2° et 3°, du décret, agit en tant que gestionnaire du système central de gestion.</p>\n                <p>Le gestionnaire du système central de gestion agit en tant qu'ACN et se charge en tant que tel du lien électronique entre le système central de gestion et le système européen SafeSeaNet en vue de transmettre les mentions, sauvegardées au système central de gestion, à ce système européen.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.972Z",
+  "tokenUsage": {
+    "prompt": 1619,
+    "completion": 243,
+    "total": 1862
+  }
+}

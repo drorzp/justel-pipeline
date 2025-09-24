@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018203758",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La présente loi entre en vigueur le 1er janvier 2019. Le Roi fixe par arrêté délibéré en Conseil des ministres la date à partir de laquelle les prestations de santé visées à l'article 34, alinéa 1er, 4°bis, 5°, b) à e),</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">20°, les montants qui sont établis dans les conventions visées à l'article 46 de la même loi et le budget des moyens financiers sont repris dans le montant global prospectif par admission.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.319Z",
+  "tokenUsage": {
+    "prompt": 1632,
+    "completion": 246,
+    "total": 1878
+  }
+}

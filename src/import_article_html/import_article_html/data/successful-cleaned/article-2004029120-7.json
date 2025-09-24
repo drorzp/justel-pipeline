@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004029120",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 18 de la loi du 28 avril 1953 sur l'organisation de l'enseignement universitaire par l'Etat est modifié de la manière suivante :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au § 1er, alinéa 1er, il est ajouté un</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">dont le contenu est le suivant:</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">détermine également l'organisation de l'année académique, qui comprend trente semaines de cours, travaux et exercices, ainsi que les jours de suspension de ces activités.</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au § 2, alinéa 1er, les mots \" Les décisions visées au § 1er,</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">\" sont remplacés par les mots \" Les décisions visées au § 1er,</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.784Z",
+  "tokenUsage": {
+    "prompt": 1925,
+    "completion": 483,
+    "total": 2408
+  }
+}

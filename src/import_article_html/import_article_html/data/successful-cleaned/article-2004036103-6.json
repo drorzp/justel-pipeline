@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004036103",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 111 de la même loi, remplacé par le décret du 14 juillet 1998 et modifié par le décret du 18 mai 1999, le § 2, est remplacé par la disposition suivante :</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Sans préjudice des dispositions du § 1er, une copie certifiée conforme des décisions suivantes doit être transmise au gouverneur et au collège des bourgmestre et échevins dans un délai de vingt jours prenant cours le jour suivant leur adoption :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les décisions concernant les conditions de recrutement et de promotion, les échelles des traitements, le statut pécuniaire et les indemnités et allocations du personnel</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les décisions portant réaménagement des charges financières des emprunts contractés</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les décisions fixant ou modifiant le cadre du personnel.</span></li>\n        </ol>\n        <p class=\"intro-text\">Dans le même délai de vingt jours, une copie des décisions, visées aux 1° et 3° est également transmise au Gouvernement flamand.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.840Z",
+  "tokenUsage": {
+    "prompt": 1960,
+    "completion": 414,
+    "total": 2374
+  }
+}

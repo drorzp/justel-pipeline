@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020020864",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er de l'arrêté du Gouvernement flamand du 1er avril 2020 relatif à la lutte contre les effets négatifs du virus Covid-19 pour les familles et les organisateurs de l'accueil extrascolaire, de l'accueil d'enfants malades et du soutien préventif aux familles, les points 22° et 23° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"22°\">\n          <span class=\"provision-text\">accueil au cours d'un jour d'école : l'accueil extrascolaire avant l'école, après l'école ou les mercredis après-midis ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"23°\">\n          <span class=\"provision-text\">accueil au cours d'un jour sans école : l'accueil extrascolaire au cours d'un jour libre, d'une journée pédagogique ou d'un jour du week-end, auxquels l'école n'est pas ouverte aux enfants. Parmi les jours sans école, il convient de distinguer les types suivants :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              les jours sans école pendant les vacances de Pâques : l'accueil extrascolaire pendant les vacances de Pâques du 4 avril au 19 avril 2020, y compris les jours des week-ends ;\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              les jours sans école en dehors des vacances de Pâques : l'accueil extrascolaire en dehors des vacances de Pâques du 4 avril au 19 avril 2020.\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.219Z",
+  "tokenUsage": {
+    "prompt": 2004,
+    "completion": 462,
+    "total": 2466
+  }
+}

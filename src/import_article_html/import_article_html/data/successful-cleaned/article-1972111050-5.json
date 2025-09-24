@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1972111050",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Le présent Acte additionnel est ouvert jusqu'au premier avril mil neuf cent soixante-treize à la signature des Etats de l'Union et des Etats signataires de la Convention.</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Le présent Acte additionnel est soumis à ratification.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Le présent Acte additionnel est ouvert à l'adhésion des Etats non signataires conformément aux dispositions des paragraphes 2° et 3° de l'article 32 de la Convention.</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">Après l'entrée en vigueur du présent Acte additionnel, un Etat ne peut adhérer à la Convention que s'il adhère en même temps au présent Acte additionnel.</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">Les instruments de ratification du présent Acte additionnel et les instruments d'adhésion audit Acte des Etats qui ont ratifié la Convention ou qui la ratifient en même temps qu'ils ratifient le présent Acte additionnel ou qu'ils y adhèrent sont déposés auprès du Gouvernement de la République française. Les instruments de ratification du présent Acte additionnel et les instruments d'adhésion audit Acte des Etats qui ont adhéré à la Convention ou qui y adhèrent en même temps qu'ils ratifient le présent Acte additionnel ou qu'ils y adhèrent sont déposés auprès du Gouvernement de la Confédération suisse.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.605Z",
+  "tokenUsage": {
+    "prompt": 2020,
+    "completion": 492,
+    "total": 2512
+  }
+}

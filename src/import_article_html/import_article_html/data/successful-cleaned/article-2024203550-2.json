@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024203550",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 2 du décret du 22 novembre 2018 relatif au plan de cohésion sociale pour ce qui concerne les matières dont l'exercice a été transféré de la Communauté française, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"provision-text\">au 2°, les mots \" la commune, le CPAS en cas d'application de l'article 5, alinéa 4, \" sont remplacés par les mots \" la commune ou le CPAS en cas d'application de l'article 5, § 1er, alinéa 2, \";</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"provision-text\">au 4°, les mots \" le service : \" sont remplacés par les mots \" l'administration \";</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"c)\">\n                    <span class=\"provision-text\">l'article est complété par les 6° et 7° rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"6°\">\n                            <span class=\"provision-text\">\" 6° le plan de cohésion sociale : l'ensemble des actions développées par un pouvoir local qui répondent aux objectifs définis à l'article 4;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">7° le public vulnérable : le public très éloigné de l'accès aux droits fondamentaux ou dont la satisfaction des besoins primaires n'est plus rencontrée.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.761Z",
+  "tokenUsage": {
+    "prompt": 1987,
+    "completion": 481,
+    "total": 2468
+  }
+}

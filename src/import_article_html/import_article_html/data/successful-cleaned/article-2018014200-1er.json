@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018014200",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 25 janvier 2018 relatif à la création d'une zone de basses émissions, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">12° est abrogé ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">17° et 18° sont ajoutés, rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"17°\">\n                            <span class=\"provision-text\">Bruxelles Mobilité : Administration du Service Public Régional de Bruxelles chargée des équipements, des infrastructures et des déplacements ;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"18°\">\n                            <span class=\"provision-text\">Bruxelles Prévention et Sécurité : Bruxelles Prévention et Sécurité tel que créé par l'ordonnance du 28 mai 2015 créant un organisme d'intérêt public centralisant la gestion de la politique de prévention et de sécurité en Région de Bruxelles-Capitale.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.700Z",
+  "tokenUsage": {
+    "prompt": 1920,
+    "completion": 383,
+    "total": 2303
+  }
+}

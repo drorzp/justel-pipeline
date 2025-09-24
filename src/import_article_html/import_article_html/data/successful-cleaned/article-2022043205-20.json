@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043205",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 20</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 555/1, § 1er, du même Code, remplacé par la loi du 7 janvier 2014 et modifié par les lois du 8 mai 2014, 4 mai 2016, 18 juin 2018, 8 juillet 2018 et 5 mai 2019, les modifications suivantes sont apportées:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'alinéa 1er est complété par le 26° rédigé comme suit: \"26° d'approuver le règlement proposé par son comité de direction, encadrant la poursuite de l'activité des études, complémentairement au chapitre V.\"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans l'alinéa 2, les mots \"et 19° \" sont remplacés par les mots \", 19° et 26° \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.872Z",
+  "tokenUsage": {
+    "prompt": 1770,
+    "completion": 323,
+    "total": 2093
+  }
+}

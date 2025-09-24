@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011417",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 7 du même arrêté, modifié par les arrêtés du Gouvernement flamand des 13 mars 2009, 19 novembre 2010 et 6 décembre 2013, il est ajouté un § 3, rédigé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En ce qui concerne l'énergie thermique, le client domestique d'énergie thermique qui estime que son débranchement n'est plus nécessaire étant donné que la situation visée à l'article 6.2.2, § 1er, alinéa 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">du décret sur l'Energie du 8 mai 2009 a pris fin, adresse une demande de rebranchement écrite au fournisseur de chaleur ou de froid.</span></li>\n        </ol>\n        <p class=\"closing-text\">Si le fournisseur de chaleur ou de froid n'a pas procédé au rebranchement dans les cinq jours après l'envoi de la demande, le client domestique a le droit d'introduire une demande de rebranchement auprès de la commission locale d'avis au sens de l'article 3, 3°, b). La demande de rebranchement du client domestique d'énergie thermique est adressée au président de la commission par lettre ordinaire.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.456Z",
+  "tokenUsage": {
+    "prompt": 2098,
+    "completion": 557,
+    "total": 2655
+  }
+}

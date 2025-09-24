@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022205738",
+  "articleNumber": "81",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-81\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 81</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent décret entre en vigueur le 1er septembre 2022, à l'exception :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">de l'article 48, qui produit ses effets le 1er septembre 2021;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">des articles 40, 3° à 5°, 45 et 46, qui produisent leurs effets le 23 mars 2022;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">des articles 4, 2°, 11, 1°, 47, 2°, et 56, 2°, qui entrent en vigueur le jour de l'adoption du décret;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">des articles 19, 27, 72, 75 et 80, qui entrent en vigueur le 1er juillet 2022;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">des articles 30 à 36, qui entrent en vigueur le 1er novembre 2022;</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">des articles 2, 6, 1° et 3°, 10, 13, 15, 16, 39, 50, 2°, 53, 58, 2°, 62, 64 à 73 et 76, qui entrent en vigueur le 1er janvier 2023;</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">des articles 28, 29 et 37, qui entrent en vigueur le 1er novembre 2023.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.828Z",
+  "tokenUsage": {
+    "prompt": 2116,
+    "completion": 561,
+    "total": 2677
+  }
+}

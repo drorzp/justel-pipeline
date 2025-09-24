@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036990",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le chapitre V de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, il est inséré un article 32bis, rédigé comme suit :</p>\n      <blockquote class=\"quoted-article\">\n        <p class=\"quoted-text\">\" Art. 32bis. Par dérogation à l'article 32, alinéa deux, les membres du personnel dirigeants qui sont à la tête des agences, mentionnées à l'article 23, § 2, 1° et 2°, ne font pas partie du conseil de gestion du domaine politique en question. \"</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.900Z",
+  "tokenUsage": {
+    "prompt": 1636,
+    "completion": 222,
+    "total": 1858
+  }
+}

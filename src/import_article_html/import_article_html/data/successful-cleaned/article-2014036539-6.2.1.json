@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036539",
+  "articleNumber": "6.2.1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6-2-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6.2.1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les arrêtés de protection provisoires et définitives pour les monuments, paysages culturo-historiques, sites archéologiques et sites urbains et ruraux, il est repris, pour les données telles que visées à l'article 6.1.4, § 2, 8° et 9° et à l'article 6.1.14, 8° et 9°, du décret relatif au patrimoine immobilier du 12 juillet 2013, une liste d'actes soumis à l'obligation d'autorisation. Les sous-sections 2 à 7 inclus du présent arrêté ne s'appliquent pas à ces biens protégés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.363Z",
+  "tokenUsage": {
+    "prompt": 1753,
+    "completion": 230,
+    "total": 1983
+  }
+}

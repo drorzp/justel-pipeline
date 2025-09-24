@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008029453",
+  "articleNumber": "52",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-52\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 52</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 133 du même décret, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Dans le § 1er, 4° et 10°, les mots \" ou un distributeur de services \" sont insérés après les mots \" et un éditeur de services \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Dans le § 3, les mots \" Pour les avis visés aux 5°, 6° et 7° du § 1er \" sont remplacés par les mots \" Pour les avis visés aux 5°, 5°bis, 6°, 7° et 8° du § 1er \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.052Z",
+  "tokenUsage": {
+    "prompt": 1674,
+    "completion": 280,
+    "total": 1954
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017031388",
+  "articleNumber": "149",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-149\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 149</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les examens psychotechniques, visés à l'article 61, 7°, visent à constater si l'intéressé possède une personnalité équilibrée et si, sur le plan psychologique, il satisfait aux éléments visés à l'article 64, 1°, 2°, 3° et 5°, du profil.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.713Z",
+  "tokenUsage": {
+    "prompt": 1516,
+    "completion": 155,
+    "total": 1671
+  }
+}

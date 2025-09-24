@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018013336",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le présent article s'applique à un membre du personnel dont l'emploi a été déclaré vacant en application de l'article 28, § 1er, 4° et 5°, ou de l'article 100terdecies.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le membre du personnel dont l'emploi a été déclaré vacant selon le paragraphe 1er, conserve après la déclaration de vacance dudit emploi, les positions administrative et pécuniaire liées à son congé ou absence.</p>\n        <p>Si le membre du personnel visé à l'alinéa 1er revient de son congé ou de son absence pendant l'année scolaire, il occupe un emploi vacant dans son propre établissement ou, si cela n'est pas possible, dans un autre établissement du centre d'enseignement ou, le cas échéant, du groupe d'écoles. S'il n'y a pas d'emploi vacant, le membre du personnel sera mis en disponibilité par défaut d'emploi en application de l'article V.75, § 1er, de l'arrêté du Gouvernement flamand du 28 octobre 2016 portant codification de certaines dispositions relatives à l'enseignement.</p>\n        <p>Si le membre du personnel visé à l'alinéa 1er revient de son congé ou de son absence le 1er septembre, ce membre du personnel prend, lors de la répartition des emplois, son ordre sur la base de son ancienneté de service, comme le prévoit l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.672Z",
+  "tokenUsage": {
+    "prompt": 2274,
+    "completion": 535,
+    "total": 2809
+  }
+}

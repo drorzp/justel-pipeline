@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1985018002",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Afin de couvrir les frais prévus à l'article 7, § 3, dernier alinéa, de l'arrêté royal n° 289, qui se rapportent à la cotisation de modération des revenus afférents à l'année 1984, une avance de (cent millions deux cent soixante et un mille huit cents) de francs, à valoir sur les affectations visées à l'article 7, § 3,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        2°, dudit arrêté, sera réservée sur un compte spécial productif d'intérêts ouvert au nom de l'Institut national auprès de la Caisse nationale, à raison de trente-trois millions au profit de l'Institut national et (soixante-sept millions deux cent soixante et un mille huit cents) au profit de la Caisse nationale.\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1985-02-26/30\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 1985-02-26/30, art. 2, 002&gt;</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.504Z",
+  "tokenUsage": {
+    "prompt": 1843,
+    "completion": 379,
+    "total": 2222
+  }
+}

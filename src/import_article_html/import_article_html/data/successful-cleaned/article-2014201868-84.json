@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014201868",
+  "articleNumber": "84",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-84\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 84</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 346 du même Code, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans les paragraphes 1er, 4°, 2, 3°, et 3, 3°, le \" 29 % \" est remplacé par les mots \" vingt-neuf pour cent \", le \" 21 % \" est remplacé par les mots \" vingt et un pour cent \", et le \" 50 % \" est remplacé par les mots \" cinquante pour cent \" et les mots \" pour l'application du 1° et 2° \" sont remplacés par les mots \" pour l'application des alinéas 1er et 2 \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans les paragraphes 1er, 2 et 3, les énumérations sont supprimées.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.373Z",
+  "tokenUsage": {
+    "prompt": 1827,
+    "completion": 312,
+    "total": 2139
+  }
+}

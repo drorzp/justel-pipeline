@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996003142",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les articles 4 et 10, 4°, sont applicables à partir de l'exercice d'imposition 1996. Ils sont également applicables aux impôts relatifs à des exercices d'impositions antérieurs qui font l'objet soit d'une réclamation introduite dans les formes et délais visés à l'article 371 du Code des impôts sur les revenus 1992, soit d'un recours en appel ou en cassation, sur lesquels, au moment de l'entrée en vigueur de la présente loi, il n'a pas encore été statué.</p>\n            <p class=\"intro-text\">Les articles 6 et 7 produisent leurs effets à partir de l'exercice d'imposition 1992.</p>\n            <p class=\"intro-text\">Les articles 2, 3 et 10,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">sont applicables aux opérations d'apport effectuées à partir du jour de la publication au Moniteur belge de la présente loi.</span></li>\n            </ol>\n            <p class=\"closing-text\">L'article 10, 3°, est applicable aux revenus censés être attribués ou mis en paiement au plus tôt le 31 décembre 1995.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.050Z",
+  "tokenUsage": {
+    "prompt": 1864,
+    "completion": 391,
+    "total": 2255
+  }
+}

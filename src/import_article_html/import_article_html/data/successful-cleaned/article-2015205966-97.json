@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015205966",
+  "articleNumber": "97",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-97\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 97</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'arrêté royal du 29 mars 2010 portant exécution du chapitre 6 du titre XI de la loi du 27 décembre 2006 portant des dispositions diverses (I), relatif aux cotisations de sécurité sociale et retenues dues sur des régimes de chômage avec complément d'entreprise, sur des indemnités complémentaires à certaines allocations de sécurité sociale et sur des indemnités d'invalidité, modifié en dernier lieu par l'arrêté royal du 19 juin 2012, il est inséré un article 6bis rédigé comme suit :</p>\n            <p>\" Art. 6bis. Les pourcentages des cotisations prévus à l'article 5bis, 1° et 2°, et à l'article 6, § 4, 1° et 2°, sont multipliés par un coefficient de 1.25 pour les chômeurs avec complément d'entreprise dont le préavis ou la rupture du contrat de travail a été notifié après le 10 octobre 2015.</p>\n            <p>Les nouveaux pourcentages ainsi obtenus sont arrondis arithmétiquement à la deuxième décimale, 0,005 étant arrondi vers le haut.</p>\n            <p>Le coefficient de 1.25 visé à l'alinéa 1er n'est pas d'application lorsque le préavis ou la rupture du contrat de travail a été notifié dans le cadre d'une reconnaissance en tant qu'entreprise en difficulté ou en restructuration pour autant que la reconnaissance ou, pour les entreprises en restructuration, l'annonce du licenciement collectif visé au chapitre VII de l'arrêté royal du 3 mai 2007, date d'avant le 11 octobre 2015.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.304Z",
+  "tokenUsage": {
+    "prompt": 2066,
+    "completion": 443,
+    "total": 2509
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008022275",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Des demandes ou des recours peuvent être traités comme connexes lorsqu'ils sont liés entre eux par un rapport si étroit qu'il y a intérêt à les instruire et juger en même temps afin d'éviter des solutions qui seraient susceptibles d'être inconciliables si les affaires étaient jugées séparément.</p>\n            <p class=\"intro-text\">Dans les cas visés à l'article 144, § 2,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">de la loi coordonnée, le Fonctionnaire dirigeant du Service d'évaluation et de contrôle médicaux peut saisir les Chambres de première instance par une seule et même requête relative à plusieurs demandes ou plusieurs recours impliquant plusieurs dispensateurs de soins pour autant que ces demandes ou recours soient connexes.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.006Z",
+  "tokenUsage": {
+    "prompt": 1711,
+    "completion": 308,
+    "total": 2019
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997014171",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 46 du même arrêté, modifié par l'arrêté royal du 18 septembre 1991 sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'article 46.1. 2°, est remplacé par la disposition suivante : \" 2° cyclomoteur à trois ou quatre roues, tricycle ou quadricycle avec ou sans moteur ou leur remorque : la largeur du chargement ne peut excéder de plus de 0,30 mètre la largeur du véhicule non chargé avec maximum absolu de 2,50 mètres; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">aux articles 46.1. 5° et 6°, les mots \" à deux roues \" sont supprimés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">à l'article 46.2.2., les mots \" avec ou \" sont insérés entre les mots \" quadricycles \" et \" sans moteur \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.026Z",
+  "tokenUsage": {
+    "prompt": 1811,
+    "completion": 357,
+    "total": 2168
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1957072901",
+  "articleNumber": "3bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"31-10-1962\" data-law-type=\"AR\" data-article-number=\"3\">&lt;AR 31-10-1962, art. 3&gt;</span>\n        Pour l'application de l'article 18 de la loi du 3 avril 1962, la Caisse nationale des pensions pour employés, la Caisse générale d'épargne et de retraite et les établissements d'assurance agréés pour l'application de la loi du 18 juin 1930 sont autorisés à prélever sur le reliquat du Fonds de répartition à transférer au Fonds commun de péréquation une somme qui ne peut excéder 25 p.c.\n      </p>\n      <p class=\"intro-text\">\n        La somme correspondant à cette quotité est laissée à la libre disposition des organismes assureurs visés à l'article 24, alinéa premier, 3°, de la loi du 18 juin 1930 précitée.\n      </p>\n      <p class=\"intro-text\">\n        En ce qui concerne la Caisse nationale des pensions pour employés, la Caisse générale d'épargne et de retraite et les organismes assureurs visés à l'article 24, alinéa premier, 1° et 2° de la loi du 18 juin 1930, la somme correspondant à la quotité prévue à l'alinéa premier du présent article est affectée à la gestion des versements supplémentaires effectués dans le cadre de cette législation.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.464Z",
+  "tokenUsage": {
+    "prompt": 1975,
+    "completion": 413,
+    "total": 2388
+  }
+}

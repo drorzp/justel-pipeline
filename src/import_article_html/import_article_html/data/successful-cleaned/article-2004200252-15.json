@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004200252",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour ce qui concerne la Région wallonne, dans l'article 258, alinéa 1er, du même Code, les mots \" à l'article 257, 1° à 3° \" sont remplacés par les mots \" à l'article 257, 1° à 3°bis, \".</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour ce qui concerne la Région wallonne, dans l'article 259 du même Code, les mots \" à l'article 257, 2° et 3° \" sont remplacés par les mots \" à l'article 257, 2° à 3° bis, \".</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les paragraphes 1er et 2 entrent en vigueur le 1er janvier 2004.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.694Z",
+  "tokenUsage": {
+    "prompt": 1800,
+    "completion": 365,
+    "total": 2165
+  }
+}

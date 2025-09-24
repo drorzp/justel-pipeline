@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019A12565",
+  "articleNumber": "2.5.2.90",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2-5-2-90\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2.5.2.90</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-10-13/10\" data-law-type=\"L\" data-article-number=\"9\">\n            Les données visées à l'article 2.5.2.88 sont conservées pendant la période déterminée dans le plan de sûreté et ne peuvent jamais excéder une période de 10 ans.  \n            Par dérogation à l'alinéa 1er, les données biométriques ne peuvent être conservées que conformément aux dispositions de l'article 2.5.2.85.  \n            Par dérogation à l'alinéa 1er, les données des personnes visées à l'article 2.5.2.87, \n            <ol class=\"numbered-provisions\">\n              <li class=\"provision\" data-number=\"4°\">\n                <span class=\"provision-text\">sont immédiatement effacées après l'expiration ou la levée de l'interdiction portuaire.</span>\n              </li>\n              <li class=\"provision\" data-number=\"5°\">\n                <span class=\"provision-text\">sont immédiatement effacées après l'expiration ou la levée de l'interdiction portuaire.</span>\n              </li>\n            </ol>\n          </span>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-05-16/55\" data-law-type=\"L\" data-article-number=\"28\">\n            Les données des exercices contenant des données à caractère personnel sont conservées pendant une période maximale de dix ans.\n          </span>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.231Z",
+  "tokenUsage": {
+    "prompt": 2009,
+    "completion": 521,
+    "total": 2530
+  }
+}

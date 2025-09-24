@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1965041207",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les dispositions des chapitres V et VI sont applicables aux prestations prévues à l'article 2, dernier alinéa,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\"></span>\n        </li>\n      </ol>\n      <p>Les dispositions de l'article 8 de l'arrêté-loi du 28 décembre 1944, concernant la sécurité sociale des travailleurs, sont applicables aux prestations prévues à l'article 2, dernier alinéa</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\"></span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.564Z",
+  "tokenUsage": {
+    "prompt": 1635,
+    "completion": 277,
+    "total": 1912
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991013192",
+  "articleNumber": "98bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-98bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 98bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-insertion\" data-dossier-number=\"2001-04-27/32\" data-law-type=\"AR\" data-article-number=\"5\" data-effective-date=\"01-04-2001\">\n          &lt;Inséré par AR 2001-04-27/32, art. 5;**En vigueur :**01-04-2001&gt;\n        </span>\n        Le directeur peut, dans les cas visés ci-après, assimiler le chômeur qui prouve qu'il a agi de bonne foi, au chômeur qui a satisfait aux dispositions réglementaires :\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le chômeur s'est inscrit comme demandeur d'emploi auprès d'un autre service régional de l'emploi que le service compétent visé à l'article 58;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">\n            [...] \n            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-03-05/36\" data-law-type=\"AR\" data-article-number=\"15\" data-effective-date=\"15-12-2005\">\n              &lt;AR 2006-03-05/36, art. 15, 145;**En vigueur :**15-12-2005&gt;\n            </span>\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le dossier du chômeur a été introduit auprès d'un autre bureau du chômage que le bureau visé aux articles 138, alinéa 1er, 4° et 142;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le chômeur qui déménage, a négligé d'introduire un nouveau dossier en application de l'article 133, § 1er, 6°, ou de l'article 134, § 1er, 1°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.489Z",
+  "tokenUsage": {
+    "prompt": 2081,
+    "completion": 577,
+    "total": 2658
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021200218",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 1er du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">aux 2° et 4°, les mots \" du Logement \" sont chaque fois remplacés par les mots \" de l'habitation durable \";</li>\n        <li class=\"sub-provision\" data-marker=\"b)\">il est inséré un 5°, rédigé comme suit : \" 5° pièce d'habitation de jour : pièce d'habitation qui n'est pas utilisée principalement comme chambre; \";</li>\n        <li class=\"sub-provision\" data-marker=\"c)\">il est inséré un 6°, rédigé comme suit : \" 6° pièce d'habitation de nuit : pièce d'habitation qui est principalement utilisée comme chambre; \";</li>\n        <li class=\"sub-provision\" data-marker=\"d)\">il est inséré un 7°, rédigé comme suit : \" 7° pièce d'habitation : toute pièce autre que les halls, couloirs, locaux sanitaires, caves, greniers non aménagés, annexes non habitables, garages, locaux à usage professionnel et locaux qui ne communiquent pas, par l'intérieur, avec l'habitation; \";</li>\n        <li class=\"sub-provision\" data-marker=\"e)\">il est inséré un 8°, rédigé comme suit : \" 8° habitation individuelle : l'habitation dont les pièces d'habitation et les locaux sanitaires sont réservés à l'usage individuel d'un seul ménage; \";</li>\n        <li class=\"sub-provision\" data-marker=\"f)\">est complété par un 9°, rédigé comme suit : \" 9° habitation collective : l'habitation dont au moins une pièce d'habitation ou un local sanitaire est utilisé par plusieurs personnes majeures ne constituant pas un seul et même ménage.</li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.796Z",
+  "tokenUsage": {
+    "prompt": 2083,
+    "completion": 490,
+    "total": 2573
+  }
+}

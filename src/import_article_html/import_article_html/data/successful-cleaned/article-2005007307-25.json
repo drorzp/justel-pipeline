@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005007307",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 2 du même arrêté, remplacé par l'arrêté royal du 26 septembre 2002, est remplacé par la disposition suivante : \" Article 2. Les répétiteurs :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">prêtent leur concours aux travaux pratiques, aux exercices dirigés, ainsi qu'au contrôle des connaissances des élèves;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">peuvent exercer des suppléances dans des cas exceptionnels;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">peuvent dispenser des cours dans le cadre des missions visées à l'article 6, 3°, 5° et 8°, de l'arrêté royal du 26 septembre 2002 relatif à l'organisation de l'Ecole royale militaire;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">prêtent leur concours dans le cadre des missions visées à l'article 6, 6° et 7°, de l'arrêté royal précité.</span>\n        </li>\n      </ol>\n      <p>Les maîtres de langue peuvent dispenser des cours dans le cadre des missions visées à l'article 6, 3°, 5° et 8°, de l'arrêté royal du 26 septembre 2002 relatif à l'organisation de l'Ecole royale militaire.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.754Z",
+  "tokenUsage": {
+    "prompt": 1931,
+    "completion": 432,
+    "total": 2363
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015201470",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 2, alinéa 1er, du décret du 31 mars 2014 relatif à l'accueil d'enfants est complété par les 5°, 6° et 7°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">C.C.C.A.E. : la Commission consultative communale pour l'accueil d'enfants;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">département : le département du Ministère de la Communauté germanophone compétent en matière de famille;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">ministre : le ministre du Gouvernement de la Communauté germanophone compétent pour la Politique familiale.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.192Z",
+  "tokenUsage": {
+    "prompt": 1694,
+    "completion": 298,
+    "total": 1992
+  }
+}

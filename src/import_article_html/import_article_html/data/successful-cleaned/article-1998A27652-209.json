@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998A27652",
+  "articleNumber": "209",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-209\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 209</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-09-28/16\" data-law-type=\"DRW\" data-article-number=\"41\">\n                <p class=\"intro-text\">Le présent Code met partiellement en oeuvre les dispositions de la directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur et établit que celle-ci ne s'applique pas aux services sociaux d'intérêt économique général visés à l'article 1er, 7°, 8°, 9° et 11°bis, ni aux opérateurs immobiliers prestataires de ces services.</p>\n                <p class=\"closing-text\">Dans le cadre du présent Code, les missions dévolues aux opérateurs immobiliers au sens de l'article 1er, 23°, y compris les projets de mixité sociale mis en oeuvre par les sociétés de logement de service public, sont des missions de service d'intérêt économique général, en conformité avec la décision 2012/21/UE de la Commission européenne du 20 décembre 2011 relative à l'application de l'article 106, § 2, du Traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général. Ces missions garantissent aux citoyens, à des conditions définies, le droit d'accès universel et égal à ces services, assurant qualité et transparence.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.078Z",
+  "tokenUsage": {
+    "prompt": 2052,
+    "completion": 406,
+    "total": 2458
+  }
+}

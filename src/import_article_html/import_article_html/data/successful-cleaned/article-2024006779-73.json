@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006779",
+  "articleNumber": "73",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-73\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 73</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En exécution de l'article 54, 3°, du Décret culturel supralocal du 8 mars 2024, le demandeur dispose de l'infrastructure suivante en vue de la participation culturelle, de la formation socio-éducative et de la diffusion de la culture :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">une salle polyvalente d'au moins 200 m2 ou un théâtre avec au moins 250 places assises fixes ou ancrables, ainsi qu'une salle polyvalente d'au moins 100 m2 pouvant accueillir d'autres activités que les activités théâtrales ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">une superficie totale d'au moins 100 m2 d'espace d'exposition ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">trois locaux à usage culturel.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">A condition que la commune puisse motiver de manière approfondie la manière dont elle peut répondre aux besoins de la population locale avec son infrastructure culturelle, il est possible de déroger de 20 % maximum au nombre de mètres carrés requis, visés à l'alinéa 1er, 1° et 2°, si la superficie totale s'élève au moins à 300 m2. La commune peut prendre en considération l'infrastructure culturelle de la Commission communautaire flamande, à condition que son utilisation soit réglée dans une convention qu'elle conclut avec la Commission communautaire flamande.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.545Z",
+  "tokenUsage": {
+    "prompt": 1998,
+    "completion": 456,
+    "total": 2454
+  }
+}

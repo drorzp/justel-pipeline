@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015003457",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-05-29/22\" data-law-type=\"DIVERS\" data-article-number=\"6\">\n            <section class=\"paragraph\" id=\"para-1\">\n                <h3 class=\"paragraph-marker\">§ 1.</h3>\n                <div class=\"paragraph-content\">\n                    <p>La compétence territoriale des services visés à l'article 1er est fixée dans le tableau figurant à l'annexe 1.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\" id=\"para-2\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Par dérogation au paragraphe 1, les centres visés à l'article 1,:</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"3°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"8°\">\n                            <span class=\"provision-text\">sont territorialement compétents, à l'égard des non-habitants du Royaume visés à l'article 2 § 1, respectivement pour le Royaume de Belgique à l'exception des dossiers en langue allemande de la région de langue allemande et des communes de Malmedy et de Waimes, et pour les dossiers en langue allemande de la région de langue allemande et des communes de Malmedy et de Waimes.</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n        </span>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.272Z",
+  "tokenUsage": {
+    "prompt": 1940,
+    "completion": 432,
+    "total": 2372
+  }
+}

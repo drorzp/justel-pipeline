@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011035664",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les conditions d'électorat, visées à l'article 8, 1° et 3°, doivent être remplies à la date à laquelle la liste électorale est arrêtée.</p>\n                <p>Les conditions d'électorat, visées à l'article 8°, 2° et 4°, doivent être remplies à la date des élections.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.215Z",
+  "tokenUsage": {
+    "prompt": 1503,
+    "completion": 185,
+    "total": 1688
+  }
+}

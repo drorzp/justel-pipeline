@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047484",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les ressources financières du Fonds de garantie pour financer les interventions, les dépenses résultant de la stratégie d'investissement des moyens financiers disponibles et les dépenses résultant de la préparation, de l'exécution et du recouvrement des interventions, dans le cadre du volet fonds du système de protection des investisseurs sont constituées par les moyens financiers disponibles, alimentés par les contributions régulières des membres visés à l'article 31, § 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">1°</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2°</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">3°</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">par les contributions extraordinaires et par des avances du Trésor.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.485Z",
+  "tokenUsage": {
+    "prompt": 1637,
+    "completion": 309,
+    "total": 1946
+  }
+}

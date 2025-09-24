@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005202164",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 183, 3° et 4°, du même code, les mots \", l'assainissement\" et les mots \", à l'assainissement\" sont supprimés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.791Z",
+  "tokenUsage": {
+    "prompt": 1431,
+    "completion": 118,
+    "total": 1549
+  }
+}

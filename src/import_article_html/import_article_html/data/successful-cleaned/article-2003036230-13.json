@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003036230",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3 du même arrêté, il est ajouté un alinéa, rédigé comme suit :</p>\n      <p class=\"paragraph-content\">\" Les conditions fixées aux 1°, 7°, 8° et 10°, ne s'appliquent pas aux campings pour mobile homes. \"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.720Z",
+  "tokenUsage": {
+    "prompt": 1481,
+    "completion": 150,
+    "total": 1631
+  }
+}

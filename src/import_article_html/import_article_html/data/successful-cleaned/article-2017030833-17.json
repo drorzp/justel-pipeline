@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030833",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté entre en vigueur le dixième jour qui suit sa publication au Moniteur belge. Par dérogation à l'alinéa 1er, l'article 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et l'article 15 entrent en vigueur le 1er janvier 2019.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.738Z",
+  "tokenUsage": {
+    "prompt": 1493,
+    "completion": 185,
+    "total": 1678
+  }
+}

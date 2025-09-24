@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022020524",
+  "articleNumber": "71",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-71\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 71</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les envois de correspondance désignés à l'article 70, à l'exception de ceux prévus sub 1°, 6°, 7° et 8°, doivent être revêtus extérieurement en tête du recto et du côté gauche, en toutes lettres, de l'indication et de l'adresse de l'expéditeur.</p>\n            <p class=\"closing-text\">Les envois de correspondance expédiés en exécution des lois électorales doivent porter en tête du recto, les mots imprimés ou manuscrits \"Lois électorales\" et dans le corps de l'adresse, la qualité du destinataire ou de l'expéditeur en matière électorale.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.702Z",
+  "tokenUsage": {
+    "prompt": 1706,
+    "completion": 230,
+    "total": 1936
+  }
+}

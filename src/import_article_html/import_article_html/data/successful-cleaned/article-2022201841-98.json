@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022201841",
+  "articleNumber": "98",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-98\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 98</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation à l'article 16, alinéa 1er, du décret du 18 mars 2002 relatif à l'Infrastructure, le subside représente 90 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1° à 5° et 7° à 10°, du même décret destinés à rénover ou à remplacer les infrastructures qui ont manifestement été endommagées ou détruites par les inondations catastrophiques de juillet 2021. Les indemnités éventuellement versées en vertu d'une assurance souscrite ou par une autre autorité sont déduites des dépenses éligibles.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation à l'article 21, § 2, alinéa 5, du même décret, les demandes correspondantes peuvent être introduites entre le 1er août 2021 et le 31 décembre 2022.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.825Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 353,
+    "total": 2114
+  }
+}

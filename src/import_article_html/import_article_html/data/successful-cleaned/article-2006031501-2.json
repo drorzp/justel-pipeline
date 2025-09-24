@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006031501",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le nombre de points attribués aux communes en exécution de l'article 15, § 4 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 5 février 1998 précité, est fixé au nombre inscrit en regard de leur nom dans la colonne A2 de l'annexe 6. Les annexes n° 1 et n° 2, du présent arrêté, détaillent la répartition du nombre de points visés à l'article 15, § 4, points</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.680Z",
+  "tokenUsage": {
+    "prompt": 1647,
+    "completion": 258,
+    "total": 1905
+  }
+}

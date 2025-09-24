@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008022380",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 252 du même arrêté, remplacé par l'arrêté royal du 29 décembre 1997 et modifié par les arrêtés royaux des 8 avril 2003 et 3 août 2007, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">A l'alinéa 1er, les mots \" 1° à 16°, 18°, 20° et 22° \" sont remplacés par les mots \" 1° à 16°, 18°, 20° à 22° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">A l'alinéa 6, les mots \" l'article 32, alinéa premier, 12°, 14° et 15° \" sont remplacés par les mots \" l'article 32, alinéa 1er, 12°, 14°, 15°, 21° et 22° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">A l'alinéa 7, les mots \" l'article 32, alinéa premier, 12°, 14° et 15° \" sont remplacés par les mots \" l'article 32, alinéa 1er, 12°, 14°, 15° et 21° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">L'alinéa 10 est remplacé par une disposition rédigée comme suit : \" Un bénéficiaire ne peut être affilié qu'à une seule mutualité ou inscrit qu'à un seul office régional de la Caisse auxiliaire d'assurance maladie-invalidité ou à la Caisse des soins de santé de la SNCB Holding. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.007Z",
+  "tokenUsage": {
+    "prompt": 2131,
+    "completion": 531,
+    "total": 2662
+  }
+}

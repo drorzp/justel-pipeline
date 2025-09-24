@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014203",
+  "articleNumber": "97",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-97\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 97</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 620, § 1er, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et § 2, alinéa 1er, du même Code, modifié par la loi du 20 juillet 2006 et l'arrêté royal du 8 octobre 2008, les mots \"article 2,</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">4°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers\" sont chaque fois remplacés par les mots \"article 3, 10°, de la loi du 21 novembre 2017 relative aux infrastructures des marchés d'instruments financiers et portant transposition de la Directive 2014/65/UE\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.584Z",
+  "tokenUsage": {
+    "prompt": 1698,
+    "completion": 280,
+    "total": 1978
+  }
+}

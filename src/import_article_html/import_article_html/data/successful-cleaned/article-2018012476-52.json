@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012476",
+  "articleNumber": "52",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-52\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 52</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'examen pour les exercices de tir visés aux article s 29, 4° et 30, 2°, est organisé selon les dispositions prévues aux article s 59 à 61 inclus.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.692Z",
+  "tokenUsage": {
+    "prompt": 1439,
+    "completion": 122,
+    "total": 1561
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994003443",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 242 du même Code, modifié par l'article 30 de la loi du 28 juillet 1992 et par l'article 11 de la loi du 28 décembre 1992, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au § 1er, alinéa 1er, les mots \" à l'exception de celles visées à l'article 104, alinéa 1er, 1° et 2°, lorsque le bénéficiaire de la rente n'est pas un habitant du Royaume et de celles visées à l'article 104, alinéa 1er, 11°, lorsque le droit d'emphytéose ou de superficie ou tout autre droit immobilier similaire porte sur des biens immobiliers sis à l'étranger \" sont remplacés par les mots \" à l'exception de celles visées à l'article 104, 1° et 2°, lorsque le bénéficiaire de la rente n'est pas un habitant du Royaume \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au § 2, les mos \" aux articles 104 à 125 \" sont remplacés par les mots \" aux articles 104 à 116 \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.067Z",
+  "tokenUsage": {
+    "prompt": 1908,
+    "completion": 393,
+    "total": 2301
+  }
+}

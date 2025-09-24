@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014031991",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le chapitre X de l'arrêté royal du 9 juin 1999 précité, rétabli par l'article 4, il est inséré un article 37/2, rédigé comme suit :</p>\n      <p class=\"intro-text\">\" Art. 37/2. Les montants de rémunération visés à l'article 2, alinéa 1er, 33°, à l'article 9, alinéa 1er, 6°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"15°\">\n          <span class=\"provision-text\">et à l'article 15/1 du présent arrêté doivent constituer la contrepartie des prestations de travail effectuées et être connus, avec certitude, avant le début de l'occupation des travailleurs en Belgique.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.329Z",
+  "tokenUsage": {
+    "prompt": 1715,
+    "completion": 306,
+    "total": 2021
+  }
+}

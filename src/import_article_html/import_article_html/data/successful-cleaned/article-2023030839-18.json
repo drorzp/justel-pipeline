@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030839",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Gouvernement flamand nomme un pool d'experts externes pour l'évaluation et l'appréciation des subventions de fonctionnement visées à l'article 3, alinéa 3,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">1°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">2°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">3°</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Gouvernement flamand détermine la méthode et la procédure pour la description des profils, l'appel aux candidats experts et la composition du pool.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.713Z",
+  "tokenUsage": {
+    "prompt": 1522,
+    "completion": 334,
+    "total": 1856
+  }
+}

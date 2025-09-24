@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997029337",
+  "articleNumber": "111",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-111\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 111</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>L'article 10,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">du décret du 9 novembre 1990 portant organisation des établissements de l'enseignement organisé par la Communauté française et instaurant la participation des membres de la Communauté éducative est abrogé en ce qui concerne l'enseignement fondamental et l'enseignement secondaire.</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.980Z",
+  "tokenUsage": {
+    "prompt": 1549,
+    "completion": 254,
+    "total": 1803
+  }
+}

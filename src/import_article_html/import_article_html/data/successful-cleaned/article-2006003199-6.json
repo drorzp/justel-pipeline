@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006003199",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 41, alinéa 1er, du même arrêté, les mots \"visé à l'article 3, § 2, 1° et 3°, de la loi précitée du 2 janvier 1991\" sont insérés entre les mots \"tout teneur de comptes\" et les mots \"doit comporter\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.867Z",
+  "tokenUsage": {
+    "prompt": 1565,
+    "completion": 160,
+    "total": 1725
+  }
+}

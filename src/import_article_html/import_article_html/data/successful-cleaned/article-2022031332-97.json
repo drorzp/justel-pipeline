@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031332",
+  "articleNumber": "97",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-97\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 97</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les rapports et recommandations de sécurité visés à l'article 93, premier alinéa,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">ne peuvent être utilisés comme éléments de preuve dans une procédure pénale, disciplinaire ou civile.</span></li>\n      </ol>\n      <p class=\"closing-text\">Un enquêteur et un expert externe ne peuvent être appelés en tant que témoins ou experts dans une procédure judiciaire devant un navire en cas de cas ou d'incident de mer, s'ils sont ou ont été impliqués dans l'enquête de sécurité.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.744Z",
+  "tokenUsage": {
+    "prompt": 1625,
+    "completion": 252,
+    "total": 1877
+  }
+}

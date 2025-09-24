@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015031903",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2.2.1 de la même ordonnance, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les points 2° et 3° sont remplacés par ce qui suit : \" 2° des locaux agricoles, des locaux avec activités industrielles ou artisanales ou affectés à du dépôt, de l'entreposage, lorsque ceux-ci présentent une faible demande en énergie telle que définie par le Gouvernement; \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le point 4° devient un point 3° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le point 5° devient un point 4° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">le point 6° devient un point 5° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">le point 7° devient un point 6°.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.274Z",
+  "tokenUsage": {
+    "prompt": 1804,
+    "completion": 380,
+    "total": 2184
+  }
+}

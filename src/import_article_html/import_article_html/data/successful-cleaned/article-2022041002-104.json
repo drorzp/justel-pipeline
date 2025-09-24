@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022041002",
+  "articleNumber": "104",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-104\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 104</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3, § 2 de la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement, de la santé et des travailleurs, remplacée par la loi du 28 mars 2003 et modifiée par la loi du 22 décembre 2020, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 3° de l'alinéa 2, les mots \"à usage humain\" sont ajoutés après le mot \"médicaments\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 2 est complété par les points 9° et 10°, rédigés comme suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"9°\">\n              <span class=\"provision-text\">le Règlement (UE) 2019/6 du Parlement Européen et du Conseil du 11 décembre 2018 du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"10°\">\n              <span class=\"provision-text\">la loi du 5 mai 2022 sur les médicaments vétérinaires.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.880Z",
+  "tokenUsage": {
+    "prompt": 1944,
+    "completion": 443,
+    "total": 2387
+  }
+}

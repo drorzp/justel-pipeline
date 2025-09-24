@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024000670",
+  "articleNumber": "57",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-57\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 57</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le candidat introduit les documents mentionnés dans l'article Art. 56, 1°, 5°, 7°, 8° et 9° aussi bien en néerlandais qu'en français.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.508Z",
+  "tokenUsage": {
+    "prompt": 1442,
+    "completion": 126,
+    "total": 1568
+  }
+}

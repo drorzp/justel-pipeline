@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004033068",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application du présent décret on entend par &quot; organes consultatifs &quot; les conseils, commissions, comités et autres organes quelle que soit leur dénomination:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">qui ont été ou sont créés par loi, arrêté royal, arrêté ministériel, décret de la Communauté germanophone, arrêté du Gouvernement ou arrêté d'un Ministre de la Communauté germanophone</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et qui sont principalement chargés d'assister le Gouvernement, un Ministre ou les services du Gouvernement en exerçant une fonction consultative.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.737Z",
+  "tokenUsage": {
+    "prompt": 1638,
+    "completion": 261,
+    "total": 1899
+  }
+}

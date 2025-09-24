@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011027",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté s'applique aux fonds starter publics et aux pricaf privées starter.</p>\n      <p class=\"intro-text\">Le fonds starter public est une société d'investissement publique à nombre fixe de parts, visée à l'article 195 de la loi du 19 avril 2014, qui investit dans les catégories de placement visées à l'article 183, alinéa 1er, 5° et 6°, de la loi du 19 avril 2014 et qui est visée à l'article 145/26, § 1er, alinéa 1er, c) du Code des impôts sur les revenus.</p>\n      <p class=\"closing-text\">La pricaf privée starter est une pricaf privée, telle que visée à l'article 298 de la loi du 19 avril 2014, qui est inscrite en qualité de pricaf privée starter auprès du SPF Finances et qui est visée à l'article 145/26, § 1er, alinéa 1er, c) du Code des impôts sur les revenus.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.758Z",
+  "tokenUsage": {
+    "prompt": 1834,
+    "completion": 317,
+    "total": 2151
+  }
+}

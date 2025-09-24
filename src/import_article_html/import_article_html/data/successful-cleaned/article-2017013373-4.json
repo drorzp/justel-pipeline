@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017013373",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le candidat sollicite son admission à la formation de base auprès du gouverneur de la province où se situe l'organisme de formation de son choix par courrier ordinaire ou électronique. Il joint à sa demande une copie de l'extrait de casier judiciaire datant de moins de trois mois ainsi qu'une copie de sa carte d'identité.</p>\n      <p class=\"intro-text\">Le gouverneur autorise le candidat à suivre la formation de base après avoir constaté que ce dernier satisfait aux conditions mentionnées à l'article 3, 2° et 4°.</p>\n      <p class=\"closing-text\">Le candidat remet l'autorisation obtenue du gouverneur au directeur de l'organisme de formation ou à son préposé au moment de son inscription à la formation de base.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.615Z",
+  "tokenUsage": {
+    "prompt": 1689,
+    "completion": 246,
+    "total": 1935
+  }
+}

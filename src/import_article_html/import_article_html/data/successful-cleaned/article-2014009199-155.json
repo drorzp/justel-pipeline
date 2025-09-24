@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014009199",
+  "articleNumber": "155",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-155\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 155</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 365-6, § 2, du Code civil, inséré par la loi du 11 avril 2012, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le mot \"cinq\" est remplacé par le mot \"quatre\"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le 5° est abrogé</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le § 2, dont le texte existant formera l'alinéa 1er, est complété par un alinéa 2 rédigé comme suit : \"Dans le cas où l'autorité centrale fédérale a pu vérifier que les conditions visées aux 1°, 2° et 4° sont remplies, elle sollicite de l'autorité centrale communautaire compétente, afin de vérifier si la condition visée au 3° est également remplie, un avis motivé quant à l'opportunité de permettre la régularisation compte tenu de l'intérêt supérieur de l'enfant et des droits qui lui sont reconnus en vertu du droit international. L'avis de l'autorité centrale communautaire compétente porte notamment sur le respect du principe de subsidiarité, sur l'adoptabilité de l'enfant et sur l'existence pour l'enfant d'une autre solution durable de prise en charge de type familial que l'adoption internationale.\"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.068Z",
+  "tokenUsage": {
+    "prompt": 1986,
+    "completion": 443,
+    "total": 2429
+  }
+}

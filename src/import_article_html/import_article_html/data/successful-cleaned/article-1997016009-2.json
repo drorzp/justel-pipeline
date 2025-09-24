@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997016009",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 15, § 1er, du même arrêté, modifié par les arrêtés royaux des 20 avril 1983, 22 mars 1984, 19 juillet 1985, 10 avril 1987 et 21 février 1991, l'alinéa suivant est inséré entre les alinéas 2 et 3 :</p>\n      <p class=\"quote-text\">\" L'attributaire continue à ouvrir le droit en faveur de l'enfant visé aux 4°, 6°, 7° et 8°, lorsque celui-ci est un enfant disparu au sens de l'article 25bis, dans les limites définies à cet article. \"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.033Z",
+  "tokenUsage": {
+    "prompt": 1678,
+    "completion": 230,
+    "total": 1908
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006490",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 31, § 1er, de l'Arrêté d'autorisation du 22 novembre 2013, remplacé par l'arrêté du Gouvernement flamand du 17 mars 2023, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, le point 6° est abrogé</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'alinéa 2, le point 6° est abrogé</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">l'alinéa 3 est complété par un point 7° et un point 8°, rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">le respect du caractère propre de chaque famille</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"8°\">\n                            <span class=\"provision-text\">le soutien des familles</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.543Z",
+  "tokenUsage": {
+    "prompt": 1939,
+    "completion": 391,
+    "total": 2330
+  }
+}

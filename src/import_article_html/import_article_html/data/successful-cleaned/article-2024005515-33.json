@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005515",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par mesure transitoire, sont suspendues pendant l'année budgétaire 2024 les dispositions du décret du 20 décembre 2011 visées ci-après :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 22 § 1er, alinéa 2 et § 2 ;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 24 § 1er ;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 28 § 2, 2° et 3°.</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.556Z",
+  "tokenUsage": {
+    "prompt": 1598,
+    "completion": 239,
+    "total": 1837
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014200335",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 59quater de la même loi, inséré par l'arrêté royal du 31 mars 1987 et modifié par les lois des 25 janvier 1999, 19 juillet 2001 et 24 décembre 2002, l'alinéa 4 est remplacé par ce qui suit :</p>\n      <p class=\"intro-text\">\" Le Roi détermine les conditions dans lesquelles le Fonds des Accidents du travail :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">peut renoncer au recouvrement des montants visés à l'article 59, 3° et 4°;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">peut réduire ou exonérer la cotisation visée à l'article 59, 4°;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">peut accorder à l'employeur, l'armateur et à l'entreprise d'assurance l'exonération ou la réduction de la majoration et de l'intérêt de retard, visés à l'alinéa 2. \"</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.363Z",
+  "tokenUsage": {
+    "prompt": 1824,
+    "completion": 368,
+    "total": 2192
+  }
+}

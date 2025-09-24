@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A27132",
+  "articleNumber": "783",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-783\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 783</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                L'<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-10-17/05\" data-law-type=\"ARW\" data-article-number=\"2\">Agence</span> intervient en faveur d'un bénéficiaire pour sa prise en charge dans un seul service.  \n                Le cumul est néanmoins autorisé pour un bénéficiaire sollicitant le soutien d'un service d'accompagnement ou une intervention en aménagement du domicile ou une aide individuelle pour peu que ces dernières soient étrangères aux adaptations techniques ou à l'équipement incombant à la société agréée par la Société wallonne du Logement dans le cadre de l'arrêté ministériel portant exécution de l'article 6 de l'arrêté du Gouvernement wallon du 1er avril 1999 visant à encourager les projets de cellules AVJ en faveur des personnes handicapées souhaitant vivre de manière autonome dans des cités.  \n                L'<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-10-17/05\" data-law-type=\"ARW\" data-article-number=\"2\">Agence</span> peut également sur base d'un projet individuel :\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">autoriser le cumul avec une prise en charge ou un accompagnement assuré par une autre structure;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">autoriser la prise en charge par le service AVJ de bénéficiaires ne répondant pas aux dispositions visées à l'article 725, 2° et 5°.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.120Z",
+  "tokenUsage": {
+    "prompt": 1936,
+    "completion": 467,
+    "total": 2403
+  }
+}

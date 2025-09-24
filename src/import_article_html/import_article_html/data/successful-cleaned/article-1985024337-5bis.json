@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1985024337",
+  "articleNumber": "5bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"1991-02-20/31\" data-article-number=\"6\" data-law-type=\"DCFL\" data-effective-date=\"16-03-1991\">\n          &lt;inséré par DCFL 1991-02-20/31, art. 6, 003;<strong>En vigueur :</strong>16-03-1991&gt;\n        </span>\n        Suivants les modalités prévues à l'article 5, § 1er et § 2, 1°, 2°,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">l'Exécutif flamand peut subventionner d'autres formes de logement, de soins et de services pour personnes âgées, organisées par un établissement agréé en vertu du présent décret.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.503Z",
+  "tokenUsage": {
+    "prompt": 1714,
+    "completion": 338,
+    "total": 2052
+  }
+}

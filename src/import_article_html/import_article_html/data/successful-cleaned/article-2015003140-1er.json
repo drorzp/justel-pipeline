@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015003140",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er de l'arrêté royal du 17 juillet 2013 relatif au fonctionnement du point de contact central visé à l'article 322, § 3, du Code des impôts sur les revenus 1992, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">un 2° /1 est inséré entre le 2° et le 3°, rédigé comme suit : \"2° /1 \"contribuable\": toute personne visée à l'article 307, § 1er, alinéa 2, du même Code qui doit mentionner, dans la déclaration à l'impôt des personnes physiques, l'existence d'un compte étranger;\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un 4° /1 est inséré entre le 4° et le 5°, rédigé comme suit : \"4° /1 \"compte étranger\": tout compte de toute nature, visé à l'article 307, § 1er, alinéa 2, du même Code auprès d'un établissement de banque, de change, de crédit et d'épargne établi à l'étranger, dont le contribuable, ainsi que les enfants dont les revenus sont cumulés avec ceux des parents conformément à l'article 126, § 4, du même Code, ont été titulaires ou co-titulaires, à un quelconque moment de la période imposable;\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le 5°, g, les mots \"et des établissements de monnaie électronique\" sont insérés entre les mots \"au statut des établissements de paiement\" et les mots \", à l'accès à l'activité\" et les mots \", à l'activité d'émission de monnaie électronique\" sont insérés entre les mots \"prestataire de services de paiement\" et les mots \"et à l'accès aux systèmes de paiement\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.265Z",
+  "tokenUsage": {
+    "prompt": 2234,
+    "completion": 555,
+    "total": 2789
+  }
+}

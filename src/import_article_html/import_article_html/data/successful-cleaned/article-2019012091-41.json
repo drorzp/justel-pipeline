@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012091",
+  "articleNumber": "41",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-41\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 41</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Gouvernement flamand détermine l'entrée en vigueur de chacune des dispositions suivantes du présent décret :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'article 2, 3° et 7° ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">l'article 2, 4° ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">l'article 10 ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">l'article 14 ;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">l'article 23, 1° et 2° ;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">l'article 24 ;</span></li>\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">l'article 25, 1° à 5° inclus ;</span></li>\n        <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">les articles 26 à 33 ;</span></li>\n        <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">l'article 35.</span></li>\n      </ol>\n      <p class=\"closing-text\">\n        (NOTE : Entrée en vigueur des articles 2, 4°; 23, 1°, 2°; 24; 25, 1°, 5°; 26; 27; 28; 29; 30; 31; 32; 33 fixée au 01-01-2020 par AGF\n        <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019052421\">[2019-05-24/21]</a>, art. 66)  \n        (NOTE : Entrée en vigueur des articles 2, 3°, 7°; 10; 14; 35 fixée au 01-01-2020 par AGF\n        <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019051011\">[2019-05-10/11]</a>, art. 23)\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.297Z",
+  "tokenUsage": {
+    "prompt": 2266,
+    "completion": 670,
+    "total": 2936
+  }
+}

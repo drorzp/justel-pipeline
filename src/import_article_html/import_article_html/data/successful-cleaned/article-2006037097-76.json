@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006037097",
+  "articleNumber": "76",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-76\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 76</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les modifications suivantes sont apportées à l'article 6, § 1, du même décret, remplacé par le décret du 7 mai 2004:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le terme \" décret sur les engrais \" est remplacé par le terme \" décret relatif aux engrais du 22 décembre 2006 \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les points 7° et 9° sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.900Z",
+  "tokenUsage": {
+    "prompt": 1643,
+    "completion": 232,
+    "total": 1875
+  }
+}

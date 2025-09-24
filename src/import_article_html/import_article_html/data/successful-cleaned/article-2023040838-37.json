@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023040838",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-11-10/09\" data-law-type=\"AGF\" data-article-number=\"10\">\n          Sans préjudice de l'application de l'article 47, § 2, alinéa 4, les périodes de disponibilité et les périodes d'activité de service visées à l'article 47, § 2, alinéas 1er et 2, prestées du 1er janvier au 30 septembre de l'année à prendre en considération, à l'exception des périodes assimilées aux périodes d'activité de service visées à l'article 47, § 2, alinéa 2, 12°, 13°, 14° et 17°, entrent en considération pour calculer le montant de l'allocation de fin d'année\n        </span>.\n      </p>\n      <p>\n        Par dérogation à l'alinéa 1er, le conseil peut prévoir dans le statut, concernant les périodes d'activité de service visées à l'article 47, § 2, alinéa 2, 1°, 2°, 3°, 4°, 5°, 15° et 16°, et prestées du 1er janvier au 30 septembre de l'année à prendre en considération, que ces périodes n'entrent pas en considération pour calculer le montant de l'allocation de fin d'année.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.732Z",
+  "tokenUsage": {
+    "prompt": 1992,
+    "completion": 396,
+    "total": 2388
+  }
+}

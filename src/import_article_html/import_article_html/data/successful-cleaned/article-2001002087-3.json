@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001002087",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2008-04-27/30\" data-law-type=\"AR\" data-article-number=\"8\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008042730\">\n          &lt;AR 2008-04-27/30, art. 8, 007; En vigueur : 20-03-2008&gt;\n        </span>\n        Les membres des cellules stratégiques doivent :\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">satisfaire aux conditions prévues à l'article 16, alinéa 1er, 2°, 3° et 4°, de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">être titulaire d'une fonction de niveau A ou B ou être porteur d'un diplôme ou d'un certificat d'études qui les autorisent à participer à une sélection comparative pour une fonction de niveau A ou B, ou être lauréat d'une épreuve d'accession au niveau A ou B.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.205Z",
+  "tokenUsage": {
+    "prompt": 1868,
+    "completion": 397,
+    "total": 2265
+  }
+}

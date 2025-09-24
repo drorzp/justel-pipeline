@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015011505",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté royal du 17 mai 2006 portant réglementation générale des allocations et indemnités accordées aux enquêteurs chargés de l'exécution des enquêtes organisées par la Direction générale de la Statistique et de l'Information économique, modifié par l'arrêté royal du 2 décembre 2011, est complété par les 10° et 11° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">suivi téléphonique : l'enquêteur doit encourager le déclarant à remplir le questionnaire de manière autonome via internet ou interroge lui-même le déclarant par téléphone ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">suivi téléphonique positif : un formulaire complètement et correctement rempli sur l'internet par le déclarant ou un formulaire complètement et correctement rempli sur l'internet par l'enquêteur sur la base des réponses données au téléphone par le déclarant.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.172Z",
+  "tokenUsage": {
+    "prompt": 1787,
+    "completion": 333,
+    "total": 2120
+  }
+}

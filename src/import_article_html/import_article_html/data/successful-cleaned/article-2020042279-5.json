@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020042279",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La prime visée à l'article 1er, 4° et 5° est versée par le CPAS comme aide sociale en complément du revenu d'intégration ou de l'aide financière et est payable pour autant que la prestation qui la justifie soit également payable pour ce même mois.</p>\n      <p>La prime visée à l'article 1er, 4° et 5° s'élève mensuellement à <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-11-30/06\" data-law-type=\"L\" data-article-number=\"3\">25 euros</span> pour chaque bénéficiaire.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.159Z",
+  "tokenUsage": {
+    "prompt": 1663,
+    "completion": 224,
+    "total": 1887
+  }
+}

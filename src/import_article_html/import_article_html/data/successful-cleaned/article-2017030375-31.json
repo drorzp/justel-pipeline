@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030375",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 31</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même arrêté, il est inséré un article 19/1 rédigé comme suit : \"Art. 19/1. Outre le président, sont appelés à siéger dans le comité interfilières de métiers pour l'ensemble des filières de métiers militaires pour les sous-officiers, qui examinent les candidatures aux grades de sous-officiers supérieurs, comme membres permanents :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">un officier supérieur de chaque force;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le sous-officier supérieur exerçant la fonction d'adjudant de corps au cabinet du chef de la défense;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le sous-officier supérieur de chaque force exerçant la fonction d'adjudant de corps, le plus ancien dans le grade le plus élevé ou, à défaut, le sous-officier nommé au grade d'adjudant-major le plus ancien.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Toutefois, lorsqu'il n'y a pas de candidat appartenant à l'une ou deux forces du comité interfilières de métiers pour l'ensemble des filières de métiers militaires, la force ou les deux forces sans candidat ne sont pas prises en compte pour la désignation des membres visés à l'alinéa 1er, 1° et 3°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.733Z",
+  "tokenUsage": {
+    "prompt": 1970,
+    "completion": 440,
+    "total": 2410
+  }
+}

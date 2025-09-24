@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992003843",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 39</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-12-22/25\" data-law-type=\"AR\" data-article-number=\"1\">\n      <section class=\"paragraph\" id=\"para-1er\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>L'importation de biens visés par l'article 40, § 1er, 1°, d, du Code a lieu en franchise de la taxe, moyennant le respect des conditions prévues aux articles 1er à 3 et des conditions suivantes.</p>\n          <p>Outre les mentions prévues à l'article 9, la déclaration d'importation doit, dans le cas où l'importation de biens est suivie d'une livraison exemptée de ces biens en vertu de l'article 39bis, alinéa 1er, 1° et 4°, du Code, indiquer le numéro d'identification à la T.V.A. attribué dans un autre Etat membre au client à qui les biens sont livrés par le destinataire conformément à l'article 39bis, alinéa 1er, 1°, du Code, ou le numéro d'identification à la T.V.A. attribué au destinataire dans l'Etat membre d'arrivée de l'expédition ou du transport des biens lorsque ces derniers font l'objet d'un transfert conformément à l'article 39bis, alinéa 1er, 4°, du Code.</p>\n          <p>En outre, à la demande des autorités compétentes, le destinataire est tenu de fournir au moment de la déclaration d'importation, la preuve que les biens importés sont destinés à être transportés ou expédiés à partir de la Belgique vers un autre Etat membre.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\" id=\"para-2\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Le Ministre des Finances ou son délégué règle les modalités d'application du présent article.</p>\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.086Z",
+  "tokenUsage": {
+    "prompt": 2193,
+    "completion": 537,
+    "total": 2730
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013003199",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Pour l'application des articles 10, § 1er, alinéa 1er, 1°, 11, § 1er, 1°, et 30 § 3, 1° et 2° de la loi du 11 janvier 1993 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux et du financement du terrorisme, les pays dont il est présumé que la législation impose des obligations et un contrôle équivalents à ceux prévus par la Directive 2005/60/CE du Parlement européen et du Conseil du 26 octobre 2005 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux et du financement du terrorisme sont :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'Australie</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le Brésil</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le Canada</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">Hong Kong</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'Inde</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le Japon</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">la Corée du Sud</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le Mexique</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">Singapour</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">la Suisse</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'Afrique du Sud</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les Etats-Unis.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.084Z",
+  "tokenUsage": {
+    "prompt": 2034,
+    "completion": 542,
+    "total": 2576
+  }
+}

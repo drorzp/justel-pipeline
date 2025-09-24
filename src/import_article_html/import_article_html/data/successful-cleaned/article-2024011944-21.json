@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024011944",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 46, § 2, alinéa 5, points 8°, 9°, 10° et 11° du décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets, remplacés et ajoutés par le décret du 8 juillet 2016 et modifiés par les décrets des 8 juillet 2017 et 30 juin 2023, les millésimes \" 2024 \", \" 2025 \", \" 2026 \" et \" 2027 \" sont remplacés respectivement par les millésimes \" 2025 \", \" 2026 \", \" 2027 \" et \" 2028 \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.688Z",
+  "tokenUsage": {
+    "prompt": 1717,
+    "completion": 230,
+    "total": 1947
+  }
+}

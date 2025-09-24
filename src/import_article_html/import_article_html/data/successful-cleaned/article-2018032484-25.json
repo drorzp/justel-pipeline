@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032484",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'agence peut, à titre temporaire, attribuer des heures supplémentaires en vue de l'organisation d'une offre de consultation préventive pour certains groupes-cibles spécifiques à l'extérieur du bureau de consultation.</p>\n      <p class=\"intro-text\">Les heures sont attribuées à l'organisateur d'un bureau de consultation avoisinant, tel que visé à l'article 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">1°</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2°</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">S'il existe à proximité de cet emplacement plusieurs bureaux de consultation organisés par différents organisateurs, l'agence prend contact avec les organisateurs, qui décident de commun accord à quel organisateur seront attribuées les heures supplémentaires. S'ils ne parviennent pas à un accord, l'agence prend sa décision en fonction de la distance.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.406Z",
+  "tokenUsage": {
+    "prompt": 1699,
+    "completion": 321,
+    "total": 2020
+  }
+}

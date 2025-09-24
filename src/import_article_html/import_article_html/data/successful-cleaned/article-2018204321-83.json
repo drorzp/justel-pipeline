@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018204321",
+  "articleNumber": "83",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-83\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 83</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 96 du même décret, modifié par les décrets des 11 mai 2009 et 25 octobre 2010, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le 19°, le point en fin de phrase est remplacé par un point-virgule;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par les 20° et 21° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"20°\">\n              <span class=\"provision-text\">assurer les missions qui contribuent au développement scolaire au sens du schéma directeur et aux objectifs de développement scolaire pour l'amélioration continue de la qualité,</span>\n            </li>\n            <li class=\"provision\" data-number=\"21°\">\n              <span class=\"provision-text\">mandater les cadres intermédiaires en ce qui concerne les missions opératives de gestion dans l'organisation de l'école et les missions stratégiques dans le développement de l'école et de l'enseignement.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.319Z",
+  "tokenUsage": {
+    "prompt": 1819,
+    "completion": 380,
+    "total": 2199
+  }
+}

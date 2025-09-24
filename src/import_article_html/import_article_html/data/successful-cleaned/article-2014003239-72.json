@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003239",
+  "articleNumber": "72",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-72\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 72</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La présente section est applicable à partir de l'exercice d'imposition 2015, à l'exception :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">de l'article 8,</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"1°\">\n                            <span class=\"provision-text\">1° et</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"2°\">\n                            <span class=\"provision-text\">2°, qui est applicable aux périodes imposables qui débutent le 1er janvier 2014 ou ultérieurement;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de l'article 67, 3°, qui est applicable lorsque la dernière année antérieure pendant laquelle un contribuable a eu une activité professionnelle normale, est liée à l'exercice d'imposition 2015 ou à un exercice d'imposition ultérieur.</span>\n                </li>\n            </ol>\n            <p>Les articles 23 et 57 produisent leurs effets en ce qui concerne les contrats visés aux articles 14537 et 539 du Code des impôts sur les revenus 1992, conclus au plus tard le 31 décembre 2014.</p>\n            <p>Lorsque des revenus visés à l'article 171, 5° et 6° du Code des impôts sur les revenus 1992 sont payés ou attribués en 2014 ou 2015, les réductions d'impôt régionales sont également prises en compte pour déterminer le taux moyen auquel ces revenus sont imposés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.064Z",
+  "tokenUsage": {
+    "prompt": 1985,
+    "completion": 474,
+    "total": 2459
+  }
+}

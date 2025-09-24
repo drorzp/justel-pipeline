@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003022353",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 17</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Pour les décisions médicales prises après la décision médicale visée à l'article 16, l'article 15, §§ 2 et 3 est applicable.</p>\n                    <p>Pour l'application de l'alinéa 1er, les mots \" depuis le jour suivant la date de fin de validité de la décision visée à l'article 14, § 1er \" repris à l'article 15, § 2, alinéa 2 et § 3, 2° et 3°, doivent se lire \" depuis la date de la demande de révision visée à l'article 16, alinéa 1er '.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.762Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 258,
+    "total": 1937
+  }
+}

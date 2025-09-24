@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003110750",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 13bis de l'arrêté du Gouvernement flamand du 24 juillet 1997 réglant l'agrément et le subventionnement des centres d'aide intégrale aux familles, inséré par l'arrêté du Gouvernement flamand du 17 juillet 2000 et modifié par les arrêtés du Gouvernement flamand des 23 novembre 2001 et 25 octobre 2002, le § 1er est remplacé par ce qui suit :</p>\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour faire face aux répercussions de l'augmentation de l'ancienneté, notamment le développement du déroulement de l'ancienneté pécuniaire moyenne constituée annuellement par les membres du personnel à partir du 1er janvier 2000, 75 % des montants visés à l'article 13, premier alinéa, 1° à 3° inclus, et le montant complet visé à l'article 13, premier alinéa, 4° et 5°, sont affectés, dans les limites des crédits budgétaires, par un paramètre à déterminer par le Gouvernement flamand. La hausse de cette ancienneté ne peut pas dépasser 12 mois par an.</p>\n                <p>A partir du 1er janvier 2004, le paramètre est déterminé par le ministre compétent pour l'assistance aux personnes.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.723Z",
+  "tokenUsage": {
+    "prompt": 2067,
+    "completion": 397,
+    "total": 2464
+  }
+}

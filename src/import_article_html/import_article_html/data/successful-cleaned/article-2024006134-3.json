@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006134",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 2 de l'arrêté du Gouvernement flamand du 8 décembre 2006 relatif à l'entretien et au contrôle d'appareils de chauffage central pour le chauffage de bâtiments ou pour la production d'eau chaude utilitaire, modifié en dernier lieu par l'arrêté du Gouvernement flamand du 2 décembre 2022, les points 30°, 31° et 35° sont abrogés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.556Z",
+  "tokenUsage": {
+    "prompt": 1528,
+    "completion": 167,
+    "total": 1695
+  }
+}

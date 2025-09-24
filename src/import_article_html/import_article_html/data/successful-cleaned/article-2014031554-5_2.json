@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014031554",
+  "articleNumber": "5/2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5/2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5/2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-06-30/13\" data-law-type=\"ARR\" data-article-number=\"5\">\n        <p class=\"intro-text\">Un dossier est clôturé au sens de l'article 2,19° :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">Lorsque le bénéficiaire a terminé son parcours et se voit délivrer une attestation de fin de parcours ou une attestation de suivi du volet secondaire ;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">Pour les bénéficiaires qui ne sont pas des primo-arrivants prioritaires au sens de l'article 3, al. 1 dont le délai de suspension est épuisé, un mois après l'envoi d'un courrier par le bureau d'accueil indiquant que le dossier va être clôturé et auquel aucune réponse n'est apportée ou dont le délai de suspension est supérieur à 6 mois.</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">Pour les bénéficiaires qui ne sont pas des primo-arrivants prioritaires au sens de l'article 3, al. 1, en cas de non-respect des engagements pris dans la convention concernant le suivi de modules de formation.</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">Pour tous les bénéficiaires qui manifestent leur volonté d'arrêter le parcours auquel ils sont inscrits ou ont déménagé dans une autre région ou à l'étranger.</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">Dans les situations visées aux alinéa 1er 3° et 4°, le bénéficiaire pourra ultérieurement solliciter une nouvelle inscription.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.329Z",
+  "tokenUsage": {
+    "prompt": 2125,
+    "completion": 520,
+    "total": 2645
+  }
+}

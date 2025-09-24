@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036447",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Chaque fournisseur communique les informations visées à l'article 4, § 2, 1° et 2°.</p>\n        <p>Les fournisseurs agréés conformément à l'article 11, § 1er de l'arrêté du Gouvernement flamand du 18 mars 2005 concernant la commercialisation des matériels de multiplication de plantes fruitières et des plantes fruitières destinées à la production de fruits, ne doivent pas communiquer ces informations.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les fournisseurs communiquent toute modification de leur situation en ce qui concerne les informations visées à l'article 4, § 2, 1° et 2°, à l'entité compétente.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'entité compétente informe les fournisseurs de leur enregistrement et de tout changement de ces données dans un délai de trente jours.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.637Z",
+  "tokenUsage": {
+    "prompt": 1918,
+    "completion": 378,
+    "total": 2296
+  }
+}

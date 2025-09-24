@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003373",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 38</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-19/50\" data-law-type=\"AR\" data-article-number=\"6\">\n        <p class=\"intro-text\">Les agents visés à l'article 30, § 1er, alinéa 1er, 8° et 9°, ne peuvent à aucun moment percevoir, en tant que conseiller, une rémunération inférieure à celle dont ils auraient bénéficié en tant que directeur.</p>\n        <p class=\"closing-text\">Pour l'application de l'alinéa 1er, l'on entend par rémunération : le traitement, le complément et la prime de développement des compétences. La prime de développement des compétences ne peut être payée qu'aux conditions fixées pour les agents de l'Etat de la fonction publique fédérale.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.777Z",
+  "tokenUsage": {
+    "prompt": 1771,
+    "completion": 265,
+    "total": 2036
+  }
+}

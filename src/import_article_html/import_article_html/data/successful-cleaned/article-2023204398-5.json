@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023204398",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 1952, 5°, du Code réglementaire de l'Action sociale et de la Santé, inséré par l'arrêté du Gouvernement wallon du 13 mai 2015, les mots \" 694/2, 3°, 4° et 5° \" sont remplacés par les mots \" 694/2, 4° \".\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.402Z",
+  "tokenUsage": {
+    "prompt": 1585,
+    "completion": 164,
+    "total": 1749
+  }
+}

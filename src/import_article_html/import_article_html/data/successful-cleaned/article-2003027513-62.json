@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003027513",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 80, alinéa 2, du Code, les points 3° et 4°, annulés par l'arrêt n° 105/2000 de la Cour d'arbitrage du 25 octobre 2000, sont remplacés par les points 3° et 4°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le logement pour lequel la consommation d'eau ou d'électricité constatée pendant une période d'au moins douze mois consécutifs est inférieure à la consommation minimale fixée par le Gouvernement, sauf si le titulaire de droits réels justifie que cette circonstance est indépendante de sa volonté;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le logement pour lequel aucune personne n'est inscrite dans les registres de la population pendant une période d'au moins douze mois consécutifs, sauf si le titulaire de droits réels justifie que le logement a servi effectivement soit d'habitation, soit de lieu d'exercice d'activités économiques, sociales ou autres, ou que cette circonstance est indépendante de sa volonté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.820Z",
+  "tokenUsage": {
+    "prompt": 1849,
+    "completion": 361,
+    "total": 2210
+  }
+}

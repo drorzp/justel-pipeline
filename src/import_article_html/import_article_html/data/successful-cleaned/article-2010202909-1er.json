@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010202909",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le présent arrêté, on entend par :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">décret du 14 février 2003 : le décret du 14 février 2003 portant soutien et stimulation des politiques communales, intercommunales et provinciales en matière de jeunesse et d'animation des jeunes;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">politique de sécurité incendie : la politique menée par des administration communales servant à améliorer la sécurité incendie de l'infrastructure locale et intercommunale d'animation des jeunes, dans la mesure où cette infrastructure est utilisée pour une durée prolongée et essentiellement pour l'opération d'initiatives privées en matière d'animation des jeunes;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">dépenses subsidiables dans le cadre de la politique sécurité incendie : tous les frais tels que visés à l'article 9, § 1er, 2° du décret du 14 février 2003, dans la mesure où ils sont susceptibles d'améliorer la sécurité incendie de l'infrastructure d'animation des jeunes, ainsi que tous les frais faits dans ce cadre liés à une meilleure gestion et utilisation de cette infrastructure;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">dépenses subsidiables dans le cadre de la priorité choisie : tous les frais tels que visés à l'article 9, § 1er, 1° et 2°, du décret du 14 février 2003.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.338Z",
+  "tokenUsage": {
+    "prompt": 2019,
+    "completion": 478,
+    "total": 2497
+  }
+}

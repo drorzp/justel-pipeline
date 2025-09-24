@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009003023",
+  "articleNumber": "2N2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2N2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2N2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">II. C. Titre V du Code des impôts sur les revenus 1992 (Coefficient art. 178, § 3, 2° et art. 243, al. 4, CIR 92 : 1,3844).</p>\n      <table>\n        <thead>\n          <tr>\n            <th>Article CIR 92</th>\n            <th>Description</th>\n            <th>Montant de base</th>\n            <th>Montant indexé</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>Art. 243, al. 2</td>\n            <td>Reductions d'impot pour pensions et revenus de remplacement obtenus par des non-residents sans foyer d'habitation en Belgique :</td>\n            <td></td>\n            <td></td>\n          </tr>\n          <tr>\n            <td></td>\n            <td>1° - le revenu net se compose exclusivement de pensions ou d'autres revenus de remplacement, de prepensions nouveau regime ou d'allocations de chomage :</td>\n            <td>2 392,67</td>\n            <td>3 312,41</td>\n          </tr>\n          <tr>\n            <td></td>\n            <td>3° - le revenu net se compose exclusivement d'indemnites legales d'assurance en cas de maladie ou d'invalidite :</td>\n            <td>2 774,10</td>\n            <td>3 840,46</td>\n          </tr>\n          <tr>\n            <td>Art. 244bis</td>\n            <td>Montant limite des revenus professionnels au-dessus duquel il n'y a pas lieu a imposition commune des conjoints :</td>\n            <td>6 700</td>\n            <td>9 280</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.075Z",
+  "tokenUsage": {
+    "prompt": 2168,
+    "completion": 497,
+    "total": 2665
+  }
+}

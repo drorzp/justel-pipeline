@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202775",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er de l'article 13 de l'arrêté du 6 mars 1997 précité, les mots \"responsable de la gestion journalière, et du secrétaire à mi-temps visés à l'article 13, alinéa 1er, 1°, et alinéa 2, 1°, du décret\" sont remplacés par les mots \"de la personne chargée de la direction et de la gestion journalière, de la personne chargée de la gestion administrative et financière, du coordinateur de projets et des trois responsables de projets visés à l'article 11 du décret\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le 2° et l'alinéa 4, du même article 13 sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le même article 13, un 5° rédigé comme suit est ajouté :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">Les subventions du personnel visées à l'article 13, 2°, du décret, sont majorées pour chaque centre d'un montant correspondant au co-financement nécessaire pour assurer le complément de moyens pour des postes bénéficiant d'au moins 6 points APE attribués ou devant l'être pour les responsables de projet d'une part, et, d'autre part pour assurer l'embauche compensatoire lorsqu'elle est prévue dans les accords du non-marchand conclus avec le Gouvernement wallon le 28 février 2007, à condition qu'elle figure dans une convention collective de travail et dans les limites budgétaires fixées.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.308Z",
+  "tokenUsage": {
+    "prompt": 2074,
+    "completion": 523,
+    "total": 2597
+  }
+}

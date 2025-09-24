@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014203",
+  "articleNumber": "126",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-126\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 126</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 120, § 1er, de la même loi, inséré par la loi du 2 août 2002 et modifié par l'arrêté royal du 3 mars 2011 et la loi du 25 décembre 2016, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les mots &quot;de l'article 3, § 1er et § 3&quot; sont remplacés par les mots &quot;de l'article 7, § 1er et des articles 80 et 81, § 1er, 4°, de la loi du 21 novembre 2017 ou lorsque le ministre n'a pas statué dans les délais fixés en vertu de l'article 7, § 1er, alinéa 5&quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 2 est remplacé par ce qui suit: &quot;Un recours est également ouvert auprès de la Cour des marchés aux opérateurs de marché, contre les décisions de la FSMA prises en vertu de l'article 81, § 1er, 2° et 3°, de la loi du 21 novembre 2017.&quot;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.586Z",
+  "tokenUsage": {
+    "prompt": 1925,
+    "completion": 405,
+    "total": 2330
+  }
+}

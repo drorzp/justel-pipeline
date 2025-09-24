@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014200323",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les points:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de l'article 7 entrent en vigueur le même jour que l'article 638bis du Code judiciaire, tel qu'inséré par l'article 41 de la loi du 19 juillet 2012 portant réforme de l'arrondissement judiciaire de Bruxelles.</span></li>\n            </ol>\n            <p class=\"closing-text\">Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge. Donné à Bruxelles, le 6 janvier 2014. PHILIPPE Par le Roi: Le Premier Ministre, E. DI RUPO Le Secrétaire d'Etat aux Réformes institutionnelles, M. WATHELET Le Secrétaire d'Etat aux Réformes institutionnelles, S. VERHERSTRAETEN Scellé du sceau de l'Etat: La Ministre de la Justice, Mme A. TURTELBOOM</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.363Z",
+  "tokenUsage": {
+    "prompt": 1804,
+    "completion": 336,
+    "total": 2140
+  }
+}

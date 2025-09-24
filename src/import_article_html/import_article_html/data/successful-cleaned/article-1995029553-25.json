@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995029553",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"1996-08-29/30\" data-article-number=\"7\" data-law-type=\"ACF\" data-effective-date=\"01-09-1996\">\n          &lt;Inséré par ACF 1996-08-29/30, art. 7,<strong>En vigueur :</strong>01-09-1996&gt;\n        </span>\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"TITRE\" data-law-type=\"Voir note\">\n          &lt;Voir note sous TITRE&gt;\n        </span>\n        Les membres du personnel des établissements fusionnés sont soumis aux opérations de réaffectation et de remise au travail visées à l'article 22 § 1er, alinéas 1er à 3, § 2, alinéa 1er,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">4°, et § 3, et à l'article 23, alinéa 1er, 1°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.998Z",
+  "tokenUsage": {
+    "prompt": 1736,
+    "completion": 370,
+    "total": 2106
+  }
+}

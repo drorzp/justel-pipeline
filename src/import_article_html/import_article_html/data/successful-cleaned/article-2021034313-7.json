@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021034313",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Le Roi peut, dans les limites et aux conditions qu'il détermine, accorder des exonérations fiscales aux revenus des emprunts qui, en 2022, seraient émis ou placés principalement à l'étranger par l'Etat fédéral, les communautés, les régions, les provinces, les agglomérations, les communes et les établissements ou organismes publics, et en particulier les bons du Trésor libellés en monnaies étrangères.</p>\n          <p>En ce qui concerne les revenus des titres de ces emprunts qui seraient détenus par des résidents belges, les exonérations fiscales ne peuvent toutefois être accordées qu'aux seuls établissements financiers ou entreprises y assimilées et investisseurs professionnels visés à l'article 105,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1° et</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3°, de l'AR/CIR 92, ainsi que, sans préjudice de l'application de l'article 262, § 1, du Code des impôts sur les revenus 1992, aux personnes morales visées à l'article 220 du Code des impôts sur les revenus 1992.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.202Z",
+  "tokenUsage": {
+    "prompt": 1844,
+    "completion": 415,
+    "total": 2259
+  }
+}

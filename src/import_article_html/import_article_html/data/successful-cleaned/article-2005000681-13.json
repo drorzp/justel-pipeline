@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005000681",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article VI.II.25 PJPol est remplacé par la disposition suivante :</p>\n            <blockquote class=\"article-quote\">\n                <p class=\"quoted-text\">\" Art. 6.II.25. Le membre du personnel désigné à un emploi à attribuer par mobilité exerce cet emploi le premier jour de la deuxième période de référence qui suit la date de désignation à cet emploi visée à l'article VI.II.24, alinéa 1er, à moins que les autorités visées à l'article VI.II.24, alinéa 2, 1° et 2°, conviennent d'une affectation anticipée.</p>\n                <p class=\"quoted-text\">La direction de la mobilité et de la gestion des carrières est informée sans délai par l'autorité visée à l'article VI.II.24, alinéa 1er, de la date de l'affectation visée à l'alinéa 1er et, le cas échéant, d'un sursis visé à l'article VI.II.26. \"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.745Z",
+  "tokenUsage": {
+    "prompt": 1807,
+    "completion": 317,
+    "total": 2124
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999021025",
+  "articleNumber": "45",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-45\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 45</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 9, § 1er, du même arrêté, sont apportées les modifications suivantes:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les mots \" ou une réduction forfaitaire de cotisations patronales visées à l'article 2, §§ 3, 1° à 5° et 7°, et 3bis de l'arrêté-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers mineurs et assimilés, à l'article 56, 1° et 2° des lois relatives à la réparation des dommages résultant des maladies professionnelles coordonnées le 3 juin 1970 et à l'article 59, 1° de la loi du 10 avril 1971 sur les accidents du travail s'il s'agit d'un employeur affilié au FNROM \" sont insérés entre les mots \" cotisations patronales O.N.S.S. \" et les mots \" , qui est calculée \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 2, les mots \" ou une réduction forfaitaire provisoire des cotisations patronales visées à l'article 2, §§ 3, 1° à 5° et 7°, et 3bis de l'arrêté-loi du 10 janvier 1945 précité, à l'article 56, 1° et 2° des lois coordonnées du 3 juin 1970 précitées et à l'article 59, 1° de la loi du 10 avril 1971 précitée s'il s'agit d'un employeur affilié au FNROM \" sont insérés entre les mots \" cotisations O.N.S.S. \" et les mots \" est accordée \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.283Z",
+  "tokenUsage": {
+    "prompt": 2502,
+    "completion": 509,
+    "total": 3011
+  }
+}

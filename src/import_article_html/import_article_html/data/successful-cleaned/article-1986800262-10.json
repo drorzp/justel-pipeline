@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1986800262",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'Office retire l'agrément du commissaire agréé qui est définitivement dans l'incapacité d'exercer ses fonctions. L'Office notifie au commissaire son intention de retirer son agrément avec les raisons qui la justifient. Le commissaire dispose d'un délai d'un mois pour faire ses observations. Il a le droit d'être entendu par l'Office, personnellement assisté comme il est dit à l'article 12, § 1, alinéa 6. L'article 12, § 1, alinéas 7 et 8 et §§ 2 et 3 sont d'application.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'Office retire l'agrément du commissaire qui ne remplit plus les conditions fixées à l'article 2, 1°, 2°, 8°, 9° et 10° et à l'article 3. Sa décision est motivée et notifiée au commissaire dans la huitaine, par lettre recommandée à la poste.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'Office retire l'agrément du commissaire qui n'a plus exercé de mandat depuis six ans. Sa décision est notifiée au commissaire dans la huitaine, par lettre recommandée à la poste.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.516Z",
+  "tokenUsage": {
+    "prompt": 2065,
+    "completion": 459,
+    "total": 2524
+  }
+}

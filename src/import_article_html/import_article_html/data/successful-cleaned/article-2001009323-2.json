@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001009323",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les documents justificatifs relatifs aux autres frais liés à l'aide juridique de première ligne, exposés par la commission d'aide juridique dans le cadre de l'article 508/3, 1° ou 508/3, 2°, 3° et 4°, sont constitués :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">des factures;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">des preuves de paiements.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.213Z",
+  "tokenUsage": {
+    "prompt": 1568,
+    "completion": 218,
+    "total": 1786
+  }
+}

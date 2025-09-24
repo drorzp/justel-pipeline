@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001036222",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour satisfaire aux conditions d'agrément, visées à l'article 2, alinéa deux,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">, du décret, le musée est tenu de décrire dans une note d'orientation jointe à sa demande d'agrément, les modalités selon lesquelles il répond aux conditions du décret et du présent arrêté.</span>\n                    </li>\n                </ol>\n                <p>Cette note d'orientation définit les points suivants : les objectifs généraux et spécifiques du musée, le mode selon lequel les fonctions de base du musée sont accomplies et le mode selon lequel le management du musée est assuré. Pour chacun de ces éléments, la note comporte une description de la situation actuelle, assortie d'une analyse critique, ainsi qu'un programme d'activités pour la prochaine année et un plan pluriannuel qui s'étend sur une période de cinq ans et fixe les priorités.</p>\n                <p>Pour l'agrément, tout partenariat est considéré comme un seul musée. La coopération se fait selon un seul concept muséal. Les modalités du partenariat sont définies dans une convention écrite, tant pour ce qui concerne l'exercice des fonctions de base du musée, qu'en matière de management. Cette convention désignera aussi l'autorité compétente pour agir au nom du partenariat. La convention est jointe à la demande d'agrément.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.669Z",
+  "tokenUsage": {
+    "prompt": 1945,
+    "completion": 451,
+    "total": 2396
+  }
+}

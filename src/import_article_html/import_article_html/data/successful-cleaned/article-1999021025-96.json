@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999021025",
+  "articleNumber": "96",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-96\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 96</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 34, alinéa 1er, de la même loi, modifié par les lois des 21 décembre 1994, 20 décembre 1995 et 22 février 1998, est complété d'un point 22° et d'un point 23°, libellés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"22°\">\n          <span class=\"provision-text\">\" le transport d'un organe prélevé à l'étranger;</span>\n        </li>\n        <li class=\"provision\" data-number=\"23°\">\n          <span class=\"provision-text\">les frais de typage de donneurs potentiels de moelle osseuse à l'étranger et les frais de transport et d'assurance du donneur de moelle osseuse d'un autre pays.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.281Z",
+  "tokenUsage": {
+    "prompt": 1683,
+    "completion": 279,
+    "total": 1962
+  }
+}

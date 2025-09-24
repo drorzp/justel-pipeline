@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999012496",
+  "articleNumber": "36.1_COMMUNAUTE_GERMANOPHONE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36-1_COMMUNAUTE_GERMANOPHONE\">\n  <section class=\"paragraph\">\n    <h3 class=\"paragraph-marker\">Art. 36.1_COMMUNAUTE_GERMANOPHONE.</h3>\n    <div class=\"paragraph-content\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-05-23/27\" data-law-type=\"ACG\" data-article-number=\"37\">\n        Concernant les personnes mentionnées à l'article 9, alinéa 1er, 4°, 6°, 7°\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2023-12-14/54\" data-law-type=\"ACG\" data-article-number=\"21\">\n          , 21° et 22°\n        </span>\n        , à l'exception des employés stagiaires ICT, le département examine chaque année les documents suivants :\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">une copie des fiches de paie ou du compte salarial individuel pour la période de l'autorisation de travail en cours, ainsi que les justificatifs de paiement y relatifs;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">si la demande concerne un détachement dans le cadre du titre IV, chapitre 8, de la loi-programme (I) du 27 décembre 2006, la preuve d'inscription au cadastre Limosa.</span>\n          </li>\n        </ol>\n        Si le département n'est pas en mesure d'obtenir de la source authentique les documents énumérés à l'alinéa 1er, il demande à l'employeur de les lui communiquer.\n      </span>\n    </div>\n  </section>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.230Z",
+  "tokenUsage": {
+    "prompt": 2054,
+    "completion": 436,
+    "total": 2490
+  }
+}

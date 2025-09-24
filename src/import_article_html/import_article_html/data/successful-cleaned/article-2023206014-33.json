@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023206014",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'autorité compétente met en oeuvre son dispositif de collecte de renseignements afin d'obtenir les informations demandées, même si ces dernières ne lui sont pas nécessaires pour ses propres besoins fiscaux. Cette obligation s'applique sans préjudice de l'article 23, alinéas 1er et 2, dont les dispositions ne sauraient en aucun cas être interprétées comme autorisant un Etat membre requis à refuser de fournir des informations au seul motif que ces dernières ne présentent pour lui aucun intérêt.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 23, alinéas 1er et 2, 2° et 3°, ne saurait en aucun cas être interprété comme autorisant une autorité compétente à refuser de fournir des informations au seul motif que ces informations sont détenues par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu'agent ou fiduciaire, ou qu'elles se rapportent à une participation au capital d'une personne.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Nonobstant l'alinéa 2, l'autorité compétente peut refuser de transmettre des informations demandées lorsque celles-ci portent sur des périodes d'imposition antérieures au 1er janvier 2011 et que la transmission de ces informations aurait pu être refusée sur la base de l'article 8, alinéa 1er, de la directive 77/799/CEE si elle avait été demandée avant le 11 mars 2011.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.415Z",
+  "tokenUsage": {
+    "prompt": 1980,
+    "completion": 492,
+    "total": 2472
+  }
+}

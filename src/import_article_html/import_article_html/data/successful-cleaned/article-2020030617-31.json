@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020030617",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 31</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le montant indiqué dans le décompte visé à l'article 30 est, au plus tard à la date indiquée dans le décompte, payable au comptant, indépendamment des contestations éventuelles concernant l'imputation ou le mode de calcul de la prime.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Lorsque l'Etat n'a pas reçu les primes dues au plus tard à la date ultime indiquée dans le décompte, sans préjudice aux dispositions de l'article 19,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et l'article 23,</span>\n                    </li>\n                </ol>\n                <p>2°, des intérêts de retard sont dus sur ces montants conformément aux dispositions en matière d'intérêts légaux dans les transactions commerciales.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.258Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 343,
+    "total": 2104
+  }
+}

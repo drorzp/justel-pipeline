@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011003239",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Lors de la mise en place de la commission des sanctions dont question à l'article 48bis de la même loi, les mandats de chaque fois un des deux membres visés au § 1er, alinéa 2, 1°,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°,</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n            </ol>\n            <p class=\"closing-text\">de cet article et les mandats de deux des quatre membres visés au § 1er, alinéa 2, 4°, de cet article sont, conformément à l'article 333 de l'arrêté royal du 3 mars 2011 mettant en oeuvre l'évolution des structures de contrôle du secteur financier, limités à trois ans.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.148Z",
+  "tokenUsage": {
+    "prompt": 1663,
+    "completion": 315,
+    "total": 1978
+  }
+}

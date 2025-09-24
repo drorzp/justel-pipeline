@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011818",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 6, § 2, du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">au 1°, les mots \" dans les cas visés à l'article 3, alinéa 1er, 1° et 2° \" sont insérés après le mot \" disposant \".</li>\n        <li class=\"sub-provision\" data-marker=\"b)\">il est inséré un 1° /1 rédigé comme suit :\n          <p class=\"intro-text\">\" Pour le donateur qui a établi une déclaration de maintien, dans les cas visés à l'article 3, alinéa 1er, 3° :</p>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">les nom et prénom(s) ;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">le numéro d'identification ;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">la date et le lieu de naissance ;</li>\n            <li class=\"sub-provision\" data-marker=\"d)\">l'adresse et le domicile déclaré \".</li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.684Z",
+  "tokenUsage": {
+    "prompt": 1792,
+    "completion": 356,
+    "total": 2148
+  }
+}

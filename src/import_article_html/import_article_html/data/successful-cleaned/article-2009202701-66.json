@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202701",
+  "articleNumber": "66",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-66\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 66</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 11, alinéa 2, de la même loi, remplacé par la loi du 23 mars 1994 et modifié par les lois des 30 mars 1994, 23 mars 1999, 26 mars 1999, 26 juin 2000 et 27 décembre 2006, les mots \" et 6°, a), b), c), d) et e) et 7° \" sont remplacés par les mots \" 6°, a), b), c), d) et e), 7° et 13°, a), b) et c), \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.307Z",
+  "tokenUsage": {
+    "prompt": 1727,
+    "completion": 215,
+    "total": 1942
+  }
+}

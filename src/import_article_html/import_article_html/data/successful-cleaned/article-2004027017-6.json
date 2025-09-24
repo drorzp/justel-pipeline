@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004027017",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un parti politique perd, pendant la période suivante, déterminée par la commission de contrôle, et dont la durée ne peut être inférieure à deux mois ni supérieure à huit mois, le droit au financement complémentaire institué par le Conseil régional wallon, lorsque ces faits sont imputables au parti politique :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">lorsque la déclaration prévue à l'article 6, alinéa 1er, 2°, de la loi du 19 mai 1994 n'est pas déposée;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">en cas de dépassement du montant maximal visé à l'article 2, § 1er, de la loi du 19 mai 1994;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">en cas d'infraction aux interdictions prévues à l'article 5, § 1er, 1° et 2°, de la loi du 19 mai 1994.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.776Z",
+  "tokenUsage": {
+    "prompt": 1878,
+    "completion": 355,
+    "total": 2233
+  }
+}

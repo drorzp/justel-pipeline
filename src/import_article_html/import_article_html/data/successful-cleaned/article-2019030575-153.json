@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019030575",
+  "articleNumber": "153",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-153\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 153</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">\n          Aucun frais ne peut être demandé pour une orientation sur la base de l'âge aux élèves répondant à la définition d'élève primo-arrivant ou assimilé au primo-arrivant tel que visé à l'article 2,\n        </p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">\n          2°, du décret du 7 février 2019 visant à l'accueil, la scolarisation et l'accompagnement des élèves qui ne maîtrisent pas la langue de l'enseignement dans l'enseignement organisé ou subventionné par la Communauté française et qui ne satisfont pas aux dispositions relatives à la procédure d'équivalence des diplômes. &quot; &quot;\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.433Z",
+  "tokenUsage": {
+    "prompt": 1690,
+    "completion": 300,
+    "total": 1990
+  }
+}

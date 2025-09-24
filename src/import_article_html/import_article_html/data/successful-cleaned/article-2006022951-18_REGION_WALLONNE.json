@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006022951",
+  "articleNumber": "18_REGION_WALLONNE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18_REGION_WALLONNE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18_REGION_WALLONNE</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2025-04-17/02\" data-law-type=\"ARW\" data-article-number=\"20\">\n        <p class=\"intro-text\">La cession d'un emplacement attribué par abonnement est autorisée lorsque le cessionnaire :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">est inscrit dans la Banque-Carrefour des Entreprises pour l'exploitation d'une attraction foraine ou d'un établissement de gastronomie foraine ;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et poursuit la spécialisation du cédant avec les mêmes spécifications techniques sur l'emplacement cédé, sauf si le bourgmestre, son délégué ou le concessionnaire autorise un changement de spécialisation ou de spécification technique.</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">L'emplacement peut être cédé une nouvelle fois uniquement au plus tôt un an à partir de la cession, sauf moyennant accord explicite du bourgmestre, de son délégué ou du concessionnaire.\nLe cessionnaire peut occuper l'emplacement cédé uniquement lorsque le bourgmestre, son délégué ou le concessionnaire a constaté que les conditions visées aux deux premiers alinéas et à l'article 10 sont remplies.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.670Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 420,
+    "total": 2396
+  }
+}

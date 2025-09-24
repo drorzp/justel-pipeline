@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011569",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'exception du présent article, qui entre en vigueur le jour de la publication de la présente loi au Moniteur Belge <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-05-15/03\" data-law-type=\"L\" data-article-number=\"122\">, de l'article 21, §§ 1er et 3, qui entre en vigueur le 1er septembre 2024</span> et les articles 4, 12, 15 à 20, 32, 34 et 36 qui entrent en vigueur le 1er juillet 2019, le Roi détermine la date à laquelle chaque article de la présente loi entre en vigueur.</p>\n      <p>(NOTE : Entrée en vigueur de l'article 14,L1,4° et 5° fixée au 01-01-2022 par <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2021120201\">AR[2021-12-02/01]</a>, art. 18)</p>\n      <p>(NOTE : Entrée en vigueur des articles 13, §2, 5° ; 13, §2, 6° ; 27 fixée au 08-08-2022 par <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022072015\">AR[2022-07-20/15]</a>, art. 21)</p>\n      <hr>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.457Z",
+  "tokenUsage": {
+    "prompt": 2057,
+    "completion": 433,
+    "total": 2490
+  }
+}

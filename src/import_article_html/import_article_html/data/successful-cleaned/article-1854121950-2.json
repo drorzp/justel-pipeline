@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1854121950",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sont exceptés des dispositions de l'article 1er, les boqueteaux appartenant à des communes, [...] ou à des établissements publics, quand ces boqueteaux sont d'une contenance de moins de cinq hectares et sont situés à plus d'un kilomètre des bois soumis au régime forestier. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"08-04-1969\" data-law-type=\"L\" data-article-number=\"1\">L 08-04-1969, art. 1, 2° et 3°</span></p>\n            <p class=\"intro-text\">Le [ministre de l'Agriculture] peut néanmoins soumettre ces boqueteaux à ce régime, à la demande des conseils communaux ou des administrations des établissements publics. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"08-04-1969\" data-law-type=\"L\" data-article-number=\"1\">L 08-04-1969, art. 1, 2° et 3°</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.664Z",
+  "tokenUsage": {
+    "prompt": 1735,
+    "completion": 315,
+    "total": 2050
+  }
+}

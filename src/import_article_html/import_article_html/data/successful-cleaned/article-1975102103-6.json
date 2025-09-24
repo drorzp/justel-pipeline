@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1975102103",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le militaire en déplacement de service voyage aux frais de l'Etat :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">pour se rendre de son lieu habituel de travail à la localité où il doit exécuter la mission;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le cas échéant, entre la localité où il est en mission et son domicile en remplacement du remboursement des frais de logement;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le cas échéant, entre la localité où il est en mission et son domicile au début et à la fin d'une période d'interruption du déplacement de service;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">pour se rendre en fin de mission à son lieu habituel de travail.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Les dispositions visées aux points 2° et 3° ne sont toutefois pas applicables aux militaires soldés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.616Z",
+  "tokenUsage": {
+    "prompt": 1781,
+    "completion": 359,
+    "total": 2140
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035150",
+  "articleNumber": "79",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-79\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 79</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5.3.2.4 dudit arrêté est modifié comme suit dans la version néerlandaise :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au § 1, premier tiret, l'erreur typographique \" A ofB \", en neerlandais, est remplacée par \" A of B \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2\">\n          <span class=\"provision-text\">au § 3, deuxième alinéa, les mots \" de referentievolumina \", en néerlandais, sont remplacés par les mots \" de referentievolumes \" et les mots \" gehanteerd wordt \" sont remplacés par les mots \" gehanteerd worden \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3\">\n          <span class=\"provision-text\">aux § 6, § 7,1°, § 7, 2°, § 7, 3° et § 8, l'erreur grammaticale de l'expression \" de best beschikbare technieken \" est rectifiée comme suit : \" de beste beschikbare technieken \" (meilleures techniques disponibles);</span>\n        </li>\n        <li class=\"provision\" data-number=\"4\">\n          <span class=\"provision-text\">au § 7, 3°, les mots \" traitant des substances \" sont remplacés par les mots \" dans lequel des substances [...] sont traitées \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.187Z",
+  "tokenUsage": {
+    "prompt": 1924,
+    "completion": 428,
+    "total": 2352
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003021214",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\"></span>.</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 1er de l'arrêté royal du 9 mars 2003 fixant les cadres linguistiques du Service fédéral de Programmation Politique scientifique est remplacé par la disposition suivante :</p>\n            <p class=\"intro-text\">\" Article 1er. Les emplois visés à l'article 3, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">à</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et § 2,</span></li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">2°, de l'arrêté royal du 12 décembre 2002 portant création du Service public fédéral de Programmation Politique scientifique sont répartis en cadres linguistiques selon le tableau annexé au présent arrêté.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.762Z",
+  "tokenUsage": {
+    "prompt": 1719,
+    "completion": 333,
+    "total": 2052
+  }
+}

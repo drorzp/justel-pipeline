@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015200062",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article 1er, alinéa 2, lorsque la demande de prime porte sur des travaux visés à l'article 2 de l'arrêté du Gouvernement wallon du 21 janvier 1999 instaurant une prime à la création de logements conventionnés à loyer modéré par des personnes physiques, la demande de prime reste éligible à la condition que:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le permis d'urbanisme soit délivré avant le 1er janvier 2015 pour la construction d'un logement</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le compromis de vente soit signé avant le 1er janvier 2015 pour l'acquisition d'un logement salubre</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le demandeur ait sollicité le passage d'un délégué du Ministre chargé d'établir un rapport d'estimation avant le 1er janvier 2015, le cachet de la poste faisant foi, pour l'acquisition d'un logement suivi de l'exécution de travaux.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Pour l'application de l'alinéa 1er, 1° et 2°, les pièces et le formulaire de demande \" mesures transitoires \" forment un dossier à adresser à l'administration compétente avant le 1er février 2015, le cachet de la poste faisant foi.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.192Z",
+  "tokenUsage": {
+    "prompt": 1991,
+    "completion": 450,
+    "total": 2441
+  }
+}

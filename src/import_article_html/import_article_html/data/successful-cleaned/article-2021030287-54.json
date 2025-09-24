@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021030287",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 54</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les véhicules portuaires de catégorie B4 qui font partie d'un train de véhicules portuaires de catégorie A4 d'une longueur totale supérieure à 18,75 mètres et qui sont déployés sur les routes principales, répondent aux exigences techniques supplémentaires énoncées à l'article 52, 1°, 2°, 4°, 5° et 6°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.122Z",
+  "tokenUsage": {
+    "prompt": 1516,
+    "completion": 163,
+    "total": 1679
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994000502",
+  "articleNumber": "6bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6bis\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6bis</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour être admis au cycle de formation de candidat-officier recruté sur diplôme, le candidat doit être titulaire d'un diplôme ou d'un certificat d'études au moins équivalent à ceux pris en considération pour le recrutement des agents de niveau 1 dans les Administrations de l'Etat et être déclaré apte par une commission de sélection, sur base des examens visés à l'article 6ter, 3° et 4°.</p>\n            <p class=\"closing-text\">Le Ministre de l'Intérieur détermine la composition de la commission de sélection. Toutefois, en fonction du nombre des places vacantes et de candidats, le Ministre de l'Intérieur peut fixer un examen préalable au recrutement.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.064Z",
+  "tokenUsage": {
+    "prompt": 1689,
+    "completion": 234,
+    "total": 1923
+  }
+}

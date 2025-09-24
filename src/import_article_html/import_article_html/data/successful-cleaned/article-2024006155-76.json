@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006155",
+  "articleNumber": "76",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-76\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 76</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 6, alinéa 4, du même décret, remplacé par le décret du 1er juillet 2011 et modifié par le décret du 4 décembre 2015, les points 3°, 5°, 8°, 9°, 11°, 12° et 13° sont abrogés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.564Z",
+  "tokenUsage": {
+    "prompt": 1563,
+    "completion": 156,
+    "total": 1719
+  }
+}

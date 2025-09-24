@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015109",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">En 2018 il y a un budget de subvention de 998.813,85 euros à répartir pour l'octroi d'une subvention de base pour la conversion d'emplacements d'accueil d'enfants en accueil familial existants sans subvention de base vers des emplacements d'accueil d'enfants en accueil familial avec subvention de base.</p>\n            <p class=\"closing-text\">La zone géographique visée à l'article 57, § 2, 4° et 5°, de l'arrêté de Procédure du 9 mai 2014, est la totalité du territoire entier de la Flandre et la zone bilingue de Bruxelles-Capitale.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.710Z",
+  "tokenUsage": {
+    "prompt": 1678,
+    "completion": 228,
+    "total": 1906
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006021363",
+  "articleNumber": "325",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-325\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 325</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 265, alinéa 1er, du même Code, remplacé par la loi du 4 avril 1995 et modifié par les lois du 12 décembre 1996 et du 27 décembre 2005, est complété par un 4° et par un 5°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">à l'exception de ceux visés à l'article 19bis, par un fonds commun de placement visé à l'article 6, 1° ou 2°, de la loi du 20 juillet 2004 relative à certaines formes de gestion collective de portefeuilles d'investissement, à ses participants dans la mesure où ces revenus proviennent de revenus visés aux articles 18 et 19, et pour autant que la société de gestion d'organismes de placement collectif ait satisfait à l'obligation de l'article 321bis ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">visés à l'article 19bis, à un fonds commun de placement visé à l'article 6 de la loi du 20 juillet 2004 relative a certaines formes de gestion collective de portefeuilles d'investissement, dont le règlement ne prévoit pas la distribution du produit net.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.832Z",
+  "tokenUsage": {
+    "prompt": 1923,
+    "completion": 399,
+    "total": 2322
+  }
+}

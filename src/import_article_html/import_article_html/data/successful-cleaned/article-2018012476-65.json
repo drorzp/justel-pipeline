@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012476",
+  "articleNumber": "65",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-65\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 65</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'attestation d'examen psychotechnique' ne sera délivrée qu'après que l'intéressé a présenté avec fruit un examen psychotechnique dont il ressort qu'il a une personnalité équilibrée et qu'il répond sur le plan psychologique aux éléments visés à l'article 64,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">1°</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2°</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">3°</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">5°</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">de la loi.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.693Z",
+  "tokenUsage": {
+    "prompt": 1562,
+    "completion": 300,
+    "total": 1862
+  }
+}

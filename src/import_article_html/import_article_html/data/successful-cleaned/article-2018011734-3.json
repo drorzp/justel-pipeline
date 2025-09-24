@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011734",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 5 du même arrêté, modifié par l'arrêté royal du 14 mars 2005, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le point 9° est remplacé par ce qui suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"9°\">\n                            <span class=\"provision-text\">de soumettre pour approbation au ministre le projet de plan de personnel de l'établissement.</span>\n                            <p>Le projet de plan de personnel est subdivisé en deux parties :</p>\n                            <ul class=\"hyphenated-items\">\n                                <li class=\"hyphenated-item\" data-marker=\"-\">\n                                    <span class=\"item-text\">partie 1 - plan du personnel section 0</span>\n                                </li>\n                                <li class=\"hyphenated-item\" data-marker=\"-\">\n                                    <span class=\"item-text\">partie 2 - plan du personnel section 1</span>\n                                </li>\n                            </ul>\n                            <p>Les actions à inclure dans le plan du personnel qui concernent le personnel statutaire ne peuvent être reprises que dans la partie 1 du plan de l'établissement, comme indiqué à l'alinéa précédent.</p>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les points 10° et 11° sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.684Z",
+  "tokenUsage": {
+    "prompt": 1983,
+    "completion": 439,
+    "total": 2422
+  }
+}

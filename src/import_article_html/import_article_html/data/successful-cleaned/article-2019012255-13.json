@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012255",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 9 du même décret, modifié par les décrets des 8 mai 2009, 16 juin 2017 et 15 juin 2018, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \" élèves ou \" sont chaque fois abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 2,</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\">\n              <span class=\"sub-provision-text\"></span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"2°\">\n              <span class=\"sub-provision-text\"></span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"3°\">\n              <span class=\"sub-provision-text\"></span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"7°\">\n              <span class=\"sub-provision-text\"></span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"8°\">\n              <span class=\"sub-provision-text\">le membre de phrase \" scolaire ou \" est chaque fois abrogée.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.304Z",
+  "tokenUsage": {
+    "prompt": 1783,
+    "completion": 407,
+    "total": 2190
+  }
+}

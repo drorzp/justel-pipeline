@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014021005",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'application du présent arrêté, on entend par :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la loi du 13 août 2011 : la loi du 13 août 2011 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services dans les domaines de la défense et de la sécurité;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'arrêté royal du 23 janvier 2012 : l'arrêté royal du 23 janvier 2012 relatif à la passation des marchés publics et de certains marchés de travaux, de fournitures et de services dans les domaines de la défense et de la sécurité;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">la coopération internationale : les procédures visées à l'article 18, § 1er, 1° et 2°, et à l'article 18, § 2, 3°, de la loi du 13 août 2011 menées par l'Etat belge;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">la participation internationale: les procédures visées à l'article 18, § 1er, 3° et à l'article 18, § 2, 6°, de la loi du 13 août 2011 menées par l'Etat belge.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.185Z",
+  "tokenUsage": {
+    "prompt": 1947,
+    "completion": 439,
+    "total": 2386
+  }
+}

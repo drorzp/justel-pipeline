@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019202194",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 25 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans le paragraphe 1er, alinéa 4, les mots &quot; Par dérogation à l'alinéa 3, &quot; sont ajoutés en début de phrase;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le paragraphe 2, le 3/2° est remplacé par ce qui suit : &quot; 3/2° par dérogation aux 2° et 3°, dans le cas d'un sous-semis d'herbe ou de cultures de légumineuses dans la culture principale, le sous-semis doit rester en place au moins huit semaines à compter de la récolte de la culture principale, quelle que soit la date de ladite récolte. Pendant ladite période de huit semaines, l'utilisation de produits phytopharmaceutiques est interdite; &quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.419Z",
+  "tokenUsage": {
+    "prompt": 1798,
+    "completion": 341,
+    "total": 2139
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036060",
+  "articleNumber": "161",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-161\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 161</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 4, § 1er, § 2, l'article 10, 11, § 1er, première phrase, 1°,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        7°, § 2, § 3, l'article 13, § 4, l'article 14, § 2, l'article 15, § 3, l'article 16, § 2, alinéa trois, l'article 16, § 3, alinéa deux, l'article 17, § 1er, § 3, l'article 18, alinéa 1er, du même arrêté, les mots &quot; au service &quot;, &quot; du service &quot; et &quot; le service &quot; sont chaque fois remplacés par les mots &quot; à l'entité compétente &quot;, &quot; de l'entité compétente &quot; et &quot; l'entité compétente &quot;.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.717Z",
+  "tokenUsage": {
+    "prompt": 1767,
+    "completion": 348,
+    "total": 2115
+  }
+}

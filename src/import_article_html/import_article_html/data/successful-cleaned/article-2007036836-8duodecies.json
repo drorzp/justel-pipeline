@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036836",
+  "articleNumber": "8duodecies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8duodecies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8duodecies</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2008-07-10/74\" data-law-type=\"AGF\" data-article-number=\"6\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les infractions à l'article 118, § 1er, 3°, 4°, 5° et 7°, du décret peuvent être constatées sous forme d'un rapport, sous la responsabilité de l'inspection.</p>\n          <p>Le rapport est envoyé par lettre recommandée à la direction du centre intéressée.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans un délai de soixante jours calendrier de la notification de la lettre recommandée, la direction du centre peut introduire, par lettre recommandée, un contredit auprès de l'inspection. Le rapport est censé être notifié à la direction du centre le troisième jour ouvrable après l'envoi de la lettre recommandée.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 3.</h3>\n        <div class=\"paragraph-content\">\n          <p>Au vu du rapport de l'inspection et du contredit éventuel de la direction du centre intéressée, le ministre juge dans un délai de soixante jours calendrier si l'infraction doit être punie. Si le ministre estime que l'infraction doit être punie, il jugera également de la peine à imposer.</p>\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.976Z",
+  "tokenUsage": {
+    "prompt": 2025,
+    "completion": 458,
+    "total": 2483
+  }
+}

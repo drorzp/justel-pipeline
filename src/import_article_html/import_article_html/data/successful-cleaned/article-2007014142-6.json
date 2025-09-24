@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007014142",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Est apte professionnellement pour le groupe C le conducteur qui a réussi l'examen de qualification initiale, l'examen combiné ou l'examen complémentaire pour la conduite d'un véhicule de groupe C ou qui en est dispensé conformément à l'article 5, § 1er, 2° et qui remplit les dispositions du présent arrêté relatives à la formation continue.</p>\n                <p>Est apte professionnellement pour le groupe D, le conducteur qui a réussi l'examen de qualification initiale, l'examen combiné ou l'examen complémentaire pour la conduite d'un véhicule de groupe D ou qui en est dispensé conformément à l'article 5, § 2, 2° et qui remplit les dispositions du présent arrêté relatives à la formation continue.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Au titre de preuve de la possession de l'aptitude professionnelle, un <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2020-04-30/28\" data-law-type=\"AR\" data-article-number=\"1\">code de l'Union 95</span> est apposé sur le document visé à l'article 8, § 1er <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-07-21/13\" data-law-type=\"AR\" data-article-number=\"2\">ou sur la carte de qualification de conducteur visée à l'annexe 3</span>.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.854Z",
+  "tokenUsage": {
+    "prompt": 2186,
+    "completion": 465,
+    "total": 2651
+  }
+}

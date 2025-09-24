@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023046231",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La demande d'agrément est introduite selon les modalités suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">elle est introduite par écrit auprès du Service Egalité des chances durant l'année précédant la première année du cycle d'agrément concerné, selon les délais et les modalités pratiques d'envoi contenus dans l'appel à candidatures visé à l'article 2, § 2 du présent arrêté ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">elle comprend toutes les pièces justificatives prouvant que les conditions visées à l'article 3 sont remplies, en ce compris notamment :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              <span class=\"provision-text\">la liste des associations sans but lucratif, associations de fait ou coopératives membres de l'organisation demanderesse ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              <span class=\"provision-text\">un dossier reprenant un aperçu de ses activités en lien avec la politique fédérale de lutte contre la discrimination fondée sur l'orientation sexuelle et qui démontre que les conditions reprises à l'article 3, 5° et 6° sont remplies ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">elle comprend un projet de programme de travail en matière de lutte contre la discrimination fondée sur l'orientation sexuelle pour le cycle d'agrément concerné.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.481Z",
+  "tokenUsage": {
+    "prompt": 1974,
+    "completion": 472,
+    "total": 2446
+  }
+}

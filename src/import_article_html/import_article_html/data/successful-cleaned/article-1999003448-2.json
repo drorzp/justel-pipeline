@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999003448",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 4,1° et 2°, du même arrêté, sont remplacés par les dispositions suivantes:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">du secteur taxation de l'Administration des contributions directes:</span>\n          <p>A. Personnel administratif</p>\n          <p>Niveau 1<br>Directeur regional 15<br>Directeur d'administration fiscale 42</p>\n          <p>Inspecteur principal d'administration 752 fiscale</p>\n          <p>Inspecteur d'administration fiscale 913</p>\n          <p>Niveau 2+<br>Verificateur principal 2 129<br>Verificateur</p>\n          <p>Niveau 2<br>Chef administratif 1 465<br>Assistant administratif</p>\n          <p>Niveau 3<br>Assistant des finances 1 824</p>\n          <p>Niveau 4<br>Agent administratif 283</p>\n          <p>C. Personnel de maitrise, de metier et de service</p>\n          <p>Niveau 4<br>Ouvrier qualifie 14</p>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">du secteur recouvrement de l'Administration des contributions directes:</span>\n          <p>A. Personnel administratif</p>\n          <p>Niveau 1<br>Directeur regional 6<br>Directeur d'administration fiscale 12</p>\n          <p>Inspecteur principal d'administration 279 Fiscale</p>\n          <p>Inspecteur d'administration fiscale 184</p>\n          <p>Niveau 2+<br>Verificateur principal 835<br>Verificateur</p>\n          <p>Niveau 2<br>Chef administratif 688<br>Assistant administratif</p>\n          <p>Niveau 3<br>Assistant des finances 905</p>\n          <p>Niveau 4<br>Agent administratif 145</p>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Niveau 3 Assistant des finances 2\". Niveau 4 Agent administratif 145\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.123Z",
+  "tokenUsage": {
+    "prompt": 2146,
+    "completion": 567,
+    "total": 2713
+  }
+}

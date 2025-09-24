@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004201542",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 17</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <strong>ARTICLE</strong>[Art.] [17].\n            <p class=\"intro-text\">Les congés de formation constituent des dispenses de service dont peut bénéficier tout membre du personnel inscrit à une formation visée à l'article 3, 1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et 3°.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.704Z",
+  "tokenUsage": {
+    "prompt": 1494,
+    "completion": 179,
+    "total": 1673
+  }
+}

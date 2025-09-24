@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013021138",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 3, alinéa 1er, de la loi du 8 août 1983 organisant un Registre national des personnes physiques, modifié en dernier lieu par la loi du 9 mai 2007, est complété par les 15°, 16° et 17° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"15°\"><span class=\"provision-text\">la mention des ascendants au premier degré, que le lien de filiation soit établi dans l'acte de naissance, par décision judiciaire, par reconnaissance ou par une adoption;</span></li>\n                <li class=\"provision\" data-number=\"16°\"><span class=\"provision-text\">la mention des descendants en ligne directe au premier degré, que le lien de filiation soit établi dans l'acte de naissance, par décision judiciaire, par reconnaissance ou par une adoption;</span></li>\n                <li class=\"provision\" data-number=\"17°\"><span class=\"provision-text\">les actes et décisions relatifs à la capacité du majeur et l'incapacité du mineur ainsi que la mention du représentant ou de la personne qui assiste le majeur ou le mineur\".</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.133Z",
+  "tokenUsage": {
+    "prompt": 1818,
+    "completion": 354,
+    "total": 2172
+  }
+}

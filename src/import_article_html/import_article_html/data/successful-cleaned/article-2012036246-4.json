@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012036246",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2 du même décret, modifié par les décrets des 5 décembre 2003, 21 avril 2006, 16 juin 2006 et 13 février 2009, sont ajoutés un point 17° et un point 18°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"17°\">\n                    <span class=\"provision-text\">pilote de haute mer : la personne qui est titulaire d'un brevet valable de pilote de haute mer et qui ressort du service de pilotage de haute mer agréé</span>\n                </li>\n                <li class=\"provision\" data-number=\"18°\">\n                    <span class=\"provision-text\">pilote de port : la personne qui est titulaire d'un brevet valable de pilote de port et qui ressort du service de pilotage de port agréé</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.322Z",
+  "tokenUsage": {
+    "prompt": 1749,
+    "completion": 285,
+    "total": 2034
+  }
+}

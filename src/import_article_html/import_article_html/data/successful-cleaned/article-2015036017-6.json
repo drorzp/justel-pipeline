@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015036017",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 16, alinéa premier, de l'arrêté du Gouvernement flamand du 28 mai 2004 relatif à la composition du dossier de demande d'une autorisation urbanistique, modifié par les arrêtés du Gouvernement flamand des 23 décembre 2005, 29 mai 2009, 5 juin 2009, 3 juillet 2009, 2 juillet 2010, 19 octobre 2012 et 1er mars 2013, produisant leurs effets à partir du 7 mai 2010, les points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"12°\"><span class=\"provision-text\">sont abrogés.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.281Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 275,
+    "total": 1954
+  }
+}

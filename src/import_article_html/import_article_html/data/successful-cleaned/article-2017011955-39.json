@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011955",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 39</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sauf en ce qui concerne les articles 5, 4° et 5°, 7, § 3, alinéa 3, 2° et 3°, 9, 10 et 11, § 2, 2°, dont la date d'entrée en vigueur est fixée par le Roi par un arrêté délibéré en Conseil des ministres, la présente loi produit ses effets le 1er mai 2017 et au plus tard le 1er mai 2018.</p>\n      <p class=\"closing-text\">(NOTE : Entrée en vigueur de l'article 5, 4° et 5°, 7, § 3, alinéa 3, 2° et 3°, 9, 10 et 11, § 2, 2° fixée au 01-05-2017 par <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2018060404\" class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2018-06-04/04\" data-law-type=\"AR\" data-article-number=\"2\">AR[2018-06-04/04]</a>, art. 2)</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.605Z",
+  "tokenUsage": {
+    "prompt": 1814,
+    "completion": 356,
+    "total": 2170
+  }
+}

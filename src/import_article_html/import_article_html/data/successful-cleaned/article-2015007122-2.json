@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015007122",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 2 du même arrêté, modifié par les arrêtés royaux des 22 novembre 1999 et 3 décembre 2003, les modifications suivantes sont apportées :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">les </span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">sont abrogés;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">au 6°, le mot \"nationale\" est abrogé;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"c)\">\n          <span class=\"provision-text\">au 8°, le mot \"nationale\" est abrogé ;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"d)\">\n          <span class=\"provision-text\">au 9°, le mot \"militaires\" est remplacé par le mot \"militaire\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.262Z",
+  "tokenUsage": {
+    "prompt": 1765,
+    "completion": 377,
+    "total": 2142
+  }
+}

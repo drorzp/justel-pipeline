@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015A24141",
+  "articleNumber": "131",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-131\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 131</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas de condamnation du chef d'exercice illégal de l'art médical, de l'art pharmaceutique, de l'art infirmier ou de prestations précisées en exécution de l'article 71, § 1er, ou d'actes visés à l'article 69, 2° et 3°, le juge peut, dans l'intérêt de la santé publique, prononcer la confiscation spéciale même si la propriété des objets à confisquer n'appartient pas au condamné.  \n        En cas de condamnation du chef d'infraction aux dispositions des articles 9 à 19, ou des mesures prises pour son exécution, le juge peut prononcer la confiscation de tous les médicaments, appareils et instruments servant ou destinés à servir à l'exploitation de l'officine, même si leur propriété n'appartient pas au condamné.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le juge peut, dans l'intérêt de la santé publique, interdire pour une durée maximum de deux ans l'exercice de la profession :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">à des personnes qualifiées au sens du chapitre 4 ou du chapitre 7 reconnues coupables d'une des infractions visées aux articles 124, 125 et 129;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">à des personnes qualifiées au sens du chapitre 7 reconnues coupables d'une des infractions visées aux articles 126, 127 et 129.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.305Z",
+  "tokenUsage": {
+    "prompt": 2080,
+    "completion": 515,
+    "total": 2595
+  }
+}

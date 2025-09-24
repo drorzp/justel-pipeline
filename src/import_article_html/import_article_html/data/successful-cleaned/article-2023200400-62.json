@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023200400",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">- L'article D.IV.6 du même Code est remplacé par ce qui suit : &quot; Art. D.IV.6 - Un permis d'urbanisme ou un certificat d'urbanisme n° 2 peut être octroyé en dérogation au plan de secteur pour les constructions, les installations ou les bâtiments existant légalement ou, selon le cas, pour les ensembles de constructions, d'installations ou de bâtiments formant une unité fonctionnelle, lorsque leur destination actuelle ou future ne répond pas au prescrit du plan de secteur et qu'il s'agit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">d'actes et de travaux de transformation, d'agrandissement ou de reconstruction;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">d'une modification de destination et de la création de logements, visées à l'article D.IV.4, alinéa 1er, 6° et 7°.</span></li>\n      </ol>\n      <p class=\"closing-text\">Les aménagements accessoires et complémentaires aux constructions, installations ou bâtiments ou, selon le cas, ensembles de constructions, d'installations et de bâtiments précités et isolés de ceux-ci peuvent également être autorisés. &quot;</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.404Z",
+  "tokenUsage": {
+    "prompt": 1883,
+    "completion": 382,
+    "total": 2265
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1936063050",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les entreprises d'assurances sur la vie et les sociétés de capitalisation autorisées par application de la législation qui leur est spéciale, sont dispensées d'adjoindre à leur demande d'autorisation de traiter les opérations hypothécaires par intervention, les exposés techniques repris sous les:\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">de l'article 18. Cette dispense ne vise, toutefois, que les opérations pour lesquelles la reconstitution s'opère par un contrat adjoint d'assurances sur la vie ou de capitalisation.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        Les entreprises autorisées à pratiquer les opérations hypothécaires, par intervention, mais qui désignent ou qui agréent pour la reconstitution de capitaux traités un tiers reconstituant, sont dispensées, en ce qui concerne ces capitaux, de l'application de l'article 51 de l'arrêté royal n° 225.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.584Z",
+  "tokenUsage": {
+    "prompt": 1748,
+    "completion": 341,
+    "total": 2089
+  }
+}

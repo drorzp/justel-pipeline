@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036516",
+  "articleNumber": "58",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-58\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 58</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le service local dispose des documents suivants sur le responsable :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">un extrait du casier judiciaire, modèle 2, ou une attestation équivalente délivrée par l'instance étrangère compétente pour les personnes qui ne sont pas domiciliées en Belgique, dont il ressort que le comportement de la personne est irréprochable pour pouvoir s'occuper d'enfants ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">une attestation d'aptitude médicale telle que visée à l'article 33, § 1er, alinéa premier, 3°, de l'Arrêté sur la Qualité \" Accueil Extrascolaire \" du 16 mai 2014 ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">un titre de qualification, fixé par le Ministre flamand en charge de l'assistance aux personnes.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Les documents, visés à l'alinéa premier, 1° et 2°, sont renouvelés tous les trois ans, à moins qu'il n'existe une indication fondée et que l'organisateur ou \" Kind en Gezin \" adresse une demande motivée en vue de délivrer plus rapidement un nouveau document, ou à moins que, en ce qui concerne le document visé à l'alinéa premier, 1°, il n'existe un complément à l'extrait, auquel cas le complément est directement communiqué.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.364Z",
+  "tokenUsage": {
+    "prompt": 2001,
+    "completion": 457,
+    "total": 2458
+  }
+}

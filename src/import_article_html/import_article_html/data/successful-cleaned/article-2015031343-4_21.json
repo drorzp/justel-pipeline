@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015031343",
+  "articleNumber": "4/21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4/21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4/21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-05-16/11\" data-law-type=\"ORD\" data-article-number=\"33\">\n        <p class=\"intro-text\">Il est institué par safe.brussels:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">un conseil des directeurs des opérateurs;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">un conseil académique.</span>\n          </li>\n        </ol>\n        <p>Safe.brussels assure le secrétariat des conseils visés au 1° et 2° .</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.185Z",
+  "tokenUsage": {
+    "prompt": 1623,
+    "completion": 260,
+    "total": 1883
+  }
+}

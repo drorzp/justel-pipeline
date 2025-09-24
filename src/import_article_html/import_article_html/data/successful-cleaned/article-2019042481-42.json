@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042481",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 42</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    L'article 30, alinéa 1er, du même arrêté, est complété par un point 9° et un point 10°, rédigés comme suit :\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"9°\">\n                            <span class=\"provision-text\">9° le numéro unique visé à l'article 6/2, § 2, alinéa 1er, 1° à condition que ce numéro ne corresponde pas aux numéros visés aux points 3°, 4° et 5° ;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"10°\">\n                            <span class=\"provision-text\">10° le numéro unique visé à l'article 6/4, § 2, alinéa 1er, 1°, à condition que ce numéro ne corresponde pas aux numéros visés aux points 3°, 4° et 5°.</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.499Z",
+  "tokenUsage": {
+    "prompt": 1745,
+    "completion": 318,
+    "total": 2063
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006007351",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 8,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">du même arrêté, le mot \"cours\" est remplacé par les mots \"formations et cursus supérieurs\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.866Z",
+  "tokenUsage": {
+    "prompt": 1482,
+    "completion": 188,
+    "total": 1670
+  }
+}

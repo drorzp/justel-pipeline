@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008018261",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 10 du même arrêté, les mots &quot; prévus à l'article 44, 1° et 2° de l'arrêté royal du 6 juin 1960 relatif à la fabrication, à la préparation et à la distribution en gros des médicaments et à leur dispensation &quot; sont remplacés par les mots &quot; préparés, fabriqués ou acquis par l'Etat en vue d'une campagne de prophylaxie contre les maladies transmissibles, ni aux médicaments qui, en raison de leur nature ou de leurs caractéristiques, ne se prêtent pas à suivre exclusivement le circuit de distribution pharmaceutique normal, tels que visés à l'article 4, § 2, 9°, de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé, et à l'article 87 de l'arrêté royal du 14 décembre 2006 relatif aux médicaments à usage humain et vétérinaire &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.993Z",
+  "tokenUsage": {
+    "prompt": 1833,
+    "completion": 291,
+    "total": 2124
+  }
+}

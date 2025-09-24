@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003021248",
+  "articleNumber": "259",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-259\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 259</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 257 du chapitre précédent et l'article 258 du présent chapitre entrent en vigueur le 1er janvier 2004, à l'exception de l'article 257, 1° et 2°, qui produit ses effets le 1er juillet 2003.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.761Z",
+  "tokenUsage": {
+    "prompt": 1469,
+    "completion": 137,
+    "total": 1606
+  }
+}

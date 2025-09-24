@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013014761",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les transports de voyageurs visés à l'<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-03-10/03\" data-law-type=\"DCFL\" data-article-number=\"13\">article 2, 1°, 2° et 3°,</span> ne peuvent être effectués sur le territoire national que si les documents de contrôle et d'autorisation déterminés par le Roi se trouvent à bord des véhicules utilisés à cet effet.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.125Z",
+  "tokenUsage": {
+    "prompt": 1589,
+    "completion": 185,
+    "total": 1774
+  }
+}

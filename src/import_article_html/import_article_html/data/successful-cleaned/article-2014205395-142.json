@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014205395",
+  "articleNumber": "142",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-142\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 142</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les accueillants conventionnés introduisent la demande de renouvellement de l'enregistrement auprès du service d'accueillants d'enfants, et ce, au plus tôt six mois et au plus tard trois mois avant l'expiration de l'enregistrement.</p>\n            <p>La demande comprend une version actualisée des documents mentionnés à l'article 138, alinée 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\"></span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.206Z",
+  "tokenUsage": {
+    "prompt": 1668,
+    "completion": 300,
+    "total": 1968
+  }
+}

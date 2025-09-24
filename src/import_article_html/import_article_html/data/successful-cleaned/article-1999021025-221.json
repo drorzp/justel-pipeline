@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999021025",
+  "articleNumber": "221",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-221\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 221</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">À l'article 1er de la loi du 5 août 1968 établissant certaines relations entre les régimes de pensions du secteur public et ceux du secteur privé, modifié par les lois des 20 juin 1975, 20 juillet 1991 et 22 février 1998, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, le</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n                        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n                    </ol>\n                    <span class=\"provision-text\">sont supprimés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">l'alinéa 2 est remplacé comme suit :</span>\n                    <blockquote>\n                        <p>\"Le Roi peut fixer les modalités d'application de l'alinéa précédent.\"</p>\n                    </blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.281Z",
+  "tokenUsage": {
+    "prompt": 1687,
+    "completion": 364,
+    "total": 2051
+  }
+}

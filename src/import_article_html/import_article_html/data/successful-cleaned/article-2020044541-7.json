@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044541",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 132 du même Code, modifié en dernier lieu par la loi du 26 décembre 2015, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, 7°, les mots \"qui est dans une situation de dépendance\" sont insérés avant les mots \"et qui a atteint l'âge de 65 ans\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 1er, 7°, le montant \"1 740 EUR\" est remplacé par le montant \"2 610 EUR\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">à l'alinéa 2, les mots \"l'alinéa 1er\" sont remplacés par les mots `l'alinéa 1er, 1° à 6° et 8°, \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'article est complété par un alinéa rédigé comme suit: \"Pour l'application de l'alinéa 1er, 7°, est considérée comme étant en situation de dépendance la personne pour laquelle le degré d'autonomie est évalué à au moins 9 points conformément à l'arrêté ministériel du 30 juillet 1987 fixant les catégories et le guide pour l'évaluation du degré d'autonomie en vue de l'examen du droit à l'allocation d'intégration. La situation de dépendance est constatée par la Direction générale Personnes handicapées du SPF Sécurité sociale, Medex ou le médecin-conseil auprès de la mutualité, ou une institution ou personne similaire d'un autre Etat membre de l'Espace économique européen.\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.083Z",
+  "tokenUsage": {
+    "prompt": 2142,
+    "completion": 536,
+    "total": 2678
+  }
+}

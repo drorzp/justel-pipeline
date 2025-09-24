@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002031024",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 7, § 2, de l'ordonnance du 5 juin 1997 relative aux permis d'environnement est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\" Préalablement à toute transformation ou extension d'une installation résultant de la modification d'un des éléments contenus dans la demande de permis, sauf en ce qui concerne l'article 10, 1° et 2°, et préalablement à toute remise en exploitation d'une installation détruite ou mise temporairement hors usage par une cause résultant de l'exploitation, l'exploitant notifie par lettre recommandée à l'autorité compétente les circonstances qui suivent :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la transformation ou l'extension de l'installation autorisée entraîne l'application d'une nouvelle rubrique de la liste des établissements classés ou est de nature à aggraver les dangers, nuisances ou inconvénients inhérents à l'installation autorisée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la destruction ou la mise hors d'usage de l'installation autorisée résulte des dangers, nuisances ou inconvénients générés par l'exploitation qui n'ont pas été pris en compte lors de la délivrance du permis initial.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">L'autorité compétente dispose d'un mois à dater de cette notification pour déterminer si une demande de permis d'environnement doit être introduire. A défaut de recevoir une telle décision de l'autorité compétente dans ce délai, l'exploitant peut exécuter la transformation ou l'extension notifiée.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.746Z",
+  "tokenUsage": {
+    "prompt": 2026,
+    "completion": 464,
+    "total": 2490
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019013867",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté règle les mesures qui peuvent être adoptées aux fins de la prévention, de la surveillance et de la lutte contre la peste porcine classique et la peste porcine africaine chez les sangliers, conformément à l'article 5, 2°, 3°, 5°, 6°, 7°, 8°, 9°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"12°\"><span class=\"provision-text\">et l'article 6 du Décret sur les maladies chez les animaux sauvages du 28 mars 2014.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.335Z",
+  "tokenUsage": {
+    "prompt": 1620,
+    "completion": 245,
+    "total": 1865
+  }
+}

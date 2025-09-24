@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019A40586",
+  "articleNumber": "2:16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2:16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2:16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                Sont publiés, pour les AISBL, les documents visés à l'article 2:10, § 1er,\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-04-28/06\" data-law-type=\"L\" data-article-number=\"54\">\n                    ...\n                </span>\n                3°, 4°, 6°, 7° et 9°, et leurs modifications.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.099Z",
+  "tokenUsage": {
+    "prompt": 1627,
+    "completion": 190,
+    "total": 1817
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025002226",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 15 du même arrêté, remplacé par l'arrêté du Gouvernement wallon du 10 janvier 2024, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les mots \" n° 5 \" tournières enherbées \" ou n° 7 \" parcelles aménagées \" ou \" sont insérés entre les mots \" mesure agro-environnementale et climatique \" et les mots \" n° 12 \" parcelles de céréales laissées sur pied \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'article est complété par un alinéa rédigé comme suit : \" L'alinéa 1er ne s'applique pas à l'égard des arbustes, des buissons isolés et des particularités topographiques au sens de l'article 1er, § 1er, alinéa 1er, 7° et 32°, de l'arrêté du Gouvernement wallon du 23 février 2023.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.717Z",
+  "tokenUsage": {
+    "prompt": 1816,
+    "completion": 350,
+    "total": 2166
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015035741",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour les organisateurs qui relèvent du secteur public, les partenaires du secteur public statuent sur l'octroi de la subvention. La décision d'octroi est prise sur la base des critères suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le budget disponible visé à l'article 12, alinéas premier, 2° et deux ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la répartition d'au moins deux ETP d'accompagnateurs d'enfants par organisateur ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">une répartition géographique des organisateurs si égale que possible ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">l'obligation que les accompagnateurs d'enfants sélectionnés travaillent dans le logement familial où ils sont domiciliés.</span></li>\n      </ol>\n      <p class=\"intro-text\">Lorsque, sur la base des critères visés à l'alinéa premier, des organisateurs se ressemblant fortement se portent candidat, il sera tenu compte des aspects suivants lors de l'évaluation des demandes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'occupation moyenne obtenue dans la période du 1er avril 2013 au 30 avril 2014 inclus. Une occupation supérieure donne une place supérieure dans l'ordre de priorité ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la date telle que connue par \" Kind en Gezin \" à laquelle l'organisateur a commencé l'accueil familial en tant que personne morale actuelle. Une date de début antérieure donne une place supérieure dans l'ordre de priorité.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.276Z",
+  "tokenUsage": {
+    "prompt": 2106,
+    "completion": 526,
+    "total": 2632
+  }
+}

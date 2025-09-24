@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000000617",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La société coopérative intercommunale \" Integan \" est autorisée à accéder aux informations visées à l'article 3, alinéa 1er, 1°, 2°, 5°, 6° et 8°, et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques. Cet accès est destiné exclusivement à l'accomplissement des tâches ci-après énumérées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la facturation à ses abonnés des frais de raccordement au réseau de télédistribution et de la redevance pour la fourniture des signaux y relatifs ainsi que pour les droits d'auteur;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">l'établissement de la liste mensuelle et annuelle visée à l'article 12 de la loi du 13 juillet 1987 relative aux redevances radio et télévision.</span></li>\n      </ol>\n      <p class=\"intro-text\">L'accès aux modifications successives apportées aux informations visées à l'alinéa 1er est limité à une période de cinq années précédant la communication de ces informations.</p>\n      <p class=\"intro-text\">L'accès visé à l'alinéa 1er est réservé :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">au directeur général d'Integan;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">aux membres du personnel d'Integan, désignés nommément et par écrit à cette fin par le directeur général en raison de leurs fonctions et dans les limites de leurs attributions respectives.</span></li>\n      </ol>\n      <p class=\"closing-text\">Les membres du personnel concernés s'engagent par écrit à préserver la sécurité et la confidentialité des informations auxquelles ils ont accès.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.106Z",
+  "tokenUsage": {
+    "prompt": 2130,
+    "completion": 541,
+    "total": 2671
+  }
+}

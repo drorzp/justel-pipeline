@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008204623",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 34 du même arrêté, le 3°, abrogé par l'arrêté du Gouvernement wallon du 9 février 2006, est rétabli dans la rédaction suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">qui respecte les conditions visées à l'article 5, alinéa 1er, 3° et 4°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.063Z",
+  "tokenUsage": {
+    "prompt": 1538,
+    "completion": 191,
+    "total": 1729
+  }
+}

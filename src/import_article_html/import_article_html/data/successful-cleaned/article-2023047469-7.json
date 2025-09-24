@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047469",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 27, § 2 du même arrêté, l'alinéa 2 est remplacé par ce qui suit : &quot; Par dérogation à l'alinéa 1er, le conseil peut prévoir dans le statut juridique, pour les périodes d'activité de service visées à l'article 47, § 2, alinéa 2, 13°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"14°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">17°, que ces périodes ne peuvent pas être prises en compte.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.485Z",
+  "tokenUsage": {
+    "prompt": 1608,
+    "completion": 235,
+    "total": 1843
+  }
+}

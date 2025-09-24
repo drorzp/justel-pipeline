@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002022335",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-11-26/08\" data-law-type=\"AR\" data-article-number=\"8\">\n                Pour les amortissements des charges de gros travaux d'entretien et des frais de première installation, visés à l'article 9, 3° et 7°, les charges réelles sont retenues.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.637Z",
+  "tokenUsage": {
+    "prompt": 1548,
+    "completion": 165,
+    "total": 1713
+  }
+}

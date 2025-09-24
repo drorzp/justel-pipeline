@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003035650",
+  "articleNumber": "2.29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2-29\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2.29</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les dispositions du présent chapitre entrent en vigueur comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">2° l'article II.19, qui produit ses effets le 1er septembre 1997;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2° l'article II.1, 1° et 5°, qui produit ses effets le 1er septembre 2001;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les articles II.1, 2°, 3° et 4°, II.2, II.3, II.4, II.6, II.7, II.11, II.12, II.16, II.20, II.21, II.22, II.23, II.24, II.25, II.27 et II.28, qui produisent leurs effets le 1er septembre 2002;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les articles II.5, II.8, II.13, II.14, II.17, II.18 et II.26, qui entrent en vigueur le 1er septembre 2003;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">les articles II.9, II.10 et II.15, qui entrent en vigueur le 1er septembre 2004.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.721Z",
+  "tokenUsage": {
+    "prompt": 1994,
+    "completion": 474,
+    "total": 2468
+  }
+}

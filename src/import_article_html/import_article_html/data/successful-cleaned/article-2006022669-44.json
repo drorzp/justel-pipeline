@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006022669",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 44</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans la loi du 11 avril 1994 relative à la publicité de l'administration sont abrogés :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">A l'article 1er, alinéa 2, les litteras 4° et 5°, insérés par la loi du 26 juin 2000;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">A l'article 6, le § 2bis, inséré par la loi du 26 juin 2000;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">A l'article 6, § 5, alinéa 3, inséré par la loi du 26 juin 2000.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.668Z",
+  "tokenUsage": {
+    "prompt": 1680,
+    "completion": 297,
+    "total": 1977
+  }
+}

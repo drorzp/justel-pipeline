@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002035479",
+  "articleNumber": "63",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-63\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 63</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article XIV 12, premier alinéa, du même statut, modifié par les arrêtés du Gouvernement flamand des 28 avril 1998, 19 décembre 1998, 28 janvier 2000, 8 juin 2000, 8 septembre 2000 et 9 février 2001, les mots &quot;28° et 30°&quot; sont remplacés par les mots &quot;28° et 30°, et visés à l'article XIV 2, 4°&quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.702Z",
+  "tokenUsage": {
+    "prompt": 1575,
+    "completion": 195,
+    "total": 1770
+  }
+}

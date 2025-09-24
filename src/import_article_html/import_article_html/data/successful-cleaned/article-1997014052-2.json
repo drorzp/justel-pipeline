@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997014052",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les articles 1er, 2°, 16, 31,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et 32 de l'arrêté royal du 30 septembre 1992 relatif au brevet de conduite exigé pour la navigation sur les voies navigables du Royaume en ce qui concerne le transport de marchandises modifié par les arrêtés royaux du 29 avril 1993, 2 juin 1993 et du 27 octobre 1995, les mots &quot;Administration des Affaires maritimes et de la Navigation&quot; sont remplacés par &quot;Administration du Transport terrestre&quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.025Z",
+  "tokenUsage": {
+    "prompt": 1637,
+    "completion": 248,
+    "total": 1885
+  }
+}

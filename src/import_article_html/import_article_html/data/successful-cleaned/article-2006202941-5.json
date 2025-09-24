@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006202941",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 10 du même arrêté, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, 5°, remplacé par l'arrêté royal du 19 juillet 1988, les mots \" l'Administration de la sécurité du travail \" sont remplacés par les mots \" la direction générale Contrôle du bien-être au travail \".</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"provision-text\">l'alinéa 1er, 6°, est remplacé par le texte suivant : \" 6° un inspecteur social compétent en matière de bien-être au travail, qui est spécialisé dans une autre discipline que le chef de direction visé au 5° et désigné par celui-ci. \"</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"c)\">\n                    <span class=\"provision-text\">l'alinéa 2, 1°, est remplacé par le texte suivant : \" 1° un chimiste appartenant à la Direction générale Contrôle du bien-être au travail \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.902Z",
+  "tokenUsage": {
+    "prompt": 1823,
+    "completion": 360,
+    "total": 2183
+  }
+}

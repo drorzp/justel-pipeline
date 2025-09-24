@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020010149",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 38 du décret spécial du 7 février 2019 portant création de l'organisme public chargé de la fonction de Pouvoir organisateur de l'Enseignement organisé par la Communauté française, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">un alinéa rédigé comme suit est inséré entre les alinéas 1 et 2 : \" A partir de l'année 2020, le montant visé à l'alinéa 1er, 1°, est augmenté d'un montant de 7.848.000 euros \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 3, ancien, devenu alinéa 4, les mots \" visés à l'alinéa 1er, 1° et 3° \" sont remplacés par les mots \" visés aux alinéas 1er, 1° et 3° et 2 \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">un alinéa rédigé comme suit est inséré entre les alinéas 3 et 4, devenus 4 et 5 : \" Une allocation exceptionnelle de 1.880.000 euros permettant de couvrir le plan de gestion du changement est octroyée à WBE en 2020, 2021 et 2022. En 2021 et 2022, ce montant est lié à l'évolution de l'indice des prix à la consommation. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.271Z",
+  "tokenUsage": {
+    "prompt": 2043,
+    "completion": 473,
+    "total": 2516
+  }
+}

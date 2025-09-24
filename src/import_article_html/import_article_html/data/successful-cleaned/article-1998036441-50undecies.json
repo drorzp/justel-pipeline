@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998036441",
+  "articleNumber": "50undecies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50undecies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 50undecies</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-05-09/10\" data-law-type=\"DCFL\" data-article-number=\"50\">\n        <p class=\"intro-text\">En vue, notamment, de l'évaluation visée à l'article 50quater, § 3, et en vue du contrôle de l'avancement, visée à l'article 50quinquies, premier alinéa,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et à l'article 50novies, premier alinéa,</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">1°, des programmes de surveillance sont élaborés.\n        La surveillance porte au moins sur l'état de conservation des zones spéciales de conservation et, en dehors de ces zones, sur la conservation des habitats et des espèces à protéger au niveau européen ainsi que des causes qui occasionnent ou peuvent occasionner une régression de cet état de conservation.\n        La surveillance a également pour but de générer des données qui peuvent être utilisées pour satisfaire aux obligations qui découlent de l'article 36ter du présent décret.\n        Le Gouvernement flamand arrête les modalités pour l'élaboration, le contenu et la gestion de ces programmes de surveillance et le contrôle de la qualité des données de la surveillance. Le Gouvernement flamand veille en tout cas au déroulement systématique et permanent de cette surveillance.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.069Z",
+  "tokenUsage": {
+    "prompt": 1991,
+    "completion": 415,
+    "total": 2406
+  }
+}

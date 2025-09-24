@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001638",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 31</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas d'accueil d'un chien identifié et enregistré, l'animal est enregistré au nom du gestionnaire du refuge à l'expiration du délai fixé à l'article D.12, § 3, du Code.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas d'accueil d'un chien identifié et enregistré volontairement cédé par son responsable, l'animal est enregistré au nom du gestionnaire du refuge dans les quarante-huit heures à dater du jour où il a été accueilli.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans les cas décrits aux paragraphes 1er et 2, le gestionnaire du refuge complète la fiche refuge et le cas échéant, fait valider les données mentionnées à l'article 24, § 1er, 2° et 3°, par le vétérinaire de contrat.</p>\n        <p>La fiche refuge complétée est renvoyée au service dans les quatorze jours à compter du jour où le chien est accueilli.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.521Z",
+  "tokenUsage": {
+    "prompt": 1924,
+    "completion": 406,
+    "total": 2330
+  }
+}

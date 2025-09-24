@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010811",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 6,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, l'article 39 à 42 et l'article 44 du décret du 14 octobre 2016 portant modification de divers décrets relatifs au logement et le présent décret entrent en vigueur le 1er mars 2017, à l'exception de l'article 18, qui produit ses effets à partir du 1er janvier 2017.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.747Z",
+  "tokenUsage": {
+    "prompt": 1550,
+    "completion": 220,
+    "total": 1770
+  }
+}

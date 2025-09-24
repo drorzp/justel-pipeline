@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035295",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 42</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 29, alinéa premier, du même décret, les points 3°, 4° et 5° sont remplacés par les dispositions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">des comités d'aide spéciale à la jeunesse, visés à l'article 12 du décret du 7 mars 2008 relatif à l'assistance spéciale à la jeunesse, et des services sociaux d'assistance volontaire à la jeunesse, visés à l'article 20 de ce décret;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">des commissions de médiation d'assistance spéciale à la jeunesse, visés à l'article 26 du décret visé au point 3°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">des services sociaux d'assistance judiciaire à la jeunesse, visés à l'article 44 du décret visé au point 3°;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.086Z",
+  "tokenUsage": {
+    "prompt": 1775,
+    "completion": 337,
+    "total": 2112
+  }
+}

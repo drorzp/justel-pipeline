@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008203860",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le stage visé à l'article 3, § 1er, 4° et § 2, 3°, du décret rencontre les objectifs suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">confrontation à des contextes sociaux et culturels différents de l'environnement du stagiaire;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">approche globale d'une exploitation;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">développement, en situation de travail, des capacités personnelles et relationnelles liées à l'exercice du métier de responsable d'exploitation agricole;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">collaboration à l'élaboration des décisions et à la conduite de l'exploitation agricole;</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">préparation d'un projet d'installation et de l'élaboration d'un plan de développement en conformité avec l'article 22 de l'arrêté du Gouvernement wallon du 24 mai 2007 concernant les aides à l'agriculture;</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">professionnalisation du savoir-faire du stagiaire.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.068Z",
+  "tokenUsage": {
+    "prompt": 1854,
+    "completion": 408,
+    "total": 2262
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006003199",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 38 du même arrêté est remplacé par la disposition suivante :</p>\n            <blockquote class=\"article-quote\">\n                <p class=\"quoted-text\">\" Art. 38. Les institutions visées à l'article 3, § 2,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">de la loi précitée du 2 janvier 1991 qui ont obtenu de la Commission bancaire, financière et des Assurances un agrément visé à l'article 36, sont inscrites sur la liste des institutions qui ont obtenu un agrément pour détenir des comptes de titres dématérialisés pour compte de tiers.</span>\n                    </li>\n                </ol>\n                <p class=\"quoted-text\">La Commission bancaire, financière et des Assurances publie annuellement cette liste dans le Moniteur belge. \"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.867Z",
+  "tokenUsage": {
+    "prompt": 1678,
+    "completion": 317,
+    "total": 1995
+  }
+}

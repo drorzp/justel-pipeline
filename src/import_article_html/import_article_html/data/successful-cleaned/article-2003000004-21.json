@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003000004",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 173 du même Code, remplacé par la loi du 27 décembre 2000, est remplacé par la disposition suivante :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 173.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans chaque liste dont un ou plusieurs candidats sont élus conformément à l'article 172, les candidats à la suppléance qui ont obtenu le plus grand nombre de voix ou, en cas de parité de voix, dans l'ordre d'inscription au bulletin de vote, sont déclarés premier, deuxième, troisième suppléant et ainsi de suite.</p>\n          <p>Préalablement à leur désignation, le bureau principal, ayant désigné les titulaires, procède à l'attribution individuelle aux candidats suppléants de la moitié du nombre des bulletins favorables à l'ordre de présentation de ces candidats. Cette moitié s'établit en divisant par deux le total des bulletins compris dans les sous-catégories visées à l'article 156, § 1er, alinéa 2, 1° et 2°.</p>\n          <p>L'attribution de ces bulletins se fait d'après un mode dévolutif. Ils sont ajoutés aux suffrages nominatifs obtenus par le premier candidat suppléant, à concurrence de ce qui est nécessaire pour atteindre le chiffre d'éligibilité visé à l'article 172, alinéa 3. L'excédent, s'il y en a, est attribué dans une mesure semblable au deuxième candidat suppléant, puis au troisième, et ainsi de suite, suivant l'ordre de présentation, jusqu'à ce que la moitié du nombre des bulletins favorables à l'ordre de présentation de ces candidats soit épuisée.</p>\n          <p>Aucune attribution ne se fait au profit des candidats qui sont présentés à la fois comme titulaires et comme suppléants et qui sont déjà désignés comme élus parmi les titulaires.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.714Z",
+  "tokenUsage": {
+    "prompt": 2171,
+    "completion": 519,
+    "total": 2690
+  }
+}

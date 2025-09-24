@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002855",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 2, § 1er, de l'arrêté royal du 14 mars 2023 relatif aux cotisations obligatoires au Fonds budgétaire pour la santé et la qualité des animaux et des produits animaux, fixées pour le secteur volailles, les points:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"19°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"20°\">\n                    <span class=\"provision-text\">sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.526Z",
+  "tokenUsage": {
+    "prompt": 1565,
+    "completion": 222,
+    "total": 1787
+  }
+}

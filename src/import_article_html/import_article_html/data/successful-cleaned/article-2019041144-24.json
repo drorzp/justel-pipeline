@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041144",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 49, du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1, 1°, les mots \" en tant que professionnel \" sont insérés entre les mots \" sapeur-pompier \" et \" de \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, sont insérés les 6° et 7° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">ne pas être sous le coup d'une sanction disciplinaire non radiée ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">être nommé conformément à l'article 41.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.387Z",
+  "tokenUsage": {
+    "prompt": 1732,
+    "completion": 337,
+    "total": 2069
+  }
+}

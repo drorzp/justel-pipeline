@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001120",
+  "articleNumber": "173",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-173\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 173</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Disposition transitoire Pour l'application de la décision de dessaisissement visée à l'article 84, § 1er, le placement dans une institution communautaire publique de protection de la jeunesse visé à l'article 37, § 2, 8°, de la loi du 8 avril 1965 est assimilé aux prises en charge résidentielles visées à l'article 82, § 1er, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\"></span></li>\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\"></span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.518Z",
+  "tokenUsage": {
+    "prompt": 1623,
+    "completion": 244,
+    "total": 1867
+  }
+}

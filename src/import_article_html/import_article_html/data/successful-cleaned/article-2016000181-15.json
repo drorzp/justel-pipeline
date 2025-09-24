@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016000181",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 44/13 de la même loi, inséré par la loi du 1er avril 2006, est remplacé par ce qui suit :</p>\n      <p class=\"intro-text\">\"Art. 44/13. Dans le cadre de l'assistance visée à l'article 44/12, les agents de police :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">exécutent, sur ordre et sous la responsabilité d'un officier de police administrative ou judiciaire, des fouilles de bâtiments et de moyens de transport visées à l'article 27 et des fouilles de sécurité et judiciaires visées à l'article 28;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">assurent, sur ordre et sous la responsabilité d'un officier de police administrative ou judiciaire, la surveillance des personnes privées de leur liberté en exécution des articles 15, 1° et 2°, 31 et 34.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.303Z",
+  "tokenUsage": {
+    "prompt": 1807,
+    "completion": 331,
+    "total": 2138
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008201667",
+  "articleNumber": "341",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-341\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 341</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 11, § 2 du même arrêté, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, les mots \"l'article 10 § 4, 2°, 3° a) et 4°\" et les mots \"l'article 10, § 4, 1° et 3°, b) sont remplacés respectivement par les mots \"l'article 10, § 4, 2° et 4°\" et les mots \"l'article 10, § 4, 1°\" et les mots \"des divisions et administrations concernées\" sont remplacés par les mots \"des entités concernées\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'alinéa trois est remplacé par la disposition suivante :<br>\" L'Agence soumet dans un délai de 30 jours la demande accompagnée de son avis, le cas échéant, des avis, visés à l'article 10, § 4, au Ministre qui décide. \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.907Z",
+  "tokenUsage": {
+    "prompt": 1848,
+    "completion": 363,
+    "total": 2211
+  }
+}

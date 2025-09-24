@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014014174",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 17</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 57, alinéa 2, de la loi sur la circulation routière, remplacé par la loi du 9 juillet 1976 et modifié par la loi du 20 juillet 2005, les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"55\" data-law-type=\"l\" data-article-number=\"alinéa 1er, 1°, 2°, 3° et 5°\">\" l'article 55, alinéa 1er, 1°, 2°, 3° et 5° \"</span> sont remplacés par les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"55\" data-law-type=\"l\" data-article-number=\"alinéa 1er, 1°, 2°, 3° et 5°, et § 2\">\" l'article 55, § 1er, alinéa 1er, 1°, 2°, 3° et 5°, et § 2 \"</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.164Z",
+  "tokenUsage": {
+    "prompt": 1599,
+    "completion": 308,
+    "total": 1907
+  }
+}

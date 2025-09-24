@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047707",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 115, &sect; 1er, alin&eacute;a 1er, 3&deg;, du m&ecirc;me d&eacute;cret, les mots &quot; &agrave; ceux mentionn&eacute;s aux litt&eacute;ras 1&deg; et 2&deg; &quot; sont remplac&eacute;s par les mots &quot; &agrave; celui mentionn&eacute; au littera 1&deg; &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.495Z",
+  "tokenUsage": {
+    "prompt": 1613,
+    "completion": 185,
+    "total": 1798
+  }
+}

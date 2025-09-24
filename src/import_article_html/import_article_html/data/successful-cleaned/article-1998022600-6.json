@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998022600",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 17, § 1er, de la même annexe, au 5° et 11°, et au 12°, modifié par les arrêtés royaux des 25 juillet 1994 et 7 août 1995, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 5° : la prestation suivante est insérée après la prestation n° 453294 - 453305 : \" (Modification non reprise pour des raisons techniques. Voir M.B. 24-09-1998, p. 31244). \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au 11° : le troisième et le quatrième alinéa de la règle d'application qui suit la prestation 458894 - 458905 sont remplacés par la disposition suivante : \" Si on répète l'examen dans le délai de 30 jours pour raison médicale, la motivation doit être à la disposition du médecin-conseil dans le dossier du patient. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au 12° :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">dans le libellé de la prestation n° 460670, les prestations 460390 et 460471 sont supprimées et la prestation n° 460611 est insérée dans la liste des prestations du 2ème alinéa visant les prestations de l'article 17bis, § 1er;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">dans le libellé des prestations 460703, 460725, 460740 et 460762, les mots \" ou S \" sont remplacés par les mots \" Sp-cardio-pulmonaire, Sp-neurologie ou Sp-locomoteur \".</li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.084Z",
+  "tokenUsage": {
+    "prompt": 2150,
+    "completion": 545,
+    "total": 2695
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023046431",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2, du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au point 5°, les mots \" l'ADR et dans les parties 2 et 3 de l'ADN \" sont remplacés par les mots \" l'Annexe A de l'ADR et dans les parties 2 et 3 du règlement annexé à l'ADN \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est inséré, entre le point 7° et le point 8°, un nouveau point 7/1° rédigé comme suit : \" 7/1° \" DVTM \" : La Direction Véhicules et Transport de marchandises de Bruxelles Mobilité ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">aux points 10° et 11°, les mots \" l'ADR et de l'ADN \" sont chaque fois remplacés par les mots \" l'Annexe A de l'ADR et du règlement annexé à l'ADN \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">il est ajouté, après le point 13°, un nouveau 14° rédigé comme suit : \" 14° \" voie de navigation intérieure \" : une voie de navigation intérieure située en Région de Bruxelles-Capitale.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.479Z",
+  "tokenUsage": {
+    "prompt": 1975,
+    "completion": 453,
+    "total": 2428
+  }
+}

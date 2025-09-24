@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015022353",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 51quater de l'arrêté royal du 3 juillet 1996 portant exécution de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, inséré par l'arrêté royal du 28 décembre 2006 et modifié par l'arrêté royal du 10 juillet 2008, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le paragraphe 1 est complété par les dispositions sous 12° et 13°, rédigées comme suit :</span>\n          <br>\n          <span class=\"provision-text\">\"12° un membre effectif et un membre suppléant, proposés par le Ministre qui a le Budget dans ses attributions;</span>\n          <br>\n          <span class=\"provision-text\">13° un membre effectif et un membre suppléant désignés par le ministre qui a la Santé publique dans ses attributions au sein de l'Agence Fédérale des Médicaments et des Produits de Santé, créée par la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé;\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 2, les mots \"et 11° \" sont remplacés par les mots \"11°, 12° et 13° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.175Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 438,
+    "total": 2379
+  }
+}

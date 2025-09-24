@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999009051",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er, 14°, 15° et 16°, de la loi du 12 juin 1991 relative au crédit à la consommation, modifiée par la loi du 6 juillet 1992, est remplacé par le texte suivant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"14°\">\n          <span class=\"provision-text\">le traitement des données : le traitement de données à caractère personnel défini par l'article 1er, § 2, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel</span>\n        </li>\n        <li class=\"provision\" data-number=\"15°\">\n          <span class=\"provision-text\">le fichier : le fichier défini à l'article 1er, § 3, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel</span>\n        </li>\n        <li class=\"provision\" data-number=\"16°\">\n          <span class=\"provision-text\">le responsable du traitement : le responsable du traitement défini à l'article 1er, § 4, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.131Z",
+  "tokenUsage": {
+    "prompt": 1894,
+    "completion": 397,
+    "total": 2291
+  }
+}

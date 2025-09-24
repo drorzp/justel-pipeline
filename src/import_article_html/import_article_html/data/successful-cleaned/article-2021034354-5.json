@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021034354",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans la même section 1èrebis, il est inséré un article 15sexies rédigé comme suit:</p>\n            <p>\"Article 15sexies. Si l'Agence constate, dans le cadre de l'exercice des compétences qui lui sont dévolues, que les déchets radioactifs qu'un exploitant produit, fabrique, possède et/ou dont il est responsable ne sont pas conformes aux critères d'acceptation visés à l'article 179, § 2, 4° et 8°, de la loi du 8 août 1980 concernant les propositions budgétaires pour 1979-1980, l'Agence en informe l'ONDRAF sans délai.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.202Z",
+  "tokenUsage": {
+    "prompt": 1641,
+    "completion": 227,
+    "total": 1868
+  }
+}

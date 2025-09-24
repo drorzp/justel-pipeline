@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003003229",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les articles 137, § 1, 2° à 6°, et § 2, 139, § 1, 1°, 2°, 4° et 5°, et 140, § 3, 2° à 5°, et § 6, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers entrent en vigueur le 1er juin 2003.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.835Z",
+  "tokenUsage": {
+    "prompt": 1542,
+    "completion": 175,
+    "total": 1717
+  }
+}

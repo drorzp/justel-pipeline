@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035861",
+  "articleNumber": "4.1.9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4-1-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4.1.9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-06-10/09\" data-law-type=\"DCFL\" data-article-number=\"21\">\n        <p class=\"intro-text\">Toute autorité administrative doit, à l'occasion de ses propres travaux ou activités sur des biens immeubles repris dans les inventaires établis visés à l'article 4.1.1, alinéa premier, 1°, 3° et 4°, prendre le plus grand soin possible de leurs valeurs et caractéristiques patrimoniales.</p>\n        <p class=\"closing-text\">Dans sa décision concernant des travaux ou activités propres, l'autorité administrative indique les biens immobiliers repris dans l'un des inventaires susmentionnés impactés et, le cas échéant, les mesures prises afin de satisfaire à l'obligation de soin visée à l'alinéa premier.</p>\n      </span>\n      <p>Le Gouvernement flamand arrête les modalités pour cette obligation de motivation et devoir de protection.</p>\n      <p>Cet article n'entrave en rien l'application de prescrits plus stricts concernant les biens protégés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.089Z",
+  "tokenUsage": {
+    "prompt": 1892,
+    "completion": 333,
+    "total": 2225
+  }
+}

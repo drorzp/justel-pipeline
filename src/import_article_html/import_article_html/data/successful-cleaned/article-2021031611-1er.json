@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031611",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'arrêté royal du 7 juin 2007 concernant le fonds de formation titres-services, modifié en dernier lieu par l'arrêté du Gouvernement flamand du 18 décembre 2020, il est inséré un article 3bis, rédigé comme suit : \" Art. 3bis. En ce qui concerne les formations en 2021, les frais de formation suivants entrant en ligne de compte pour le remboursement sont augmentés de la manière suivante :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">par dérogation à l'article 3, 1° et 2°, les coûts salariaux des travailleurs pendant la formation, y compris les cotisations de sécurité sociale, sont fixés forfaitairement à 20 euros ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">par dérogation à l'article 3, 1°, les frais d'encadrement sont fixés forfaitairement à 50 euros par demi jour ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">par dérogation à l'article 3, 2°, les coûts de l'institut de formation ou du formateur interne sont fixés à un maximum de 150 euros par jour par travailleur.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.136Z",
+  "tokenUsage": {
+    "prompt": 1910,
+    "completion": 408,
+    "total": 2318
+  }
+}

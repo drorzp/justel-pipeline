@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024009895",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 5 de ce même arrêté, le § 5 est remplacé par ce qui suit :</p>\n    <section class=\"paragraph\" id=\"para-5\">\n      <h3 class=\"paragraph-marker\">§ 5.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">La liste reprise en annexe 1reest modifiée conformément à la procédure prévue au chapitre VI de l' Arrêté royal du 23 novembre 2021 fixant les procédures, délais et conditions dans lesquelles l'assurance obligatoire soins de santé et indemnités intervient dans le coût des prestations pharmaceutiques visées à l'article 34, alinéa 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">a),</span></li>\n          <li class=\"provision\" data-number=\"19°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"20°\"><span class=\"provision-text\">et 20bis de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.</span></li>\n        </ol>\n        <p class=\"closing-text\">Pour pouvoir être repris sur la liste, le prix de vente ex-usine d'un pansement actif doit en outre satisfaire aux règles de calcul reprises en annexe 2 . \"</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.467Z",
+  "tokenUsage": {
+    "prompt": 1845,
+    "completion": 389,
+    "total": 2234
+  }
+}

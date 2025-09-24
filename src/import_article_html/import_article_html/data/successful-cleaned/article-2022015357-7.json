@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022015357",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Partenariat flamand pour l'Apprentissage dual évalue si le tuteur dispose d'une preuve de formation préalable telle que visée à l'article 8, § 1er, alinéa deux, 1° et 2°, du décret du 25 mars 2022.</p>\n      <p class=\"intro-text\">Les documents suivants entrent en ligne de compte comme preuve de formation préalable :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">tout titre délivré par un établissement d'enseignement régulier ou un centre de formation des indépendants et des petites et moyennes entreprises, et portant sur les compétences que l'entreprise doit enseigner selon le plan de formation ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">toute preuve de compétences ou de qualifications acquises ailleurs portant sur les compétences que l'entreprise doit enseigner selon le plan de formation.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.801Z",
+  "tokenUsage": {
+    "prompt": 1745,
+    "completion": 316,
+    "total": 2061
+  }
+}

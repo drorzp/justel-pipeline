@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035107",
+  "articleNumber": "91/3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-91/3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 91/3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-07-03/19\" data-law-type=\"AGF\" data-article-number=\"28\">\n                Les établissements agréés avant le 1er janvier 2013 pour organiser la formation pour les fonctionnaires de surveillance locaux et provinciaux, sont agréés de plein droit à partir du 1er janvier 2013 pour organiser la formation pour les fonctionnaires de surveillance acoustique locaux et provinciaux. Ils soumettent les programmes d'études et la méthode d'évaluation, visés à l'article 14, § 2, points:\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">3°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"4°\">\n                        <span class=\"provision-text\">4°</span>\n                    </li>\n                </ol>\n                à l'approbation de la division, compétente pour les agréments.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.079Z",
+  "tokenUsage": {
+    "prompt": 1763,
+    "completion": 315,
+    "total": 2078
+  }
+}

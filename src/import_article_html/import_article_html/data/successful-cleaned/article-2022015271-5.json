@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022015271",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les bénéficiaires visés à l'article 3, <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2022-05-20\" data-law-type=\"D\" data-article-number=\"3\">1° et 2°, du décret du 20 mai 2022</span> sont éligibles à l'octroi automatique du bonus emploi.</p>\n        <p>A cet effet, les bénéficiaires visés à l'alinéa premier enregistrent une seule fois leur numéro de compte via \" Mijn Burgerprofiel \" (Mon profil de citoyen). En cas de modification du numéro de compte, le nouveau numéro sera également enregistré via \" Mijn Burgerprofiel \".</p>\n        <p>A l'alinéa deux, on entend par \" Mijn Burgerprofiel \" : l'accès consolidé et axé sur le citoyen visé à l'article <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2018-12-07\" data-law-type=\"D\" data-article-number=\"II.7\">II.7, alinéa premier, du décret de gouvernance du 7 décembre 2018</span>.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.801Z",
+  "tokenUsage": {
+    "prompt": 1683,
+    "completion": 357,
+    "total": 2040
+  }
+}

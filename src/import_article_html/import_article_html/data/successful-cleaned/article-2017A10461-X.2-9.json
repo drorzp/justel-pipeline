@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017A10461",
+  "articleNumber": "X.2-9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-X-2-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article X.2-9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'entreprise de travail intérimaire est responsable de l'observation des dispositions réglementaires concernant les vaccinations. L'entreprise de travail intérimaire est responsable de l'observation des dispositions relatives à la protection de la maternité, à l'exception des mesures que l'utilisateur est tenu de prendre en application de l'article 42, § 1er, alinéa 1er, 1° et 3°, et § 2 de la loi du 16 mars 1971 sur le travail.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.568Z",
+  "tokenUsage": {
+    "prompt": 1626,
+    "completion": 193,
+    "total": 1819
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036516",
+  "articleNumber": "75",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-75\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 75</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Au plus tard trente jours de la prise de connaissance de la décision, visée à l'article 71, alinéa premier, 1° et 2°, l'organisateur adresse une réclamation motivée à l'adresse du siège principal de \" Kind en Gezin \" lorsqu'il s'agit d'une des réclamations, visées à l'article 74, alinéa premier.</p>\n      <p>La réclamation comporte au moins :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le nom et l'adresse de l'organisateur ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la date de réception de la décision contestée ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">une motivation circonstanciée ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">la date d'introduction de la réclamation ;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">le nom et la signature du président de l'organisateur.</span></li>\n      </ol>\n      <p>La réclamation qui ne répond pas aux conditions visées aux §§ 1er et 2, est irrecevable.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.363Z",
+  "tokenUsage": {
+    "prompt": 1848,
+    "completion": 396,
+    "total": 2244
+  }
+}

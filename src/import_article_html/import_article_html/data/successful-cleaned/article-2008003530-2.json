@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008003530",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 105 du Code des impôts sur les revenus 1992, remplacé par la loi du 27 décembre 2004, est remplacé par ce qui suit : \" Lorsqu'une imposition commune est établie, les déductions visées à l'article 104 sont imputées comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">en premier lieu, la déduction à laquelle le contribuable a droit conformément à l'article 104, 9°, est imputée dans le chef de chaque contribuable sur ses revenus nets. Toutefois, lorsque les deux contribuables ont fait des dépenses donnant droit à la déduction précitée, cette déduction est imputée selon la répartition choisie par les contribuables dans les limites visées aux articles 115, § 1er, alinéa 1er, 6°, et 116;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">ensuite, les déductions visées à l'article 104, 3° à 8°, sont imputées, suivant la règle proportionnelle, sur l'ensemble des revenus nets des deux contribuables;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">enfin, les déductions visées à l'article 104, 1° et 2°, sont imputées par priorité sur l'ensemble des revenus nets du contribuable qui est débiteur des dépenses et le solde éventuel est imputé sur l'ensemble des revenus nets de l'autre contribuable. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.992Z",
+  "tokenUsage": {
+    "prompt": 2011,
+    "completion": 463,
+    "total": 2474
+  }
+}

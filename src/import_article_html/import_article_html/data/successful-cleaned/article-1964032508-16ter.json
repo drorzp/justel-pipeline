@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1964032508",
+  "articleNumber": "16ter",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16ter\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16ter</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-12-18/02\" data-law-type=\"L\" data-article-number=\"54\">\n                <p>Les peines des infractions prévues aux articles 16, § 1er, 2°, et § 3, 3° et 4°, et 16bis, § 2, 6°, seront doublées si ces infractions :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">ont causé le décès ou ont porté atteinte à la santé physique ou mentale du participant</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">ont été commises par une personne abusant de la confiance que lui confère sa qualité de professionnel de la santé, de fabricant ou de fournisseur</span></li>\n                    <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">pour ce qui concerne les infractions de fourniture ou d'offre de fourniture, ont été commises en recourant à des procédés de diffusion à grande échelle, tels que des systèmes informatisés, y compris l'internet</span></li>\n                    <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">ont été commises dans le cadre d'une organisation criminelle</span></li>\n                    <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">ont été commises par un auteur déjà condamné pour des infractions de même nature. Les dispositions de l'article 18, § 2, s'appliquent aux condamnations visées à ce point.</span></li>\n                </ol>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.527Z",
+  "tokenUsage": {
+    "prompt": 2050,
+    "completion": 478,
+    "total": 2528
+  }
+}

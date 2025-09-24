@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040576",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le même arrêté royal, il est inséré un article 4/2 rédigé comme suit:</p>\n            <blockquote class=\"article-quote\">\n                <p class=\"quoted-text\">\" Art. 4/2. Conformément aux articles 14, § 2, de la loi du 25 mars 1964 sur les médicaments, et 10, § 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">1° et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">2°, de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire, les fabricants, les importateurs, les distributeurs et les exportateurs de dispositifs de diagnostic in vitro doivent rendre les locaux de fabrication et/ou de stockage accessibles en tous temps aux fonctionnaires et agents du service compétent qui peuvent, si nécessaire, être assistés par des experts désignés par le Ministre. Ces fonctionnaires et agents ont le droit de prélever, sans frais pour l'administration, des échantillons afin d'établir la preuve d'une infraction.</span>\n                    </li>\n                </ol>\n                <p class=\"quoted-text\">\"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.624Z",
+  "tokenUsage": {
+    "prompt": 1840,
+    "completion": 404,
+    "total": 2244
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035469",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les objectifs finaux et les objectifs de développement pour le cours \"éducation technologique\", visé à l'article 4, 4° et 8°, deviennent les objectifs finaux et les objectifs de développement pour le cours \"technique\" dans lequel est converti le cours \"éducation technologique\" au 1er septembre 2010.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.092Z",
+  "tokenUsage": {
+    "prompt": 1498,
+    "completion": 152,
+    "total": 1650
+  }
+}

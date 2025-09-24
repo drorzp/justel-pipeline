@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002003381",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 60, alinéa 1er, de la même loi, remplacé par la loi du 12 août 2000, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 2° est remplacé par la disposition suivante : \" 2° en présence d'une infraction aux articles 9, 27bis , alinéa 6, 28, §§ 1er et 3, 29, 30, alinéa 1er, 31, 32, 48, § 1er, alinéa 2, 48, § 2, alinéa 2, et 53, alinéa 1er, octroyer à l'union nationale ou à la mutualité, afin de régulariser la situation, un délai dont il fixe la durée et qui prend cours à la date de notification de la décision et prononcer à charge de l'union nationale, lorsque la régularisation demandée n'est pas effectuée à l'issue du délai octroyé, une amende administrative prévue à l'article 60ter, alinéa 2;\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est inséré un 2°bis , rédigé comme suit : \" 2°bis en présence d'une infraction aux articles de la présente loi qui ne sont pas visés aux 1° et 2°, prononcer une amende administrative de 100 à 500 euros;\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.799Z",
+  "tokenUsage": {
+    "prompt": 2036,
+    "completion": 456,
+    "total": 2492
+  }
+}

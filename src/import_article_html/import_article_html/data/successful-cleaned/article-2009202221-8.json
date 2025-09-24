@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202221",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 9, alinéa 2, du même décret, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"provision-text\">au 6°, les mots \"conseil représentatif\" sont remplacés par les mots \"comité d'accompagnement\";</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"provision-text\">l'alinéa est complété par les 7° et 8° rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">l'organigramme du personnel;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"8°\">\n                            <span class=\"provision-text\">la liste des locaux disponibles gérés par le centre.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.306Z",
+  "tokenUsage": {
+    "prompt": 1696,
+    "completion": 315,
+    "total": 2011
+  }
+}

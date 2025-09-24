@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032271",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2 de l'arrêté royal du 1er mars 2013 relatif au bien-être des chevaux et des poneys pendant les kermesses, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les points 1° et 2° sont abrogés ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">un point 7° et un point 8° sont ajoutés, qui sont libellés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">hippodrome : l'hippodrome visé à l'article 6ter, alinéa 1er, 2°, de la loi du 14 août 1986 relative à la protection et au bien-être des animaux ;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"8°\">\n                            <span class=\"provision-text\">responsable d'un hippodrome : le responsable d'un hippodrome visé à l'article 6ter, alinéa 1er, 3°, de la loi du 14 août 1986 relative à la protection et au bien-être des animaux.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.208Z",
+  "tokenUsage": {
+    "prompt": 1882,
+    "completion": 414,
+    "total": 2296
+  }
+}

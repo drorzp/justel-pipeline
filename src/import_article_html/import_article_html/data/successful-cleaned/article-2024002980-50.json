@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002980",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 50</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 166, alinéa 3, de la même loi, les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">sont chaque fois complétés par les mots &quot;ou par le responsable opérationnel de la banque de données commune T.E.R. après concertation avec les services de base visés à l'article 2,</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, de la loi du 29 mars 2024 portant création de la banque de données commune &quot;Terrorisme, Extrémisme, processus de Radicalisation&quot; (&quot;T.E.R.&quot;) pour ce qui concerne la banque de données commune T.E.R.&quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.526Z",
+  "tokenUsage": {
+    "prompt": 1688,
+    "completion": 294,
+    "total": 1982
+  }
+}

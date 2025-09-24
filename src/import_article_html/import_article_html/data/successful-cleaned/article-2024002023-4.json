@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002023",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté entre en vigueur le jour qui suit sa publication au Moniteur belge, à l'exception des articles 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et 3, qui entrent en vigueur le 1er janvier 2025.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.435Z",
+  "tokenUsage": {
+    "prompt": 1468,
+    "completion": 173,
+    "total": 1641
+  }
+}

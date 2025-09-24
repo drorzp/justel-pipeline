@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030695",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté ministériel du 6 juin 2013 portant agrément de centres pour chevaux en application de l'article 35 de l'Arrêté relatif à l'Elevage du 19 mars 2010, remplacé par l'arrêté ministériel du 13 juin 2016 et modifié par l'arrêté ministériel du 3 février 2017, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 2° est abrogé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le point 6°, les mot \" Hennennestraat \" est remplacé par le mot \" Hennenneststraat \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les points 9°, 25°, 35°, 38°, 45°, 48°, 50°, 51°, 53°, 54°, et 61° sont abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">il est ajouté les points 69°, 70° et 71°, libellés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"69°\">\n              <span class=\"provision-text\">69° Ter Dieschoot, Hoogstraat 30-32, 8730 Oedelem, avec numéro d'agrément NW99/04 ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"70°\">\n              <span class=\"provision-text\">70° LVS nv, Sint-Pieterstraat 4, 8970 Reningelst-Poperinge, avec numéro d'agrément NW17/01 ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"71°\">\n              <span class=\"provision-text\">71° DAP Kleine Heide, Kleine Heide 13, 2811 Leest, avec numéro d'agrément NA17/03.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.363Z",
+  "tokenUsage": {
+    "prompt": 2178,
+    "completion": 611,
+    "total": 2789
+  }
+}

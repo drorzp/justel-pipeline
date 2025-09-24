@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002950",
+  "articleNumber": "49",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-49\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 49</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 58 du même Code, remplacé par la loi du 18 juin 2018 et modifié par la loi du 14 septembre 2023, il est inséré un paragraphe 2/1 rédigé comme suit:</p>\n        <section class=\"paragraph\" id=\"para-2-1\">\n            <h3 class=\"paragraph-marker\">§ 2/1.</h3>\n            <div class=\"paragraph-content\">\n                <p>Si la mère a accouché avant le 31 mars 2019 après une grossesse de cent-quatre-vingts jours à dater de la conception, les parents peuvent, par déclaration conjointe ou par déclaration du parent survivant en cas de prédécès de l'autre parent, à l'officier de l'état civil compétent, demander de mentionner les prénoms et/ou le nom de leur enfant dans l'acte d'enfant sans vie conformément à l'article 59, alinéa 1er, 5° et 6°. L'officier de l'état civil modifie l'acte d'enfant sans vie suite à cette déclaration.</p>\n                <p>Si la mère a accouché avant le 31 mars 2019 après une grossesse de cent-quarante jours à cent-septante-neuf jours à dater de la conception, les parents peuvent, par déclaration conjointe ou par déclaration du parent survivant en cas de prédécès de l'autre parent, demander à l'officier de l'état civil compétent, d'établir un acte d'enfant sans vie conformément au paragraphe 2.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.528Z",
+  "tokenUsage": {
+    "prompt": 2031,
+    "completion": 414,
+    "total": 2445
+  }
+}

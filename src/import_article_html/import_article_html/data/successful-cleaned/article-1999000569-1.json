@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999000569",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté royal du 4 mai 1992 autorisant l'accès de certaines autorités du Ministère de la Région wallonne au Registre national des personnes physiques est complété par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">à accéder aux informations visées à l'article 3, alinéa 1er,</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"1°\"></li>\n            <li class=\"sub-provision\" data-marker=\"2°\"></li>\n            <li class=\"sub-provision\" data-marker=\"5°\"></li>\n            <li class=\"sub-provision\" data-marker=\"7°\"></li>\n            <li class=\"sub-provision\" data-marker=\"8°\">\n              <span class=\"provision-text\">de la même loi, pour l'accomplissement par la Direction générale de l'Aménagement du Territoire, du Logement et du Patrimoine, Division de l'Aménagement et de l'Urbanisme, des formalités de notification aux propriétaires de sites d'activité économique désaffectés et aux titulaires d'inscription hypothécaire gérant des immeubles compris dans le site, conformément aux articles 168, § 3, et 169 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.124Z",
+  "tokenUsage": {
+    "prompt": 1884,
+    "completion": 414,
+    "total": 2298
+  }
+}

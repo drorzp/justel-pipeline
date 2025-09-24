@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202053",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-07-06/24\" data-law-type=\"L\" data-article-number=\"200\">\n        <p class=\"intro-text\">A l'exception de l'article 18, ce chapitre entre en vigueur comme suit :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les articles 19, 1° et 2°, 20, 1°, et 24 produisent leurs effets le 1er janvier 2017 ;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les articles 19, 3°, 20, 3°, 21, <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2022-11-22/06\" data-law-type=\"L\" data-article-number=\"117\">23</span> et 25, 2°, entrent en vigueur à une date à fixer par le Roi ;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les articles 20, 2° et 25, 1°, entrent en vigueur à une date à fixer par le Roi et au plus tard le 1er janvier 2020.</span></li>\n        </ol>\n        <p class=\"closing-text\">L'application des dispositions reprises à l'article 20 n'est obligatoire que pour les actes reçus à partir de la date visée à l'alinéa 1er, 2°.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.307Z",
+  "tokenUsage": {
+    "prompt": 2049,
+    "completion": 451,
+    "total": 2500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001035930",
+  "articleNumber": "69",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-69\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 69</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Au décret du 29 avril 1991 instaurant un conseil de l'Environnement et de la Nature de la Flandre et fixant les règles générales en matière d'agrément et de subvention des associations environnementales et de la naturelles points (5°, 6° et 7) sont ajoutés à l'article 4, § 2, libellés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">les avant-projets de décret et les projets d'arrêté réglementaire ayant trait à la mobilité, à l'infrastructure des communications ou à des activités générant fortement la mobilité, à l'exception des avant-projets du décret portant le budget, tel que visé à l'article 55, § 3, 1° du décret du 20 avril 2001 portant organisation du transport de personnes par la route et portant création d'un Conseil de Mobilité de la Flandre;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">les lignes directrices de la politique à mener en matière de mobilité, a l'exception de la politique des ports et des aéroports, telle que visée a l'article 55, § 3, 3° du décret visé au point 5°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">tous les projets en matière d'accompagnement politique tel que visé à l'article 55, § 3, 4° du décret visé au point 5°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.674Z",
+  "tokenUsage": {
+    "prompt": 2017,
+    "completion": 459,
+    "total": 2476
+  }
+}

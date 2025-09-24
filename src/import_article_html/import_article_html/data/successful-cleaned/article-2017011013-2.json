@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011013",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En cas d'acte de terrorisme, la requête tendant à l'obtention d'une aide financière adressée à la commission conformément à l'article 31, premier alinéa,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de la loi ne doit pas satisfaire aux conditions de l'article 31bis, § 1er,</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de la loi.</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">de la loi ne doit pas satisfaire aux conditions de l'article 31bis, § 2,</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de la loi.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.756Z",
+  "tokenUsage": {
+    "prompt": 1777,
+    "completion": 426,
+    "total": 2203
+  }
+}

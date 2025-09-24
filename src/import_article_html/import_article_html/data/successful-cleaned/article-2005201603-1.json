@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005201603",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 75ter de l'arrêté ministériel du 26 novembre 1991 portant les modalités d'application de la réglementation du chômage, inséré par l'arrêté ministériel du 27 mai 1993 et modifié par l'arrêté ministériel du 27 avril 2001 sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"A)\">\n                    <span class=\"provision-text\">l'alinéa 3, point c) est abrogé;</span>\n                </li>\n                <li class=\"provision\" data-number=\"B)\">\n                    <span class=\"provision-text\">il est complété par l'alinéa suivant :</span>\n                    <blockquote>\n                        <p>Pour le calcul de la rémunération nette perçue pour le mois considéré visée à l'article 131bis, § 2bis de l'arrêté royal, le montant obtenu conformément à l'alinéa premier est augmenté d'un bonus. Ce bonus est égal à la différence entre une retenue à raison de 13,07 % de la rémunération et le montant de la cotisation personnelle de sécurité sociale calculée de manière forfaitaire, compte tenu de la réduction éventuellement applicable d'application pour les employés. Cette réduction est calculée en fonction d'un salaire à temps plein théorique par l'application de l'article 75quater, alinéa 4, 1° et 2°.</p>\n                    </blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.794Z",
+  "tokenUsage": {
+    "prompt": 1885,
+    "completion": 408,
+    "total": 2293
+  }
+}

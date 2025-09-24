@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008013266",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les allocations d'interruption visées à l'article 3, § 3bis, de la loi du 20 mai 1994 sont, sur la base des règles fixées par la loi du 1er mars 1958, la loi du 27 décembre 1961, la loi du 12 juillet 1973, la loi du 25 mai 2000 et l'arrêté royal du 29 juillet 1997, payées par l'Office national de l'emploi, sauf dans les cas suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">lorsque le militaire exerce une activité professionnelle conformément aux dispositions de l'article 19 de la loi du 14 janvier 1975 portant le règlement de discipline des Forces armées;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">lorsque le militaire exerce depuis plus de douze mois une activité indépendante, conformément aux dispositions visées au 1°.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Dans les cas de retrait temporaire d'emploi par interruption de carrière visés à l'alinéa 1er, 1° et 2°, les allocations d'interruption sont payées, sur la base des mêmes règles, par la Direction générale budget et finances.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.996Z",
+  "tokenUsage": {
+    "prompt": 1896,
+    "completion": 393,
+    "total": 2289
+  }
+}

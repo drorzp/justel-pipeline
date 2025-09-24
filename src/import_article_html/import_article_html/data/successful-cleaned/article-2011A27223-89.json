@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011A27223",
+  "articleNumber": "89",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-89\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 89</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>En cas d'urgence, lorsque la capacité d'hébergement des abris de nuit agréés dans la commune ou les communes limitrophes ne suffit pas à répondre aux demandes d'hébergement des <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2024-04-25/32\" data-law-type=\"DRW\" data-article-number=\"24\">personnes en difficulté sociale</span> dépourvues de logement, le Gouvernement <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-02-20/20\" data-law-type=\"DRW\" data-article-number=\"33\">ou son délégué</span> accorde un accord de principe à tout abri de nuit qui introduit une demande conforme à l'article 82, à l'exception des points 4°, 6°, 8° et 9°, et qui répond aux conditions visées aux articles 72 et 75, 1° et 2°.</p>\n            <p>L'accord de principe détermine la capacité d'hébergement de <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2024-04-25/32\" data-law-type=\"DRW\" data-article-number=\"24\">personnes en difficulté sociale</span> de l'abri de nuit.</p>\n            <p>La durée de l'accord de principe est de <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2016-04-28/02\" data-law-type=\"DRW\" data-article-number=\"4\">cinq</span> mois au maximum.</p>\n            <p>Il n'est pas renouvelable.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.196Z",
+  "tokenUsage": {
+    "prompt": 2119,
+    "completion": 459,
+    "total": 2578
+  }
+}

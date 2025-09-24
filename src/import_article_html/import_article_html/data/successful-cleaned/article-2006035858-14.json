@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006035858",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er de l'annexe I de l'arrêté du Gouvernement flamand du 18 décembre 1998 portant agrément et subventionnement des associations et des structures d'aide sociale dans le cadre des soins à domicile, modifié par l'arrêté du Gouvernement flamand du 17 janvier 2003, les points 4° et 6° sont remplacés par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">\" 4° personnel d'encadrement : les membres du personnel d'un service d'aide aux familles chargés d'enquêtes sociales et de l'encadrement des usagers, du processus d'aide et de services, et le personnel soignant du service d'aide aux familles; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">\" 6° opération quartier : la concertation d'un groupe de membres du personnel soignant d'un service d'aide aux familles sous la supervision d'un membre du personnel encadrant et responsable des services dans un quartier déterminé. Cela se fait dans le but d'offrir des services axés sur les usagers, efficaces, continus et socialement justifiés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.719Z",
+  "tokenUsage": {
+    "prompt": 1869,
+    "completion": 375,
+    "total": 2244
+  }
+}

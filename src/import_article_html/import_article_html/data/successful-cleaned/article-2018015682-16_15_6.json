@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015682",
+  "articleNumber": "16/15/6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16/15/6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16/15/6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-05-03/60\" data-law-type=\"AGF\" data-article-number=\"2\">\n          Au plus tard le 31 mars 2025, l'administration verse aux structures, visées à l'article 16/10, alinéa 1er, 1° à 10°, un montant pour compenser le déploiement de la nouvelle classification des fonctions pour les travailleurs de ces structures, pour les droits de 2025.  \n          Le montant versé aux structures, visées à l'article 16/10, alinéa 1er, 2° à 4°, est égal à 90 % du montant communiqué à l'administration au plus tard le 30 novembre 2024 conformément à l'article 16/15/5, alinéa 1er, 1°, par un organe ou un organisme qui peut procéder aux calculs nécessaires à la lumière de la classification des fonctions envisagée et avec lequel le Gouvernement flamand conclut une convention à cet effet.  \n          Le montant versé aux structures, visées à l'article 16/10, alinéa 1er, 1° et 5° à 10°, est égal à 90 % du montant communiqué à l'administration au plus tard le 31 mars 2025 conformément à l'article 16/15/5, alinéa 1er, 1°, par un organe ou un organisme qui peut procéder aux calculs nécessaires à la lumière de la classification des fonctions envisagée et avec lequel le Gouvernement flamand conclut une convention à cet effet.\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.471Z",
+  "tokenUsage": {
+    "prompt": 2095,
+    "completion": 446,
+    "total": 2541
+  }
+}

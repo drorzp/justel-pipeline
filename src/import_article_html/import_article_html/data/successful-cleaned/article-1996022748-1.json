@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022748",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les honoraires, prix ou interventions de l'assurance obligatoire soins de santé d'application au 31 décembre 1996, qui résultent des conventions ou accords qui sont d'application à cette date, visés aux articles 42 et 50, § 1er, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, préalablement épurés des éventuels montants de rattrapage, sont d'application comme montants maximaux à partir du 1er janvier 1997 et ce, nonobstant des clauses contraires contenues dans des conventions ou accords applicables en 1997.\n      </p>\n      <p class=\"intro-text\">\n        L'alinéa précédent n'est pas d'application aux honoraires, prix ou interventions faisant l'objet des conventions avec les services et établissements visés à l'article 34, 11°, 12° et 18° de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.\n      </p>\n      <p class=\"closing-text\">\n        La limitation visée à l'alinéa 1er s'applique toutefois aux prestations et conventions résultant de l'application de l'article 23, § 2, alinéa 1er, de la loi coordonnée précitée.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.106Z",
+  "tokenUsage": {
+    "prompt": 1923,
+    "completion": 374,
+    "total": 2297
+  }
+}

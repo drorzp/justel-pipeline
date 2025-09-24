@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017012524",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 764 du Code judiciaire, modifié en dernier lieu par la loi du 29 février 2016, les modifications suivantes sont apportées :</p>\n            <ol class=\"sub-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"sub-provision-text\">dans l'alinéa 1er, le 9°, abrogé par la loi du 1er juillet 2006, est rétabli dans la rédaction suivante :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"9°\">\n                            <span class=\"provision-text\">les demandes et convocations par application de l'article 182, § 3, du Code des sociétés, en dissolution judiciaire de sociétés visées à l'article 182 du Code des sociétés;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"sub-provision-text\">dans l'alinéa 4, les mots \"à l'alinéa 1er, 10°, \" sont remplacés par les mots \"à l'alinéa 1er, 9° et 10°, \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.605Z",
+  "tokenUsage": {
+    "prompt": 1801,
+    "completion": 356,
+    "total": 2157
+  }
+}

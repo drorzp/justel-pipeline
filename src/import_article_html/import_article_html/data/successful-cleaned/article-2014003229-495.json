@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003229",
+  "articleNumber": "495",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-495\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 495</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le gestionnaire concerné transmet préalablement à la FSMA une notification pour chaque OPCA qu'il a l'intention de commercialiser en Belgique. Cette notification comprend :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la documentation et les informations visées à l'article 86, alinéa 2, 1°, 2°, 4°, 5° et 6° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'identité de l'entité désignée pour exécuter les missions visées à l'article 21, paragraphes 7, 8 et 9 de la Directive 2011/61/UE;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">la démonstration qu'il est satisfait aux exigences de l'article 494.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Au cas où il est satisfait aux exigences de l'article précédent, la FSMA indique au gestionnaire qu'il peut entamer la commercialisation. Les articles 88 et 89 sont applicables.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.063Z",
+  "tokenUsage": {
+    "prompt": 1824,
+    "completion": 367,
+    "total": 2191
+  }
+}

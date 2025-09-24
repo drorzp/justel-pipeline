@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000663",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les frontières des provinces, des zones de secours et des communes ne forment pas obstacle à l'intervention des postes telle que prévue <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/22\" data-law-type=\"L\" data-article-number=\"67\">à l'article 6, § 1er</span>.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.812Z",
+  "tokenUsage": {
+    "prompt": 1635,
+    "completion": 163,
+    "total": 1798
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005003036",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 44</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 202, § 2, du même Code, inséré par l'arrêté royal du 20 décembre 1996 et modifié par la loi du 10 mars 1999 et par les arrêtés royaux du 20 juillet 2000, du 13 juillet 2001 et du 24 décembre 2002, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'alinéa 6 est remplacé par le texte suivant :</span>\n                    <blockquote class=\"provision-quote\">\" La fiction de non-transfert de propriété visée à l'article 2, § 2 ne s'applique pas pour déterminer si la condition visée à l'alinéa 1er, 1° est remplie. \"</blockquote>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le paragraphe est complété par l'alinéa suivant :</span>\n                    <blockquote class=\"provision-quote\">\" En outre, les revenus visés au § 1er, alinéa 1er, 1° et 2°, recueillis en raison d'actions ou parts qui ont été acquises en vertu d'une convention constitutive de sûreté réelle ou d'un prêt portant sur des instruments financiers, ne sont pas déductibles. \"</blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.747Z",
+  "tokenUsage": {
+    "prompt": 2015,
+    "completion": 410,
+    "total": 2425
+  }
+}

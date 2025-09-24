@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009201591",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                Toute distinction directe fondée sur l'un des critères protégés visé à l'article 3, 1° et 2°, à l'exception de la nationalité, constitue une discrimination.\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                Toute distinction directe fondée sur la nationalité ou sur l'un des critères protégés visé à l'article 3, 3°, constitue une discrimination directe, à moins que cette distinction directe ne soit objectivement justifiée par un but légitime et que les moyens de réaliser ce but soient appropriés et nécessaires. L'alinéa 1er ne permet cependant en aucun cas de justifier une distinction directe fondée sur la nationalité qui serait interdite par le droit de l'Union européenne.\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.938Z",
+  "tokenUsage": {
+    "prompt": 1812,
+    "completion": 298,
+    "total": 2110
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043205",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 42</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La présente loi entre en vigueur le 1er janvier 2023 à l'exception:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">des articles 11 à 15, qui entrent en vigueur le 1er avril 2023;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">des articles 2,</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"2°\">\n                            <span class=\"provision-text\">4, 7,</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"4°\">\n                            <span class=\"provision-text\">et 9, qui entrent en vigueur le 1er janvier 2024;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">de l'article 38, qui entre en vigueur le 31 décembre 2022.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">En ce qui concerne l'article 4, le Roi peut fixer une date d'entrée en vigueur antérieure à celle mentionnée à la phrase introductive de l'alinéa 1er.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.873Z",
+  "tokenUsage": {
+    "prompt": 1816,
+    "completion": 398,
+    "total": 2214
+  }
+}

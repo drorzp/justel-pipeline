@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991007421",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Il est définitivement mis un terme à la formation en qualité de candidat dans les cas suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">par l'admission du candidat dans la catégorie du personnel de carrière ou de complément pour laquelle il a été formé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">par la perte de la qualité de candidat;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">par résiliation de plein droit ou d'office de l'engagement ou du rengagement des candidats visés à l'articles 2, alinéa 1er, 1° [...], et alinéa 2; <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1994-05-20/31\" data-law-type=\"L\" data-article-number=\"82\">&lt;L 1994-05-20/31, art. 82, 002;**En vigueur :**15-08-1994&gt;</span></span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">par retrait définitif de l'emploi des candidats visés à l'article 2, alinéa 1er, 2° et 3°.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Afin de permettre au candidat de terminer sa formation avec succès, la période de formation peut exceptionnellement être prolongée au conditions et dans les cas que le Roi fixe.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.741Z",
+  "tokenUsage": {
+    "prompt": 1945,
+    "completion": 463,
+    "total": 2408
+  }
+}

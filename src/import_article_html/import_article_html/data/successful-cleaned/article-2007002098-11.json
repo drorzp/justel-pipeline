@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007002098",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les domaines visés aux articles 6, § 1er, 2°, 6, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3° et 6, § 1er,</span></li>\n            </ol>\n            <p class=\"closing-text\">7°, une distinction directe fondée sur le sexe constitue une discrimination directe, sauf dans les hypothèses visées aux articles 16, 17 et 18.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.817Z",
+  "tokenUsage": {
+    "prompt": 1550,
+    "completion": 205,
+    "total": 1755
+  }
+}

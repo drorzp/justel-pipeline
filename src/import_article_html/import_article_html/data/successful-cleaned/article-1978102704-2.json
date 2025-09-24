@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1978102704",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'année 1978, le Fonds spécial de l'aide sociale est réparti entre les centres publics d'aide sociale de la région bruxelloise au prorata des quotes-parts que les communes concernées ont obtenues, pour l'année 1977, dans les répartitions visées aux articles 2, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">3°, 3, 4, 5, 6 et 7 de l'arrêté royal du 28 janvier 1977 fixant les règles de répartition de la part du Fonds des communes revenant aux communes de la région bruxelloise et dans les répartitions du Fonds spécial institué au profit de certaines communes.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.694Z",
+  "tokenUsage": {
+    "prompt": 1697,
+    "completion": 277,
+    "total": 1974
+  }
+}

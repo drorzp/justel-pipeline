@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003031327",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 40</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 110, modifié par l'article 60,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de la loi du 5 août 1992 est remplacé par la disposition suivante:</span></li>\n            </ol>\n            <p class=\"closing-text\">&quot; Art. 110. L'autorité qui émet un avis défavorable concernant une décision prise par le centre public d'aide sociale ou qui refuse de donner son autorisation ou son approbation doit motiver sa décision. Si aucun avis ou décision n'est notifié au centre au plus tard le dernier jour du délai comme déterminé dans la loi, l'autorité de tutelle est censée avoir émis un avis favorable ou avoir accordé l'autorisation ou l'approbation requise. Lorsque le délai n'est pas déterminé, celui-ci est fixé à quarante jours. Ce délai commence le lendemain de la réception de l'acte par l'autorité compétente. L'autorité de tutelle peut prolonger le délai d'une fois quarante jours, pour autant que cette prolongation soit notifiée par lettre recommandée au plus tard le dernier jour du premier délai de quarante jours.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.625Z",
+  "tokenUsage": {
+    "prompt": 1874,
+    "completion": 377,
+    "total": 2251
+  }
+}

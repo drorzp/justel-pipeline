@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032641",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les délégations suivantes sont données au Directeur :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">décider, par décision motivée, d'appliquer des pénalités, des amendes ou des moins-values ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">décider, par décision motivée, de classer sans suite les procès-verbaux de constat ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">d'accorder, en application de l'article 50 de l'Arrêté Royal exécution, une remise sur les amendes de retard et les pénalités ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">décider d'appliquer les mesures d'office prévues à l'art. 47 § 2, premier paragraphe, 2° et 3° et les dispositions correspondantes de l'art. 87 de l'Arrêté Royal exécution;</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Le Ministre reste compétent pour prendre les mesures d'office comme définies à l'article 47 § 2, premier paragraphe, 1° et des dispositions correspondantes de l'art. 87 de l'Arrêté Royal exécution et pour décider de l'exclusion des marchés en application des articles 48 et 49 du même arrêté.</p>\n        </div>\n      </section>\n      <p>Révisions de prix contractuelles, intérêts de retard et libération de cautionnement :</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.191Z",
+  "tokenUsage": {
+    "prompt": 1957,
+    "completion": 543,
+    "total": 2500
+  }
+}

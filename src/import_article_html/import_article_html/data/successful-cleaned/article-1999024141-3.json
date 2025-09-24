@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999024141",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par &quot;patient palliatif à domicile&quot; dans le sens du présent arrêté il y a lieu d'entendre le patient :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">qui souffre d'une ou plusieurs affections irréversibles;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">dont l'évolution est défavorable, avec une détérioration sévère généralisée de sa situation physique/psychique;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">chez qui des interventions thérapeutiques et la thérapie revalidante n'influencent plus cette évolution défavorable;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">pour qui le pronostic de(s) l'affection(s) est mauvais et pour qui le décès est attendu dans un délai assez bref (espérance de vie de plus de 24 heures et de moins de trois mois);</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">ayant des besoins physiques, psychiques, sociaux et spirituels importants nécessitant un engagement soutenu et long; le cas échéant, il est fait appel à des intervenants possédant une qualification spécifique et à des moyens techniques appropriés;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">ayant l'intention de mourir à domicile;</span></li>\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">et qui répond aux conditions mentionnées dans la formule annexée au présent arrêté.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.294Z",
+  "tokenUsage": {
+    "prompt": 1984,
+    "completion": 483,
+    "total": 2467
+  }
+}

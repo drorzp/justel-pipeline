@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017201284",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 3 de la même loi, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, les mots \"par le Roi\" sont supprimés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'article est complété par les alinéas 2, 3 et 4 rédigés comme suit :</span>\n                    <blockquote>\n                        <p>Le présent chapitre s'applique également aux concessions qui relèvent de la loi relative aux concessions et dont la valeur atteint le montant fixé pour la publicité européenne.</p>\n                        <p>L'article 4, alinéa 1er, 2° et 3°, n'est pas applicable aux marchés publics portant sur des services sociaux et autres services spécifiques visés à l'annexe III de la loi relative aux marchés publics.</p>\n                        <p>Lorsque l'estimation initiale du marché ou de la concession est inférieure au montant fixé pour la publicité européenne, mais que le montant hors taxe sur la valeur ajoutée de l'offre à approuver est supérieur de plus de 20 % à ce montant fixé, le présent chapitre est applicable, à l'exception de l'article 4, alinéa 1er, 1° à 6°, alinéas 2 et 3, de l'article 4/1, alinéa 1er, 1° et 2°, et alinéa 2, et des articles 7 et 7/1, et étant entendu que l'application du chapitre 2 précède celle du présent chapitre. Le présent alinéa ne s'applique pas dans le cas prévu par l'article 12, 1°.</p>\n                    </blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.632Z",
+  "tokenUsage": {
+    "prompt": 2080,
+    "completion": 498,
+    "total": 2578
+  }
+}

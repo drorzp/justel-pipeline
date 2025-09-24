@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001003669",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour l'année 2002, le produit de la réduction des cotisations patronales dues en application de l'article 35, § 5, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés dont disposent les Fonds sectoriels est diminué de 49 578 705 EUR.</p>\n        <p>Cette diminution du montant versé par la Gestion Globale de la Sécurité sociale aux fonds sectoriels visés à l'article 35, § 5, alinéa 3, 1°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés ainsi qu'à ceux visés à l'article 71, 1° et 2°, de la loi du 26 mars 1999 relative au plan d'action belge pour l'emploi 1998 et portant des dispositions diverses a lieu lors des versements relatifs au second semestre 2002.</p>\n        <p>Par arrêté délibéré en Conseil des ministres, le Roi détermine le montant de la réduction appliquée à chaque fonds sectoriel. Ce montant est proportionnel aux moyens disponibles non récurrents dont dispose chaque fonds à la date du 31 décembre 2001.</p>\n        <p>La participation du fonds visé à l'article 1er, § 7, 1°, de la loi du 1er août 1985 portant des dispositions sociales à la diminution du produit de la réduction des cotisations patronales prévue par le présent article prend la forme d'un versement à concurrence du montant déterminé par arrêté délibéré en Conseil des ministres aux fonds sectoriels visés à l'article 35, § 5, alinéa 3, 1°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés ainsi qu'à ceux visés à l'article 71, 1° et 2° de la loi du 26 mars 1999 relative au plan d'action belge pour l'emploi 1998 et portant des dispositions diverses.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.216Z",
+  "tokenUsage": {
+    "prompt": 2221,
+    "completion": 549,
+    "total": 2770
+  }
+}

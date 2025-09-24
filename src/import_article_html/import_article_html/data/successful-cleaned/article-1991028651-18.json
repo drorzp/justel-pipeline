@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991028651",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>La demande d'autorisation de fusion de concessions est adressée à l'administration par le titulaire des concessions à fusionner, dans les formes prévues à l'article 2.</p>\n        <p>La demande est établie dans les conditions prévues à l'article 3, § 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1°</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">4°</span>\n          </li>\n          <li class=\"provision\" data-number=\"5°\">\n            <span class=\"provision-text\">5°</span>\n          </li>\n        </ol>\n        <p>et accompagnée des documents visés à l'article 3, § 2,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1°</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">4°</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.010Z",
+  "tokenUsage": {
+    "prompt": 1539,
+    "completion": 384,
+    "total": 1923
+  }
+}

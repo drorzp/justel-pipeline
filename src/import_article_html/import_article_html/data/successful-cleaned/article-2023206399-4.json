@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023206399",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le cadre de la programmation visée à l'article 3, le Gouvernement peut octroyer, dans les limites des crédits budgétaires disponibles, une subvention :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au milieu d'accueil de type 1 dans le but d'assurer le maintien de places;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au titulaire du droit réel sur un bâtiment abritant un milieu d'accueil de type 1, s'il est distinct dudit milieu d'accueil, dans le but d'assurer le maintien de places pour autant qu'il soit organisé par une personne morale de droit public, une fondation, une société coopérative agréée comme entreprise sociale ou une association sans but lucratif;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">à une personne morale de droit public, à une fondation, une coopérative agréée comme entreprise sociale ou à une association sans but lucratif, qui n'est pas un milieu d'accueil de type 1, pour l'achat d'un bâtiment visé à l'article 5, alinéa 1er, 1° et 2°, dans le but d'abriter un milieu d'accueil de type 1 et d'assurer le maintien de ses places.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Le Gouvernement arrête les modalités, les montants et les conditions d'octroi de la subvention.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.421Z",
+  "tokenUsage": {
+    "prompt": 1953,
+    "completion": 440,
+    "total": 2393
+  }
+}

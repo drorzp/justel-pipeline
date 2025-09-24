@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1980080802",
+  "articleNumber": "162",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-162\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 162</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article 42,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de l'arrêté royal nr 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants, la subvention allouée à l'Institut national d'assurances sociales pour travailleurs indépendants est fixée pour 1980 à 15 520,2 millions à l'indice pivot 134,77.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.694Z",
+  "tokenUsage": {
+    "prompt": 1600,
+    "completion": 243,
+    "total": 1843
+  }
+}

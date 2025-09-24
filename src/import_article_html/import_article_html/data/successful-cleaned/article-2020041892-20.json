@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020041892",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le titre 8, chapitre 2, du même Code, il est inséré un article 225/2 rédigé comme suit:</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 225/2.</h3>\n        <div class=\"paragraph-content\">\n          <p class=\"intro-text\">Le Roi fixe, par arrêté délibéré en Conseil des ministres, la date d'entrée en application des articles 68, 69, 70, § 3, 74, § 1er, 5°, 94/1, § 2, alinéa 3, 2° et 216/3, § 1er, 1° et 2°.</p>\n          <p class=\"intro-text\">Les utilisateurs de l'infrastructure, le gestionnaire de l'infrastructure, les organismes désignés, l'Autorité de sécurité et l'Administration se mettent en conformité avec les articles 68, 69, 70, § 3, 74, § 1er, 5°, 94/1, § 2, alinéa 3, 2° et 216/3, § 1er, 1° et 2° tels que modifiés par la loi du 23 juin 2020 modifiant la loi du 30 août 2013 portant le Code ferroviaire, à la date fixée conformément à l'alinéa 1er.</p>\n          <p class=\"intro-text\">En vue de l'application de l'alinéa 2, les articles 68, 69, 70, § 3, 74, § 1er, 5°, 94/1, § 2, alinéa 3, 2° et 216/3, § 1er, 1° et 2° tels qu'ils étaient en vigueur avant l'entrée en vigueur de la loi du 23 juin 2020 modifiant la loi du 30 août 2013 portant le Code ferroviaire, continuent à s'appliquer aux utilisateurs de l'infrastructure, au gestionnaire de l'infrastructure, aux organismes désignés, à l'Autorité de sécurité et à l'Administration jusqu'au jour précédant la date fixée conformément à l'alinéa 1er.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.164Z",
+  "tokenUsage": {
+    "prompt": 2558,
+    "completion": 590,
+    "total": 3148
+  }
+}

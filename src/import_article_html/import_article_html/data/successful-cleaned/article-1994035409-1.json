@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994035409",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les parties normatives du plan de secteur définitivement fixé dans le sens de l'article 13bis, troisième et quatrième alinéa, de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme, sont les documents ayant trait aux données visées à l'article 12, premier alinéa, 2° et 3°, de la même loi.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.122Z",
+  "tokenUsage": {
+    "prompt": 1575,
+    "completion": 168,
+    "total": 1743
+  }
+}

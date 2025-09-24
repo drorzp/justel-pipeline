@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000663",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        A moins qu'ils n'aient été convoqués valablement antérieurement, le mandat des conseillers zonaux prend cours le premier jour ouvrable du troisième mois qui suit la date d'entrée en fonction des conseils communaux élus après un renouvellement complet, ou au plus tard le premier jour du \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/22\" data-law-type=\"L\" data-article-number=\"80\">troisième mois</span> \n        qui suit celui au cours duquel le résultat de leur élection est devenu définitif.\n      </p>\n      <p>\n        Les conseillers zonaux poursuivent leur mandat jusqu'à l'installation du nouveau conseil.\n      </p>\n      <p>\n        Le conseiller zonal démissionnaire reste en fonction jusqu'à la prestation de serment de son remplaçant. \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2015-11-09/19\" data-law-type=\"L\" data-article-number=\"17\">...</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.816Z",
+  "tokenUsage": {
+    "prompt": 1921,
+    "completion": 322,
+    "total": 2243
+  }
+}

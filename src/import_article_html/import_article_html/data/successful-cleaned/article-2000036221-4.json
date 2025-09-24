@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000036221",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le même décret est inséré un article 92bis, rédigé comme suit : \" Article 92bis. Par dérogation à l'article 92, § 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">, du présent décret, les frais liés à la natation gratuite pendant une année scolaire, à laquelle tout élève de l'enseignement primaire a droit, ne sont pas considérés comme un avantage social.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.257Z",
+  "tokenUsage": {
+    "prompt": 1592,
+    "completion": 231,
+    "total": 1823
+  }
+}

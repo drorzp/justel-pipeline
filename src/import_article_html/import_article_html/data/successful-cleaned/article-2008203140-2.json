@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008203140",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n   <header class=\"article-header\">\n      <h2 class=\"article-number\">Article 2</h2>\n   </header>\n   <div class=\"article-content\">\n      <div class=\"article-text\">\n         <p class=\"intro-text\">A l'article 3, alinéa 2, 1°,</p>\n         <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n               <span class=\"provision-text\">et</span>\n            </li>\n         </ol>\n         <p class=\"closing-text\">4°, du même décret, après les mots \"dans le domaine agricole\", sont ajoutés les mots \"ou du milieu naturel\".</p>\n         <p class=\"closing-text\">Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.</p>\n         <p class=\"closing-text\">Namur, le 17 juillet 2008.</p>\n         <p class=\"closing-text\">Le Ministre-Président, R. DEMOTTE</p>\n         <p class=\"closing-text\">Le Ministre du Logement, des Transports et du Développement territorial, A. ANTOINE</p>\n         <p class=\"closing-text\">Le Ministre du Budget, des Finances et de l'Equipement, M. DAERDEN</p>\n         <p class=\"closing-text\">Le Ministre des Affaires intérieures et de la Fonction publique, Ph. COURARD</p>\n         <p class=\"closing-text\">Le Ministre de l'Economie, de l'Emploi, du Commerce extérieur et du Patrimoine, J.-C. MARCOURT</p>\n         <p class=\"closing-text\">La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures, Mme M.-D. SIMONET</p>\n         <p class=\"closing-text\">Le Ministre de la Formation, M. TARABELLA</p>\n         <p class=\"closing-text\">Le Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances, D. DONFUT</p>\n         <p class=\"closing-text\">Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme, B. LUTGEN.</p>\n      </div>\n   </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.922Z",
+  "tokenUsage": {
+    "prompt": 1940,
+    "completion": 514,
+    "total": 2454
+  }
+}

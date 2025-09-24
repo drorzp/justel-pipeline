@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032103",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Le chapitre 2 de l'arrêté du Gouvernement flamand du 25 juillet 2014 fixant les attributions des membres du Gouvernement flamand, modifié en dernier lieu par l'arrêté du Gouvernement flamand du 22 décembre 2017, est complété par un article 13/5, rédigé comme suit:\n      </p>\n      <p class=\"intro-text\">\n        \" Art. 13/5. Le Ministre flamand chargé de la politique énergétique, a la délégation de statuer sur la date de début et la prolongation de la situation d'urgence civile, visée à l'article 4, alinéa 1er, 2° et 3°, du décret du 17 octobre 2018 portant dérogation à l'obligation régionale d'autorisation en situation d'urgence civile.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.408Z",
+  "tokenUsage": {
+    "prompt": 1704,
+    "completion": 262,
+    "total": 1966
+  }
+}

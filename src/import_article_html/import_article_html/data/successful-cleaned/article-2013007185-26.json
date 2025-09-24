@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013007185",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 11 de la même loi est remplacé par ce qui suit: &quot;Art. 11. Ne justifie pas des qualités morales indispensables visées à l'article 9, alinéa 1er, 3°, le postulant qui, selon le cas:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">a été condamné à une peine criminelle;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">a été condamné à une peine correctionnelle de trois mois ou plus, à l'exception des infractions que le Roi détermine en fonction de leur compatibilité avec l'état de militaire;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">a été destitué d'un emploi public ou a été déchu de l'un des droits prévus à l'article 31, 1° et 6°, du Code pénal, indépendamment de l'infraction commise;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">comme militaire de réserve, a fait l'objet d'un retrait d'office du grade ou d'un retrait du grade parce qu'il s'est rendu coupable de faits graves incompatibles avec son état de militaire ou, selon le cas, a été mis prématurément, pour les mêmes motifs, en disponibilité, en congé illimité ou en congé définitif lorsqu'il effectuait des prestations volontaires d'encadrement.&quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.020Z",
+  "tokenUsage": {
+    "prompt": 1991,
+    "completion": 461,
+    "total": 2452
+  }
+}

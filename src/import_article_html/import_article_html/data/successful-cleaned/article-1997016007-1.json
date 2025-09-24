@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997016007",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 31, § 4bis, alinéa 1er, de l'arrêté royal du 22 décembre 1967 portant règlement général relatif à la pension de retraite et de survie des travailleurs indépendants, inséré par l'arrêté royal du 2 juillet 1981 et modifié par l'arrêté royal du 20 septembre 1984, est remplacé par la disposition suivante :</p>\n      <blockquote class=\"replacement-text\">\n        <p>\" L'assimilation des périodes visées au § 2, alinéa 3,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">, est, lorsqu'elles se situent après le 30 septembre 1981, subordonnée au paiement de cotisations. Ces cotisations sont, par trimestre civil, égales à 60 pc de la cotisation trimestrielle minimum due par les assujettis visés à l'article 12, § 1er, de l'arrêté royal n° 38, pour le trimestre au cours duquel la cotisation destinée à l'assimilation est payée. \"</span>\n          </li>\n        </ol>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.033Z",
+  "tokenUsage": {
+    "prompt": 1844,
+    "completion": 381,
+    "total": 2225
+  }
+}

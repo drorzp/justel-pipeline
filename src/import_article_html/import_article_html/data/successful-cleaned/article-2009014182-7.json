@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009014182",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 74bis, § 2, du même arrêté, inséré par l'arrêté royal du 21 août 2008, les mots &quot;l'article 4, 4°, 5° et 7° de l'arrêté royal relatif au permis de conduire pour les candidats qui y ont suivi une formation&quot; sont remplacés par les mots &quot;l'article 4,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">de l'arrêté royal relatif au permis de conduire pour les candidats qui y ont suivi une formation et par les organismes visés à l'article 4,</span></li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">de l'arrêté royal relatif au permis de conduire pour les candidats qui ont suivi une formation dans un organisme visé à l'article 4,</span></li>\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">ou</span></li>\n        <li class=\"provision\" data-number=\"15°\"><span class=\"provision-text\">de cet arrêté. &quot;</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.037Z",
+  "tokenUsage": {
+    "prompt": 1896,
+    "completion": 394,
+    "total": 2290
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011000097",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Article 10, du même arrêté, est remplacé comme suit : \" Art. 10. Le transport protégé de catégorie 3 comporte le transport de billets de banque sans que ceux-ci se trouvent dans un conteneur qui est équipé d'un système de neutralisation. Ce transport protégé peut uniquement être exécuté :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">pour un transport zonal;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">pour un transport protégé dans les espaces non accessibles au public des aéroports;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">pour un transport au détail autre que visé au 2°, pour lequel le Ministre de l'Intérieur, sur base d'une demande motivée de l'entreprise de gardiennage, octroie une exception.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le transport protégé de catégorie 3 est exécuté avec un véhicule, avec un équipage de minimum deux agents de gardiennage. Le transport, visé au 1° et 3°, est à tout instant escorté par la police fédérale. Le transport visé au 2°, s'effectue sous la surveillance de la police fédérale. \"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.344Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 402,
+    "total": 2299
+  }
+}

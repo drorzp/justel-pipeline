@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012205538",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le demandeur peut demander à tout moment la réévaluation de l'avis provisoire :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">s'il dispose d'éléments qui ne pouvaient pas être soumis dans la demande de l'avis provisoire original;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">si des circonstances se produisent qui peuvent avoir un effet important sur l'évaluation, telle que visée, selon le cas, à l'article 11 ou aux articles 26 et 28 du Décret sur le Commerce des armes.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Dans les deux cas, visés à l'alinéa premier, 1° et 2°, il relève de la responsabilité du demandeur de demander la réévaluation de l'avis provisoire.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.171Z",
+  "tokenUsage": {
+    "prompt": 1711,
+    "completion": 298,
+    "total": 2009
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030839",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les subventions de fonctionnement visées à l'article 3, alinéa 3,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">, ne peuvent être octroyées qu'à des organisations socioculturelles pour adultes dont la demande de subvention satisfait aux conditions de recevabilité énoncées à l'article 5 et aux conditions de subvention énoncées à l'article 14.</span></li>\n      </ol>\n      <p class=\"intro-text\">La subvention de fonctionnement visée à l'article 3, alinéa 3,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">, ne peut être octroyée qu'à une organisation dont la demande de subvention satisfait aux conditions de recevabilité visées à l'article 5.</span></li>\n      </ol>\n      <p class=\"closing-text\">L'octroi d'une subvention de fonctionnement implique automatiquement l'agrément en tant qu'organisation socioculturelle pour adultes.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.713Z",
+  "tokenUsage": {
+    "prompt": 1795,
+    "completion": 361,
+    "total": 2156
+  }
+}

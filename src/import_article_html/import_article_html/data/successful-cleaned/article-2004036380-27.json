@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004036380",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 27</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Après chaque renouvellement partiel du conseil d'église, les délégués des conseils d'église des fabriques d'église sont élus par un scrutin secret et séparé pour un durée de trois ans par l'assemblée de tous les membres désignés ou élus des conseils d'église des fabriques d'église en question. Ils sont élus à la majorité absolue des voix.<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-07-06/20\" data-law-type=\"DCFL\" data-article-number=\"15\">Afin de délibérer valablement, la majorité des membres désignés ou élus des conseils d'église des fabriques d'église en question doit être présente. Cependant, après avoir été convoquée une première fois sans que le nombre de membres requis ne se soient présentés, l'assemblée peut délibérer valablement sur la même élection après une deuxième convocation, quel que soit le nombre de membres présents.</span> Lorsqu'il n'y a qu'un seul candidat pour le mandat vacant, l'élection a lieu en un tour de scrutin. Lorsque plusieurs candidats se présentent pour un mandat et qu'aucun candidat n'a obtenu la majorité après le vote, il est procédé à un nouveau tour de scrutin entre les deux candidats ayant obtenu le plus de voix. En cas de parité des voix lors du nouveau vote, le membre le plus jeune est élu. L'expert est désigné par les membres, visés à l'article 26, 1° et 2°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.696Z",
+  "tokenUsage": {
+    "prompt": 2099,
+    "completion": 410,
+    "total": 2509
+  }
+}

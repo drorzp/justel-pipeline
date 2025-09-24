@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035921",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 6 de l'arrêté du Gouvernement flamand du 18 novembre 1997 relatif à la réduction du tarif des droits de succession pour les entreprises familiales et les sociétés de famille, le § 1er est remplacé par ce qui suit :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>\"Pour satisfaire à l'obligation définie à l'article 60bis, § 11, troisième alinéa, du Code des droits de succession, les héritiers doivent confirmer par écrit à l'administration, selon le modèle figurant en annexe 3bis, que les conditions de l'article 60bis du Code des droits de succession continuent à être remplies.</p>\n                    <p>Dans le § 1 de cet article, les mots \"chaque année\" sont remplacés par les mots \"après une période de cinq ans\", et dans le § 2:</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">les mots \"l'année révolue\" sont remplacés par les mots \"les cinq années révolues\".</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">les mots \"cette année\" sont remplacés par les mots \"ces cinq années\".</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.266Z",
+  "tokenUsage": {
+    "prompt": 1891,
+    "completion": 419,
+    "total": 2310
+  }
+}

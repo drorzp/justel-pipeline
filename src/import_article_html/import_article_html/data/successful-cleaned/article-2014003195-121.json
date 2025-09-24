@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003195",
+  "articleNumber": "121",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-121\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 121</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 98, § 1er, de la même loi, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 3°, les mots \"un établissement de crédit tel que défini à l'article 1er, alinéa 2, de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit,\" sont remplacés par les mots \"un établissement de crédit tel que défini à l'article 1er, § 3, de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit,\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au 4°, a), les mots \"au sens de l'article 3, § 1er, 5°, de la loi du 22 mars 1993, une entreprise de services bancaires auxiliaires au sens de l'article 32, § 4, 5°, de la même loi;\" sont remplacés par les mots \"au sens de l'article 3, 41°, de la loi du 25 avril 2014, une entreprise de services bancaires auxiliaires au sens de l'article 89, paragraphe 1er, b), ii) du Règlement n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d'investissement et modifiant le règlement (UE) n° 648/2012;\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au 6°, les mots \"à l'article 49 de la loi du 22 mars 1993\" sont remplacés par les mots \"à l'article 3, 27° et aux Sections Ire, II et IV du Livre II, Titre III, Chapitre IV de la loi du 25 avril 2014\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.033Z",
+  "tokenUsage": {
+    "prompt": 2208,
+    "completion": 556,
+    "total": 2764
+  }
+}

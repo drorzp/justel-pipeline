@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996801810",
+  "articleNumber": "M12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-M12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article M12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La température du local doit se situer entre 5° et 20°. Le taux d'humidité doit être compris entre 20% et 80% (humidité relative calculée sans condensation).</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.115Z",
+  "tokenUsage": {
+    "prompt": 1437,
+    "completion": 121,
+    "total": 1558
+  }
+}

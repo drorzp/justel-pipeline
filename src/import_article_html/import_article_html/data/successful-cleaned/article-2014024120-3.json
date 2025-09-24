@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014024120",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 2bis, § 2, du même arrêté, inséré par l'arrêté royal du 16 juin 1999, est remplacé comme suit :</p>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>\"Les articles 20, 66, 72, à l'exception de la disposition imposant l'intégration dans le programme visé à l'article 36 comme condition d'agrément, 73, 74, 75, 76 et 78 de la loi précitée relative aux hôpitaux et à d'autres établissements de soins, s'appliquent aux programmes de soins A visés au § 1er, 1°.</p>\n                <p>Les articles 20, 36, 60, 66, 72, 73, 74, 75, 76 et 78 de la loi précitée relative aux hôpitaux et à d'autres établissements de soins, s'appliquent aux programmes de soins B visés au § 1er, 2°. En outre, l'article 59 est d'application au programme partiel B1.</p>\n                <p>Les articles 20, 60, 66, 72, 73, 74, 75, 76 et 78 de la loi précitée relative aux hôpitaux et à d'autres établissements de soins s'appliquent aux programmes de soins P, E, T et C visés au § 1er, 3°, 4°, 5° et 6°.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.193Z",
+  "tokenUsage": {
+    "prompt": 2015,
+    "completion": 432,
+    "total": 2447
+  }
+}

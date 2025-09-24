@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025005434",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application de l'article 4, alinéa 2, 5°, le traitement des données à caractère personnel concerne les catégories suivantes de données à caractère personnel :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le numéro de registre national ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le numéro d'identification de la Sécurité sociale ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les données d'identification ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">la profession et l'emploi ;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">les enregistrements sonores ;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">les enregistrements visuels ;</span></li>\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">les caractéristiques personnelles ;</span></li>\n        <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">l'éducation et la formation ;</span></li>\n        <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">les données relatives à la santé ;</span></li>\n        <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">les données raciales ou ethniques.</span></li>\n      </ol>\n      <p class=\"closing-text\">Le traitement de la catégorie de données à caractère personnel visée à l'alinéa 1er, 9° et 10°, est considéré comme un traitement nécessaire pour des motifs d'intérêt public important tel que visé à l'article 9, paragraphe 2, g), du règlement général sur la protection des données.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.728Z",
+  "tokenUsage": {
+    "prompt": 2018,
+    "completion": 540,
+    "total": 2558
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997014139",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Article [1]. A l'article 2 de l'arrêté royal du 25 novembre 1992 portant le règlement général relatif au transport rémunéré de choses par véhicules automobiles, le 10° et le 11° sont remplacés par les dispositions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">\"transport combiné\" : le transport de marchandises dont les parcours initiaux et/ou terminaux s'effectuent par la route et pour lequel un véhicule, une caisse mobile ou un conteneur de 20 pieds (6,096 mètres) et plus sont acheminés par chemin de fer et/ou par voie navigable intérieure et/ou par voie maritime lorsque la longueur du parcours maritime excède 100 km à vol d'oiseau;</span>\n                </li>\n                <li class=\"provision\" data-number=\"11°\">\n                    <span class=\"provision-text\">\"caisse mobile\" : la partie d'un véhicule destinée à recevoir le chargement, qui peut être détachée du véhicule et y être réintégrée; \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.026Z",
+  "tokenUsage": {
+    "prompt": 1781,
+    "completion": 329,
+    "total": 2110
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003182",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La fonction de concierge est octroyée à un des candidats selon l'ordre de priorité suivant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le candidat classé par le comité de sélection dans le groupe A ou, à défaut, le candidat classé dans le groupe B;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">si plusieurs candidats sont classés dans le même groupe, le membre du personnel qui démontre le mieux qu'il peut exercer de façon permanente les tâches de concierge, tel que prévu à l'article 4, 2°, 3° et 5° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">à égalité de classement conformément au 2°, la préférence est donnée au candidat appartenant au niveau le moins élevé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">à égalité de classement conformément au 3°, le membre du personnel qui a l'ancienneté de service la plus élevée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">à égalité d'ancienneté de service, le membre du personnel le plus âgé.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">L'ancienneté de service des membres du personnel contractuels est fixée conformément aux dispositions applicables aux agents de l'Etat.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.310Z",
+  "tokenUsage": {
+    "prompt": 1910,
+    "completion": 447,
+    "total": 2357
+  }
+}

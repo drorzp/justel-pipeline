@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011429",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les articles 2, 3, 4, 5, 6, 7, 1°, 2°, 4° et 5°, 8, 9, 1° et 3°, 10 et 11, entrent en vigueur le 1er mars 2019.</p>\n            <p class=\"closing-text\">Les articles 7, 3°, et 9, 2°, entrent en vigueur le 1er janvier 2020 et sont applicables à partir de l'exercice d'imposition 2021 se rattachant à une période imposable qui débute au plus tôt le 1er janvier 2020.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.454Z",
+  "tokenUsage": {
+    "prompt": 1717,
+    "completion": 226,
+    "total": 1943
+  }
+}

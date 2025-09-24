@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032575",
+  "articleNumber": "106",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-106\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 106</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2.7.7.2 du même code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 3°, le mot \" transportant \" est remplacé par les mots \" pouvant transporter \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au 11° dans la version néerlandaisele mot \" minstens \" est ajouter entre les mots \" een werkonbekwaamheid van \" et les mots \" tweeënzeventig uur \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'article est complété par les 20° et 21°, rédigés comme suit :</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"20°\">\n          <span class=\"provision-text\">\" le Ministre \" : le Ministre qui a l'Organisme fédéral d'enquête sur les accidents de navigation dans ses attributions ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"21°\">\n          <span class=\"provision-text\">\" exploitant \" : la personne physique ou morale qui exploite, en tant que propriétaire ou pour le compte du propriétaire, ou bien comme affréteur, un ou plusieurs navires.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.190Z",
+  "tokenUsage": {
+    "prompt": 1893,
+    "completion": 431,
+    "total": 2324
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008035151",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En dérogation à l'article 14, les projets, pour lesquels une demande de subvention ou de cofinancement a été introduite avant le 31 décembre 2005, restent soumis à l'article 1,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"15°\">\n          <span class=\"provision-text\">et à l'article 5, § 3, de l'arrêté du Gouvernement flamand du 13 juillet 2001 relatif aux conditions et aux procédures d'octroi, de modification et de retrait de subventions liées à un projet et de cofinancement des régies portuaires, ainsi qu'aux pourcentages de subvention et de cofinancement.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.039Z",
+  "tokenUsage": {
+    "prompt": 1651,
+    "completion": 251,
+    "total": 1902
+  }
+}

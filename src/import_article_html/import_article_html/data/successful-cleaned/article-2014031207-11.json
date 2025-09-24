@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014031207",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 72, alinéa 1er, de la même loi est complété par les 6°, 7° et 8° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">les personnes qui exercent une fonction de mandataire ou une autre fonction dirigeante dans l'administration régionale, communautaire ou bicommunautaire bruxelloise;</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">les personnes qui exercent une fonction de mandataire ou une autre fonction dirigeante dans un organisme d'intérêt public bruxellois soumis ou non au statut ou dans une intercommunale dont fait partie la commune concernée;</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">le membre permanent d'un comité de direction d'un organisme d'intérêt public bruxellois soumis ou non au statut ou d'une intercommunale dont fait partie la commune concernée.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.328Z",
+  "tokenUsage": {
+    "prompt": 1778,
+    "completion": 339,
+    "total": 2117
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031203",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Selon les modalités déterminées par le Ministre, l'entreprise introduit auprès de l'Administration sa demande d'indemnité spécifique via un formulaire sur la plateforme web.</p>\n      <p class=\"intro-text\">Lors de l'introduction du dossier sur la plateforme web, l'entreprise doit, au moins, fournir les informations suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">son numéro de Banque-Carrefour des Entreprises;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le code NACE-BEL de l'activité pour laquelle l'entreprise sollicite l'intervention spécifique;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">une déclaration sur l'honneur à compléter sur la plateforme web;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le numéro de compte de l'entreprise.</span></li>\n      </ol>\n      <p>L'entreprise déclare au moins, via la déclaration sur l'honneur, ne pas dépasser les plafonds prévus par l'encadrement temporaire et visés à l'article 3, alinéa 1er, 4° et que ses véhicules pour lesquels l'indemnité spécifique est sollicitée sont à l'arrêt.</p>\n      <p class=\"closing-text\">L'Administration peut recourir aux banques de données constituant des sources authentiques afin d'obtenir toutes données nécessaires à l'examen du dossier.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.126Z",
+  "tokenUsage": {
+    "prompt": 1914,
+    "completion": 429,
+    "total": 2343
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030978",
+  "articleNumber": "II.1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-II-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article II.1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 3 du décret du 25 février 1997 relatif à l'enseignement fondamental, modifié en dernier lieu par le décret du 17 juin 2016, il est inséré entre le point 24° et le point 24° bis un point 24° /1 ainsi rédigé :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"24° /1\">\n          <span class=\"provision-text\">programme adapté individuellement : un programme formulant des objectifs d'apprentissage au plus près des besoins de l'élève possédant un rapport qui donne accès à l'enseignement spécial. Les objectifs d'apprentissage en fonction des besoins de l'élève sont choisis par le conseil de classe de concert avec les parents, si possible l'élève, le collaborateur CLB et, le cas échéant, des intervenants extérieurs, à partir des objectifs de développement et des objectifs d'apprentissage qui visent à atteindre les objectifs finaux. Si cela se révèle nécessaire pour l'élève, ce programme peut se fonder également sur les objectifs de développement de l'enseignement spécial. Au fur et à mesure de la progression de l'élève, le programme est adapté. Ces objectifs d'apprentissage doivent être poursuivis de sorte que l'élève puisse s'épanouir au maximum et participer aussi pleinement que possible à la vie de la classe et de l'école dans une école d'enseignement ordinaire. Les élèves qui suivent un programme adapté individuellement ne sont pas éligibles au certificat d'enseignement fondamental sauf s'il est satisfait aux conditions de l'article 54 ;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.739Z",
+  "tokenUsage": {
+    "prompt": 2030,
+    "completion": 439,
+    "total": 2469
+  }
+}

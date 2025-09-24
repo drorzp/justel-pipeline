@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024201295",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 34 du même arrêté, modifié par l'arrêté royal du 6 février 2003 et l'arrêté du Gouvernement du 23 mai 2009, est complété par les:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"11°\">\n                    <span class=\"provision-text\">si l'entreprise de l'employeur a été créée ou opère dans le but principal de faciliter l'entrée de ressortissants de pays tiers</span>\n                </li>\n                <li class=\"provision\" data-number=\"12°\">\n                    <span class=\"provision-text\">si le titulaire de la carte bleue européenne cumule une période de chômage supérieure à trois mois et possède la carte bleue européenne depuis moins de deux ans ou si le titulaire de la carte bleue européenne cumule une période de chômage supérieure à six mois et possède la carte bleue européenne depuis au moins deux ans.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.702Z",
+  "tokenUsage": {
+    "prompt": 1789,
+    "completion": 291,
+    "total": 2080
+  }
+}

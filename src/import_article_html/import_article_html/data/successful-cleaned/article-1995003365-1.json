@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995003365",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\">.</span></h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 13, alinéa 3 de l'arrêté royal du 14 octobre 1991 relatif aux billets de trésorerie et aux certificats de dépôts, modifié par l'arrêté royal du 29 novembre 1993, est remplacé par la disposition suivante:</p>\n            <blockquote class=\"quoted-text\">\n                <p>\"L'émetteur n'est pas tenu de répondre aux exigences prévues aux:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">du présent article si les billets de trésorerie émis font l'objet d'une garantie irrévocable et inconditionnelle donnée soit par une entreprise belge ou étrangère organisée sous la forme d'une personne morale qui remplit les conditions de l'alinéa 1er, soit par l'Etat belge, une Communauté, une Région, une province, une commune, un Etat étranger ou une de ses collectivités publiques territoriales. Cette garantie doit être soumise soit au droit belge, soit à la loi nationale du garant ou au droit de référence généralement applicable aux actes similaires du garant.\"</span></li>\n                </ol>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.989Z",
+  "tokenUsage": {
+    "prompt": 1846,
+    "completion": 383,
+    "total": 2229
+  }
+}

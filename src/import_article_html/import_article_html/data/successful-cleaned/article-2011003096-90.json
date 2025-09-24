@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011003096",
+  "articleNumber": "90",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-90\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 90</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 55, dernier alinéa, de la même loi, inséré par la loi du 26 avril 2010, est remplacé par ce qui suit :</p>\n      <blockquote class=\"quote-text\">\n        &quot; Le Ministre des Affaires sociales et le Ministre ayant les assurances dans ses attributions peuvent, en outre, désigner conjointement un observateur de la CBFA, sur proposition de cet organisme, ainsi qu'un observateur de la Banque Nationale de Belgique, sur proposition de cet organisme, pour les matières visées à l'article 52, alinéa 1er,:\n      </blockquote>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"12°\">\n          <span class=\"provision-text\">.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.344Z",
+  "tokenUsage": {
+    "prompt": 1662,
+    "completion": 287,
+    "total": 1949
+  }
+}

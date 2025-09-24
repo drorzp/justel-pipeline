@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004A03454",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <div class=\"paragraph-content\">\n        Créances ayant le caractère de rémunérations visées à l'article 270, 6°, du Code des impôts sur les revenus 1992. En ce qui concerne les créances ayant le caractère de rémunérations au sens de l'article 30, 1° et 2°, du Code des impôts sur les revenus 1992 honorées par des curateurs de faillites, liquidateurs de concordats judiciaires, liquidateurs de sociétés ou des personnes qui exercent des fonctions analogues, le précompte professionnel est fixé uniformément (sans réduction) à 26,75 pc.\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.706Z",
+  "tokenUsage": {
+    "prompt": 1607,
+    "completion": 209,
+    "total": 1816
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003021072",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le volet 1 de l'allocation annuelle compensatoire tel que défini à l'article 3, § 2, 1°, 2° et 3°, sera adapté en tenant compte de l'évolution de l'échelle barémique acquise figée à la date d'engagement.</p>\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          L'allocation accordée dans le cadre des mesures de compétences vient en déduction du volet 1 de l'allocation annuelle compensatoire.\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.760Z",
+  "tokenUsage": {
+    "prompt": 1612,
+    "completion": 197,
+    "total": 1809
+  }
+}

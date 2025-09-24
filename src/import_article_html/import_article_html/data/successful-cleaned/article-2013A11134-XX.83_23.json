@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A11134",
+  "articleNumber": "XX.83/23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-XX-83/23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article XX.83/23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-06-07/07\" data-law-type=\"L\" data-article-number=\"152\">\n                <p class=\"intro-text\">Sur simple demande, le débiteur fournit au praticien de la réorganisation une liste des créanciers et tous les documents comptables ou autres utiles à la conclusion d'un accord amiable au sens de l'article XX.64 ou à l'établissement d'un plan de réorganisation tel que prévu à l'article XX.67 ou à l'article XX.83/3. Le praticien de la réorganisation détermine le délai dans lequel les créanciers individuels sont informés de sa mission et des données mentionnées à l'article XX.48, § 1er, alinéa 2, 1° et 3°.</p>\n                <p class=\"closing-text\">Il peut décider d'entamer des négociations avec un ou plusieurs créanciers et de ne les étendre à d'autres créanciers qu'à un stade ultérieur. La notification par le praticien de la réorganisation se fait selon les modalités visées à l'article XX.49, § 1er, alinéa 3, et tient lieu de communication au sens de l'article XX.49. Lors de la notification, le praticien de la réorganisation invite les créanciers visés par la procédure à s'inscrire dans le registre.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.111Z",
+  "tokenUsage": {
+    "prompt": 2024,
+    "completion": 391,
+    "total": 2415
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003977",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        L'organisme s'organise de manière à ce que les actifs destinés à couvrir les différents engagements financiers transférés visés aux articles 13, alinéa 1er, 1°, 2°, 3° et 4°, et 14 soient traités les uns par rapport aux autres, au moins d'un point de vue comptable, comme un compartiment distinct.\n      </p>\n      <p class=\"closing-text\">\n        Les moyens transférés à l'organisme conformément à l'article 17 et affectés à l'organisme conformément à l'article 21ter, § 1er, de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, sont affectés pour couvrir les obligations financières au titre de l'article 13 auxquelles ils sont destinés. Le Roi peut, par arrêté délibéré en Conseil des ministres, fixer des modalités concernant l'allocation visée à l'alinéa 1er.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.340Z",
+  "tokenUsage": {
+    "prompt": 1760,
+    "completion": 289,
+    "total": 2049
+  }
+}

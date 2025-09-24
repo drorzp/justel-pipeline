@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018031589",
+  "articleNumber": "85",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-85\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 85</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le texte français de l'article 40,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">7°, de la même loi, le mot &quot;liées&quot; est chaque fois remplacé par le mot &quot;liés&quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.368Z",
+  "tokenUsage": {
+    "prompt": 1492,
+    "completion": 182,
+    "total": 1674
+  }
+}

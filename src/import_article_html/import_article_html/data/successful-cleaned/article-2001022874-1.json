@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001022874",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté royal du 21 décembre 1971 portant exécution de certaines dispositions de la loi du 10 avril 1971 sur les accidents du travail, modifié par les arrêtés royaux des 17 décembre 1992 et 20 mai 1997, est modifié comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 4° est remplacé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"4°\">\n              <span class=\"provision-text\">l'entreprise d'assurances : l'entreprise d'assurances visée à l'article 49 de la loi;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les points 6°, 7°, 8°, 9° et 10° sont abrogés.</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"6°\"><span class=\"provision-text\"></span></li>\n            <li class=\"sub-provision\" data-marker=\"7°\"><span class=\"provision-text\"></span></li>\n            <li class=\"sub-provision\" data-marker=\"8°\"><span class=\"provision-text\"></span></li>\n            <li class=\"sub-provision\" data-marker=\"9°\"><span class=\"provision-text\"></span></li>\n            <li class=\"sub-provision\" data-marker=\"10°\"><span class=\"provision-text\"></span></li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.146Z",
+  "tokenUsage": {
+    "prompt": 1857,
+    "completion": 468,
+    "total": 2325
+  }
+}

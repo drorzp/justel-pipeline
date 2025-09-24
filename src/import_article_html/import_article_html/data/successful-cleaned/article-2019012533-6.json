@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012533",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-07-09/23\" data-law-type=\"DCFL\" data-article-number=\"5\">\n          Aux agences autonomisées externes de droit public, visées à l'article 1.3, 2°, d), du décret de gouvernance du 7 décembre 2018 et aux organismes publics flamands visés à l'article 1.3, 4°, du décret de gouvernance du 7 décembre 2018, qui n'appartiennent pas à l'Autorité flamande des entités fédérées, seuls les articles 42, § 1er, alinéa 2, 1°, 2° et 4°, l'article 43 \n          <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2022-07-01/23\" data-law-type=\"DCFL\" data-article-number=\"6\">\n            , les articles 55 à 67\n          </span>, le chapitre 8, l'article 80, alinéa 3, \n          <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2022-07-01/23\" data-law-type=\"DCFL\" data-article-number=\"6\">\n            et l'article 110 du présent code sont applicables\n          </span>.\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.311Z",
+  "tokenUsage": {
+    "prompt": 1959,
+    "completion": 393,
+    "total": 2352
+  }
+}

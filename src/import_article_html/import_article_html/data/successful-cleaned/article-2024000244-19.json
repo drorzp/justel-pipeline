@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024000244",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 61 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, les mots \" A l'exception de la sanction visée à l'article 60, 1° \" sont insérés avant les mots \" le membre du personnel qui constate un comportement visé à l'article 59 \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au paragraphe 2,</span>\n                    <ol class=\"sub-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">\n                            <span class=\"provision-text\">dans l'alinéa 1er, le 1° est complété par les mots \" à l'origine du comportement reproché \" ;</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">\n                            <span class=\"provision-text\">dans l'alinéa 2, les mots \" 1° et 3° \" sont abrogés.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.510Z",
+  "tokenUsage": {
+    "prompt": 1796,
+    "completion": 370,
+    "total": 2166
+  }
+}

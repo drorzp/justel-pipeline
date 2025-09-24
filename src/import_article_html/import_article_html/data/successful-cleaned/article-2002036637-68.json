@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002036637",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 68</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 212ter du même Code, inséré par le décret du 1er février 2002, est remplacé comme suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>\"Article 212ter. Au cas où la réduction de la base imposable n'aurait pas été demandée ou n'aurait pas été obtenue à l'occasion de l'enregistrement du document ayant donné lieu à la perception du droit proportionnel, les droits perçus indûment peuvent être restitués sur demande à introduire conformément aux dispositions de l'article 217.2 dans les six mois à compter de la date d'enregistrement de ce document.</p>\n          <p>Au cas où la transférabilité de droits d'enregistrement payés antérieurement, comme prévu aux articles 61/3 et 212bis n'aurait pas été demandée ou n'aurait pas été obtenue à l'occasion de l'enregistrement du document ayant donné lieu à la perception du droit proportionnel, les droits transférables peuvent être restitués sur demande à introduire conformément aux dispositions de l'article 217.2 dans les six mois à compter de la date d'enregistrement de ce document.</p>\n          <p>La demande de restitution visée au premier ou au deuxième alinéa contient, selon le cas, les mentions et déclarations imposées par l'article 46bis, alinéa 3, 2°, b et c; par l'article 61.4, premier alinéa; ou par l'article 212bis, alinéa 6, 2° et 3°. La demande mentionne, le cas échéant, le numéro de compte auquel le montant des droits à restituer peut être versé.\"</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.713Z",
+  "tokenUsage": {
+    "prompt": 2086,
+    "completion": 477,
+    "total": 2563
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018014536",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 21 du même arrêté, modifié en dernier lieu par l'arrêté du Gouvernement flamand du 24 février 2017, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive, les mots \" exercent le contrôle sur l'application des dispositions suivantes \" sont remplacés par les mots \" exercent le contrôle sur l'application des prescriptions environnementales, mentionnées dans ou établies en vertu de la réglementation suivante \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 8° est abrogé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans les points 17°, 18°, 19° et 21°, les mots \" et ses arrêtés d'exécution \" sont abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">il est inséré un point 22° /1, rédigé comme suit : \" 22° /1 le Règlement (UE) n° 2017/852 du Parlement européen et du Conseil du 17 mai 2017 relatif au mercure et abrogeant le règlement (CE) no 1102/2008 ; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.704Z",
+  "tokenUsage": {
+    "prompt": 1915,
+    "completion": 423,
+    "total": 2338
+  }
+}

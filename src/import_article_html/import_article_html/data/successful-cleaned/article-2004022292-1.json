@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004022292",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">L'article 294, § 1er, 1°, alinéa 2, de l'arrêté royal du 3 juillet 1996 portant exécution de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994, est remplacé par l'alinéa suivant :</span>\n            <blockquote>\n              <p>\" Le médecin-conseil peut, pour une période maximale de deux mois, autoriser un séjour temporaire après le début des délais prévus dans l'article 177, § 1er, 1° et 2°, pour l'établissement des rapports qui y sont visés. \"</p>\n            </blockquote>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.773Z",
+  "tokenUsage": {
+    "prompt": 1608,
+    "completion": 286,
+    "total": 1894
+  }
+}

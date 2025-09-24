@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991011344",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1992-08-04/36\" data-article-number=\"1\" data-law-type=\"AR\" data-effective-date=\"08-09-1992\">\n          &lt;AR 1992-08-04/36, art. 1, 004; En vigueur : 08-09-1992&gt;\n        </span>\n        Entrent en vigueur à la date du 1er juillet 1992 les dispositions de la loi contenues aux articles 25, 61, 63, § 3, 87, premier alinéa, 4°, 101, § 1er,:\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et 111, troisième à cinquième alinéa.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.488Z",
+  "tokenUsage": {
+    "prompt": 1639,
+    "completion": 290,
+    "total": 1929
+  }
+}

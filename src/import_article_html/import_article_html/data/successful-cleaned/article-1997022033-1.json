@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022033",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er, § 2, de l'arrêté ministériel du 25 novembre 1994 de désignation des membres des groupes de travaux spéciaux visés à l'article 7,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">3°, de l'arrêté royal du 19 novembre 1982 relatif au fonctionnement du Conseil national des établissements hospitaliers, la mention: &quot; Mme Boonen, C., Grimbergen &quot; est remplacée par la mention &quot; M. Van Holsbeke, J., Bierbeek &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.035Z",
+  "tokenUsage": {
+    "prompt": 1623,
+    "completion": 245,
+    "total": 1868
+  }
+}

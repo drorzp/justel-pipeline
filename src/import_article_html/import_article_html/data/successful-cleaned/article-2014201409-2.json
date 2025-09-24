@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014201409",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 16, § 1er, du même arrêté royal est complété par les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'employeur bénéficie pour un travailleur d'une réduction d'un montant forfaitaire G1 pendant maximum 5 trimestres et d'un montant forfaitaire G2 pendant maximum 4 trimestres qui suivent les 5 premiers, pour autant que durant les trimestres en question il emploie au moins quatre travailleurs durant ces trimestres. Les trimestres en question doivent se situer dans une période de 20 trimestres commençant à courir le trimestre à partir duquel l'employeur, en qualité de nouvel employeur au sens de l'article 343, § 3/1, de la loi-programme du 24 décembre 2002, engage un quatrième travailleur.</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">l'employeur bénéficie pour un travailleur d'une réduction d'un montant forfaitaire G1 pendant maximum 5 trimestres et d'un montant forfaitaire G2 pendant maximum 4 trimestres qui suivent les 5 premiers, pour autant que durant les trimestres en question il emploie au moins cinq travailleurs durant ces trimestres. Les trimestres en question doivent se situer dans une période de 20 trimestres commençant à courir le trimestre à partir duquel l'employeur, en qualité de nouvel employeur au sens de l'article 343, § 3/2, de la loi-programme du 24 décembre 2002, engage un cinquième travailleur.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.375Z",
+  "tokenUsage": {
+    "prompt": 2114,
+    "completion": 470,
+    "total": 2584
+  }
+}

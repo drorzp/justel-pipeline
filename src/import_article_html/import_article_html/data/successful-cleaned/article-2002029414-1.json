@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029414",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-07-20/17\" data-law-type=\"DCFR\" data-article-number=\"6\">\n                Le présent décret s'applique aux candidats au certificat d'aptitude pédagogique approprié à l'enseignement supérieur (CAPAES) visés à l'article 2, 5° et aux établissements d'enseignement supérieur qui sont habilités à dispenser la formation précitée à savoir :\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">les universités qui organisent des études de 2e cycle ;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">les hautes écoles organisant des études de 2e cycle en sciences économiques et de gestion ;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">les établissements d'enseignement supérieur de promotion sociale qui délivrent le certificat d'aptitude pédagogique aux porteurs d'un diplôme de l'enseignement supérieur, organisés ou subventionnés par la Communauté française</span>\n                    </li>\n                </ol>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.745Z",
+  "tokenUsage": {
+    "prompt": 2097,
+    "completion": 363,
+    "total": 2460
+  }
+}

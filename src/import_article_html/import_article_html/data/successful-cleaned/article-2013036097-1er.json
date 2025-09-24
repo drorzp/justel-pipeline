@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013036097",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 1er, alinéa premier, de l'arrêté du Gouvernement flamand du 13 décembre 2002 portant réglementation relative à la qualité et la fourniture des eaux destinées à la consommation humaine, modifié par l'arrêté du Gouvernement flamand du 13 mai 2011, est complété par les points 6° et 7°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">approvisionnement d'urgence en eau potable : la fourniture d'eau destinée à la consommation humaine par l'exploitant du réseau public de distribution d'eau, lors d'une interruption prévue ou imprévue de la fourniture d'eau destinée à la consommation humaine via le réseau public de distribution d'eau;</span></li>\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">approvisionnement d'urgence en eau : la fourniture d'eau destinée exclusivement à usage sanitaire par l'exploitant du réseau public de distribution d'eau, lors d'une interruption prévue ou imprévue de la fourniture d'eau destinée à la consommation humaine via le réseau public de distribution d'eau.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.097Z",
+  "tokenUsage": {
+    "prompt": 1833,
+    "completion": 351,
+    "total": 2184
+  }
+}

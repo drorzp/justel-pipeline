@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016206122",
+  "articleNumber": "161",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-161\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 161</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans le même titre I, il est inséré un article 620.D rédigé comme suit :</p>\n        <p>\" Art. 620.D -</p>\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Nul ne peut porter le titre de guide touristique ou de guide touristique-stagiaire, tel que défini à l'article 1er.D, 25° et 26°, sans avoir été reconnu conformément au titre II.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le guide touristique et le guide touristique-stagiaire disposent de pièces justificatives, déterminées par le Gouvernement, attestant de la reconnaissance de leurs fonctions par le Commissariat général au Tourisme.</p>\n                <p>Le Gouvernement fixe les modalités relatives au port des pièces justificatives visées à l'alinéa 1er.</p>\n            </div>\n        </section>\n        <p>\"</p>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.776Z",
+  "tokenUsage": {
+    "prompt": 1792,
+    "completion": 327,
+    "total": 2119
+  }
+}

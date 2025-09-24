@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998036066",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 28</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté produit ses effets le 1er janvier 1998, à l'exception de l'article 4,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">et de l'article 7,</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">qui entrent en vigueur le 1er janvier 2001.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.068Z",
+  "tokenUsage": {
+    "prompt": 1544,
+    "completion": 218,
+    "total": 1762
+  }
+}

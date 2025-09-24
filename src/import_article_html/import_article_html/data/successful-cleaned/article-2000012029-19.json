@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000012029",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, un article 37ter, rédigé comme suit, est inséré :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 37ter.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Par arrêté délibéré en Conseil des Ministres, et dans les conditions et modalités qu'Il détermine, le Roi peut exempter les employeurs du secteur du remorquage de l'obligation de payer les cotisations patronales prévues à l'article 38, §§ 3,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1° à</span></li>\n                        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">7° et</span></li>\n                        <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">9°,</span></li>\n                    </ol>\n                    <p>et 3bis de la présente loi pour les travailleurs salariés occupés à bord des navires.</p>\n                    <p>Il peut également, par arrêté délibéré en Conseil des Ministres, dans les conditions qu'Il détermine, autoriser l'employeur à payer à l'Office national de Sécurité sociale, les cotisations des travailleurs calculées sur le salaire plafonné au montant visé à l'article 7, alinéa 3, de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés, tout en conservant le montant correspondant aux cotisations personnelles calculées sur la différence entre la rémunération plafonnée précitée et la rémunération brute.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.115Z",
+  "tokenUsage": {
+    "prompt": 1978,
+    "completion": 499,
+    "total": 2477
+  }
+}

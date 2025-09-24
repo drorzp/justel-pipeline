@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036510",
+  "articleNumber": "141",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-141\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 141</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          <p>A l'article 3.1.2 du même décret, remplacé par le décret du 19 avril 1995 et modifié par les décrets des 18 décembre 2002 et 21 décembre 2007, les points 1° et 2° sont remplacés par ce qui suit :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">établissements et activités : les établissements et activités mentionnés à l'article 5.1.1, 8°, et à l'article 5.1.1, 1° ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">autorité délivrant l'autorisation : l'autorité qui peut délivrer le permis d'environnement, visé dans le décret du 25 avril 2014 relatif au permis d'environnement ;</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.343Z",
+  "tokenUsage": {
+    "prompt": 1741,
+    "completion": 318,
+    "total": 2059
+  }
+}

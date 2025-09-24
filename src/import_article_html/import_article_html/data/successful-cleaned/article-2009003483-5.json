@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009003483",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 38 du même Code, modifié en dernier lieu par la loi du 6 mai 2009, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase liminaire du paragraphe 1er, alinéa 1er, 11°, les mots \" visées à l'article 30, \" sont remplacés par les mots \" visées à l'article 30, 1° et 2°, \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le paragraphe 1er, alinéa 1er, est complété par un 25°, rédigé comme suit : \" 25° les avantages qui se composent de l'intervention de l'employeur ou de l'entreprise dans les titres-repas, les chèques sport/culture ou les éco-chèques qui répondent aux conditions reprises à l'article 38/1. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 3, les mots \" et de taxes assimilées au timbre \" sont remplacés par les mots \" et de droits et taxes divers \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.030Z",
+  "tokenUsage": {
+    "prompt": 1890,
+    "completion": 397,
+    "total": 2287
+  }
+}

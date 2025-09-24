@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006023386",
+  "articleNumber": "58",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-58\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 58</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les dispositions de cette section entrent en vigueur à une date à déterminer par le Roi.\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2008-02-10/40\" data-law-type=\"AR\" data-article-number=\"2\">\n          (NOTE : Entrée en vigueur des art. 50 et 51 fixée au 01-03-2008 par AR \n          <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008021040\">2008-02-10/40</a>, art. 2)\n        </span>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2009-03-01/40\" data-law-type=\"AR\" data-article-number=\"13\">\n          (NOTE : Entrée en vigueur des art. 52, 2° et 54, à l'exception de dernier alinéa, fixée au 01-05-2009 par AR \n          <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009030140\">2009-03-01/40</a>, art. 13, 1° et 2°)\n        </span>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2010-04-26/07\" data-law-type=\"AR\" data-article-number=\"1\">\n          (NOTE : Entrée en vigueur de l'art. 54, dernier alinéa, fixée au 01-08-2010 par AR \n          <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2010042607\">2010-04-26/07</a>, art. 1)\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.672Z",
+  "tokenUsage": {
+    "prompt": 1932,
+    "completion": 528,
+    "total": 2460
+  }
+}

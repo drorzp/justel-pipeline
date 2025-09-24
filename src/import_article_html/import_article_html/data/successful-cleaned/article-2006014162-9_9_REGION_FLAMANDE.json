@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006014162",
+  "articleNumber": "9/9_REGION_FLAMANDE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9/9_REGION_FLAMANDE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9/9_REGION_FLAMANDE</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-07-14/33\" data-law-type=\"AGF\" data-article-number=\"15\">\n      <div class=\"article-text\">\n        <p class=\"intro-text\">Les locaux dans lesquels l'instructeur agréé dispense le moment de formation satisfont aux conditions suivantes :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">ils renferment une salle de cours et des équipements sanitaires</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">ils ne se trouvent pas dans un débit de boissons, ni dans un espace habitable</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">ils répondent aux exigences visées à l'article 15, § 1er, alinéa 4, 1°, 2° et 3° de l'arrêté royal du 11 mai 2004 relatif aux conditions d'agrément des écoles de conduite des véhicules à moteur</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">le bourgmestre ou le service des pompiers compétent a délivré une attestation établissant que les locaux répondent aux normes légales en vigueur.</span>\n          </li>\n        </ol>\n      </div>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.826Z",
+  "tokenUsage": {
+    "prompt": 1934,
+    "completion": 423,
+    "total": 2357
+  }
+}

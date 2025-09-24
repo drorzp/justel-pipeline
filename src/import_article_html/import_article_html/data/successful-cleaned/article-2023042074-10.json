@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042074",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'analyse de la SWL sur les dossiers, visés à l'article 9, 4°, 5° et 6°, porte sur le respect des prescrits réglementaires et l'atteinte du programme ainsi que sur les aspects coût du dossier.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.738Z",
+  "tokenUsage": {
+    "prompt": 1459,
+    "completion": 132,
+    "total": 1591
+  }
+}

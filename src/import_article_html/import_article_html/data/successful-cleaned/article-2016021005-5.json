@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016021005",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sont abrogés:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les articles 2, 2° à 5° et 3 à 7 de l'arrêté royal du 20 juin 1997 fixant la liste, le niveau, la structure des établissements scientifiques de l'Etat relevant du Ministère des Classes moyennes et de l'Agriculture;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'arrêté royal du 12 novembre 1997 déterminant les conditions dans lesquelles le JBN reçoit la personnalité juridique et fixant les modalités de son financement, modifié par l'arrêté royal du 4 mai 2012.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.249Z",
+  "tokenUsage": {
+    "prompt": 1718,
+    "completion": 271,
+    "total": 1989
+  }
+}

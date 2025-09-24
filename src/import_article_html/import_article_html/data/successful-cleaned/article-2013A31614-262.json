@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A31614",
+  "articleNumber": "262",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-262\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 262</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-07-27/15\" data-law-type=\"ORD\" data-article-number=\"15\">\n                        Les biens d'habitation destinés à la location des logements visés à l'article 2, 25° et 26°, peuvent se voir attribuer un label spécifique. Le Gouvernement définit les exigences auxquelles ces biens doivent répondre afin de se voir attribuer ce label. Le Gouvernement peut, pour les logements bénéficiant de ce label, prévoir des dérogations portant notamment sur le régime applicable au bail, à sa durée, aux conditions de sa résiliation et sur les conditions d'occupation du bien.\n                    </span>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.141Z",
+  "tokenUsage": {
+    "prompt": 1763,
+    "completion": 267,
+    "total": 2030
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032923",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'administration conseille le ministre sur l'ensemble des éléments suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">si les conditions visées à l'article 5, alinéa 1er, 1°, 3°, 4° et 5° du Décret relatif aux Indemnités du 21 janvier 2022 ont été remplies ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">si, par l'octroi de la garantie demandée, les seuils visés aux articles 10 et 11 du décret précité, ne sont pas dépassés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.809Z",
+  "tokenUsage": {
+    "prompt": 1635,
+    "completion": 256,
+    "total": 1891
+  }
+}

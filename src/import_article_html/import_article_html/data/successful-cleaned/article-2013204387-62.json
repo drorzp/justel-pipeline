@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013204387",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 37,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">du même arrêté, les mots &quot; la réclamation &quot; sont remplacés par les mots &quot; l'objection &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.206Z",
+  "tokenUsage": {
+    "prompt": 1505,
+    "completion": 196,
+    "total": 1701
+  }
+}

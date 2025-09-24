@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996021153",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>En ce qui concerne les concessions ou autorisations individuelles accordées avant le 1er janvier 1993, l'article 4, 1°, 2° et 3° ne s'applique pas si, à cette date, d'autres personnes sont libres de demander une telle autorisation sur une base non discriminatoire et en fonction de critères objectifs. L'article 4, 4° ne s'applique pas lorsque les conditions et exigences ont été établies, appliquées ou amendées avant cette même date.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>En ce qui concerne les activités d'exploitation d'aires géographiques en vue de prospecter ou d'extraire du pétrole ou du gaz, l'article 4 s'applique comme suit à partir de la date à laquelle l'entité adjudicatrice s'est conformée à la directive 94/22/CEE du Parlement européen et du Conseil du 30 mai 1994 :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">les conditions fixées à l'article 4, 1° à 5° sont censées être remplies à partir de cette date, sans préjudice du § 1er du présent article;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">à partir de cette date, les autorités fédérales ne sont tenues de communiquer que les dispositions visées à l'article 4, 6° et au § 1er du présent article.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.901Z",
+  "tokenUsage": {
+    "prompt": 2056,
+    "completion": 502,
+    "total": 2558
+  }
+}

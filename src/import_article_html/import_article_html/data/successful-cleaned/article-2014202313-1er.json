@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014202313",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La Communauté germanophone, sur le territoire de la région de langue allemande, exerce toutes les compétences de la Région wallonne dans la matière du Tourisme, visée à l'article 6, § 1er, VI, alinéa 1er, 6° et 9°, de la loi spéciale du 8 août 1980 de réformes institutionnelles.</p>\n            <p class=\"closing-text\">Le Parlement et le Gouvernement de la Communauté germanophone exercent les compétences de la Région wallonne qui se rapportent à la matière visée à l'alinéa 1er.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.371Z",
+  "tokenUsage": {
+    "prompt": 1643,
+    "completion": 214,
+    "total": 1857
+  }
+}

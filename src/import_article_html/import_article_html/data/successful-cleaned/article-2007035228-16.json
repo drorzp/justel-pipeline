@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007035228",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les obligations, visées à l'article 92, § 3, 6°, 7° et 8°, et la période d'essai, visée à l'article 92, § 1er, 3°, du décret du 15 juillet 1997 contenant le Code flamand du Logement, tel que modifié par le présent décret, ne s'appliquent pas au locataire qui au moment de l'entrée en vigueur du présent décret est déjà locataire d'une habitation sociale de location.</p>\n      <p class=\"intro-text\">Le Gouvernement flamand peut, en ce qui concerne ce locataire, prendre des mesures stimulantes de sorte que le locataire puisse respecter les obligations, visées à l'article 93, § 3, 6°, 7° et 8°, du décret du 15 juillet 1997 contenant le Code flamand du Logement, tel que modifié par le présent décret.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.119Z",
+  "tokenUsage": {
+    "prompt": 1830,
+    "completion": 279,
+    "total": 2109
+  }
+}

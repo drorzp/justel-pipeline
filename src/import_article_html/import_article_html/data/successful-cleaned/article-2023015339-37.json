@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023015339",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 37</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    <strong>ARTICLE</strong>[Art.] [37]. Lorsque le directeur d'école ou la personne qu'il désigne envisage de prendre une des mesures visées à l'article 31, § 1er, 8° et 9°, il doit entendre l'aspirant au préalable.\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.832Z",
+  "tokenUsage": {
+    "prompt": 1482,
+    "completion": 159,
+    "total": 1641
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041340",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 54</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, à l'article 35, alinéa 3, les mots &quot; sur proposition du Conseil général de concertation pour l'enseignement spécialisé repris au Chapitre XIII du décret du 3 mars 2004 précité &quot; sont remplacés par les mots &quot; sur proposition conjointe des Conseils généraux visés à l'article 5, 44° et 45°, du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.478Z",
+  "tokenUsage": {
+    "prompt": 1709,
+    "completion": 239,
+    "total": 1948
+  }
+}

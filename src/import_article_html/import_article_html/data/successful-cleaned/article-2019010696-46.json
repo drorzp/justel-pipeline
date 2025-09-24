@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019010696",
+  "articleNumber": "46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 46</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans la limite des crédits budgétaires disponibles, le Collège soutient annuellement la création d'activités répondant en tout ou partie aux exigences pour être agréées mais ayant besoin d'un temps nécessaire pour établir le plan d'action quinquennal dont il est fait mention à l'article 7, 4°. Ces asbl ne peuvent pas encore bénéficier d'un agrément en tant qu'opérateur de cohésion sociale et doivent au moins répondre aux conditions fixées à l'article 7, 1°, 2° et 5°.</p>\n            <p class=\"closing-text\">Ce financement ne peut excéder plus de trois années. Le Collège fixe les modalités particulières liées à ce financement.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.445Z",
+  "tokenUsage": {
+    "prompt": 1675,
+    "completion": 230,
+    "total": 1905
+  }
+}

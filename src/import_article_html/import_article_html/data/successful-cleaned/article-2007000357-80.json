@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000357",
+  "articleNumber": "80",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-80\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 80</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 26 du même arrêté est remplacé par la disposition suivante :</p>\n      <blockquote class=\"quoted-text\">\n        <p class=\"quoted-paragraph\">\" Art. 26. Si la demande de mesures provisoires est introduite par la partie requérante dans une requête unique, elle contient en plus des mentions prévues par l'article 8, celles qui sont visées à l'article 25, 3° et 4°. \"</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.806Z",
+  "tokenUsage": {
+    "prompt": 1547,
+    "completion": 183,
+    "total": 1730
+  }
+}

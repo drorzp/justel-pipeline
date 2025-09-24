@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004029129",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-06-12/07\" data-law-type=\"DCFR\" data-article-number=\"15\">\n            <section class=\"paragraph\" id=\"para-1er\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>L'organisme d'adoption répond du respect, par ses collaborateurs à l'étranger, des conditions visées à l'article 18, paragraphe 1er, 1°, 2° et 3°.</p>\n                    <p>Il veille à l'information et à la formation de ses collaborateurs à l'étranger, notamment en ce qui concerne les dispositions du présent décret.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\" id=\"para-2\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Avant tout apparentement visé au titre V, chapitre 3, section 3, l'organisme d'adoption met tout en oeuvre pour recueillir toutes les informations disponibles sur les circonstances de la naissance et de la décision de placement en adoption, sur l'histoire de vie et l'évolution de l'enfant, et sur son état de santé, conformément au modèle de rapport sur l'enfant fixé par le Gouvernement, afin de s'assurer de l'adoptabilité juridique et psycho-sociale de celui-ci.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\" id=\"para-3\">\n                <h3 class=\"paragraph-marker\">§ 3.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Dès l'apparentement, l'organisme d'adoption doit s'assurer de la possibilité de vérifier à tout moment l'identité de l'enfant, par récolte de données biométriques, de tests ADN, ou de garanties équivalentes.</p>\n                </div>\n            </section>\n        </span>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.784Z",
+  "tokenUsage": {
+    "prompt": 2082,
+    "completion": 496,
+    "total": 2578
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1958010805",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">(Voir note sous titre) Les dispositions de l'arrêté royal du 20 décembre 1956 entrent en vigueur :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pour ce qui concerne les autoroutes et leurs voies d'accès visées à l'article 1er de la loi du 12 juillet 1956, dès le moment où elles sont ouvertes à la circulation;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour ce qui concerne les routes visées à l'article 1er, 2° et 3°, du présent arrêté, dix jours après la publication du présent arrêté au Moniteur belge.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.475Z",
+  "tokenUsage": {
+    "prompt": 1647,
+    "completion": 261,
+    "total": 1908
+  }
+}

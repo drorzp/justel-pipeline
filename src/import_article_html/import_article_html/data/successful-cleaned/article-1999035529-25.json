@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035529",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 25</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 40 du même décret, les mots &quot; aux articles 35, 3°; 36, § 1er, 3° et § 2, 3°; 37, 3° et 38, 3° &quot; sont remplacés par les mots &quot; à l'article 35 &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.186Z",
+  "tokenUsage": {
+    "prompt": 1503,
+    "completion": 161,
+    "total": 1664
+  }
+}

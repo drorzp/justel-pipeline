@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035440",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'arrêté ministériel du 30 juin 2009 concernant le commissionnement des fonctionnaires de surveillance régionaux conformément à l'article 12, 13°, 14° et 15°, de l'arrêté du Gouvernement flamand du 12 décembre 2008 portant exécution du titre XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement est abrogé.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.332Z",
+  "tokenUsage": {
+    "prompt": 1523,
+    "completion": 164,
+    "total": 1687
+  }
+}

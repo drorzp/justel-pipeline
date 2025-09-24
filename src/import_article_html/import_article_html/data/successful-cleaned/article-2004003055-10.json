@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004003055",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 53nonies, § 1er, alinéa 2, du même Code, inséré par la loi du 28 décembre 1992, les mots \"les articles 53, alinéa 1er, 3° et 4°,\" sont remplacés par les mots \"les articles 53, § 1er, alinéa 1er, 2° et 3°\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.650Z",
+  "tokenUsage": {
+    "prompt": 1537,
+    "completion": 172,
+    "total": 1709
+  }
+}

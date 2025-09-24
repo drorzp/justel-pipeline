@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009201450",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 150 du même Code, remplacé par la loi du 10 août 2001 et modifié par la loi du 23 décembre 2005, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, les mots \" la réduction pour allocations de chômage, \" sont remplacés par les mots \" la réduction pour allocations de chômage visée à l'article 147, alinéa 1er, 7° et 8°, \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les alinéas 2 et 3 sont remplacés par ce qui suit :</span>\n                    <blockquote>\n                        <p>La réduction pour allocations de chômage visée à l'article 147, alinéa 1er, 7° et 8°, est calculée ensemble pour les deux conjoints. A cet effet, les allocations de chômage, à l'exclusion des allocations de chômage visées à l'article 147, alinéa 1er, 5°, les revenus nets et les revenus imposables des deux conjoints sont respectivement additionnés pour calculer la réduction et les limites.</p>\n                        <p>La réduction pour allocations de chômage calculée conformément à l'alinéa 2 est ensuite répartie par contribuable en proportion de la quotité des allocations de chômage, à l'exclusion des allocations de chômage visées à l'article 147, alinéa 1er, 5°, qui, après application des articles 87 et 88, sont imposées dans son chef, dans le total des allocations de chômage, à l'exclusion des allocations de chômage visées à l'article 147, alinéa 1er, 5°, des deux conjoints.</p>\n                    </blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.932Z",
+  "tokenUsage": {
+    "prompt": 2109,
+    "completion": 511,
+    "total": 2620
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002012104",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 130, § 2, du même arrêté, remplacé par l'arrêté royal du 23 novembre 2000, sont apportées les modifications suivantes :</p>\n    <p>A) l'alinéa 1er est remplacé par la disposition suivante :</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le montant journalier de l'allocation est diminué de la partie du montant journalier du revenu visé au § 1er qui excède 10,18 EUR. Le montant ainsi obtenu est arrondi au cent supérieur ou inférieur selon que la fraction du cent atteint ou n'atteint pas 0,5. Il ne peut dans les cas visés au § 1er, 2° et 5°, être inférieur à 12 cent.</p>\n      </div>\n    </section>\n    <p>B) il est complété par l'alinéa suivant :</p>\n    <section class=\"paragraph\" id=\"para-2b\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le montant mentionné à l'alinéa 1er est lié à l'indice pivot 103,14 valable au 1er juin 1999 (base 1996 = 100), selon les règles fixées à l'article 113.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.810Z",
+  "tokenUsage": {
+    "prompt": 1836,
+    "completion": 395,
+    "total": 2231
+  }
+}

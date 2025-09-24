@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016000379",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 11 de la même loi, remplacé par la loi du 8 juillet 2011, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, 4°, les mots \"l'étranger ou la personne qu'il rejoint a utilisé des informations fausses ou trompeuses ou des documents faux ou falsifiés, ou a recouru à la fraude ou à d'autres moyens illégaux de caractère déterminant, afin d'être admis au séjour, ou\" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 4, les mots \"du 2° et du 4° \" sont remplacés par les mots \"de l'alinéa 1er, 2° ou 4°, de l'article 74/20 ou de l'article 74/21,\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 2, alinéa 1er, 4°, les mots \"l'étranger ou la personne qu'il rejoint a utilisé des informations fausses ou trompeuses ou des documents faux ou falsifiés, ou a recouru à la fraude ou à d'autres moyens illégaux, qui ont été déterminants pour la reconnaissance du droit de séjour, ou\" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le paragraphe 2, alinéa 2, les mots \"trois premières\" sont remplacés par les mots \"cinq premières\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">dans le paragraphe 2, alinéa 6, les mots \"du 2° et du 4° \" sont remplacés par les mots \"de l'alinéa 1er, 2° ou 4°, de l'article 74/20 ou de l'article 74/21,\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.306Z",
+  "tokenUsage": {
+    "prompt": 2251,
+    "completion": 613,
+    "total": 2864
+  }
+}

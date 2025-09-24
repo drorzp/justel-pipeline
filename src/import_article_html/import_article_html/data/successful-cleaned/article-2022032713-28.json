@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032713",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 85, § 2, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de la même loi, remplacé par la loi du 4 juillet 2021, les mots \"ou le document d'informations clés visé par le règlement 1286/2014\" sont chaque fois insérés entre les mots \"les informations clés pour l'investisseur\" et les mots \"et les rapports annuels et semestriels\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.810Z",
+  "tokenUsage": {
+    "prompt": 1607,
+    "completion": 247,
+    "total": 1854
+  }
+}

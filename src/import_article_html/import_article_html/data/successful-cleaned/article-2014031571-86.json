@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014031571",
+  "articleNumber": "86",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-86\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 86</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Une subvention est octroyée à l'entreprise de travail adapté visée aux articles 52 à 55 en matière de :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">rémunérations des travailleurs handicapés en fonction des capacités professionnelles de chaque travailleur handicapé déterminées par le service PHARE en concertation avec l'entreprise;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">frais de personnel d'encadrement en fonction du nombre de travailleurs handicapés occupés dans l'entreprise, de leurs capacités professionnelles telles que visées au 1° et de son type d'activité;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">frais d'investissements en fonction du nombre de travailleurs handicapés occupés dans l'entreprise;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">frais de fonctionnement en fonction des capacités professionnelles de chaque travailleur handicapé déterminées par le service PHARE en concertation avec l'entreprise.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.328Z",
+  "tokenUsage": {
+    "prompt": 1775,
+    "completion": 346,
+    "total": 2121
+  }
+}

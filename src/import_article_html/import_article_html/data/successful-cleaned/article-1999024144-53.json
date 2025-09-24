@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999024144",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 53</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        L'article 191 de la même loi, modifié dernièrement par la loi du 4 mai 1999, est compléte par un alinéa 4, rédigé comme suit:\n      </p>\n      <p class=\"intro-text\">\n        \"Le recouvrement des suppléments de cotisations ou de primes, des recettes et retenues dus en vertu de l'alinéa 1er, 8°, 9° et 13°, peut s'effectuer à l'intervention de l'administration de la Taxe sur la valeur ajoutée, de l'Enregistrement et des Domaines, conformément aux dispositions de l'article 94 des lois sur la comptabilité de l'Etat, coordonnées le 17 juillet 1991.\"\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.280Z",
+  "tokenUsage": {
+    "prompt": 1671,
+    "completion": 243,
+    "total": 1914
+  }
+}

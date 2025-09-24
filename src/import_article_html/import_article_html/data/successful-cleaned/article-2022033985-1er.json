@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022033985",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 1er, 11/1°, de l'arrêté du Gouvernement flamand du 29 janvier 2016 portant exécution du décret du 7 juin 2013 relatif à la politique flamande d'insertion et d'insertion civique, inséré par l'arrêté du Gouvernement flamand du 17 décembre 2021, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point c) est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"c)\">\n              <span class=\"provision-text\">une formation dans l'enseignement secondaire des adultes aboutissant à un diplôme de l'enseignement secondaire tel que visé à l'article 41, § 4, 1° et 2°, du décret du 15 juin 2007 relatif à l'éducation des adultes ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté des points j) et k), rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"j)\">\n              <span class=\"provision-text\">une formation intensive dans l'éducation de base telle que visée à l'article 6, 2° et 4° à 7°, du décret du 15 juin 2007 relatif à l'éducation des adultes ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"k)\">\n              <span class=\"provision-text\">suivre au moins 16 heures par semaine une formation dans les disciplines néerlandais deuxième langue degré-guide 2, degré-guide 3 ou degré-guide 4, visées dans le décret du 15 juin 2007 relatif à l'éducation des adultes ;</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.774Z",
+  "tokenUsage": {
+    "prompt": 2095,
+    "completion": 537,
+    "total": 2632
+  }
+}

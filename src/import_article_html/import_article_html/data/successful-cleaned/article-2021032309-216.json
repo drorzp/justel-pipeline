@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032309",
+  "articleNumber": "216",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-216\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 216</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article II.266, § 1er, du même code, modifié par le décret du 3 juillet 2020, il est ajouté un alinéa huit, libellé comme suit :</p>\n      <p class=\"intro-text\">\" Pour la détermination des fractions visées à l'alinéa premier, points 1° et 2°, et à l'alinéa deux du présent paragraphe, il n'est pas tenu compte des formations de bachelor ou de master enseignées en langue étrangère par l'Ecole supérieure de navigation.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.214Z",
+  "tokenUsage": {
+    "prompt": 1632,
+    "completion": 204,
+    "total": 1836
+  }
+}

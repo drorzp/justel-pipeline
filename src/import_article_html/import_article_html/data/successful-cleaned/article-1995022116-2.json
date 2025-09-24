@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995022116",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 3 du même arrêté est remplacé par la disposition suivante :</p>\n    <p>\"Art. 3.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les services indemnités journalières en cas d'incapacité de travail visés à l'article 1er, 3°, sont agréés provisoirement jusqu'au 31 décembre 1995.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les services d'assurance soins de santé à l'étranger et d'assurance hospitalisation visés à l'article 1er, 2° et 4°, agréés provisoirement jusqu'au 31 décembre 1994, restent agréés provisoirement jusqu'au 31 décembre 1995.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les services visés à l'article 1er, 6°, agréés provisoirement jusqu'au 30 juin 1995.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.999Z",
+  "tokenUsage": {
+    "prompt": 1878,
+    "completion": 379,
+    "total": 2257
+  }
+}

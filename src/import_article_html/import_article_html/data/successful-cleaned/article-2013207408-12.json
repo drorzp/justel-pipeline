@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013207408",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 66 du même arrêté, modifié par le décret du 23 décembre 2010 et l'arrêté du Gouvernement flamand du 14 décembre 2012, est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\" Art. 66. Les montants de subvention pour 2013, visés à l'article 51, alinéa premier,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"intro-text\">2°, l'article 55, alinéa premier,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"intro-text\">2°, l'article 60, alinéa deux,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et l'article 61, alinéa deux,</span></li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"closing-text\">2°, ne sont pas indexés en 2013.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.173Z",
+  "tokenUsage": {
+    "prompt": 1846,
+    "completion": 438,
+    "total": 2284
+  }
+}

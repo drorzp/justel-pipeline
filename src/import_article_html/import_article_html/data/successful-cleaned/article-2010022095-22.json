@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010022095",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le présent arrêté entre en vigueur le premier jour du deuxième mois qui suit celui de sa publication au Moniteur belge, à l'exception des articles 3,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et 12, qui produisent leurs effets le 1er janvier 2003 et, des articles 3,</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et 13 qui produisent leurs effets le 25 septembre 2002.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 6 entre en vigueur à une date à déterminer par le Roi.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.243Z",
+  "tokenUsage": {
+    "prompt": 1709,
+    "completion": 327,
+    "total": 2036
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020015256",
+  "articleNumber": "138",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-138\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 138</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le livre IV, Titre 5, Chapitre 3, Section 5, de la même loi, inséré par l'article 137, il est inséré un article 131/5 rédigé comme suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 131/5.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les autorités de contrôle visées à l'article 85, § 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">servent de points de contact pour les AES.</span>\n            </li>\n          </ol>\n          <p>Ces autorités de contrôle informent les AES des cas dans lesquels elles sont informées par application de l'article 13, § 3, alinéa 3, que le droit d'un pays tiers ne permet pas de mettre en oeuvre les politiques et procédures requises, tenant compte de toutes les contraintes juridiques susceptibles de faire obstacle à une bonne mise en oeuvre de ces politiques et procédures, y compris en matière de secret, de protection des données et d'autres contraintes limitant l'échange d'informations qui peuvent être utiles à cette fin. Elles coopèrent avec les AES à la recherche d'une solution.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.271Z",
+  "tokenUsage": {
+    "prompt": 1839,
+    "completion": 412,
+    "total": 2251
+  }
+}

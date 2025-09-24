@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017A10461",
+  "articleNumber": "X.1-2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-X-1-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article X.1-2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sous réserve de l'application de l'article I.2-6, l'employeur effectue une analyse des risques de tout travail de nuit et travail posté, afin de pouvoir reconnaître quelles activités de nuit comportent des risques particuliers ou des tensions physiques ou mentales pour le travailleur, et en tenant compte des risques inhérents au travail de nuit ou posté.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Pour pouvoir reconnaître les activités qui comportent des risques particuliers ou des tensions physiques ou mentales, l'employeur doit définir, déterminer et évaluer les points suivants dans son analyse des risques :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les causes et le degré de la diminution de vigilance du travailleur, elle-même déjà diminuée du fait de la situation de désactivation biologique pendant la nuit;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les causes et le degré de l'augmentation de l'activation biologique engendrée par l'activité de nuit comportant des risques particuliers ou des tensions physiques ou mentales.</span></li>\n        </ol>\n        <p class=\"intro-text\">Une liste indicative d'activités visées aux 1° et 2° figure à l'annexe X.1-1.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.578Z",
+  "tokenUsage": {
+    "prompt": 2021,
+    "completion": 458,
+    "total": 2479
+  }
+}

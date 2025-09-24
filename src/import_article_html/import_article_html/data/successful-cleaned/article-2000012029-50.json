@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000012029",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 50</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Tout employeur qui engage un jeune dans le cadre d'une convention emploi-formation est exonéré, pendant la durée de la convention, des cotisations patronales prévues à l'article 38, § 3,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1° à 7°, et 9°</span></li>\n                </ol>\n                <p class=\"intro-text\">et § 3bis, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés ou à l'article 2, §§ 3,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1° à 5°, et 7°</span></li>\n                </ol>\n                <p class=\"intro-text\">et 3bis, de l'arrêté-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers-mineurs et assimilés, à l'article 56,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1° et 2°</span></li>\n                </ol>\n                <p class=\"closing-text\">des lois relatives à la réparation des dommages résultant des maladies professionnelles, coordonnées le 3 juin 1970 et à l'article 59, 1°, de la loi du 10 avril 1971 sur les accidents du travail.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.114Z",
+  "tokenUsage": {
+    "prompt": 1986,
+    "completion": 468,
+    "total": 2454
+  }
+}

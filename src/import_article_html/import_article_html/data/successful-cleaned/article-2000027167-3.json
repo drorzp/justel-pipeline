@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000027167",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le 4e (Justel lit: 3e) alinéa de l'article 10 du même arrêté est remplacé par la disposition suivante:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">Le nombre d'heures prestées à prendre en considération pour le calcul des subventions prévues au:</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">du présent article ne peut dépasser par aide et par année, le nombre d'heures équivalent à un temps plein, compte tenu de la durée hebdomadaire de travail convenue en commission paritaire des aides familiales et des aides seniors et rendue obligatoire par arrêté royal du 6 janvier 1984, et des dispositions légales relatives aux congés payés et jours fériés.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Le nombre de prestations visé au:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">du présent article est, le cas échéant, réduit en proportion du nombre d'heures visé à l'alinéa précédent.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.248Z",
+  "tokenUsage": {
+    "prompt": 1835,
+    "completion": 382,
+    "total": 2217
+  }
+}

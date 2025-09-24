@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995031092",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les membres sont nommés pour une durée de quatre ans par le Collège sur proposition du membre du Collège qui a les transports scolaires dans ses attributions.\n      </p>\n      <p class=\"intro-text\">\n        Les membres visés à l'article 1er, alinéa 1er, 1°, 2°, 3°, sont proposés par le réseau d'enseignement qu'ils représentent.\n      </p>\n      <p class=\"intro-text\">\n        Les membres visés à l'article 1er, alinéa 1er, 4°, 5° et 8°, sont proposés par l'association qu'ils représentent.\n      </p>\n      <p class=\"intro-text\">\n        Le membre visé à l'article 1er, alinéa 1er, 6°, est proposé par le Ministre de l'Exécutif de la Région de Bruxelles-Capitale ayant les communications dans ses attributions.\n      </p>\n      <p class=\"intro-text\">\n        Le membre visé à l'article 1er, alinéa 1er, 7°, est proposé par le membre du Collège de fa Commission communautaire française ayant les transports scolaires dans ses attributions.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.999Z",
+  "tokenUsage": {
+    "prompt": 1786,
+    "completion": 340,
+    "total": 2126
+  }
+}

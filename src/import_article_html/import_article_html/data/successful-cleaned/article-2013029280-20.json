@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013029280",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 376 du même décret, remplacé par le décret du 1er décembre 2010, est remplacé par un article 376 rédigé comme suit : &quot; Article 376. - Le mandat des directeurs adjoints leur est confié par le Pouvoir organisateur pour une durée de cinq ans. Ce mandat est renouvelable sur la base d'une évaluation réalisée par une Commission d'évaluation. Cette évaluation doit être réalisée au plus tard six mois avant la fin du mandat. Cette Commission d'évaluation est composée comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le directeur de l'Ecole supérieure des Arts, qui préside;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">quatre membres minimum faisant partie du personnel enseignant de l'Ecole supérieure des Arts;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">deux experts extérieurs à l'Ecole supérieure des Arts minimum dont le nombre ne peut être supérieur à celui des membres visés au 2°.</span></li>\n      </ol>\n      <p>Les membres visés aux 2° et 3° sont désignés par le Pouvoir organisateur sur avis du Conseil de gestion pédagogique.</p>\n      <p class=\"closing-text\">La Commission d'évaluation établit un rapport à la suite d'un entretien individuel avec le directeur adjoint lors duquel celui-ci est invité à présenter son bilan sur le mandat écoulé et son projet pédagogique et artistique pour le nouveau mandat. La Commission d'évaluation remet son rapport au Conseil de gestion pédagogique pour avis. Le directeur de l'Ecole supérieure des Arts transmet le rapport accompagné de l'avis du Conseil de gestion pédagogique au Pouvoir organisateur.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.007Z",
+  "tokenUsage": {
+    "prompt": 2073,
+    "completion": 489,
+    "total": 2562
+  }
+}

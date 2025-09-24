@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011493",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 37</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-09-25/14\" data-law-type=\"L\" data-article-number=\"64\">\n                        Le président du Comité est élu en son sein par ses membres. Le président est une personne ayant eu la qualité de réviseur d'entreprises personne physique. Les membres mentionnés à l'article 35, alinéa 1er, 1° et 2°, ne peuvent être élus comme président du Comité que s'ils ont la qualité de membre du comité de direction de la Banque ou de la FSMA.\n                    </span>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    Il préside les travaux du Comité et convoque les réunions du Comité. Il représente le Collège à l'égard des tiers conformément à l'article 43, § 1er.\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    En cas d'absence, il est remplacé par un membre désigné conformément au règlement d'ordre intérieur du Comité.\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    Le Roi fixe, sur avis de la FSMA et du Collège, le traitement du président du Comité.\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.238Z",
+  "tokenUsage": {
+    "prompt": 1902,
+    "completion": 388,
+    "total": 2290
+  }
+}

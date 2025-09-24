@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001000327",
+  "articleNumber": "4.2.34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4-2-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4.2.34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sans préjudice de l'article 98 de la loi, le ministre fixe chaque année les obligations relatives aux aspects visés à l'article IV.II.32,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">devant être respectées par les écoles visées aux articles IV.II.27 à IV.II.29 y compris, ainsi que les moyens de fonctionnement qui leur sont attribués pour ce faire.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.196Z",
+  "tokenUsage": {
+    "prompt": 1593,
+    "completion": 242,
+    "total": 1835
+  }
+}

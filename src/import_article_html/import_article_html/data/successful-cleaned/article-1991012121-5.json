@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991012121",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le mandat des membres visés à l'article 4, 2° et 3°, a une durée de quatre ans. Il peut être renouvelé. Les membres restent en fonction jusqu'à la désignation de leurs successeurs.</p>\n            <p class=\"intro-text\">Le mandat de membre prend fin :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">lorsque la durée du mandat est expirée</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">en cas de démission</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">lorsque l'organisation qui a présenté l'intéressé demande son remplacement</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">lorsque l'intéressé cesse d'appartenir à l'organisation qui l'a présenté</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">en cas de décès</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Il est pourvu, dans les trois mois, au remplacement de tout membre dont le mandat a pris fin avant son expiration normale. Dans ce cas, le nouveau membre achève le mandat du membre qu'il remplace.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.488Z",
+  "tokenUsage": {
+    "prompt": 1901,
+    "completion": 419,
+    "total": 2320
+  }
+}

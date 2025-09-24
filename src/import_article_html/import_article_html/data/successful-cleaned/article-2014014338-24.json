@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014014338",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Nul paramoteur n'est admis à la circulation aérienne s'il n'est enregistré et s'il n'a à son bord :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">le certificat d'enregistrement;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">l'autorisation de pilotage d'un paramoteur de l'équipage de conduite;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">le formulaire de référence tel que prévu à l'annexe II du présent arrêté.</span>\n          </li>\n        </ol>\n        <p>Par dérogation à l'alinéa précédent, le paramoteur piloté par une personne qui, en application des règles du présent arrêté, souhaite se préparer à l'épreuve pratique visée à l'annexe III au présent arrêté peut être admis à la circulation aérienne pour autant qu'il ait été satisfait aux dispositions mentionnées aux points 1° et 3°.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les documents visés aux points 1° à 3° sont établis conformément aux dispositions fixées par le Directeur général.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les documents visés aux points 1° à 3° doivent être présentés sur simple demande aux agents désignés par le Directeur général.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.168Z",
+  "tokenUsage": {
+    "prompt": 2034,
+    "completion": 532,
+    "total": 2566
+  }
+}

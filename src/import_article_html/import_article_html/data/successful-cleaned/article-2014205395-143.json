@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014205395",
+  "articleNumber": "143",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-143\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 143</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pendant la validité de l'enregistrement, les accueillants conventionnés communiquent par écrit au service des accueillants d'enfants, dans les 30 jours, toute modification apportée aux données mentionnées à l'article 138, alinéa 2, 4°, 5°, 6°, 8° et 9°.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pendant la validité de l'enregistrement, le service d'accueillants d'enfants peut en tout temps exiger des accueillants conventionnés une version actuelle des données mentionnées au § 1er.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.207Z",
+  "tokenUsage": {
+    "prompt": 1677,
+    "completion": 280,
+    "total": 1957
+  }
+}

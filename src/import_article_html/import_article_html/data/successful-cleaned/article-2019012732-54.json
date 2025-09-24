@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012732",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 54</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Si l'offre restauratrice aboutit à un accord, celui-ci est signé par les personnes concernées conformément à l'article 52,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">et est joint au dossier de la procédure.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">En cas de concertation restauratrice en groupe, une déclaration d'intention du jeune est également insérée. Il y explique les démarches concrètes qu'il entreprendra en vue de restaurer les dommages relationnels et matériels et les dommages subis par la communauté et de s'abstenir d'autres faits qualifiés infraction dans le futur. Cette déclaration d'intention doit également être signée par les personnes qui exercent l'autorité parental à son égard. Si l'accord ne remédie pas entièrement aux conséquences matérielles du fait qualifié infraction, il le mentionne expressément. L'accord est homologué par le juge ou le tribunal de la jeunesse qui ne peut modifier son contenu et ne peut refuser de l'approuver que s'il est contraire à l'ordre public.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.306Z",
+  "tokenUsage": {
+    "prompt": 1808,
+    "completion": 333,
+    "total": 2141
+  }
+}

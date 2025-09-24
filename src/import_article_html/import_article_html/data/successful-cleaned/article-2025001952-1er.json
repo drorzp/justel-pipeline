@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025001952",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n   <header class=\"article-header\">\n      <h2 class=\"article-number\">Article 1er</h2>\n   </header>\n   <div class=\"article-content\">\n      <section class=\"paragraph\" id=\"para-1\">\n         <h3 class=\"paragraph-marker\">§ 1.</h3>\n         <div class=\"paragraph-content\">\n            <p class=\"intro-text\">Dans l'article 2 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 7 décembre 2023 portant exécution de l'article 15, § 2 des décret et ordonnance conjoints du 16 mai 2019 relatifs au médiateur bruxellois, le mot \" § 1. \" est omis. De même, les mots \" article 2, § 1 \" sont remplacés par \" article 2 \" aux articles suivants du même arrêté :</p>\n            <ul class=\"hyphenated-items\">\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 3, 3°, 14° et 15°</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 4, 1°</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 6</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 7, § 1</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 12, § 2</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 18, § 1</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 20, § 3, 1°</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 21, § 1, 2 et 3</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 22, § 1 et 2</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 23, § 1</span></li>\n               <li class=\"hyphenated-item\"><span class=\"item-text\">Art. 26.</span></li>\n            </ul>\n         </div>\n      </section>\n   </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.718Z",
+  "tokenUsage": {
+    "prompt": 2077,
+    "completion": 567,
+    "total": 2644
+  }
+}

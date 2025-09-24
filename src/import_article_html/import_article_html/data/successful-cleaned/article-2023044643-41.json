@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044643",
+  "articleNumber": "41",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-41\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 41</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Pour l'application de l'article 167, § 2, du décret du 16 juin 2023, AGODI est désignée comme le service compétent de la Communauté flamande.\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-06-21/34\" data-law-type=\"AGF\" data-article-number=\"68\">\n          La valeur d'une ORE est fixée à 5,934 euros pour l'année scolaire 2024-2025.\n        </span>.\n        AGODI fixe la manière dont le signalement mentionné à l'article 167, § 2, point 2°, du décret précité, peut être effectué.\n        AGODI détermine la façon dont elle peut calculer le nombre maximal d'ORE qu'un internat de l'enseignement peut convertir en vertu des points:\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de l'article 167, § 1er du décret précité et le communique à la direction de l'internat de l'enseignement concerné.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.790Z",
+  "tokenUsage": {
+    "prompt": 1890,
+    "completion": 383,
+    "total": 2273
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007201245",
+  "articleNumber": "118",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-118\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 118</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation à l'article 115, § 1er, 1° et 2°, s'il n'est pas possible de constituer un centre de gestion de 1 000 élèves au sein d'une même entité pour l'enseignement subventionné ou d'une même zone pour l'enseignement organisé par la Communauté française, le centre de gestion peut réunir des établissements de pouvoirs organisateurs d'entités différentes ou des établissements de direction d'établissement de zones différentes.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation à l'article 115, § 1er, 1° et 2, des pouvoirs organisateurs d'entités voisines peuvent également décider de constituer ensemble un centre de gestion pour autant que le nombre d'élèves pris en compte ne dépassent pas 10 000, sauf dérogation approuvée par le Gouvernement.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.982Z",
+  "tokenUsage": {
+    "prompt": 1896,
+    "completion": 338,
+    "total": 2234
+  }
+}

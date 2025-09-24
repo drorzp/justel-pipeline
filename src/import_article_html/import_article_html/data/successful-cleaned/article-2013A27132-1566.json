@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A27132",
+  "articleNumber": "1566",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1566\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1566</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Afin d'apprécier la réalisation effective des missions des fédérations reconnues par le Gouvernement visées à l'article 427 <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-12-04/07\" data-law-type=\"ARW\" data-article-number=\"138\">...</span> du Code décrétal et d'autoriser la liquidation des subventions, le ministre <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-12-04/07\" data-law-type=\"ARW\" data-article-number=\"138\">...</span> compose un comité d'évaluation en y incluant deux représentants des associations dont :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'un appartient à une association effectuant ses prestations au forfait visé à l'article 52 de la loi;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et l'autre appartient à une association prestant ses services sur la base du paiement par prestation selon la nomenclature des soins de santé.</span></li>\n      </ol>\n      <p class=\"closing-text\">Le comité d'évaluation est présidé par le ministre ou son représentant. Il s'associe toute personne dont les compétences lui sont utiles. L'administration y délègue deux représentants dont un exerce son activité au sein de l'observatoire wallon de la santé, et en assure le secrétariat.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.119Z",
+  "tokenUsage": {
+    "prompt": 1960,
+    "completion": 427,
+    "total": 2387
+  }
+}

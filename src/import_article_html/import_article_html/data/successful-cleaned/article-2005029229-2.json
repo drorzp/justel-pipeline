@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005029229",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 27 de la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires, modifié par le décret du 31 mars 2004, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"provision-text\">au § 7, le 3°ter est remplacé par la disposition suivante :</span>\n                    <blockquote>\n                        <span class=\"provision-text\">3°ter à partir de l'année académique 2003-2004, les étudiants qui, après avoir échoué au cours de deux années académiques à un concours ou à toute épreuve permettant d'entreprendre ou de poursuivre des études en sciences vétérinaires en Belgique ou à l'étranger, s'inscrivent dans cette même discipline dans les 5 ans qui suivent leur dernier échec.</span>\n                    </blockquote>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"provision-text\">le § 7 est complété par l'alinéa suivant :</span>\n                    <blockquote>\n                        <span class=\"provision-text\">Pour l'application de l'alinéa 1er, 1°, 2°, 3° et 3°bis, l'on entend également par étudiant régulièrement inscrit, l'étudiant qui a échoué à un concours ou à toute épreuve permettant d'entreprendre ou de poursuivre des études supérieures en Belgique ou à l'étranger à l'issue d'une année d'études supérieures préparatoire ou générale menant à ce concours ou à cette épreuve, l'abandon ou la non-présentation à ce concours ou à cette épreuve étant considéré comme un échec.</span>\n                    </blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.886Z",
+  "tokenUsage": {
+    "prompt": 2039,
+    "completion": 471,
+    "total": 2510
+  }
+}

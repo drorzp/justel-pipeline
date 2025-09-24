@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003035384",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 22, § 1er du même décret, les 1° et 2° sont remplacés par ce qui suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">faire établir, par le conseil communal ou par le conseil de la Commission communautaire flamande, une déclaration d'intention certifiant qu'un plan de politique culturelle sera soumis au plus tôt six mois et au plus tard un an de la date à partir de laquelle la subvention visée à l'article 21, § 1er est calculée conformément à l'article 23, § 1er;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">affirmer que l'on disposera d'un coordinateur de politique culturelle, inséré au moins au niveau moyen du personnel culturel dirigeant de la commune ou de la Commission communautaire flamande, qui remplit les conditions fixées par le Gouvernement flamand et dont la description des tâches est fixée par le Gouvernement flamand;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.722Z",
+  "tokenUsage": {
+    "prompt": 1848,
+    "completion": 334,
+    "total": 2182
+  }
+}

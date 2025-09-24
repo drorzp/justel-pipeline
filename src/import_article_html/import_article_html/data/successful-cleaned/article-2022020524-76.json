@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022020524",
+  "articleNumber": "76",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-76\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 76</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sont abrogés :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'arrêté royal du 11 janvier 2006 mettant en application les articles 142, § 4, 144quater, § 3, 148sexies, § 1er, 1° et 148septies de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques et déterminant les plafonds des dommages et intérêts dus par les prestataires des services postaux en cas de responsabilité extracontractuelle de la perte, du vol, de l'avarie et/ou du retard d'un envoi postal au cours de l'exécution d'un service postal effectué dans le cadre d'un service public modifié par l'arrêté royal du 19 avril 2014 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'arrêté royal du 11 janvier 2006 mettant en application le titre IV (Réforme de la Régie des Postes) de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques, modifié par les arrêtés royaux des 19 avril 2014 et 18 septembre 2017 et par la loi du 26 janvier 2018 relative aux services postaux ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'arrêté royal du 24 avril 2014 portant réglementation du service postal, modifié par l'arrêté royal du 11 juin 2015.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.703Z",
+  "tokenUsage": {
+    "prompt": 2010,
+    "completion": 457,
+    "total": 2467
+  }
+}

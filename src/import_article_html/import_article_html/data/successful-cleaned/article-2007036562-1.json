@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036562",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\">.</span></h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 2, § 2, points:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de l'arrêté du Gouvernement flamand modifiant l'arrêté du Gouvernement flamand du 27 avril 2007 portant création et composition du comité de suivi en vue de l'exécution du Programme flamand pour le Développement rural pour la période 2007-2013, les mots &quot;le Ministre flamand des Réformes institutionnelles, de l'Agriculture, de la Pêche en mer et de la Ruralité&quot; sont remplacés par les mots &quot;le Ministre flamand des Réformes institutionnelles, des Ports, de l'Agriculture, de la Pêche en mer et de la Ruralité&quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.972Z",
+  "tokenUsage": {
+    "prompt": 1729,
+    "completion": 321,
+    "total": 2050
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021041547",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1 de l'arrêté du Gouvernement flamand du 11 juin 2004 portant création de l'agence autonomisée interne Agence de Gestion facilitaire, modifié par les arrêtés du Gouvernement flamand des 23 décembre 2010, 4 juillet 2014, 13 mars 2016 et 11 septembre 2020, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 3° est remplacé par ce qui suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">ministre : le ministre flamand chargé de la gestion des infrastructures, le ministre flamand chargé de l'immobilier, le ministre flamand chargé des marchés publics et le ministre flamand chargé de la gestion documentaire ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté les points 6° et 7° ainsi rédigés :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">autorités locales : les autorités locales visées à l'article I.3, 5° du décret de gouvernance du 7 décembre 2018 ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">Autorité flamande : l'Autorité flamande, visée à l'article I.3, 1° du décret de gouvernance du 7 décembre 2018.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.145Z",
+  "tokenUsage": {
+    "prompt": 1974,
+    "completion": 496,
+    "total": 2470
+  }
+}

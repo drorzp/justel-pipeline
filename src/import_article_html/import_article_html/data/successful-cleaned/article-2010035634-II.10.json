@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035634",
+  "articleNumber": "II.10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-II-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article II.10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 125decies, § 1er, du même décret, inséré par le décret du 10 juillet 2003 et modifié par les décrets des 4 juillet 2008, 20 mars 2009 et 8 mai 2009, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le point 2°, inséré par le décret du 20 mars 2009 et implicitement abrogé par le décret du 8 mai 2009, est réinséré comme suit : \" 2° le contenu et l'application de la déclaration d'engagement visée à l'article 37; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est ajouté un point 6°, rédigé comme suit : \" 6° le transfert à un autre centre d'enseignement de points destinés à la gestion de l'encadrement renforcé, obtenus sur la base de l'article 125duodecies1, § 1er, à condition qu'une école quitte le centre d'enseignement sur la base de l'article 125quinquies, § 4ter,</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"1°\">\n                            <span class=\"provision-text\">1° et</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"2°\">\n                            <span class=\"provision-text\">2°, et adhère au centre d'enseignement auquel sont transférés les points destinés à la gestion de l'encadrement renforcé.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.239Z",
+  "tokenUsage": {
+    "prompt": 2022,
+    "completion": 487,
+    "total": 2509
+  }
+}

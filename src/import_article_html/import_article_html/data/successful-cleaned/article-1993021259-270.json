@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1993021259",
+  "articleNumber": "270",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-270\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 270</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 22, [...], de la même loi, modifié par les lois des 26 avril 1929 et 26 juin 1970, est remplacé par la disposition suivante: <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1993-12-30/31\" data-law-type=\"L\" data-article-number=\"1\">&lt;L 1993-12-30/31, art. 1, 002; En vigueur : 5555-55-55&gt;</span></p>\n            <p class=\"intro-text\">\" Sont adressés au greffier de la province dans les cinq jours qui suivent la date de l'élection pour ce qui concerne les documents visés aux:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le procès-verbal de l'élection, rédigé et signé séance tenante par les membres du bureau principal de district et les témoins, dans le cas d'élection sans lutte ou en l'absence de groupement de listes</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le procès-verbal visé à l'article 20, § 1er, alinéa 2, dans les districts où il a été fait usage de la faculté de groupement de listes en application de l'article 15</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les procès-verbaux des bureaux de vote et de dépouillement, les actes de présentation et les bulletins contestés.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Des extraits du procès-verbal de l'élection sont adressés aux élus. Le Conseil provincial peut, s'il le juge nécessaire se faire produire ces pièces ainsi que celles dont l'article 21, § 3, prescrit l'envoi au greffe du tribunal de la justice de paix. \"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.060Z",
+  "tokenUsage": {
+    "prompt": 2191,
+    "completion": 540,
+    "total": 2731
+  }
+}

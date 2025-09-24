@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018070047",
+  "articleNumber": "228",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-228\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 228</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article D.140 du Livre Ier du même Code, modifié en dernier lieu par le décret du 27 mars 2014 les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au § 1er, alinéa 5, les mots \" du Code forestier et de la loi du 28 février 1882 sur la chasse \" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au § 2, alinéa 1er, les mots \" alinéas 1er et 3 \" sont remplacés par \" à l'exception de l'alinéa 1er, 18° et 19° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au § 3, alinéa 1er, les mots \" alinéas 1er et 3 \" sont remplacés par \" à l'exception de l'alinéa 1er, 18° et 19° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">au § 3, alinéa 2, les mots \" alinéas 1er et 3 \" sont remplacés par \" à l'exception de l'alinéa 1er, 18° et 19° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.358Z",
+  "tokenUsage": {
+    "prompt": 2108,
+    "completion": 446,
+    "total": 2554
+  }
+}

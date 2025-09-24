@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045465",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'indemnité est allouée:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">si le défunt est un membre du personnel statutaire, lorsque celui-ci se trouve, la veille du décès, en activité de service, en disponibilité ou en non-activité dans le cadre des prestations réduites pour convenances personnelles</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">si le défunt est un stagiaire en vue d'une nomination, lorsque celui-ci se trouve, la veille du décès, en activité de service ou en disponibilité pour maladie</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">si le défunt est un membre du personnel contractuel, lorsque celui-ci se trouve, la veille du décès, dans une situation où il acquiert de l'ancienneté pécuniaire ou dans une des situations visées à l'article 86, § 1er,</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">a) et b),</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.395Z",
+  "tokenUsage": {
+    "prompt": 1880,
+    "completion": 469,
+    "total": 2349
+  }
+}

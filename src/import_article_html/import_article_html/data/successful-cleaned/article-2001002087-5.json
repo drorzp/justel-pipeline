@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001002087",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-01-19/04\" data-law-type=\"AR\" data-article-number=\"2\">\n        <p class=\"intro-text\">Dans les limites des moyens budgétaires octroyés à cet effet au début de la législature, et sans préjudice de leur révision au cours de la législature, le Premier Ministre dispose d'une cellule de coordination générale de la politique qui est chargée de l'assister dans la coordination, la préparation et l'évaluation de la politique du gouvernement et les Vice-Premiers Ministres disposent d'une cellule de politique générale qui est chargée de les assister dans la préparation et dans l'évaluation de la politique générale du gouvernement.</p>\n        <p class=\"intro-text\">Le Conseil des Ministres peut décider que d'autres ministres disposent également d'une cellule de politique générale sous les mêmes conditions.</p>\n        <p class=\"intro-text\">Les membres des cellules de politique générale représentent le Vice-Premier Ministre ou le Ministre aux réunions de la cellule de coordination générale de la politique.</p>\n        <p class=\"intro-text\">Les dispositions de l'article 2, § 3, sont d'application à la cellule de coordination générale de la politique et aux cellules de politique générale, à l'exception de l'alinéa 2, 1° et 2°.</p>\n        <p class=\"closing-text\">Le directeur de la cellule de coordination générale de la politique et les directeurs des cellules de politique générale sont nommés et démis par le Roi, respectivement sur la proposition du Premier ministre et des Vice-Premiers Ministres et des Ministres concernés. Ils portent le titre de directeur de la politique générale.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.207Z",
+  "tokenUsage": {
+    "prompt": 2093,
+    "completion": 454,
+    "total": 2547
+  }
+}

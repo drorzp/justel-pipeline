@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991120651",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'accomplissement des tâches ci-après énumérées qui relèvent de son objet social, la Croix-Rouge de Belgique, établissement d'utilité publique, est autorisée, en tant qu'organisme de droit belge remplissant des missions d'intérêt général, à accéder dans les limites et conditions fixées à l'article 3 du présent arrêté, aux informations visées à l'article 3, alinéa 1er, 1° à 9° et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">dans l'exercice de la mission humanitaire qui lui est assignée de remettre en contact avec les membres de leur famille les personnes qui en ont été séparées par suite de faits de guerre, de calamités naturelles ou d'autres circonstances dommageables;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">dans l'exercice de la mission qui lui incombe de venir en aide aux victimes de catastrophes ou de calamités publiques et de fournir les premiers secours aux victimes d'accidents;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">pour la récupération à charge des personnes secourues des frais de transport exposés par elle dans l'accomplissement de la mission ci-dessus visée au 2°;</span></li>\n      </ol>\n      <p class=\"closing-text\">L'accès visé à l'alinéa 1er est réservé au président de la Croix-Rouge de Belgique. Celui-ci peut, par voie de désignation écrite et nominative, déléguer son droit d'accès aux membres de son personnel qui sont revêtus d'un grade équivalent à celui du niveau 1 des agents de l'Etat et qui, en raison de leurs fonctions, doivent nécessairement avoir accès aux informations du Registre national.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.017Z",
+  "tokenUsage": {
+    "prompt": 2149,
+    "completion": 525,
+    "total": 2674
+  }
+}

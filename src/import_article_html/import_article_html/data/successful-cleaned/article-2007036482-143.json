@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036482",
+  "articleNumber": "143",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-143\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 143</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 5 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, modifié par les décrets des 21 décembre 1994, 1er décembre 1998, 14 février 2003, 10 juillet 2003, 15 juillet 2005 et 7 juillet 2006, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">au point 12°, les mots \"de la formation, du module,\" sont insérés dans la première phrase entre les mots \"du niveau d'enseignement,\" et les mots \"du cours\";</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">au point 13°, les mots \"pour une formation déterminée ou un module déterminé\" sont insérés entre les mots \"à un niveau d'enseignement déterminé,\" et \"pour un cours déterminé\";</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">il est ajouté un 23° et un 24°, rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"23°\"><span class=\"provision-text\">un module : un module tel que visé à l'article 24 du décret du 15 juin 2007 relatif à l'éducation des adultes;</span></li>\n                        <li class=\"provision\" data-number=\"24°\"><span class=\"provision-text\">une formation : une formation telle que visée à l'article 24 du décret du 15 juin 2007 relatif à l'éducation des adultes.</span></li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.975Z",
+  "tokenUsage": {
+    "prompt": 2058,
+    "completion": 502,
+    "total": 2560
+  }
+}

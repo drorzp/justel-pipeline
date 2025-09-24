@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032493",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les données suivantes sont publiques :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'adresse de l'étude ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les données de contact de l'étude ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le numéro du notaire ou des sociétés visées à l'article 50 de la loi figurant dans la Banque-carrefour des entreprises de l'étude ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les numéros d'identification attribués aux études notariales, autres que le numéro visé au 3°, qui sont récoltés pour des raisons de gestion interne.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Les données visées à l'alinéa 1er, 1°, 2° et 3° sont directement accessibles.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.406Z",
+  "tokenUsage": {
+    "prompt": 1744,
+    "completion": 342,
+    "total": 2086
+  }
+}

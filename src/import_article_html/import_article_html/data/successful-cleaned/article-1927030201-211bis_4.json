@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1927030201",
+  "articleNumber": "211bis/4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-211bis/4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 211bis/4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-12-20/09\" data-law-type=\"L\" data-article-number=\"52\">Dans le cas d'un dispositif commercialisable, l'intermédiaire doit établir tous les trois mois un rapport fournissant une mise à jour contenant les nouvelles informations devant faire l'objet d'une déclaration, visées à l'article 211bis, § 6/3, 1 °, 4 °, 7 ° et 8°, qui sont devenues disponibles depuis la transmission du dernier rapport.</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.583Z",
+  "tokenUsage": {
+    "prompt": 1649,
+    "completion": 216,
+    "total": 1865
+  }
+}

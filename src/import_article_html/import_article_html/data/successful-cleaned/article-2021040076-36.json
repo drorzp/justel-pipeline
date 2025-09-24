@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021040076",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 70 de l'annexe 11 à l'arrêté du Gouvernement flamand du 28 juin 2019 relatif à la programmation, aux conditions d'agrément et au régime de subventionnement de structures de soins résidentiels et d'associations d'intervenants de proximité et d'usagers, le membre de phrase \" catégorie de dépendance Cd ou D visée à l'article 425, alinéa 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">\" est remplacé par le membre de phrase \" catégorie de dépendance Cd ou B visée à l'article 425, alinéa 2,</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.143Z",
+  "tokenUsage": {
+    "prompt": 1769,
+    "completion": 358,
+    "total": 2127
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018040111",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 16, § 1er du même décret est remplacé par ce qui suit :</p>\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">A partir de l'année 2016, sans préjudice de dispositions plus favorables prévues par la réglementation des secteurs d'activités énumérés à l'article 2, à l'exclusion des 5° et 9°, l'association bénéficie, par emploi équivalent temps plein visé à l'article 9°, 1°, d'une subvention fondée sur :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"a)\">\n                        <span class=\"provision-text\">10 points de base;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"b)\">\n                        <span class=\"provision-text\">4.75 points complémentaires.</span>\n                    </li>\n                </ol>\n                <p class=\"closing-text\">Le Gouvernement peut augmenter, par équivalent temps plein le nombre de points complémentaires.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.348Z",
+  "tokenUsage": {
+    "prompt": 1711,
+    "completion": 328,
+    "total": 2039
+  }
+}

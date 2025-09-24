@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019014189",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 5, § 2/bis du même arrêté, inséré par l'arrêté du Gouvernement flamand du 28 mars 2014, est complété par des points 3° et 4°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">pour 2019, le montant forfaitaire est augmenté d'un montant non indexé de 6,58 euros ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">à partir de 2020, le montant forfaitaire est augmenté d'un montant non indexé de 8,55 euros.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.342Z",
+  "tokenUsage": {
+    "prompt": 1641,
+    "completion": 258,
+    "total": 1899
+  }
+}

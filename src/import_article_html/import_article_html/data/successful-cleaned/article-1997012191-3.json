@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997012191",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application de l'article 6, § 1er, 1°, 2°, 3°, 4° et 6° de l'arrêté royal, on entend par \" interruption \" : toute période pendant laquelle un chômeur ayant droit aux allocations de chômage ou d'attente pour tous les jours de la semaine a cessé de bénéficier de ces allocations, à l'exception :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">des périodes de maximum quinze jours, sauf s'il s'agit de périodes de sanction administrative ou d'exclusion sur base des articles 51 à 52 et 153 à 157 de l'arrêté royal du 25 novembre 1991 portant réglementation de chômage</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">des périodes qui ont donné lieu au paiement d'une indemnité par application des dispositions légales ou réglementaires concernant l'assurance obligatoire contre la maladie et l'invalidité</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">des périodes d'emprisonnement</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">des périodes de résidence en Allemagne d'un travailleur qui cohabite avec un Belge occupé dans le cadre du stationnement des Forces belges</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">des périodes de chômage couvertes par un pécule de vacances.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.027Z",
+  "tokenUsage": {
+    "prompt": 1956,
+    "completion": 445,
+    "total": 2401
+  }
+}

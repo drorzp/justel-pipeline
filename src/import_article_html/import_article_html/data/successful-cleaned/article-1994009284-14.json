@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994009284",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 52 de la même loi, partiellement abrogé par le décret de la Communauté flamande du 28 mars 1990 et par le décret de la Communauté française du 4 mars 1991, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au deuxième alinéa, les chiffres \" 37, 2° \" sont remplacés par les chiffres \" 37, § 2, 2° \", et les chiffres \" 37, 3° et 4° \" par les chiffres \" 37, § 2, 3° et 4° et 37, § 3, 2° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le même article 52 est complété par les alinéas suivants :</span>\n          <p>Lorsque le tribunal de la jeunesse prend provisoirement une des mesures prévues à l'article 37, § 2, 4°, à l'égard d'une personne ayant commis un fait qualifié infraction, il peut, pour les nécessités de l'information ou de l'instruction et pour un délai renouvelable de trente jours au plus, interdire au jeune par décision motivée de communiquer librement avec les personnes nommément désignées, autres que son avocat.</p>\n          <p>Lorsque le tribunal de la jeunesse est saisi du cas d'une personne ayant commis avant l'âge de dix-huit ans un fait qualifié infraction et qui a dépassé cet âge au cours de la procédure, il peut ordonner ou maintenir des mesures provisoires jusqu'à ce que l'intéressé ait atteint l'âge de vingt ans.</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.071Z",
+  "tokenUsage": {
+    "prompt": 2085,
+    "completion": 488,
+    "total": 2573
+  }
+}

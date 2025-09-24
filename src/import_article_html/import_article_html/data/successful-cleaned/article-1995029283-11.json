@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995029283",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 50, § 3, deuxième alinéa du décret du 6 juin 1994, est remplacé par le texte suivant :</p>\n            <p class=\"quoted-text\">\"Toutefois, pour toute désignation d'une durée égale ou inférieure à quinze semaines, les conditions visées à l'article 49, 4° et 5°, ne sont pas exigées.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.994Z",
+  "tokenUsage": {
+    "prompt": 1560,
+    "completion": 168,
+    "total": 1728
+  }
+}

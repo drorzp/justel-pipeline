@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021021422",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 34, alinéa 1er, du même décret, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 3° est remplacé par ce qui suit :</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">\" 3° le contrôle sur les interventions demandées pour des soins, dans les cas fixés par le Gouvernement flamand ; \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté un point 4° et un point 5°, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">\" 4° la fourniture de conseils sur la recevabilité de la demande d'une intervention sur la base de besoins spécifiques, visée à l'article 129 ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">5° le contrôle de l'application de l'instrument d'évaluation, visé aux articles 145, 148, 150 et 152.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.177Z",
+  "tokenUsage": {
+    "prompt": 1826,
+    "completion": 407,
+    "total": 2233
+  }
+}

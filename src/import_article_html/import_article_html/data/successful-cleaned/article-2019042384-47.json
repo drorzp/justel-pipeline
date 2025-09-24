@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042384",
+  "articleNumber": "47",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-47\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 47</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 151, § 1er, du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, les points 1° et 2° sont remplacés par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">un score minimum de 13 au BelRAI screener ou minimum 6 points pour la somme des modules AIVQ et AVQ du BelRAI screener, constaté dans le cadre des activités soins personnels, aide ménagère ou aide sanitaire, effectuées par un service d'aide aux familles dans le cadre du décret sur les soins résidentiels du 15 février 2019 ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">un score minimum de 35 sur l'échelle de profil BEL, constaté dans le cadre des activités soins personnels, aide ménagère ou aide sanitaire, effectuées par un service d'aide aux familles dans le cadre du décret sur les soins résidentiels du 15 février 2019 ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 1er, 6°, le mot \" dagverzorgingscentrum \" est remplacé par les mots \" centrum voor dagverzorging \" dans la version néerlandaise ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'alinéa 3 est remplacé par ce qui suit : \" A l'alinéa 1er, le \" service d'aide aux familles \" s'entend du service visé à l'article 11 du décret sur les soins résidentiels du 15 février 2019 et agréé en application de l'article 38 du décret précité.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.482Z",
+  "tokenUsage": {
+    "prompt": 2168,
+    "completion": 567,
+    "total": 2735
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998033070",
+  "articleNumber": "58",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-58\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 58</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er, alinéa 1er, à l'article 3,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et à l'article 9, § 2 du même décret, les termes &quot; sowie für die besondere soziale Fürsorge &quot; et/ou &quot; ainsi que pour l'assistance sociale spéciale &quot; sont supprimés.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">A l'article 9, § 1er du même décret, les termes &quot; ainsi qu'à l'assistance sociale spéciale &quot; sont supprimés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.050Z",
+  "tokenUsage": {
+    "prompt": 1608,
+    "completion": 242,
+    "total": 1850
+  }
+}

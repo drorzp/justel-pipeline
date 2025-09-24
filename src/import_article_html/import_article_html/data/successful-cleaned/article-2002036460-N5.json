@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002036460",
+  "articleNumber": "N5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article N5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Annexe 5. - Certificat équivalent au certificat d'enseignement fondamental. (Formulaire non repris pour motifs techniques. Voir M.B. 04-12-2002, p. 54544).</p>\n      <p>Modifié par :</p>\n      <p>\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-09-07/50\" data-law-type=\"AGF\" data-article-number=\"30\">&lt;AGF 2007-09-07/50, art. 30, 6° et 7° , 006; En vigueur : 30-06-2007&gt;</span><br>\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2018-06-01/11\" data-law-type=\"AGF\" data-article-number=\"31\">&lt;AGF 2018-06-01/11, art. 31, 020; En vigueur : 01-09-2020&gt;</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.711Z",
+  "tokenUsage": {
+    "prompt": 1772,
+    "completion": 311,
+    "total": 2083
+  }
+}

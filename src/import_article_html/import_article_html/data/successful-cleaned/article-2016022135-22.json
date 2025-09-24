@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016022135",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Le Comité de gestion du Service social collectif détermine les primes, interventions et avantages qui peuvent être accordés aux bénéficiaires en vertu de l'article 21, 3° et 4° ainsi que les modalités d'introduction des demandes.</p>\n          <p>Il fixe les règles auxquelles est subordonné l'octroi des primes, interventions et avantages. Le règlement contenant ces règles est approuvé par le ministre.</p>\n          <p>Il peut :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">subordonner l'octroi des interventions et avantages à une enquête sociale préalable ou à une condition de ressources</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">limiter la durée d'octroi de l'intervention ou de l'avantage dans le temps</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">étendre les catégories de bénéficiaires.</span>\n            </li>\n          </ol>\n          <p>L'action du Service social collectif ne peut se substituer à l'action qui est légalement dévolue à d'autres organismes. Son action est toujours complémentaire et supplétive.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.252Z",
+  "tokenUsage": {
+    "prompt": 1889,
+    "completion": 413,
+    "total": 2302
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001022461",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Par \" repos compensatoire \", on entend :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">\" repos compensatoire autre que repos compensatoire secteur de la construction \" : l'absence du travail, à l'exception du repos compensatoire visé sous le 2° et 3°, pour cause de repos conformément aux articles 16, 26bis, 29, § 4, 32, § 2, et 33 de la loi sur le travail ou aux dispositions de la loi du 4 janvier 1974 relative aux jours fériés. Ce repos est accordé consécutivement aux prestations visées aux articles 14 et 15 du présent arrêté;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">\" repos compensatoire secteur de la construction \" : l'absence du travail pour cause de repos visé dans l'arrêté royal n° 213 du 26 septembre 1983 relatif à la durée du travail dans les entreprises ressortissant à la commission paritaire de la construction ou dans une convention collective de travail relative à la réduction du temps de travail conclue au sein de la commission paritaire de la construction;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">\" repos compensatoire dans le cadre d'une réduction du temps de travail \" : l'absence du travail pour cause de repos octroyé dans le cadre d'un régime de réduction du temps de travail.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.148Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 439,
+    "total": 2415
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044130",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">Dans la version française de l'article 8, § 1er, 2° et 3°, de la même ordonnance conjointe, les mots \", et ne plus être depuis cinq ans \" sont remplacés par les mots \", et ne plus être \".</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">Dans la version néerlandaise de l'article 8, § 1er, 2°, de la même ordonnance conjointe, les mots \" en er op het moment van benoeming in de Commissie ten minste sedert vijf jaar geen lid meer van zijn \" sont remplacés par les mots \" en er op het moment van benoeming in de Commissie geen lid meer van zijn \".</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">Dans la version néerlandaise de l'article 8, § 1er, 3° de la même ordonnance conjointe, les mots \", maar ten minste sedert vijf jaar niet langer op het moment van benoeming in de Commissie \" sont remplacés par les mots \" maar, op het moment van benoeming in de Commissie, het niet langer zijn \".</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.859Z",
+  "tokenUsage": {
+    "prompt": 1790,
+    "completion": 413,
+    "total": 2203
+  }
+}

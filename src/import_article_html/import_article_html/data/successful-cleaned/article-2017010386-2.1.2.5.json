@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010386",
+  "articleNumber": "2.1.2.5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2-1-2-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2.1.2.5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-12-22/45\" data-law-type=\"AGF\" data-article-number=\"8\">\n                <section class=\"paragraph\">\n                    <div class=\"paragraph-content\">\n                        Chaque agriculteur qui n'est pas soumis à déclaration, aux termes de l'article 23, § 1er, du Décret sur les engrais du 22 décembre 2006, peut déclarer à titre unique les données visées à l'article 23, § 5, alinéa 1er, 6° et 7° du décret précité. A cet effet, il doit être identifié en tant qu'agriculteur de manière unique dans le SIGC.\n                    </div>\n                </section>\n                <section class=\"paragraph\">\n                    <div class=\"paragraph-content\">\n                        Au cas où l'agriculteur non déclarant, qui a fait une déclaration à titre unique, ainsi que prévu à l'alinéa 1er, modifierait la superficie des terres agricoles appartenant à son exploitation ou arrêterait son exploitation, il est tenu d'en avertir spontanément l'instance compétente, visée à l'article 2, § 1er de l'arrêté de la Région flamande du 9 février 2007 contenant des dispositions relatives à la création d'une identification commune d'agriculteurs, d'exploitations et de terres agricoles dans le cadre de la politique relative aux engrais et de la politique de l'agriculture, dans les trois mois de la modification ou de l'arrêt. En cas de modification de la superficie des terres agricoles appartenant à l'exploitation, l'agriculteur doit à nouveau introduire une demande unique.\n                    </div>\n                </section>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.751Z",
+  "tokenUsage": {
+    "prompt": 2106,
+    "completion": 467,
+    "total": 2573
+  }
+}

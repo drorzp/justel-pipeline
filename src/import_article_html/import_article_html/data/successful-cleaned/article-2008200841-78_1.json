@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008200841",
+  "articleNumber": "78/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-78/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 78/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Si la personne qui procède à l'assainissement du sol conformément à l'article 47ter, § 2, du Décret relatif au sol, prie l'OVAM d'émettre un avis sur le contenu des données que le projet d'assainissement du sol doit comprendre suite à l'obligation relative au projet MER, l'OVAM consulte à ce sujet \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2017-02-17/17\" data-law-type=\"AGF\" data-article-number=\"13\">la personne procédant à l'assainissement du sol,</span> \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2017-02-17/17\" data-law-type=\"AGF\" data-article-number=\"13\">la division compétente pour l'évaluation des incidences sur l'environnement et les instances consultatives visées à l'article 83, 1° et 2°, et à l'article 84,</span> \n            avant d'émettre son avis.\n          </p>\n        </div>\n      </section>\n    </div>\n  </div>\n  <footer class=\"article-footer\">\n    <ul class=\"footnotes\">\n      <li class=\"footnote\" data-footnote-id=\"1\" data-dossier-number=\"2015-10-23/21\" data-law-type=\"AGF\" data-article-number=\"24\">\n        Inséré par AGF <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2015102321\">2015-10-23/21</a>, art. 24, 013; En vigueur : 01-02-2016\n      </li>\n      <li class=\"footnote\" data-footnote-id=\"2\" data-dossier-number=\"2017-02-17/17\" data-law-type=\"AGF\" data-article-number=\"13\">\n        AGF <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2017021717\">2017-02-17/17</a>, art. 13, 016; En vigueur : 23-02-2017\n      </li>\n    </ul>\n  </footer>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.912Z",
+  "tokenUsage": {
+    "prompt": 1886,
+    "completion": 621,
+    "total": 2507
+  }
+}

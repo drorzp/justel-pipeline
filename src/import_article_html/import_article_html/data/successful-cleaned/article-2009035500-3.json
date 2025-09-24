@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035500",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 16.1.2 du même décret, inséré par le décret du 21 décembre 2007, sont ajoutés un point 5° et un point 6°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">fonctionnaire autorisé : le ou les fonctionnaire(s) désigné(s) par le Gouvernement flamand;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">méthode de mesurage de référence : méthode écrite et accessible au public devant être appliqué à un certain mesurage. Sont en tout cas considérés comme méthode de mesurage de référence et sont appliqués en cas de contradictions mutuelles dans l'ordre cité ci-dessous :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              les dispositions applicables des lois, décrets et arrêtes belges;\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              les Normes belges publiées par le Bureau de Normalisation (NBN);\n            </li>\n            <li class=\"sub-provision\" data-marker=\"c)\">\n              les normes publiées par le Comité Européen de Normalisation (CEN);\n            </li>\n            <li class=\"sub-provision\" data-marker=\"d)\">\n              les normes publiées par l'Institution flamande pour la recherche technologique (VITO);\n            </li>\n            <li class=\"sub-provision\" data-marker=\"e)\">\n              les normes publiées par la \"International Organization for Standardization (ISO)\".\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.094Z",
+  "tokenUsage": {
+    "prompt": 1977,
+    "completion": 470,
+    "total": 2447
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009022037",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Il est créé un comité d'accompagnement tabac, composé de :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">un représentant de la cellule stratégique du ministre qui a les Affaires sociales dans ses attributions;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un représentant de la cellule stratégique du ministre qui a la Santé Publique dans ses attributions;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">deux experts en matière de tabagisme;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">deux représentants de l'Institut National d'Assurance Maladie-Invalidité;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">deux représentants du Service Public Fédéral Santé Publique.</span></li>\n      </ol>\n      <p>Les membres visés à l'alinéa 1er, 1°et 4° sont désignés par le ministre qui a les Affaires Sociales dans ses attributions. Les membres visés à l'alinéa 1er, 2°, 3° et 5° sont désignés par le ministre qui a la Santé Publique dans ses attributions.</p>\n      <p>Chaque autorité fédérée compétente en matière de santé est invitée à proposer la candidature d'un représentant susceptible d'assister au comité d'accompagnement. La Conférence interministérielle de la Santé publique désignera tous les ans deux représentants des entités fédérées. Chaque entité devra avoir la possibilité d'être représentée au sein du Comité d'accompagnement au minimum une année sur trois. Cette représentation est néanmoins facultative et ne pourra avoir pour effet d'empêcher le Comité d'accompagnement d'exercer ces missions.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.944Z",
+  "tokenUsage": {
+    "prompt": 2082,
+    "completion": 512,
+    "total": 2594
+  }
+}

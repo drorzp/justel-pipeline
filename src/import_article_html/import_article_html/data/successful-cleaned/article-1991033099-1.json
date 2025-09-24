@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991033099",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\" data-article-number=\"6\">.</span></h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les montants visés à l'article 6,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et à l'article 15 du décret du 26 juin 1986 réglant l'agréation des services d'aide aux familles et aux personnes âgées, l'octroi de subventions à ces services et la contribution du bénéficiaire de l'aide, modifié par les décrets des 9 juin 1987, 21 décembre 1987 et 1er mars 1988, et qui sont à réclamer par un service agréé à un bénéficiaire de l'aide en fonction de ses revenus nets sont indiqués dans le tableau ci-joint.</span>\n        </li>\n      </ol>\n    </div>\n    <table class=\"data-table\">\n      <thead>\n        <tr>\n          <th>Revenu net mensuel</th>\n          <th>Montant à réclamer</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>0 - 1.000 €</td>\n          <td>10 €</td>\n        </tr>\n        <tr>\n          <td>1.001 - 1.500 €</td>\n          <td>20 €</td>\n        </tr>\n        <tr>\n          <td>1.501 - 2.000 €</td>\n          <td>30 €</td>\n        </tr>\n        <tr>\n          <td>2.001 € et plus</td>\n          <td>40 €</td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.010Z",
+  "tokenUsage": {
+    "prompt": 1675,
+    "completion": 487,
+    "total": 2162
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035930",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">En application de la formule visée à l'article 14, 1° et 2°, de l'arrêté du Gouvernement flamand du 31 juillet 1990 fixant le capital \"périodes-professeur\" dans l'enseignement secondaire à temps plein, le nombre global de périodes-professeur supplémentaires pour l'année scolaire 2000-2001, destinées à l'appui de la politique pédagogique au niveau des centres d'enseignement, est fixé à 2.997 périodes-professeur.</p>\n            <p class=\"closing-text\">Bruxelles, le 27 juillet 2000.<br>Mme M. VANDERPOORTEN.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.259Z",
+  "tokenUsage": {
+    "prompt": 1655,
+    "completion": 221,
+    "total": 1876
+  }
+}

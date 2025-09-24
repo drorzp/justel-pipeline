@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030243",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 34</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le décret du 30 avril 2009 relatif à l'encadrement et au subventionnement des fédérations de pratiques artistiques en amateur, des Fédérations représentatives de Centres d'expression et de créativité et des centres d'expression et de créativité, il est inséré un article 51/4 rédigé comme suit:</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Article 51/4.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Par dérogation à l'ordre de priorité défini à l'article 30, 3°, alinéa 2, les associations visées à l'article 30/1/1, alinéa 3, 2° et 3°, de l'arrêté du Gouvernement de la Communauté française du 3 décembre 2003 fixant les modalités d'application du décret du 3 juillet 2003 relatif à la coordination de l'accueil des enfants durant leur temps libre et au soutien de l'accueil extrascolaire peuvent bénéficier, à partir du 1er janvier 2023 et pour autant qu'elles soient reconnues en catégorie 3 ou 4, d'une subvention à l'emploi d'un permanent animateur-coordinateur.</p>\n                    <p>Lors de l'exercice 2023, le montant de cette subvention à l'emploi est déduit du montant de la subvention facultative octroyé par convention à l'association.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.712Z",
+  "tokenUsage": {
+    "prompt": 1949,
+    "completion": 398,
+    "total": 2347
+  }
+}

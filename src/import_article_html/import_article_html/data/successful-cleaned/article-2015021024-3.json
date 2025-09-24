@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015021024",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 5 du même arrêté, modifié par les arrêtés royaux du 16 janvier 2007 et du 19 mars 2007, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">le § 1er, 1°, est abrogé ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">le § 1er, 2°, est remplacé par ce qui suit : \" 2° le représentant du service à la Commission ; \" ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">il est inséré au § 3 un deuxième alinéa, rédigé comme suit : \" Il représente la cellule de développement durable auprès du comité de direction, qui soutient la cellule dans l'exécution des missions qui lui sont confiées. \" ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"4°\">\n        <span class=\"provision-text\">le § 4 est remplacé par ce qui suit : \" § 4. Excepté le membre, visé au § 1er, 2°, les membres de la cellule de développement durable des services, visés à l'article 1er, 1° et 2°, sont désignés par le comité de direction du service pour un terme renouvelable de cinq ans. Excepté le membre, visé au § 1er, 2°, les membres de la cellule de développement durable du service, visé à l'article 1er, 3°, sont désignés par le fonctionnaire dirigeant pour un terme renouvelable de 5 ans. \"</span>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.177Z",
+  "tokenUsage": {
+    "prompt": 2047,
+    "completion": 479,
+    "total": 2526
+  }
+}

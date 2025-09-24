@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1983021106",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les pouvoirs accordés au Roi par l'article 1er, 3° à 10°, expirent le 31 décembre 1983; les pouvoirs accordés par l'article 1er, 1° et 2°, expirent le 31 mars 1984. Les pouvoirs accordés au Roi par l'article 2, § 4, expirent, selon le cas, le 31 décembre 1983 ou le 31 mars 1984.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les arrêtés pris en vertu de ces pouvoirs peuvent abroger, compléter, modifier ou remplacer les dispositions légales.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Après l'expiration des pouvoirs attribués par la présente loi, ces arrêtés ne peuvent être abrogés, complétés, modifiés ou remplacés, que par une loi, sans préjudice de la disposition de l'article 5.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les arrêtés pris jusqu'au 31 décembre 1983 en application des articles 1er et 2, § 4, peuvent rétroagir au 1er janvier 1983. Les arrêtés pris après le 31 décembre 1983 en application des articles 1er, 1° et 2°, et 2, § 4, peuvent rétroagir au 1er janvier 1984. Toutefois, les dispositions qui créent des infractions ou aggravent des peines, au sens du Livre premier du Code pénal, ne peuvent rétroagir.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.678Z",
+  "tokenUsage": {
+    "prompt": 2142,
+    "completion": 556,
+    "total": 2698
+  }
+}

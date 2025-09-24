@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022462",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 8 de l'annexe précitée, le § 2, alinéa 1er, est complété comme suit :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"sub-provision\" data-marker=\"-\">\n          <span class=\"provision-text\">les prestations de soins infirmiers effectuées dans le cadre d'un des honoraires forfaitaires visés à la rubrique II du § 1er, 1°, 2° et 3° à l'exception des soins d'hygiène.</span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.966Z",
+  "tokenUsage": {
+    "prompt": 1568,
+    "completion": 208,
+    "total": 1776
+  }
+}

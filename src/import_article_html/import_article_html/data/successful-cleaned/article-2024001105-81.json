@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001105",
+  "articleNumber": "81",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-81\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 81</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2bis, § 4, du même décret, l'alinéa premier est remplacé par ce qui suit :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">Pour les élèves soumis à l'obligation scolaire et pour les élèves majeurs exclus en application de la procédure prévue par le décret du 5 juillet 2000, au cours de la formation visée au § 1er,</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">il peut être organisé un module de formation individualisé qui comprend, notamment, l'élaboration du projet de vie, l'orientation vers un métier, l'éducation aux règles de vie en commun dans le Centre et dans la société, la mise à niveau des connaissances élémentaires de base, l'acquisition de compétences minimales nécessaires pour accéder à la formation par le travail en entreprise.</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.518Z",
+  "tokenUsage": {
+    "prompt": 1747,
+    "completion": 349,
+    "total": 2096
+  }
+}

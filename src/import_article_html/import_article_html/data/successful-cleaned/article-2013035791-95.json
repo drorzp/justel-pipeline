@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035791",
+  "articleNumber": "95",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-95\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 95</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 47, § 2, 1°, du même décret, la partie de phrase \" articles 38, § 1er, 8, 9°, 11° et 12° \" est remplacée par la partie de phrase \" article 48, § 1er, alinéa premier, 8°, 9°, 11° et 12°, du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.088Z",
+  "tokenUsage": {
+    "prompt": 1648,
+    "completion": 185,
+    "total": 1833
+  }
+}

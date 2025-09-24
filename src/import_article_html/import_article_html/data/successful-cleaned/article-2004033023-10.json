@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004033023",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er</h3>\n        <div class=\"paragraph-content\">L'entreprise agréée peut introduire une demande de modification ou de suspension de l'agrément auprès du Ministère.</div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2</h3>\n        <div class=\"paragraph-content\">La demande de modification satisfait aux articles 5, § 2,\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">et</span></li>\n            <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">du présent arrêté.</span></li>\n          </ol>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 3</h3>\n        <div class=\"paragraph-content\">Le Ministère confirme à l'entreprise la modification ou la suspension de son agrément et transmet également cette information à la Commission d'agrément.</div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.738Z",
+  "tokenUsage": {
+    "prompt": 1693,
+    "completion": 325,
+    "total": 2018
+  }
+}

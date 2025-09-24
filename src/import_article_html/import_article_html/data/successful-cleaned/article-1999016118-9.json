@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999016118",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Roi peut coordonner les dispositions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la loi du 21 février 1985 relative à la réforme du révisorat d'entreprises;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la loi du 22 avril 1999 relative aux professions comptables et fiscales;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">la présente loi;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les dispositions qui modifient : expressément ou implicitement les lois visées aux 1°, 2° et 3°.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">A cet effet, il peut, dans la coordination :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">modifier l'ordre, la numérotation et, en général, la présentation des dispositions à coordonner;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">modifier les références qui seraient contenues dans les dispositions à coordonner en vue de les mettre en concordance avec la nouvelle numérotation;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">sans porter atteinte aux principes inscrits dans les dispositions à coordonner, en modifier la rédaction en vue d'assurer leur concordance et d'améliorer la terminologie.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.244Z",
+  "tokenUsage": {
+    "prompt": 1966,
+    "completion": 498,
+    "total": 2464
+  }
+}

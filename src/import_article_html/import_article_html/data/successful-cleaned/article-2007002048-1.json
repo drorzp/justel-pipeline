@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007002048",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\" data-article-number=\"3\">1</span>.</p>\n      <p class=\"intro-text\">L'article 3 de l'arrêté royal du 25 février 2007 désignant les organisations visées à l'article 4, 2° et 3°, de l'arrêté royal du 6 février 2007 portant création du Conseil fédéral pour l'Economie plurielle, est remplacé par la disposition suivante :</p>\n      <blockquote class=\"quoted-text\">\n        <p>\"Art. 3. Sont désignées comme organisations représentant les entreprises de travail adapté et les ateliers sociaux :</p>\n        <ul class=\"hyphenated-items\">\n          <li class=\"hyphenated-item\"><span class=\"item-text\">Vlaamse Federatie van Beschutte Werkplaatsen (VLAB) VZW, Goossensvest 34, 3300 Tienen;</span></li>\n          <li class=\"hyphenated-item\"><span class=\"item-text\">Samenwerkingsverband Sociale Tewerkstelling (SST) VZW, Land Van Waaslaan 2, bus 2, 9000 Gent;</span></li>\n          <li class=\"hyphenated-item\"><span class=\"item-text\">Entente wallonne des Entreprises de Travail adapté ASBL, route de Philippeville 421, 6010 Couillet;</span></li>\n          <li class=\"hyphenated-item\"><span class=\"item-text\">Fédération bruxelloise des Entreprises de Travail adapté ASBL, Trassersweg 347, 1120 Bruxelles.</span></li>\n        </ul>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.820Z",
+  "tokenUsage": {
+    "prompt": 2152,
+    "completion": 456,
+    "total": 2608
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1984013157",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">(voir NOTE sous TITRE) Cet arrêté a pour but de fixer les règles et les conditions pour le calcul des frais de l'aide sociale, visés aux points 2°, 4° et 5° de l'article 97 de la loi du 8 juillet 1976, organique des centres publics d'aide sociale, pour la fixation de la contribution du bénéficiaire, visée à l'article 98, § 1er, de la même loi, pour le recouvrement auprès du bénéficiaire conformément à l'article 99, § 1er, de la même loi (et) pour le recouvrement auprès des débiteurs d'aliments du bénéficiaire conformément à l'article 98, § 2, de la même loi [...].</p>\n            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-09-03/33\" data-law-type=\"AR\" data-article-number=\"3\">&lt;AR 2004-09-03/33, art. 3, 005; <strong>En vigueur :</strong> 10-07-2004&gt;</span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.683Z",
+  "tokenUsage": {
+    "prompt": 1845,
+    "completion": 320,
+    "total": 2165
+  }
+}

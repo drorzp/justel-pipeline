@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005833",
+  "articleNumber": "65",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-65\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 65</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 24 du même arrêté, modifié par l'arrêté du 30 septembre 2021, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 1er, alinéa 1er, le point 3° est remplacé par ce qui suit :</span>\n          <blockquote class=\"provision-quote\">\" les objectifs stratégiques ou opérationnels qui ont été fixés dans le plan de management et le plan opérationnel visés à l'article 11 et dont la responsabilité de la réalisation lui a été confiée \" ;</blockquote>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 1er, alinéa 1er, entre le point 3° et le point 4° est inséré un nouveau point rédigé comme suit :</span>\n          <blockquote class=\"provision-quote\">\" 3bis° la planification des objectifs par cycle d'évaluation qui est effectuée en application du point 3° et, le cas échéant le trajet de développement visé à l'article 22bis ; \".</blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.558Z",
+  "tokenUsage": {
+    "prompt": 1911,
+    "completion": 370,
+    "total": 2281
+  }
+}

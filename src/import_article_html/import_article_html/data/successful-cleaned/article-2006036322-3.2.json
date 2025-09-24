@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036322",
+  "articleNumber": "3.2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3.2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 6quater de la même loi, inséré par le décret du 24 juillet 1996 et modifié par les décrets des 15 juillet 1997, 1er décembre 1998, 18 janvier 2002, 28 juin 2002 et 14 février 2003, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa premier est remplacé par la disposition suivante : &quot; Les pouvoirs organisateurs, le cas échéant sur la proposition et après décision des conseils de classe ou des organes assimilés, sont habilités à délivrer aux élèves les titres valables de plein droit, pour autant que la subdivision structurelle concernée remplisse les conditions visées à l'article 24, § 2, 1°, 2°, 3°, 4°, 6°, 7°, 8°, 9° et 10°, pour ce qui concerne l'enseignement de promotion sociale et l'enseignement artistique à temps partiel, respectivement à l'article 24ter, § 1er, pour ce qui concerne l'enseignement secondaire ordinaire et spécial &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au deuxième alinéa, les mots &quot; En ce qui concerne l'enseignement secondaire ordinaire &quot; sont remplacés par les mots &quot; En ce qui concerne l'enseignement secondaire ordinaire et la formation 4 de l'enseignement secondaire spécial &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les troisième, quatrième et cinquième alinéas sont abrogés pour ce qui concerne l'enseignement secondaire ordinaire et spécial.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.730Z",
+  "tokenUsage": {
+    "prompt": 2107,
+    "completion": 512,
+    "total": 2619
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996031098",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>La taxe due sur le déversement des eaux usées domestiques est égale à (0,3471 EUR)/m3 d'eau déversée. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2001-11-08/48\" data-law-type=\"ARR\" data-article-number=\"5\">&lt;ARR 2001-11-08/48, art. 5, 003;En vigueur :01-01-2002 et confirmé par ARR 2001-12-13/57, art. 11, 004;En vigueur :01-01-2002&gt;</span></p>\n            <p>Les redevables de la taxe peuvent, aux conditions à fixer par le Gouvernement, opter pour la formule de taxation réelle visée à l'article 11, §§ 1er et 2. Cette formule de taxation doit s'appliquer si une personne visée aux articles 5,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et 6, a manifesté, conformément aux dispositions de l'article 14, le souhait d'y recourir.</span></li>\n            </ol>\n            <p>Pour les redevables qui n'exercent pas l'option visée à l'alinéa 2 et qui ne souscrivent pas de déclaration, conformément à l'article 14, leur permettant de mesurer conformément à l'article 10, § 1er, le volume d'eau usée qu'ils déversent :</p>\n            <ul>\n                <li class=\"sub-provision\" data-marker=\"-\"><span class=\"item-text\">le volume d'eau déversée est présumé égal au volume d'eau porté en compte au cours de la période imposable par le distributeur d'eau;</span></li>\n                <li class=\"sub-provision\" data-marker=\"-\"><span class=\"item-text\">la taxe est égale aux versements anticipés à opérer au cours de la période imposable.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.109Z",
+  "tokenUsage": {
+    "prompt": 2147,
+    "completion": 556,
+    "total": 2703
+  }
+}

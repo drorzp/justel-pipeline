@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015035893",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er de l'arrêté royal du 8 juillet 2002 fixant les missions confiées aux cercles de médecins généralistes, le point 1°, le point 2°, le point 4° et le point 5° sont abrogés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.273Z",
+  "tokenUsage": {
+    "prompt": 1535,
+    "completion": 142,
+    "total": 1677
+  }
+}

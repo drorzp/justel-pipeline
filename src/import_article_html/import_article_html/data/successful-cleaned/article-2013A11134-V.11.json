@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A11134",
+  "articleNumber": "V.11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-V-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article V.11</h2>\n    </header>\n    <div class=\"article-content\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-04-03/18\" data-law-type=\"L\" data-article-number=\"5\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Le Roi peut, par arrêté délibéré en Conseil des ministres, décider un blocage total ou partiel des prix de tous les médicaments ou de certaines catégories de médicaments et assimilés visés à l'article V.9, 1° et 2°.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    <p>En cas de blocage des prix des médicaments visés à l'article V.9, 1°, pour lesquels une intervention de l'assurance obligatoire soins de santé et indemnités est prévue, les ministres compétents pour les affaires économiques et pour les affaires sociales vérifient au moins une fois par an si les conditions macro-économiques justifient le maintien du blocage.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 3.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Sur demande d'un détenteur de l'autorisation de mise sur le marché ou de l'enregistrement du médicament, pour des médicaments visés à l'article V.9, 1°, ou de l'importateur ou distributeur de médicaments assimilés tels que visés à l'article V.9, 2°, le ministre peut accorder une dérogation au blocage des prix dans des cas exceptionnels et pour autant que des raisons particulières liées à la rentabilité qui sont prouvées par le demandeur le justifient.</p>\n                </div>\n            </section>\n        </span>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.176Z",
+  "tokenUsage": {
+    "prompt": 2145,
+    "completion": 491,
+    "total": 2636
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018070047",
+  "articleNumber": "414",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-414\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 414</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article L1321-1 du même Code, modifié par le décret du 18 avril 2013, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">les 2° et 3° sont abrogés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">le 5° est complété par les mots \" ainsi que leurs indemnités pour frais de parcours; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"c)\">\n                    <span class=\"provision-text\">le 7° est remplacé par ce qui suit : \" 7° le loyer, les contributions, l'entretien des édifices et bâtiments communaux ou à l'usage de la commune; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"d)\">\n                    <span class=\"provision-text\">le 14° est remplacé par ce qui suit : \" 14° les frais inhérents à la comptabilité communale; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"e)\">\n                    <span class=\"provision-text\">il est complété par un 19° rédigé comme suit : \" 19° les dépenses qui sont mises à charge de la commune par ou en vertu de la loi du 15 mai 2007 relative à la sécurité civile, en ce compris la dotation de la commune à la zone de secours.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.357Z",
+  "tokenUsage": {
+    "prompt": 1937,
+    "completion": 443,
+    "total": 2380
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012003336",
+  "articleNumber": "114",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-114\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 114</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si le master et le feeder sont établis en Belgique, la FSMA communique immédiatement au feeder toute décision, mesure, observation relative au non-respect des dispositions applicables aux structures master-feeder ou information communiquée au titre des articles 106, § 1er, 4° et 247, § 1er, 4° de la loi relative au master ou, le cas échéant, à sa société de gestion, à son dépositaire ou à son commissaire.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si seul le master est établi en Belgique, la FSMA communique immédiatement aux autorités compétentes de l'Etat membre d'origine du feeder toute décision, mesure, observation relative au non-respect des dispositions applicables aux structures master-feeder ou information communiquée au titre des articles 106, § 1er, 4° et 247, § 1er, 4° de la loi relative au master ou, le cas échéant, à sa société de gestion, à son dépositaire ou à son commissaire.</p>\n        <p>Si seul le feeder est établi en Belgique, la FSMA lui transmet immédiatement l'information, visée à l'alinéa précédent, qu'elle reçoit des autorités compétentes de l'Etat membre d'origine du master.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.180Z",
+  "tokenUsage": {
+    "prompt": 1963,
+    "completion": 425,
+    "total": 2388
+  }
+}

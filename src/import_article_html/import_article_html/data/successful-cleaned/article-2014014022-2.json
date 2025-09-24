@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014014022",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 62, § 3, du Code ferroviaire, est complété par les 7°, 8°, 9° et 10° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">réalise, à la demande du ministre qui a les Entreprises publiques dans ses attributions, un audit annuel de l'exécution de la convention de transport visée à l'article 8 de la loi du 30 août 2013 relative à la réforme des chemins de fer belges;</span>\n        </li>\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">réalise, à la demande du ministre qui a la régulation du transport ferroviaire dans ses attributions, un audit annuel de l'exécution de la méthode d'enregistrement des perturbations utilisée par le gestionnaire de l'infrastructure telle que visée à l'article 31/2 de l'arrêté royal du 9 décembre 2004 relatif à la répartition des capacités de l'infrastructure ferroviaire et à la redevance d'utilisation de l'infrastructure ferroviaire;</span>\n        </li>\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">contrôle le respect des règles de non-discrimination visées à l'article 10 de la loi du 30 août 2013 relative à la réforme des chemins de fer belges;</span>\n        </li>\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">vérifie que l'exercice de la servitude perpétuelle visée à l'article 156quater, § 1er, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques ne porte pas atteinte au droit d'accès visé à l'article 9/1 du Code ferroviaire.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.155Z",
+  "tokenUsage": {
+    "prompt": 2114,
+    "completion": 523,
+    "total": 2637
+  }
+}

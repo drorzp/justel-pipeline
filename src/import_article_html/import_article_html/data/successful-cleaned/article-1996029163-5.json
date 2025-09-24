@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996029163",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Un article 6bis est inséré dans le même décret, rédigé comme suit : \" Article 6bis. Les élèves visés à l'article 6, § 1er, 2° et 3°, sont tenus de suivre :</p>\n      <ul>\n        <li class=\"sub-provision\" data-marker=\"-\"><span class=\"provision-text\">soit une formation en relation avec le contrat ou la convention conclus, comportant au minimum 300 périodes annuelles dans un établissement de promotion sociale de leur choix;</span></li>\n        <li class=\"sub-provision\" data-marker=\"-\"><span class=\"provision-text\">soit une formation en relation avec le contrat ou la convention, comportant au minimum 300 périodes annuelles, au sein de l'établissement-siège ou dans un des établissements coopérants.</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.104Z",
+  "tokenUsage": {
+    "prompt": 1662,
+    "completion": 261,
+    "total": 1923
+  }
+}

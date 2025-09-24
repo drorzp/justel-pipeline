@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016229",
+  "articleNumber": "4.4/6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4-4/6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4.4/6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-12-17/61\" data-law-type=\"AGF\" data-article-number=\"26\">\n        <p class=\"intro-text\">L'initiateur démontre qu'il a satisfait à l'obligation de réinvestissement, visée à l'article 4.1/1 du Code flamand du Logement de 2021 en fournissant une justification annuelle dans le rapport annuel de l'évolution de l'obligation de réinvestissement.</p>\n        <p class=\"intro-text\">Un réinvestissement par des sociétés de logement tel que visé à l'article 4.4/1, § 1er,<span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-05-17/48\" data-law-type=\"AGF\" data-article-number=\"14\">1°, 2° et 7°</span>, vaut uniquement si toutes les conditions suivantes sont remplies :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">l'émission se déroule par le biais du compte courant de l'initiateur auprès de la VMSW ;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">l'émission visée au point 1° porte sur une partie non subventionnée d'une opération.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.278Z",
+  "tokenUsage": {
+    "prompt": 2022,
+    "completion": 430,
+    "total": 2452
+  }
+}

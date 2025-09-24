@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015011524",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 5 de la loi du 17 juillet 2013 relative aux volumes nominaux minimaux de biocarburants durables qui doivent être incorporés dans les volumes de carburants fossiles mis annuellement à la consommation les</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">catégorie A : tous les biocarburants durables pour lesquels des normes européennes ou belges existent.</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">catégorie B : tous les biocarburants durables pour lesquels il n'existe pas de normes européennes ou belges. Les biocarburants durables de la présente catégorie sont acceptés à condition qu'un dossier technique complet contenant toutes les données pertinentes prouvant qu'ils sont conformes aux dispositions de la Directive 2009/30/CE soit préalablement fourni à la Direction générale de l'Energie et qu'il soit approuvé par le ministre.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.171Z",
+  "tokenUsage": {
+    "prompt": 1852,
+    "completion": 315,
+    "total": 2167
+  }
+}

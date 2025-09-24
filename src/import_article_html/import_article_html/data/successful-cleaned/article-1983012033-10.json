@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1983012033",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'organisme ne doit pas inscrire sur le compte individuel les mentions visées à:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">l'article 16, § 1er de l'arrêté royal du 8 août 1980 et l'article 9 du présent arrêté, si elles sont mentionnées dans le décompte visé à l'article 15 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">l'article 16, § 1er, 2°, 3° et 4° de l'arrêté royal du 8 août 1980 et l'article 9 du présent arrêté, si elles sont mentionnées dans le carnet de travail du travailleur.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'organisme ne peut invoquer les dispositions du § 1er que si il tient et conserve une copie du document visé au § 1er, 1° ou les souches détachables du document visé au § 1er, 2° au même endroit que les comptes individuels, conformément aux dispositions applicables à la tenue et à la conservation des comptes individuels, et s'il tient cette copie ou ce document à la disposition des fonctionnaires et agents chargés de la surveillance de l'exécution du présent arrêté.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.693Z",
+  "tokenUsage": {
+    "prompt": 2076,
+    "completion": 496,
+    "total": 2572
+  }
+}

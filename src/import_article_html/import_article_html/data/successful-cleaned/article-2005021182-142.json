@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005021182",
+  "articleNumber": "142",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-142\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 142</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 179.1 du même Code, sont apportées les modifications suivantes :</p>\n            <ol class=\"sub-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"sub-provision-text\">l'alinéa 1er est remplacé comme suit : \" En ce qui concerne les redevables désignés à l'article 177, 1° et 2°, la taxe annuelle est payable au plus tard le dernier jour ouvrable du mois suivant celui au cours duquel une prime, une contribution patronale ou une contribution personnelle est venue à échéance. \";</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"sub-provision-text\">l'alinéa 4 est remplacé comme suit : \" Le jour du paiement, le redevable dépose à ce bureau une déclaration indiquant séparément, pour le paiement visé à l'alinéa 1er, les bases de la perception de la taxe à chacun des taux prévus par les articles 175.1, 175.2 et 175.3 du chef des opérations d'assurances pour lesquelles une prime, une cotisation patronale ou une contribution personnelle est venue à échéance au cours du mois précédent. Les modalités de la déclaration relative à l'acompte visé à l'alinéa 2, sont déterminées par le Roi. \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.765Z",
+  "tokenUsage": {
+    "prompt": 1918,
+    "completion": 397,
+    "total": 2315
+  }
+}

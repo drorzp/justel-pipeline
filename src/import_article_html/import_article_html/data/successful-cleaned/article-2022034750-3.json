@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034750",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Afin de mettre en oeuvre l'administration des salaires et du personnel des autorités et institutions publiques, le service public fédéral Stratégie et Appui, ou l'organisation qui succède à ce service, a accès aux informations visées à l'article 3, alinéa 1er, 1° à 9°, 13°, 15° et 16°, et alinéa 2, de la loi du 8 août 1983 organisant un registre national des personnes physiques et peut utiliser le numéro d'identification du Registre national des personnes concernées.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Lors du traitement des informations mentionnées au paragraphe 1er, l'autorité ou l'institution publique qui emploie la personne concernée agit en qualité de responsable du traitement. Le service public fédéral Stratégie et Appui agit en qualité de sous-traitant.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.775Z",
+  "tokenUsage": {
+    "prompt": 1806,
+    "completion": 344,
+    "total": 2150
+  }
+}

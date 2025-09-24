@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011204402",
+  "articleNumber": "73",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-73\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 73</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 48, § 1er, alinéa 1er, du même décret, les 1° et 2° sont remplacés par ce qui suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">sont seuls pris en considération les services prestés en fonction principale jusqu'au 30 avril de l'année de la demande, pour autant que le candidat soit porteur des titres de capacité correspondants prévus à l'article 20, alinéa 1er, 5°, déterminés par le Gouvernement;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le nombre de jours prestés, en qualité de temporaire ou d'agent contractuel subventionné, dans une fonction à prestations complètes est formé de tous les jours comptés du début à la fin de la période d'activité continue, y compris, s'ils sont englobés dans cette période, le congé de détente ainsi que les vacances de Noël et de Pâques, le congé de maternité, le congé prophylactique, la période pendant laquelle le membre du personnel est dispensé de toute activité dans le cadre de la protection de la maternité ou de la menace d'une maladie professionnelle, le congé d'accueil en vue de l'adoption ou de la tutelle officieuse, les congés de circonstance ou les congés exceptionnels accordés conformément aux dispositions légales et réglementaires. Ce nombre de jours est multiplié par 1,2 sauf pour calculer l'ancienneté du personnel technique des centres P.M.S. et du personnel administratif des établissements d'enseignement. Sont exclus de cette multiplication les jours prestés par un membre du personnel désigné pour une durée indéterminée et se rapportant à une année scolaire complète.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.226Z",
+  "tokenUsage": {
+    "prompt": 2124,
+    "completion": 500,
+    "total": 2624
+  }
+}

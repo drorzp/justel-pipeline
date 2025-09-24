@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008029225",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les membres du comité de gestion de l'Agence bénéficient d'indemnités pour frais de séjour et du remboursement de leurs frais de parcours dans les mêmes conditions que les agents des services du Gouvernement de la Communauté française. A cet effet, ils sont assimilés aux membres du personnel du ministère titulaires d'un grade classé au rang 12. \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-11/33\" data-law-type=\"DCFR\" data-article-number=\"82\">\n          Le personnel de la cellule exécutive relevant de l'article 7, § 1er, alinéa 2, \n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1° et</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">2° et les frais de fonctionnement de l'Agence en ce compris les frais visés à l'alinéa premier sont à charge du budget de la Communauté française.</span>\n            </li>\n          </ol>\n          <p class=\"closing-text\">Le personnel de la cellule exécutive relevant de l'article 7, § 1er, alinéa 2, 3°, est à charge de la dotation annuelle de l'Agence reprise à l'article 22.</p>\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.053Z",
+  "tokenUsage": {
+    "prompt": 1919,
+    "completion": 404,
+    "total": 2323
+  }
+}

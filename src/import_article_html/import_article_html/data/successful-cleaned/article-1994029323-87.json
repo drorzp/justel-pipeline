@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994029323",
+  "articleNumber": "87",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-87\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 87</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1999-02-08/37\" data-law-type=\"DCFR\" data-article-number=\"16\">&lt;DCFR 1999-02-08/37, art. 16, 008; En vigueur : 01-01-1999&gt;</span> Les règles complémentaires prises par la commission paritaire centrale ne peuvent s'écarter des règles du présent décret.\n      </p>\n      <p class=\"main-text\">\n        Les règles complémentaires prises par les commissions paritaires visées à l'article 85, alinéa 1er, 2° et 3°, ne peuvent s'écarter des règles du présent décret ni des règles complémentaires fixées par la commission paritaire centrale et rendues obligatoires par arrêté du Gouvernement.\n      </p>\n      <p class=\"closing-text\">\n        Par ailleurs, les règles complémentaires prises par les commissions paritaires locales ne peuvent s'écarter des règles complémentaires fixées par les commissions paritaires visées à l'article 85, alinéa 1er, 2°, rendues obligatoires par arrêté du Gouvernement, et ne peuvent être rendues obligatoires que si elles sont approuvées par délibération du conseil communal ou <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-07-11/29\" data-law-type=\"DCFR\" data-article-number=\"64\">du collège provincial</span>, selon le cas.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.124Z",
+  "tokenUsage": {
+    "prompt": 2005,
+    "completion": 406,
+    "total": 2411
+  }
+}

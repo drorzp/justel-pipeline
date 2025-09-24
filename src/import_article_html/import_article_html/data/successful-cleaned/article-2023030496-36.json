@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030496",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 7, § 1er, alinéa 1er, et alinéa 2, 2° et 3°, et § 2, du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le mot \" spécial \" est chaque fois remplacé par le mot \" supplémentaire \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les mots \" centre de soins résidentiels disposant d'un agrément supplémentaire \" sont chaque fois remplacés par \" centre de soins résidentiels \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.713Z",
+  "tokenUsage": {
+    "prompt": 1626,
+    "completion": 252,
+    "total": 1878
+  }
+}

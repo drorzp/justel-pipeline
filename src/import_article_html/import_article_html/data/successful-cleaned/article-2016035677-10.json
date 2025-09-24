@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016035677",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-10-16/08\" data-law-type=\"AGF\" data-article-number=\"5\">\n                <p class=\"intro-text\">Lors de l'évaluation du critère visé à l'article 9, alinéa 1er, 1°, il est tenu compte des caractéristiques individuelles du réseau et au moins des indicateurs suivants : </p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">dépassement de la capacité du réseau</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">soins en complément des soins habituels, passés ou présents</span></li>\n                    <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">risque d'atteinte à l'intégrité du réseau ou de personnes dans l'environnement plus large de la personne handicapée</span></li>\n                    <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">réduction de la qualité de vie du réseau.</span></li>\n                </ol>\n                <p class=\"intro-text\">S'il est considéré que la capacité du réseau a été ou sera dépassée dans un délai maximal d'un an et que le réseau n'est plus ou ne sera plus en mesure de poursuivre le soutien fourni, le soutien encore présent du réseau n'est pas pris en compte lors de l'évaluation des critères visés à l'article 9, alinéa 1er, 2° et 3°</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.234Z",
+  "tokenUsage": {
+    "prompt": 1986,
+    "completion": 445,
+    "total": 2431
+  }
+}

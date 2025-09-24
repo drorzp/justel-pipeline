@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992035862",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 2 de l'arrêté précité, les modifiations suivantes sont apportées :</p>\n      <ol class=\"modifications-list\">\n        <li class=\"modification-item\" data-marker=\"A.\">\n          <span class=\"modification-text\">dans le premier alinéa, 1° et 4°, les mots \" quatrième degré \" sont remplacés par les mots \" deuxième degré \";</span>\n        </li>\n        <li class=\"modification-item\" data-marker=\"B.\">\n          <span class=\"modification-text\">le premier alinéa, 2° est remplacé par la disposition suivante :</span>\n          <p class=\"quoted-text\">\" ou bien est le dernier à occuper une habitation insalubre d'un organisme ou d'une administration publics et qui soit réoccupera ou continue à occuper cette habitation, après des travaux d'assainissement, soit prendra en location une autre habitation salubre du même organisme ou de la même administration publics; \"</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.095Z",
+  "tokenUsage": {
+    "prompt": 1711,
+    "completion": 297,
+    "total": 2008
+  }
+}

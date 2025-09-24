@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016015093",
+  "articleNumber": "113",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-113\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 113</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'ancienneté acquise dans la carrière du Service extérieur, la carrière de Chancellerie comme mentionnée à l'article 112, § 1,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et la carrière des Attachés de la Coopération internationale est censée être acquise dans la carrière extérieure.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.250Z",
+  "tokenUsage": {
+    "prompt": 1515,
+    "completion": 183,
+    "total": 1698
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032818",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 8, 4°, 5°, 6°, 7° et 9°, entre en vigueur à une date à fixer par le Gouvernement flamand.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.810Z",
+  "tokenUsage": {
+    "prompt": 1423,
+    "completion": 114,
+    "total": 1537
+  }
+}

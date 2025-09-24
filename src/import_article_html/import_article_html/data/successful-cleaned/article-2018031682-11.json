@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018031682",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 27bis, § 2, 2°, de l'arrêté royal du 11 septembre 2003 relatif au recrutement des militaires, inséré par l'arrêté royal du 18 août 2010 et modifié par l'arrêté royal du 7 novembre 2013, les mots \"5° à 8° \" sont remplacés par les mots \"5°, 7° et 8° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.368Z",
+  "tokenUsage": {
+    "prompt": 1639,
+    "completion": 174,
+    "total": 1813
+  }
+}

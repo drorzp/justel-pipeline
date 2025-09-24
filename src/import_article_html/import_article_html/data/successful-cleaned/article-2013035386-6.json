@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035386",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2, § 1er, alinéa premier, du décret du 15 juillet 1997 contenant le Code flamand du Logement, remplacé par le décret du 29 avril 2011 et modifié par les décrets des 23 décembre 2011 et 9 mars 2012, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'article est complété par un point 10° bis, rédigé comme suit :<br>\" 10° bis chambre : une habitation dans laquelle une toilette, un bain ou une douche ou une facilité de cuisine font défaut et dont les résidents doivent utiliser un des espaces communs dans le bâtiment ou dans un des bâtiments dont l'habitation fait partie; \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les points 11° et 12° sont remplacés par les dispositions suivantes :<br>\" 11° habitation inadaptée : une habitation qui n'est pas adaptée aux possibilités physiques de personnes âgées ou handicapées ou qui n'est pas adaptée à son occupation selon les normes fixées en application de l'article 5, § 1er, troisième alinéa;<br>12° habitation inhabitable : une habitation qui n'est pas éligible au logement parce qu'elle présente des défauts qui comportent un risque de sécurité ou de santé; \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le point 16° est remplacé par la disposition suivante :<br>\" 16° une habitation suroccupée : une habitation inadaptée sur la base de l'occupation, le nombre élevé d'occupants présentant un risque pour la sécurité et/ou la santé; \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.089Z",
+  "tokenUsage": {
+    "prompt": 2110,
+    "completion": 508,
+    "total": 2618
+  }
+}

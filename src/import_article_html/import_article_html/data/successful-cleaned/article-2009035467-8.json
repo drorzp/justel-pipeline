@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035467",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>En exécution de l'article 417 de l'arrêté du Gouvernement flamand mettant la réglementation sectorielle concernant l'environnement, la nature et l'énergie en conformité avec le décret cadre sur la politique administrative du 18 juillet 2003, la date d'entrée en vigueur des articles 24, 103, 2°, 131, 2°, 225, 2°, 233, 247, 315, 317, 1°, 321, 322, 323, 338, 2°, 340, 2°, 341, 2°, 391, 3° et de l'article 416, 2°, 3°, 4° et 7° de cet arrêté est fixée au 1er septembre 2009.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.092Z",
+  "tokenUsage": {
+    "prompt": 1674,
+    "completion": 240,
+    "total": 1914
+  }
+}

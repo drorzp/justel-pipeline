@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997000151",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les articles 17,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, 18, 20, 2°, 22, 1°, 23 et 28 de la loi du 9 décembre 1994 portant modification de certaines dispositions relatives à la gendarmerie et au statut de son personnel produisent leurs effets au 1er janvier 1997.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.116Z",
+  "tokenUsage": {
+    "prompt": 1526,
+    "completion": 208,
+    "total": 1734
+  }
+}

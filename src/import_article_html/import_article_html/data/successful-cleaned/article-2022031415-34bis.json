@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031415",
+  "articleNumber": "34bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">Dans l'article 22, 4° du même arrêté, les mots \" à l'article 21, 5° \" sont remplacés par \" à l'article 21, 4° \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">Dans l'article 22, 5° du même arrêté, les mots \" à l'article 21, 3° \" sont remplacés par les mots \" aux articles 33/2, 1° et 2° et 33/3, 1° \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">Dans l'article 22, 6° du même arrêté, les mots \" à l'article 21, 11° \" sont remplacés par \" à l'article 21, 10° \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">Dans l'article 22, 7° du même arrêté, les mots \" à l'article 21, 12° \" sont remplacés par \" à l'article 21, 11° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.746Z",
+  "tokenUsage": {
+    "prompt": 1805,
+    "completion": 390,
+    "total": 2195
+  }
+}

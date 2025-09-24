@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016229",
+  "articleNumber": "4.184",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4-184\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4.184</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-11-10/07\" data-law-type=\"AGF\" data-article-number=\"71\">En application de l'article 4.63 et de l'article 5.69 du Code flamand du Logement de 2021, une allocation peut être octroyée au VWF pour le financement des prêts sociaux spéciaux, des prêts de garantie locative, le traitement de prêts au logement complémentaires octroyés par les provinces, des opérations d'aide locative et l'assurance logement garanti.</span> L'allocation comprend :\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'allocation servant à financer les frais de fonctionnement, qui est calculée sur la base de la différence entre les recettes et dépenses découlant du fonctionnement ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'allocation de financement, qui est calculée comme la différence entre les rapports financiers et les frais financiers.</span>\n        </li>\n      </ol>\n      <p>\n        Les composantes à prendre en compte lors du calcul de l'allocation, visée à l'alinéa deux, 1° et 2°, et les exigences de rapportage sont définies en commun accord entre le ministre et le ministre flamand chargé des finances et des budgets.\n      </p>\n      <p class=\"closing-text\">\n        Les crédits de dépenses dans le budget du VWF sont limitatifs. Le ministre peut autoriser le dépassement de ces crédits limitatifs.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.278Z",
+  "tokenUsage": {
+    "prompt": 2043,
+    "completion": 460,
+    "total": 2503
+  }
+}

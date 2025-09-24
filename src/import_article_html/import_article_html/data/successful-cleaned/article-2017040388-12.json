@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040388",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La commission d'évaluation des infrastructures sportives supralocales accorde un sous-score pour chaque critère d'évaluation. Le score total pour chaque projet est la somme des sous-scores pondérés. Sur la base du score total la commission d'évaluation des infrastructures sportives supralocales établit un classement des demandes de subvention admissibles présentées. Les demandes de subvention obtenant un score total de 65% ou plus sont admissibles au subventionnement.</p>\n            <p class=\"intro-text\">En cas de scores égaux le classement sera affiné en fonction du score obtenu pour les critères d'évaluation successifs énoncés à l'article 9, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5°</span></li>\n            </ol>\n            <p class=\"closing-text\">, du décret du 5 mai 2017.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.722Z",
+  "tokenUsage": {
+    "prompt": 1738,
+    "completion": 410,
+    "total": 2148
+  }
+}

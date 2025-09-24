@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041344",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 2 de l'arrêté est modifié comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">Au point 1°, le point-virgule à la fin du point 1° est remplacé par une virgule et les termes suivants sont introduits : \" ainsi que la motivation de ces objectifs; \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">Au point 2°, le point-virgule est remplacé par une virgule et les termes suivants sont introduits : \" ainsi que la motivation du choix de ces pouvoirs préemptants; \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">Au point 3°, le point-virgule est remplacé par une virgule et les termes suivants sont introduits : \" et la motivation de l'emprise du périmètre de préemption. \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">Les points 4° et 5° sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.480Z",
+  "tokenUsage": {
+    "prompt": 1812,
+    "completion": 370,
+    "total": 2182
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018206078",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 151 du même Code, remplacé par le décret du 27 mars 2014, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, les mots \" ou d'origine étrangère \" sont abrogés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">l'alinéa 2 est remplacé par ce qui suit :</span>\n                    <blockquote>\n                        <p>\" L'action régionale est accessible aux personnes visées à l'article 150, alinéa 1er, 1° et 3°, et à toute autre personne qui souhaite en bénéficier. \"</p>\n                    </blockquote>\n                </li>\n                <li class=\"provision\" data-number=\"c)\">\n                    <span class=\"provision-text\">les alinéas 3, 4 et 5 sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.328Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 322,
+    "total": 2001
+  }
+}

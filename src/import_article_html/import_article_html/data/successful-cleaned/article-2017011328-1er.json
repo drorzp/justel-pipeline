@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011328",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'accès au registre, visé à <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-04-26/03\" data-law-type=\"AR\" data-article-number=\"1\">l'article XX.18, § 1 du Code de droit économique</span>, comprend :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">un droit de consultation pour les personnes figurant dans les annexes <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-04-26/03\" data-law-type=\"AR\" data-article-number=\"1\">1 à 14</span> ajoutées au présent arrêté et à l'égard des données et pièces telles que définies dans ces annexes.</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">un droit d'écriture pour les personnes figurant dans les annexes <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-04-26/03\" data-law-type=\"AR\" data-article-number=\"1\">15 à 27</span> ajoutées au présent arrêté et à l'égard des données et pièces telles que définies dans ces annexes.</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">toutes les communications découlant des droits d'accès visés en 1° et 2° qui se font par le biais du registre.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.759Z",
+  "tokenUsage": {
+    "prompt": 1966,
+    "completion": 465,
+    "total": 2431
+  }
+}

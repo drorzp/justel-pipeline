@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018070047",
+  "articleNumber": "170",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-170\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 170</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 3 du décret du 12 février 2004 relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public, il est inséré un paragraphe 4 rédigé comme suit :</p>\n        <section class=\"paragraph\" id=\"para-4\">\n            <h3 class=\"paragraph-marker\">§ 4.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les commissaires du Gouvernement désignés dans les organismes visés aux:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"43°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"44°\">\n                        <span class=\"provision-text\">du paragraphe 1er sont chargés des missions visées aux articles 10, 12, 16, 17, 18 et 19, du présent décret.</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.356Z",
+  "tokenUsage": {
+    "prompt": 1689,
+    "completion": 298,
+    "total": 1987
+  }
+}

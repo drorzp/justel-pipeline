@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043277",
+  "articleNumber": "76",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-76\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 76</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation aux articles 45, alinéa 3, 69, § 1er, alinéa 2 et 89, alinéa 1er, 2° et 3°, de l'ordonnance, les organismes administratifs autonomes de première catégorie sont autorisés à désigner un agent contractuel comme comptable ou comptable-trésorier.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation aux articles 25, alinéa 3, et 69, § 1er, alinéa 2, de l'ordonnance, les membres contractuels du personnel des organismes administratifs autonomes de première catégorie qui occupent les fonctions reprises aux articles précités restent en fonction jusqu'à ce qu'un nouvel arrêté ou une nouvelle décision y mette fin.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.873Z",
+  "tokenUsage": {
+    "prompt": 1823,
+    "completion": 327,
+    "total": 2150
+  }
+}

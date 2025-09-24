@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030652",
+  "articleNumber": "123",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-123\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 123</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les articles 107, 2°, 108, 2° et 109 à 117 entrent en vigueur à la date fixée par le Roi et au plus tard le 1er janvier 2020.</p>\n            <p class=\"closing-text\">(NOTE : Entrée en vigueur des articles 107, 2°, 108, 2°, 109 à 117 fixée au 01-03-2018 par AR<a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2018022603\">[2018-02-26/03]</a>, art. 12)</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.730Z",
+  "tokenUsage": {
+    "prompt": 1629,
+    "completion": 225,
+    "total": 1854
+  }
+}

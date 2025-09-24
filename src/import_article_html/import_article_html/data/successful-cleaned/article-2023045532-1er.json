@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045532",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les articles 4, § 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">7, § 1er, alinéa 3,</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et 8, § 1er,</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 7 juillet 2016 relatif à l'octroi de subsides au bénéfice d'associations oeuvrant à l'insertion par le logement les mots \" aux articles 2 et 3 \" sont chaque fois remplacés par les mots \" à l'article 2 \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.394Z",
+  "tokenUsage": {
+    "prompt": 1665,
+    "completion": 324,
+    "total": 1989
+  }
+}

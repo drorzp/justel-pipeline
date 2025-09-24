@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004036538",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 7 de l'arrêté ministériel du 19 avril 2004 portant exécution de l'arrêté du Gouvernement flamand du 26 mars 2004 relatif aux chèques de lancement gratuits pour entrepreneurs débutants, est remplacé par la disposition suivante : &quot; Un entrepreneur débutant peut commander le nombre requis de chèques de lancement gratuits pour le paiement des frais administratifs éligibles. Le nombre requis de chèques est égal à la somme :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">du prix comme fixé à l'arrêté royal du 28 mai 2003 fixant le montant du droit d'inscription à la Banque-Carrefour des Entreprises en tant qu'entreprise commerciale ou artisanale, divisé par 10 euros;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et du prix de la facture, hors taxes, que le guichet d'entreprise, en tant que fondé de l'entrepreneur débutant, facture à toutes les administrations fédérales pour l'accomplissement de formalités administratives, divisé par 10 euros, à condition que ces formalités administratives fassent partie de la liste limitative en annexe. L'administration est autorisée à adapter cette liste limitative en fonction de l'évolution des tâches attribuées aux guichets d'entreprise.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">La somme est limitée au contingent maximal de 30 chèques de lancement gratuits. Les chèques de lancement gratuits peuvent être commandés par unité. &quot;</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.695Z",
+  "tokenUsage": {
+    "prompt": 2004,
+    "completion": 446,
+    "total": 2450
+  }
+}

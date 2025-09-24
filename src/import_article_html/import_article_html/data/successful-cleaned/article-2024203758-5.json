@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024203758",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans la limite des crédits budgétaires disponibles, le ministre octroie aux commissions de gestion des parcs naturels qui en font la demande, une subvention annuelle portant sur les frais de fonctionnement et les investissements liés aux projets relatifs à la gestion et à la valorisation du patrimoine naturel et de la biodiversité dans le cadre de la mise en oeuvre du plan de gestion du parc naturel.</p>\n            <p>Le taux de la subvention est fixé à cent pour cent des frais de fonctionnement et des frais d'investissement spécifiques à la réalisation de ces projets.</p>\n            <p>L'Administration établit le montant de la subvention qui correspond à la somme des produits des paramètres suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le nombre de communes associées au parc naturel, multiplié par 4.000 euros;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">la superficie du parc naturel, en multipliant la somme de 1.000 euros par millier d'hectares;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le nombre d'habitants, en multipliant la somme de 600 euros par millier d'habitants.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le nombre de milliers, visé à l'alinéa 3, 2° et 3°, est arrondi à l'unité inférieure. Les chiffres utilisés pour le calcul du montant de la subvention sont ceux arrêtés le 1er novembre de l'année précédente. Le montant de la subvention est arrondi à l'unité supérieure.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.762Z",
+  "tokenUsage": {
+    "prompt": 2045,
+    "completion": 482,
+    "total": 2527
+  }
+}

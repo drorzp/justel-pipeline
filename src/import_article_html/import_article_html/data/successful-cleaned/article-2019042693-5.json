@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042693",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 19 du même arrêté, les modifications suivantes sont apportées:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">dans la phrase introductive, les mots \"sous-chef\" sont remplacés par le mot \"département\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">le 1° est remplacé par ce qui suit:</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">il est chargé de l'organisation et de la coordination de l'appui renseignement et sécurité aux opérations, sans effectuer des tâches de renseignement;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"c)\">\n                    <span class=\"provision-text\">les 3° et 5° sont abrogés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"d)\">\n                    <span class=\"provision-text\">au 6°, les mots \"dans le domaine du renseignement et de la sécurité\" sont remplacés par les mots \"dans les domaines du renseignement, de la sécurité et du cyber\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"e)\">\n                    <span class=\"provision-text\">au 7°, les mots \"mise à disposition\" sont remplacés par le mot \"emploi\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.501Z",
+  "tokenUsage": {
+    "prompt": 1839,
+    "completion": 437,
+    "total": 2276
+  }
+}

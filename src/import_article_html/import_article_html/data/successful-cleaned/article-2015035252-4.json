@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015035252",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 92 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les premier et deuxième alinéas sont remplacés par la disposition suivante :\n                        \" Sans préjudice de l'application du deuxième alinéa, il est octroyé au président, aux membres ou à leurs suppléants un jeton de présence par assemblée du Conseil consultatif à laquelle ils participent, conformément à l'article 3 de l'arrêté du Gouvernement flamand du 14 décembre 1983 portant certaines mesures en vue d'harmoniser le fonctionnement, les jetons de présence et les indemnités aux organes consultatifs.\n                        Par dérogation au premier alinéa, les membres mentionnés à l'article 88, points 1° et 2°, reçoivent un jeton de présence équivalant au double du montant mentionné au premier alinéa. Ces membres ne reçoivent un jeton de présence que lorsqu'ils incluent l'affiliation dans le cadre d'un contrat de travail et que l'indemnité est attribuée à l'employeur de la personne concernée.\n                        Le président, les membres ou leurs suppléants ont droit au remboursement de leurs frais de voyage conformément aux normes en vigueur pour le personnel de l'Autorité flamande. \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au troisième alinéa, les mots \" les jetons de présence et \" sont supprimés. Dans ce même alinéa, le membre de phrase \" aux premier et deuxième alinéas \" est remplacé par le membre de phrase \" aux premier, deuxième et troisième alinéas \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.276Z",
+  "tokenUsage": {
+    "prompt": 2082,
+    "completion": 479,
+    "total": 2561
+  }
+}

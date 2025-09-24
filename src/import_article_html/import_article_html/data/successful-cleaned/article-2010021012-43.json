@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010021012",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          Dans l'article 17ter, \n          <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"17ter\" data-law-type=\"AR\" data-article-number=\"1er\">\n            § 1er\n          </span>, alinéa 2, \n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">du même arrêté, inséré par l'arrêté royal du 25 mars 1999, les mots \" 17, 1° à 4° et 7° \" sont remplacés par les mots \" 17, § 1er et § 2, 1° à 4° et 7° \".</span>\n            </li>\n          </ol>\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.242Z",
+  "tokenUsage": {
+    "prompt": 1527,
+    "completion": 283,
+    "total": 1810
+  }
+}

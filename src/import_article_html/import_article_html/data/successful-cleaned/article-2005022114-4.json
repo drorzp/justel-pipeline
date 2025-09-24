@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005022114",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p class=\"intro-text\">Les membres visés à l'article 3,:</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">à</span>\n            </li>\n            <li class=\"provision\" data-number=\"13°\">\n              <span class=\"provision-text\">sont désignés par le Ministre, à l'exception du directeur général et du responsable visés à l'article 3,</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p class=\"intro-text\">Les membres visés à l'article 3,:</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">sont proposés respectivement par l'administrateur délégué de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et par le Ministre qui a le budget dans ses attributions.</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">à</span>\n            </li>\n            <li class=\"provision\" data-number=\"13°\">\n              <span class=\"provision-text\">sont choisis sur une liste double présentée par chaque association représentée.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.764Z",
+  "tokenUsage": {
+    "prompt": 1759,
+    "completion": 488,
+    "total": 2247
+  }
+}

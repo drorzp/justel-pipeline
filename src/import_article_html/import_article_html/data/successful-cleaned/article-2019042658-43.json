@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042658",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le receveur régional est placé en position de non-activité s'il s'avère que :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">il n'a pas suivi ou participé à une partie de la formation sans raison légitime;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il a abandonné la formation sans en avoir informé le gouverneur ou le commissaire d'arrondissement délégué.</span>\n        </li>\n      </ol>\n      <p>Dans les cas visés à l'alinéa 1er, 1° et 2°, l'intéressé est placé en position de non-activité pour la période qui s'étend respectivement du moment où il a cessé de suivre ou de participer à la formation ou du moment où il a abandonné la formation, jusqu'au moment où il reprend le service.</p>\n      <p>En outre, le droit du receveur régional de bénéficier de congés de formation est suspendu durant la partie restante de l'année académique en cours.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.501Z",
+  "tokenUsage": {
+    "prompt": 1796,
+    "completion": 341,
+    "total": 2137
+  }
+}

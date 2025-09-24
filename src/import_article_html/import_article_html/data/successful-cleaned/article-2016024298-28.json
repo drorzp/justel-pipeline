@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016024298",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 143 de la même loi, rétabli par la loi du 13 décembre 2006 et modifié par les lois du 19 décembre 2008, 29 mars 2012 et 19 mars 2013, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, 2°, les mots \"7° et 8° \" sont remplacés par les mots \"7°, 8°, 9° et 10° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 3, les mots \"1°, 2°, 3°, 7° et 8° \" sont remplacés par les mots \"1°, 2°, 3°, 7°, 8°, 9° et 10° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.291Z",
+  "tokenUsage": {
+    "prompt": 1764,
+    "completion": 321,
+    "total": 2085
+  }
+}

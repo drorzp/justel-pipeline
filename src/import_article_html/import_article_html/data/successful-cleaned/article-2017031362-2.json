@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017031362",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 24 du même arrêté est remplacé par ce qui suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 24.</h3>\n        <div class=\"paragraph-content\">\n          <p class=\"intro-text\">Les instances visées à l'article 15, alinéa 1er, 1° et 3°, du décret du 24 juin 2016, sont actives sur tout le territoire de la région de langue néerlandaise et de la région bilingue de Bruxelles-Capitale lorsqu'elles répondent déjà aux conditions suivantes :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">elles comptent au moins 140.000 membres ou assurés, dont à chaque fois au moins 8.000 dans chaque province de la région de langue néerlandaise et dans la région bilingue de Bruxelles-Capitale ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">les instances peuvent être jointes par téléphone et numériquement par leurs membres ou assurés, mais elles disposent aussi d'au moins un bureau dans chaque province de la région de langue néerlandaise et dans la région bilingue de Bruxelles-Capitale, et la prestation de service est accessible du point de vue physique à leurs membres en vue de l'offre d'information et de conseils dans le cadre de la Protection sociale flamande.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.741Z",
+  "tokenUsage": {
+    "prompt": 1943,
+    "completion": 427,
+    "total": 2370
+  }
+}

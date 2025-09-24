@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002022106",
+  "articleNumber": "3bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-06-18/08\" data-law-type=\"AR\" data-article-number=\"1\">\n        Il est accordé, par journée de séance, un jeton de présence de :\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">14,87 euros aux présidents de chaque section et au président des sections conjointes de l'Observatoire des maladies chroniques, institué auprès du Service des soins de santé de l'Institut précité;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">7,44 euros aux membres desdites sections visés aux articles 10octies, 2°, 3°, 4° et 5° et 10nonies de l'arrêté royal du 3 juillet 1996 portant exécution de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">2,48 euros aux secrétaires et aux secrétaires adjoints desdites sections.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.640Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 382,
+    "total": 2279
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998021087",
+  "articleNumber": "166",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-166\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 166</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2 de la même loi, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"A)\">\n          <span class=\"provision-text\">dans le § 1er, alinéa 1er, les mots \"a pris cours\" sont remplacés par les mots \"a pris cours si l'employeur est affilié à l'Office national de sécurité sociale ou jusqu'à la fin du trente-sixième mois suivant celui pendant lequel cet engagement a pris cours si l'employeur est affilié au Fonds national de retraite des ouvriers mineurs\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"B)\">\n          <span class=\"provision-text\">le § 2, alinéa 1er, est complété comme suit :</span>\n          <blockquote>\n            <span class=\"provision-text\">\"ou à l'article 2, § 3, 1° à 5°, et 7°, et § 3bis de l'arrêté-loi précité du 10 janvier 1945, à l'article 56, 1° et 2°, des lois relatives à la réparation des dommages résultant des maladies professionnelles, coordonnées le 3 juin 1970, et à l'article 59, 1°, de la loi du 10 avril 1971 sur les accidents du travail\";</span>\n          </blockquote>\n        </li>\n        <li class=\"provision\" data-number=\"C)\">\n          <span class=\"provision-text\">dans le § 3, les mots \"ou par mois\" sont insérés entre les mots \"trimestre\" et \"prévue\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.083Z",
+  "tokenUsage": {
+    "prompt": 1959,
+    "completion": 458,
+    "total": 2417
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024007100",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Afin de respecter le principe de proportionnalité, l'intensité du suivi effectué par la Région wallonne ne peut pas dépasser l'intensité du suivi effectué par l'Etat fédéral dans le cadre du monitoring de la mise en oeuvre des investissements ferroviaires, tel que stipulé dans les contrats de gestion. Le suivi réalisé par l'Etat fédéral est effectué conformément aux modalités reprises à l'annexe 3.</p>\n      <p class=\"intro-text\">Le principe de proportionnalité, prévu à l'alinéa 1er, implique que les modalités prévues à l'annexe 3, et qui concernent exclusivement l'Etat fédéral, Infrabel et la SNCB, ne sont applicables qu'à partir du premier paiement de la part de la Région wallonne dans le cadre du financement additionnel prévu aux articles 6, § 1er, X, alinéa 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"14°\">\n          <span class=\"provision-text\">et 92bis, § 4nonies, de la Loi spéciale du 8 août 1980 de réforme institutionnelle.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.551Z",
+  "tokenUsage": {
+    "prompt": 1818,
+    "completion": 344,
+    "total": 2162
+  }
+}

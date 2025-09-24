@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012206527",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'annexe III à l'arrêté du Gouvernement flamand du 24 juillet 2009 relatif à la programmation, aux conditions d'agrément et au régime de subventionnement de structures de services de soins et de logement et d'associations d'usagers et d'intervenants de proximité sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le point 1° est remplacé par la disposition suivante :</span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"1°\">\n                            aide de garde : l'aide et l'assistance, le jour ou la nuit, qui consiste à offrir de la compagnie à l'usager et à le surveiller lors de l'absence ou en renfort de l'intervention de proximité; On entend par offrir de la compagnie à l'usager : séjourner en présence d'un usager et l'accompagner dans les activités de la vie quotidienne. On entend par surveillance de l'usager : être présent à proximité immédiate de l'usager et être attentif à ses besoins éventuels et si nécessaire, prêter aide et assistance urgentes ou demander de l'aide professionnelle ou des soins de proximité;\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les points 2°, 3° et 5° sont abrogés;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.171Z",
+  "tokenUsage": {
+    "prompt": 1944,
+    "completion": 421,
+    "total": 2365
+  }
+}

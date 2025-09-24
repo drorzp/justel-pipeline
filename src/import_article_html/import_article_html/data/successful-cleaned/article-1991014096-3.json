@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991014096",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-06-17/18\" data-law-type=\"L\" data-article-number=\"68\">\n        <p class=\"intro-text\">Les marchés et les concessions de travaux visés à l'article 2, dont la valeur estimée dépasse un montant fixé par arrêté royal ne peuvent être exécutés que par des entrepreneurs tant personnes de droit privé que de droit public qui, au moment de la conclusion du marché ou de la concession :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">soit sont agréés à cet effet;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">soit ont fourni la preuve qu'ils remplissent les conditions fixées par la présente loi ou en vertu de celle-ci.</span></li>\n        </ol>\n        <p class=\"closing-text\">Les marchés et les concessions de travaux visés à l'article 2 dont la valeur estimée ne dépasse pas le montant visé à l'alinéa 1er ne peuvent être exécutés que par des entrepreneurs, tant personnes de droit privé que de droit public qui, au moment de la conclusion, remplissent les conditions prévues à l'article 4, § 1er, 1°, 4° et 7°, de la présente loi.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.499Z",
+  "tokenUsage": {
+    "prompt": 1931,
+    "completion": 394,
+    "total": 2325
+  }
+}

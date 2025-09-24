@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010029669",
+  "articleNumber": "79",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-79\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 79</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 110 du même décret sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">entre les termes &quot; l'ensemble des membres d'une académie &quot; et les termes &quot; reprend ses compétences &quot; sont insérés les termes &quot; , constitue l'académie, &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le mot &quot; cependant &quot; est supprimé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au texte initial, tel que modifié par les 1° et 2°, formant l'alinéa 1er, il est ajouté un second alinéa rédigé comme suit :</span>\n          <blockquote class=\"provision-quote\">\n            <p>Le conseil d'administration, les organes décisionnels, le recteur, et, s'il échet, le ou les vice-recteurs, le ou les pro-recteurs, ou l'administrateur de l'institution résultant de la fusion exercent leurs compétences et leurs prérogatives pour l'académie.</p>\n          </blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.231Z",
+  "tokenUsage": {
+    "prompt": 1863,
+    "completion": 390,
+    "total": 2253
+  }
+}

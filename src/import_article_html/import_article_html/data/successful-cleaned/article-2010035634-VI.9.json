@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035634",
+  "articleNumber": "VI.9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-VI-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article VI.9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 54 du même décret est remplacé par la disposition suivante : \" Art. 54. Si un dossier de demande d'allocation a été introduit de façon incomplète, les documents demandés par le service doivent être transmis, sous peine de clôture du dossier, au service au plus tard le 31 décembre de l'année calendrier dans laquelle l'année scolaire ou académique concernée se termine, à moins :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">que les revenus à prendre en considération ne soient pas encore contrôlés par le Service public fédéral Finances;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">qu'une réclamation ou une requête d'exonération d'office d'impôt ait été introduite conformément aux articles 366 à 376 inclus du Code des impôts sur les revenus, ou le tribunal ait été saisi;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">qu'il s'agisse d'une demande, indiquant que le requérant appartient ou déclare appartenir à une unité de vie visée à l'article 34, § 1er, 3°. Dans ce cas, les documents demandés par le service doivent, sous peine d'exclusion, être transmis au service, au plus tard le 31 décembre de l'année calendaire qui suit la fin de l'année scolaire ou académique en question.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Dans le cas des exceptions définies au premier alinéa, 1° et 2°, les revenus contrôlés par le Service public fédéral Finances dans le cadre de l'alinéa 1er doivent être transmis au service au plus tard six mois après réception de ceux-ci.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.239Z",
+  "tokenUsage": {
+    "prompt": 2107,
+    "completion": 509,
+    "total": 2616
+  }
+}

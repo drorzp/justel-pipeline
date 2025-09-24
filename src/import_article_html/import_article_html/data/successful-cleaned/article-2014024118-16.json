@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014024118",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 18 du même arrêté est remplacé comme suit:</p>\n    <p>\"Art. 18.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'équipe pluridisciplinaire de la liaison interne gériatrique est composée de personnes représentant les qualifications visées à l'article 12,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n          <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5°</span></li>\n          <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">6°</span></li>\n          <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">7° et</span></li>\n          <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">8°.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Cette équipe est constituée d'au moins 2 équivalents temps plein, sans compter le médecin spécialiste visé à l'article 12, 1°, et son nombre dépend du nombre annuel de patients de 75 ans et plus hospitalisés dans l'hôpital pour lesquels une admission en service agréé de gériatrie, visé à l'article 13, n'est pas possible.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.193Z",
+  "tokenUsage": {
+    "prompt": 1959,
+    "completion": 521,
+    "total": 2480
+  }
+}

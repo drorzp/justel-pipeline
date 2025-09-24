@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004676",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3, alinéa 2, de l'arrêté royal du 13 juillet 2017 fixant les allocations et indemnités des membres du personnel de la fonction publique fédérale, un 2/</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2/1°\">\n          <span class=\"provision-text\">l'allocation destinée au membre du personnel médecin ou dentiste octroyée en raison de la spécificité de la fonction ;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.356Z",
+  "tokenUsage": {
+    "prompt": 1694,
+    "completion": 205,
+    "total": 1899
+  }
+}

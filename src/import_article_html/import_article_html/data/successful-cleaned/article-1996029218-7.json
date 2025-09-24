@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996029218",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La demande de reconnaissance comme théâtre conventionné est adressée par la compagnie au Conseil au plus tard douze mois avant la prise d'effet de la reconnaissance sollicitée. Le dossier de demande comporte les documents suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">un rapport artistique et financier retraçant l'activité de la compagnie depuis au moins quatre ans et justifiant le respect des conditions prévues à l'article 6, alinéa 1er, 1°, 2°, 4°, 6° et 7° du décret;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le budget et le programme d'activité de l'exercice suivant;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le projet artistique et financier de la compagnie pour les quatre années de la reconnaissance sollicitée, en ce compris, notamment, les propositions de la compagnie relatives aux éléments visés à l'article 9, § 1er, alinéa 2, 1° et 2° du décret.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le Conseil remet son avis motivé sur la demande de reconnaissance avant le 30 septembre. Le Ministre se prononce et notifie sa décision à la compagnie le 31 décembre au plus tard. La reconnaissance prend effet le 1er janvier qui suit la notification.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.110Z",
+  "tokenUsage": {
+    "prompt": 1934,
+    "completion": 422,
+    "total": 2356
+  }
+}

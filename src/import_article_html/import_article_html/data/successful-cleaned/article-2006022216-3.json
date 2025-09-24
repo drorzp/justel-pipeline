@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006022216",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté produit ses effets le 6 octobre 1996, à l'exception des articles 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et 2, qui produisent leurs effets le 1er juillet 1997.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.832Z",
+  "tokenUsage": {
+    "prompt": 1489,
+    "completion": 170,
+    "total": 1659
+  }
+}

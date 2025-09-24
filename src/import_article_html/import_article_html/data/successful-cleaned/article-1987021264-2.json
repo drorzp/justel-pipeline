@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1987021264",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          L'Etat, représenté par le Ministre des Affaires économiques, peut transférer à la Société nationale pour la restructuration des secteurs nationaux les participations qu'il détient dans le capital des entreprises relevant des secteurs visés à l'article 6, § 1, VI, 4°, deuxième partie, 1°, de la loi spéciale du 8 août 1980 de réformes institutionnelles. Les conditions du transfert sont approuvées préalablement, par le Ministre des Finances.\n        </p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          En cas de transfert à la Société nationale pour la restructuration des secteurs nationaux de la participation de l'Etat dans le capital de la société anonyme \"Kempense Steenkolenmijnen\", les mots \"sur proposition de l'Etat\", visés à l'article 175, alinéa 2, 2°, 3° et 5°, de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980, doivent se lire \"sur proposition de la Société nationale pour la restructuration des secteurs nationaux\".\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.520Z",
+  "tokenUsage": {
+    "prompt": 1899,
+    "completion": 387,
+    "total": 2286
+  }
+}

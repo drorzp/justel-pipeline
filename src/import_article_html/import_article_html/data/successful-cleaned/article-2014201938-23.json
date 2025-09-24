@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014201938",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Au sein des articles 14, 10° et 18°, 58, 1°, 61, 65, 78, 95 et 107, les termes \" public \" ou \" publics \" sont abrogés.</p>\n      <p>Le terme \" publics \" de l'intitulé du chapitre 4 du même décret est également abrogé.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.372Z",
+  "tokenUsage": {
+    "prompt": 1505,
+    "completion": 158,
+    "total": 1663
+  }
+}

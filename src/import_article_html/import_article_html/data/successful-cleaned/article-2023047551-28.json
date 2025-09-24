@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047551",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 28</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le présent arrêté entre en vigueur le 1er juillet 2023. Les articles 3,1° à 4°, 4, 5, 1°, 6, 7, 8, 9, 2° et 3°, 10, 11, 12, 13, 14, 8°, 15, 2°, 16, 17, 2° et 3°, 18, 4° et 5°, 19, 2° et 3°, 20, 4° à 6° cessent d'être en vigueur le <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2025-03-31/03\" data-law-type=\"AM\" data-article-number=\"33\">1er octobre 2026</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.484Z",
+  "tokenUsage": {
+    "prompt": 1739,
+    "completion": 261,
+    "total": 2000
+  }
+}

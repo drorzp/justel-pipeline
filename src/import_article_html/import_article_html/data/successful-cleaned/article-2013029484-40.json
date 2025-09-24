@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013029484",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 40</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les articles 83, § 2,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et 92, § 2,</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">du même décret, la phrase suivante est à chaque fois supprimée:</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">&quot; b) la part totale des charges affectées aux frais de fonctionnement et celle affectée aux activités; &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.047Z",
+  "tokenUsage": {
+    "prompt": 1575,
+    "completion": 240,
+    "total": 1815
+  }
+}

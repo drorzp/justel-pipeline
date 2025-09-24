@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001105",
+  "articleNumber": "109",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-109\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 109</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent décret entre en vigueur le jour de sa publication au Moniteur belge, à l'exception :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">des articles 3, 10, 12, 17 à 22, 24, 28 à 33, 38, 1° et 3°, 39 à 43, 62 à 64 et 73 qui produisent leurs effets en vue de la rentrée scolaire ou académique 2023-2024 ;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">de l'article 38, 2°, qui produit ses effets le 3 février 2021 ;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">des articles 8, 9, 11, 13, 14 à 16, 23, 25 à 27, 34 à 37, 44 à 61 et du Titre 5, qui entrent en vigueur le 1er janvier 2024.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.519Z",
+  "tokenUsage": {
+    "prompt": 1788,
+    "completion": 334,
+    "total": 2122
+  }
+}

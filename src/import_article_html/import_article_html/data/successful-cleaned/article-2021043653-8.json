@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021043653",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 3.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans l'article 7, § 3, du décret du 16 juillet 2015 instaurant un prélèvement kilométrique à charge des poids lourds pour l'utilisation des routes, les mots \" Le tarif de base est indexé en fonction de l'indice des prix à la consommation. \" sont remplacés par \" Les valeurs du tarif de base et des variables A, G, En, Et, et Ep visées à l'article 7, § 1er, 2°, 3°, 4°, 5°, 6° et 7° sont indexées le 1er janvier de chaque année à l'aide du coefficient obtenu en divisant l'indice général des prix à la consommation du Royaume du mois d'août de l'année précédente par l'indice général des prix à la consommation du Royaume du mois d'avril de l'année 2016.</p>\n          <p>Dans ce cadre, les arrondis suivants sont appliqués :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">le coefficient est arrondi au dix millième supérieur ou inférieur selon que le chiffre des cent millièmes atteint ou non cinq ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">après application du coefficient aux valeurs du tarif de base et des variables A, G, En, Et, et Ep visé à l'article 7, § 1er, 2°, 3°, 4°, 5°, 6° et 7°, le montant obtenu est arrondi au millième d'euro supérieur ou inférieur selon que le chiffre des dix millièmes atteint ou non cinq.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.072Z",
+  "tokenUsage": {
+    "prompt": 2042,
+    "completion": 503,
+    "total": 2545
+  }
+}

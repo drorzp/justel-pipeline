@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030121",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 28</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les articles 4, 2° et 3°, 4bis, 7, 8, 1°, 2° et 3°, 9 et 9bis, le chapitre 3, comprenant les article 10 à 33, et les articles 44 et 45, de l'arrêté royal du 21 avril 1983 fixant les modalités de l'agrément des médecins spécialistes et des médecins généralistes sont abrogés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.468Z",
+  "tokenUsage": {
+    "prompt": 1546,
+    "completion": 176,
+    "total": 1722
+  }
+}

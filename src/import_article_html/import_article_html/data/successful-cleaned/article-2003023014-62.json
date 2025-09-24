@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003023014",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 62</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 8, §§ 1er, 2, et 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">7°, et l'article 20, à l'exception du § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">2°, ne sont pas applicables aux opérations d'assurances liées à un fonds d'investissement.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.819Z",
+  "tokenUsage": {
+    "prompt": 1590,
+    "completion": 251,
+    "total": 1841
+  }
+}

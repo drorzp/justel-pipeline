@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000465",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Un article 41ter, rédigé comme suit, est inséré dans la même loi :</p>\n    <p>\" Art. 41ter. -</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sauf en ce qui concerne le citoyen de l'Union visé à l'article 40, § 4, alinéa 1er, 1°, le ministre ou son délégué peut mettre fin au droit de séjour du citoyen de l'Union qui lui est reconnu sur la base de l'article 40, § 3, lorsqu'il constitue une charge déraisonnable pour le système d'aide sociale du Royaume.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sauf en ce qui concerne le citoyen de l'Union visé à l'article 40, § 4, alinéa 1er, 1° et les membres de sa famille, le ministre ou son délégué peut mettre fin au droit de séjour du citoyen de l'Union qui lui est reconnu sur la base de l'article 40, § 3, et au droit de séjour des membres de sa famille qui leur est reconnu sur la base de l'article 40bis, § 3, lorsque ceux-ci constituent une charge déraisonnable pour le système d'aide sociale du Royaume.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.809Z",
+  "tokenUsage": {
+    "prompt": 1991,
+    "completion": 416,
+    "total": 2407
+  }
+}

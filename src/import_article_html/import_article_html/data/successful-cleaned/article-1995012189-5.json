@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995012189",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La convocation remise à l'électeur en application de l'article 45 de l'arrêté royal du 12 août 1994 relatif aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail doit mentionner que le vote aura lieu sur un écran de visualisation au moyen d'un crayon optique et que l'électeur ne peut émettre son vote que selon un des modes prévus à l'article 58, alinéa 4,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">de l'arrêté royal du 12 août 1994.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.986Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 270,
+    "total": 1940
+  }
+}

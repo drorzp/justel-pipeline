@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019202616",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le tableau des marchés publics visé à l'article 1er, 5°, liste :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les marchés publics ou groupes de marchés publics attribués séparément par la commune au cours de l'année précédente;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les marchés publics ou groupes de marchés publics attribués séparément par le CPAS au cours de l'année précédente;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les marchés publics ou groupes de marchés publics attribués de manière conjointe par la commune et le CPAS au cours de l'année précédente;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">les marchés publics ou groupes de marchés publics attribués séparément par la commune et le CPAS et pouvant faire à l'avenir l'objet de marchés publics conjoints.</span>\n                </li>\n            </ol>\n            <p>Pour chaque marché public ou groupe de marchés publics visé au 1°, 2° et 3°, le type de marché public, le mode de passation, le montant et la date d'attribution sont précisés.</p>\n            <p class=\"closing-text\">Pour chaque marché public ou groupe de marchés publics visé au 4°, le type de marché public, le mode de passation, le montant estimé et la date projetée d'attribution sont précisés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.420Z",
+  "tokenUsage": {
+    "prompt": 1956,
+    "completion": 449,
+    "total": 2405
+  }
+}

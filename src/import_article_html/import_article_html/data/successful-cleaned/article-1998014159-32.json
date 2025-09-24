@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998014159",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 32</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La licence individuelle peut être cédée moyennant l'accord préalable du Ministre sur proposition de l'Institut.</p>\n            <p class=\"intro-text\">La demande de cession contient les informations visées à l'article 27,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1°</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">3°</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">4°</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">5°</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">La procédure prévue à l'article 28 s'applique à la cession.</p>\n            <p class=\"closing-text\">La demande de cession entraîne le paiement d'une redevance pour analyse du dossier d'un montant de 150 000 francs.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.169Z",
+  "tokenUsage": {
+    "prompt": 1602,
+    "completion": 339,
+    "total": 1941
+  }
+}

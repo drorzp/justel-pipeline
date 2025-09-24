@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995000578",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2 du même arrêté sont apportées les modifications suivantes :</p>\n            <p>A) le 6° et le 7° sont remplacés respectivement par les dispositions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">rémunération et frais de déplacement d'un membre du personnel à temps plein et un à mi-temps chargés de la gestion des dossiers et de l'inspection qu'ils organisent dans le cadre des diverses interventions que l'Etat accorde aux gouverneurs et aux communes au profit des polices communales et de l'organisation de l'entretien et de la réparation des éthylotests et des éthylomètres, les frais de déplacement sont calculés conformément aux règles fixées pour le personnel de l'Etat.</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">frais d'élaboration conceptuelle de projets de coopération à réaliser sur la base de l'article 45, alinéa 2, 1° de la loi du 5 août 1992 sur la fonction de police.</span>\n                </li>\n            </ol>\n            <p>B) Il est inséré un 8° rédigé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">frais relatifs à l'entretien et à la réparation des éthylotests et des éthylomètres.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.960Z",
+  "tokenUsage": {
+    "prompt": 1956,
+    "completion": 440,
+    "total": 2396
+  }
+}

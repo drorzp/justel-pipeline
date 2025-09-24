@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040352",
+  "articleNumber": "66",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-66\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 66</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le membre du personnel introduit sa demande d'obtention de l'indemnité auprès du service désigné à cet effet par le fonctionnaire dirigeant ou son délégué et selon les modalités que celui-ci détermine. Sans préjudice de l'article 6, la demande indique l'itinéraire entre la résidence et le lieu de travail, les raisons de l'impossibilité d'utiliser les transports en commun publics et les dates et périodes de ces déplacements. L'impossibilité d'utiliser les transports en commun publics est prouvée :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">a) pour le 1° des articles 64, alinéa 1er, et 65, par un certificat médical qui est présenté en cas de doute pour contrôle à MEDEX; dans certains cas, il peut être accepté que le véhicule soit conduit par un tiers;</li>\n        <li class=\"sub-provision\" data-marker=\"b)\">b) pour les 2° et 3° de l'article 64, alinéa 1er, et le 3° de l'article 65, par des attestations des sociétés de transports en commun publics, qui desservent la région concernée, dans lesquelles il est clairement affirmé qu'il n'y a aucune offre, ou du moins pas aux moments nécessaires, de transports en commun publics; ces attestations peuvent le cas échéant être remplacées par des copies obtenues via internet des horaires des sociétés concernées;</li>\n        <li class=\"sub-provision\" data-marker=\"c)\">c) pour le 2° de l'article 65, par une attestation de l'autorité qui convoque l'intéressé, dans laquelle il est explicitement mentionné que tout délai ou perte de temps aurait des conséquences défavorables sérieuses;</li>\n        <li class=\"sub-provision\" data-marker=\"d)\">d) La difficulté d'utiliser les transports en commun publics pour le 4° de l'article 65 est prouvée par une attestation des sociétés de transports en commun publics ou le cas échéant par tout autre moyen.</li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.722Z",
+  "tokenUsage": {
+    "prompt": 2187,
+    "completion": 532,
+    "total": 2719
+  }
+}

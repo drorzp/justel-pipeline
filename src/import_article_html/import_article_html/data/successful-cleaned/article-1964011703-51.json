@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1964011703",
+  "articleNumber": "51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-51\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 51</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sont abrogés :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'arrêté royal du 12 octobre 1951, d'exécution de la loi portant indemnité en faveur des familles des militaires soldés, modifié par l'arrêté royal du 7 juillet 1952;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'arrêté royal du 13 octobre 1951 déterminant les conditions de ressources requises pour l'octroi de l'indemnité de milice aux familles des militaires soldés et fixant le taux de cette indemnité;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'arreté royal du 27 juin 1952 fixant les conditions d'octroi des indemnités de milice pendant les douze premiers mois de service des militaires, en faveur des ayants droit vises à l'article 2, 4° et 5°, de la loi du 9 juillet 1951;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'arrêté royal du 8 juillet 1954 réglant les conditions d'octroi de l'indemnité de milice aux épouses des militaires soldés rappelés sous les armes;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">l'arrêté royal du 3 juin 1954 déterminant les conditions de ressources requises pour l'octroi de l'indemnité de milice aux epouses résidant au Congo belge ou au Ruanda-Urundi des militaires soldés des bases métropolitaines en Afrique, et établissant le taux de cette indemnité.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.526Z",
+  "tokenUsage": {
+    "prompt": 2086,
+    "completion": 520,
+    "total": 2606
+  }
+}

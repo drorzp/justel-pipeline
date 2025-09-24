@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005033073",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent décret entre en vigueur le 1er septembre 2005, à l'exception</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">des articles 1er, 1° et 2°, 2, 3, 12, 1° et 2°, et 36, 21°, qui produisent leurs effets le 1er septembre 2004;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'article 18 qui produit ses effets le 1er février 2005;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">des articles 4, 8, 9, 10, 11, 14 et 35, qui entrent en vigueur le jour de l'adoption du présent décret.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.895Z",
+  "tokenUsage": {
+    "prompt": 1719,
+    "completion": 311,
+    "total": 2030
+  }
+}

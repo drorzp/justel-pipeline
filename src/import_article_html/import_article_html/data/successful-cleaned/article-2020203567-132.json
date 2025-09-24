@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020203567",
+  "articleNumber": "132",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-132\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 132</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 13 du même décret, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, les mots &quot; de directeur d'école secondaire &quot; sont abrogés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans l'alinéa 2, les premier et deuxième tirets sont remplacés par les 1° et 2° rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"1°\">\n                            <span class=\"provision-text\">pour les modules dispensés tous réseaux confondus de la formation spécifique et les modules complémentaires destinés aux chefs d'établissement de l'enseignement fondamental et secondaire ne disposant pas de formation pédagogique, par le Gouvernement;</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"2°\">\n                            <span class=\"provision-text\">pour le module de la formation dispensée par un pouvoir organisateur, par le pouvoir organisateur en question.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.242Z",
+  "tokenUsage": {
+    "prompt": 1804,
+    "completion": 373,
+    "total": 2177
+  }
+}

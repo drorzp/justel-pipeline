@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008201478",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 3 du même arrêté, est remplacé par la disposition suivante : &quot; Art. 3. Les membres des cellules stratégiques doivent :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">satisfaire aux conditions prévues à l'article 16, alinéa 1er, 2°, 3° et 4°, de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">être titulaire d'une fonction de niveau A ou B ou être porteur d'un diplôme ou d'un certificat d'études qui les autorisent à participer à une sélection comparative pour une fonction de niveau A ou B, ou être lauréat d'une épreuve d'accession au niveau A ou B. &quot;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.909Z",
+  "tokenUsage": {
+    "prompt": 1727,
+    "completion": 304,
+    "total": 2031
+  }
+}

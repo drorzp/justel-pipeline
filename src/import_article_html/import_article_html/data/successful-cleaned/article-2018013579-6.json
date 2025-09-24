@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018013579",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La procédure de sélection pour le transfert vers le cadre visé à l'article 1er se déroule tel que visé aux articles IV.I.15, alinéa 1er, 2°,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">à IV.I.27 PJPol.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.698Z",
+  "tokenUsage": {
+    "prompt": 1530,
+    "completion": 200,
+    "total": 1730
+  }
+}

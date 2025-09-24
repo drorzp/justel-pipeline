@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012022060",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 6, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">, du règlement du 28 juillet 2003 portant exécution de l'article 22, 11° de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994 est complété par un alinéa libellé comme suit :</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">\" Le formulaire mentionnant la nécessité de prise en charge infirmière pour la préparation hebdomadaire de médicaments administrés par voie orale tel que prévu à l'article 8, § 4bis, de la nomenclature doit être conforme au modèle repris à l'annexe 81. \"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.188Z",
+  "tokenUsage": {
+    "prompt": 1699,
+    "completion": 299,
+    "total": 1998
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014011065",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La violation des dispositions suivantes donne également lieu à l'application de la présomption établie par l'article 30ter, § 1er, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers : les articles 8, § 1er, § 2, alinéas 2 et 4, §§ 3 à 6 et §§ 8 et 9, les articles 9 et 10, §§ 1er, 2, 4, 6 et 7, l'article 11, § 3, d), l'article 12, §§ 1er, 2, 4 et 5, l'article 13, alinéa 1er, a) et alinéa 2, l'article 15, §§ 1, 3 et 4, les articles 16, 17, 19 et 20, §§ 1er et 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">à</span></li>\n        <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"14°\"><span class=\"provision-text\">à</span></li>\n      </ol>\n      <p class=\"closing-text\">5°, 8° et 9°, 11° et 12°, 14° à 16°, les articles 80, 81 et 83 de l'arrêté royal du 3 juin 2007 portant les règles et modalités visant à transposer la Directive concernant les marchés d'instruments financiers.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.154Z",
+  "tokenUsage": {
+    "prompt": 2031,
+    "completion": 486,
+    "total": 2517
+  }
+}

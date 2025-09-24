@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016021100",
+  "articleNumber": "85",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-85\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 85</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 178/1, § 1er, alinéa 1er, du même Code, inséré par la loi du 10 août 2015 et modifié par la loi du 26 décembre 2015, les mots \"et 90, alinéa 1er, 6°, 9° et 13°, \" sont remplacés par les mots \"et 90, alinéa 1er, 6° et 9°, \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.249Z",
+  "tokenUsage": {
+    "prompt": 1561,
+    "completion": 186,
+    "total": 1747
+  }
+}

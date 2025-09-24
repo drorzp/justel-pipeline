@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996027711",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Ministre du Budget est autorisé à porter en déduction des charges d'emprunts de la Région wallonne :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les revenus de placements de produits d'emprunts en francs belges effectués dans le cadre des opérations de gestion du Trésor visées à l'article 7, 1° et 2°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les revenus ou capitaux attribués à la Région wallonne suite à des opérations de gestion du Trésor en matière de \" swap \" d'intérêts, d'arbitrages, de couvertures de risque telles que les options ou autres opérations réalisées au moyen d'emprunts de la Région et aux fins d'en alléger les charges financières.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.105Z",
+  "tokenUsage": {
+    "prompt": 1714,
+    "completion": 295,
+    "total": 2009
+  }
+}

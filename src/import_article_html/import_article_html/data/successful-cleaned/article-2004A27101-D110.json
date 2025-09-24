@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004A27101",
+  "articleNumber": "D110",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-D110\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article D110</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2007-11-22/44\" data-law-type=\"DRW\" data-article-number=\"2\">\n                <p class=\"intro-text\">Nonobstant les règles définies à l'article D.109, dans le cas visé à l'article D.119, l'autorité compétente est habilitée à décider qu'aucune mesure de réparation supplémentaire ne doit être prise si :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les mesures de réparation déjà prises garantissent qu'il ne subsiste aucun risque grave d'incidence négative sur la santé humaine, les eaux ou les espèces et habitats naturels protégés;</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et que le coût des mesures de réparation à prendre pour rétablir l'état initial ou un niveau équivalent serait disproportionné par rapport aux bénéfices environnementaux escomptés.</span></li>\n                </ol>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.713Z",
+  "tokenUsage": {
+    "prompt": 1804,
+    "completion": 323,
+    "total": 2127
+  }
+}

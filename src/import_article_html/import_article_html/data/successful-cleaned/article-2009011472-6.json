@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009011472",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les dispositions des articles 8,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et 9,</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">4°, du même arrêté sont chaque fois remplacées par la disposition suivante :</p>\n            <blockquote class=\"replacement-text\">\n                <p>la majorité des gérants, administrateurs, membres du comité de direction et de façon plus générale les mandataires indépendants qui interviennent au nom et pour compte de la personne morale, doivent être membres de l'Institut ou doivent être des personnes qui possèdent à l'étranger une qualité reconnue équivalente à celle de comptable ou de comptable-fiscaliste en Belgique en exécution de traités internationaux ou moyennant réciprocité. S'il s'agit d'une personne morale, elle doit désigner une personne physique, comptable ou comptable-fiscaliste comme représentant permanent de la personne morale. Celle-ci est personnellement soumise à la déontologie de l'Institut.</p>\n                <p>Les personnes physiques qui exécutent les missions telles que décrites à l'article 49 de la loi au nom et pour compte des personnes morales agréées visées dans cet arrêté, doivent avoir la qualité de comptable ou comptable-fiscaliste ou une qualité reconnue équivalente en Belgique ou à l'étranger.</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.028Z",
+  "tokenUsage": {
+    "prompt": 1891,
+    "completion": 399,
+    "total": 2290
+  }
+}

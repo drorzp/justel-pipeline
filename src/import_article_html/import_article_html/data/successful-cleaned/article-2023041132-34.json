@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023041132",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 52/15 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 2, alinéa 2, 2° et 6°, les mots \"en faits et droit\" sont remplacés par les mots \"en fait et en droit\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 2, alinéa 2, 11°, les mots \"et avec application possible de l'article 52/14, alinéa 2\" sont remplacés par les mots \"et de faire aveu avec application de l'article 52/14bis\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au paragraphe 2, alinéa 2, 13°, les mots \"l'article 52/9, § 1er, alinéa 1\" sont remplacés par les mots \"l'article 52/9, § 1er, alinéa 2\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.731Z",
+  "tokenUsage": {
+    "prompt": 1837,
+    "completion": 371,
+    "total": 2208
+  }
+}

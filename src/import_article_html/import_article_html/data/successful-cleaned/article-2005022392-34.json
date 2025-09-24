@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005022392",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le nombre de services de médecine nucléaire dans lesquels un scanner PET a été installé, comme visé à la sous-section 2, et qui peuvent être agréés, est limité sur base des critères suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">1 service pour chaque faculté universitaire disposant d'un programme d'études complet en médecine;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">1 service pour chaque hôpital où sont effectuées à la fois des prestations chirurgicales et médicales, exclusivement pour le traitement des tumeurs, et qui a obtenu la dérogation visée à l'article 2, § 1erbis, de l'arrêté royal du 30 janvier 1989 fixant les normes complémentaires d'agrément des hôpitaux et des services hospitaliers et précisant la définition des groupements d'hôpitaux et les normes particulières qu'ils doivent respecter;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">1 service par tranche complète de 1 600 000 habitants, soit 3 services sur le territoire de la Région flamande et 2 sur le territoire de la Région wallonne, et ce au-delà des criteres visés aux 1° et 2°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.882Z",
+  "tokenUsage": {
+    "prompt": 1915,
+    "completion": 407,
+    "total": 2322
+  }
+}

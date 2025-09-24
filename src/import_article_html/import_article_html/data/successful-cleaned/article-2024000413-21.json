@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024000413",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 280 du même Code, remplacé par la loi du 8 mars 2010, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive de la version néerlandaise de l'article, les mots \"ter gelegenheid van de uitoefening van zijn bediening,\" sont remplacés par les mots \"in de uitoefening of naar aanleiding van de uitoefening van deze functie,\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est inséré avant le 1°, qui devient le 1° /1, un 1° rédigé comme suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">\"1° dans les cas visés à l'article 393, la peine sera la réclusion à perpétuité;\"</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'article est complété par les 9° et 10°, rédigés comme suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"9°\">\n              <span class=\"provision-text\">\"9° dans les cas visés à l'article 417/2, alinéa 1er, la peine sera la réclusion de quinze ans à vingt ans;</span>\n            </li>\n            <li class=\"provision\" data-number=\"10°\">\n              <span class=\"provision-text\">10° dans les cas visés à l'article 417/3, alinéa 1er, la peine sera la réclusion de dix ans à quinze ans.\"</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.513Z",
+  "tokenUsage": {
+    "prompt": 2136,
+    "completion": 532,
+    "total": 2668
+  }
+}

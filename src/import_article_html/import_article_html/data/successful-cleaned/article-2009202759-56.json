@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202759",
+  "articleNumber": "56",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-56\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 56</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent chapitre du présent décret entre en vigueur le jour de sa publication au Moniteur belge , à l'exception :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">des articles 51, 52 et 54, 2°, qui produisent leurs effets au 23 décembre 2005;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">de l'article 53, 2°, 4° et 5°, qui produit ses effets au 1er janvier 2006;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">des articles 53, 3°, et 55, qui produisent leurs effets au 1er janvier 2006; toutefois, lorsque la déclaration de succession mentionnant des biens visés par l'article 60bis, § 1er, du Code des droits de succession, a déjà été déposée avant la date de publication au Moniteur belge du présent décret, sans application du tarif réduit prévu par cette disposition telle que modifiée par le présent décret avec effet au 1er janvier 2006, le délai de deux ans mentionné à l'article 135, 8°, du Code des droits de succession, tel qu'inséré par l'article 55 du présent décret, commence à courir à partir du jour de la publication du présent décret au Moniteur belge.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.310Z",
+  "tokenUsage": {
+    "prompt": 1914,
+    "completion": 396,
+    "total": 2310
+  }
+}

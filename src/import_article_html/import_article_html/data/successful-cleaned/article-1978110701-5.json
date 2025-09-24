@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1978110701",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1991-10-17/33\" data-law-type=\"AR\" data-article-number=\"4\">\n          &lt;AR 1991-10-17/33, art. 4 et 6, 003;**En vigueur :**01-01-1991; applicable aux prestations qui peuvent effectivement prendre cours au plus tôt pour la première fois au 1er janvier 1991 et pour lesquelles une demande de régularisation des périodes d'études a été introduite après le 31 décembre 1990.&gt;\n        </span>\n        La cotisation est égale à celle qui est fixée par le Roi pour la régularisation des périodes d'études dans le régime de pension des travailleurs salariés.\n      </p>\n      <p class=\"intro-text\">\n        Pour la fixation de la rémunération mensuelle, il est toujours tenu compte de la rémunération du mois au cours duquel la demande, visée à l'article 1er, a été introduite.\n      </p>\n      <p class=\"intro-text\">\n        Pour le calcul de la cotisation due pour les périodes d'études visées à l'article 3, alinéa 1er, 1°, chaque année d'étude est égale à douze mois. Pour les périodes visées à l'article 3, alinéa 1er, 2° et 3°, la cotisation due est fixée selon la durée de la période à régulariser.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.695Z",
+  "tokenUsage": {
+    "prompt": 2046,
+    "completion": 410,
+    "total": 2456
+  }
+}

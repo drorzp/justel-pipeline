@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014203619",
+  "articleNumber": "60",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-60\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 60</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 185, § 1er, de la loi portant dispositions sociales du 29 avril 1996, modifié par les lois du 24 décembre 1999 et du 6 mai 2009, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au premier alinéa, les mots \"1° à 7°\" sont remplacés par les mots \"</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\"><span class=\"provision-text\">1° ou</span></li>\n            <li class=\"sub-provision\" data-marker=\"2°\"><span class=\"provision-text\">2° ou</span></li>\n            <li class=\"sub-provision\" data-marker=\"3°\"><span class=\"provision-text\">3°</span></li>\n          </ol>\n          <span class=\"provision-text\">\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au deuxième alinéa, les mots \"1° à 8\" sont remplacés par les mots \"</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\"><span class=\"provision-text\">1° ou</span></li>\n            <li class=\"sub-provision\" data-marker=\"2°\"><span class=\"provision-text\">2° ou</span></li>\n            <li class=\"sub-provision\" data-marker=\"3°\"><span class=\"provision-text\">3° et</span></li>\n            <li class=\"sub-provision\" data-marker=\"8°\"><span class=\"provision-text\">8°</span></li>\n          </ol>\n          <span class=\"provision-text\">\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.379Z",
+  "tokenUsage": {
+    "prompt": 1920,
+    "completion": 516,
+    "total": 2436
+  }
+}

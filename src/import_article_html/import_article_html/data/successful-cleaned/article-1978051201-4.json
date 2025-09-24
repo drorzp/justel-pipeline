@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1978051201",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1990-09-06/34\" data-law-type=\"AR\" data-article-number=\"1\">&lt;AR 1990-09-06/34, art. 1, 002; En vigueur : 01-04-1990&gt;</span> L'article 3, §§ 1er à 3 et § 4,\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et les articles 5, 8 et 9 de l'arrêté royal du 19 août 1985 portant le statut pécuniaire du personnel des Forces armées qui bénéficie d'une solde, modifié par les arrêtés royaux des 15 juin 1987 et 19 mars 1990 sont applicables aux objecteurs de conscience en service au sein d'organismes.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.745Z",
+  "tokenUsage": {
+    "prompt": 1762,
+    "completion": 333,
+    "total": 2095
+  }
+}

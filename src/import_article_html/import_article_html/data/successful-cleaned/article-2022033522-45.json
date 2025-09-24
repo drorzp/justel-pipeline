@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022033522",
+  "articleNumber": "45",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-45\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 45</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 6.5.1 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 27 novembre 2015, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans la phrase introductive, les mots \" pour des actes à ou dans des biens protégés \" sont abrogés</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est ajouté un point 6° et 7°, rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"6°\">\n                            <span class=\"provision-text\">les décisions relatives aux demandes d'autorisation d'effectuer des actes sur un bien immobilier repris dans un inventaire établi tel que visé à l'article 4.1.1, alinéa 1er, 3° ou 4°, du décret relatif au patrimoine immobilier du 12 juillet 2013</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">les avis visés à l'article 4.2.14 du présent arrêté concernant les actes sur un bien immobilier repris dans un inventaire établi tel que visé à l'article 4.1.1, alinéa 1er, 3° ou 4°, du décret relatif au patrimoine immobilier du 12 juillet 2013</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.812Z",
+  "tokenUsage": {
+    "prompt": 2047,
+    "completion": 445,
+    "total": 2492
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020030583",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les délais suivants sont prolongés de trente jours :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le délai dans lequel le titulaire du droit réel peut demander d'être entendu après une protection provisoire, visé à l'article 6.1.6, alinéa 2, du Décret relatif au patrimoine immobilier ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le délai dans lequel le titulaire du droit réel doit informer les utilisateurs du bien immobilier et les propriétaires des biens culturels, visés à l'article 6.1.6, alinéa 3, 1° et 2°, et à l'article 6.1.16, alinéa 2, 1° et 2° du Décret relatif au patrimoine immobilier, de la décision de protection provisoire ou définitive.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.256Z",
+  "tokenUsage": {
+    "prompt": 1852,
+    "completion": 305,
+    "total": 2157
+  }
+}

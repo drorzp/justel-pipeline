@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A31976",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">- Une allocation à titre gratuit de quotas provenant de la réserve spéciale est prévue pour les exploitants d'aéronefs :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">qui commencent à exercer une activité aérienne après l'année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">dont les données relatives aux tonnes-kilomètres traduisent une augmentation annuelle <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-10-16/25\" data-law-type=\"CN\" data-article-number=\"5\">moyenne</span> supérieure à 18 % entre l'année de surveillance pour laquelle les données relatives aux tonnes-kilomètres ont été communiquées pour une période, et la deuxième année civile de cette période;</span>\n          </li>\n        </ol>\n        <p>et dont les activités visées aux points 1° et 2° ne s'inscrivent pas, pour partie ou dans leur intégralité, dans le cadre de la poursuite d'une activité aérienne exercée auparavant par un autre exploitant d'aéronef.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>- En application du paragraphe 1er, un exploitant d'aéronef ne peut se voir allouer plus de 1.000.000 de quotas.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.141Z",
+  "tokenUsage": {
+    "prompt": 2093,
+    "completion": 499,
+    "total": 2592
+  }
+}

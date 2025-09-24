@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019203621",
+  "articleNumber": "49",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-49\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 49</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 8 du même décret, l'alinéa 1er, modifié par les décrets des 22 décembre 2010 et 24 novembre 2016, est remplacé par ce qui suit :</p>\n            <blockquote class=\"replacement-text\">\n                <p>Dans les cas d'infraction visés à l'article 5, § 1er, 1°, et § 2, 2° et 3°, ou en cas de dégradation causée à la voirie publique régionale à l'occasion d'une infraction visée à l'article 5, § 1er, 4°, ou au décret du 4 avril 2019 relatif aux amendes administratives en matière de sécurité routière, l'autorité gestionnaire peut d'office remettre ou faire remettre le domaine public en état. Le coût de la remise en état du domaine public, y compris, le cas échéant, le coût de la gestion des déchets conformément à la réglementation en vigueur, est récupéré à charge de l'auteur de l'infraction.</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.427Z",
+  "tokenUsage": {
+    "prompt": 1824,
+    "completion": 309,
+    "total": 2133
+  }
+}

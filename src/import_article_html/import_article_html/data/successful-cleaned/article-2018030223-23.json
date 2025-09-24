@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030223",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 5, § 2, du décret du 5 février 1990 relatif aux bâtiments scolaires de l'enseignement non universitaire organisé ou subventionné par la Communauté française, sont insérés les 13°, 14° et 15° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"13°\">\n                    <span class=\"provision-text\">à partir de 2018, le transfert annuel du Fonds de Création de Places dans les bâtiments scolaires de l'enseignement obligatoire, tels que visés à l'article 13bis, § 2, alinéa 1er, 1° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"14°\">\n                    <span class=\"provision-text\">à partir de 2018, la dotation annuelle résultant du prélèvement global sur les dotations des établissements du réseau WBE en vertu du nouveau marché d'achat groupé d'énergie, telle que visée à l'article 3, § 3 bis, alinéa 4 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement;</span>\n                </li>\n                <li class=\"provision\" data-number=\"15°\">\n                    <span class=\"provision-text\">à partir de 2018, le transfert annuel des moyens affectés à l'AB 12.01.03 de la DO 44 pour assumer les dépenses permanentes d'achats de biens non-durables et de services, et ce en relation avec la prise en charge, par la Direction générale des Infrastructures du Ministère de la Communauté française, des dépenses des établissements du réseau WBE visées au 14°.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.470Z",
+  "tokenUsage": {
+    "prompt": 2045,
+    "completion": 473,
+    "total": 2518
+  }
+}

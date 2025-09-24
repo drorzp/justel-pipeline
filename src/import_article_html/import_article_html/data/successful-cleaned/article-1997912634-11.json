@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997912634",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 137, § 1er, du même arrêté, modifié par les arrêtés royaux des 11 janvier 1993, 25 mai 1993, 22 novembre 1995, 22 décembre 1995 et 9 juin 1997 est complété par un 6° et un 7°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">\" un \" certificat d'allocation de réinsertion \" au travailleur qui est occupé dans un projet de réinsertion après la fin de chaque mois. Le certificat précité remplace la carte de contrôle pour l'application de l'article 160;</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">un \" certificat d'allocation d'embauche \" au travailleur qui peut prétendre à l'allocation d'embauche, après la fin de chaque mois. Le certificat précité remplace la carte de contrôle pour l'application de l'article 160.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.929Z",
+  "tokenUsage": {
+    "prompt": 1795,
+    "completion": 335,
+    "total": 2130
+  }
+}

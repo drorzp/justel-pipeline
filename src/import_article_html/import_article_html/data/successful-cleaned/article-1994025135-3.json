@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994025135",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 21decies, § 1er, alinéa 1er, 3° du même arrêté numéroté, inséré par la loi du 20 décembre 1974, est remplacé par la disposition suivante :</p>\n        <p>\" 3° trois fonctionnaires désignés par les autorités compétentes pour l'enseignement en vertu des articles 59bis, § 2, alinéa 1er, 2°, et 59ter, § 2, alinéa 1er, 3°, de la Constitution. \"</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>A l'article 21decies, § 3, du même arrêté numéroté, inséré par la loi du 20 décembre 1974, la phrase \" les membres visés au 3° et 4° sont nommés sur proposition du Ministre dont ils relèvent \" est remplacée par la disposition suivante :</p>\n        <p>\" les membres visés au 3° sont nommés sur désignation des Exécutifs concernés; les membres visés au 4° sont nommés sur proposition du Ministre dont ils relèvent. \"</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.942Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 391,
+    "total": 2288
+  }
+}

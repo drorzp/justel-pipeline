@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040730",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article 4, alinéa deux,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et jusqu'au 31 décembre 2017 compris, l'offre de location sociale planifiée dans la commune est calculée comme l'offre de logements locatifs sociaux supplémentaires dans des projets dont, selon la commission d'évaluation la plus récente, l'opération de construction ou d'investissement est inscrite dans le planning pluriannuel ou dans le planning à court terme ou dont des moyens ont été alloués sur un budget annuel pour l'opération de construction ou d'investissement dont les travaux n'ont pas encore été achevés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.623Z",
+  "tokenUsage": {
+    "prompt": 1653,
+    "completion": 252,
+    "total": 1905
+  }
+}

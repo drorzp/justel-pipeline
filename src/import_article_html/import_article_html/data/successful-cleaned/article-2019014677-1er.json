@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019014677",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Président du Comité de direction du 9 décembre 2015 portant création des Centres P et du Centre Polyvalent Eupen au sein de l'Administration Particuliers de l'Administration générale de la fiscalité et fixant leur siège ainsi que leur compétence matérielle et territoriale, les dispositions sous 7°, 11°, 12° et 13° sont remplacées par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">Centre P Hasselt dont le siège est établi à Hasselt et qui comprend des localisations à Genk, Pelt et Tongres;</span></li>\n        <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">Centre P Termonde dont le siège est établi à Termonde et qui comprend des localisations à Alost et Saint-Nicolas;</span></li>\n        <li class=\"provision\" data-number=\"12°\"><span class=\"provision-text\">Centre P Louvain dont le siège est établi à Louvain et qui comprend des localisations à Diest, Dilbeek, Hal, Londerzeel et Vilvorde;</span></li>\n        <li class=\"provision\" data-number=\"13°\"><span class=\"provision-text\">Centre P Bruges dont le siège est établi à Bruges et qui comprend des localisations à Courtrai, Furnes, Ostende, Roulers et Ypres.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.393Z",
+  "tokenUsage": {
+    "prompt": 1925,
+    "completion": 417,
+    "total": 2342
+  }
+}

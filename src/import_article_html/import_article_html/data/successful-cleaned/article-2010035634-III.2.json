@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035634",
+  "articleNumber": "III.2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-III-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article III.2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 24ter de la même loi sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">au § 1er, inséré par le décret du 7 juillet 2006, remplacé par le décret du 10 juillet 2008 et modifié par le décret du 8 mai 2009, les mots \" et 20° \" sont remplacés par les mots \" 20° et 21° \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">le § 2 est remplacé par la disposition suivante :</span>\n        <section class=\"paragraph\" id=\"para-2\">\n          <h3 class=\"paragraph-marker\">§ 2.</h3>\n          <div class=\"paragraph-content\">\n            <p>Uniquement pour une subdivision structurelle de l'enseignement secondaire ordinaire ou spécial créée dans le cadre de la création d'une école ne résultant pas d'une restructuration d'écoles existantes, le pouvoir organisateur dépose, avant la création, une demande d'agrément par le Gouvernement flamand auprès de l'administration compétente du Ministère flamand de l'Enseignement. La subdivision structurelle est soumise à une inspection. L'agrément éventuel peut avoir lieu à partir de l'année scolaire de création de la subdivision structurelle concernée.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.238Z",
+  "tokenUsage": {
+    "prompt": 1910,
+    "completion": 408,
+    "total": 2318
+  }
+}

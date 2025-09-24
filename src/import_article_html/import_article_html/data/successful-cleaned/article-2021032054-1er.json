@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032054",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en Ecoles supérieures des Arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants), il est inséré un article 13/1 rédigé comme suit :</p>\n      <p class=\"intro-text\">\" Article 13/1.- Les Pouvoirs organisateurs subventionnés participent à la négociation visée au Livre 1er, Titre 6, Chapitre 5, du Code de l'enseignement fondamental et de l'enseignement secondaire, à l'exception des matières relevant de l'article 1.6.5-6, alinéa 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n      </ol>\n      <p class=\"closing-text\">8°, par l'intermédiaire des fédérations de Pouvoirs organisateurs auxquelles ils sont affiliés. Les écoles relevant de l'enseignement organisé par la Communauté française y sont représentées par le Pouvoir Organisateur Wallonie - Bruxelles - Enseignement, mis en place par le décret spécial du 7 février 2019.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.208Z",
+  "tokenUsage": {
+    "prompt": 1861,
+    "completion": 395,
+    "total": 2256
+  }
+}

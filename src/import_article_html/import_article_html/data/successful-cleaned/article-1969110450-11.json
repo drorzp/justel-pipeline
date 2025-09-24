@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1969110450",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1988-11-07/43\" data-law-type=\"L\" data-article-number=\"10\" data-effective-date=\"1988-12-16\">&lt;L 1988-11-07/43, art. 10, 002;**En vigueur :**1988-12-16&gt;</span>\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1.\">\n                    <span class=\"provision-text\">Dans les cas visés aux articles 6 et 7, 9° et 10°, le congé ne peut être donné au preneur qu'avec un préavis minimum de trois mois. Ce délai sera prolongé pour permettre au preneur d'enlever la récolte croissante.</span>\n                </li>\n                <li class=\"provision\" data-number=\"2.\">\n                    <span class=\"provision-text\">Dans les cas visés à l'article 7, 1° à 8°, le congé ne peut être donné au preneur qu'avec un préavis de deux ans au moins et de quatre ans au plus.</span>\n                </li>\n                <li class=\"provision\" data-number=\"3.\">\n                    <span class=\"provision-text\">Dans les cas visés à l'article 8, §§ 1er et 2, le congé ne peut être donné au preneur qu'avec un préavis de trois ans au moins et de quatre ans au plus.</span>\n                </li>\n                <li class=\"provision\" data-number=\"4.\">\n                    <span class=\"provision-text\">Dans le cas visé à l'article 8bis, le congé ne peut être donné au preneur qu'avec un préavis d'un an au moins et de quatre ans au plus.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.547Z",
+  "tokenUsage": {
+    "prompt": 2024,
+    "completion": 501,
+    "total": 2525
+  }
+}

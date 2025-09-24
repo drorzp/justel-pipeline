@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004021091",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un article 1erbis, rédigé comme suit, est inséré dans la loi du 3 avril 1997 relative au régime fiscal des tabacs manufacturés :</p>\n      <p>&quot; Article 1erbis. - Dans la présente loi et dans les dispositions prises en vue de son exécution, on entend par :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\"><span class=\"item-text\">opérateur : l'entrepositaire agréé, l'opérateur enregistré, l'opérateur non enregistré tels que définis à l'article 4, § 1er, 7°, 9° et 10°, de la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accise, le représentant fiscal visé à l'article 19 de cette même loi ou l'importateur, à savoir la personne physique ou morale procédant à une importation, qui met à la consommation des tabacs manufacturés dans le pays;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">signe fiscal : la bandelette et le timbre fiscal, fournis par l'Etat belge ou l'Etat luxembourgeois, selon le cas, en vue de son apposition sur des tabacs manufacturés.</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.772Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 382,
+    "total": 2279
+  }
+}

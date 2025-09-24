@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005000451",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les prestations nocturnes effectuées les dimanches, les samedis et jours fériés légaux, les allocations prévues à l'article 3,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3° peuvent être cumulées.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les allocations prévues à l'article 3 ne peuvent être cumulées avec les allocations prévues à l'article 3 de l'arrêté du Régent du 30 mars 1950 réglant l'octroi d'allocations pour prestations à titre exceptionnel. Les agents intéressés bénéficient du régime le plus favorable.</p>\n        <p>Pour l'application de l'alinéa qui précède, sont prises globalement en considération les sommes dues pour une même vacation continue.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.735Z",
+  "tokenUsage": {
+    "prompt": 1803,
+    "completion": 403,
+    "total": 2206
+  }
+}

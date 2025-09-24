@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000003470",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 130, § 2, alinéa 1, dernière phrase, du même arrêté est remplacé par la disposition suivante:</p>\n      <blockquote class=\"quoted-text\">\n        <p>\"Le montant ainsi obtenu est arrondi au cent supérieur ou inférieur selon que la fraction du cent atteint ou n'atteint pas 0,5. Il ne peut, dans les cas visés au § 1,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">5°, être inférieur à 12 cent.\"</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.101Z",
+  "tokenUsage": {
+    "prompt": 1592,
+    "completion": 240,
+    "total": 1832
+  }
+}

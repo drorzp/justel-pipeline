@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015029378",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le nombre de jours de fonctionnement d'un établissement de l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française est égal au produit du nombre de jours hebdomadaires d'ouverture par le nombre de semaines de fonctionnement durant l'année scolaire.</p>\n      <p>Les jours de congés obligatoires ou facultatifs visés à l'article 4, 1° et 2°, sont comptabilisés dans les jours de fonctionnement pour autant qu'ils coïncident avec un jour d'ouverture normal de l'établissement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.183Z",
+  "tokenUsage": {
+    "prompt": 1626,
+    "completion": 191,
+    "total": 1817
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047576",
+  "articleNumber": "67",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-67\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 67</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 191, § 4, du même décret, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le membre de phrase \" conformément à l'article 16 \" est remplacé par le membre de phrase \" sur la base d'une extraction du Registre national des personnes physiques, mentionnant les personnes qui répondent, au 1er mai de l'année dans laquelle le renouvellement ordinaire des conseils communaux a lieu, aux conditions d'électorat visées à l'article 8, 1° et 3°, et qui répondent, le jour de l'élection, aux conditions d'électorat visées à l'article 8, 2° et 4° \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les phrases suivantes sont ajoutées : \" L'extraction précitée mentionne également les personnes non belges qui sont agréés, le 1er mai de l'année des élections, en qualité d'électeur conformément aux articles 12 et 14. Le service public fédéral compétent pour le Registre national des personnes physiques effectue l'extraction précitée à la demande du Gouvernement flamand, et transmet au Gouvernement flamand les nombres d'électeurs par commune et, le cas échéant, par district urbain.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.490Z",
+  "tokenUsage": {
+    "prompt": 1942,
+    "completion": 409,
+    "total": 2351
+  }
+}

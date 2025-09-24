@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006202221",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un article 5quinquies, rédigé comme suit, est inséré dans le même arrêté : \" Art. 5quinques. Dans le cas de construction d'une installation immobilière destinée à définir un espace sportif, couvert ou non, dans le cadre d'un projet d'animation de quartier accessible à tous, le dossier technique comprend, pour les demandes introduites par les sociétés de logement de service public visées à l'article 3, § 1er, 3°, du décret, outre les documents visés à l'article 5, § 1er, les documents suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le document visé à l'article 5bis, 8°;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les documents visés à l'article 5ter, 4° à 7° et 12°;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les documents visés à l'article 5quater, 1° à 3°;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">une copie de la publication des statuts de la société de logement de service public et de ses modifications éventuelles au Moniteur belge ;</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">un bulletin de virement établi au nom de la société de logement ou une attestation de la banque dont la société est titulaire;</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">une déclaration du contrôleur local de la T.V.A. établissant si la société de logement de service public est assujettie à la T.V.A. et si elle a le droit de récupérer cette dernière pour les travaux en question et dans quelle mesure. \"</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.904Z",
+  "tokenUsage": {
+    "prompt": 2118,
+    "completion": 537,
+    "total": 2655
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022015053",
+  "articleNumber": "86",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-86\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 86</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article XI.336 du même Code, inséré par la loi du 10 avril 2014 et modifié par la loi du 29 juin 2016, par l'arrêté royal du 13 décembre 2017 et par les lois des 15 avril 2018, 25 novembre 2018 et 21 décembre 2018, le paragraphe 1er, 1°, a), est remplacé comme suit:</p>\n      <ol class=\"sub-provisions\">\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"sub-provision-text\">soit enjoindre aux ayants droit de prendre les mesures nécessaires permettant aux bénéficiaires des exceptions visées à l'article XI.190, 5°, 12°, 14°, 15°, 17°, 18°, 19°, 20° et 21°, à l'article XI.191, § 1er, 1° et 5°, à l'article XI.191/1, § 1er, 3°, 4°, 5°, 7° et 8°, à l'article XI.191/2, § 1er, 1° à 4°, à l'article XI.192, § 1er, alinéa 2, à l'article XI.217, 11°, 13°, 14°, 16°, 17°, 18°, 19° et 20°, à l'article XI.217/1, 3°, 4°, 6° et 7°, à l'article XI.218, § 1er, alinéa 2, à l'article XI.299, §§ 4 à 7, et à l'article XI.310, §§ 2 à 5, ou aux dispositions déterminées par le Roi en vertu de l'article XI.291, § 2, alinéa 2, de bénéficier desdites exceptions à condition que le bénéficiaire ait un accès licite à l'oeuvre ou à la prestation protégée;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.802Z",
+  "tokenUsage": {
+    "prompt": 2188,
+    "completion": 517,
+    "total": 2705
+  }
+}

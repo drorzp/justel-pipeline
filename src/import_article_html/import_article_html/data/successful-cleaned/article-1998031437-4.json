@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998031437",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 5, 5° et 6° du même arrêté est remplacé par le texte suivant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">collaborer effectivement avec un ou des organismes spécialisés dans le domaine du handicap de la ou des catégories de personnes handicapées auxquelles souhaite s'adresser la structure;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">réaliser l'encadrement pédagogique et l'accompagnement psycho-pédagogique; ceux-ci doivent se passer en dehors des périodes de cours ou de formation, sauf s'il s'agit de prestations d'interprétariat en langue des signes ou d'autres aides à la communication;</span>\n        </li>\n      </ol>\n      <p>l'encadrement pédagogique est assuré par des personnes diplômées ou des étudiants ayant précédemment acquis les compétences dans les matières apprises par le stagiaire ou l'étudiant concerné ou par un interprète repris sur la liste établie par un service reconnu par le Collège et approuvée par le membre du Collège chargé de l'Aide aux personnes;</p>\n      <p>l'accompagnement psycho-pédagogique est assuré par des personnes détentrices d'un diplôme de l'enseignement supérieur pédagogique, psychologique ou social; \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.054Z",
+  "tokenUsage": {
+    "prompt": 1883,
+    "completion": 383,
+    "total": 2266
+  }
+}

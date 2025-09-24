@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034708",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article VIII.I.1er PJPol, modifié par l'arrêté royal du 31 août 2005, est complété par les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">\"enfant placé\": l'enfant pour lequel le membre du personnel ou son conjoint a été désigné dans le cadre du placement familial par le tribunal, par un service de placement agréé par la communauté compétente ou par les services communautaires compétents en matière de protection de la jeunesse;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">\"placement familial de longue durée\": le placement à propos duquel il est clair dès le début que l'enfant séjournera au minimum six mois au sein de la même famille d'accueil auprès des mêmes parents d'accueil et dans le cadre duquel l'enfant est inscrit en tant que membre de cette famille dans le registre de la population ou dans le registre des étrangers de la commune où la famille, le parent d'accueil ou les parents d'accueil ont leur résidence.\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.775Z",
+  "tokenUsage": {
+    "prompt": 1877,
+    "completion": 339,
+    "total": 2216
+  }
+}

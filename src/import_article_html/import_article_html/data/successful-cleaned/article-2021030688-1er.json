@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021030688",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article premier du décret du 21 février 2019 visant à renforcer la qualité et l'accessibilité de l'accueil de la petite enfance en Communauté française, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 9°, les mots \" à cette fin. \" sont remplacés par les mots \" à cette fin \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article premier est complété par un 10° et 11° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"10°\">\n              <span class=\"provision-text\">personne de l'entourage de l'enfant : toute personne susceptible de conduire et/ou de venir chercher, avec l'accord des parents, l'enfant à son milieu d'accueil ou d'être contactée par le milieu d'accueil en cas d'urgence ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"11°\">\n              <span class=\"provision-text\">Personne en contact régulier avec les enfants accueillis : le personnel en charge de l'entretien, des cuisines, de l'administration du milieu d'accueil, de l'accompagnement régulier des enfants, en ce compris les volontaires au sens de l'article 3, 2°, de la loi du 3 juillet 2005 relative aux droits des volontaires, appelés à être présents de manière récurrente dans le lieu d'accueil pendant l'accueil des enfants ainsi que les membres du ménage des (co)acccueillant(e)s indépendant(e)s ou du personnel d'accueil des services d'accueil d'enfants dont le lieu d'accueil est le domicile ou la résidence.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.126Z",
+  "tokenUsage": {
+    "prompt": 2063,
+    "completion": 505,
+    "total": 2568
+  }
+}

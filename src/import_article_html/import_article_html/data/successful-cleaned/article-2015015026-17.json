@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015015026",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 15, alinéa 1er, sont identiques à celles visées à l'article 4, 1°. Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 15, alinéa 2, sont identiques à celles visées à l'article 4, 1° et 2°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.172Z",
+  "tokenUsage": {
+    "prompt": 1534,
+    "completion": 170,
+    "total": 1704
+  }
+}

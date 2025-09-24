@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023041143",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'annexe du même arrêté, remplacée par l'arrêté royal du 29 avril 2021, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive du point IV, les mots \"ou constitutif\" sont chaque fois remplacés par les mots \", constitutif, constatatif ou renonciatif\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au B du point IV, le mot \"réels\" est inséré entre le mot \"droits\" et le mot \"acquis\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le point IV est complété par un D rédigé comme suit : \"D. quant au conjoint survivant, aux héritiers et légataires à titre particulier mentionnés dans un acte visé à l'article 3.30, § 1er, 7° du Code civil, les données visées au point I. C.\n            <ol class=\"sub-provisions\">\n              <li class=\"sub-provision\" data-marker=\"a)\">a)</li>\n              <li class=\"sub-provision\" data-marker=\"b)\">ou b)</li>\n            </ol>\n            , ainsi que, sauf dans le cas où la complexité de la succession justifie une exception, la quotité qu'ils acquièrent dans les droits réels immobiliers y compris les droits acquis par suite de la dissolution du régime matrimonial.\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le point V, le mot \"articles\" est remplacé par les mots \"articles 3.30, § 1er, 5° et 6°, \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">le point VI est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.731Z",
+  "tokenUsage": {
+    "prompt": 2111,
+    "completion": 554,
+    "total": 2665
+  }
+}

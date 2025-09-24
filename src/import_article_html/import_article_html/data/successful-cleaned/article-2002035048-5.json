@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002035048",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 58quater du même décret, inséré par le décret du 17 juillet 2000, est ajouté un 8° et un 9°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">les règles d'agrément et du contrôle des associations des titulaires du budget, visées à l'article 58ter, septième alinéa;</span>\n                </li>\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">le montant maximal et les règles d'octroi du supplément forfaitaire, visé à l'article 58ter, septième alinéa.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.702Z",
+  "tokenUsage": {
+    "prompt": 1645,
+    "completion": 259,
+    "total": 1904
+  }
+}

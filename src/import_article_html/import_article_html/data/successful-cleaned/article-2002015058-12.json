@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002015058",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 14 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">Le 1° est remplacé comme suit :<br>&quot; 1° la demande de subside est introduite par une ONG qui dispose d'un budget annuel dont en moyenne 1.500.000 euros au moins ont été utilisés au cours de ces trois dernières années pour des activités telles que prévues à l'article 8. Peut également bénéficier de l'application de cet article, la demande introduite pour un consortium constitué par deux ONG. &quot;;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">Le 2° est remplacé comme suit :<br>&quot; 2° la demande de subside est introduite par une ONG en tant que responsable d'un consortium. Pour bénéficier de l'application de cet article, le consortium doit compter au moins trois membres, dont au moins deux sont agréées comme ONG. &quot;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">A l'avant-dernier alinéa les mots &quot; le groupement. &quot; sont remplacés par les mots &quot; le consortium. &quot;;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">Dans le dernier alinéa, les mots &quot; ou le groupement, comme prévu à l'article 14, 1° et 2°, &quot; sont supprimés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.641Z",
+  "tokenUsage": {
+    "prompt": 1988,
+    "completion": 470,
+    "total": 2458
+  }
+}

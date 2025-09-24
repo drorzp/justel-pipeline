@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1980080802",
+  "articleNumber": "120",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-120\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 120</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour 1980 le montant des interventions de l'Etat pour l'assurance obligatoire contre la maladie et l'invalidité visées à l'article 121, 3°, 4°, 5°, 6° et 8°, de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, est égal au montant initial prévu pour 1979 majoré du pourcentage de hausse de l'indice des prix à la consommation; le taux de croissance des subventions de l'Etat pour le régime d'assurance obligatoire contre la maladie et l'invalidité des travailleurs indépendants est égal à celui du régime général.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Toutefois, l'intervention de l'Etat pour 1980 en faveur du régime général d'assurance maladie-invalidité fixée conformément aux dispositions du § 1 du présent article, est diminuée en outre d'un montant de 2 095,6 millions à répartir à concurrence de 1 383,1 millions pour le secteur des soins de santé et de 712,5 millions pour le secteur des indemnités.</p>\n        <p>L'intervention de l'Etat pour 1980 en faveur du régime indépendant d'assurance maladie-invalidité, fixée conformément aux dispositions du § 1 du présent article, est diminuée, quant à elle, d'un montant de 258,9 millions à répartir à concurrence de 233,8 millions pour le secteur des soins de santé et de 25,1 millions pour le secteur des indemnités.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.695Z",
+  "tokenUsage": {
+    "prompt": 2063,
+    "completion": 477,
+    "total": 2540
+  }
+}

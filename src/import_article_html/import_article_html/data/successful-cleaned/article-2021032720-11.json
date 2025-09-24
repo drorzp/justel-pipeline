@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032720",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 104, § 2, 4°, du même arrêté, modifié en dernier lieu par l'arrêté royal du 22 avril 2019, les mots \" article 99, alinéa 2, 3° \" sont remplacés par les mots \" article 99, alinéa 2, 3° et 6° \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.188Z",
+  "tokenUsage": {
+    "prompt": 1610,
+    "completion": 162,
+    "total": 1772
+  }
+}

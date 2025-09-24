@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022021068",
+  "articleNumber": "72",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-72\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 72</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les articles 14, 4°, 54, 55, 56, 57, 58 et 65 entrent en vigueur le 1er septembre 2022.</p>\n      <p>Les articles 5, 11°, 14, 1°, 2° et 3°, 27, 28, 1°, 31, 32, 33, 34, 35, 36, entrent en vigueur le 1er janvier 2023.</p>\n      <p>Les articles 2, 3, 4, 5, 1°, 2°, 3°, 4°, 5°, 6°, 9°, 10° et 15°, et les articles 17 et 67 entrent en vigueur à une date à déterminer par le ministre flamand compétent pour l'énergie, et au plus tard le 23 décembre 2022.</p>\n      <p>L'article 68 entre en vigueur à la date de sa publication au Moniteur belge.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.841Z",
+  "tokenUsage": {
+    "prompt": 1772,
+    "completion": 296,
+    "total": 2068
+  }
+}

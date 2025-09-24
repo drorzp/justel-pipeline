@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004036217",
+  "articleNumber": "92",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-92\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 92</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 70, 14°, 16°, 20°, 21° et 24°, du décret entre en vigueur.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.839Z",
+  "tokenUsage": {
+    "prompt": 1407,
+    "completion": 106,
+    "total": 1513
+  }
+}

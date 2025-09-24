@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010031323",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 23 novembre 1993 relatif aux enquêtes publiques et aux mesures particulières de publicité en matière d'urbanisme et d'environnement, les modifications suivantes sont apportées :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">le 1° est remplacé par ce qui suit : \" CoBAT : Code bruxellois de l'Aménagement du Territoire \".</li>\n        <li class=\"sub-provision\" data-marker=\"b)\">dans le 4°, les mots \" l'article 11 de l'ordonnance organique \" sont remplacés par les mots \" l'article 9 du CoBAT \"</li>\n        <li class=\"sub-provision\" data-marker=\"c)\">dans les 6° et 7°, les mots \" 30 juillet 1992 relative au permis d'environnement \" sont remplacés par les mots \" 5 juin 1997 relative aux permis d'environnement \";</li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.232Z",
+  "tokenUsage": {
+    "prompt": 1755,
+    "completion": 308,
+    "total": 2063
+  }
+}

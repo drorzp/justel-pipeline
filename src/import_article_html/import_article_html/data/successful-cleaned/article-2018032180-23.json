@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032180",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour chaque séance de mise à niveau organisée, les organismes enregistrent au moins les données suivantes de la manière déterminée par l'administration :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les données d'identification des participants ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les heures de début et de fin de chaque partie visée à l'article 2, alinéa premier, 1°, 2° et 3° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">l'identité de l'enseignant de chaque partie visée à l'article 2, alinéa premier, 1°, 2° et 3° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">l'adresse des locaux pour les parties visées à l'article 2, alinéa premier, 1° et 3° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">l'adresse du terrain d'entraînement pour la partie visée à l'article 2, alinéa premier, 2°.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.408Z",
+  "tokenUsage": {
+    "prompt": 1854,
+    "completion": 406,
+    "total": 2260
+  }
+}

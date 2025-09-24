@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1969010601",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Entrent en vigueur le 1er juillet 1969 les dispositions abrogatoires suivantes qui figurent à l'article 2 de la loi du 10 octobre 1967 contenant le Code judiciaire :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au titre premier, chapitre premier, l'article 1, § 1, 56° et § 2, 2°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au titre premier, chapitre premier, l'article 1, § 1, 45°, en tant qu'il abroge les articles 231 et 236 de la loi du 18 juin 1869.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">[...] <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"09-10-1969\" data-law-type=\"AR\" data-article-number=\"5\">&lt;AR 09-10-1969, art. 5&gt;</span></span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">[...] <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"09-10-1969\" data-law-type=\"AR\" data-article-number=\"5\">&lt;AR 09-10-1969, art. 5&gt;</span></span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.546Z",
+  "tokenUsage": {
+    "prompt": 1872,
+    "completion": 441,
+    "total": 2313
+  }
+}

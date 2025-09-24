@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006009449",
+  "articleNumber": "11/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2008-07-25/37\" data-law-type=\"L\" data-article-number=\"7\" data-effective-date=\"01-09-2008\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008072537\">\n          &lt;Inséré par L 2008-07-25/37, art. 7; En vigueur : 01-09-2008&gt;\n        </span>\n        Une autorisation de détention est également octroyée aux personnes désirant conserver dans leur patrimoine une arme qui avait fait l'objet d'une autorisation ou pour laquelle une autorisation n'était pas requise avant l'entrée en vigueur de la présente loi.\n      </p>\n      <p class=\"intro-text\">\n        Cette autorisation n'est valable que pour la simple détention de l'arme, à l'exclusion de munitions.\n      </p>\n      <p class=\"closing-text\">\n        L'article 11, § 3, 6°, 7° et 9°, ne s'applique pas aux personnes visées à l'alinéa 1er.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.868Z",
+  "tokenUsage": {
+    "prompt": 1837,
+    "completion": 360,
+    "total": 2197
+  }
+}

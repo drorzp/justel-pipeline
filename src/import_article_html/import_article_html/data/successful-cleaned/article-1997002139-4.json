@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997002139",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 6 de la même loi, in fine, les mots \" à l'exception des provinces et des communes \" sont remplacés par les mots \" à l'exception des services publics visés à l'alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">dudit article \".</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.025Z",
+  "tokenUsage": {
+    "prompt": 1545,
+    "completion": 208,
+    "total": 1753
+  }
+}

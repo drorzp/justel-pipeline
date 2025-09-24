@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004003481",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 28</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Il est inséré dans la même section, un article 109/24, rédigé comme suit :</p>\n            <p>&quot; Art. 109/24. - Par dérogation à l'article 57, § 1er, alinéa 2, 1° et 2°, de la présente loi, à l'article 15, § 1er, alinéa 4, de la loi du 17 juillet 1997 et à l'article 16 de la loi du 8 août 1997, et nonobstant les articles 17 à 20 de cette dernière loi, si l'établissement de crédit dispose à titre onéreux, après l'adoption d'une mesure d'assainissement ou l'ouverture d'une procédure de faillite, d'un immeuble, d'un navire ou d'un aéronef soumis à immatriculation dans un registre public, d'instruments financiers ou de droits sur de tels instruments dont l'existence ou le transfert suppose une inscription dans un registre, un compte ou auprès d'un système de dépôt centralisé détenus ou situés dans un autre Etat membre de l'Espace économique européen, la nullité ou l'inopposabilité de cet acte est appréciée au regard de la loi de l'Etat membre sur le territoire duquel le bien immobilier est situé, ou sous l'autorité duquel ce registre, ce compte ou ce système de dépôt est tenu.&quot;</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.652Z",
+  "tokenUsage": {
+    "prompt": 1944,
+    "completion": 383,
+    "total": 2327
+  }
+}

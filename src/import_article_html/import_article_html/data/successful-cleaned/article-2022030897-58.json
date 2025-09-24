@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030897",
+  "articleNumber": "58",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-58\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 58</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'année scolaire 2021-2022, les académies de l'enseignement artistique à temps partiel peuvent déroger aux dispositions qu'elles ont intégrées dans leur règlement en vertu de l'article 58, alinéa deux,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">7°</span></li>\n                <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">10°</span></li>\n                <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">11°</span></li>\n                <li class=\"provision\" data-number=\"13°\"><span class=\"provision-text\">13°</span></li>\n            </ol>\n            <p class=\"closing-text\">et de l'article 60 du décret du 9 mars 2018 relatif à l'enseignement artistique à temps partiel. Si ces mesures d'évaluation modifiées ont des conséquences pour le personnel, elles sont négociées au préalable avec la représentation locale du personnel au sein du comité local compétent. Les parents ou les élèves majeurs sont informés des mesures par écrit ou par voie électronique.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.841Z",
+  "tokenUsage": {
+    "prompt": 1709,
+    "completion": 435,
+    "total": 2144
+  }
+}

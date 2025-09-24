@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020021199",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>En exécution de l'article 7, alinéa 1er, 4° et 7°, du décret du 26 avril 2019, le centre de la filiation assure un apport structurel des groupes cibles et adapte son fonctionnement à ces groupes cibles.</p>\n      <p>Dans l'alinéa 1er, on entend par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">apport structurel : la participation directe des groupes cibles à l'exécution des missions du centre de filiation qui est incluse dans la vision et le plan politique visés à l'article 17, alinéa 3, 1°, et qui doit également ressortir du rapport annuel ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les groupes cibles : l'adopté, les parents d'origine, les enfants issus d'un don et les donneurs, les enfants trouvés et les intéressés potentiels de l'objectif du centre de filiation.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.258Z",
+  "tokenUsage": {
+    "prompt": 1795,
+    "completion": 337,
+    "total": 2132
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008036009",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 21</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Au plus tard le 15 janvier de la même année, pour un projet qui débute durant le premier semestre, ou au plus tard le 1er juillet de la même année, pour un projet qui débute durant le deuxième semestre, le ministre statue sur les demandes de subventions de projet telles que visées à l'article 74, alinéa premier,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">du décret.</span></li>\n            </ol>\n            <p class=\"closing-text\">L'administration communique la décision du ministre par lettre recommandée ou par voie électronique à la personne morale de droit public ou privé dans un délai de quinze jours suivant la décision du ministre.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.040Z",
+  "tokenUsage": {
+    "prompt": 1671,
+    "completion": 275,
+    "total": 1946
+  }
+}

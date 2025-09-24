@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992022403",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les pourcentages de majoration de la sous-partie B2 du budget des moyens financiers des hôpitaux visés à l'article 15,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de l'arrêté ministériel du 20 novembre 1991 sont fixés respectivement à 0,45 % et 1 %.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.085Z",
+  "tokenUsage": {
+    "prompt": 1527,
+    "completion": 220,
+    "total": 1747
+  }
+}

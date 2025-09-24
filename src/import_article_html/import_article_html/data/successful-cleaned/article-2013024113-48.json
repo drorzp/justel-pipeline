@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013024113",
+  "articleNumber": "48",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-48\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 48</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 125 de la même loi est complété par deux alinéas rédigés comme suit :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>\" Par dérogation à l'alinéa 1er,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">le déficit de l'hôpital sous statut public, devenu un hôpital sous statut privé depuis l'exercice pour lequel le déficit a été fixé, n'est pas porté à la connaissance de l'organisme financier qui gère les comptes des administrations subordonnées afin de porter d'office les montants du déficit aux comptes de ces administrations qui géraient antérieurement l'hôpital public, s'il existe un accord écrit entre l'hôpital, devenu privé, et l'administration subordonnée qui gérait antérieurement l'hôpital public, au terme duquel il est formellement déterminé que plus aucune intervention dans la couverture des déficits fixés pour une période antérieure au changement de statut de l'hôpital concerné n'est à octroyer par l'administration subordonnée gestionnaire de l'hôpital, anciennement public, à partir de la date du changement de statut de l'hôpital concerné.</span>\n                        </li>\n                    </ol>\n                    <p>Dans ce cas, les statuts de l'hôpital privé et une copie de l'accord écrit sont envoyés au ministre qui a la Santé publique dans ses attributions.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.000Z",
+  "tokenUsage": {
+    "prompt": 1943,
+    "completion": 468,
+    "total": 2411
+  }
+}

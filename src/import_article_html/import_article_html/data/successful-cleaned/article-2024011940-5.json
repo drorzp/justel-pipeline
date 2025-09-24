@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024011940",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        L'article 140 de l'arrêté du Gouvernement flamand du 21 juin 2024 portant modification de divers arrêtés relatifs à l'opérationnalisation du Régulateur flamand des services d'utilité publique est complété par le membre de phrase \" le 1er janvier 2025, à l'exception de l'article 5,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"15°\">\n          <span class=\"provision-text\">à</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        19°, l'article 20, alinéa 2, 13°, l'article 28, § 8, alinéa 1er, 3°, l'article 34, 1°, articles 142 à 148, et de l'article 192, qui entrent en vigueur le 1er janvier 2026 \".\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.688Z",
+  "tokenUsage": {
+    "prompt": 1766,
+    "completion": 321,
+    "total": 2087
+  }
+}

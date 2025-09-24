@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003482",
+  "articleNumber": "82",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-82\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 82</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Aux articles 345, § 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et 372 de la même loi, le mot &quot;333&quot; est chaque fois remplacé par le mot &quot;67/1&quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.317Z",
+  "tokenUsage": {
+    "prompt": 1457,
+    "completion": 171,
+    "total": 1628
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006202815",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 32</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Au chapitre II, section 3, du même arrêté, il est inséré un article 11bis rédigé comme suit :</p>\n            <blockquote class=\"article-quote\">\n                <p class=\"quote-text\">\" Art. 11bis. Le demandeur d'une licence limitée n'est pas tenu de fournir les éléments de preuve visés à l'article 9,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et à l'article 11.</span>\n                    </li>\n                </ol>\n                <p class=\"closing-text\">Toutefois, si elle le juge nécessaire au regard de la situation du demandeur, la CWaPE peut enjoindre au demandeur de fournir d'autres éléments de preuve équivalant à ceux prévus à ces articles. \"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.900Z",
+  "tokenUsage": {
+    "prompt": 1643,
+    "completion": 274,
+    "total": 1917
+  }
+}

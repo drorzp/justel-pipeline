@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032760",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'application du présent arrêté royal, l'on entend par \" adjudicateur \", l'adjudicateur au sens de l'article 2, 5°, de la loi du 17 juin 2016 relative aux marchés publics, l'adjudicateur au sens de l'article 2, 5°, de la loi du 17 juin 2016 relative aux contrats de concession et le pouvoir adjudicateur, l'entreprise publique et l'entité adjudicatrice, respectivement, au sens de l'article 2, 1°, 2° et 3° de la loi du 13 août 2011 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services dans les domaines de la défense et de la sécurité.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.811Z",
+  "tokenUsage": {
+    "prompt": 1671,
+    "completion": 242,
+    "total": 1913
+  }
+}

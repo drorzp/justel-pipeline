@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002009532",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Lorsqu'il existe, au regard des articles 10,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">ou 10,</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et des missions confiées à l'organe de contrôle, des motifs graves pour ce faire, les ministres compétents peuvent, en tout temps, décider de mettre fin au mandat de l'expert. La cessation du mandat fait l'objet d'un arrêté royal.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les ministres compétents en communiquent les motifs à l'expert. Ce dernier dispose d'un délai de quinze jours, débutant le lendemain de la notification, pour introduire un mémoire. Sur base du mémoire précité, les ministres compétents décident de poursuivre ou d'abandonner la procédure.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.809Z",
+  "tokenUsage": {
+    "prompt": 1683,
+    "completion": 302,
+    "total": 1985
+  }
+}

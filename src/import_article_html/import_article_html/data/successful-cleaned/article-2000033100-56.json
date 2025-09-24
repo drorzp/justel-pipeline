@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000033100",
+  "articleNumber": "56",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-56\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 56</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Adaptation des définitions du décret relatif aux entreprises d'insertion à la situation en Communauté germanophone L'article 1er du décret de la Région wallonne du 16 juillet 1998 relatif aux conditions auxquelles les entreprises d'insertion sont agréées et subventionnées est modifié comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">L'alinéa 1er, 2°, est remplacé par la disposition suivante : \" 2° l'administration : la division du Ministère de la Communauté germanophone compétente pour l'emploi;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">A l'alinéa 1er, 3°, et à l'alinéa 4, les mots \"en Région wallonne\" sont remplacés par les mots \"en Région de langue allemande\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">A l'alinéa 1er, 4°, l'alinéa 2, 1°, 3° et 6° et à l'alinéa 3, les mots \"au FOREM\" sont remplacés par les mots \"auprès de l'Office de l'emploi de la Communauté germanophone\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">L'alinéa 2, 5°, est remplacé par la disposition suivante : \" 5° toute personne ayant terminé, au cours des six mois précédant son engagement, une formation dans un centre de formation professionnelle par le travail agréé par la Communauté germanophone;\";</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.250Z",
+  "tokenUsage": {
+    "prompt": 2070,
+    "completion": 499,
+    "total": 2569
+  }
+}

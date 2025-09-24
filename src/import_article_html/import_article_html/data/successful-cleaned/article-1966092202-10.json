@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1966092202",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\"><span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"\" data-law-type=\"\" data-article-number=\"\">&lt;Voir note sous TITRE&gt;</span> La demande de subside doit spécifier son objet précis et justifier l'intérêt que comporte, pour le reclassement social des handicapés, l'octroi du subside sollicité et notamment:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">préciser les professions qui seront enseignées en indiquant les débouchés qu'elles sont susceptibles d'offrir aux handicapés eu égard à l'état du marché de l'emploi et fournir un projet détaillé du plan de fonctionnement du centre, notamment en ce qui concerne la durée et le programme des cours;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">indiquer la catégorie et le nombre de handicapés pour la formation ou réadaptation professionnelle desquels le centre est créé, agrandi ou aménagé.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">(Sans préjudice des dispositions de l'article 12,9° et 10°, la demande doit en outre indiquer le délai dans lequel le subside sollicité sera utilisé et être accompagné d'un avant-projet indiquant les achats, travaux et locations envisagés avec une estimation de leur coût.) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1979-02-06\" data-law-type=\"AM\" data-article-number=\"3\">&lt;AM 6-02-1979,art. 3&gt;</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.565Z",
+  "tokenUsage": {
+    "prompt": 1925,
+    "completion": 455,
+    "total": 2380
+  }
+}

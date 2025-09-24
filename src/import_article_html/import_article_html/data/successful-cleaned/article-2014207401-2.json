@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014207401",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En ce qui concerne l'année de référence 2014, les règles de liquidation des sommes qui doivent être transférées aux organismes de paiement des organisations syndicales afin de procéder au paiement de la prime, conformément à l'article 16, § 1er, du même arrêté, sont fixées comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Les montants visés à l'article 16, § 1er, 1°, sont transférés par le SPF Chancellerie du Premier Ministre aux organismes de paiement.</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Les montants visés à l'article 16, § 1er, 2° et 3°, sont transférés aux organismes de paiement par l'Office national de Sécurité sociale des administrations provinciales et locales pour un montant à concurrence de la somme des contributions, visée à l'article 4 de la loi du 1er septembre 1980 relative à l'octroi et au paiement d'une prime syndicale à certains membres du personnel du secteur public, encaissées par l'Office national. Le cas échéant, le solde est transféré aux organismes de paiement par le SPF Chancellerie du Premier Ministre.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.207Z",
+  "tokenUsage": {
+    "prompt": 1900,
+    "completion": 388,
+    "total": 2288
+  }
+}

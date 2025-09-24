@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013024422",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 25quinquies, § 4, de la même loi, inséré par la loi du 27 avril 2005 et modifié par la loi du 27 décembre 2005, les mots \"visée à l'article 35, § 4, 2° et 3° et à l'article 35bis de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités\" sont remplacés par les mots \"déterminée conformément à l'article 35septies/1, § 2, alinéa 2, 5°, en ce qui concerne les prestations visées à l'article 34, alinéa 1er, 4° bis.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.000Z",
+  "tokenUsage": {
+    "prompt": 1782,
+    "completion": 254,
+    "total": 2036
+  }
+}

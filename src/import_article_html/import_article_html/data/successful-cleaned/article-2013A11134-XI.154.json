@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A11134",
+  "articleNumber": "XI.154",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-XI-154\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article XI.154</h2>\n    </header>\n    <div class=\"article-content\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-19/60\" data-law-type=\"L\" data-article-number=\"3\">\n            <div class=\"article-text\">\n                <p class=\"intro-text\">Les inscriptions au registre imposées par l'article XI.152, § 2, et § 3, 1°, 4°, 5°, 6°, 7°, 8°, 9°,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"10°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                </ol>\n                <p class=\"closing-text\">11°, sont publiées par l'Office de la manière fixée par le Roi.</p>\n            </div>\n        </span>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.110Z",
+  "tokenUsage": {
+    "prompt": 1669,
+    "completion": 253,
+    "total": 1922
+  }
+}

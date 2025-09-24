@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023043851",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 16, § 1er, de l'arrêté royal du 5 décembre 1991 déterminant la procédure en référé devant le Conseil d'Etat, remplacé par l'arrêté royal du 28 janvier 2014, l'alinéa suivant est inséré entre les alinéas 1er et 2 :</p>\n      <p class=\"intro-text\">\" Dans le cas visé à l'alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"closing-text\">6°, les dispositions énoncées à l'article 2, § 1er, alinéas 2 à 4, du règlement général de procédure sont applicables.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.850Z",
+  "tokenUsage": {
+    "prompt": 1666,
+    "completion": 271,
+    "total": 1937
+  }
+}

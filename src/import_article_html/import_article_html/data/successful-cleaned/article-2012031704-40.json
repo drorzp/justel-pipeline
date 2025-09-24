@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012031704",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 40</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 28 février 2008 portant exécution de l'article 7 de l'ordonnance du 18 janvier 2001 portant organisation et fonctionnement de l'Office régional bruxellois de l'Emploi, à l'alinéa unique,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">les mots \" telles que définies dans l'ordonnance du 26 juin 2003 \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">les mots \" tels que définis dans l'ordonnance du 26 juin 2003 \"</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">sont respectivement remplacés par les mots \" visées par l'ordonnance du 14 juillet 2011 \" et \" visés par l'ordonnance du 14 juillet 2011 \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.271Z",
+  "tokenUsage": {
+    "prompt": 1748,
+    "completion": 324,
+    "total": 2072
+  }
+}

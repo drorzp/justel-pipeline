@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015018402",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Aux chapitres 3 à 5 (à l'exception des articles 39,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">et 43) et à l'article 23, § 1er, il convient d'entendre par \"décision\" ou \"décisions\" la ou les décisions du comité de direction visées aux articles 29bis et 29ter de la loi électricité et aux articles 15/20 et 15/20bis de la loi gaz, à l'exception des décisions du comité de direction en matière de marchés publics.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.171Z",
+  "tokenUsage": {
+    "prompt": 1625,
+    "completion": 238,
+    "total": 1863
+  }
+}

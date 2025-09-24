@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006A03245",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'agrement des sociétés de réviseurs prend fin par renonciation à l'agrément, par la cessation de plein droit conformément à l'article 14, alinéa 2, à l'article 15, alinéa 2, à l'article 16, alinéa 2 ou à l'article 17, alinéa 2, ou par révocation conformément au présent article.</p>\n      <p class=\"intro-text\">La <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-03-03/01\" data-law-type=\"AR\" data-article-number=\"331\">FSMA</span> révoque l'agrément d'une société de réviseurs lorsqu'elle ne remplit plus les conditions d'agrément prévues, selon le cas, par l'article 14 alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et 3°</span></li>\n      </ol>\n      <p class=\"intro-text\">, par l'article 15, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et 3°</span></li>\n      </ol>\n      <p class=\"intro-text\">, par l'article 16, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et 3°</span></li>\n      </ol>\n      <p class=\"intro-text\">, ou par l'article 17, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et 3°</span></li>\n      </ol>\n      <p class=\"closing-text\">L'article 10, alinéas 2 à 7, est applicable. Pour l'application de ces dispositions, la société de réviseurs se fait représenter par un réviseur agréé qui en est membre.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.808Z",
+  "tokenUsage": {
+    "prompt": 2178,
+    "completion": 583,
+    "total": 2761
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009000352",
+  "articleNumber": "56",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-56\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 56</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les articles VII.II.17, modifié par l'arrêté royal du 2 avril 2004, VII.II.18 et VII.II.19 PJPol, les modifications suivantes sont à chaque fois apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa unique, les mots &quot; IV.I.17, &quot; sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa unique, les mots &quot; IV.27.1° et 3° à 5° y compris &quot; sont à chaque fois remplacés par les mots &quot; IV.I.27, 1° et 3° à 6° &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les articles sont à chaque fois complétés par un alinéa rédigé comme suit : &quot; Pour ce qui concerne l'épreuve de personnalité visée à l'article IV.I.15, alinéa 1er, 2°, l'avis du chef de corps, pour ce qui concerne les membres de la police locale ou l'avis du directeur concerné, pour ce qui concerne les membres de la police fédérale, est respectivement pris en compte. Les candidats qui reçoivent un avis négatif et qui obtiennent un résultat négatif à cette épreuve, ne sont pas admis à l'épreuve suivante.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.073Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 452,
+    "total": 2428
+  }
+}

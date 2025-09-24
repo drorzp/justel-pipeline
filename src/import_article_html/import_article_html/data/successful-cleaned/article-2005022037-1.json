@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005022037",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article premier de l'arrêté royal du 10 avril 2000 portant des dispositions relatives à la guidance vétérinaire, les définitions 7° et 8° sont remplacées par les définitions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">\" Troupeau : l'ensemble des animaux producteurs de denrées alimentaires, détenus dans une entité géographique et formant une unité distincte sur base des liens épidémiologiques constatés par l'inspecteur vétérinaire;</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">Entité géographique : toute construction ou complexe de constructions formant une unité y compris les terrains annexes où sont détenus des animaux producteurs de denrées alimentaires ou qui y sont destinés; \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.762Z",
+  "tokenUsage": {
+    "prompt": 1710,
+    "completion": 292,
+    "total": 2002
+  }
+}

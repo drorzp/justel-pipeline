@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022344",
+  "articleNumber": "160ter",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-160ter\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 160ter</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"1997-11-24/43\" data-article-number=\"1\" data-law-type=\"AR\" data-effective-date=\"01-01-1997\">&lt;Inséré par AR 1997-11-24/43, art. 1;**En vigueur :**01-01-1997&gt;</span> Les décisions d'octroi d'interventions en matière de soins de santé, prises par le Collège des Médecins-directeurs, par le Conseil technique dentaire ou par le Collège national des Médecins-conseils, sont notifiées par l'organisme assureur à l'intéressé par lettre ordinaire. Ces décisions sont motivées et contiennent les mentions visées à l'article 14, 5° et 6°, de la loi précitée du 11 avril 1995.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.910Z",
+  "tokenUsage": {
+    "prompt": 1756,
+    "completion": 291,
+    "total": 2047
+  }
+}

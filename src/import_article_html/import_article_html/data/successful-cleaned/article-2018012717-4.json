@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012717",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5 du même arrêté, modifié par l'arrêté royal du 18 août 2010 et par l'arrêté royal du 22 août 2013, est remplacé comme suit : &quot; Art. 5. Les dispositions de cette section sont applicables dans le cadre du traitement des demandes de protection internationale sur la base de l'article 57/6, § 1, alinéa premier,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3° et</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5°</span></li>\n      </ol>\n      <p class=\"closing-text\">, de l'article 57/6, §§ 2 et 3, de l'article 57/6/1, de l'article 57/6/2, de l'article 57/6/4 et de l'article 57/6/5 de la loi.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.694Z",
+  "tokenUsage": {
+    "prompt": 1801,
+    "completion": 369,
+    "total": 2170
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001B00327",
+  "articleNumber": "XI.V.6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-XI-V-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article XI.V.6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Si plusieurs personnes physiques ou morales justifient avoir assumé des frais funéraires, l'intervention est accordée dans l'ordre suivant :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au conjoint non divorcé, ni séparé de corps et de biens ou à la personne avec laquelle le membre du personnel était en situation de cohabitation. La preuve de la cohabitation est fournie de la manière visée à l'article XI.IV.13, 14°;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">aux héritiers en ligne directe;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">à toute autre personne physique ou morale.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">La ou les personnes visée(s) à l'alinéa 1, 2° et 3°, ne peuvent se voir accorder l'intervention que dans la mesure où les factures qu'elles soumettent peuvent encore être admises en application de l'article XI.V.5 au moment où ces personnes entrent en ligne de compte.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.684Z",
+  "tokenUsage": {
+    "prompt": 1843,
+    "completion": 378,
+    "total": 2221
+  }
+}

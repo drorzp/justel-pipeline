@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023046526",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 3:78, alinéa 1er, du même arrêté, les mots &quot; , 1° et 2°, &quot; sont insérés entre les mots &quot; l'article 12:8 &quot; et les mots &quot; du même code &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.478Z",
+  "tokenUsage": {
+    "prompt": 1473,
+    "completion": 146,
+    "total": 1619
+  }
+}

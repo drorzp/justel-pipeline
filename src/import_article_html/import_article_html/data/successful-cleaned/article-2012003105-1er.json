@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012003105",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er de l'arrêté royal du 20 décembre 2007 relatif aux obligations linéaires, aux titres scindés et aux certificats de trésorerie, les 5°, 7°, 8° et 10° à 12° sont abrogés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.349Z",
+  "tokenUsage": {
+    "prompt": 1483,
+    "completion": 148,
+    "total": 1631
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015018402",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'application de l'article 39, 4° et 5°, et des articles 40 à 42 est motivée dans la décision relative à la consultation visée à l'article 23, § 1er.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.170Z",
+  "tokenUsage": {
+    "prompt": 1445,
+    "completion": 125,
+    "total": 1570
+  }
+}

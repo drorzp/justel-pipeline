@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029047",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le président et les membres de la section, à l'exception des agents du Ministère de la Communauté française et des membres qui sont visés à l'article 5, § 2, 1° et 3°, du présent arrêté, reçoivent un jeton de présence pour chaque réunion plénière de la section. Ce jeton est de 17,50 EUR pour le président et de 12,50 EUR pour les autres membres.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.211Z",
+  "tokenUsage": {
+    "prompt": 1543,
+    "completion": 174,
+    "total": 1717
+  }
+}

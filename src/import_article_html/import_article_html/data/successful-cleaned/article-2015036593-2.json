@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015036593",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 5, § 1er, de l'arrêté du Gouvernement flamand du 24 mai 2002 relatif à l'organisation de l'enseignement d'accueil pour primo-arrivants allophones dans l'enseignement secondaire ordinaire à temps plein, modifié par les arrêtés du Gouvernement flamand des 26 janvier 2007 et 20 juin 2014, il est inséré un point 2° /1, rédigé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°/1\">\n                    <span class=\"provision-text\">par dérogation aux 1° et 2°, 2,5 périodes/enseignant spécifiques sont octroyées pour la première année scolaire pendant laquelle l'année d'accueil est programmée après le premier jour de classe d'octobre, par primo-arrivant allophone, compté le premier jour de classe auquel l'enseignement d'accueil est organisé ;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.191Z",
+  "tokenUsage": {
+    "prompt": 1748,
+    "completion": 296,
+    "total": 2044
+  }
+}

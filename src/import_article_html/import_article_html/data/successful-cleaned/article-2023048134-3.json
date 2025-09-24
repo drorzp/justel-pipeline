@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048134",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article VIII.I.1er PJPol, modifié par les arrêtés royaux du 31 août 2005 et du 12 janvier 2023, est complété par les 5° et 6° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">\"placement familial de courte durée\" : toutes les formes de placement familial qui ne remplissent pas les conditions du placement familial de longue durée;</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">\"père ou mère d'accueil\" : le parent d'accueil qui a été désigné dans le cadre du placement familial par le tribunal, par un service de placement agréé par la communauté compétente ou par les services communautaires compétents en matière de protection de la jeunesse.\".</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.494Z",
+  "tokenUsage": {
+    "prompt": 1703,
+    "completion": 285,
+    "total": 1988
+  }
+}

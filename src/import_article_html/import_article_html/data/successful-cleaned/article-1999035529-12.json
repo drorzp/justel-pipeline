@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035529",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 22 du même décret, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">au point 5°, les mots \" être nommé à titre définitif \" sont remplacés par les mots \" être désigné ou être nommé à titre définitif \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">le texte existant devient le § 1er et il est ajouté un § 2, rédigé ainsi qu'il suit :</span>\n        <section class=\"paragraph\" id=\"para-2\">\n          <h3 class=\"paragraph-marker\">§ 2.</h3>\n          <div class=\"paragraph-content\">\n            <p class=\"intro-text\">Par dérogation au § 1er, les conditions d'admission à l'Inspection visées au § 1er, deuxième alinéa, 4° et 5° pour les candidats à la fonction d'inspecteur de l'enseignement des adultes chargé de l'éducation de base :</p>\n            <p class=\"closing-text\">compter au moins 5 ans d'expérience en tant que membre du personnel éducatif dans l'éducation de base.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.187Z",
+  "tokenUsage": {
+    "prompt": 1878,
+    "completion": 368,
+    "total": 2246
+  }
+}

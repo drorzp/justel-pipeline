@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003219",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 77 du même Code, modifié par les lois du 20 décembre 1995 et du 4 mai 1999, les mots \" conformément à l'article 69, § 1er, alinéa 1er, 2° \" sont remplacés par les mots \" conformément à l'article 69, § 1er, alinéa 1er, 2° et 3°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.769Z",
+  "tokenUsage": {
+    "prompt": 1534,
+    "completion": 170,
+    "total": 1704
+  }
+}

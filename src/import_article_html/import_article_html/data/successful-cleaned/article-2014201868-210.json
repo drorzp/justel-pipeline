@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014201868",
+  "articleNumber": "210",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-210\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 210</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les articles 19, alinéa 2, 150, 5°, 166, 168, alinéa 1er, 180, alinéa 1er, 181, 189, 404, 1°, 439, § 2, 443, § 2, 631, § 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">4°, 703, 706, § 2, alinéa 1e, 707, alinéa 1er, 708, § 2, alinéa 4, 710, §§ 1er et 3, 714, 715, 717 et 719 du même Code, le &quot; T &quot; majuscule du mot &quot; Titre &quot; est remplacé par un &quot; t &quot; minuscule.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.372Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 315,
+    "total": 2076
+  }
+}

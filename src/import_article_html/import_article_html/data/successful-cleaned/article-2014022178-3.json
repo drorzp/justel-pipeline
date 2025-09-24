@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014022178",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 29bis, § 1er, alinéa 1er, du même arrêté, inséré par la loi du 27 février 1976, les mots \"aux articles 7, 8, 9, § 2, 4°, et 9bis, 2° et 3°, \" sont remplacés par les mots \"à l'article 7, à l'exception de celles afférentes à l'année de prise de cours de la pension et aux articles 8, 9, § 2, 4°, et 9bis, 2° et 3°, \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.182Z",
+  "tokenUsage": {
+    "prompt": 1621,
+    "completion": 216,
+    "total": 1837
+  }
+}

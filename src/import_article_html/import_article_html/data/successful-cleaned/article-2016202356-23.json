@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016202356",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté royal du 17 août 2007 portant création du Comité d'audit de l'Administration fédérale (CAAF), les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'alinéa 1er, 6°, est abrogé;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au paragraphe 2, il est inséré, entre le 1° et le 2°, une disposition 1°/1, rédigé comme suit : \" 1°/1 \" Service fédéral d'audit interne \" : le service d'audit visé au titre 2 de l'arrêté royal du 4 mai 2016 portant création du Service fédéral d'audit interne, \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au paragraphe 2, le 2° est complété par les mots \"ou tout membre du personnel du Service fédéral d'audit interne exerçant des activités d'audit interne,\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">au paragraphe 2, le 3° est complété par les mots \"ou le responsable de l'audit interne du Service fédéral d'audit interne,\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.647Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 438,
+    "total": 2386
+  }
+}

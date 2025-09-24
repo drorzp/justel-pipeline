@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007002103",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 29 du même arrêté, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au § 1er, modifié par l'arrêté royal du 21 novembre 1991, les mots \" visés à l'article 1er, 1° \" sont remplacés par les mots \" visés à l'article 1er, 1°, 2° et 3° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au § 1erbis, inséré par l'arrêté royal du 21 novembre 1991, les mots \" visés à l'article 1er, 2° \" sont remplacés par les mots \" visés à l'article 1er, 5° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au § 2, modifié par les arrêtés royaux des 13 novembre 1973, 6 juin 1975 et 21 novembre 1991, les mots \" visés à l'article 1er, 3° et 4° \" sont remplacés par les mots \" visés à l'article 1er, 6° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">au § 3, inséré par l'arrêté royal du 6 juin 1975, les mots \" visés à l'article 1er, 5° \" sont remplacés par les mots \" visés à l'article 1er, 7° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.770Z",
+  "tokenUsage": {
+    "prompt": 2550,
+    "completion": 487,
+    "total": 3037
+  }
+}

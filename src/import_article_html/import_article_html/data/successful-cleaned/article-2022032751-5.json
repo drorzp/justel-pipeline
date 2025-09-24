@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032751",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 52 du même arrêté, modifié en dernier lieu par l'arrêté royal du 20 septembre 2012, les modifications suivantes sont apportées :</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">dans le paragraphe 2, l'alinéa 1er est remplacé par ce qui suit :\n                \" § 2.- L'agent visé à l'article 50, alinéa 1er, 1°, 2° et 3° bénéficie de son traitement complet pour les quatre premiers mois des prestations réduites pour raisons médicales. \" ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">dans le paragraphe 2, alinéa 2, les mots \" L'agent visé à l'article 50, 2° bénéficie à partir du quatrième mois \" sont remplacés par les mots \" L'agent visé à l'article 50, alinéa 1er, 2° et 3° bénéficie à partir du cinquième mois \" ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n                <span class=\"provision-text\">dans le paragraphe 3, alinéa 1er, les mots \" article 50, 2° \" sont remplacés par les mots \" article 50, alinéa 1er, 2° et 3° \".</span>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.811Z",
+  "tokenUsage": {
+    "prompt": 1944,
+    "completion": 416,
+    "total": 2360
+  }
+}

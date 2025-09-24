@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001045",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Gouvernement peut déterminer les catégories de travailleurs étrangers salariés qui ne sont pas soumises à l'obligation d'obtenir une autorisation visée à l'article 2, 7°, 8°, 9°, 10° et 11°. Les catégories que le Gouvernement peut déterminer ont trait à l'objet du travail à réaliser, à sa durée, ou encore aux circonstances particulières de la relation de travail entre l'employeur et le travailleur étranger.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans le cadre d'une demande d'autorisation de séjour à des fins de travail régie par l'accord de coopération, le travailleur étranger salarié concerné par la dispense visée au paragraphe 1er ou, le cas échéant, son employeur, notifie au Gouvernement les documents établissant qu'il entre dans une catégorie de travailleurs étrangers bénéficiant de la dispense. Le Gouvernement vérifie que les conditions de la dispense sont remplies, en sorte qu'il puisse en être fait mention dans le permis unique, conformément à l'article 16, alinéa 2, de l'accord de coopération.</p>\n        <p>Le Gouvernement détermine la procédure à suivre concernant la notification visée au paragraphe 1er.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.518Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 413,
+    "total": 2354
+  }
+}

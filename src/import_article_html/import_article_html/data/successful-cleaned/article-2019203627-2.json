@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019203627",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'audit d'un logement ou d'un logement en devenir dont chacune des installations principales de chauffage et de production d'eau chaude sanitaire est individuelle, au plus tard à l'issue des travaux, est dénommé \" audit de type 1 \".</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les améliorations visées à l'article 5, § 1er, alinéa 1er, 2° et 3°, de l'arrêté sont basées sur la situation du logement visée à l'article 5, § 1er, alinéa 1er, 1°, de l'arrêté et portent sur les éléments suivants :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les éléments composant le volume protégé, le cas échéant, en tenant compte des projets de modifications du volume protégé envisagés par le demandeur;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les éléments hors du volume protégé pouvant avoir un impact sur le volume protégé, le cas échéant, en tenant compte des projets de modifications du volume protégé envisagés par le demandeur.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-06-29/21\" data-law-type=\"AM\" data-article-number=\"1\">...</span>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.428Z",
+  "tokenUsage": {
+    "prompt": 2087,
+    "completion": 521,
+    "total": 2608
+  }
+}

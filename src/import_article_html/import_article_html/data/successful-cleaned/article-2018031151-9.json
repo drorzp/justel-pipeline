@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018031151",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 12 du même décret sont apportées les modifications suivantes :</p>\n            <ol class=\"sub-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    à l'alinéa 1er, les mots &quot; L'inspection de l'enseignement secondaire artistique à horaire réduit &quot; sont remplacés par les mots &quot; Conformément à l'article 9, § 1er, alinéa 1er, 7° et 9°, du décret du 8 mars 2007 précité, le service de l'inspection de l'enseignement artistique &quot;.\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    l'alinéa 2 est remplacé par un nouvel alinéa rédigé comme suit : &quot; Ce rapport d'évaluation est soumis au Conseil de perfectionnement de l'enseignement secondaire artistique à horaire réduit pour avis. Le rapport d'évaluation et l'avis du Conseil de perfectionnement sont transmis au Ministre qui a cet enseignement dans ses attributions. &quot;\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.363Z",
+  "tokenUsage": {
+    "prompt": 1778,
+    "completion": 320,
+    "total": 2098
+  }
+}

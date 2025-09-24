@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010021012",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 72, § 1er, alinéa 1er, du même arrêté, modifié par l'arrêté royal du 25 mars 1999, les mots \" 69, 1° à 4° et 7°, 70, 2° et 3°, et 71, 1° \" sont remplacés par les mots \" 69, § 1er et § 2, alinéa 1er, 1° à 4° et 7°, 70, alinéa 1er, 2° et 3°, et 71, alinéa 2, 1° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.244Z",
+  "tokenUsage": {
+    "prompt": 1947,
+    "completion": 225,
+    "total": 2172
+  }
+}

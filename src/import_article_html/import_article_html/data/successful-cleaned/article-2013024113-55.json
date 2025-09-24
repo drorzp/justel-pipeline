@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013024113",
+  "articleNumber": "55",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-55\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 55</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans la même loi, il est inséré un article 14bis, rédigé comme suit :</p>\n      <p>\" Art. 14bis. Les données sociales communiquées par la voie électronique, à l'intervention de la Banque-carrefour, par ou à des institutions de sécurité sociale ou des personnes auxquelles tout ou une partie des droits et obligations résultant de la présente loi et de ses mesures d'exécution a été étendu en application de l'article 18, ainsi que leur reproduction sur un support lisible, ont la même force probante que celle qu'elles auraient si elles étaient communiquées sur un support papier.</p>\n      <p>Les données sociales qui sont communiquées par la voie électronique, sans intervention de la Banque-Carrefour, par ou à des institutions de sécurité sociale dans les cas visés à l'article 14, alinéa 1er, 1°, 2°, 3° et 5°, ainsi que leur reproduction sur un support lisible, ont la même force probante que celle qu'elles auraient si elles étaient communiquées sur un support papier.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:12.999Z",
+  "tokenUsage": {
+    "prompt": 1805,
+    "completion": 310,
+    "total": 2115
+  }
+}

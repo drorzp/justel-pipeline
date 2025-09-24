@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042266",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Le présent arrêté concerne un projet temporaire relatif à l'optimisation des procédures et des méthodes de travail pour des travaux d'infrastructure MIA, qui sont une situation spécifique telle que visée à l'article III.119, alinéa 2, 1° et 2°, du Décret de gouvernance du 7 décembre 2018.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.151Z",
+  "tokenUsage": {
+    "prompt": 1526,
+    "completion": 160,
+    "total": 1686
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017020312",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 13.4.6 du décret du 8 mai 2009 contenant des dispositions générales en matière de la politique de l'énergie, est interprété en ce sens que, d'une part, en ce qui concerne les dispositions des points 1°, 2° et 4°, il s'applique non seulement aux demandes d'obtention d'un permis d'urbanisme introduites après le 1er janvier 2011, mais également aux demandes d'autorisation introduites entre le 1er janvier 2006 et le 31 décembre 2010 mais pour lesquelles l'amende n'est imposée qu'après le 1er janvier 2011, et d'autre part, en ce qui concerne les dispositions du point 3°, il s'applique non seulement aux demandes d'obtention d'un permis d'urbanisme introduites après le 1er janvier 2011, mais également aux demandes d'autorisation introduites entre le 7 avril 2006 et le 31 décembre 2010 mais pour lesquelles l'amende n'est imposée qu'après le 1er janvier 2011.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.597Z",
+  "tokenUsage": {
+    "prompt": 1811,
+    "completion": 308,
+    "total": 2119
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023202336",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article I.3-36 du même code est remplacé par ce qui suit : \" Art. I.3-36. Outre les informations visées à l'article I.3-22 et conformément à l'article 32terdecies/1, alinéa 1er, 1° et à l'article 32quinquiesdecies, alinéa 2, 3°, f) de la loi, le conseiller en prévention aspects psychosociaux, dès que la demande est acceptée, informe l'employeur :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">du fait que la demande mentionne des faits de violence ou de harcèlement moral au travail liés ou non à un critère de discrimination tel que visé à l'article 32ter, alinéa 2 de la loi, ou des faits de harcèlement sexuel au travail;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">du fait que le demandeur bénéficie d'une protection contre les mesures préjudiciables.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.403Z",
+  "tokenUsage": {
+    "prompt": 1821,
+    "completion": 348,
+    "total": 2169
+  }
+}

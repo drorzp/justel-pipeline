@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012035590",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les articles 15 et 19 s'appliquent aux procédures d'établissement de plans d'exécution spatiaux provinciaux qui sont fixés définitivement après l'entrée en vigueur du présent décret.</p>\n      <p>L'article 27, <span class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></span>, et l'article 28 entrent en vigueur à une date à fixer par le Gouvernement flamand.</p>\n      <p>(NOTE : Entrée en vigueur de l'article 27, <span class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></span> et l'article 28 fixée au 01-09-2012 par AGF<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2012-07-20/22\" data-law-type=\"AGF\" data-article-number=\"7\"><a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012072022\">2012-07-20/22</a>, art. 7</span>)</p>\n      <p>L'article 30 produit ses effets à partir de la date d'entrée en vigueur du décret du 18 novembre 2011 modifiant le décret du 28 juin 1985 relatif à l'autorisation écologique et le Code flamand de l'Aménagement du Territoire en ce qui concerne les possibilités de recours.</p>\n      <p>Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.</p>\n      <p>Bruxelles, le 11 mai 2012.</p>\n      <p>Le Ministre-Président du Gouvernement flamand,<br>K. PEETERS</p>\n      <p>Le Ministre flamand de la Gouvernance publique, de l'Administration intérieure, de l'Intégration civique, du Tourisme et de la Périphérie flamande de Bruxelles,<br>G. BOURGEOIS</p>\n      <p>La Ministre flamande de l'Environnement, de la Nature et de la Culture,<br>J. SCHAUVLIEGE</p>\n      <p>Le Ministre flamand des Finances, du Budget, de l'Emploi, de l'Aménagement du Territoire et des Sports,<br>Ph. MUYTERS</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.280Z",
+  "tokenUsage": {
+    "prompt": 2077,
+    "completion": 601,
+    "total": 2678
+  }
+}

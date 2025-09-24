@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011811",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2, § 1er, alinéa 1er, du décret du 30 avril 2004 relatif au contrôle des lois sociales, modifié en dernier lieu par le décret du 12 juillet 2013, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les points 16°, 23° et 24° sont abrogés ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est ajouté un point 60°, rédigé comme suit :</span>\n                    <p>\" 60° les chèques-formation pour travailleurs, visés à l'article 2 du décret du 29 mars 2019 relatif aux chèques-formation pour travailleurs, à l'introduction d'une obligation d'enregistrement pour agents sportifs et modifiant diverses autres dispositions relatives au domaine politique de l'Emploi et l'Economie sociale.</p>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.294Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 321,
+    "total": 2082
+  }
+}

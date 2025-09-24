@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999070650",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-12-06/12\" data-law-type=\"AR\" data-article-number=\"23\">\n        <p class=\"intro-text\">La commission décide de l'aptitude médicale à sa fonction ou à ses missions, du militaire visé aux articles 2, 3, 1° et 2°, 4 et 5 :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">renvoyé devant cette commission par le conseiller en prévention-médecin du travail, le médecin-inspecteur du travail ou un médecin du centre médical régional compétent pour l'unité du militaire concerné parce que ce médecin estime que le militaire pourrait être médicalement inapte à sa fonction ou ses missions;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">renvoyé devant cette commission par le médecin chef de la cellule paracommando du centre médical d'expertise parce que ce médecin estime que le militaire pourrait être médicalement inapte à sa fonction ou ses missions;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">qui le demande au président de la commission parce qu'il estime qu'il pourrait être médicalement inapte à sa fonction ou ses missions.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.266Z",
+  "tokenUsage": {
+    "prompt": 1928,
+    "completion": 410,
+    "total": 2338
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016009561",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 6 du même arrêté, modifié par l'arrêté royal du 31 juillet 2009, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">dans l'alinéa 2, le 1° est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">aux greffiers-chefs de service, aux secrétaires-chefs de service, aux greffiers et aux secrétaires, selon le cas, par le greffier en chef ou le secrétaire en chef;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">l'alinéa 2 est complété par un 4° et 5° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">aux référendaires et aux juristes de parquet, par le magistrat-chef de corps;</span>\n            </li>\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">aux membres du personnel des services d'appui visés aux articles 183 et 185 du Code judiciaire, par le directeur du service d'appui.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.239Z",
+  "tokenUsage": {
+    "prompt": 1920,
+    "completion": 440,
+    "total": 2360
+  }
+}

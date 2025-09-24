@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1967101055",
+  "articleNumber": "675",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-675\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 675</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Devant le tribunal de première instance, le tribunal du travail et le <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-04-15/14\" data-law-type=\"L\" data-article-number=\"252\">tribunal de l'entreprise</span>, le requérant adresse au bureau une requête établie en double et signée par lui ou son avocat; (Cette requête n'est soumise à aucune autre formalité. Le requérant) peut aussi s'adresser verbalement au bureau; en ce cas, le greffier rédige une note sommaire exposant l'objet de la (requête écrite). Dans l'un et l'autre cas, le requérant joint à sa demande les pièces prévues à l'article 676 ou, le cas échéant, à l'article 677. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-07-01/72\" data-law-type=\"L\" data-article-number=\"16\">&lt;L 2006-07-01/72, art. 16, 1° et 2°, 077;**En vigueur :**10-08-2006&gt;</span></p>\n      <p>(Alinéas 2, 3, 4 et 5 abrogés) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-07-01/72\" data-law-type=\"L\" data-article-number=\"16\">&lt;L 2006-07-01/72, art. 16, 3°, 077;**En vigueur :**10-08-2006&gt;</span></p>\n      <p>(Devant le juge de paix, le bénéfice de l'assistance judiciaire peut être accordé sur simple demande, écrite ou verbale, à laquelle sont jointes les pièces visées à l'article 676 ou 677.) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-07-01/72\" data-law-type=\"L\" data-article-number=\"16\">&lt;L 2006-07-01/72, art. 16, 4°, 077;**En vigueur :**10-08-2006&gt;</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.656Z",
+  "tokenUsage": {
+    "prompt": 2234,
+    "completion": 576,
+    "total": 2810
+  }
+}

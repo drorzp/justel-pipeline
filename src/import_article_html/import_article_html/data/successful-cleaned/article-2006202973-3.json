@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006202973",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 137 du même arrête, modifié par les arrêtés royaux des 25 mai 1993, 22 novembre 1995, 22 décembre 1995, 9 juin 1997, 8 août 1997, 3 mai 1999, 13 juin 1999, 13 juin 2001 et 22 juin 2004, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">au § 1er, 2°, c), les mots \" visés à l'article1 33, § 1er, 4° et 5° \" sont remplacés par les mots \" visés à l'article 133, § 1er, 4°,</span>\n                    <ol class=\"nested-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">a)</li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">b)</li>\n                        <li class=\"sub-provision\" data-marker=\"c)\">c)</li>\n                    </ol>\n                    <span class=\"provision-text\">et 5°\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">au § 4, alinéa 1er, 3°, les mots \" visés à l'article 133, § 1er, 4° et 5° \" sont remplacés par les mots \" visés à l'article 133, § 1er, 4°,</span>\n                    <ol class=\"nested-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">a)</li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">b)</li>\n                        <li class=\"sub-provision\" data-marker=\"c)\">c)</li>\n                    </ol>\n                    <span class=\"provision-text\">et 5° et au § 2, 3°, c) du présent article \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.904Z",
+  "tokenUsage": {
+    "prompt": 2100,
+    "completion": 548,
+    "total": 2648
+  }
+}

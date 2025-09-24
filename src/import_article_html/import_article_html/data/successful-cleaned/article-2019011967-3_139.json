@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011967",
+  "articleNumber": "3:139",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3:139\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3:139</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Il peut être omis de procéder aux éliminations visées aux articles 3:134, 3:136, alinéa 1er, 1° et 2°, et 3:138 lorsque les montants concernés ne présentent qu'un intérêt négligeable au regard de l'objectif visé à l'article 3:105.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.292Z",
+  "tokenUsage": {
+    "prompt": 1555,
+    "completion": 160,
+    "total": 1715
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003239",
+  "articleNumber": "83",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-83\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 83</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>A l'article 289bis, § 1er, du même Code, remplacé par la loi du 4 mai 1999 et modifié par l'arrêté royal du 13 juillet 2001 et par la loi du 17 juin 2013, les modifications suivantes sont apportées :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">dans l'alinéa 1er, la phrase liminaire est remplacée par ce qui suit :</span>\n                        <p>\" § 1. Aux habitants du Royaume qui ont produit ou recueilli des bénéfices ou des profits visés à l'article 23, § 1er, 1° et 2° et aux non-résidents visés à l'article 227, 1°, qui ont produit ou recueilli des bénéfices ou des profits visés à l'article 228, § 2, 3° et 4°, il est accordé un crédit d'impôt de 10 p.c., avec un maximum de 3 750 EUR, de l'excédent que représente :\"</p>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">l'alinéa 5, premier tiret, est remplacé par ce qui suit :</span>\n                        <ul class=\"hyphenated-items\">\n                            <li class=\"hyphenated-item\" data-marker=\"-\">\n                                <span class=\"item-text\">le crédit d'impôt n'est accordé que lorsque l'impôt est calculé conformément à l'article 243/1 ou 244;</span>\n                            </li>\n                        </ul>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.064Z",
+  "tokenUsage": {
+    "prompt": 2028,
+    "completion": 489,
+    "total": 2517
+  }
+}

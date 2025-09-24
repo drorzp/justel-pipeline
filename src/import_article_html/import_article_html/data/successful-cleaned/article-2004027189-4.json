@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004027189",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le Titre III du Livre IV du même Code, il est inséré un chapitre III intitulé : \" Chapitre III. - Du certificat de patrimoine \".</p>\n      <p class=\"intro-text\">Les articles 2, 2° à 4°, et 3 à 11 de l'arrêté du Gouvernement wallon du 4 mars 1999 relatif au certificat de patrimoine forment respectivement les articles 505 à 514 du chapitre III du Titre III du Livre IV du même Code, étant entendu que :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">sont abrogés l'article 1er et l'article 2, 1° et 5°;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">dans l'article 2, le \" 2° \" devient \" 1° \", le \" 3° \" devient le \" 2° \" et le \" 4° \" devient \" 3° \";</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">dans l'article 4, § 2, les mots \" annexe 1 \" sont remplacés par les mots \" annexe 15 du Code \";</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">dans l'article 9, alinéa 1er, les mots \" annexe 2 au présent arrêté \" sont remplacés par les mots \" annexe 16 du Code \";</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">dans l'article 10, les mots \" article 185, 10° \" sont remplacés par les mots \" article 187, 12° \";</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">dans l'article 11, les mots \" annexe 3 du présent arrêté \" sont remplacés par les mots \" annexe 17 du Code \".</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.783Z",
+  "tokenUsage": {
+    "prompt": 2159,
+    "completion": 565,
+    "total": 2724
+  }
+}

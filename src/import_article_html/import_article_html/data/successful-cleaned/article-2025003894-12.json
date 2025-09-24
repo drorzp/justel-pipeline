@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025003894",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans l'article 30 de la loi du 26 avril 2024, dans le seul alinéa sous 1°, les mots \"l'article 4, § 4, de la loi du 31 janvier 2003 sur la sortie progressive de l'énergie nucléaire à des fins de production industrielle d'électricité\" sont remplacés par les mots \"l'article 4, § 3, de la loi du 31 janvier 2003 sur l'énergie nucléaire à des fins de production industrielle d'électricité\".</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans l'article 40 de la même loi, dans le seul alinéa sous 1° et 3°, les mots \"l'article 4, § 4, de la loi du 31 janvier 2003 sur la sortie progressive de l'énergie nucléaire à des fins de production industrielle d'électricité\" sont remplacés par les mots \"l'article 4, § 3, de la loi du 31 janvier 2003 sur l'énergie nucléaire à des fins de production industrielle d'électricité\".</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.717Z",
+  "tokenUsage": {
+    "prompt": 1880,
+    "completion": 374,
+    "total": 2254
+  }
+}

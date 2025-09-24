@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013207407",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 54</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le service de placement familial peut constituer des réserves avec les subventions, visées dans le présent arrêté, de la façon suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les réserves sont utilisées dans le but de réaliser les services spécifiques, visées dans le présent arrêté;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au maximum 20 % des montants annuels des subventions, visés dans le présent arrêté, peut être transféré à l'année calendaire suivante;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">la réserve cumulée, constituée à partir des montants annuels des subventions, visés au point 2°, est d'au maximum 50 % des montants annuels des subventions, visés au point 2°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">si le maximum, visé aux points 2° et 3° est excédé, le montant excédé est remboursé à l'administration flamande, à moins que le service de placement familial ne dispose d'un plan d'utilisation ou d'un plan d'apurement qui répond à un certain nombre de critères, dont l'approbation de l'Inspection des Finances en est un.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Le ministre définit les modalités relatives au remboursement et au plan d'utilisation ou plan d'apurement, visés à l'alinéa premier, 4°, entre autres les critères auxquels le plan d'utilisation ou le plan d'apurement doivent répondre.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.171Z",
+  "tokenUsage": {
+    "prompt": 2017,
+    "completion": 485,
+    "total": 2502
+  }
+}

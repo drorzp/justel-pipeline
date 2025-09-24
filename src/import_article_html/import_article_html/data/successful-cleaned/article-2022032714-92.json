@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032714",
+  "articleNumber": "92",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-92\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 92</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 55 de la même loi, l'alinéa 1er est remplacé par ce qui suit : \"L'imputation au produit de la vente du véhicule est effectuée selon l'ordre suivant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">sur les dettes de douanes ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">sur les frais de vente et les frais de saisie ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">sur les dettes d'accises ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">sur les sommes d'argent visées à l'article 51, 2°, sans préjudice de l'application de l'article 49, alinéa 2, du Code pénal et de l'article 29, dernier alinéa, de la loi du 1er août 1985 contenant des dispositions fiscales et autres ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et enfin sur les sommes visées à l'article 51, 3°. Cette imputation se fait conformément à l'article 18, § 2, du Code de recouvrement amiable et forcé des créances fiscales et non fiscales.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.812Z",
+  "tokenUsage": {
+    "prompt": 1871,
+    "completion": 439,
+    "total": 2310
+  }
+}

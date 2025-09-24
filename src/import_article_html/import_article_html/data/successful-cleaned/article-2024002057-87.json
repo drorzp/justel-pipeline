@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002057",
+  "articleNumber": "87",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-87\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 87</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le kit comprend :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">un matériel destiné à recueillir un échantillon de selles ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">un mode d'emploi relatif à l'utilisation du matériel visé au 1° et de l'outil visé au 2° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">une enveloppe ou une boite destinée à l'envoi du matériel, reprenant l'adresse du destinataire ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">une demande d'analyse à destination du laboratoire d'analyse iFOBT ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">une explication sur les modalités et l'importance de la communication des coordonnées d'un médecin généraliste ou d'un médecin spécialiste visée à l'article 88.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le matériel visé à l'alinéa 1er ferme hermétiquement.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.439Z",
+  "tokenUsage": {
+    "prompt": 1813,
+    "completion": 390,
+    "total": 2203
+  }
+}

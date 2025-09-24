@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023041926",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application du présent arrêté, il y a lieu d'entendre par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">\" le Code \" : le Code de l'enseignement fondamental et de l'enseignement secondaire ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">\" le bénéficiaire de formation \" : le bénéficiaire de formation et le bénéficiaire de formation externe définis respectivement à l'article 6.1.1-2, 2° et 3°, du Code ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">\" la formation \" : la formation professionnelle continue organisée en application du Livre 6, Titre 1er, du Code ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">\" l'attestation \" : attestation visée à l'article 6.1.6-6 du Code délivrée au terme de la formation ;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">\" le responsable de la formation \" : l'Institut interréseaux de la Formation professionnelle continue, Wallonie Bruxelles Enseignement ou la Fédération de pouvoirs organisateurs concernée.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.731Z",
+  "tokenUsage": {
+    "prompt": 1869,
+    "completion": 405,
+    "total": 2274
+  }
+}

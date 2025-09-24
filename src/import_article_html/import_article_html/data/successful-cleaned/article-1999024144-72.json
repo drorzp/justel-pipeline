@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999024144",
+  "articleNumber": "72",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-72\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 72</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 37, § 12, alinéa 2, de la même loi, modifié par la loi du 20 décembre 1995, est remplacé par la disposition suivante:</p>\n            <blockquote class=\"legal-quote\">\n                <p class=\"quote-text\">\"Les personnes bénéficiant des prestations fournies par les structures visées à l'article 34, alinéa 1er, 11°, 12° et 13°, ne peuvent prétendre à une intervention de l'assurance soins de santé obligatoire sur la base de la nomenclature des prestations de santé prévue à l'article 35 de la présente loi, figurant au paquet de soins déterminé par le Roi en exécution de l'article 34, alinéa 1er, 11°, 12° et 13°, sauf exceptions expressément prévues par le Roi.\"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.280Z",
+  "tokenUsage": {
+    "prompt": 1787,
+    "completion": 268,
+    "total": 2055
+  }
+}

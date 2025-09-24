@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005023079",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Sont soumis à l'application du présent arrêté les actes définis à l'article 1er, 1° et 2°.</p>\n            <p>Ne sont pas soumises à l'application du présent arrêté :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les autres professions visées par l'arrêté royal n° 78 relatif à l'exercice des soins de santé;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les activités d'esthéticien(ne)s, telles que réglementées par l'arrêté royal du 14 janvier 1993 instaurant les conditions d'exercice de l'activité professionnelle d'esthéticien(ne) dans les petites et moyennes entreprises du commerce et de l'artisanat.</span>\n                </li>\n            </ol>\n            <p>Sur la proposition des Ministres qui ont respectivement les Classes moyennes et la Santé publique dans leurs attributions, le Roi peut rendre le présent arrêté en tout ou en partie applicable aux esthéticien(ne)s.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.883Z",
+  "tokenUsage": {
+    "prompt": 1782,
+    "completion": 332,
+    "total": 2114
+  }
+}

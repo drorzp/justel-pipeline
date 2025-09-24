@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020203207",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans le même chapitre, il est inséré un article 10.13 rédigé comme suit :</p>\n      <p>\" Art. 10.13 - En ce qui concerne les personnes infectées ou présumées l'être ainsi que les contacts, le centre de contact met à la disposition de la banque de données Sciensano les données à caractère personnel mentionnées à l'article 6, § § 5 et 6, de l'arrêté royal qu'il a obtenues dans l'exercice de sa mission. La mise à disposition de ces données sert à atteindre les objectifs mentionnés à l'article 10.10, <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n          <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5°</span></li>\n        </ol>.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.091Z",
+  "tokenUsage": {
+    "prompt": 1754,
+    "completion": 336,
+    "total": 2090
+  }
+}

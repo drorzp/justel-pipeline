@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013009420",
+  "articleNumber": "139",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-139\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 139</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 628 du même Code, modifié en dernier lieu par la loi du 17 mars 2013, les modifications suivantes sont apportées:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les 1°, 2° et 18° sont chaque fois complétés par les mots \", sans préjudice de l'article 629bis\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">remplacer le 23° par ce qui suit :<br>\"23° le juge du dernier domicile en Belgique de la personne disparue, absente ou présumée absente ou, si celle-ci n'a jamais eu de domicile en Belgique, le juge de paix du 1er canton de Bruxelles ou le juge de l'arrondissement de Bruxelles, selon le cas.\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.026Z",
+  "tokenUsage": {
+    "prompt": 1713,
+    "completion": 296,
+    "total": 2009
+  }
+}

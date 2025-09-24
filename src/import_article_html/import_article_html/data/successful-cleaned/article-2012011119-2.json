@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012011119",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 2 de la loi du 22 juillet 1953 créant un Institut des réviseurs d'entreprises et organisant la supervision publique de la profession de réviseur d'entreprises, coordonnée le 30 avril 2007, modifié par l'arrêté royal du 3 mars 2011, est complété par les 23°, 24°, 25° et 26°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"23°\">\n          <span class=\"provision-text\">la Banque : la Banque Nationale de Belgique, visée dans la loi du 22 février 1998 fixant le statut organique de la Banque Nationale de Belgique;</span>\n        </li>\n        <li class=\"provision\" data-number=\"24°\">\n          <span class=\"provision-text\">organes de supervision publique : les organes, énumérés à l'article 43, § 1er;</span>\n        </li>\n        <li class=\"provision\" data-number=\"25°\">\n          <span class=\"provision-text\">autorités compétentes : les autorités ou organismes désignés par une loi ayant pour mission la régulation et/ou la supervision des contrôleurs légaux des comptes et cabinets d'audit ou de certains aspects de celles-ci;</span>\n        </li>\n        <li class=\"provision\" data-number=\"26°\">\n          <span class=\"provision-text\">Directive 2006/43 : la Directive 2006/43/CE du Parlement européen et du Conseil du 17 mai 2006 concernant les contrôles légaux des comptes annuels et des comptes consolidés et modifiant les Directives 78/660/CEE et 83/349/CEE du Conseil, et abrogeant la Directive 84/253/CEE du Conseil.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.180Z",
+  "tokenUsage": {
+    "prompt": 2034,
+    "completion": 488,
+    "total": 2522
+  }
+}

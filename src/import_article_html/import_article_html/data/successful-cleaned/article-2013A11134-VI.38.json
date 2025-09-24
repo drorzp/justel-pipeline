@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A11134",
+  "articleNumber": "VI.38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-VI-38\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article VI.38</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-law-type=\"L\" data-dossier-number=\"2013-12-21/23\" data-article-number=\"3\">\n        <p>Lorsqu'un contrat avec un consommateur a été conclu à la suite d'une pratique commerciale déloyale visée à l'article VI.100, 12°, 16° et 17°, et à l'article VI.103, 1°, 2° et 8°, le consommateur peut, dans un délai raisonnable à partir du moment où il a eu connaissance ou aurait dû avoir connaissance de son existence, exiger le remboursement des sommes payées, sans restitution du produit livré.</p>\n        <p>Lorsqu'un contrat avec un consommateur a été conclu à la suite d'une pratique commerciale déloyale visée aux articles VI.93 à VI.95, VI.100, 1° à 11°, 13° à 15°, 18° à <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-law-type=\"L\" data-dossier-number=\"2022-05-08/01\" data-article-number=\"13\">27°</span>, et à l'article VI.103, 3° à 7°, le juge peut, sans préjudice des sanctions de droit commun, ordonner le remboursement au consommateur des sommes qu'il a payées, sans restitution par celui-ci du produit livré.</p>\n        <p>En cas de fourniture non demandée au consommateur au sens de l'article VI.103, 6°, le consommateur est en tout cas dispensé du paiement du prix ou de toute autre contreprestation, l'absence de réponse ne valant pas consentement de celui-ci.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.177Z",
+  "tokenUsage": {
+    "prompt": 2159,
+    "completion": 462,
+    "total": 2621
+  }
+}

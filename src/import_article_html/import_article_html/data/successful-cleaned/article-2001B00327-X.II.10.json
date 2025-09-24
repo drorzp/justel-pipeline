@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001B00327",
+  "articleNumber": "X.II.10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-X-II-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article X.II.10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Au sein du service médical, il existe une commission médicale des litiges qui se compose comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le médecin-directeur du service médical, président;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un médecin désigné par les organisations syndicales représentatives;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">un médecin qui n'est pas un membre du personnel des services de police.</span>\n        </li>\n      </ol>\n      <p class=\"paragraph-content\">Le ministre désigne les médecins visés à l'alinéa 1, 2° et 3°, parmi les candidats se trouvant sur une liste double respectivement proposée par les organisations syndicales représentatives et le médecin-directeur du service médical.</p>\n      <p class=\"closing-text\">Le médecin visé à l'alinéa 1, 2°et 3°, bénéficie d'une indemnité pour frais de voyage et de séjour conformément aux dispositions qui sont applicables au personnel des ministères. Il est assimilé à cet égard à un fonctionnaire de rang 17.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.684Z",
+  "tokenUsage": {
+    "prompt": 1847,
+    "completion": 384,
+    "total": 2231
+  }
+}

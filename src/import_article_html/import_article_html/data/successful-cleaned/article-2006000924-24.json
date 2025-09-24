@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006000924",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les organismes, entreprises ou services qui possèdent au maximum cinq armes au sein d'un siège d'exploitation ou dans les lieux visés à l'article 23, alinéa 4, il peut être fait usage d'un coffre-fort comme magasin d'armes.</p>\n      <p class=\"intro-text\">Ce coffre-fort est situé dans un local qui répond aux conditions visées à l'article 23, 8° et 9°.</p>\n      <p class=\"closing-text\">Ce coffre-fort est utilisé exclusivement pour la conservation des objets visés à l'article 22.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.867Z",
+  "tokenUsage": {
+    "prompt": 1617,
+    "completion": 208,
+    "total": 1825
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009A35738",
+  "articleNumber": "1.4.9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1-4-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1.4.9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-25/I9\" data-law-type=\"DCFL\" data-article-number=\"6\">\n                <p class=\"intro-text\">Le Gouvernement flamand peut fixer les conditions auxquelles doivent satisfaire les candidats pour pouvoir être désignés, respectivement, comme inspecteurs urbanistes régionaux ou inspecteurs urbanistes communaux, conformément à l'article 6.1.1, 1° et 3°.</p>\n                <p class=\"closing-text\">Seuls les membres du personnel régionaux peuvent être désignés en tant qu'inspecteurs urbanistes régionaux. Pour la désignation de l'inspecteur urbaniste communal, le collège des bourgmestre et échevins peut faire appel à son propre personnel ou au personnel d'un partenariat intercommunal.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.312Z",
+  "tokenUsage": {
+    "prompt": 1792,
+    "completion": 275,
+    "total": 2067
+  }
+}

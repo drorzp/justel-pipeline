@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001009579",
+  "articleNumber": "28/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-02-02/03\" data-law-type=\"AR\" data-article-number=\"1\">\n        <p class=\"intro-text\">Dans le cadre de l'application de l'article 9, alinéa 1er, 3° et de l'article 11, 1° à 3° de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, sont autorisés à accéder aux informations enregistrées dans le Casier judiciaire central :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le commandant du Service Accueil et Orientation au sein de la Direction générale human resources du ministère de la Défense;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les membres du personnel du Service Accueil et Orientation que le commandant de ce service désigne nommément et par écrit à cet effet, en raison des fonctions qu'ils occupent et pour autant qu'ils soient revêtus d'un grade d'officier ou d'un grade équivalent à celui du niveau A des agents de l'Etat.</span></li>\n        </ol>\n        <p>Les personnes visées à l'alinéa 1er ont uniquement accès aux condamnations à des peines criminelles, aux condamnations à un emprisonnement correctionnel supérieur ou égal à trois mois et aux condamnations à une déchéance ou une interdiction des droits visés à l'article 31, alinéa 1er, 1° et 6° du Code pénal. Elles ont accès dans le cadre strict des limitations expressément prévues à l'article 594 du Code d'instruction criminelle.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.215Z",
+  "tokenUsage": {
+    "prompt": 2130,
+    "completion": 490,
+    "total": 2620
+  }
+}

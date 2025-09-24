@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035929",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le &quot;Vlaamse Onderwijsraad&quot;, l&#39;Inspection de l&#39;Enseignement et l&#39;agence émettent un avis, dans un délai raisonnable et dans les deux mois de la réception des demandes, périodes de vacances non comprises, qu&#39;ils remettent au Ministre flamand chargé de l&#39;enseignement et au Département de l&#39;Enseignement et de la Formation.</p>\n      <p>Le &quot;Vlaamse Onderwijsraad&quot; base son avis sur l&#39;examen d&#39;au moins les critères d&#39;évaluation tels que visés à l&#39;article 9, 1° à 8°.</p>\n      <p>L&#39;inspection de l&#39;enseignement base son avis sur l&#39;examen d&#39;au moins les critères d&#39;évaluation tels que visés à l&#39;article 9, 3° à 6°, et 8°.</p>\n      <p>L&#39;agence base son avis sur l&#39;examen d&#39;au moins les critères d&#39;évaluation tels que visés à l&#39;article 9, 1°, 2° et 7° à 8°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.345Z",
+  "tokenUsage": {
+    "prompt": 1846,
+    "completion": 368,
+    "total": 2214
+  }
+}

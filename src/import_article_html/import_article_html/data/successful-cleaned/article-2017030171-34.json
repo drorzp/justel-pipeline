@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030171",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour les actions visées à l'article 37, alinéa 1er, 5° de l'ordonnance, le bénéficiaire fournit annuellement et au plus tard pour le 31 mai de chaque année les documents suivants à l'administration :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">un décompte complet introduit en une seule fois, reprenant les états de dépenses éligibles des projets sur lesquels porte la demande de paiement ainsi que toutes les pièces justificatives relatives aux actions subventionnées;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Un rapport financier relatif aux actions concernées;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et un rapport d'activités relatif aux actions concernées.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.731Z",
+  "tokenUsage": {
+    "prompt": 1743,
+    "completion": 302,
+    "total": 2045
+  }
+}

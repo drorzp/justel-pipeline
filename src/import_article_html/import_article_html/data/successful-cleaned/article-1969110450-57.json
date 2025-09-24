@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1969110450",
+  "articleNumber": "57",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-57\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 57</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1988-11-07/43\" data-law-type=\"L\" data-article-number=\"35\">&lt;L 1988-11-07/43, art. 35, 002;**En vigueur :**1988-12-16&gt;</span> Les congés, oppositions ou notifications prévus aux articles 6, § 1er, 3° et 4°, 11, 12, 14, premier alinéa, 33, 35, 36, 37, 38, 39, 40, 42, 44, 48 et 49 doivent, à peine d'inexistence, être signifiés par exploit d'huissier de justice ou par lettre recommandée à la poste.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.545Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 261,
+    "total": 1931
+  }
+}

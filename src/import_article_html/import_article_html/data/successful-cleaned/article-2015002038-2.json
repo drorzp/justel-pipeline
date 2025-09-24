@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015002038",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 2 de l'arrêté royal du 11 mai 2001, modifié par l'arrêté royal du 13 janvier 2006, portant création du Service public fédéral Personnel et Organisation, les modifications suivantes sont apportées :</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">dans le paragraphe 1, l'alinéa 1er est complété par un 5° et un 6° rédigés comme suit :</span>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"5°\">\n                        <span class=\"provision-text\">d'assurer l'administration des salaires au moins pour les organisations qui à la date du 31 décembre 2015 font appel au service SCDF-Traitements.</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"6°\">\n                        <span class=\"provision-text\">d'assurer l'administration du personnel pour les services fédéraux qui font appel à cet effet au Service public fédéral Personnel & Organisation.</span>\n                    </li>\n                </ol>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">un paragraphe 3 est inséré, rédigé comme suit :</span>\n                <section class=\"paragraph\" id=\"para-3\">\n                    <h3 class=\"paragraph-marker\">§ 3.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>A partir de la date d'entrée en vigueur du présent arrêté, le Service public fédéral Personnel et Organisation reprend les missions du service SCDF-Traitements, ainsi que tous les biens, droits et obligations légales et contractuelles concernant ces missions.</p>\n                    </div>\n                </section>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.265Z",
+  "tokenUsage": {
+    "prompt": 1923,
+    "completion": 472,
+    "total": 2395
+  }
+}

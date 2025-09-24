@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998007181",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\">1</span></h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 8, alinéa 2, de l'arrêté royal du 13 novembre 1991 fixant les règles applicables à l'appréciation des qualités physiques de certains candidats et élèves des forces armées, est remplacé par l'alinéa suivant :</p>\n      <p class=\"intro-text\">\" A réussi, le candidat qui obtient au moins les résultats suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">32 points sur 80 pour l'ensemble des épreuves visées à l'article 7, alinéa 1er, 2°, 3°, 4° et 5°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">8 points sur 20 pour chacune des épreuves visées à l'article 7, alinéa 1er, 1°, 6° et 7°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">70 points sur 140 pour l'ensemble des épreuves visées à l'article 7, alinéa 1er.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.074Z",
+  "tokenUsage": {
+    "prompt": 1830,
+    "completion": 381,
+    "total": 2211
+  }
+}

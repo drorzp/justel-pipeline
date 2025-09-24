@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990012060",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le mandat des membres visés à l'article 3, 3°, 4° et 5° a une durée de quatre ans. Il peut être renouvelé. Les membres restent en fonction jusqu'à la désignation de leurs successeurs.</p>\n      <p class=\"intro-text\">Le mandat des membres prend fin :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">lorsque la durée du mandat est expirée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">en cas de démission;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">lorsque l'organisation ou le Ministre qu'ils représentent demandent leur remplacement;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">en cas de décès;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">lorsqu'ils ont atteint l'âge de septante ans.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Il est pourvu dans les trois mois au remplacement du membre dont le mandat a pris fin avant son expiration normale. Dans ce cas, le nouveau membre achève le mandat de celui qu'il remplace.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.725Z",
+  "tokenUsage": {
+    "prompt": 1847,
+    "completion": 412,
+    "total": 2259
+  }
+}

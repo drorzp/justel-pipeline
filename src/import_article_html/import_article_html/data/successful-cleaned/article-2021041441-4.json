@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021041441",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les programmations énumérées à l'article 2, 9°, 395°, 407° et 408°, sont liées à une condition supplémentaire. Seulement si cette condition supplémentaire est remplie, l'établissement d'enseignement peut programmer cette subdivision structurelle. La condition supplémentaire implique que la subdivision structurelle duale programmée soit supprimée à l'implantation mentionnée à partir de l'année scolaire 2021-2022 par tout autre établissement d'enseignement offrant actuellement la subdivision structurelle à cette implantation.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.139Z",
+  "tokenUsage": {
+    "prompt": 1566,
+    "completion": 186,
+    "total": 1752
+  }
+}

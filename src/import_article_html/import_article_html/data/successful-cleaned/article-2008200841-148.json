@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008200841",
+  "articleNumber": "148",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-148\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 148</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En cas de vente publique d'un terrain à risque, à l'occasion de laquelle l'acquéreur reprend l'exécution des obligations en vertu de l'article 147, la cession du terrain à risque peut avoir lieu avant que l'acquéreur n'ait rempli les obligations, prévues à l'article 104, § 2, 2° et 3°, du Décret relatif au sol ou à l'article 109, § 2, 2° et 3° du Décret relatif au sol, à condition que, dans les conditions de vente de la vente publique, une condition résolutoire soit reprise selon laquelle la vente du terrain à risque est résolue lorsque l'acquéreur n'a pas rempli ces obligations dans un délai de quarante cinq jours de la date de cession. Il en va de même pour les obligations, prévues à l'article 115, § 4, du Décret relatif au sol, en cas de vente publique d'un terrain à risque par la procédure de cession accélérée, visée à l'article 115 du Décret relatif au sol.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.906Z",
+  "tokenUsage": {
+    "prompt": 1921,
+    "completion": 312,
+    "total": 2233
+  }
+}

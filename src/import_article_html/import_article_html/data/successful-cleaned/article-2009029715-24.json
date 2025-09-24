@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009029715",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Pour toute demande de reconnaissance introduite, la <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-03-28/16\" data-law-type=\"DCFR\" data-article-number=\"111\">Commission d'avis</span> et les services du Gouvernement qu'il désigne rendent :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">Un avis sur le respect des conditions de reconnaissance;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">Un avis sur la cohérence entre le rapport d'évaluation visé à l'article 6, 8° et 9° et la note d'intention ou le plan d'action sur base d'indicateurs quantitatifs et qualitatifs;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">Un avis d'opportunité motivé prenant en compte la pertinence de la note d'intention ou le plan d'action de l'association par référence au contexte territorial, socioculturel et socio-artistique.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Gouvernement arrête les délais dans lesquels ces avis sont établis, ainsi que les conséquences qui se rattachent au non respect de ces délais, ou à la non-production de ces avis.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.112Z",
+  "tokenUsage": {
+    "prompt": 2087,
+    "completion": 486,
+    "total": 2573
+  }
+}

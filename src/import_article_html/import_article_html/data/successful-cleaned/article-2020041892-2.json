@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020041892",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 3 du Code ferroviaire, modifié en dernier lieu par la loi du 11 janvier 2019, est complété par les 82°, 83° et 84°, rédigés comme suit:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"82°\">\n                    <span class=\"provision-text\">\"cadre réglementaire national en matière de sécurité\": l'ensemble des règles et procédures en lien avec la sécurité au niveau national, qui comprend notamment l'ensemble des règles nationales de sécurité;</span>\n                </li>\n                <li class=\"provision\" data-number=\"83°\">\n                    <span class=\"provision-text\">\"cadre réglementaire en matière de sécurité\": le cadre réglementaire européen en matière de sécurité visé par la directive 2004/49/CE et le cadre réglementaire national en matière de sécurité;</span>\n                </li>\n                <li class=\"provision\" data-number=\"84°\">\n                    <span class=\"provision-text\">\"Utilisateur de l'infrastructure (\"UI\")\":</span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"a)\">les entreprises ferroviaires ayant un droit d'accès sur l'infrastructure ferroviaire belge, en vertu de l'article 5, § 1er, 1°, 2°, ou 3°, et leurs auxiliaires;</li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">le gestionnaire de l'infrastructure aux fins d'entretien et de gestion, de renouvellement et d'extension de l'infrastructure ferroviaire, en vertu de l'article 8 et ses auxiliaires;</li>\n                        <li class=\"sub-provision\" data-marker=\"c)\">les associations autorisées à circuler sur l'infrastructure ferroviaire belge en vertu de l'article 5, § 1er, 4°.</li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.163Z",
+  "tokenUsage": {
+    "prompt": 2049,
+    "completion": 499,
+    "total": 2548
+  }
+}

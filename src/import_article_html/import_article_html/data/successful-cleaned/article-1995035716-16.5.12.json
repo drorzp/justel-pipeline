@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995035716",
+  "articleNumber": "16.5.12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16-5-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16.5.12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-04-30/87\" data-law-type=\"DCFL\" data-article-number=\"28\">Les gardes-champêtres visés à l'article 61 du Code rural sont vêtus de la compétence de rechercher et de constater des délits environnementaux relatifs aux <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2018-06-08/08\" data-law-type=\"DCFL\" data-article-number=\"41\">prescriptions environnementales visées</span> à l'article 16.1.1, alinéa premier, sub <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°,</span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"><span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2010-12-23/39\" data-law-type=\"DCFL\" data-article-number=\"91\">3°,</span></span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°,</span></li><li class=\"provision\" data-number=\"14°\"><span class=\"provision-text\">14°,</span></li><li class=\"provision\" data-number=\"15°\"><span class=\"provision-text\">15°</span></li><li class=\"provision\" data-number=\"16°\"><span class=\"provision-text\">et 16°.</span></li></ol></span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.042Z",
+  "tokenUsage": {
+    "prompt": 2033,
+    "completion": 462,
+    "total": 2495
+  }
+}

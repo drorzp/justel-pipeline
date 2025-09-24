@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005003512",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 31</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sans préjudice du montant des recettes restant à percevoir ou des remboursements restant à effectuer sur la base de leurs dispositions, sont abrogés :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'arrêté royal du 14 février 2003 relatif à la couverture des frais de fonctionnement de la <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-03-03/01\" data-law-type=\"AR\" data-article-number=\"331\">FSMA</span>, tel que modifié par les arrêtés du 25 mars 2003 et du 22 décembre 2003;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'arrête royal du 30 novembre 1992 fixant les modalités de contribution aux frais de contrôle des entreprises soumises au contrôle de la <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-03-03/01\" data-law-type=\"AR\" data-article-number=\"331\">FSMA</span>;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les articles 22 à 24 de l'arrêté royal du 25 mars 1996 portant exécution des articles 9, 10, 2°, 4° et 6°, et de l'article 11, § 3, de la loi du 27 mars 1995 relative à l'intermédiation en assurances et à la distribution d'assurances;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les articles 14 et 32 de l'arrêté royal du 30 juin 1936 portant règlement général du contrôle des entreprises de prêts hypothécaires.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.746Z",
+  "tokenUsage": {
+    "prompt": 2187,
+    "completion": 528,
+    "total": 2715
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010024013",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté royal du 28 février 1994 relatif à la conservation, à la mise sur le marché et à l'utilisation des pesticides à usage agricole, modifié par les arrêtés royaux des 5 septembre 2001, 22 mai 2003 et 9 janvier 2007, est complété par les 17° et 18° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"17°\">\n          <span class=\"provision-text\">utilisateur professionnel : toute personne physique ou morale qui utilise des pesticides à usage agricole dans le cadre de son activité professionnelle, et notamment les opérateurs, les techniciens, les employeurs et les indépendants des secteurs agricole ou autre;</span>\n        </li>\n        <li class=\"provision\" data-number=\"18°\">\n          <span class=\"provision-text\">utilisateur amateur : toute personne qui utilise des produits phytopharmaceutiques mais qui ne répond pas à la définition visée au 17°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.249Z",
+  "tokenUsage": {
+    "prompt": 1780,
+    "completion": 321,
+    "total": 2101
+  }
+}

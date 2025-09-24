@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001003132",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le montant des contributions visées à l'article 12, § 2, de l'arrêté royal du 11 juin 1993 relatif à la composition, à l'organisation, au fonctionnement et à l'indépendance de la Cellule de traitement des informations financières, est adapté annuellement à l'évolution de l'indice des prix à la consommation.</p>\n      <p>Le montant des contributions visées à l'article 12, § 2, alinéa 1er et alinéa 2, 1° à 3°, de l'arrêté royal du 11 juin 1993 précité est adapté selon la formule suivante : &lt;Formule non reprise pour des raisons techniques&gt;</p>\n      <p>Le montant des contributions visées à l'article 12, § 2, alinéa 2, 4° et 5°, de l'arrêté royal du 11 juin 1993 précité, est adapté selon la formule suivante : &lt;Formule non reprise pour des raisons techniques&gt;</p>\n      <p>Dans ces formules, les symboles ont la signification suivante :</p>\n      <p>M n : le montant de la contribution indexé.</p>\n      <p>M l : le montant de la contribution établie par l'article 12, § 2, de l'arrêté royal du 11 juin 1993 précité.</p>\n      <p>I n : l'indice des prix à la consommation entrant en application au mois de janvier de l'année de perception de la contribution.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.207Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 407,
+    "total": 2383
+  }
+}

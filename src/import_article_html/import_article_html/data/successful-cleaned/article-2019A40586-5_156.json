@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019A40586",
+  "articleNumber": "5:156",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5:156\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5:156</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les statuts peuvent prévoir qu'en cas de décès, de faillite, de déconfiture, de liquidation ou d'interdiction d'un actionnaire, celui-ci est réputé démissionnaire de plein droit à cette date. L'actionnaire, ou, selon le cas, ses héritiers, créanciers ou représentants recouvrent la valeur de sa part de retrait de la manière déterminée par l'article 5:154. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-04-28/06\" data-law-type=\"L\" data-article-number=\"114\">En pareil cas, les délais visés à l'article 5:154, § 1er, alinéa 2, 1° et 2°, ne sont pas d'application.</span></p>\n        <p>Les actionnaires démissionnaires ou, en cas de décès, de faillite, de déconfiture, de liquidation ou d'interdiction d'un actionnaire, ses héritiers, créanciers ou représentants ne peuvent provoquer la liquidation de la société.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les statuts peuvent prévoir que l'actionnaire qui ne répond plus aux exigences statutaires pour devenir actionnaire est à ce moment réputé démissionnaire de plein droit. Les dispositions du paragraphe 1er s'appliquent par analogie, pour autant que les statuts n'y dérogent pas.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.099Z",
+  "tokenUsage": {
+    "prompt": 2201,
+    "completion": 465,
+    "total": 2666
+  }
+}

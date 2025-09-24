@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025000168",
+  "articleNumber": "97",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-97\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 97</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Au paragraphe 2, la phrase &quot; Elle est délivrée pour un usage temporaire ou pour un usage permanent. &quot; est abrogée</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Au paragraphe 3 alinéa 2, 1°, les mots &quot; pour un usage temporaire, &quot; sont abrogés</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Au paragraphe 3 alinéa 2, 2°, les mots &quot; pour un usage permanent, &quot; sont abrogés</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">Dans le texte néerlandais, au paragraphe 3 alinéa 2, 2°, le mot &quot; niet &quot; est inséré entre les mots &quot; geldigheidsduur &quot; et &quot; overschrijden &quot;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">Le paragraphe 4, 1 ° est abrogé</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">Au paragraphe 4, 2°, les mots &quot; points 6° et 7° &quot; sont remplacés par &quot; point 6° &quot;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.767Z",
+  "tokenUsage": {
+    "prompt": 1992,
+    "completion": 502,
+    "total": 2494
+  }
+}

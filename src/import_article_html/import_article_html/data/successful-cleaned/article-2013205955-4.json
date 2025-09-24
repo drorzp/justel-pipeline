@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013205955",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'audit énergétique d'un immeuble à appartements ou d'un immeuble d'hébergement collectif est dénommé \" audit de type 3 \" lorsque l'immeuble ne dispose pas d'une installation principale de chauffage collective.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'audit de type 3 contient et aborde comme suit les aspects visés à l'article 4, § 2, 1° à 4°, de l'arrêté :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">l'évaluation de la situation visée à l'article 4, § 2, 1° ou 2°, de l'arrêté, qui porte sur la performance énergétique de l'enveloppe de l'immeuble;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">les évaluations chiffrées des améliorations visées à l'article 4, § 2, 3° et 4°, de l'arrêté, qui sont basées sur la situation de l'enveloppe de l'immeuble visée à l'article 4, § 2, 1° ou 2°, de l'arrêté.</span>\n                    </li>\n                </ol>\n                <p>L'évaluation visée à l'article 4, § 2, 1° ou 2°, de l'arrêté contient un descriptif portant sur les parois déterminant le volume protégé de l'immeuble et leurs modifications éventuelles.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.171Z",
+  "tokenUsage": {
+    "prompt": 2050,
+    "completion": 500,
+    "total": 2550
+  }
+}

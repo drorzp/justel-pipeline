@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012206150",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 8 du même arrêté, il est ajouté dans le second alinéa un point 3° ainsi rédigé :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">par dérogation au point 2° et dans la mesure où le stage est concerné : aux moins 4 semaines de vacances consécutives doivent être accordées à chaque élève dans la période de juin à août inclus.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.170Z",
+  "tokenUsage": {
+    "prompt": 1557,
+    "completion": 202,
+    "total": 1759
+  }
+}

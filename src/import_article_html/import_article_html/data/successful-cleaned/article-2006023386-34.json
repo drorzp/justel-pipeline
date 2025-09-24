@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006023386",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans l'article 270, § 1er, de la loi-programme (I) du 24 décembre 2002, modifié par la loi du 23 décembre 2005, l'alinéa suivant est inséré entre les alinéas 5 et 6 :</p>\n        <blockquote>\n          <p>\" Les ministres nomment et révoquent des suppléants pour les membres visés sous 3°, 4° et 5°, sur proposition respectivement de chacun de ces membres effectifs. \"</p>\n        </blockquote>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.667Z",
+  "tokenUsage": {
+    "prompt": 1561,
+    "completion": 224,
+    "total": 1785
+  }
+}

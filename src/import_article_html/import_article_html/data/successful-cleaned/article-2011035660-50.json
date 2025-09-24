@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011035660",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 50</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 13.3.3, les mots \" articles 4.1.22, 9°, et 4.3.2, 4° et 5° \" sont remplacés par les mots \" articles 4.1.22, 2° à 4° inclus, et 4.3.2, 4° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.215Z",
+  "tokenUsage": {
+    "prompt": 1506,
+    "completion": 156,
+    "total": 1662
+  }
+}

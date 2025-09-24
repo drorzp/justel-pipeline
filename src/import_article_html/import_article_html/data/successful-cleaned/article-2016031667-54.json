@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016031667",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 54</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les opérations de la politique de la ville relatives à l'aménagement du territoire, visé à l'article 51, alinéa 1er, a), sont :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la lutte contre les biens immeubles à l'abandon ou inoccupés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">la rénovation, la réhabilitation ou la démolition suivie de la reconstruction de biens immeubles insalubres ou inadaptés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les mesures d'intervention rapide contre les dégradations de l'espace public.</span>\n                </li>\n            </ol>\n            <p>Les opérations de la politique de la ville relatives à l'aménagement du territoire, visées à l'alinéa 1er, 1° et 2°, ont pour objectif principal d'affecter ces biens immeubles à du logement assimilé au logement social.</p>\n            <p>Le Gouvernement détaille le contenu de ces opérations.</p>\n            <p>Le Gouvernement définit les conditions auxquelles il y a lieu de considérer qu'un bien immeuble est à l'abandon, inoccupé ou insalubre au sens du présent article. Un bien immeuble est inadapté lorsque sa destination et ses aménagements actuels ne sont plus adaptés aux besoins d'occupants actuels ou futurs.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.299Z",
+  "tokenUsage": {
+    "prompt": 1951,
+    "completion": 434,
+    "total": 2385
+  }
+}

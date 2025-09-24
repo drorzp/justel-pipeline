@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001A13154",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le salaire horaire afférent au travail supplémentaire éventuel est calculé sur la base du salaire mensuel, augmenté de la prime mensuelle pour le travail en équipe et est fixé à 1/173,33 du montant visé ci-dessus.</p>\n      <p class=\"intro-text\">Le salaire afférent au travail éventuel du dimanche est calculé sur la base du salaire mensuel, augmenté de la prime mensuelle pour le travail en équipe et s'établit comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pour des prestations de travail de huit heures au maximum et moins :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"8/173,33\">8/173,33 du montant visé ci-dessus, indépendamment de la durée des prestations de travail,</li>\n            <li class=\"sub-provision\" data-marker=\"1/173,33\">et augmenté par heure de prestations de travail de 1/173,33 du montant visé ci-dessus;</li>\n          </ul>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour des prestations de travail de plus de huit heures :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"1°\">pour les huit premières heures, le salaire prévu sous 1°</li>\n            <li class=\"sub-provision\" data-marker=\"article 14\">et à partir de la neuvième heure, le double de ce qui est prévu à l'article 14, 1 alinéa.</li>\n          </ul>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.678Z",
+  "tokenUsage": {
+    "prompt": 1851,
+    "completion": 459,
+    "total": 2310
+  }
+}

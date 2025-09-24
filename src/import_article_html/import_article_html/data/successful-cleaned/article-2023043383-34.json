@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023043383",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Une enveloppe globale de 1,878 millions d'euros est affectée aux catégories de dépenses suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux frais de fonctionnement de chacune des chambres Enseignement ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux périodes complémentaires visées à l'article 15, § 2, alinéa 2, 2°, c) ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">aux actions et/ou des projets qui favorisent, en inter-réseaux, la découverte, la promotion ou la valorisation de l'enseignement secondaire qualifiant conformément à l'article 31, § 1er, alinéa 2, 2°.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Le Gouvernement fixe annuellement la répartition de l'enveloppe globale entre les catégories de dépenses visées à l'alinéa 1er. Sur la base de cette répartition :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les moyens alloués pour couvrir les frais de fonctionnement visés à l'alinéa 1er, 1°, sont répartis de manière égale entre les chambres Enseignement ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les moyens alloués aux dépenses visées à l'alinéa 1er, 1° et 2°, sont répartis sur la base de la part d'élèves fréquentant l'enseignement secondaire qualifiant au sein de la zone, par rapport aux élèves fréquentant l'enseignement secondaire qualifiant dans l'ensemble des zones.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.770Z",
+  "tokenUsage": {
+    "prompt": 2061,
+    "completion": 533,
+    "total": 2594
+  }
+}

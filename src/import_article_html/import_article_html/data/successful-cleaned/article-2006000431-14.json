@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006000431",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 94 de la même loi, modifié par la loi du 2 avril 2001, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \" services déconcentrés de la police fédérale visés à l'article 93, 3° et 4° \" sont remplacés par les mots \" directions et services déconcentrés de la police fédérale visés à l'article 93, § 1er, alinée 2, 1° à 3°, \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les mots \" directions et \" sont insérés entre les mots \" des \" et \" services \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.801Z",
+  "tokenUsage": {
+    "prompt": 1682,
+    "completion": 280,
+    "total": 1962
+  }
+}

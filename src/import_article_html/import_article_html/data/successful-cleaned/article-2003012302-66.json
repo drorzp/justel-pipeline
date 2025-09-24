@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003012302",
+  "articleNumber": "66",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-66\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 66</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les employeurs qui, entre le 1er octobre 2003 et le 31 décembre 2003, ont réduit le temps de travail et/ou ont instauré la semaine de quatre jours tout en remplissant les conditions pour obtenir la réduction visée aux articles 5 à 12 de la loi du 10 août 2001 relative à la conciliation entre l'emploi et la qualité de vie, une réduction groupe cible telle que visée à l'article 22 est octroyée à partir du 1er janvier 2004.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les employeurs qui avant le 1er octobre 2003 ont réduit le temps de travail en remplissant les conditions pour obtenir la réduction visée à l'article 8, § 1er, 2° de la loi précitée du 10 août 2001, une réduction groupe cible pour réduction du temps de travail telle que visée à l'article 22 est octroyée (, par dérogation à l'article 26, alinéa 3,) à partir du 1er janvier 2004. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-01-21/33\" data-law-type=\"AR\" data-article-number=\"83\">AR 2004-01-21/33, art. 83, 002;<strong>En vigueur :</strong>01-01-2004</span></p>\n        <p>Le nombre de trimestres durant lesquels la réduction visée à l'article 22, § 1er, 1°, 2° et 3° peut être appliquée est diminué par un nombre de trimestres qui est obtenu en multipliant le montant de la réduction visée à l'article 8, § 1er, 2°, a), b) ou c) de la loi précitée du 10 août 2001 par le nombre de trimestres pour lesquels l'employeur est venu en compte et divise par 400, le résultat de cette division étant arrondi vers le bas.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.848Z",
+  "tokenUsage": {
+    "prompt": 2264,
+    "completion": 598,
+    "total": 2862
+  }
+}

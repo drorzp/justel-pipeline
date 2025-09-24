@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023031465",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 435 du même Code tel qu'applicable en Région de Bruxelles-Capitale aux impôts régionaux visés à l'article 3, alinéa 1er, 10° et 11°, de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions, remplacé par la loi du 11 février 2019 et modifié par l'ordonnance du 28 novembre 2019, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">dans le paragraphe 1er, alinéa 2, le mot \" huitième \" est modifié par le mot \" septième \" ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">dans le paragraphe 3, alinéa 1er, le mot \" huit \" est remplacé par le mot \" sept \".</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.721Z",
+  "tokenUsage": {
+    "prompt": 1754,
+    "completion": 312,
+    "total": 2066
+  }
+}

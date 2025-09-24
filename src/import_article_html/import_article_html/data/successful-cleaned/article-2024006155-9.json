@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006155",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3 du décret du 25 février 1997 relatif à l'enseignement fondamental, modifié en dernier lieu par le décret du 14 juillet 2023, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 4° est complété par la phrase suivante : \" La présente définition ne s'applique pas à la réglementation relative au droit à l'inscription, visée au chapitre IV, sections 3 et 4, et chapitres IV/1, IV/2 et IV/3. \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">des nouveaux points 4° bis et 4° bis/1, rédigés comme suit, sont insérés entre les points 4° et 4° bis, qui devient le point 4° bis/2 :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"4° bis\">isolement : le séjour d'une personne dans un espace que la personne ne peut pas quitter de manière autonome ;</li>\n            <li class=\"sub-provision\" data-marker=\"4° bis/1\">chambre d'isolement : un espace spécifiquement aménagé et hautement sécurisé, que la personne ne peut pas quitter de manière autonome ;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">il est inséré un point 14° quater/1, rédigé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"14° quater/1\">contention : toute action ou utilisation de tout matériel qui restreint, empêche ou entrave la liberté de mouvement d'une personne, par laquelle la personne ne peut pas retrouver sa liberté de mouvement de manière indépendante ;</li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.565Z",
+  "tokenUsage": {
+    "prompt": 2123,
+    "completion": 546,
+    "total": 2669
+  }
+}

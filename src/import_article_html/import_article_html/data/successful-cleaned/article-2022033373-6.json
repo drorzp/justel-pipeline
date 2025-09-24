@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022033373",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour pouvoir prétendre à la compensation financière, le musée doit répondre aux conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">bénéficier d'une reconnaissance en tant que musée, pôle muséal ou bénéficier d'une des aides définies au chapitre 5 du décret, pour autant que cette reconnaissance ou cette aide ait été octroyée dans le cadre d'une convention pluriannuelle débutant au plus tard au 1er janvier 2023 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">démontrer qu'un droit d'accès aux espaces d'exposition permanente était facturé aux groupes scolaires durant l'année scolaire 2021-2022 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">mettre à disposition un fascicule pédagogique pour les élèves et/ou un guide pédagogique pour les encadrants, téléchargeable gratuitement sur le site internet du musée ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">avoir enregistré la fréquentation scolaire du musée au moins une année entre 2017 et 2021.</span>\n        </li>\n      </ol>\n      <p>Par dérogation à l'alinéa 1er, les musées qui étaient fermés au public durant la totalité de l'année scolaire 2021-2022 peuvent démontrer qu'un droit d'accès aux espaces d'exposition permanente était facturé aux groupes scolaires lors de l'année scolaire précédant leur fermeture.</p>\n      <p>Par dérogation à l'alinéa 1er, les musées qui sont reconnus pour la première fois au 1er janvier 2023 ne doivent pas répondre aux conditions sous 2° et 4°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.811Z",
+  "tokenUsage": {
+    "prompt": 2063,
+    "completion": 512,
+    "total": 2575
+  }
+}

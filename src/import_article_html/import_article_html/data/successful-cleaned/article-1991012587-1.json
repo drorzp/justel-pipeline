@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991012587",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'attestation permettant aux employeurs de bénéficier de l'application des articles 114 à 131 de la loi-programme du 30 décembre 1988 pour les travailleurs visés aux articles 118, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1°</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2°</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">3°</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">6°</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">(119, a), c), e) et f)) de la même loi doit être demandée auprès du bureau régional compétent de l'Office national de l'Emploi, au plus tard le trentième jour suivant celui du début de l'occupation du travailleur concerné. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2001-09-05/37\" data-law-type=\"AR\" data-article-number=\"1\">&lt;AR 2001-09-05/37, art. 1, 002; En vigueur : 10-09-2000&gt;</span></p>\n            <p class=\"closing-text\">Les demandes globales d'attestation concernant plusieurs travailleurs ne sont pas prises en considération. Sont seules recevables, les demandes individuelles mentionnant l'identité de l'employeur, celle du travailleur, son domicile, et la date du début de son occupation ainsi que la disposition légale précise dont l'employeur souhaite bénéficier.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.489Z",
+  "tokenUsage": {
+    "prompt": 1907,
+    "completion": 494,
+    "total": 2401
+  }
+}

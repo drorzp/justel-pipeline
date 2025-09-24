@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010003257",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les produits d'accise mis à la consommation en exonération de l'accise sur la base de l'article 20, 7° à 10° et 12°, de la loi générale du 18 juillet 1977 sur les douanes et accises, sont enlevés de l'établissement d'accise sous le couvert du document 136F conforme au modèle figurant à l'annexe XI de l'arrêté ministériel du 22 juillet 1998 relatif aux déclarations en matière de douane et d'accise.</p>\n                <p>Ce document est complété conformément à la notice figurant en annexe XII de cet arrêté.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les produits d'accise déclarés pour la mise à la consommation en exonération de l'accise sur la base de l'article 20, 11°, de la loi générale du 18 juillet 1977 sur les douanes et accises, sont enlevés de l'établissement d'accise sous le couvert du 2e exemplaire du certificat défini par le règlement (CE) n° 31/96 de la Commission du 10 janvier 1996 relatif au certificat d'exonération des droits d'accise.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.283Z",
+  "tokenUsage": {
+    "prompt": 2001,
+    "completion": 410,
+    "total": 2411
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040033",
+  "articleNumber": "48",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-48\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 48</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 13/3 du même décret, inséré par le décret du 24 avril 2015, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, les points</span>\n        </li>\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">sont abrogés ;</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 2 il est ajouté un point</span>\n        </li>\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">l'employeur, ses mandataires ou préposés qui ne traitent pas le travailleur ou client de manière respectueuse et non-discriminatoire, telle que visée à l'article 2, § 2, alinéa premier, i et j, de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.723Z",
+  "tokenUsage": {
+    "prompt": 1795,
+    "completion": 401,
+    "total": 2196
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048600",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 38</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 307 du même Code, le paragraphe 1/4, inséré par la loi du 25 décembre 2017, est remplacé par ce qui suit:</p>\n    <section class=\"paragraph\" id=\"para-1-4\">\n      <h3 class=\"paragraph-marker\">§ 1/4.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Dans le cas où l'existence d'une construction juridique est mentionnée dans la déclaration à l'impôt des personnes physiques ou à l'impôt des personnes morales, sont mentionnés, dans une annexe de la déclaration à l'impôt des personnes physiques ou à l'impôt des personnes morales dont le modèle est déterminé par le Roi:</p>\n        <ul class=\"sub-provisions\">\n          <li class=\"sub-provision\" data-marker=\"-\"><span class=\"sub-provision-text\">le nom complet, la forme juridique, l'adresse et le cas échéant le numéro d'identification de la construction juridique;</span></li>\n          <li class=\"sub-provision\" data-marker=\"-\"><span class=\"sub-provision-text\">le nom et l'adresse de l'administrateur de cette construction juridique lorsqu'il s'agit d'une construction juridique visée à l'article 2, § 1er, 13°, a);</span></li>\n          <li class=\"sub-provision\" data-marker=\"-\"><span class=\"sub-provision-text\">les revenus repris dans la déclaration qui ont été recueillis par chaque construction juridique séparée, de même que le montant du patrimoine de la construction juridique à la fin de la période imposable, la partie du patrimoine qui a été apportée par le fondateur, les dividendes visés à l'article 18, alinéa 1er, 3° et 3° /1, qui étaient repris dans la déclaration, ainsi que ceux qui ont été exonérés en application de l'article 21, alinéa 1er, 12° et ceux qui ne doivent pas être repris dans la déclaration parce qu'ils ont fait l'objet d'une retenue de précompte mobilier.</span></li>\n        </ul>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.502Z",
+  "tokenUsage": {
+    "prompt": 2137,
+    "completion": 531,
+    "total": 2668
+  }
+}

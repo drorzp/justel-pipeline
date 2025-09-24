@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044352",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 6, alinéa 1er, 2°, du même arrêté, les mots &quot; du contrat de création, du contrat de services, du contrat de diffusion ou &quot; sont insérés entre les mots &quot; la durée &quot; et les mots &quot; du contrat-programme &quot;.</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">Dans le même alinéa, les mots &quot; visée à l'article 35, 3°, du décret &quot; sont remplacés par les mots &quot; prévue par son contrat &quot;.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Dans le même article, l'alinéa 3 est remplacé par ce qui suit :</p>\n            <p class=\"closing-text\">Par dérogation à l'alinéa 1er, 1° et 2°, le Ministre peut, en cas de circonstances exceptionnelles dûment motivées par l'opérateur, autoriser un plan d'assainissement de quatre ans maximum excédant le terme du contrat en cours, sous réserve du renouvellement du contrat de création, du contrat de services, du contrat de diffusion ou du contrat-programme concerné.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.859Z",
+  "tokenUsage": {
+    "prompt": 1857,
+    "completion": 372,
+    "total": 2229
+  }
+}

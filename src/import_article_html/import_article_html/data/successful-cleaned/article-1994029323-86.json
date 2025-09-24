@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994029323",
+  "articleNumber": "86",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-86\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 86</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les décisions des commissions paritaires visées à l'article 85, alinéa 1er,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">peuvent, à leur demande, être rendues obligatoires, par arrêté du Gouvernement.</span>\n                    </li>\n                </ol>\n                <p>Si le Gouvernement estime ne pas pouvoir donner suite à cette demande, il en fait connaître les motifs à la commission intéressée.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.122Z",
+  "tokenUsage": {
+    "prompt": 1571,
+    "completion": 254,
+    "total": 1825
+  }
+}

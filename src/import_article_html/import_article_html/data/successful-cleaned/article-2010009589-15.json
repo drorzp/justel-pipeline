@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010009589",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 764, 10°, du même Code, modifié par la loi du 30 juin 1971, la loi du 26 novembre 1986, la loi du 26 juin 1990, la loi du 3 août 1992, la loi du 23 avril 2005, la loi du 17 juin 2002, la loi du 25 février 2003, la loi du 13 septembre 2005, la loi du 13 décembre 2005, la loi du 10 mai 2007 et la loi du 19 juin 2009, est remplacé par le texte suivant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">les demandes prévues aux articles 578, 11°, 580, 2°, 3°, 6° à 18°, 581, 2°, 3°, 9° et 10°, 582, 1°, 2°, 6°, 8° et 9°, 583 et 587septies;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.288Z",
+  "tokenUsage": {
+    "prompt": 1810,
+    "completion": 326,
+    "total": 2136
+  }
+}

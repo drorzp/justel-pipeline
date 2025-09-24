@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023205585",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">- A l'article 91undequadragies du même arrêté royal, inséré par le décret du 18 juin 2018 et modifié par le décret du 22 juin 2020, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 2, les mots \" et § 2, alinéa 1er, \" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par un alinéa rédigé comme suit :</span>\n          <p>\" L'article 91septies, § 2, alinéa 1er, 4° et 6°, et alinéas 3 à 5, l'article 91octies, § 1er, alinéa 1er, et l'article 169, 2° à 4°, s'appliquent également au secrétaire de direction nommé à titre définitif en application de l'article 91septies, § 3. \"</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.414Z",
+  "tokenUsage": {
+    "prompt": 1824,
+    "completion": 352,
+    "total": 2176
+  }
+}

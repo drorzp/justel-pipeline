@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009003463",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2, § 1er, alinéa 1er, du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol>\n                <li class=\"sub-provision\" data-marker=\"a)\">dans la phrase liminaire, les mots \"article 50, § 1er, 3°\" sont remplacés par les mots \"article 50, § 1er, alinéa 1er, 3°\";</li>\n                <li class=\"sub-provision\" data-marker=\"b)\">au 2°, les mots \"article 39quater, § 1er, 1° et 3°\" sont remplacés par les mots \"article 39quater, § 1er, alinéa 1er, 1° et 3°\".</li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.027Z",
+  "tokenUsage": {
+    "prompt": 1680,
+    "completion": 263,
+    "total": 1943
+  }
+}

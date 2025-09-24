@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036375",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\"><strong>ARTICLE</strong>Article <span class=\"footnote footnote-reference\">1</span>.</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du 21 décembre 1988 portant organisation de l'emploi et de la formation professionnelle, modifié par les arrêtés du Gouvernement flamand des 18 novembre 1997, 6 juillet 1999, 14 avril 2000, 6 décembre 2002, 29 octobre 2004 et 22 juillet 2005, il est ajouté un point 36° et un point 37°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"36°\">\n          <span class=\"provision-text\">le bureau intérimaire: le bureau de placement privé agréé, visé à l'article 8 du décret du 13 avril 1999 relatif au placement privé en Région flamande;</span>\n        </li>\n        <li class=\"provision\" data-number=\"37°\">\n          <span class=\"provision-text\">l'employeur-utilisateur : l'entreprise, l'association sans but lucratif, ou les autorités administratives où est accordé l'intérim IBO tel que défini à l'article 133sexies du présent arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.729Z",
+  "tokenUsage": {
+    "prompt": 1829,
+    "completion": 360,
+    "total": 2189
+  }
+}

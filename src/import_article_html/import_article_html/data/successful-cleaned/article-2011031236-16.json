@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011031236",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 22 du même arrêté, il est apporté les modifications suivantes :</p>\n            <ol>\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    au 5°, les mots \"ou assimilés\" sont ajoutés après le mot \"photovoltaïques\";\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    aux 6° et 7° les mots \"moyennant le respect des deux conditions énumérées au 2°\" sont insérés en début de phrase.\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.204Z",
+  "tokenUsage": {
+    "prompt": 1558,
+    "completion": 202,
+    "total": 1760
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999027439",
+  "articleNumber": "88",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-88\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 88</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2005-02-03/39\" data-law-type=\"DRW\" data-article-number=\"116\">&lt;DRW 2005-02-03/39, art. 116, 012; En vigueur : 11-03-2005&gt;</span>\n                Si le fonctionnaire technique et le fonctionnaire délégué n'ont pas envoyé au demandeur la décision visée à l'article 86, § 1er, alinéa 1er, ou celle visée à l'article 86, § 3, la demande est considérée comme recevable, au terme des délais prévus par ces dispositions. La procédure est poursuivie.\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-09-28/28\" data-law-type=\"DRW\" data-article-number=\"12\">\n                    Par dérogation à l'alinéa 1er, la demande est irrecevable et la procédure n'est pas poursuivie si la demande ne contient pas les documents visés à l'article 85, alinéa 2, \n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"6°\">\n                            <span class=\"provision-text\">6°</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">7°</span>\n                        </li>\n                    </ol>\n                </span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.289Z",
+  "tokenUsage": {
+    "prompt": 1940,
+    "completion": 427,
+    "total": 2367
+  }
+}

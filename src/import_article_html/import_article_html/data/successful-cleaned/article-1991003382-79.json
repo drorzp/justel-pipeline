@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991003382",
+  "articleNumber": "79",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-79\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 79</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1996-12-23/36\" data-law-type=\"AR\" data-article-number=\"11\">&lt;AR 1996-12-23/36, art. 11, 023; En vigueur : 31-03-1997&gt;</span> La SA Société fédérale de Participations a le droit de présenter, sur une liste double, les candidats pour le nombre de mandats d'administrateurs qui est proportionnellement égal à sa part des droits de vote attachés aux titres representatifs ou non du capital, émis par la société, abstraction faite des mandats d'administrateurs membres du comité de direction.\n            </p>\n            <p class=\"intro-text\">\n                S'ils sont plusieurs, les membres du conseil d'administration qui sont nommés sur présentation de la SA Société fédérale de Participations comptent autant de membres d'expression française que de membres d'expression néerlandaise, à l'exception d'un membre, si leur nombre est impair. Ils sont soumis aux dispositions de l'article 202, § 1er,\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de la présente loi.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.739Z",
+  "tokenUsage": {
+    "prompt": 1870,
+    "completion": 406,
+    "total": 2276
+  }
+}

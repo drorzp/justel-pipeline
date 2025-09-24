@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023200114",
+  "articleNumber": "69",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-69\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 69</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 35 de la loi du 15 mai 2014 portant des dispositions diverses, modifiée en dernier lieu par la loi du 18 février 2018, est complété par les 20°, 21° et 22° rédigés comme suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"20°\"><span class=\"provision-text\">rentier: toute personne qui reçoit des prestations périodiques tombant dans le champ d'application de la présente loi et de ses arrêtés d'exécution;</span></li>\n        <li class=\"provision\" data-number=\"21°\"><span class=\"provision-text\">support durable: un instrument permettant à un affilié ou à un rentier de stocker des informations qui lui sont communiquées ou sont mises à sa disposition, personnellement, d'une manière permettant de s'y reporter à l'avenir et pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l'identique des informations stockées;</span></li>\n        <li class=\"provision\" data-number=\"22°\"><span class=\"provision-text\">Sigedis: l'ASBL Sigedis, créée conformément à l'article 12 de l'arrêté royal du 12 juin 2006 portant exécution du Titre III, Chapitre II, de la loi du 23 décembre 2005 relative au pacte de solidarité entre les générations.\".</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.404Z",
+  "tokenUsage": {
+    "prompt": 1911,
+    "completion": 400,
+    "total": 2311
+  }
+}

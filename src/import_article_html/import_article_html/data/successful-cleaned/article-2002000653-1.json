@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002000653",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La Direction de l'Administration du Personnel du Ministère de la Région de Bruxelles-Capitale est autorisée à accéder aux informations visées à l'article 3, alinéa 1er, 1° à 6°, 8° et 9°, et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques.</p>\n      <p>L'accès aux informations est autorisé exclusivement pour l'accomplissement des tâches relatives à l'exécution des lois relatives aux allocations familiales pour travailleurs salariés, coordonnées le 19 décembre 1939.</p>\n      <p>L'accès aux informations visé à l'alinéa 1 est réservé :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">au Directeur de la Direction de l'Administration du Personnel du Ministère de la Région de Bruxelles-Capitale ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">aux membres du personnel de la Direction de l'Administration du Personnel du Ministère de la Région de Bruxelles-Capitale que le Gouvernement de cette Région ou le Secrétaire général dudit Ministère désigne à cet effet, nommément et par écrit, en raison de leurs fonctions et dans les limites de leurs attributions respectives.</span></li>\n      </ol>\n      <p>L'accès aux modifications successives aux informations visées à l'alinéa 1 est limité à une période d'une année précédant la date de communication de ces informations.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.794Z",
+  "tokenUsage": {
+    "prompt": 1975,
+    "completion": 427,
+    "total": 2402
+  }
+}

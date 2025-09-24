@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019030053",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er du décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le 4° est remplacé par \" 4° le domaine : la subdivision administrative regroupant l'ensemble des cours d'une orientation d'études artistique donnée ; \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est ajouté un 9° et 10°, rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"9°\">\n                            <span class=\"provision-text\">le Service de l'inspection de l'enseignement artistique : le service visé à l'article 3, alinéa 2, 5°, du décret du 8 mars 2007 relatif au service général de l'inspection, au service de conseil et de soutien pédagogiques de l'enseignement organisé par la Communauté française, aux cellules de conseil et de soutien pédagogiques de l'enseignement subventionné par la Communauté française et au statut des membres du personnel du service général de l'inspection et des conseillers pédagogiques ;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"10°\">\n                            <span class=\"provision-text\">le Conseil général : le Conseil général de l'enseignement secondaire artistique à horaire réduit visé à l'article 121.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.403Z",
+  "tokenUsage": {
+    "prompt": 1982,
+    "completion": 462,
+    "total": 2444
+  }
+}

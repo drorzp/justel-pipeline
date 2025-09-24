@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017031236",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 7 du même arrêté, remplacé par l'arrêté ministériel du 22 janvier 2016, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 1er, il est ajouté un point 3°, rédigé comme suit : \"3° les éleveurs qui disposent d'un maximum individuel, tel que visé à l'article 44 de l'arrêté du 24 octobre 2014, d'au moins cinq droits à la prime, obtiennent à titre unique, après l'adhésion d'un jeune éleveur, tel que visé à l'article 43, 2°, de l'arrêté du 24 octobre 2014, au cours de l'année précédant l'année de campagne concernée, quinze droits à la prime en sus de leur maximum individuel, si l'éleveur n'a pas antérieurement bénéficié de droits en provenance de la réserve.\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 3, alinéa premier, le mot \" jeune \" est abrogé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au paragraphe 3, alinéa premier, le membre de phrase \" 1° \" est abrogé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">au paragraphe 3, alinéa deux, le membre de phrase \"aux paragraphes 1er, 2° et 2\" est remplacé par le membre de phrase \"au paragraphe 2\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.740Z",
+  "tokenUsage": {
+    "prompt": 2073,
+    "completion": 502,
+    "total": 2575
+  }
+}

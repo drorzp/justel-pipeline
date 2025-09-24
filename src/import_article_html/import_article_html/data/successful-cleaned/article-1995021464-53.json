@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995021464",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 53</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 171 de la même loi coordonnée, est remplacé par la disposition suivante:</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 171.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Sans préjudice de l'application des articles 269 à 274 du Code pénal, est punie d'une peine d'emprisonnement de huit jours à un mois et/ou d'une amende de 26 à 500 francs, toute personne qui fournit des renseignements inexacts ou qui met obstacle à l'accomplissement de la mission, soit des médecins-conseils, des médecins-inspecteurs, des pharmaciens-inspecteurs, des infirmiers-contrôleurs, des contrôleurs, des contrôleurs-adjoints, des inspecteurs ou des inspecteurs-adjoints visés respectivement aux articles 153, 146, 151 et 162 ou des agents délégués par eux, soit des fonctionnaires désignés conformément à l'article 191, alinéa 1er, 7° et 8°, soit des inspecteurs ou inspecteurs-adjoints de l'Inspection sociale du Ministère des Affaires sociales, de la santé publique et de l'environnement.</p>\n                    <p>Toutefois, l'invocation du secret professionnel par le médecin, le praticien de l'art dentaire ou le pharmacien peut constituer une cause de justification des faits prévus à l'alinéa précédent lorsqu'elle vise des documents ou renseignements autres que ceux qu'une disposition légale ou réglementaire oblige à produire ou à conserver à l'usage des médecins- et pharmaciens-inspecteurs.</p>\n                    <p>Aux fins d'estimer si la justification ainsi invoquée est fondée, le juge peut désigner comme expert, selon le cas, un membre du Conseil de l'Ordre des médecins ou des pharmaciens du ressort.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.000Z",
+  "tokenUsage": {
+    "prompt": 2137,
+    "completion": 498,
+    "total": 2635
+  }
+}

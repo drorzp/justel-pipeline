@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999027517",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    La Communauté germanophone, sur le territoire de la Région de langue allemande, exerce \n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-12-17/09\" data-law-type=\"DRW\" data-article-number=\"1\">les compétences de la Région wallonne dans la matière de l'emploi, visées à l'article 6, § 1er, IX, 1° à 7° et 9° à 13°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, ci-après dénommée loi spéciale du 8 août 1980</span>.\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    Le Conseil et le Gouvernement de la Communauté germanophone exercent les compétences de la Région wallonne qui se rapportent à cette matière.\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 3.</h3>\n                <div class=\"paragraph-content\">\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-12-17/09\" data-law-type=\"DRW\" data-article-number=\"1\">Un suivi spécifique des politiques menées dans les matières d'emploi est mis en place dans le cadre d'un accord de coopération conclu entre la Région wallonne et la Communauté germanophone.</span>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.290Z",
+  "tokenUsage": {
+    "prompt": 1965,
+    "completion": 452,
+    "total": 2417
+  }
+}

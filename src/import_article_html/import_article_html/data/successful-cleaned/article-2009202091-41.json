@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202091",
+  "articleNumber": "41",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-41\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 41</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Gouvernement flamand peut arrêter les conditions auxquelles un centre agréé de services de soins et de logement peut :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'enceinte de ses bâtiments offrir des soins aux personnes âgées tels que visés à l'article 38, 2°, 3°, 4° et 5° aux usagers de 65 ans ou plus qui n'y résident pas;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">en dehors de ses bâtiments offrir des soins aux personnes âgées tels que visés à l'article 38, 2°, 3°, 4° et 5° aux usagers de 65 ans ou plus.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Ces conditions concernent entre autres les activités à déployer, les caractéristiques des usagers et la coordination nécessaire avec les autres dispensateurs de soins.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.306Z",
+  "tokenUsage": {
+    "prompt": 1749,
+    "completion": 314,
+    "total": 2063
+  }
+}

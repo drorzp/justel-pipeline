@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008022225",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté produit ses effets le 1er avril 2006, à l'exception de :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'article 1er qui produit ses effets le 1er mai 2002;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">l'article 3, 1° qui produit ses effets le 29 avril 2004;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">l'article 3, 18° qui produit ses effets le 30 juin 2004;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">l'article 3, 2° qui produit ses effets le 1er juillet 2005;</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">l'article 3, 3° qui produit ses effets le 30 décembre 2005;</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">l'article 3, 4° qui produit ses effets le 10 février 2006;</span></li>\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">l'article 3, 19° qui produit ses effets le 1er juillet 2006;</span></li>\n                <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">l'article 3, 16° et 17° qui produit ses effets le 1er janvier 2007.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.008Z",
+  "tokenUsage": {
+    "prompt": 1968,
+    "completion": 484,
+    "total": 2452
+  }
+}

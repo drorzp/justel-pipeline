@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042822",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Notification des modifications Chaque titulaire d'agrément notifie immédiatement à Bruxelles Environnement toute modification de l'un des éléments du dossier concernant son agrément, entre autres :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1.\">\n          <span class=\"provision-text\">les personnes visées à l'article 6;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2.\">\n          <span class=\"provision-text\">les moyens techniques détenus et utilisés par le titulaire de l'agrément visés à l'article 8;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3.\">\n          <span class=\"provision-text\">les moyens financiers du titulaire de l'agrément visés à l'article 9;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4.\">\n          <span class=\"provision-text\">les sous-traitants, tels que visés à l'article 6, § 1er, 2° et § 2, 2°, à l'article 7, § 2 et à l'article 8, 2° et 3°, à qui il est fait appel.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">La notification de ces modifications s'effectue à l'aide d'un formulaire dont le contenu minimum est déterminé dans l'annexe 3. Bruxelles Environnement met ces formulaires à disposition sur son site web, et les adapte aux progrès scientifiques et techniques ou à l'évolution de la règlementation.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.059Z",
+  "tokenUsage": {
+    "prompt": 1922,
+    "completion": 429,
+    "total": 2351
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008035428",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 16 de l'arrêté du Gouvernement flamand du 9 décembre 2005 relatif à l'utilisation des capitaux provenant du Fonds B2 par le Fonds flamand des Familles nombreuses, en exécution du Code flamand du Logement, est remplacé par les dispositions suivantes :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 16.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans le cas d'un emprunt ou d'un achat, le revenu à la date de référence, visée respectivement à l'article 1er, alinéa 1er, 4°, a), ou b), ne peut être supérieur à 37.190 euros, à majorer de 2.480 euros par personne à charge. Ces montants sont liés à l'indice des prix à la consommation de janvier 1999. Ils sont adaptés annuellement le 1er janvier à l'indice du mois de décembre qui précède l'adaptation et arrondis à la dizaine la plus proche. Si le demandeur n'a pas de revenu ou un revenu non imposable, tel que visé à l'article 1er, alinéa 1er, 6°, il est censé s'élever à 7.000 euros pour l'application du présent alinéa.</p>\n          <p>Pour le loyer, le revenu à la date de référence, visée à l'article 1er, alinéa 1er, 4°, b), sous réserve de l'application de l'article 29, § 2, de l'arrêté du Gouvernement flamand du 12 octobre 2007 réglementant le régime de location sociale et portant exécution du titre VII du Code flamand du Logement, ne peut pas être supérieur aux limites de revenu, visées à l'article 3, § 2 du même arrêté. Par dérogation à l'article 1er, alinéa 1er, 6° et 7°, la notion revenu, visée à l'article 1er, 15° et la notion personne à charge, visée à l'article 1er, 22°, sont appliquées pour l'application du présent alinéa.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.043Z",
+  "tokenUsage": {
+    "prompt": 2225,
+    "completion": 559,
+    "total": 2784
+  }
+}

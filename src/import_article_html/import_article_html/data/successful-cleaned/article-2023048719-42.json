@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048719",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 42</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour chaque formation par le biais d'un programme de formation, à l'exception des formations visées à l'article 35, 2° et 7°, de l'arrêté du 6 octobre 2023, le centre général de formation ou le centre de formation apicole introduit dans l'e-guichet, au plus tard lors de l'introduction de la demande de paiement visée à l'article 56 de l'arrêté précité, une liste des participants qui comporte l'ensemble des données suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le numéro de registre national de chaque participant, ou les données suivantes :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">le prénom et le nom ;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">le domicile ;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">la date de naissance ;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">en fonction du participant :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">pour les personnes visées à l'article 34, alinéa 1er, 1°, 2°, 3°, 4° et 5°, de l'arrêté précité : le numéro d'entreprise de l'exploitation dans laquelle le participant exerce une activité agricole ;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">pour les personnes visées à l'article 34, alinéa 1er, 7°, de l'arrêté précité : le numéro d'enregistrement auprès de l'Agence fédérale pour la Sécurité de la Chaîne Alimentaire.</li>\n          </ol>\n        </li>\n      </ol>\n      <p class=\"closing-text\">L'entité compétente met un modèle à disposition pour la liste des participants visée à l'alinéa 1er.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.405Z",
+  "tokenUsage": {
+    "prompt": 2108,
+    "completion": 539,
+    "total": 2647
+  }
+}

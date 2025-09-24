@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042481",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <p class=\"intro-text\">A l'article 22 du même arrêté, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">l'alinéa 1er est remplacé par ce qui suit : \" En application de l'annexe VII, partie I, II, A), du règlement (UE) n° 1308/2013, l'établissement mentionne sur l'étiquette l'âge d'abattage des bovins âgés de moins de huit mois par le biais de la mention \" âge d'abattage : jusqu'à 8 mois \". L'établissement peut remplacer cette mention par la lettre d'identification \" V \". \" ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">dans l'alinéa 2, les mots \" qui n'ont pas plus \" sont chaque fois remplacés par les mots \" âgés de moins \" ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">l'alinéa 3 est complété par un point 5° et un point 6°, rédigés comme suit :</span>\n        <ol class=\"numbered-provisions\">\n          <li class=\"sub-provision\" data-marker=\"5°\">\n            <span class=\"provision-text\">la date de naissance de l'animal ;</span>\n          </li>\n          <li class=\"sub-provision\" data-marker=\"6°\">\n            <span class=\"provision-text\">la date d'abattage.</span>\n          </li>\n        </ol>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.499Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 449,
+    "total": 2390
+  }
+}

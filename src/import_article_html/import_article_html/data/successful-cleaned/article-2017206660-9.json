@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017206660",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 13 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">le paragraphe 2, 2°, est complété par la phrase suivante : &quot; Cette description démontre qu'il a été répondu aux conditions visées à l'article 31, § 1er. &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">dans le paragraphe 2, 3°, les mots &quot; de l'expert &quot; sont remplacés par les mots &quot; de l'expert désigné &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"c)\">\n          <span class=\"provision-text\">au paragraphe 3, les mots &quot; visées au § 2, 4° &quot; sont remplacés par les mots &quot; visées au paragraphe 2, 1°, 2° et 4° &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"d)\">\n          <span class=\"provision-text\">le paragraphe 3 est complété par un alinéa rédigé comme suit : &quot; Tout changement aux données visées au paragraphe 2, 3°, est communiqué au Service au moins une fois par an. &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"e)\">\n          <span class=\"provision-text\">le paragraphe 8 est complété par un alinéa rédigé comme suit : &quot; Les pièces visées aux paragraphes 2 et 3 font partie de l'agrément. Le Service enregistre les éleveurs et les fournisseurs agréés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.560Z",
+  "tokenUsage": {
+    "prompt": 2045,
+    "completion": 508,
+    "total": 2553
+  }
+}

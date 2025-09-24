@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019203882",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er juin 2019.</p>\n      <p class=\"intro-text\">Par dérogation à l'alinéa 1er, les articles 5, 2° à 4°, et 12, 2° et 3°, entrent en vigueur le 1er juillet 2020.</p>\n      <p class=\"intro-text\">Par dérogation à l'alinéa 1er, l'article 13, 2° et 3°, entre en vigueur le 1er janvier 2021.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.229Z",
+  "tokenUsage": {
+    "prompt": 1666,
+    "completion": 207,
+    "total": 1873
+  }
+}

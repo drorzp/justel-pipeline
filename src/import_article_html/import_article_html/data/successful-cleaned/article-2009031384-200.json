@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009031384",
+  "articleNumber": "200",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-200\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 200</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>La demande de renouvellement d'agrément est introduite par le gestionnaire auprès du Ministre par recommandé ou déposée contre accusé de réception. Une copie est adressée simultanément à l'administration.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'actualisation des éléments du dossier d'agrément visé à l'article 29, 1° à 7° du décret, est la suivante :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">la note relative au projet d'accueil ou de service visée aux points 1° et 5° du décret, contient une évaluation de la manière dont celui-ci a été rencontré au cours de la période d'agrément qui arrive à échéance et les éventuelles modifications que le gestionnaire souhaite y apporter;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">le plan du service indiquant visiblement toute modification apportée depuis le précédent agrément;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">la copie des contrats d'assurances obligatoires, des avenants éventuels et des preuves des derniers paiements</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.080Z",
+  "tokenUsage": {
+    "prompt": 1923,
+    "completion": 451,
+    "total": 2374
+  }
+}

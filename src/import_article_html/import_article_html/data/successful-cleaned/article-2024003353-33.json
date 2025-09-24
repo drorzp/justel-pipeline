@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003353",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 33</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'annexe 2 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">le 5° est remplacé par ce qui suit :</span>\n                    <p>\" 5° la dispersion des donneurs d'ordre :  \n                    Moyenne arithmétique, pour les quatre exercices comptables précédant l'examen de la performance du système de maîtrise de l'organisation visé à l'article 2, du ratio entre le montant total des subventions en provenance des pouvoirs publics fédéraux belges et le montant total des subventions reçues de toute autre autorité publique. Toutefois, si lors de l'introduction de leur demande d'accréditation, les organisations sont, soit non accréditées, soit ne bénéficient pas de subvention pour un programme quinquennal de l'Etat fédéral, et si, en même temps, elles ne bénéficient pas de subventions publiques supérieures à 50.000 euros en moyenne par an sur les 4 dernières années, elles seront évaluées dans la catégorie de complexité la plus basse pour ce paramètre. \" ;</p>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">le 6° est remplacé par ce qui suit :</span>\n                    <p>\" 6° le volume des moyens humains :  \n                    Le ratio entre le chiffre d'affaires visé en 1° et le volume de l'emploi total de l'organisation, au 31 décembre de l'année précédant l'examen de la performance du système de maîtrise de l'organisation visé à l'article 2.</p>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.527Z",
+  "tokenUsage": {
+    "prompt": 2036,
+    "completion": 460,
+    "total": 2496
+  }
+}

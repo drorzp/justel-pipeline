@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998035973",
+  "articleNumber": "123",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-123\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 123</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>A l'article 2, § 1er, alinéa premier de la loi du 1er avril 1960 relative aux centres psycho-médico-sociaux, le mot \"complets\" est ajouté après les mots \"établissements d'enseignement\".</p>\n        <p>A l'article 2, § 1er, alinéa premier, de la même loi est ajouté la phrase suivante: \"De établissements d'enseignement complets comprennent tous les sièges et tous les niveaux d'enseignement de l'enseignement à temps plein.\"</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>A l'article 2, § 1er, 3° et 4°, de la même loi, les mots \"de chaque terme courant de six ans\" sont supprimés.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.069Z",
+  "tokenUsage": {
+    "prompt": 1745,
+    "completion": 318,
+    "total": 2063
+  }
+}

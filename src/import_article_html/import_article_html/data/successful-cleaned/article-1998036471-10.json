@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998036471",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les dispositions du présent chapitre produisent leurs effets au :</p>\n            <ul>\n                <li>1er septembre 1989: l'article 4, 4°, l'article 5, 1°, 4°, 5°, deuxième tiret, 6°, premier tiret, 7°, 9° et 10°, premier tiret et l'article 7;</li>\n                <li>1er septembre 1989: l'article 2, l'article 5, 6°, deuxième, troisième et quatrième tirets, 10°, deuxième tiret et 11°, et l'article 6, avec la restriction que pendant la période du 1er septembre 1989 au 31 août 1997 inclus, il n'y aura aucune suite pour les personnels et les pouvoirs organisateurs par rapport à la rémunération et la mise en disponibilité par défaut d'emploi, de réaffectation et de réemploi;</li>\n                <li>1er septembre 1990: l'article 5, 14°;</li>\n                <li>1er septembre 1993: l'article 3;</li>\n                <li>1er septembre 1993: l'article 5, 8°, avec la restriction que pendant la période du 1er septembre 1993 au 31 août 1997 inclus, il n'y aura aucune suite pour les personnels et les pouvoirs organisateurs par rapport à la rémunération et la mise en disponibilité par défaut d'emploi, de réaffectation et de réemploi;</li>\n                <li>1er janvier 1995: l'article 4, 1° et 3°, et l'article 5, 2°, 3° et 5°, premier tiret;</li>\n                <li>1er septembre 1996: l'article 4, 2° et 5°, et l'article 5, 12° et 13°;</li>\n                <li>1er janvier 1997: l'article 8;</li>\n                <li>L'article 1er produit ses effets le 1er septembre 1997.</li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.072Z",
+  "tokenUsage": {
+    "prompt": 2205,
+    "completion": 527,
+    "total": 2732
+  }
+}

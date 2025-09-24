@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006202957",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les membres, empêchés d'assister à une séance du Comité, en informent le secrétariat de l'Observatoire.</p>\n            <p class=\"intro-text\">Les membres visés à l'article 9 du décret, alinéa 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">à</span></li>\n                <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">12°, qui perdent la qualité en laquelle ils(elles) ont été désigné(e)s ou qui démissionnent, sont remplacés. Pour ce faire, le(la) Président(e) de leur conseil ou le Membre du Gouvernement qu'il représentait procède à la désignation de leur nouveau(nouvelle) représentant(e) et en informe par écrit le secrétariat de l'Observatoire.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.900Z",
+  "tokenUsage": {
+    "prompt": 1709,
+    "completion": 304,
+    "total": 2013
+  }
+}

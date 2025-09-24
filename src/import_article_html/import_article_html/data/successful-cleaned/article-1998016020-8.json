@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998016020",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les dispositions de l'article 5, § 1er, point</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">2°</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">3°</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">4°</span>\n          </li>\n        </ol>\n        <p>s'appliquent à l'abattage hors des abattoirs des animaux visés à l'article 5, § 1er.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les dispositions du paragraphe précédent ne sont pas d'application pour l'abattage ou la mise à mort de volailles, gibiers d'élevage, lapins, porcins, ovins et caprins hors de l'abattoir par le propriétaire à des fins de consommation propre, pour autant que les animaux des espèces porcine, ovine, caprine et gibiers d'élevage biongulés aient été étourdis au préalable.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.170Z",
+  "tokenUsage": {
+    "prompt": 1818,
+    "completion": 420,
+    "total": 2238
+  }
+}

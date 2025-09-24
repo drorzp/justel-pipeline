@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010386",
+  "articleNumber": "9.5.9.4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9-5-9-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9.5.9.4</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le demandeur doit payer les frais liés au traitement de la demande. Pour les demandes telles que visées à l'article 9.5.9.3, § 2, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li> et <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li> les frais sont fixés à cent euros. Pour les demandes telles que visées à l'article 9.5.9.3, § 2, <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li> les frais sont fixés à cinquante euros.\nPar dérogation aux dispositions du présent alinéa concernant les frais de dossier, aucun frais n'est lié à la demande, visée à l'article 9.5.9.3, § 2, <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li> si la demande a uniquement trait à la suppression de produits de l'agrément.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le montant dû doit être versé sur le compte de la VLM destiné à cet effet.\nLes frais de dossier sont dus au moment que le demandeur introduit la demande.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.750Z",
+  "tokenUsage": {
+    "prompt": 1848,
+    "completion": 471,
+    "total": 2319
+  }
+}

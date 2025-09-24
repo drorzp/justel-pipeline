@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006939",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 1er, 3°, produit ses effets au 1er septembre 2016, l'article 1, 4°, produit ses effets au 1er septembre 2018, les articles 3, 1°, et 3, 7°, produisent leurs effets au 28 août 2022, l'article 3, 2°, produit ses effets au 1er décembre 2022, l'article 3, 3°, produit ses effets au 1er février 2023, l'article 3, 4°, produit ses effets au 1er avril 2023, l'article 3, 5°, produit ses effets au 1er juin 2023, l'article 3, 6°, produit ses effets au 1er juillet 2023, les articles 1, 1°, 2°, 5° et 6°, et 2 produisent leurs effets au 28 août 2023.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.543Z",
+  "tokenUsage": {
+    "prompt": 1755,
+    "completion": 280,
+    "total": 2035
+  }
+}

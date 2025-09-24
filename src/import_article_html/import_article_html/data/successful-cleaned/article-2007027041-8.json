@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007027041",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <div class=\"paragraph-content\">\n        <p>A l'article 55 du même arrêté, un alinéa 2, rédigé comme suit, est ajouté :</p>\n        <p>\" Pour les emplois d'encadrement aux rangs B1 et C1, et par dérogation à l'alinéa 1er, 2° et 4°, peuvent également être promus par avancement de grade :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">au grade de premier gradué, le gradué;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">au grade de premier assistant, l'assistant. \"</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.955Z",
+  "tokenUsage": {
+    "prompt": 1642,
+    "completion": 264,
+    "total": 1906
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018200133",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même Code, l'intitulé de l'annexe 114/1 est remplacé par ce qui suit : &quot; Annexe 114/1 visée aux articles 1314/4,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et 1314/99,</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">1°du Code réglementaire wallon de l'Action sociale et de la Santé &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.356Z",
+  "tokenUsage": {
+    "prompt": 1557,
+    "completion": 211,
+    "total": 1768
+  }
+}

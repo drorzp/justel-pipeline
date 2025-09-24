@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036263",
+  "articleNumber": "118",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-118\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 118</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 10 du même arrêté sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans la phrase introductive du § 1er, les mots \"au Gouvernement flamand, qui\" sont remplacés par les mots \"à la Région flamande, qui\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le § 1er, 2° et 3°, et dans les §§ 2 et 4, les mots \"le Gouvernement flamand\" et \"au Gouvernement flamand\" sont respectivement remplacés par les mots \"l'agence\" et \"à l'agence\".</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">dans le § 3, sont insérés entre les mots \"la Société flamande du Logement ou \" et les mots \"une société\", les mots \"son ayant cause ou\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.726Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 333,
+    "total": 2094
+  }
+}

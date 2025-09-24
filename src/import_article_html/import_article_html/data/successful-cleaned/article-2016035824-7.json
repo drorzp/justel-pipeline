@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016035824",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2 du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption, modifié par le décret du 28 mars 2014, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux points 8 ° et 9 °, les mots \" Agentschap voor Geografische Informatie Vlaanderen \" sont chaque fois remplacés par le mot \" agence \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 12° est remplacé par ce qui suit : \" 12° l'agence : l'agence autonomisée interne Flandre Information, visée à l'article 2 de l'arrêté du Gouvernement flamand du 18 mars 2016 portant création de l'agence autonomisée interne Flandre Information, détermination de diverses mesures pour la dissolution sans liquidation de l'AGIV, règlement du transfert des activités et des actifs de l'AGIV à l'agence Flandre Information et détermination du fonctionnement, de la gestion et de la comptabilité des Fonds propres Flandre Information ; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.235Z",
+  "tokenUsage": {
+    "prompt": 1849,
+    "completion": 363,
+    "total": 2212
+  }
+}

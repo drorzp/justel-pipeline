@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019A40586",
+  "articleNumber": "7:221",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7:221\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7:221</h2>\n  </header>\n  <section class=\"paragraph\">\n    <div class=\"paragraph-content\">\n      L'acquisition, la possession et l'aliénation d'actions, de parts bénéficiaires, ou de certificats se rapportant à ces actions ou parts bénéficiaires de la société par une société filiale de cette société contrôlée directement visé au sens de 1:14, § 2,\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n      </ol>\n      ainsi que par une personne agissant en son nom propre, mais pour le compte de cette société filiale, sont assimilées à l'acquisition, la possession et l'aliénation par la société anonyme elle-même. Les dividendes attachés aux actions, parts bénéficiaires, ou certificats que possèdent la société filiale ou la personne agissant en son nom propre, mais pour le compte de la société filiale, reviennent toutefois à la société filiale.\n    </div>\n  </section>\n  <section class=\"paragraph\">\n    <div class=\"paragraph-content\">\n      L'alinéa 1er n'est pas applicable lorsque les actions ou parts bénéficiaires de la société mère ou les certificats se rapportant à ces actions ou parts bénéficiaires sont détenues par une société filiale qui est, en sa qualité d'opérateur professionnel sur titres, une société de bourse ou un établissement de crédit.\n    </div>\n  </section>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.118Z",
+  "tokenUsage": {
+    "prompt": 1947,
+    "completion": 430,
+    "total": 2377
+  }
+}

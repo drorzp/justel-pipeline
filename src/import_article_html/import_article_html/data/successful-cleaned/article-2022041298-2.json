@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022041298",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 6.3/1 du Code flamand du Logement de 2021 sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">au paragraphe 3, alinéa 1er, est ajouté un point 16°, rédigé comme suit : \" 16° les données de consommation. \" ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">au paragraphe 6, alinéa 1er, est ajouté un point 7°, rédigé comme suit : \" 7° les données à caractère personnel, visées au paragraphe 3, alinéa 1er, 16°, à un partenaire privé pour le calcul de l'indemnité visée à l'article 6.25, alinéa 1er. \" ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">il est ajouté un paragraphe 9, rédigé comme suit :</span>\n      </li>\n    </ol>\n    <section class=\"paragraph\" id=\"para-9\">\n      <h3 class=\"paragraph-marker\">§ 9.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les responsables du traitement, visés au paragraphe 2, 1° et 2°, prennent les mesures nécessaires pour garantir l'exactitude des données à caractère personnel visées au paragraphe 3.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.882Z",
+  "tokenUsage": {
+    "prompt": 1938,
+    "completion": 434,
+    "total": 2372
+  }
+}

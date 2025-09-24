@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005003037",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 115, §§ 1er et 2, du même arrêté, modifié par l'arrêté royal du 1er septembre 1995, les mots \"et 90, 6°\" sont remplaces par les mots \"et 90, 6° et 11°\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.744Z",
+  "tokenUsage": {
+    "prompt": 1482,
+    "completion": 144,
+    "total": 1626
+  }
+}

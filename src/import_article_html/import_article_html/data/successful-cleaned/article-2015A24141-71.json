@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015A24141",
+  "articleNumber": "71",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-71\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 71</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Roi peut, conformément aux dispositions de l'article 141, alinéa 2, préciser les prestations visées à l'article 69,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et fixer les conditions de leur exécution.</span>\n          </li>\n        </ol>\n        <p>Il peut en outre, conformément aux dispositions de l'article 141, alinéa 2, définir les conditions de qualification auxquelles doivent répondre les personnes qui accomplissent ces prestations.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Roi peut, sur avis du <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-06-22/03\" data-law-type=\"L\" data-article-number=\"55\">Conseil fédéral des professions paramédicales</span>, déterminer les titres professionnels sous lesquels les intéressés accomplissent les prestations et actes visés à l'article 69.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.302Z",
+  "tokenUsage": {
+    "prompt": 1847,
+    "completion": 379,
+    "total": 2226
+  }
+}

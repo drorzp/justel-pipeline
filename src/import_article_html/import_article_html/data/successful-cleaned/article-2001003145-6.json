@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001003145",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <div class=\"paragraph-content\">\n        <p>L'article 111 du même Code est remplacé par la disposition suivante :</p>\n        <p>\" Art. 111. La taxe est réglée par les dispositions du présent Code qui sont applicables à la taxe de circulation, à l'exclusion toutefois des dispositions de l'article 5, § 1er, alinéa 1er, 4° et 6° et des articles 11, 15 et 42, § 2.\"</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.205Z",
+  "tokenUsage": {
+    "prompt": 1550,
+    "completion": 185,
+    "total": 1735
+  }
+}

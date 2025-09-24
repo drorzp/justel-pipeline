@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030687",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 10 du même arrêté, modifié par l'arrêté du Gouvernement wallon du 16 mai 2019,</p>\n        <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">\n                <span class=\"provision-text\">au paragraphe 1er, le mot \" économique \" est remplacé par le mot \" immobilier \" ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n                <span class=\"provision-text\">il est inséré un paragraphe 9/1 rédigé comme suit :</span>\n            </li>\n        </ol>\n        <section class=\"paragraph\" id=\"para-9-1\">\n            <h3 class=\"paragraph-marker\">§ 9/1.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'agence peut prendre en gestion des logements afin de les louer à des étudiants par le biais de baux étudiants.</p>\n                <p>Le cas échéant, le mandat de gestion mentionne que le logement fait l'objet d'un bail étudiant.</p>\n                <p>Le bail est conclu par ou pour le compte d'étudiant dont les revenus ne dépassent pas les conditions de revenus et patrimoniales visées à l'article 1er, 29° et 30°, du Code.</p>\n                <p>L'agence est autorisée à mettre à disposition 10 pour cent des logements étudiants qu'elle a pris en gestion à des étudiants, dont les conditions de revenus et patrimoniales correspondent à ceux des ménages de catégorie 3, pour les communes à pression foncière visés par la liste établie par la Région et 5 pour cent pour les autres communes.</p>\n                <p>Il est tenu compte des revenus dont il dispose ou à défaut, des revenus du ménage qui en a la charge.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.714Z",
+  "tokenUsage": {
+    "prompt": 2052,
+    "completion": 470,
+    "total": 2522
+  }
+}

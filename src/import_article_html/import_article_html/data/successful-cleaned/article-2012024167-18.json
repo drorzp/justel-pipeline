@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012024167",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Au même arrêté, l'annexe est complétée par les dispositions sous 8° et 9°, rédigées comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">le mode d'admission du patient (propre mode de transport, SMUR,...);</span>\n                </li>\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">admission primaire ou admission secondaire, c'est-à-dire admission après renvoi d'un autre programme de soins \" pathologie cardiaque \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.258Z",
+  "tokenUsage": {
+    "prompt": 1585,
+    "completion": 231,
+    "total": 1816
+  }
+}

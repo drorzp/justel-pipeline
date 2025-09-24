@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008203738",
+  "articleNumber": "80",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-80\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 80</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le Ministre peut retirer au promoteur le bénéfice de la subvention ou de l'avance récupérable :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans les cas visés à l'article 79, 3°, 4° et 5°;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">lorsqu'il apparaît raisonnablement qu'en raison de modifications majeures intervenues dans le contexte économique et technique, les objectifs, tels qu'évalués au moment de l'instruction du projet, ne sont plus à la portée du promoteur.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Dans tous les cas de retraits visés à l'alinéa 1er, la Région wallonne clôture la liquidation de la subvention ou de l'avance récupérable.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.064Z",
+  "tokenUsage": {
+    "prompt": 1703,
+    "completion": 299,
+    "total": 2002
+  }
+}

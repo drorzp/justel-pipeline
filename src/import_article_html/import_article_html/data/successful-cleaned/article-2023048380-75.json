@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048380",
+  "articleNumber": "75",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-75\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 75</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 9,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"16°\"><span class=\"provision-text\"></span></li>\n            </ol>\n            <p class=\"intro-text\">l'article 52,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n            </ol>\n            <p class=\"intro-text\">les articles 74, 83, 84, l'article 97,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"></span></li>\n            </ol>\n            <p class=\"closing-text\">les articles 98 à 103, les articles 110, 115 et 116 du décret du 18 juin 2021 modifiant la réglementation dans le cadre de la protection sociale flamande entrent en vigueur le 1er janvier 2024.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.502Z",
+  "tokenUsage": {
+    "prompt": 1711,
+    "completion": 444,
+    "total": 2155
+  }
+}

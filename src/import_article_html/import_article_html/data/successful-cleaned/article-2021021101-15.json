@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021021101",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 4, § 1er, du VLAREL du 19 novembre 2010, modifié en dernier lieu par l'arrêté du Gouvernement flamand du 29 janvier 2021, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les points 38°, 39° et 40° sont abrogés ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le point 43°,</span>\n                    <ul class=\"sub-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"f)\">\n                            le membre de phrase \" la division, compétente pour les eaux souterraines \" est remplacé par les mots \" l'entité au sein de la VMM, compétente pour l'agrément des entreprises de forage \".\n                        </li>\n                    </ul>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.177Z",
+  "tokenUsage": {
+    "prompt": 1712,
+    "completion": 310,
+    "total": 2022
+  }
+}

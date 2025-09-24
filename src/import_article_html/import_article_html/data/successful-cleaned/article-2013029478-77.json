@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013029478",
+  "articleNumber": "77",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-77\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 77</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 4 du même décret est complété par un 7° et un 8° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">de solliciter l'avis des Conseils zonaux;</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">de tenir les Conseils zonaux régulièrement informés des travaux en cours et des avis rendus.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.047Z",
+  "tokenUsage": {
+    "prompt": 1547,
+    "completion": 208,
+    "total": 1755
+  }
+}

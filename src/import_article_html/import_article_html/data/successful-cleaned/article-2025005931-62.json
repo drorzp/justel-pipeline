@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025005931",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article II.79 du même code, modifié par les décrets des 5 avril 2019 et 3 juillet 2020, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 2, le point 3° est remplacé par ce qui suit : \" 3° Médecine, pour laquelle les grades de bachelier et de master peuvent être conférés ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 4, les points 1° et 2° sont abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le paragraphe 4 est complété par un point 5°, rédigé comme suit : \" 5° dans la discipline Sciences politiques et sociales, la formation de master en Sciences sociales. \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le paragraphe 4 est complété par un alinéa 2 et un alinéa 3, rédigés comme suit :</span>\n          <p class=\"nested-text\">Les règles visées à l'article II.153, § 2 au § 6, ne s'appliquent pas à la reconnaissance par le Gouvernement flamand de la formation visée à l'alinéa 1er, 5°. Pour la formation visée à l'alinéa 1er, l'Universiteit Hasselt introduit immédiatement un dossier auprès de l'organisation d'accréditation.</p>\n          <p class=\"nested-text\">Pour la formation de master en Médecine dans la discipline Médecine, l'Universiteit Hasselt conclut un accord de coopération avec une autre université flamande compétente pour organiser cette formation de master.</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.734Z",
+  "tokenUsage": {
+    "prompt": 2119,
+    "completion": 546,
+    "total": 2665
+  }
+}

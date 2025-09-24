@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997029401",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le présent arrêté, on entend par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le décret : le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les groupes de travail : les groupes de travail créés aux articles 16, § 2, 25, § 2, 35, § 2 et 62, § 1er, du décret;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">(la Commission de pilotage : la Commission de pilotage créée par le décret du 27 mars 2002 relatif au pilotage du système éducatif de la Communauté française;)</span> \n          <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-01-23/51\" data-law-type=\"ACF\" data-article-number=\"3\">&lt;ACF 2003-01-23/51, art. 3, 002;<strong>En vigueur :</strong>06-07-2003&gt;</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        (anciens 4° et 5° abrogés) \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-01-23/51\" data-law-type=\"ACF\" data-article-number=\"3\">&lt;ACF 2003-01-23/51, art. 3, 002;<strong>En vigueur :</strong>06-07-2003&gt;</span>\n        (4°) le Ministre de l'Education : le Ministre ayant dans ses attributions les matières visées à l'article 1er du décret. \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-01-23/51\" data-law-type=\"ACF\" data-article-number=\"3\">&lt;ACF 2003-01-23/51, art. 3, 002;<strong>En vigueur :</strong>06-07-2003&gt;</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.979Z",
+  "tokenUsage": {
+    "prompt": 2164,
+    "completion": 618,
+    "total": 2782
+  }
+}

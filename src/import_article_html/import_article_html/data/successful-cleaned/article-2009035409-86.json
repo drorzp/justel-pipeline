@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035409",
+  "articleNumber": "86",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-86\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 86</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 190 du même décret, remplacé par le décret du 26 avril 2000 et modifié par le décret du 10 mars 2006, est ajouté un deuxième alinéa, qui est rédigé comme suit :</p>\n      <p class=\"intro-text\">\" En dérogation au premier alinéa, combiné avec l'article 134, la commune peut établir un projet de registre des plans n'incluant pas encore les données de l'article 134, § 1er, premier alinéa,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et l'envoyer au fonctionnaire planologique et au fonctionnaire urbaniste régional. La commune indique dans ce cas dans quel délai ces données seront complétées.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.092Z",
+  "tokenUsage": {
+    "prompt": 1676,
+    "completion": 275,
+    "total": 1951
+  }
+}

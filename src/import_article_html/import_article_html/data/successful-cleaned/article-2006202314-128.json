@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006202314",
+  "articleNumber": "128",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-128\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 128</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 de la loi du 29 avril 1999 relative à l'organisation du marche de l'électricité, les points 19° et le 20° sont remplacés par les dispositions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"19°\">\n          <span class=\"provision-text\">\" entreprise associée \" : toute entreprise associée au sens de l'article 12 du Code des sociétés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"20°\">\n          <span class=\"provision-text\">\" entreprise liée \" : toute entreprise liée au sens de l'article 11 du Code des sociétés;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.902Z",
+  "tokenUsage": {
+    "prompt": 1609,
+    "completion": 241,
+    "total": 1850
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010205592",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 11 du même arrêté, remplacé par l'arrêté du Gouvernement flamand du 24 septembre 2001 et modifié par l'arrêté du Gouvernement flamand du 20 février 2004, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au point 1° les mots \"de Promotion et d'Appui de l'animation sociale\" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux points 1° et 2° les mots \"le Ministre\" sont remplacés par les mots \"le Secrétaire général\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le point 3° est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.337Z",
+  "tokenUsage": {
+    "prompt": 1701,
+    "completion": 302,
+    "total": 2003
+  }
+}

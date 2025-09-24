@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002000268",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-05-04/47\" data-law-type=\"AR\" data-article-number=\"2\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007050447\">\n          &lt;AR 2007-05-04/47, art. 2, 003; En vigueur : 02-07-2007&gt;\n        </span>\n        Pour autant qu'elles dépassent 150 heures, les formations agréées et subsidiées en application du présent arrêté, visées à l'article 2, alinéa 1er, 1°, c) et d), peuvent, sur base d'une convention préalable entre l'école de police concernée et le Ministre de l'Intérieur ou l'autorité qu'il désigne en ce qui concerne la police fédérale ou entre l'école de police concernée et le chef de corps en ce qui concerne la police locale, faire l'objet d'une facturation supplémentaire pour le coût excédant le montant obtenu par l'école en application de l'article 10, 2° et 3°.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.795Z",
+  "tokenUsage": {
+    "prompt": 1894,
+    "completion": 346,
+    "total": 2240
+  }
+}

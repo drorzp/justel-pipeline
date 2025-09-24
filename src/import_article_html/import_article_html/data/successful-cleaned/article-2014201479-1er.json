@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014201479",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>A l'article 1er, 2°, de l'arrêté du Gouvernement flamand du 25 mars 1997 portant exécution du décret du 24 juillet 1996 réglant l'agrément et le subventionnement des institutions de médiation de dettes et le subventionnement d'un \" Vlaams Centrum Schuldenlast \" (Centre flamand de l'Endettement), modifié par les arrêtés du Gouvernement flamand des 24 novembre 2006, 24 septembre 2010 et 7 octobre 2011, les mots \" du 8 mai 2009 \" sont insérés entre les mots \" du décret \" et les mots \" relatif à \".</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Le même article est complété par les points 6° et 7°, rédigés comme suit :</p>\n                <p>\"</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">partenariat : le réseau d'institutions agréées de médiation de dettes oeuvrant dans la zone d'action pour la prévention et la réduction de l'endettement ;</span></li>\n                    <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">zone d'action : le ressort géographique pour lequel le centre d'aide sociale générale faisant partie du partenariat est agréé en vertu du décret du 8 mai 2009 relatif à l'aide sociale générale.</span></li>\n                </ol>\n                <p>\"</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.375Z",
+  "tokenUsage": {
+    "prompt": 2027,
+    "completion": 494,
+    "total": 2521
+  }
+}

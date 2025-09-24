@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998031450",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 17</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La formation spécialisée du personnel visé à l'article 6, § 1er, 1° et 2° de l'ordonnance est attestée par un certificat sanctionnant la réussite d'un programme de trente heures au moins de cours théoriques portant sur les matières suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">droit des obligations et voies d'exécution</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">réglementations particulières (crédit à la consommation, crédit hypothécaire, ...)</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">aspects psychosociaux de la médiation des dettes</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">déontologie et éthique professionnelle</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">aspects méthodologiques de la médiation des dettes</span></li>\n            </ol>\n            <p class=\"closing-text\">La formation théorique visée à l'alinéa 1er doit se clôturer par au moins une journée consacrée à l'étude pratique de cas.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.061Z",
+  "tokenUsage": {
+    "prompt": 1889,
+    "completion": 389,
+    "total": 2278
+  }
+}

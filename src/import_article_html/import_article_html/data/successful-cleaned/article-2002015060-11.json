@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002015060",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 21, le deuxième alinéa du même arrêté, est remplacé comme suit :</p>\n      <blockquote class=\"replacement-text\">\n        <p>Les montants repris dans l'article 8, § 4,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">2°</span>\n          </li>\n          <li class=\"provision\" data-number=\"7°bis\">\n            <span class=\"provision-text\">7°bis</span>\n          </li>\n          <li class=\"provision\" data-number=\"10°\">\n            <span class=\"provision-text\">10°</span>\n          </li>\n          <li class=\"provision\" data-number=\"11°\">\n            <span class=\"provision-text\">11°</span>\n          </li>\n        </ol>\n        <p>sont fixés sur la base de l'indice des prix à la consommation de janvier 1997. Il est procédé annuellement à une adaptation de ces indices. Celle-ci se fait sur base des indices du mois de mai de l'année qui précède le démarrage du plan d'action.</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.639Z",
+  "tokenUsage": {
+    "prompt": 1636,
+    "completion": 347,
+    "total": 1983
+  }
+}

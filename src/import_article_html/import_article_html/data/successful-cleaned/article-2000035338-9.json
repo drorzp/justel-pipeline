@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035338",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                (La mise en disponibilité complète pour convenances personnelles préalable à la pension de retraite prend effet le 1er septembre, le 1er janvier ou le 1er avril.) \n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2002-02-22/36\" data-law-type=\"AGF\" data-article-number=\"4\">\n                    &lt;AGF 2002-02-22/36, art. 4, 004; <strong>En vigueur :</strong>01-09-2002&gt;\n                </span>\n                Cette mise en disponibilité doit être sollicitée auprès du supérieur hiérarchique au plus tard trois mois avant la date initiale. Ce délai peut être raccourci de commun accord entre le membre du personnel et :\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-09-21/14\" data-law-type=\"AGF\" data-article-number=\"7\">\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">le pouvoir organisateur pour les membres du personnel, visés à l'article 1er, 1° et 2°;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">l'inspecteur général pour l'inspecteur et l'inspecteur coordinateur;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"3°\">\n                            <span class=\"provision-text\">le Ministre flamand chargé de l'enseignement, ou son délégué, pour l'inspecteur général et pour les membres du personnel, visés à l'article 1er, 4°.</span>\n                        </li>\n                    </ol>\n                </span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.250Z",
+  "tokenUsage": {
+    "prompt": 2010,
+    "completion": 491,
+    "total": 2501
+  }
+}

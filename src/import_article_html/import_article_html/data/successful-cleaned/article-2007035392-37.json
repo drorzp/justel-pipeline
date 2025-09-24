@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007035392",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 37</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 9.1, § 1er, 1°,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1°</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">4°, du même arrêté, il est chaque fois ajouté un:</span>\n                    <ol class=\"nested-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"c)\">\n                            <span class=\"provision-text\">du Règlement (CE) n° 2037/2000 du Parlement européen et du Conseil du 29 juin 2000 relatif à des substances qui appauvrissent la couche d'ozone;</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"d)\">\n                            <span class=\"provision-text\">du Règlement (CE) n° 1774/2002 du Parlement européen et du Conseil du 3 octobre 2002 établissant les règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine;</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"e)\">\n                            <span class=\"provision-text\">du Règlement (CE) n° 850/2004 du Parlement européen et du Conseil du 29 avril 2004 concernant les polluants organiques persistants et modifiant la Directive 97/117/CEE;</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.120Z",
+  "tokenUsage": {
+    "prompt": 1804,
+    "completion": 460,
+    "total": 2264
+  }
+}

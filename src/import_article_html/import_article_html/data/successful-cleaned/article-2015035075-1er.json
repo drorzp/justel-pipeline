@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015035075",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 5 de l'arrêté ministériel du 18 mai 2010 portant délégation de certaines compétences en matière d'enseignement à l'inspecteur-général, modifié par l'arrêté ministériel du 12 décembre 2013, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 16° est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"16°\">\n              <span class=\"provision-text\">la fixation du délai dans lequel la direction de l'établissement peut introduire un plan d'amélioration, lorsque les défauts ont trait à la salubrité, à la sécurité et à l'hygiène, visées à l'article 41, § 2, alinéa deux, du même décret, et la communication de ce délai à la direction de l'établissement ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté un point 17° et un point 18°, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"17°\">\n              <span class=\"provision-text\">l'approbation ou la désapprobation du plan d'amélioration, visé à l'article 41, § 2, du même décret, et la communication du délai de suspension de la procédure en cas d'approbation ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"18°\">\n              <span class=\"provision-text\">la composition du collège paritaire, visé à l'article 41, § 4, du même décret.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.275Z",
+  "tokenUsage": {
+    "prompt": 2053,
+    "completion": 517,
+    "total": 2570
+  }
+}

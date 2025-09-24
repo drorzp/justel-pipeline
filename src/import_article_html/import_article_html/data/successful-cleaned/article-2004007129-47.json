@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004007129",
+  "articleNumber": "47",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-47\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 47</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si le conseil d'évaluation estime, à l'expiration du délai fixé pour le dépôt du mémoire visé à l'article 46, <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-26/03\" data-law-type=\"AR\" data-article-number=\"140\">qu'il n'est pas suffisamment informé pour se prononcer sur l'affaire</span>, il rouvre les débats.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans le cas contraire, le conseil d'évaluation se prononce sur l'existence des faits et, s'il estime ces faits établis, sur leur gravité ainsi que sur leur compatibilité avec la qualité de membre du personnel navigant. La conclusion du conseil d'évaluation relative à la gravité des faits et à leur incompatibilité avec la qualité de membre du personnel navigant est motivée et est mentionnée au procès-verbal de la séance.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le conseil d'évaluation établit ensuite l'avis sur la base duquel le ministre prononce la suspension ou la radiation des militaires visés à l'article 25, 1° et 2°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.657Z",
+  "tokenUsage": {
+    "prompt": 1994,
+    "completion": 448,
+    "total": 2442
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019A40586",
+  "articleNumber": "6:122",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6:122\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6:122</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les statuts peuvent prévoir que l'actionnaire qui ne répond plus aux exigences statutaires pour devenir actionnaire est à ce moment réputé démissionnaire de plein droit.</p>\n            <p class=\"intro-text\">L'actionnaire recouvre la valeur de sa part de retrait de la manière déterminée par l'article 6:120. En pareil cas, les délais visés à l'article 6:120, § 1er, alinéa 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1°</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2°, ne sont pas d'application.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.099Z",
+  "tokenUsage": {
+    "prompt": 1614,
+    "completion": 268,
+    "total": 1882
+  }
+}

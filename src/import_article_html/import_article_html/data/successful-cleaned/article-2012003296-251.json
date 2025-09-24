@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012003296",
+  "articleNumber": "251",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-251\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 251</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsque les autorités de contrôle des sociétés de gestion d'organismes de placement collectif d'un autre Etat membre de l'Espace économique européen dans lequel une société de gestion d'organismes de placement collectif de droit belge a établi une succursale ou exerce des fonctions de gestion ou fournit des services d'investissement visés à l'article 3,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"22°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"23°\">\n            <span class=\"provision-text\">sous le régime de la libre prestation de services, saisissent la FSMA de violations des dispositions légales, réglementaires ou administratives applicables dans cet Etat sous le contrôle de ces autorités en exécution de la Directive 2009/65/CE, la FSMA prend, dans les plus brefs délais, celles des mesures prévues à l'article 250, § 1er, que ces violations imposent. Elle en avise les autorités de contrôle précitées. L'article 250, § 1er, de la présente loi est d'application.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.179Z",
+  "tokenUsage": {
+    "prompt": 1791,
+    "completion": 368,
+    "total": 2159
+  }
+}

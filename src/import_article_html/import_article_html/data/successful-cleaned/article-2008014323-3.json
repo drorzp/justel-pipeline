@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008014323",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2, alinéa 1er, du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \" alinéa 2, 1° et 2° \" sont remplacés par les mots \" alinéa 2, 1°, 2° et 4° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les mots \" et à l'article 55/1, § 2, alinéa 3, de l'arrêté royal du 4 mai 2007 relatif au permis de conduire, à l'aptitude professionnelle et à la formation continue des conducteurs de véhicules des catégories C, C+E, D, D+E et des sous-catégories C1, C1+E, D1, D1+E \" sont insérés entre les mots \" permis de conduire \" et les mots \", par virement \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.007Z",
+  "tokenUsage": {
+    "prompt": 1788,
+    "completion": 333,
+    "total": 2121
+  }
+}

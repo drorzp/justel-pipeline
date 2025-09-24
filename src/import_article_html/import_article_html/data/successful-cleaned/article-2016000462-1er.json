@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016000462",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les transactions suspectes, disparitions et vols visés aux articles 3, 8° et 9 du Règlement (UE) n° 98/2013 du Parlement européen et du Conseil du 15 janvier 2013 sur la commercialisation et l'utilisation de précurseurs d'explosifs, sont signalés par e-mail à <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-12-07/18\" data-law-type=\"AR\" data-article-number=\"1\">explosiveprecursor@police.belgium.eu</span> ou par téléphone au numéro +32 (0)2.642.63.20.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.309Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 232,
+    "total": 1911
+  }
+}

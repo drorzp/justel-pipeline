@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008033056",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 143, § 1er, alinéa 1er, du même arrêté royal, remplacé par le décret du 26 juin 2006, le passage \" 5°, 6° et 7° \" est remplacé par le passage \" 5° et 6° \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.059Z",
+  "tokenUsage": {
+    "prompt": 1614,
+    "completion": 150,
+    "total": 1764
+  }
+}

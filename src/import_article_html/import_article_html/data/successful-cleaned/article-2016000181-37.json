@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016000181",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 138, § 1er, alinéa 1er, de la même loi, remplacé par la loi du 28 décembre 2006, est complété par les 5° et 6° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">\"5° selon les modalités fixées par le Roi, les fonctionnaires de police du cadre de base qui sont désignés à un emploi au sein d'un service d'enquête et de recherche de la police locale ou à un emploi au sein de la direction générale de la police judiciaire de la police fédérale;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">6° à leur demande et selon les modalités fixées par le Roi, les inspecteurs de police ayant 6 ans d'ancienneté de cadre.\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.303Z",
+  "tokenUsage": {
+    "prompt": 1730,
+    "completion": 305,
+    "total": 2035
+  }
+}

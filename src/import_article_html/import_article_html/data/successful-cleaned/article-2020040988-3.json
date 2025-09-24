@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020040988",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">\n                            a), du même arrêté, inséré par l'arrêté royal du 8 juin 2016 et modifié par les arrêtés royaux du 22 juillet 2018, du 12 novembre 2018 et du 6 juin 2019, les mots \n                            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"11°\" data-law-type=\"de\" data-article-number=\"la loi\">\" et 11°, de la loi \"</span> \n                            sont remplacés par les mots \n                            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"12°\" data-law-type=\"de\" data-article-number=\"la loi\">\" , 11° et 12°, de la loi \"</span>.\n                        </span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.264Z",
+  "tokenUsage": {
+    "prompt": 1558,
+    "completion": 309,
+    "total": 1867
+  }
+}

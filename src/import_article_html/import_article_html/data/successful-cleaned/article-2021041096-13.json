@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021041096",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 53 du même Code, remplacé par la loi du 28 janvier 2004 et modifié en dernier lieu par la loi du 6 décembre 2015, les modifications suivantes sont apportées :</p>\n        <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">\n                <span class=\"sub-provision-text\">le paragraphe 1erbis est remplacé par ce qui suit :</span>\n                <section class=\"paragraph\" id=\"para-1erbis\">\n                    <h3 class=\"paragraph-marker\">§ 1erbis.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>Le paragraphe 1er, alinéa 1er, 1°, n'est pas applicable à l'assujetti qui effectue exclusivement des opérations pour lesquelles il se prévaut du régime particulier visé au titre XII, chapitre 6, section 2 ou 4, de la directive 2006/112/CE.</p>\n                        <p>Le paragraphe 1er, alinéa 1er, 2° et 3°, n'est pas applicable à l'assujetti qui effectue exclusivement des opérations pour lesquelles il se prévaut d'un régime particulier visé au titre XII, chapitre 6, de la directive 2006/112/CE.</p>\n                    </div>\n                </section>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n                <span class=\"sub-provision-text\">dans le paragraphe 2, alinéa 1er, le 2° est remplacé par ce qui suit :</span>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">lorsqu'il a effectué une livraison de biens visée à l'article 15, §§ 1er ou 2, pour toute personne physique non assujettie, sauf lorsqu'il se prévaut du régime particulier visé au titre XII, chapitre 6, section 3, de la directive 2006/112/CE ;</span>\n                    </li>\n                </ol>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.145Z",
+  "tokenUsage": {
+    "prompt": 2126,
+    "completion": 537,
+    "total": 2663
+  }
+}

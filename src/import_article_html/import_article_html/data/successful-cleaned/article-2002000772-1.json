@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002000772",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\">.</span></h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le cadre de l'enquête portant sur l'image que les Belges se font des nouveaux immigrés et sur leur attitude à leur égard, la \"Katholieke Universiteit Leuven\" est autorisée à recevoir communication des informations visées à l'article 3, alinéa 1er, 1°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">(limité à la date de naissance),</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"closing-text\">5°, de la loi du 8 août 1983 organisant un Registre national des personnes physiques, d'un échantillon aléatoire de 6 000 Belges qui seront interrogés sur leur attitude à l'égard des demandeurs d'asile.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.794Z",
+  "tokenUsage": {
+    "prompt": 1717,
+    "completion": 308,
+    "total": 2025
+  }
+}

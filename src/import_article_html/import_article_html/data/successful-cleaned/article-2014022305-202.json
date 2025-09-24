@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014022305",
+  "articleNumber": "202",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-202\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 202</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Entrent en vigueur le 1er juillet 2014.</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les articles 52, 1° et 3°, 53 et 59, 2°, de la loi du 13 décembre 2006 portant dispositions diverses en matière de santé;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'article 266 de la loi du 27 décembre 2006 portant dispositions diverses (I);</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les chapitres 1er et 2 du Titre 2 de la loi du 15 décembre 2013 en matière de dispositifs médicaux;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">le présent arrêté.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.192Z",
+  "tokenUsage": {
+    "prompt": 1717,
+    "completion": 323,
+    "total": 2040
+  }
+}

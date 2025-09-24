@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005036232",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 14ter de l'arrêté du Gouvernement flamand du 16 septembre 1997 relatif aux contrôle des inscriptions d'élèves dans l'enseignement secondaire, inséré par l'arrêté du Gouvernement flamand du 21 mars 2003 et modifié par l'arrêté du Gouvernement flamand du 4 juin 2003, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la première phrase est remplacée par le texte suivant : \"Légitimation de droit des absences sur la base des preuves présentées\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les points 2°, 6° et 7° sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.797Z",
+  "tokenUsage": {
+    "prompt": 1719,
+    "completion": 281,
+    "total": 2000
+  }
+}

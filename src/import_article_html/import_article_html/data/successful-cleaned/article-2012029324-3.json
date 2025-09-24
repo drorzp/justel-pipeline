@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012029324",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 76 du même décret, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les termes \" à l'article 66, 1°, 2° et 3° \"sont remplacés par les termes \" à l'article 66, 1°, 2°, 3° et 5° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 2 est remplacé par l'alinéa suivant :</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\" Dans le cas d'un recours introduit à l'encontre d'une proposition de licenciement tel que visé à l'article 66, 4°, ou d'un licenciement sans préavis pour faute grave tel que visé à l'article 66, 6°, le délai ne peut être supérieur à un mois.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.261Z",
+  "tokenUsage": {
+    "prompt": 1764,
+    "completion": 325,
+    "total": 2089
+  }
+}

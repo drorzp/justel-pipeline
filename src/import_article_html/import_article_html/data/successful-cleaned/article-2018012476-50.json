@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012476",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 50</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-10-29/26\" data-law-type=\"AR\" data-article-number=\"4\">\n                Indépendamment l'organisme de formation, un candidat qui n'a pas réussi, après quatre participations, les examens organisés sur la base du présent arrêté royal ne peut plus participer ni à la formation ni aux examens en vue de l'obtention de l'attestation de compétence concernée.  \n                Sont compris dans ces 4 participations les examens de repêchage qui doivent être organisés dans les trois mois après la passation du dernier examen d'une session d'examens précédente.  \n                En dérogation au premier et deuxième alinéas et compte tenu de l'article 61, une personne qui n'a pas réussi au préalable deux fois l'examen, en ce compris l'examen de repêchage, pour la branche exercices de tir, visée aux articles 29, \n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"4°\">\n                        <span class=\"provision-text\">et 30,</span>\n                    </li>\n                </ol>\n                2°, ne peut plus participer ni à la formation, ni aux examens en vue de l'obtention de l'attestation de compétence concernée.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.694Z",
+  "tokenUsage": {
+    "prompt": 1928,
+    "completion": 369,
+    "total": 2297
+  }
+}

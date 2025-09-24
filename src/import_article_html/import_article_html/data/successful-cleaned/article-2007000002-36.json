@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000002",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les heures de cours visées au présent arrêté, constituent le minimum de ce qui doit être enseigné pour les différentes formations et branches. Elles ne comprennent pas les tests et examens. Les heures de cours mentionnées comportent 60 minutes.</p>\n      <p>(Les jours où les branches visées <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-10-13/10\" data-law-type=\"AR\" data-article-number=\"21\">aux articles 12, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li></ol> et <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"></span></li></ol>,</span> sont enseignées, les heures de cours dispensées ne peuvent pas dépasser par jour de cours le nombre total de 6 heures de cours et, entre la fin de la formation pour ces branches et l'examen y relatif, il convient de prévoir au moins quatre jours consécutifs de libre pour l'étude et l'accompagnement à l'étude.) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2008-07-07/32\" data-law-type=\"AR\" data-article-number=\"6\">AR 2008-07-07/32, art. 6, 002; En vigueur : 18-07-2008</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.808Z",
+  "tokenUsage": {
+    "prompt": 1944,
+    "completion": 402,
+    "total": 2346
+  }
+}

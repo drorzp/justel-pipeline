@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071454",
+  "articleNumber": "R71",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R71\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article R71</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Loi du 9 août 1963, article 34quindecies, inséré par la loi du 29 décembre 1990, article 38, les mots &quot;Comité de gestion du Service des soins de santé&quot; et &quot;le Comité précité&quot; sont remplacés par les mots &quot;Comité de l'assurance&quot;, les mots &quot;sur proposition du Conseil général&quot; sont insérés après les mots &quot;Conseil des Ministres&quot;; les références &quot;l'article 12, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\"></span></li></ol>&quot; et &quot;l'article 23, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">et</span></li><li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\"></span></li></ol>&quot; sont remplacés par les références &quot;l'article 22, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\"></span></li></ol>&quot; et &quot;l'article 34, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">et</span></li><li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\"></span></li></ol>&quot;</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.950Z",
+  "tokenUsage": {
+    "prompt": 1839,
+    "completion": 417,
+    "total": 2256
+  }
+}

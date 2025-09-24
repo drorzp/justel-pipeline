@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011009",
+  "articleNumber": "79",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-79\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 79</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Conformément l'article 30, § 4 de l'ordonnance du 27 juillet 2017 à finalité économique, les coûts admissibles sont les coûts visés à l'article 13, § 4, 1°, 2°, 4° et 5° de cette même l'ordonnance et qui correspondent aux coûts de l'étude ou de la prestation.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.445Z",
+  "tokenUsage": {
+    "prompt": 1586,
+    "completion": 164,
+    "total": 1750
+  }
+}

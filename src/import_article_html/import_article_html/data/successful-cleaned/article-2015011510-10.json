@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015011510",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">Dans le livre IV, titre VI, chapitre Ier, section Ire, du même Code, il est inséré un article 93/1, rédigé comme suit:</div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 93/1.</h3>\n        <div class=\"paragraph-content\">Les microsociétés telles que visées à l'article 15/1 ont la faculté d'établir leurs comptes annuels selon un microschéma fixé par le Roi.</div>\n      </section>\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">Les sociétés en nom collectif et les sociétés en commandite simple dont le chiffre d'affaires du dernier exercice, à l'exclusion de la taxe sur la valeur ajoutée, n'excède pas un montant fixé par le Roi, ont la faculté de ne pas établir des comptes annuels selon les règles établies par le Roi en vertu de l'article 92, § 1er.</div>\n      </section>\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">L'alinéa 1er et l'alinéa 2 ne s'appliquent pas:</div>\n      </section>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux sociétés visées à l'article 92, § 3, 1°, 2°, 4° et 6° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux sociétés dont l'objet est le prêt hypothécaire.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.174Z",
+  "tokenUsage": {
+    "prompt": 1933,
+    "completion": 465,
+    "total": 2398
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036104",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/15\" data-law-type=\"DCFL\" data-article-number=\"37\">\n        <p class=\"intro-text\">Le Gouvernement flamand arrête, après avis du conseil, le montant :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">des cotisations obligatoires, visées à l'article 5, alinéa premier, 1° et 11°, ainsi que les modalités de leur perception;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">des indemnités, rétributions, droits, taxes, retenues et majorations visés à l'article 5, alinéa premier, 2°, ainsi que les modalités de leur perception.</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">L'arrêté relatif aux cotisations obligatoires visées à l'alinéa premier, 1°, est abrogé de plein droit avec effet rétroactif jusqu'à la date de son entrée en vigueur s'il n'est pas présenté pour ratification au Parlement flamand dans le mois suivant l'approbation par le Gouvernement flamand. L'arrêté sera ratifié par décret dans les six mois suivant son approbation. Ces périodes seront suspendues pendant les congés parlementaires et en cas de dissolution du parlement.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.728Z",
+  "tokenUsage": {
+    "prompt": 1961,
+    "completion": 412,
+    "total": 2373
+  }
+}

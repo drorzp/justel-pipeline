@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1986022288",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1990-03-19/37\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 1990-03-19/37, art. 2, 002; En vigueur : 01-05-1990&gt;</span> Les organismes d'intérêt public visés à l'article 18bis des lois coordonnées relatives aux allocations familiales pour travailleurs salariés sont autorisés, exclusivement pour l'accomplissement des tâches qui leur incombent en vertu de l'article 18bis précité, ainsi que pour l'accomplissement des tâches qui leur sont imposées par une disposition légale ou réglementaire relative à la sécurité sociale ou en vertu d'une telle disposition :\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">sans préjudice des dispositions des articles 2 et 5, à accéder aux seules informations visées à l'article 3, alinéa 1er, 1° à 9° et alinéa 2 de la loi du 8 août 1983 organisant un Registre national des personnes physiques, uniquement en ce qui concerne leurs attributaires, allocataires et bénéficiaires;</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">dans les limites, dans les conditions et aux fins fixées par les articles 3 à 8, à faire usage du numéro d'identification du Registre national des personnes physiques, uniquement en ce qui concerne leurs attributaires, allocataires et bénéficiaires.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">\n                Les organismes d'intérêt public visés à l'alinéa 1er sont énumérés en annexe.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.515Z",
+  "tokenUsage": {
+    "prompt": 2046,
+    "completion": 488,
+    "total": 2534
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014009118",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour être recevable, la candidature pour les personnes visées à l'article 512, § 2, 1°, 3° et 4°, du Code judiciaire et pour leurs suppléants doit être accompagnée des documents suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">une copie du diplôme;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un extrait du casier judiciaire dont la date est postérieure à la publication de l'appel aux candidats;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">un curriculum vitae contenant les informations nécessaires permettant de vérifier si les conditions prévues à l'article 512, § 2, du Code judiciaire sont remplies ainsi que les pièces justificatives utiles en la matière;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le cas échéant, une preuve de la connaissance de la langue allemande conformément aux articles 43quinquies et 45, § 2, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.066Z",
+  "tokenUsage": {
+    "prompt": 1834,
+    "completion": 381,
+    "total": 2215
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010596",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Président du Comité de direction du 9 décembre 2015 portant création des Centres P et du Centre Polyvalent Eupen au sein de l'Administration Particuliers de l'Administration générale de la fiscalité et fixant leur siège ainsi que leur compétence matérielle et territoriale les dispositions sous 6°, 11° et 12° sont remplacées par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">Centre P Charleroi dont le siège est établi à Charleroi et avec des localisations à Braine-l'Alleud, Nivelles, Ottignies-Louvain-La-Neuve et Thuin;</span>\n        </li>\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">Centre P Termonde dont le siège est établi à Termonde et qui comprend des localisations à Alost, Lokeren, Saint-Nicolas et Zottegem;</span>\n        </li>\n        <li class=\"provision\" data-number=\"12°\">\n          <span class=\"provision-text\">Centre P Louvain dont le siège est établi à Louvain et qui comprend des localisations à Asse, Diest, Hal, Londerzeel, Tirlemont et Vilvorde.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.751Z",
+  "tokenUsage": {
+    "prompt": 1877,
+    "completion": 391,
+    "total": 2268
+  }
+}

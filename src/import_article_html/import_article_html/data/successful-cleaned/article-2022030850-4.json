@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030850",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 42 de la même ordonnance est complété par les points 13° et 14° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"13°\">\n          <span class=\"provision-text\">dans les limites des crédits budgétaires, mettre à disposition des communes et des CPAS les moyens financiers nécessaires à l'acquisition de biens immobiliers. Le Gouvernement détermine les conditions d'octroi et les règles de procédure ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"14°\">\n          <span class=\"provision-text\">réaliser les missions qui lui sont déléguées par ordonnance ou par arrêté du Gouvernement, en vue de contribuer à la politique du logement de la Région de Bruxelles-Capitale, notamment l'acquisition de biens immobiliers sur le marché concurrentiel pour son compte propre ou pour le compte des SISP ou l'acquisition de participations au sein de sociétés immobilières.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.841Z",
+  "tokenUsage": {
+    "prompt": 1739,
+    "completion": 308,
+    "total": 2047
+  }
+}

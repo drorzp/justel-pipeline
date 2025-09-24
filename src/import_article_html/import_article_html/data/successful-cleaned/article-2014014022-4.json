@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014014022",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 62 du Code ferroviaire, le paragraphe 5, alinéa 1er, est complété par les 5° et 6°, rédigé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">les dispositions en matière d'accès aux installations de service visées à l'article 9/1.</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">l'exercice de la servitude perpétuelle visée à l'article 156quater, § 1er, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.152Z",
+  "tokenUsage": {
+    "prompt": 1652,
+    "completion": 262,
+    "total": 1914
+  }
+}

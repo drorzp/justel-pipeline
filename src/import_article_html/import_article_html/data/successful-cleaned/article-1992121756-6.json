@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992121756",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les négociations au niveau de l'entreprise doivent porter au moins sur les éléments suivants :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le régime d'organisation du travail, en ce compris notamment la durée du travail, les horaires de travail, les pauses et les intervalles de repos;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les conditions de travail, avec une attention particulière pour la relation travail-vie familiale;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les modalités en matière d'effet positif sur l'emploi;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">lorsqu'il existe une délégation syndicale, la représentation syndicale compte tenu du régime de travail conformément à l'article 8, 2° et 6° de la convention collective de travail n° 5 du 24 mai 1971, conclue au Conseil national du Travail, concernant le statut des délégations syndicales du personnel des entreprises;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les modalités relatives à l'évaluation périodique et au contrôle du nouveau régime;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les conséquences du nouveau régime de travail pour la sécurité sociale des travailleurs concernés;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les modalités de retour individuel ou collectif à l'ancien régime de travail;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les modalités concernant la formation et l'apprentissage des travailleurs concernés.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.097Z",
+  "tokenUsage": {
+    "prompt": 1962,
+    "completion": 464,
+    "total": 2426
+  }
+}

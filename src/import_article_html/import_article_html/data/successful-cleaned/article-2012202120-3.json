@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012202120",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2, § 1er, premier alinéa,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"21°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"22°\">\n                    <span class=\"provision-text\">du décret du 15 juillet 1997 contenant le Code flamand du Logement, remplacé par le décret du 29 avril 2011, les mots &quot; organisations de locataires &quot; sont chaque fois remplacés par les mots &quot; ligues de locataires &quot;.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Dans le même article, au premier alinéa, 26°, les mots &quot; organisation de locataires &quot; sont remplacés par les mots &quot; ligue de locataires &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.331Z",
+  "tokenUsage": {
+    "prompt": 1671,
+    "completion": 292,
+    "total": 1963
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019201338",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans la limite des crédits budgétaires disponibles, le Gouvernement prend les mesures nécessaires pour permettre, faciliter et encourager l'utilisation de la langue des signes allemande dans les différents domaines relevant des compétences de la Communauté germanophone. A ces fins, il peut notamment :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">octroyer des subsides pour organiser, co-organiser ou soutenir des mesures de sensibilisation;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">fixer des dispositions exécutoires afin de permettre, faciliter et encourager la connaissance et la transmission de la langue des signes allemande ainsi que le développement de moyens didactiques pour son apprentissage;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">déterminer un lieu de contact en région de langue allemande où les intéressés peuvent s'adresser pour être informés des offres de soutien.</span></li>\n            </ol>\n            <p class=\"intro-text\">Le Gouvernement adopte les dispositions mentionnées à l'alinéa 1er, 2° et 3°, sur proposition ou avis <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-11-13/18\" data-law-type=\"DCG\" data-article-number=\"66\">du comité de gestion chargé de la vie autodéterminée</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.420Z",
+  "tokenUsage": {
+    "prompt": 2003,
+    "completion": 416,
+    "total": 2419
+  }
+}

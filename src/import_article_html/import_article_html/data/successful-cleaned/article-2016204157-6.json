@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016204157",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le comité général de gestion dispose de toutes les compétences qui ne sont pas expressément dévolues au comité de gestion des accidents de travail ou au comité de gestion des maladies professionnelles.</p>\n        <p>Il est seul compétent pour conclure le contrat d'administration de l'Institution, après avis des deux comités de gestion visés à l'article 5, § 1er, 2° et 3° concernant les missions ayant trait aux matières qui relèvent de leur compétence conformément aux §§ 2 et 3.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le comité de gestion des accidents du travail est compétent pour les missions visées à l'article 4, alinéa 1er.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le comité de gestion des maladies professionnelles est compétent pour les missions visées à l'article 4, alinéa 2.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.659Z",
+  "tokenUsage": {
+    "prompt": 1893,
+    "completion": 383,
+    "total": 2276
+  }
+}

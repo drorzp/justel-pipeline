@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1939050351",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        En temps de paix, auront le droit d'opérer les réquisitions prévues par les articles 1, 2 et 3 de la loi du 12 mai 1927 : les commandants des grandes unités, les chefs de service dépendant directement du Ministre de la Défense nationale et le commandant du corps de la gendarmerie.\n      </p>\n      <p class=\"intro-text\">\n        Ils pourront déléguer ce droit aux officiers d'intendance et aux officiers commandants d'unité ou de détachement. Exceptionnellement, le commandant des troupes dont le concours a été réclamé pour effectuer des travaux d'intérêt général, en cas de sinistre ou d'accident (incendie, inondation, etc...), peut, d'autorité et sous sa responsabilité, réquisitionner sur place, en cas d'urgence, les outils, matériaux et les auxiliaires nécessaires à l'accomplissement de sa mission.\n      </p>\n      <p class=\"intro-text\">\n        Les bourgmestres des communes où il n'existe pas de garnison, sont tenus de fournir le logement et la nourriture aux militaires désignés sous\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">1°</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2°</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de l'article 2 de la loi, sur présentation par ces derniers des documents dont ils sont porteurs (ordre de marche, ordre de rejoindre, ordre de rappel, titre de congé).</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.584Z",
+  "tokenUsage": {
+    "prompt": 1927,
+    "completion": 477,
+    "total": 2404
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996000212",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un article 14bis, rédigé comme suit, est inséré dans le même arrêté :</p>\n      <p>&quot;Art. 14bis. Les membres du personnel des organisations syndicales représentatives agréés en vertu de l'article 13, § 1er, alinéa 2, 1° et 2°, bénéficient d'un congé de formation de deux jours par an.</p>\n      <p>Dans ces limites, le congé visé à l'alinéa 1er peut également être employé pour la formation de mandataires syndicaux non visés à l'article 13, § 1er, alinéa 2, 1° et 2°.&quot;</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.048Z",
+  "tokenUsage": {
+    "prompt": 1654,
+    "completion": 238,
+    "total": 1892
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041360",
+  "articleNumber": "II.53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-II-53\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article II.53</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans le même décret, au chapitre IV/2, section 3, insérée par l'article II.51, il est inséré un article 37/43/1, rédigé comme suit :</p>\n      <p>\" Art. 37/43/1. En cas de refus de la demande d'inscription, visé à l'article 37/42, § 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">ou sur la base de l'atteinte de la capacité, l'autorité scolaire informe les parents et les services compétents de la Communauté flamande du refus dans les sept jours calendrier.</span></li>\n      </ol>\n      <p>En cas d'exclusion définitive d'un élève, telle que visée aux articles 32 et 33, l'autorité scolaire en informe les services compétents de la Communauté flamande dans les sept jours calendrier.</p>\n      <p>Le Gouvernement flamand arrête le modèle numérique du document de refus.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.479Z",
+  "tokenUsage": {
+    "prompt": 1810,
+    "completion": 343,
+    "total": 2153
+  }
+}

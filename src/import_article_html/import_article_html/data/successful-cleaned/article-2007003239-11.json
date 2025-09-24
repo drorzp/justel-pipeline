@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003239",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A la demande de la <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-03-03/01\" data-law-type=\"AR\" data-article-number=\"331\">FSMA</span>,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les parties à l'offre lui transmettent sans délai tous les accords susceptibles d'avoir une incidence substantielle sur l'évaluation de l'offre, son déroulement et son issue;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les parties à l'offre publient, selon les modalités déterminées par la <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-03-03/01\" data-law-type=\"AR\" data-article-number=\"331\">FSMA</span>, les clauses pertinentes d'un accord qui lui a été transmis conformément au 1° et qui est susceptible d'avoir une incidence substantielle sur l'évaluation de l'offre, son déroulement et son issue.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n    <footer class=\"article-footer\">\n        <span class=\"footnote footnote-details\" data-footnote-id=\"1\" data-dossier-number=\"2011-03-03/01\" data-law-type=\"AR\" data-article-number=\"331\">\n            AR 2011-03-03/01, art. 331, 002; En vigueur : 01-04-2011\n        </span>\n    </footer>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.774Z",
+  "tokenUsage": {
+    "prompt": 1809,
+    "completion": 443,
+    "total": 2252
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017013277",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 9 du même arrêté, les mots \"l'article 5, alinéa 1er, 1° et 2° \" sont remplacés par les mots \"l'article 5, alinéa 1er, 1°, 2° et 3° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.614Z",
+  "tokenUsage": {
+    "prompt": 1479,
+    "completion": 143,
+    "total": 1622
+  }
+}

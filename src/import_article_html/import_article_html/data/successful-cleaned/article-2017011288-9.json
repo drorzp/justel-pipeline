@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011288",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans l'article 13, § 1er, du même arrêté, modifié par l'arrêté du Gouvernement flamand du 6 mars 2009, les mots \"à la capitainerie de ce port\" sont remplacés par le membre de phrase \"aux services visés à l'article 15, § 1er, alinéa premier, 1° et 2°, \".</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans l'article 13, § 2, du même arrêté, les mots \"La capitainerie du port communique les informations, indiquées au 1er, immédiatement après les avoir reçues\" sont remplacés par le membre de phrase \"Les services, visés à l'article 15, § 1er, alinéa 1er, 1° et 2°, communiquent l'information visée au § 1er dès réception de celle-ci, \".</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.757Z",
+  "tokenUsage": {
+    "prompt": 1834,
+    "completion": 349,
+    "total": 2183
+  }
+}

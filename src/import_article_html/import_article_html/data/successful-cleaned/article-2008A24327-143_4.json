@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008A24327",
+  "articleNumber": "143/4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-143/4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 143/4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-02-28/07\" data-law-type=\"L\" data-article-number=\"33\">\n        <p>Le conseil médical du réseau hospitalier clinique locorégional dispense à la gestion du réseau hospitalier clinique locorégional un avis sur les matières visées à l'article 137,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"16°\"><span class=\"provision-text\">et</span></li>\n          <li class=\"provision\" data-number=\"18°\"><span class=\"provision-text\">pour autant que ces matières se situent au niveau du réseau, le cas échéant après transfert en application de l'article 140/1.</span></li>\n        </ol>\n        <p>Par ailleurs, le conseil médical du réseau hospitalier clinique locorégional dispense un avis sur toutes les autres matières que celles visées à l'article 143/3 qui lui sont soumises par la gestion du réseau hospitalier clinique locorégional.</p>\n        <p>Le conseil médical du réseau est également habilité à dispenser à la gestion du réseau hospitalier clinique locorégional, de sa propre initiative, un avis concernant toutes les matières qui concernent l'exercice de la médecine dans le réseau hospitalier clinique locorégional.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.064Z",
+  "tokenUsage": {
+    "prompt": 1921,
+    "completion": 387,
+    "total": 2308
+  }
+}

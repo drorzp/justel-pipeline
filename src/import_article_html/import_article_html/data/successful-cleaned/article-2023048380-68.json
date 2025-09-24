@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048380",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 68</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Par dérogation à l'article 534/174, alinéa 2, de l'arrêté du Gouvernement flamand du 30 novembre 2018 portant exécution du décret du 18 mai 2018 relatif à la protection sociale flamande, une demande est considérée comme complète si les éléments mentionnés dans l'article 534/179, alinéa 2,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1° et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">3°, de l'arrêté précité, sont complets.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le volet 2 mentionné dans l'article 534/179, alinéa 2, 2°, de l'arrêté précité est conservé par l'initiative d'habitation protégée et ne doit pas nécessairement être transmis par le biais de l'application numérique.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.501Z",
+  "tokenUsage": {
+    "prompt": 1713,
+    "completion": 320,
+    "total": 2033
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014203",
+  "articleNumber": "96",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-96\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 96</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans les articles 219, § 2, 1°, 222, § 2, 1°, 313, § 2, 1°, 395, § 2, 1°, 396, § 4, 1°, 423, § 4, 1°, 444, § 2, 1°, 447, § 2, 1° et 602, § 2, 1°, du même Code, les mots <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2002-08-02\" data-law-type=\"L\" data-article-number=\"2\">\"article 2, 3°, 5° et 6°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers\"</span> sont chaque fois remplacés par les mots <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2017-11-21\" data-law-type=\"L\" data-article-number=\"3\">\"article 3, 7°, 8° et 9°, de la loi du 21 novembre 2017 relative aux infrastructures des marchés d'instruments financiers et portant transposition de la Directive 2014/65/UE\"</span>.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.585Z",
+  "tokenUsage": {
+    "prompt": 1743,
+    "completion": 362,
+    "total": 2105
+  }
+}

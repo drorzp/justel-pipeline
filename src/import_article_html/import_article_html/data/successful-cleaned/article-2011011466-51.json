@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011011466",
+  "articleNumber": "51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-51\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 51</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">à l'article 30bis, § 3, de la même loi, inséré par la loi du 22 décembre 2008, les mots &quot;l'article 23, § 2, 3°, 3° bis, 19° et 20°, à l'article 23bis, à l'article 23ter et à l'article 26, § 1er, en ce qui concerne l'exécution des missions de la commission visées aux articles 23, § 2, 3°, 3° bis, 19° et 20°, 23bis et 23ter, et à l'article 26, § 1erbis de la présente loi et de ses arrêtés d'exécution&quot; sont remplacés par les mots &quot;l'article 23, § 2, 3°, 3° bis, 5°, 19° à 22°, 25° et 29°, à l'article 23bis, à l'article 23ter et à l'article 26, § 1er, en ce qui concerne l'exécution des missions de la commission visées à l'article 23, § 2, 3°, 3° bis, 19° à 22°, 25° et 29°, à l'article 23bis, à l'article 23ter et à l'article 26, § 1erbis&quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.152Z",
+  "tokenUsage": {
+    "prompt": 2252,
+    "completion": 379,
+    "total": 2631
+  }
+}

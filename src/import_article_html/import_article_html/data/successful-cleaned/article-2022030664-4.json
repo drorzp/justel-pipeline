@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030664",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 2 du même arrêté royal, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le 2° est remplacé par ce qui suit : &quot; 2° &quot;loi du 25 avril 2014 &quot; ou &quot;la loi&quot; : la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse ; &quot; ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les 3°, 4°, 9° et 11° sont abrogés ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le 7° est remplacé par ce qui suit : &quot; 7° &quot;sorties nettes de trésorerie &quot; : l'ensemble des flux de paiement sortants arrivant à échéance un jour, incluant le paiement du principal, des intérêts et les paiements liés aux contrats dérivés et aux frais de maintenance et de gestion de l'émission ou du programme d'émission de covered bonds belges, net de tous les flux de paiement entrants arrivant à échéance le même jour au titre des créances liées aux actifs de couverture ; &quot; ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">le 8° est remplacé par ce qui suit : &quot; 8° &quot; contrat dérivé &quot; : un contrat visé à l'article 1er/3 de l'Annexe III de la loi du 25 avril 2014 ; &quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.842Z",
+  "tokenUsage": {
+    "prompt": 2046,
+    "completion": 509,
+    "total": 2555
+  }
+}

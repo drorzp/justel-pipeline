@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012007321",
+  "articleNumber": "47",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-47\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 47</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 28 du même arrêté, est remplacé par ce qui suit: &quot; Art. 28. Le commandant du Service accueil et orientation est compétent pour mettre fin au processus de recrutement:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">pour les raisons visées à l'article 15, alinéa 1er, 2° et 3°, de la loi;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">lorsque le postulant n'a pas remis l'attestation visée à l'article 6, § 2, alinéa 2, dans le délai fixé.</span></li>\n      </ol>\n      <p>Le postulant qui commet une fraude ou une tentative de fraude est exclu du processus de sélection par l'autorité qui organise l'épreuve de sélection.</p>\n      <p class=\"closing-text\">Le postulant visé à l'alinéa 2 ne peut présenter à nouveau l'épreuve lors de laquelle il a été exclu qu'à l'expiration du délai correspondant à cette épreuve, fixé dans la colonne 6 du tableau de l'annexe A au présent arrêté, excepté les épreuves de condition physique mesurant le potentiel physique, qui ne peuvent être présentées à nouveau qu'après un délai de huit mois. Les délais susmentionnés commencent à s'écouler à partir de la date de la notification de l'exclusion à l'intéressé. &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.181Z",
+  "tokenUsage": {
+    "prompt": 1965,
+    "completion": 426,
+    "total": 2391
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009024498",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 38</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les articles 26, 2° et 3°, 31, 32, 33, 35 et 36 de la présente loi produisent leurs effets le 1er décembre 2009.<br>L'article 34 de la présente loi entre en vigueur à une date à fixer par le Roi.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.940Z",
+  "tokenUsage": {
+    "prompt": 1482,
+    "completion": 144,
+    "total": 1626
+  }
+}

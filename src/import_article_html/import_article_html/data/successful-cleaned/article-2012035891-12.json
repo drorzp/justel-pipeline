@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012035891",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 10 du même arrêté sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans le paragraphe 1er les mots &quot; ou en cas d'activation du plan ou des plans, cité(s) dans l'article 26, § 1er, de l'Accord de Coopération Garde Côtière, l'instance, citée dans l'article 26, § 1er, de l'Accord de coopération précité, &quot; sont insérés entre les mots &quot; le MRCC &quot; et les mots &quot; peut prendre notamment les mesures suivantes &quot;;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à la fin du paragraphe 1er, il est ajouté la phrase suivante :</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">&quot; Si un navire est remorqué sous un contrat de remorquage ou de sauvetage, les mesures, visées aux points</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">4°, prises par le MRCC ou par l'instance citée dans l'article 26, § 1er, de l'Accord de Coopération Garde Côtière, peuvent également être appliquées aux entreprises d'assistance, de sauvetage et de remorquage.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.324Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 463,
+    "total": 2439
+  }
+}

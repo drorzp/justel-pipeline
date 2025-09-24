@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031906",
+  "articleNumber": "219",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-219\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 219</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 313 de la même loi, modifié en dernier lieu par la loi du 2 mai 2019, le paragraphe 2 est remplacé par ce qui suit :</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La Banque publie sur son site internet la liste des établissements visés au présent article, en distinguant les catégories visées au</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1°</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">2° de l'article 1er, § 3, alinéa 1er, ainsi que les modifications qui y sont apportées.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.207Z",
+  "tokenUsage": {
+    "prompt": 1675,
+    "completion": 291,
+    "total": 1966
+  }
+}

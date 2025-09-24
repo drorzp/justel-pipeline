@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994036190",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 44</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sans préjudice des conditions de l'article 42, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">3°, le projet doit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">être exécuté par des instances disposant de la compétence professionnelle nécessaire à cet effet;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">être scientifiquement accompagné pendant au moins 5 ans par la Station de l'Etat pour la Pêche maritime ou par une autre instance disposant de la compétence professionnelle nécessaire. L'accompagnement doit particulièrement être axé sur le développement et le contrôle des réserves de poissons dans la zone côtière concernée.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.123Z",
+  "tokenUsage": {
+    "prompt": 1699,
+    "completion": 313,
+    "total": 2012
+  }
+}

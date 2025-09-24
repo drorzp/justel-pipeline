@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020030617",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sans préjudice des obligations prévues par le présent arrêté, les prêteurs sont obligés :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">de respecter le taux d'intérêt maximal garanti visé à l'article 9 aux crédits garantis ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">d'appliquer les bonnes pratiques en matière d'octroi de crédit, en ce compris en ce qui concerne l'obtention de sûretés, selon les conditions du marché et conformément à leurs pratiques existantes avant l'entrée en vigueur de la loi ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">d'éviter que les causes visées au chapitre 6 surviennent, sauf, hormis les cas visés à l'article 22, 9°, et de l'article 23, 4°, 5° et 6°, lorsqu'elles sont exclusivement la conséquence d'une négligence non intentionnelle et excusable ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de s'abstenir de pratiques qui visent principalement à se placer ou à placer des emprunteurs ou des crédits dans le champ d'application de la loi et du présent arrêté ou hors du champ d'application de ceux-ci, et ce contrairement aux objectifs de la loi et du présent arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.260Z",
+  "tokenUsage": {
+    "prompt": 1919,
+    "completion": 433,
+    "total": 2352
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008A15124",
+  "articleNumber": "N",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article N</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Conformément à l'article 29 de la Convention:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et à l'article 13 de la Convention</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, ces Conventions entrent en vigueur 30 jours après la date de l'échange des instruments de ratification, c'est-à-dire en date du 23 juillet 2010.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.064Z",
+  "tokenUsage": {
+    "prompt": 1503,
+    "completion": 196,
+    "total": 1699
+  }
+}

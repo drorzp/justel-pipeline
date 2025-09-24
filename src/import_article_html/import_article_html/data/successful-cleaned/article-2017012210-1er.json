@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017012210",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les emplois visés à l'article 145, § 1er, 1° et 2°, de la nouvelle loi communale sont reliés aux grades. Les grades sont répartis en cinq niveaux correspondants au diplôme ou certificat valant comme condition de recrutement pour ce niveau.</p>\n            <p>Les cinq niveaux et les diplômes ou certificats correspondants sont :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1.\">\n                    <span class=\"provision-text\">niveau A : un diplôme de master, un diplôme du deuxième cycle de l'enseignement universitaire ou de l'enseignement supérieur assimilé;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2.\">\n                    <span class=\"provision-text\">niveau B : un diplôme de bachelor, un diplôme du premier cycle de l'enseignement universitaire ou de l'enseignement supérieur assimilé ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3.\">\n                    <span class=\"provision-text\">niveau C : un certificat de l'enseignement secondaire supérieur ou d'enseignement assimilé ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4.\">\n                    <span class=\"provision-text\">niveau D : un certificat d'enseignement secondaire du deuxième degré,</span>\n                </li>\n                <li class=\"provision\" data-number=\"5.\">\n                    <span class=\"provision-text\">niveau E : pas d'exigence de diplôme.</span>\n                </li>\n            </ol>\n            <p>Un titre de compétence professionnelle correspondant à la fonction, obtenu conformément à la réglementation sur les titres de compétence professionnelle, peut remplacer le diplôme ou le certificat prévu aux niveaux B, C et D.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.607Z",
+  "tokenUsage": {
+    "prompt": 2013,
+    "completion": 466,
+    "total": 2479
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003166",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les articles 10, 11 et 15bis de l'arrêté ministériel du 22 juillet 1998 relatif aux déclarations en matière de douane et d'accises sont remplacés par les articles suivants:</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 10.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Dans les circonstances visées à l'article 2,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"a)\"><span class=\"provision-text\">e)</span></li>\n                        <li class=\"provision\" data-number=\"f)\"><span class=\"provision-text\">du présent arrêté, un formulaire conforme au modèle figurant à l'annexe XI du présent arrêté doit être utilisé pour la déclaration à l'importation de marchandises en franchise des droits à l'importation et des accises en vertu des articles 19-7, 19-8 et 20,</span></li>\n                    </ol>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.771Z",
+  "tokenUsage": {
+    "prompt": 2311,
+    "completion": 315,
+    "total": 2626
+  }
+}

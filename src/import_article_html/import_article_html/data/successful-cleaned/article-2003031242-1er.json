@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003031242",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les articles suivants de l'ordonnance du 18 juillet 2002 modifiant l'ordonnance du 29 août 1991 organique de la planification et de l'urbanisme entrent en vigueur le 31 mai 2003 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les articles 33, 2° et 3°, 44, 46,2°, 47, 48,1°, 66, 68 à 72;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le 3° de l'article 139 tel que modifié par l'article 45 de l'ordonnance du 18 juillet 2002 précitée.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.623Z",
+  "tokenUsage": {
+    "prompt": 1675,
+    "completion": 273,
+    "total": 1948
+  }
+}

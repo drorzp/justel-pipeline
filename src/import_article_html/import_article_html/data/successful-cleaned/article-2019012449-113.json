@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012449",
+  "articleNumber": "113",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-113\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 113</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 147, § 2, alinéa 1er, de la même loi, modifié par la loi du 30 juillet 2018, est complété par les 4° et 5°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">il doit se conformer à une exigence imposée par la Banque en application de dispositions de la présente loi, d'un arrêté royal ou règlement pris pour son exécution ou des mesures d'exécution de la directive (UE) 2015/2366 ou des dispositions du titre II du Règlement (UE) n° 648/2012 ou des articles 4 et 15 du Règlement (UE) n° 2015/2365 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">il doit se conformer aux exigences fixées par la Banque comme conditions à une décision prise en application de la présente loi, d'un arrêté royal ou règlement pris pour son exécution ou des mesures d'exécution de la directive (UE) 2015/2366 ou des dispositions du titre II du Règlement (UE) n° 648/2012 ou des articles 4 et 15 du Règlement (UE) n° 2015/2365, notamment l'octroi d'une autorisation ou d'une dérogation.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.307Z",
+  "tokenUsage": {
+    "prompt": 1965,
+    "completion": 419,
+    "total": 2384
+  }
+}

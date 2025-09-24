@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008203215",
+  "articleNumber": "91",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-91\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 91</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">Les articles du présent chapitre sont applicables à l'entrepreneur de l'exploitation.</div>\n            </section>\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">Les articles du présent chapitre ne sont pas applicables aux exploitations visées à l'article 74, alinéa 1er,</div>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"></span></li>\n                    <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">et</span></li>\n                    <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">.</span></li>\n                </ol>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.920Z",
+  "tokenUsage": {
+    "prompt": 1583,
+    "completion": 253,
+    "total": 1836
+  }
+}

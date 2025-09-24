@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1988062452",
+  "articleNumber": "21bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-02-22/03\" data-law-type=\"ORD\" data-article-number=\"2\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Au plus tard dans les trois mois de son installation, le conseil communal décide si les membres du collège des bourgmestre et échevins peuvent disposer d'un cabinet. Le conseil communal règle la composition et le financement des cabinets, la possibilité de détacher du personnel communal, ainsi que le mode de recrutement, le statut administratif, la rémunération et les indemnités éventuelles des collaborateurs des cabinets.</p>\n          <p>Les membres d'un cabinet ne peuvent pas être parents ou alliés jusqu'au deuxième degré inclus, ni être unis par les liens du mariage ou cohabitants légaux avec un membre du collège des bourgmestre et échevins.</p>\n          <p>Ils ne peuvent pas occuper les fonctions visées à l'article 71, alinéa 1er, 1° et 2°.</p>\n          <p>Ils peuvent être des membres détachés de l'administration communale, moyennant l'accord préalable du secrétaire communal. Seuls les membres du personnel des rangs E1 à A4 peuvent être détachés dans le cabinet du bourgmestre ou d'un échevin.</p>\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.712Z",
+  "tokenUsage": {
+    "prompt": 2008,
+    "completion": 395,
+    "total": 2403
+  }
+}

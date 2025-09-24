@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006021363",
+  "articleNumber": "144/2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-144/2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 144/2</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-12-30/01\" data-law-type=\"L\" data-article-number=\"75\">\n      <section class=\"paragraph\" id=\"para-1er\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans le cadre de la retenue visée à l'article 126, § 1er, le bénéficiaire de l'indemnité complémentaire visée à l'article 114,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">a), communique au débiteur de celle-ci les périodes de reprise du travail et la fin de celles-ci.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n      <section class=\"paragraph\" id=\"para-2\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Par dérogation à l'article 26 de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, lorsque l'employeur n'a pas été averti de la cessation de la reprise du travail par son ancien travailleur, il peut récupérer auprès de ce dernier les cotisations personnelles si elles n'ont pas été retenues.</p>\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.833Z",
+  "tokenUsage": {
+    "prompt": 1938,
+    "completion": 441,
+    "total": 2379
+  }
+}

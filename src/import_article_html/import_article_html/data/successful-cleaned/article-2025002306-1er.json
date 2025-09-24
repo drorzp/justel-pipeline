@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025002306",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 7.9.2/1, § 1er, de l'arrêté relatif à l'énergie du 19 novembre 2010, inséré par l'arrêté du Gouvernement flamand du 14 décembre 2018 et remplacé par l'arrêté du Gouvernement flamand du 16 juin 2023, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">entre les alinéas 9 et 10, un nouvel alinéa rédigé comme suit est inséré : \" Si, pour l'accompagnement visé à l'alinéa 1er, 7° et 8°, les demandes inscrites au 1er avril s'élèvent à plus de 50 % du budget disponible pour cette année, ou si les demandes inscrites au 1er juin s'élèvent à plus de 60 % du budget disponible pour cette année, ou si les demandes inscrites au 1er août s'élèvent à plus de 75 % du budget disponible pour cette année, le ministre peut décider, sur la base d'une évaluation étayée par des chiffres, de limiter ou mettre à terme l'accompagnement visé à l'alinéa 1er, 7° et 8°. \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans l'alinéa dernier, l'année \" 2024 \" est remplacée par l'année \" 2029 \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.716Z",
+  "tokenUsage": {
+    "prompt": 2008,
+    "completion": 444,
+    "total": 2452
+  }
+}

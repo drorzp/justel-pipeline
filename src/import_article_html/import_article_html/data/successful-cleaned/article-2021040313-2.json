@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021040313",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5 du même arrêté ministériel est complété par un alinéa rédigé comme suit: &quot;Par dérogation à l'alinéa précédent, le Fonctionnaire dirigeant de l'Office bicommunautaire de la Santé, de l'Aide aux personnes et des prestations familiales est chargé de l'exécution de l'article 1er, § 1/1,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et §§ 2 à 4, du présent arrêté, pour les centres et services pour personnes handicapées.&quot;</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.144Z",
+  "tokenUsage": {
+    "prompt": 1618,
+    "completion": 234,
+    "total": 1852
+  }
+}

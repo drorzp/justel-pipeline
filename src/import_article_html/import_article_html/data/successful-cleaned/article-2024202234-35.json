@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024202234",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 35</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 154 du même Code, inséré par le décret du 27 mars 2014 et modifié par le décret du 8 novembre 2018, les modifications suivantes sont apportées :</p>\n            <ol>\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    dans l'alinéa 2, les mots \" locales d'intégration \" sont insérés entre le mot \" initiatives \" et le mot \" rencontrent \";\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    l'alinéa 2 est complété par des 5° et 6° rédigés comme suit :\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"5°\">\n                            <span class=\"provision-text\">la promotion de l'interculturalité;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"6°\">\n                            <span class=\"provision-text\">la lutte contre le racisme.</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"c)\">\n                    il est complété par un alinéa 3 rédigé comme suit : \" Le Gouvernement fixe les modalités d'exercice des missions visées à l'alinéa 2.\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.702Z",
+  "tokenUsage": {
+    "prompt": 1822,
+    "completion": 372,
+    "total": 2194
+  }
+}

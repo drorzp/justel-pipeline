@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031329",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 37</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 4, <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">, entre en vigueur le 1er juillet 2022.</span></li>\n            </ol></p>\n            <p>Les articles 22 à 24 entrent en vigueur le jour de la publication du présent décret au Moniteur belge.</p>\n            <p>L'article 36 produit ses effets le 1er janvier 2022.</p>\n            <p>L'article 4.7/1.1 du Décret sur l'Energie du 8 mai 2009, inséré par l'article 17, est applicable pour la première fois aux demandes de permis d'environnement pour le lotissement de terrains ou aux permis d'environnement pour des actes urbanistiques introduites à partir du premier jour du mois suivant la publication du présent décret au Moniteur belge.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.743Z",
+  "tokenUsage": {
+    "prompt": 1721,
+    "completion": 299,
+    "total": 2020
+  }
+}

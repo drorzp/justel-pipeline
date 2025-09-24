@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013007327",
+  "articleNumber": "123",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-123\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 123</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 14 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">dans le 1°, les mots &quot;citoyen d'un état membre de l'Union européenne&quot; sont remplacés par les mots &quot;ressortissant d'un état membre de l'Espace économique européen ou de la Confédération Suisse&quot;;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">le 2° est remplacé par ce qui suit :</span>\n          <p>&quot;2° est condamné, conformément à l'article 19 du Code pénal ou à l'article 5 du Code pénal militaire ou à l'interdiction, même temporaire, d'un des droits visés à l'article 31, 1° et 6°, du Code pénal, sauf si ces condamnations sont prononcées avec sursis et pour autant que ce sursis ne soit pas révoqué.&quot;.</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.020Z",
+  "tokenUsage": {
+    "prompt": 1773,
+    "completion": 327,
+    "total": 2100
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016229",
+  "articleNumber": "6.44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6-44\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6.44</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Si le contrat portant sur l'offre de soins et d'appui, conclu entre le locataire d'un logement AVJ et le prestataire de soins autorisé prend fin ou est résilié ou si le contrat est modifié pour comprendre moins de soins et d'appui que ceux mentionnés à l'article 6.12, alinéa 4, le locataire accepte l'offre d'un autre logement locatif social qui répond au type, à la localisation et au loyer maximal qu'il a indiqués en application de l'article <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2021-12-17/31\" data-law-type=\"AGF\" data-article-number=\"40\">6.5, § 2, troisième alinéa, 1°, 2° et 3°</span>, à moins que le bailleur n'autorise une dérogation. Le refus non fondé d'une offre est considéré comme un manquement grave aux obligations du locataire <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-12-17/31\" data-law-type=\"AGF\" data-article-number=\"40\">...</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.220Z",
+  "tokenUsage": {
+    "prompt": 1939,
+    "completion": 346,
+    "total": 2285
+  }
+}

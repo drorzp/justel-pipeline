@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005005",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 5.3.1, § 1er, du même décret, modifié par le décret du 24 juin 2022, est complété par des points 5° et 6°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">le respect des obligations de service public autres que celles visées aux 1° à 4°, imposées au fournisseur d'eau conformément à l'article 2.5.1.1 et à ses arrêtés d'exécution, le fournisseur d'eau se voit infliger une amende administrative entre 375 euros et 750 euros ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">le respect des obligations de service public imposées conformément à l'article 2.3.5, § 3, et à ses arrêtés d'exécution, l'instance chargée de l'exécution de l'obligation communale d'assainissement se voit infliger une amende administrative entre 375 euros et 750 euros.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.422Z",
+  "tokenUsage": {
+    "prompt": 1808,
+    "completion": 339,
+    "total": 2147
+  }
+}

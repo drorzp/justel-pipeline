@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999022968",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 171 du même arrêté, les mots \" Les missions visées à l'article 170, 5°, 6° et 7° \" sont remplacés par les mots \" Les missions visées à l'article 170, 5°, 6°, 7° et 12° \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.279Z",
+  "tokenUsage": {
+    "prompt": 1623,
+    "completion": 149,
+    "total": 1772
+  }
+}

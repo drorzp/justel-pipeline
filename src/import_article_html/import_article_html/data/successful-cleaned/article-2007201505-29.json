@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007201505",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 29</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 111, alinéa 1er, des mêmes lois, remplacé par la loi du 29 avril 1996 et modifié par l'arrêté royal du 27 mai 2004, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, les mots \" en application de l'article 101, alinéa 3, 2°, 3°, 4°, 7° et 8° \", sont remplacés par les mots \" en application de l'article 101, alinéa 3, 2°, 3°, 4°, 7°, 8° et 9° \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'alinéa suivant est inséré entre les alinéas 1er et 2 :</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">\" Les frais d'administration versés par les personnes de droit public visées à l'article 101, alinéa 3, 9°, sont fixés à 1,35 % du montant des prestations familiales payées pour leur compte, en raison de la transmission, par elles, des types de données permettant, selon les modalités fixées par le Roi, cette réduction du pourcentage des frais dus à l'Office national.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.982Z",
+  "tokenUsage": {
+    "prompt": 1942,
+    "completion": 414,
+    "total": 2356
+  }
+}

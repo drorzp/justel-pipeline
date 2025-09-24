@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990009483",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Sont autorisés à accéder aux informations visées à l'article 3, alinéa 1er, 1° à 6°, 8° et 9°, et alinéa 2, de la même loi, le directeur général de (la Direction générale de la Législation pénale et des Droits de l'Homme) et les fonctionnaires du niveau 1 délégués par lui nommément et par écrit.<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1999-04-29/37\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 1999-04-29/37, art. 2, 002;**En vigueur :**15-06-1999&gt;</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.725Z",
+  "tokenUsage": {
+    "prompt": 1647,
+    "completion": 247,
+    "total": 1894
+  }
+}

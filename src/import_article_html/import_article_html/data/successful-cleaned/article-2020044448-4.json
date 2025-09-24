@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044448",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 1er, § 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, modifié en dernier lieu par la loi du 31 juillet 2020, est complété par les 30° et 31° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"30°\">\n                    <span class=\"provision-text\">l'accord de retrait : l'accord sur le retrait du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord de l'Union européenne et de la Communauté européenne de l'énergie atomique (2019/C 384 I/01) ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"31°\">\n                    <span class=\"provision-text\">bénéficiaire de l'accord de retrait : la personne visée à l'article 10 de l'accord de retrait.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.082Z",
+  "tokenUsage": {
+    "prompt": 1739,
+    "completion": 308,
+    "total": 2047
+  }
+}

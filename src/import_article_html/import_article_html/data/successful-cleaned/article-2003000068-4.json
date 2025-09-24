@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003000068",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La Direction du Personnel extérieur et la Direction du personnel de l'administration centrale de la Direction générale d'Administration du Ministère des Affaires étrangères sont autorisées, pour l'accomplissement des tâches de gestion interne relevant de leurs compétences, à utiliser le numéro d'identification des personnes inscrites au Registre national des personnes physiques, pour autant que ces personnes relèvent du personnel des Ambassades et des Consulats belges à l'étranger ou de l'administration centrale du Ministère des Affaires étrangères.</p>\n            <p class=\"intro-text\">L'autorisation d'utilisation du numéro d'identification visée à l'alinéa 1er est réservée :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au Directeur général de la Direction générale d'Administration;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">aux fonctionnaires dirigeant la Direction du Personnel extérieur et la Direction du personnel de l'administration centrale de la Direction générale d'Administration;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">aux membres du personnel que les fonctionnaires visés sous 1° et 2° désignent nommément et par écrit à cet effet au sein de leurs services, en raison de leurs fonctions et dans les limites de leurs attributions respectives.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.714Z",
+  "tokenUsage": {
+    "prompt": 1905,
+    "completion": 413,
+    "total": 2318
+  }
+}

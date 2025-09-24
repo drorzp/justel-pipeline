@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018040369",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 59</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si un parent ou les deux parents, en tant que bénéficiaires des allocations familiales, visées à la partie 1 du livre 2, n'éduque ou n'éduquent pas principalement l'enfant bénéficiaire, l'éducateur réel ou deux éducateurs réels peuvent devenir le bénéficiaire ou les bénéficiaires pour l'enfant bénéficiaire.</p>\n        <p>Une présomption réfutable d'éducation principale naît si l'enfant a son domicile auprès de l'éducateur réel ou des éducateurs réels.</p>\n        <p>L'éducateur réel ou les deux éducateurs réels peuvent être désignés par une intervention d'une autorité ou d'un organisme de droit public, ou par un prononcé du tribunal compétent. La partie la plus diligente transmet le prononcé judiciaire à l'acteur de paiement.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si un enfant bénéficiaire est placé dans une famille d'accueil par l'intermédiaire ou à charge d'une autorité publique conformément à l'article 2, 6° et 7°, du décret du 29 juin 2012 portant organisation du placement familial, l'accueillant visé à l'article 2, 12°, du même décret, est considéré comme l'éducateur réel pour les allocations familiales, visées à la partie 1 du livre 2.</p>\n        <p>Le Gouvernement flamand peut arrêter des modalités pour désigner une autre personne supplémentaire comme bénéficiaire.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.349Z",
+  "tokenUsage": {
+    "prompt": 2068,
+    "completion": 465,
+    "total": 2533
+  }
+}

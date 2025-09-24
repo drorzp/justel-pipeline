@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007012347",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 31 du même arrêté est remplacé par la disposition suivante :</p>\n            <p class=\"intro-text\">\" Art. 31. Le montant maximum de l'indemnité de transition est égal au montant obtenu en soustrayant du montant maximum visé à l'article 32, les montants des paiements effectués par le Fonds pour les rémunérations, les indemnités, les avantages et les pécules de vacances visés à l'article 24, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1° et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2°. Pour l'application de cette disposition, les pécules de vacances visés à l'article 24, alinéa 1er, 2°, incluent également le pécule de vacances dû sur l'indemnité de transition.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.854Z",
+  "tokenUsage": {
+    "prompt": 1706,
+    "completion": 315,
+    "total": 2021
+  }
+}

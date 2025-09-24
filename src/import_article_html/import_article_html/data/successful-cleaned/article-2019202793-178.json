@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019202793",
+  "articleNumber": "178",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-178\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 178</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5.3 du même décret, modifié par les décrets des 11 mai 2009 et 24 juin 2013, est remplacé par ce qui suit :  &quot; En ce qui concerne les fonctions au sein de la haute école, il s'agit des fonctions énumérées aux articles suivants de l'arrêté royal du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical et sociopsychologique des établissements d'enseignement gardien, primaire, spécialisé, moyen, technique, artistique et normal de l'Etat et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces établissements :  </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'article 6, D et E;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article 7, a), 3bis et 4bis;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'article 10.1, a), 4°, 6° et 7°.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">&quot;</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.419Z",
+  "tokenUsage": {
+    "prompt": 1878,
+    "completion": 398,
+    "total": 2276
+  }
+}

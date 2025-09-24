@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035274",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 4.1.8.1, du même arrêté, modifié en dernier lieu par l'arrêté du Gouvernement flamand du 8 décembre 2006, sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">au paragraphe 1er est ajouté un point 5°, rédigé comme suit : \" 5° un établissement qui dispose d'une capacité de stockage pour substances pulvérulentes de plus de 50 000 m2 de superficie au sol, les établissements ayant une capacité moyenne de transbordement de substances pulvérulentes calculée sur les trois années calendaires précédentes de plus de 700 000 tonnes par an et les établissements ayant une capacité de transbordement attendue de substances pulvérulentes de plus de 700 000 tonnes par an; \"</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">il est inséré un nouveau paragraphe 3bis, rédigé comme suit : \" § 3bis. Les établissements qui introduisent un rapport environnemental annuel conformément au paragraphe 1er, 5°, procèdent à une évaluation quantitative motivée de leurs émissions de poussières non contrôlées et reprennent cette évaluation dans le rapport environnemental annuel \".</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">Dans le paragraphe 1er, 5°, la partie de phrase \" mentionné dans le § 1er, 1°, 2° et 4° \" est remplacée par la partie de phrase \" mentionné dans le § 1er, 1°, 2°, 4° et 5° \".</span>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.056Z",
+  "tokenUsage": {
+    "prompt": 2071,
+    "completion": 481,
+    "total": 2552
+  }
+}

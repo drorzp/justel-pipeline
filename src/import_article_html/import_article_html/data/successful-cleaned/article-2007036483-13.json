@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036483",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La décision relative à l'octroi, au refus, au retrait ou à la suspension est prise par <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-12-02/13\" data-law-type=\"AGF\" data-article-number=\"5\">le Département flamand des Affaires étrangères</span> dans les 30 jours ouvrables de la présentation du dossier complet par le demandeur, ou dans les 30 jours ouvrables de la réception du procès-verbal visé à l'article 10 du décret. <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2012-10-05/05\" data-law-type=\"AGF\" data-article-number=\"7\">Le secrétaire-général du Département flamand des Affaires étrangères ne prend une décision d'octroi ou de refus qu'après avoir offert à l'intéressé par lettre recommandée ou selon le mode prévu à l'art. 2281 du Code civil, la possibilité d'être entendu.</span></p>\n      <p>La décision d'octroi, de retrait ou de suspension de l'autorisation ou de la permission est communiquée à l'intéressé par lettre recommandée ou selon le mode prévu à l'art. 2281 du Code civil. La décision sur l'octroi de l'autorisation ou de la permission mentionne les points de vente pour lesquels la permission est donnée.</p>\n      <p>Si la décision relative à la demande n'a pas été communiquée au demandeur dans les quarante jours ouvrables de la présentation du dossier complet du demandeur, par lettre recommandée ou selon le mode prévu à l'art. 2281 du Code civil, l'autorisation ou la permission est censée être octroyée pour l'entreprise et tous les points de vente demandés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.975Z",
+  "tokenUsage": {
+    "prompt": 2190,
+    "completion": 474,
+    "total": 2664
+  }
+}

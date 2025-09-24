@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008202046",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 79bis de la même loi, inséré par la loi du 22 mai 2005, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au § 1er, alinéa 1er, les mots \"aux articles 80 et 82\" sont chaque fois remplacés par les mots \"à l'article 80\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le § 2, alinéa 1er, est remplacé par la disposition suivante : \" Les ayants droit prennent dans un délai raisonnable des mesures volontaires adéquates, y compris des accords avec les autres parties concernées, afin de fournir à l'utilisateur d'une oeuvre ou d'une prestation, les moyens nécessaires pour pouvoir bénéficier des exceptions prévues à l'article 21, § 2, à l'article 22, § 1er, 4°, 4°bis, 4°ter, 4°quater, 8°, 10°, 11°, et 13°, à l'article 22bis, § 1er, alinéa 1er, 1° à 5°, et à l'article 46, 3°bis, 3°ter, 7°, 9°, 10° et 12°, lorsque celui-ci a un accès licite à l'oeuvre ou à la prestation protégée par les mesures techniques. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.907Z",
+  "tokenUsage": {
+    "prompt": 1990,
+    "completion": 433,
+    "total": 2423
+  }
+}

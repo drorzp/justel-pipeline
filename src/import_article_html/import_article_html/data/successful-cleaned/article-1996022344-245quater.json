@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022344",
+  "articleNumber": "245quater",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-245quater\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 245quater</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-insertion\" data-dossier-number=\"1997-11-24/43\" data-law-type=\"AR\" data-article-number=\"3\" data-effective-date=\"01-01-1997\">&lt;Inséré par AR 1997-11-24/43, art. 3; En vigueur : 01-01-1997&gt;</span> Par dérogation aux dispositions de l'article 245bis, la décision de reconnaissance de l'incapacité de travail ou du degré d'incapacité requis sur le plan médical, prise dans le cadre des articles 100 à 102 de la loi coordonnée, ainsi que la décision prise (en vertu de l'article 215bis, § 1er), qui ne comporte aucun élément susceptible d'être contesté par le titulaire, est communiquée à celui-ci ou à son représentant par lettre ordinaire ou par la remise d'un écrit dans le délai visé à l'article 245bis, alinéa 3; le document transmis à l'intéressé comporte les mentions visées à l'article 14, 5° et 6°, de la loi susvisée du 11 avril 1995.\n            </p>\n            <p class=\"closing-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-01-29/46\" data-law-type=\"AR\" data-article-number=\"6\" data-effective-date=\"01-01-2007\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007012946\">&lt;AR 2007-01-29/46, art. 6, 139; En vigueur : 01-01-2007&gt;</span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.910Z",
+  "tokenUsage": {
+    "prompt": 2077,
+    "completion": 481,
+    "total": 2558
+  }
+}

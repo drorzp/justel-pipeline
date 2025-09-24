@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005A14213",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 13 ne concerne pas les services suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les services visés à l'article 2, a) ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le paiement des jetons de présence lors des élections;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">la coopération de LA POSTE dans le domaine de la distribution des paquets de bulletins de vote;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les prestations visées à l'article 6, 2°, 6, 3° et 6, 4°</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Pour ce qui concerne les services visés à l'article 12, 2°, 12, 3° et 12, 4°, le financement est déterminé dans une convention d'approfondissement spécifique à conclure entre LA POSTE et l'organisme public concerné.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.792Z",
+  "tokenUsage": {
+    "prompt": 1777,
+    "completion": 366,
+    "total": 2143
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007A11400",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans le même accord de coopération, un article 2bis est ajouté, libellé comme suit :</p>\n    <p>Art 2bis.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pendant la période visée aux articles 14, § 2, 1°, 5, 2° et 15, § 2, aucun permis d'environnement ne peut être octroyé ou mis en oeuvre pour l'exploitation d'une station-service sur un terrain pour lequel une demande d'intervention recevable dans le cadre de la fermeture d'une station-service, par mesure transitoire ou non, a été introduite.</p>\n        <p>Toutefois, cette interdiction ne vaut plus lorsque le mandat du Fonds prend fin avant que l'assainissement soit terminé ou lorsque l'agrément du Fonds est retiré.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>A la demande de permis d'environnement pour l'exploitation d'une station-service doit être jointe une attestation du Fonds, sauf lorsque cette demande porte sur une extension, un ajout ou une modification d'un permis existant pour l'exploitation d'une station-service.</p>\n        <p>L'attestation du Fonds précise si le terrain concerné a fait l'objet d'une demande d'intervention recevable dans le cadre de la fermeture d'une station-service, et le cas échéant la période couverte par l'interdiction visée au § 1er.</p>\n        <p>Toute demande d'attestation du Fonds doit être introduite par lettre recommandée avec accusé de réception. Le Fonds délivre l'attestation par lettre recommandée au demandeur dans un délai de trente jours calendrier à dater de la réception de la demande.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.016Z",
+  "tokenUsage": {
+    "prompt": 2149,
+    "completion": 502,
+    "total": 2651
+  }
+}

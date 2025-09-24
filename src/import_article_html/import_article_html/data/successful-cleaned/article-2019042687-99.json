@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042687",
+  "articleNumber": "99",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-99\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 99</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 5 de l'ordonnance du 7 décembre 2017 contenant des dispositions diverses en vue de la reprise du service du précompte immobilier et modifiant l'ordonnance du 21 décembre 2012 établissant la procédure fiscale en Région de Bruxelles-Capitale est complété par les 16° et 17° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"16°\">\n                    <span class=\"provision-text\">dans l'article 447, alinéa 1er, du même Code, les mots \" par un fonctionnaire du Service public fédéral Finances, d'un titre supérieur à celui qui a constaté les faits, mais au minimum du titre de conseiller \" sont remplacés par les mots \" par le fonctionnaire statutaire ou contractuel désigné à cette fin par le Gouvernement de la Région de Bruxelles-Capitale \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"17°\">\n                    <span class=\"provision-text\">dans l'article 463, alinéa 1er, du même Code, les mots \" de l'Administration générale de la fiscalité et l'Administration générale de la perception et du recouvrement et de l'Administration générale de l'inspection spéciale des impôts \" sont remplacés par les mots \" du service désigné par le Gouvernement de la Région de Bruxelles-Capitale \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.501Z",
+  "tokenUsage": {
+    "prompt": 1928,
+    "completion": 402,
+    "total": 2330
+  }
+}

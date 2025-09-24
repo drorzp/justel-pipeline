@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003021248",
+  "articleNumber": "174",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-174\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 174</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 54quater, 1° et 2°, de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé, est remplacé par la disposition suivante :</p>\n      <p class=\"closing-text\">\" aux personnes agréées par le service des soins de santé de l'Institut national d'assurance maladie-invalidite, conformément à l'article 215 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, aux personnes disposant d'un certificat d'immatriculation délivré par le ministre de la Santé publique en vertu de l'article 10 de l'arrêté royal du 16 avril 1965 portant création du diplôme de gradué en kinésithérapie et du diplôme de gradué en ergothérapie et fixation des conditions de collation de ces diplômes, et aux titulaires d'un diplôme en kinésithérapie sanctionnant une formation, qui correspond à une formation d'au moins trois ans dans le cadre d'un enseignement supérieur de plein exercice, pour autant qu'elles soient titulaires de ce diplôme avant le 1er novembre 2002.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.763Z",
+  "tokenUsage": {
+    "prompt": 1882,
+    "completion": 331,
+    "total": 2213
+  }
+}

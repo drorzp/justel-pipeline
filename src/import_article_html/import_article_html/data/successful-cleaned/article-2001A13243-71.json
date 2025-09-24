@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001A13243",
+  "articleNumber": "71",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-71\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 71</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Une prime mensuelle de 300 BEF est accordée au membre du personnel navigant répondant aux conditions suivantes:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">avoir réussi l'examen portant sur les connaissances de l'utilisation du radar, examen organisé par le Ministère des Communications, Service du pilotage d'Anvers</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et utiliser effectivement le radar à bord de l'allège.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Cette prime n'est pas liée à l'indice des prix à la consommation.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.678Z",
+  "tokenUsage": {
+    "prompt": 1617,
+    "completion": 251,
+    "total": 1868
+  }
+}

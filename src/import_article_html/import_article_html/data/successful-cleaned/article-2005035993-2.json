@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005035993",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er du même arrêté, modifié par les arrêtés du Gouvernement flamand des 17 juin 1997, 8 décembre 1998, 1er juin 1999, 6 juillet 2001, 24 juillet 2001, 14 décembre 2001 et 14 mai 2004, il est ajouté un point 33°, 34° et 35°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"33°\">\n          <span class=\"provision-text\">organisation d'accompagnement : l'Office flamand de l'Emploi et de la Formation professionnelle ou l'instance à laquelle a été attribué l'accompagnement des contractuels subventionnés dans le cadre de l'article 7bis</span>\n        </li>\n        <li class=\"provision\" data-number=\"34°\">\n          <span class=\"provision-text\">attributeur de parcours : service au sein de l'Office flamand de l'Emploi et de la Formation professionnelle qui détermine le parcours du contractuel subventionné vers le circuit de travail régulier</span>\n        </li>\n        <li class=\"provision\" data-number=\"35°\">\n          <span class=\"provision-text\">employeur-utilisateur : l'employeur auquel le contractuel subventionné est mis à disposition, tel que mentionné à l'article 7bis, §§ 15 et 16</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.893Z",
+  "tokenUsage": {
+    "prompt": 1920,
+    "completion": 410,
+    "total": 2330
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996035580",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 27 octobre 1993 portant généralisation du régime des contractuels subventionnés, modifié par les arrêtés du Gouvernement flamand des 20 juillet 1994 et 19 juillet 1995, les points 18°, 19° et 20° sont ajoutés, libellés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"18°\">\n          <span class=\"provision-text\">chômeurs de longue durée peu scolarisés : les chômeurs qui, le jour précédant leur entrée en service, sont chômeurs complets indemnisés depuis au moins deux ans et qui ont accompli, au plus, les études de l'enseignement secondaire primaire ou le deuxième degré de l'enseignement secondaire professionnel;</span>\n        </li>\n        <li class=\"provision\" data-number=\"19°\">\n          <span class=\"provision-text\">demandeurs d'emploi de longue durée peu scolarisés : les demandeurs d'emploi non occupés qui, le jour précédant leur engagement, sont inscrits pendant au moins deux ans comme demandeur d'emploi à l'Office flamand de l'Emploi et de la Formation professionnelle (Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding) et qui n'ont pas travaillé comme salarié, ni exercé un emploi indépendant pendant cette période et qui, au plus, ont accompli les études de l'enseignement secondaire primaire ou le deuxième degré de l'enseignement secondaire professionnel;</span>\n        </li>\n        <li class=\"provision\" data-number=\"20°\">\n          <span class=\"provision-text\">bénéficiaires du minimex peu scolarisés : les bénéficiaires du minimex qui, au plus, ont accompli les études de l'enseignement secondaire primaire ou le deuxième degré de l'enseignement secondaire professionnel.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.107Z",
+  "tokenUsage": {
+    "prompt": 2095,
+    "completion": 500,
+    "total": 2595
+  }
+}

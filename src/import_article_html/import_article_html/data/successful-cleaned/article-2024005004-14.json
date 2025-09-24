@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005004",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même décret, modifié en dernier lieu par le décret du 30 juin 2023, la même section 2 est complétée par un article 3.23.2.0.2, rédigé comme suit :</p>\n      <p class=\"intro-text\">\" Art. 3.23.2.0.2. Dans le cadre du traitement des données visé à l'article 3.23.2.0.1, outre les catégories de données à caractère personnel visées à l'article 3.23.1.0.2, les catégories spécifiques suivantes de données à caractère personnel peuvent être traitées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les enregistrements visuels, à savoir plans, cartes et photographies de biens immobiliers ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les caractéristiques du bâtiment ou du logement ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les données relatives à la composition du ménage ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">les données de santé nécessaires à l'octroi de la réduction visée à l'article 2.1.5.0.1, § 1er, 2° et 3°, et à l'article 2.1.5.0.2, § 1er, 2°.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.422Z",
+  "tokenUsage": {
+    "prompt": 1942,
+    "completion": 438,
+    "total": 2380
+  }
+}

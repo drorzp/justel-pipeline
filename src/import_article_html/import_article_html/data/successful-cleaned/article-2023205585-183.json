@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023205585",
+  "articleNumber": "183",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-183\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 183</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">- Le présent décret entre en vigueur le 1er septembre 2023, à l'exception :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">des articles 1er et 2, qui produisent leurs effets le 1er janvier 2020;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'article 172, qui entre en vigueur le 26 juin 2023;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">des articles 162 et 163, qui produisent leurs effets le 1er janvier 2023;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">des articles 42 à 60, 62, 63, 73, 122, 2° et 3°, 123 à 126, 137, 160, 167, 169 et 170, qui entrent en vigueur le 1er juillet 2023;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">des articles 8, 15, 21, 23, 26, 29, 84, 91, 97, 99, 113, 117 à 121, 153, 156 et 180, qui entrent en vigueur le 1er janvier 2024;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">des articles 64, 1°, 128 à 130, 134, 158 et 159, qui entrent en vigueur le 1er septembre 2024.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.416Z",
+  "tokenUsage": {
+    "prompt": 2058,
+    "completion": 519,
+    "total": 2577
+  }
+}

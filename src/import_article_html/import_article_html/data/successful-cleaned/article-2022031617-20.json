@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031617",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Pour ce qui concerne les travaux de rénovation portant sur des parties privatives, le propriétaire, l'emphytéote ou les copropriétaires fortuits ou volontaires:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">doi(ven)t être inscrit(s) au registre de la population à l'adresse du bien pour lequel il a obtenu une prime, au plus tard au moment de la demande de la prime et, dans l'hypothèse où le montant de la prime perçue est supérieur à 30.000 EUR, pendant une durée minimale de cinq ans à dater de la communication de la décision d'octroi de la prime ou, à défaut, doit en céder la gestion à une agence immobilière sociale pour une durée d'au moins cinq ans à dater de la communication de la décision d'octroi de la prime.</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">ne peu(ven)t vendre, échanger, donner ou conférer des droits réels ou personnel sur le bien, ni en faire l'apport à une société, pendant la période de cinq ans visée au 1°, dans l'hypothèse où le montant de la prime perçue est supérieur à 30.000 EUR.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas de force majeure, le ministre peut décharger le bénéficiaire de la prime, à sa demande, des obligations visées au 1° et 2° du § 1er.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.745Z",
+  "tokenUsage": {
+    "prompt": 2066,
+    "completion": 513,
+    "total": 2579
+  }
+}

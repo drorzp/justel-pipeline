@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031422",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 589 du Code judiciaire, modifié en dernier lieu par la loi du 2 mai 2019, le:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"14°\">\n                    <span class=\"provision-text\">est remplacé par ce qui suit:</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"14°\">\n                    <span class=\"provision-text\">aux articles XVII.2,</span>\n                </li>\n                <li class=\"provision\" data-number=\"17°\">\n                    <span class=\"provision-text\">et XVII.26 à XVII.34 du Code de droit économique;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.744Z",
+  "tokenUsage": {
+    "prompt": 1582,
+    "completion": 255,
+    "total": 1837
+  }
+}

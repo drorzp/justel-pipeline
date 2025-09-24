@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021041994",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 250 de la même loi, modifié en dernier lieu par la loi du 15 avril 2018, le paragraphe 6 est remplacé par ce qui suit :</p>\n        <section class=\"paragraph\" id=\"para-6\">\n            <h3 class=\"paragraph-marker\">§ 6.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Les paragraphes 1er, alinéa 1er et alinéa 2, 1°, 3°, 4° et 5°, et 2 à 5 sont applicables au cas où la FSMA a connaissance du fait qu'une société de gestion d'organismes de placement collectif a mis en place un mécanisme particulier au sens de l'article 201/1.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.151Z",
+  "tokenUsage": {
+    "prompt": 1700,
+    "completion": 244,
+    "total": 1944
+  }
+}

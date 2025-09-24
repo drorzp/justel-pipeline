@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007022520",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 125 de la même loi, remplacé par l'arrêté royal du 25 avril 1997, les mots \" à l'article 32, alinéa 1er, 7°, 11° et 16° \" sont remplacés par les mots \" à l'article 32, alinéa 1er, 7°, 11° à 11°ter, et 16° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.862Z",
+  "tokenUsage": {
+    "prompt": 1532,
+    "completion": 169,
+    "total": 1701
+  }
+}

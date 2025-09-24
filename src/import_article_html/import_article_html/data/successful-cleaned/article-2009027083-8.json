@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009027083",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 7 du même arrêté est remplacé par la disposition suivante :</p>\n            <blockquote class=\"quoted-text\">\n                <p class=\"quoted-paragraph\">\" Art. 7. Les dispositions du chapitre II du titre V du Livre Ier de l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la Fonction publique wallonne sont applicables aux membres du personnel contractuel visés par le présent arrêté.</p>\n                <p class=\"quoted-paragraph\">Les dispositions du chapitre III du titre VI du Livre Ier de l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la Fonction publique wallonne sont applicables aux membres du personnel contractuel visés à l'article 2, § 1er, 3°, 4° et 5°, engagés à durée indéterminée. \"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.951Z",
+  "tokenUsage": {
+    "prompt": 1713,
+    "completion": 267,
+    "total": 1980
+  }
+}

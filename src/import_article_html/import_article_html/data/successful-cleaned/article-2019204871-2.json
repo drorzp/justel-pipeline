@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019204871",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 9, alinéa 1er, du même arrêté, modifié par l'arrêté royal du 23 novembre 2017, le membre de phrase \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"118\" data-law-type=\"l\" data-article-number=\"118\">\n          \"l'article 118, 2° et 3°, de la loi-programme.\"\n        </span>\n        est remplacée par le membre de phrase \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"118\" data-law-type=\"l\" data-article-number=\"118\">\n          \"l'article 118, alinéa 1er, 2°, 3°, 4° et 5° de la loi-programme.\"\n        </span>.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.235Z",
+  "tokenUsage": {
+    "prompt": 1573,
+    "completion": 261,
+    "total": 1834
+  }
+}

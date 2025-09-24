@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021021198",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les dates limite d'inscription visées aux articles 3,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et 4,</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 17 décembre 2020 instaurant une prime de relance pour l'engagement d'un demandeur d'emploi sont prolongés jusqu'au 31 décembre 2021.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.176Z",
+  "tokenUsage": {
+    "prompt": 1585,
+    "completion": 240,
+    "total": 1825
+  }
+}

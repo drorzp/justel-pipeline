@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012203386",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            Dans l'article 19bis, <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1985-06-28\" data-law-type=\"D\" data-article-number=\"19bis\">§ 3</span>, du décret du 28 juin 1985 relatif à l'autorisation écologique, inséré par le décret du 21 décembre 1990 et modifié par les décrets du 21 décembre 2001, les mots \"<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1985-06-28\" data-law-type=\"D\" data-article-number=\"24\">l'article 24, § 1er, 5°</span>\" sont remplacés par les mots \"<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1985-06-28\" data-law-type=\"D\" data-article-number=\"24\">l'article 24, 1°, 5° et 6°</span>\".\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.331Z",
+  "tokenUsage": {
+    "prompt": 1537,
+    "completion": 286,
+    "total": 1823
+  }
+}

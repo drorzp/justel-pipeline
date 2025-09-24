@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024007715",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'Article 13 du même arrêté est complété avec un alinéa, rédigé comme suit :</p>\n            <p class=\"intro-text\">\"Par dérogation à l'alinéa 1er, 1° et 2°, l'enregistrement suspendu peut être supprimé par le ministre conformément à l'article 14 s'il n'a pas pu être mis fin à la suspension après six mois selon les modalités de l'alinéa 1er, 1° et 2°.</p>\n            <p class=\"closing-text\">Le ministre peut cependant prolonger ce délai, après examen d'une demande motivée du titulaire de l'enregistrement, introduite avant la suppression de l'enregistrement suspendu par le ministre.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.451Z",
+  "tokenUsage": {
+    "prompt": 1731,
+    "completion": 241,
+    "total": 1972
+  }
+}

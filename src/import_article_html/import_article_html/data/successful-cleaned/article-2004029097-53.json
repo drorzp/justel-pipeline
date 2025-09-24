@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004029097",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 53</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 106 de l'arrêté sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, le point \" 3° être âgé de 35 ans; \" est supprimé;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, point 4°, qui devient le point 3°, après les mots \" de dix ans au moins; \" sont ajoutés les mots \" dans l'enseignement de promotion sociale, l'ancienneté de service requise est de 3 000 jours au moins; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, point 5°, qui devient le point 4°, après les mots \" de six ans au moins; \" sont ajoutés les mots \" dans l'enseignement de promotion sociale, l'ancienneté de fonction requise est de 1 800 jours au moins; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, après les points \" 6°, 7° et 8° \", qui deviennent respectivement les points \" 5°, 6° et 7° \", est ajouté un nouveau point 8° libellé comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"8°\">\n                            <span class=\"provision-text\">dans l'enseignement de promotion sociale, être titulaire du brevet de promotion en rapport avec la fonction à conférer.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.784Z",
+  "tokenUsage": {
+    "prompt": 2062,
+    "completion": 515,
+    "total": 2577
+  }
+}

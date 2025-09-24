@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029429",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Ministre peut suspendre l'octroi des subventions à un organisme d'adoption après avoir adressé à celui-ci une mise en demeure constatant le non-respect des conditions visées à l'article 14, 3°, 5°, 8° et 9°, du décret ou dans le cadre d'une procédure de retrait d'agrément.</p>\n      <p class=\"intro-text\">La décision du Ministre est notifiée à l'organisme d'adoption par lettre recommandée.</p>\n      <p class=\"intro-text\">La suspension de l'octroi des subventions prend fin dès que l'organisme d'adoption apporte la preuve que les motifs qui ont justifié la suspension visés à l'article 14, 3°, 5°, 8° et 9°, du décret n'existent plus. Si, après six mois de suspension, les motifs l'ayant justifiée existent toujours, une procédure de retrait d'agrément peut être entamée.</p>\n      <p class=\"closing-text\">La suspension de l'octroi des subventions prend également fin quand le Ministre ne donne pas suite à une procédure de retrait d'agrément.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.221Z",
+  "tokenUsage": {
+    "prompt": 1893,
+    "completion": 329,
+    "total": 2222
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021041452",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Conformément à l'article 12, § 1er, 1° et 2° l'arrêté du Collège de la Commission communautaire française du 20 juillet 2000/776, pour satisfaire à l'évaluation de l'année académique 2020-2021 l'apprenant:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">doit obtenir 50 % au total en connaissances générales et en connaissances professionnelles ou 50 % dans chacune des matières faisant l'objet des cours en connaissances intégrées.</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">en formation pratique, 60 % des points pour l'ensemble de l'évaluation et 40 % dans chacune des activités professionnelles dans les cas de professions à activités multiples dont la liste est fixée par l'Institut.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.144Z",
+  "tokenUsage": {
+    "prompt": 1769,
+    "completion": 297,
+    "total": 2066
+  }
+}

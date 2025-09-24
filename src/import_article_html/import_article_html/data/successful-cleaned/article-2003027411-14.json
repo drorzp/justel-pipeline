@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003027411",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 86 du même décret est complété par l'alinéa suivant :</p>\n      <p class=\"quote-text\">\" Par dérogation à l'alinéa 2, lorsqu'en application de l'article 8, § 4, alinéa 2, du décret du 11 septembre 1985 organisant l'évaluation des incidences sur l'environnement dans la Région wallonne ou de l'article 26, § 4, du décret du 27 juin 1996 relatif aux déchets, une étude d'incidences doit être fournie, le demandeur est tenu de déposer une nouvelle demande accompagnée de l'étude d'incidences. Dans ce cas, l'article 177, alinéa 1er et alinéa 2, 1° et 2°, n'est pas d'application. \"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.818Z",
+  "tokenUsage": {
+    "prompt": 1748,
+    "completion": 261,
+    "total": 2009
+  }
+}

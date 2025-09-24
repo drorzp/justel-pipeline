@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022204435",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans le même arrêté royal du 25 novembre 1991, est inséré un article 181, rédigé comme suit:</p>\n            <blockquote>\n                <p>\"Article 181. Le travailleur des arts qui bénéficie de l'application du présent chapitre est soumis aux dispositions du présent arrêté pour autant que le présent chapitre n'y déroge pas. Pour l'application du présent chapitre, on entend par \"la Commission\" et par \"attestation\", la Commission du travail des arts et l'attestation individuelle du travail des arts respectivement visées à l'article 27, 22° et 23°.\"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.824Z",
+  "tokenUsage": {
+    "prompt": 1593,
+    "completion": 211,
+    "total": 1804
+  }
+}

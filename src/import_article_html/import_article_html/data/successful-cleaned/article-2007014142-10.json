@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007014142",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Le certificat d'aptitude professionnelle a une durée de validité de cinq ans et peut être prolongé conformément aux dispositions\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-07-21/13\" data-law-type=\"AR\" data-article-number=\"3\">des articles 13 et 13/1</span>.\n      </p>\n      <p class=\"intro-text\">\n        Par dérogation au premier alinéa, la durée de validité du certificat d'aptitude professionnelle des conducteurs visé à l'article 5, § 1er, 2° et à l'article 5, § 2, 2° est déterminée conformément aux dispositions de l'article 73.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.851Z",
+  "tokenUsage": {
+    "prompt": 1760,
+    "completion": 249,
+    "total": 2009
+  }
+}

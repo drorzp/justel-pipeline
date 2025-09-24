@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1966071850",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 39</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans leurs services intérieurs, dans leurs rapports avec les services régionaux et locaux de Bruxelles-Capitale, les services centraux se conforment à l'article 17, § 1er, étant entendu que le rôle linguistique est déterminant pour l'instruction des affaires mentionnées sub A, 5° et 6°, et B, 1° et 3°, de ladite disposition.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans leurs rapports avec les services locaux et régionaux des régions de langue française, néerlandaise et allemande, les services centraux utilisent la langue de la région.</p>\n        <p>Ils utilisent la langue néerlandaise dans leurs rapports avec les services établis dans les communes périphériques.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les instructions au personnel, ainsi que les formulaires et imprimés destinés au service intérieur sont rédigés en français et en néerlandais.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.565Z",
+  "tokenUsage": {
+    "prompt": 1881,
+    "completion": 392,
+    "total": 2273
+  }
+}

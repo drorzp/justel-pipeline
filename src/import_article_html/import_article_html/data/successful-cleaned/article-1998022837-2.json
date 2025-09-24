@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998022837",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2, § 1er, du même arrêté royal sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive les mots &quot; la loi du 9 août 1963 &quot; sont remplacés par les mots &quot; la loi coordonnée &quot;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le b), alinéa 2, premier tiret, les mots &quot; à l'article 15bis, 4° de la loi du 9 août 1963 &quot; sont remplacés par les mots &quot; à l'article 22, 4° de la loi coordonnée &quot;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le § 1er est complété comme suit :</span>\n          <ol class=\"numbered-provisions\" type=\"a\">\n            <li class=\"sub-provision\" data-marker=\"g)\">\n              <span class=\"provision-text\">au Comité de gestion pour les ouvriers mineurs : les articles 14, 15, 17, 19, 1° à 5°, 8° et 9°, 21 et 22.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.083Z",
+  "tokenUsage": {
+    "prompt": 1874,
+    "completion": 416,
+    "total": 2290
+  }
+}

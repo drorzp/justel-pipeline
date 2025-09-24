@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030904",
+  "articleNumber": "199",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-199\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 199</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article 16, alinéa 1er, 1° et 2°, de l'arrêté du Gouvernement wallon du 16 mai 2019 relatif à l'occupation des travailleurs étrangers et abrogeant l'arrêté royal du 9 juin 1999 portant exécution de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers, pour l'année 2022, la rémunération du ressortissant du pays tiers s'élève au moins à :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">44.097 euros pour ce qui concerne les personnes hautement qualifiées et n'est pas moins favorable que celle de postes comparables conformément aux lois, conventions collectives ou pratiques en vigueur ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">73.570 euros pour ce qui concerne les membres du personnel de direction et n'est pas moins favorable que celle de postes comparables conformément aux lois, conventions collectives ou pratiques en vigueur.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.841Z",
+  "tokenUsage": {
+    "prompt": 1805,
+    "completion": 340,
+    "total": 2145
+  }
+}

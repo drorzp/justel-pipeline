@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004035202",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Afin de répondre au critère d'indépendance fixé à l'article 3, 2°, 3° et 4° du décret, il est interdit que 25 % ou plus du capital ou des droits de vote soient détenus par une grande entreprise ou conjointement par plusieurs grandes entreprises.</p>\n        <p>Pour l'application du critère d'indépendance, on entend par grande entreprise, toute entreprise occupant 250 travailleurs ou plus et/ou ayant un chiffre d'affaires annuel supérieur à 40 millions d'euros et un bilan global supérieur à 27 millions d'euros.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La définition n'est pas remplie par les entreprises qui répondent formellement au critère d'indépendance, mais dans lesquelles le pouvoir est en fait exercé par une grande entreprise ou par diverses grandes entreprises conjointement.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.737Z",
+  "tokenUsage": {
+    "prompt": 1851,
+    "completion": 331,
+    "total": 2182
+  }
+}

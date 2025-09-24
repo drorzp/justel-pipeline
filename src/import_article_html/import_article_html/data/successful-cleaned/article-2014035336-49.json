@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035336",
+  "articleNumber": "49",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-49\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 49</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 16.6.1, alinéa deux, du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, modifié par les décrets des 30 avril 2009 et 23 décembre 2011, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les points 2° et 4° sont abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 3° est remplacé par la disposition suivante :<br>\" 3° l'infraction à l'obligation de de déclaration et de paiement des redevances environnementales, visées à l'article 50 du décret du 23 décembre 2001 relatif à la gestion durable de cycles de matériaux et de déchets, et l'obligation de paiement de l'amende administrative, visée à l'article 58 du décret précité ; \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.334Z",
+  "tokenUsage": {
+    "prompt": 1776,
+    "completion": 327,
+    "total": 2103
+  }
+}

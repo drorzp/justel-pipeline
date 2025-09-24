@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003826",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour chaque prime fédérale d'électricité et de gaz payée, telle que déterminée par la commission dans le cadre des décisions visées à l'article 3, § 3 de l'arrêté royal du 11 septembre 2022 et à l'article 4, § 3 de l'arrêté royal du 24 janvier 2024, la commission octroie une indemnité pour les frais d'administration par fournisseur qui a soumis une déclaration de créance conformément à l'article 3 à concurrence du montant déterminé conformément au paragraphe 2 ou 3.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les indemnités pour les frais d'administration relatives à la prime de chauffage par fournisseur ne dépassent pas le montant en euros obtenu sur la base du calcul suivant :</p>\n        <p>14.500 euros + 0,98 euro par prime de chauffage versée telle que déterminée par la commission dans le cadre des décisions visées à l'article 3, § 3 de l'arrêté royal du 11 septembre 2022.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les indemnités pour les frais d'administration relatives aux primes visées à l'article 1er, § 1er, 2°, 3°, 5° et 6° par fournisseur ne dépassent pas le montant en euros obtenu sur la base du calcul suivant :</p>\n        <p>20.000 euros + 1,00 euro par prime versée telle que déterminée par la commission dans le cadre des décisions visées à l'article 4, § 3 de l'arrêté royal du 24 janvier 2024.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.537Z",
+  "tokenUsage": {
+    "prompt": 2121,
+    "completion": 534,
+    "total": 2655
+  }
+}

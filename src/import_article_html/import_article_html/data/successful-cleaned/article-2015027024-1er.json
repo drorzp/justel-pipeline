@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015027024",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article R.87 de la partie réglementaire du Livre Ier du Code de l'Environnement, inséré par l'arrêté du Gouvernement wallon du 5 décembre 2008 et modifié par les arrêtés du Gouvernement wallon du 9 février 2012 et du 24 octobre 2013, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 12° est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"12°\">\n              <span class=\"provision-text\">la loi du 14 août 1986 relative à la protection et au bien-être des animaux;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est complété par les 13° et 14° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"13°\">\n              <span class=\"provision-text\">les règlements et décisions européens en matière de protection et de bien-être des animaux;</span>\n            </li>\n            <li class=\"provision\" data-number=\"14°\">\n              <span class=\"provision-text\">les arrêtés d'exécution des lois et décrets visés aux 1° à 10° et 12°, dans la mesure où les matières qu'ils régissent ressortent à la compétence de la Région.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.175Z",
+  "tokenUsage": {
+    "prompt": 2024,
+    "completion": 458,
+    "total": 2482
+  }
+}

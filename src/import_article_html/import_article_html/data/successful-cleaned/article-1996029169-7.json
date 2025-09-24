@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996029169",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 18 du même arrêté, modifié par l'arrêté du Gouvernement de la Communauté française du 21 avril 1994 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">est modifié comme suit : </span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"5°\">\n              <span class=\"sub-provision-text\">au 5°, les mots \"pour les candidats à un examen de gradué(e) en kinésithérapie, de gradué(e) en ergothérapie et de gradué(e) en logopédie,\" sont insérés avant les mots \"l'indication du programme....\";</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"7°\">\n              <span class=\"sub-provision-text\">au 7°, à l'alinéa 1er, les mots \"à la première épreuve\" sont remplacés par \"au premier examen\" et, à l'alinéa 2, les mots \"épreuve(s)\" sont remplacés par \"examen(s)\";</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">est complété par un 8° et un alinéa 2 rédigés comme suit : </span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"8°\">\n              <span class=\"sub-provision-text\">\"8° les pièces attestant que les stages requis ont été accomplis à l'expiration du délai fixé pour l'inscription.</span>\n            </li>\n          </ol>\n          <p class=\"closing-text\">Sauf cas de force majeure apprécié par le jury restreint visé à l'article 25, alinéa 2, les stages effectués pendant les vacances scolaires ne sont pas pris en considération pour l'application de l'alinéa 1er, 8°.\".</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.107Z",
+  "tokenUsage": {
+    "prompt": 2094,
+    "completion": 551,
+    "total": 2645
+  }
+}

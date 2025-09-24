@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015648",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 59</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les articles 2, 3 et 4 entrent en vigueur le 1er janvier 2019.</p>\n            <p class=\"intro-text\">Les articles 9 à 13, 16, 17, 24, 25, 31, 1°, et 46 entrent en vigueur à une date à fixer par le Gouvernement flamand.</p>\n            <p class=\"intro-text\">L'article 14 produit ses effets le 9 juin 2018.</p>\n            <p class=\"intro-text\">Les articles 18 à 23, les articles 35 et 39, 2° et 3°, s'appliquent aux contrats de vente conclus à partir du 1er juin 2018.</p>\n            <p class=\"intro-text\">L'article 36 entre en vigueur le 1er janvier 2021.</p>\n            <p class=\"intro-text\">Les articles 42 et 45 produisent leurs effets aux procédures d'insolvabilité, ouvertes à partir du 1er mai 2018.</p>\n            <p class=\"intro-text\">L'article 58 entre en vigueur à partir de l'année d'imposition 2020.</p>\n            <p class=\"closing-text\">(NOTE : Entrée en vigueur des articles 9 à 13 ; 16 ; 17 ; 24 ; 25 ; 31 ; 46 fixée au 01-05-2019 par AGF<a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019040525\">2019-04-05/25</a>, art. 3)</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.464Z",
+  "tokenUsage": {
+    "prompt": 1984,
+    "completion": 440,
+    "total": 2424
+  }
+}

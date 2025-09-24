@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016206135",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 9, alinéa 2, de l'arrêté royal du 5 novembre 2002 instaurant une déclaration immédiate de l'emploi, en application de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, modifié par l'arrêté royal du 14 octobre 2005, les mots \" 6 et 7 \" et les mots \" l'article 4, 6°, l'article 6, 2°, ou l'article 7, 3° \" sont respectivement remplacés par les mots \" 6, 7 et 7/1 \" et les mots \" l'article 4, 6°, l'article 6, 2°, l'article 5bis, § 2, 2° et § 3, 1er alinéa 1°, l'article 7, 3°, ou l'article 7/1 \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.774Z",
+  "tokenUsage": {
+    "prompt": 1879,
+    "completion": 294,
+    "total": 2173
+  }
+}

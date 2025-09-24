@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995022196",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté royal du 24 juin 1993 portant exécution de l'article 75, § 2, de la loi du 6 août 1990 relative aux mutualités et aux unions nationales de mutualités, est remplacé par la disposition suivante:</p>\n      <p class=\"intro-text\">\"Article 1. Les articles 29 à 31, l'article 32, alinéa 1er, en tant qu'il impose la désignation de réviseurs choisis parmi les réviseurs portés sur la liste des réviseurs agréés établie par l'Office de contrôle, l'article 32, alinéa 2, les articles 33 à 37, l'article 39, l'article 49, l'article 50, § 2, alinéa 1er, les articles 52, 53, 57, 58 et 59, en ce qui concerne les réviseurs visés à l'article 32, l'article 60, § 1er, alinéa 1er, § 2, 1° et 2°, §§ 3 et 4, et les articles 61 à 68 de la loi du 6 août 1990 relative aux mutualités et aux unions nationales de mutualités, sont applicables à la Caisse des soins de santé de la Société nationale des Chemins de fer belges et à la Caisse auxiliaire d'assurance maladie-invalidité.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.999Z",
+  "tokenUsage": {
+    "prompt": 2016,
+    "completion": 397,
+    "total": 2413
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014203",
+  "articleNumber": "195",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-195\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 195</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 604 de la même loi, inséré par la loi du 25 octobre 2016, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les mots \"aux articles 45, 55 et 333 doivent être lues comme des références respectivement aux articles 513, 519 et 603.\" sont remplacés par les mots \"aux articles 45, 55, 62 et 333 doivent être lues comme des références respectivement aux articles 513, 519, 525 et 603.\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 2, 2°, les mots \"502, dans la mesure où il rend l'article 21, § 1er, </span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"2°\"><span class=\"provision-text\">2°,</span></li>\n            <li class=\"sub-provision\" data-marker=\"3°\"><span class=\"provision-text\">3°,</span></li>\n            <li class=\"sub-provision\" data-marker=\"7°\"><span class=\"provision-text\">7° et</span></li>\n            <li class=\"sub-provision\" data-marker=\"9°\"><span class=\"provision-text\">9°,</span></li>\n          </ol>\n          <span class=\"provision-text\"> applicable, 510, 510/1, 510/2, 525, dans la mesure où il rend l'article 62, § 3, applicable, 527, 528, 529, 529/1, 531, dans la mesure où il rend l'article 67 applicable,\" sont insérés entre les mots \"les articles\" et les mots \"532 à 534\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.592Z",
+  "tokenUsage": {
+    "prompt": 2052,
+    "completion": 527,
+    "total": 2579
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000027405",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 31</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">En cas d'organisation pour la première fois, d'un cycle de cours ou en cas d'organisation d'un cycle de cours après une interruption de deux ans minimum, l'agrément de la première année de cours est subordonné au respect des conditions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">8 auditeurs au minimum pour les cours professionnels, intégrés et les cours de langues des centres de classe II;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">6 auditeurs au minimum pour les cours professionnels, intégrés et les cours de langues des centres de classe I.</span></li>\n            </ol>\n            <p class=\"intro-text\">Par dérogation à l'alinéa 1er, l'Institut peut déroger à ce nombre pour les cours visés à l'article 4, 1° et 2°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.250Z",
+  "tokenUsage": {
+    "prompt": 1721,
+    "completion": 298,
+    "total": 2019
+  }
+}

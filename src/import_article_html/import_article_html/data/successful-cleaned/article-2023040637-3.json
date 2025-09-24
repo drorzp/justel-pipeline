@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023040637",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 129, alinéa 1er, du même arrêté, remplacé par l'arrêté royal du 29 décembre 1997 et modifié par les arrêtés royaux des 3 août 2007 et 1er juillet 2008, les mots \" titulaires visés à l'article 32, premier alinéa, 1° à 16°, 20°, 21°, et 22° \" sont remplacés par les mots \" titulaires visés à l'article 32, alinéa 1er, 1° à 16°, 20°, 21°, 22° et 24° \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.730Z",
+  "tokenUsage": {
+    "prompt": 1633,
+    "completion": 222,
+    "total": 1855
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007202036",
+  "articleNumber": "60",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-60\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 60</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté s'applique aux établissements existants au plus tard un an après l'entrée en vigueur du présent arrêté.</p>\n      <p class=\"intro-text\">Par dérogation à l'alinéa 1er, les articles 32, 8° et 9° et 50, 8° et 9°, ne s'appliquent pas aux établissements existants.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.013Z",
+  "tokenUsage": {
+    "prompt": 1610,
+    "completion": 166,
+    "total": 1776
+  }
+}

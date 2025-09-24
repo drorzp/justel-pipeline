@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036095",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le Gouvernement flamand détermine l'année calendrier à prendre en compte pour la fixation du revenu de référence ainsi que les exceptions à celle-ci si le revenu de l'année calendrier dans laquelle commence l'année <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2019-03-22/19\" data-law-type=\"DCFL\" data-article-number=\"18\"></span> académique concernée est probablement inférieur au revenu de l'année calendrier à prendre en compte ou si <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2019-03-22/19\" data-law-type=\"DCFL\" data-article-number=\"18\"></span> l'étudiant ne satisfait aux conditions de l'unité de vie à laquelle il appartient qu'après l'année calendrier à prendre en compte, ainsi que les attestations sur base desquelles le revenu de référence est démontré.</p>\n      <p><span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-05-08/32\" data-law-type=\"DCFL\" data-article-number=\"VII.8\">Par dérogation à l'article 35, § 1er, 1°, 2° et 4°, le Gouvernement flamand détermine les circonstances et les modalités auxquelles il est, en cas d'un divorce de fait, uniquement tenu compte du revenu imposable de la personne prenant en charge les frais de subsistance, auprès de laquelle <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2019-03-22/19\" data-law-type=\"DCFL\" data-article-number=\"18\"></span> l'étudiant a sa résidence principale.</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.120Z",
+  "tokenUsage": {
+    "prompt": 2075,
+    "completion": 459,
+    "total": 2534
+  }
+}

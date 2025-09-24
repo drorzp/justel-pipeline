@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010202329",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Aux articles 2, 2° et 3, alinéa premier, 2° et 3°, de l'annexe XIV au même arrêté, les mots \" expert en animation et activation \" sont remplacés par le mot \" animateur \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.335Z",
+  "tokenUsage": {
+    "prompt": 1459,
+    "completion": 133,
+    "total": 1592
+  }
+}

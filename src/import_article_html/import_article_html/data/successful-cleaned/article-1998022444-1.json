@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998022444",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 1er de l'arrêté royal du 3 novembre 1987 portant exécution de l'article 5, § 1er, de l'arrêté royal n° 495 visant à instaurer un système associant le travail et la formation pour les jeunes de 18 à 25 ans et visant une diminution temporaire des cotisations patronales de sécurité sociale dues dans le chef de ces jeunes, modifié par l'arrêté royal du 23 mai 1990, les mots \" ou à l'article 2, § 3, 1° à 5° et 7° et § 3bis de l'arrêté-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers mineurs et assimilés, à l'article 56, 1° et 2° des lois relatives à la réparation des dommages résultant des maladies professionnelles coordonnées le 3 juin 1970 et à l'article 59, 1° de la loi du 10 avril 1971 sur les accidents du travail \" sont insérés entre les mots \" des travailleurs salariés \" et \" ne sont pas dues \".\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.082Z",
+  "tokenUsage": {
+    "prompt": 1978,
+    "completion": 322,
+    "total": 2300
+  }
+}

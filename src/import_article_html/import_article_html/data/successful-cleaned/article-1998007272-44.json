@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998007272",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 44</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-03-30/11\" data-law-type=\"L\" data-article-number=\"76\">Le Service Général du Renseignement et de la Sécurité peut rechercher, capter, écouter, prendre connaissance et enregistrer toute forme de communications émises ou reçues à l'étranger, selon les modalités fixées aux articles 44/3 et 44/4, dans le cadre des missions visées à l'article 11, § 1er, 1° à 3° et 5°.</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.159Z",
+  "tokenUsage": {
+    "prompt": 1644,
+    "completion": 214,
+    "total": 1858
+  }
+}

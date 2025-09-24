@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990032351",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    <p>Les travailleurs occupés dans des régimes de travail en équipes en ce compris ceux qui sont occupés à des travaux autres que ceux visés à l'article premier de la présente convention, ont des droits équivalents à ceux des travailleurs qui ne sont pas occupés dans de tels régimes, en matière de :</p>\n                    <ul>\n                        <li>représentation et participation syndicale;</li>\n                        <li>formation générale et professionnelle;</li>\n                        <li>hygiène, sécurité et soins médicaux;</li>\n                        <li>infrastructures sociales.</li>\n                    </ul>\n                    <p>Lorsqu'il existe une délégation syndicale, la représentation syndicale doit être garantie compte tenu du régime de travail conformément à l'article 8, 2° et 6°, de la convention collective de travail n° 5 concernant le statut des délégations syndicales du personnel des entreprises.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.724Z",
+  "tokenUsage": {
+    "prompt": 1724,
+    "completion": 293,
+    "total": 2017
+  }
+}

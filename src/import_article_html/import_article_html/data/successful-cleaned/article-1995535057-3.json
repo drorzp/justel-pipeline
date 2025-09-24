@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995535057",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\" data-footnote-id=\"3\">Art.</span> 3.</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les cotisations obligatoires, à l'exception de celles à charge du fournisseur visées à l'article 2 sont applicables aux personnes physiques ou morales qui tirent des revenus de leurs activités au sens des articles 20,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et 96 du Code des impôts sur les revenus.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.041Z",
+  "tokenUsage": {
+    "prompt": 1544,
+    "completion": 208,
+    "total": 1752
+  }
+}

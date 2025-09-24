@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013000204",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article VI.II.25 PJPol, remplacé par l'arrêté royal du 20 décembre 2005 et modifié par l'arrêté royal du 7 juin 2009, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, les mots &quot; l'article VI.II.24, alinéa 2, 1° et 2° &quot; sont remplacés par les mots &quot; l'article VI.II.24, alinéa 2, 2° et 3° &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2 : &quot; Sauf lorsque les autorités visées à l'article VI.II.24, alinéa 2, 2° et 3° conviennent d'une mise en place anticipée, la mise en place, conformément à l'alinéa 1er, du membre du personnel visé à l'article VI.II.10, alinéa 2, 2bis°, peut avoir lieu au plus tôt trois ans après la désignation d'office. &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">à l'alinéa 3, les mots &quot; visée à l'alinéa 1er &quot; sont remplacés par les mots &quot; visée aux alinéas 1er et 2 &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.077Z",
+  "tokenUsage": {
+    "prompt": 2048,
+    "completion": 486,
+    "total": 2534
+  }
+}

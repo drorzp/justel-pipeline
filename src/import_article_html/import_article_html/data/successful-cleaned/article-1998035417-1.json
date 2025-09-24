@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998035417",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 6 juillet 1994 établissant les règles de procédure en matière d'infrastructure affectée aux matières personnalisables, modifié par les arrêtés du Gouvernement flamand des 5 avril 1995 et 23 septembre 1997, il est ajouté un 22°, 23°, 24° et 25° libellés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"22°\">\n          <span class=\"provision-text\">centre de services : un centre fournissant en particulier des services de nature matérielle, hygiénique et sociale aux personnes âgées d'un quartier pour qu'elles conservent aussi longtemps que possible leur autonomie et leur intégration dans la communauté;</span>\n        </li>\n        <li class=\"provision\" data-number=\"23°\">\n          <span class=\"provision-text\">maison de repos : un ou plusieurs immeubles constituant fonctionnellement un établissement de séjour collectif où, sous quelque nom que ce soit, des personnes âgées bénéficient d'un hébergement à plus long terme et, en tout ou en partie, de l'aide familiale et ménagère usuelle.</span>\n        </li>\n        <li class=\"provision\" data-number=\"24°\">\n          <span class=\"provision-text\">centre de soins de jour : un immeuble ou partie d'immeuble, sous quelque nom que ce soit, où des personnes âgées bénéficient de soins journaliers sans nuitée ainsi qu'en tout ou en partie, de l'aide familiale et ménagère usuelle;</span>\n        </li>\n        <li class=\"provision\" data-number=\"25°\">\n          <span class=\"provision-text\">structure pour personnes âgées : un centre de services, une maison de repos ou un centre de soins de jour.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.063Z",
+  "tokenUsage": {
+    "prompt": 2093,
+    "completion": 488,
+    "total": 2581
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036060",
+  "articleNumber": "158",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-158\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 158</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">4°, l'article 4 et 6 de l'arrêté ministériel du 3 octobre 2003 concernant l'octroi de subsides pour la méthode de production intégrée pour fruits à pépins, en application du Programme flamand de Développement rural, les mots \" l'ALP \" sont chaque fois remplacés par les mots \" l'Agentschap voor Landbouw en Visserij \" (Agence de l'Agriculture et de la Pêche).</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.717Z",
+  "tokenUsage": {
+    "prompt": 1623,
+    "completion": 242,
+    "total": 1865
+  }
+}

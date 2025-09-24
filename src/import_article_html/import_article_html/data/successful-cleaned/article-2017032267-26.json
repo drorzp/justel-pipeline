@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017032267",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 40 du même décret les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, le membre de phrase \" visées à l'article 5, 1° et 2°, \" est abrogé ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">entre les alinéas 1er et 2, il est inséré un alinéa, rédigé comme suit :</span>\n                    <p class=\"intro-text\">\" Les priorités politiques flamandes pour les communes de la région bilingue de Bruxelles-Capitale sont les suivantes :</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">la commune mène une politique culturelle locale qualitative et durable ;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">la commune organise une bibliothèque à la portée de tous, adaptée aux besoins modernes. \" ;</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.720Z",
+  "tokenUsage": {
+    "prompt": 1790,
+    "completion": 372,
+    "total": 2162
+  }
+}

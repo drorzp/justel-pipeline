@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013014763",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les entreprises qui disposent d'une licence de transport communautaire visée à l'article 4 du Règlement (CE) n° 1072/2009, peuvent exécuter les activités visées à l'article 2, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1° et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n            </ol>\n            <p>, tant à l'intérieur qu'à l'extérieur des frontières de la Belgique.</p>\n            <p>Les entreprises titulaires d'une licence de transport national peuvent exécuter les activités visées à l'article 2, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1° et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n            </ol>\n            <p>, exclusivement sur le territoire belge.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.126Z",
+  "tokenUsage": {
+    "prompt": 1743,
+    "completion": 348,
+    "total": 2091
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034447",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Toute activité soumise à un permis sur la base de l'article 16, est soumise à un examen, telle que décrite au:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">de l'article 17, par l'UGMM, aux frais du demandeur du permis. L'examen doit permettre l'évaluation des effets de ces activités sur le milieu marin.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour des activités différentes ayant le même objet et faisant l'objet de permis distincts, l'UGMM peut procéder à un seul examen intégré. Ceci ne s'applique que si les données sur lesquelles l'examen intégré est basé, sont et restent suffisamment pertinentes et complètes dans le temps et l'espace, et peuvent donc être utilisées pour différentes activités.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.776Z",
+  "tokenUsage": {
+    "prompt": 1759,
+    "completion": 382,
+    "total": 2141
+  }
+}

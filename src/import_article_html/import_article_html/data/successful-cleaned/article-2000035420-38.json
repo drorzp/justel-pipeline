@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035420",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 38</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    <p>L'article 171 du même décret est remplacé par ce qui suit : \" Art. 171. Le décret relatif à l'aménagement du territoire, coordonné le 22 octobre 1996, modifié par les décrets des 19 décembre 1998 et 18 mai 1999, est abrogé, à l'exception des articles qui sont nécessaires pour l'application des articles 165, 166, 174 à 180, 186, 187, 193 et 196 à 199 du présent décret, à savoir : les articles 2, 9 jusqu'à 34 compris, 41, 43, 44, 45, 49, 51, 52, 53, 55, §§ 1er, 2, 3 et 4, les articles 56 et 57, alinéas premier et deux, et l'article 63, § 1er, 4°, 5° et 6°.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    <p>Les articles, visés à l'alinéa premier, qui restent en vigueur, sont abrogés cinq ans après l'entrée en vigueur du présent décret, à l'exception des articles 2, § 1er, quatrième alinéa, 33, 35, 36 et 43, § 6 au § 12 compris.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    <p>Sans préjudice de l'application de l'article 192 du présent décret, les dispositions non reprises dans la coordination : les dispositions de modification, de transition d'abrogation, ainsi que les dispositions dépassées jointes en annexe 2 à l'arrêté du Gouvernement flamand du 22 octobre 1996 coordonnant la loi organique du 29 mars 1962 de l'aménagement du territoire et de l'urbanisme sont abrogées.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.251Z",
+  "tokenUsage": {
+    "prompt": 2180,
+    "completion": 532,
+    "total": 2712
+  }
+}

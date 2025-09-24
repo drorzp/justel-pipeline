@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A21298",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Outre ces missions, les centres d'appui peuvent également accomplir les missions mentionnées à l'article 9,\n                <ol>\n                    <li class=\"sub-provision\" data-marker=\"1°\"><span class=\"provision-text\"></span></li>\n                    <li class=\"sub-provision\" data-marker=\"2°\"><span class=\"provision-text\"></span></li>\n                    <li class=\"sub-provision\" data-marker=\"3°\"><span class=\"provision-text\"></span></li>\n                </ol>\n                Dans ce cas, les articles 10 et 11 sont également d'application.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.274Z",
+  "tokenUsage": {
+    "prompt": 1539,
+    "completion": 209,
+    "total": 1748
+  }
+}

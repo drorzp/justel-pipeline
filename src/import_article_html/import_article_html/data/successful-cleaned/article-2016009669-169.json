@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016009669",
+  "articleNumber": "169",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-169\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 169</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 130 de la loi du 4 mai 2016 relatif à l'internement et à diverses dispositions en matière de Justice, les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.237Z",
+  "tokenUsage": {
+    "prompt": 1480,
+    "completion": 196,
+    "total": 1676
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013014729",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 28</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 197 de la loi du 21 mars 1991, inséré par l'arrêté royal du 14 juin 2004 confirmé par la loi-programme du 27 décembre 2004, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le 3° est abrogé;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est inséré un 5° et un 6°, rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"5°\">\n                            <span class=\"provision-text\">Service de Régulation du Transport ferroviaire : le Service de Régulation du Transport ferroviaire et de l'Exploitation de l'Aéroport de Bruxelles-National, visé dans l'arrêté royal du 25 octobre 2004 créant le Service de Régulation du Transport ferroviaire et de l'Exploitation de l'Aéroport de Bruxelles-National, fixant sa composition ainsi que les statuts administratif et pécuniaire applicables à ses membres;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"6°\">\n                            <span class=\"provision-text\">HR Rail : la société anonyme de droit public HR Rail, visée par la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.127Z",
+  "tokenUsage": {
+    "prompt": 1950,
+    "completion": 445,
+    "total": 2395
+  }
+}

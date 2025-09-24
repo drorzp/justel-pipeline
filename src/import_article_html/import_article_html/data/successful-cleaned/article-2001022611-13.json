@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001022611",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 8, § 6,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'annexe susmentionnée les mots &quot; et à la rubrique IV du § 1er, 1° et 2° &quot; sont insérés entre les mots &quot; la rubrique II du § 1er, 1°, 2° et 3° &quot; et &quot; ne peuvent être attestés &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.143Z",
+  "tokenUsage": {
+    "prompt": 1649,
+    "completion": 215,
+    "total": 1864
+  }
+}

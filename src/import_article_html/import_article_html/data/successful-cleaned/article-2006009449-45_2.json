@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006009449",
+  "articleNumber": "45/2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-45/2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 45/2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-05-05/10\" data-law-type=\"L\" data-article-number=\"163\">\n        Les personnes qui ont légalement acquis et enregistré avant le 13 juin 2017 une arme visée à l'article 3, § 1, 19° et 20°, soit sur autorisation, soit par enregistrement sur base d'un permis de chasse, un certificat de garde particulier ou une licence de tireur sportif, soit par enregistrement dans le registre d'une personne agréée, peuvent continuer à détenir cette arme, à condition que les autres conditions légales concernant la détention d'armes soient remplies. Cette arme ne peut être cédée qu'à des tireurs sportifs visés à l'article 27, § 3, alinéa 4, et à des armuriers, collectionneurs ou musées agréés à cet effet. L'arme à feu peut aussi être neutralisée conformément à l'article 3, § 2, 3°, ou peut faire l'objet d'un abandon.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.875Z",
+  "tokenUsage": {
+    "prompt": 1936,
+    "completion": 319,
+    "total": 2255
+  }
+}

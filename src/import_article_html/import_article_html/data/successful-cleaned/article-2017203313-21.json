@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017203313",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'entité adjudicatrice qui entend passer un marché public pour des services sociaux et autres services spécifiques énumérés à l'annexe III de la loi, utilise comme moyen d'appel à la concurrence l'un des avis énumérés à l'article 160, § 1er, 1°, 2° et 3°, de la loi. Les avis énumérés audit article contiennent les informations visées à l'annexe 8, partie, A, B ou C.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.554Z",
+  "tokenUsage": {
+    "prompt": 1605,
+    "completion": 184,
+    "total": 1789
+  }
+}

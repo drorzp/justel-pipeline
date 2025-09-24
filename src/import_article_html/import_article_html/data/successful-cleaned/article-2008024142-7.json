@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008024142",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 6, ancien article 7, du même arrêté, sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">dans le § 5, 1er alinéa, les mots \" Ministère de la Santé publique \" sont remplacés par les mots \" SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">dans le § 6, la première phrase est remplacée comme suit : \" § 6. Les renseignements visés ci-dessous doivent être communiqués à la Direction générale Organisation des établissements de soins du SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement à sa demande. \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">dans le § 6, le point 3° est remplacé comme suit : \" 3° le nombre de journées réalisées pendant l'exercice considéré ainsi que la répartition de ces journées par mois, par organisme payeur et par type de personnes reprises aux points 1° et 2° de l'article 3 de l'arrêté royal du 10 juillet 1990 fixant les normes pour l'agrément spécial des maisons de soins psychiatriques, à savoir les personnes présentant un trouble psychiatrique chronique stabilisé et les handicapés mentaux; \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"4°\">\n        <span class=\"provision-text\">dans le § 6, le point 4° est remplacé comme suit : \" 4° les renseignements relatifs au personnel, dont le modèle sera établi, par année civile, par la Direction générale Organisation des établissements de soins, Service Comptabilité et gestion des hôpitaux du SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement; \".</span>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.007Z",
+  "tokenUsage": {
+    "prompt": 2125,
+    "completion": 519,
+    "total": 2644
+  }
+}

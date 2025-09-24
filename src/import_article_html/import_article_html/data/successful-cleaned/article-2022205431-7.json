@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022205431",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation à l'article 77/1, § 4, alinéa 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">de la loi du 3 juillet 1978 relative aux contrats de travail, l'employeur peut, pendant la durée de validité du présent chapitre, comparer la diminution substantielle de 10 % au moins du chiffre d'affaires, de la production ou des commandes au cours d'un des quatre trimestres précédant la demande d'introduction du régime de chômage économique avec le même trimestre de 2019.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.825Z",
+  "tokenUsage": {
+    "prompt": 1637,
+    "completion": 290,
+    "total": 1927
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034096",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La demande de subvention pour un projet tel que visé à l'article 4, alinéa 1er, 1°, contient tous les éléments suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le formulaire de demande électronique, dûment rempli ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">une motivation de la demande accompagnée d'une description claire du niveau d'impact sur le demandeur, des objectifs et du plan de mise en oeuvre du projet sur une période de neuf mois maximum ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">une estimation des coûts accompagnée d'une ventilation détaillée des types de coûts, y compris, le cas échéant, les fonctions et l'identification unique du personnel interne qui sera déployé sur le projet.</span>\n        </li>\n      </ol>\n      <p>Les éléments visés à l'alinéa 1er, 2° et 3°, font partie intégrante de la demande. Il incombe au demandeur de joindre à sa demande tous les éléments requis. Le demandeur indique sur le formulaire de demande électronique à quel moment le dossier est considéré comme complet pour lui. Le demandeur dispose de 10 jours au maximum suivant la date à laquelle il a déclaré le dossier comme étant complet pour éventuellement le compléter. A l'issue de ce délai, un dossier incomplet est déclaré irrecevable. L'administrateur dirigeant établit le formulaire de demande.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.775Z",
+  "tokenUsage": {
+    "prompt": 1971,
+    "completion": 443,
+    "total": 2414
+  }
+}

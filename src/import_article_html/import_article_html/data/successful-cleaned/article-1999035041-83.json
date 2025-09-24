@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035041",
+  "articleNumber": "83",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-83\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 83</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté entre en vigueur le premier jour du deuxième mois suivant le mois de sa publication au Moniteur belge, à l'exclusion des dispositions de l'article 1er, points</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">4°</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">5°</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">6°</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">8°</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">et des articles 10 à 13, qui sont applicables dès la date d'entrée en vigueur de l'accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale en ce qui concerne la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.186Z",
+  "tokenUsage": {
+    "prompt": 1645,
+    "completion": 342,
+    "total": 1987
+  }
+}

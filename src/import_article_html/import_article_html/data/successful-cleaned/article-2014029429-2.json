@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029429",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les membres visés aux points \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-07-17/27\" data-law-type=\"ACF\" data-article-number=\"2\">\n              1°, 5°, 5° /1 et 6° de l'alinéa 1er de l'article 4 du décret sont nommés par le Ministre, sur présentation d'une liste double par les organes représentatifs dont font partie les membres à nommer.\n            </span>\n          </p>\n          <p>\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-07-17/27\" data-law-type=\"ACF\" data-article-number=\"2\">\n              Les membres visés aux points 1° /1, 2°, 3° et 4°, de l'alinéa 1er du même article sont nommés par le Ministre, après appel public à candidatures.\n            </span>\n          </p>\n          <p>\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-07-17/27\" data-law-type=\"ACF\" data-article-number=\"2\">\n              ...\n            </span>\n          </p>\n          <p>Les membres visés au point 7° de l'alinéa 1er du même article sont nommés par le Ministre, sur présentation d'une liste double par le fonctionnaire dirigeant de l'administration compétente.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.221Z",
+  "tokenUsage": {
+    "prompt": 1949,
+    "completion": 461,
+    "total": 2410
+  }
+}

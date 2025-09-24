@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1993012160",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"1999-05-31/34\" data-article-number=\"2\" data-law-type=\"AR\" data-effective-date=\"15-06-1999\">&lt;Inséré par AR 1999-05-31/34, art. 2;<strong>En vigueur :</strong>15-06-1999&gt;</span> Le président, le vice-président et les membres du Conseil consultatif visés à l'article 8, 2°, 3°, 4°, 5°, 6° et 8° sont nommés par Nous. Le président et le vice-président sont d'expression linguistique différente.\n      </p>\n      <p class=\"closing-text\">Le mandat des membres du Conseil consultatif est de 5 ans; il est renouvelable.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.096Z",
+  "tokenUsage": {
+    "prompt": 1734,
+    "completion": 276,
+    "total": 2010
+  }
+}

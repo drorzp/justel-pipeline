@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022041636",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er, § 2, de l'arrêté royal du 16 juillet 2002 relatif à l'établissement de mécanismes visant la promotion de l'électricité produite à partir des sources d'énergie renouvelables et l'indemnisation des titulaires d'une concession domaniale offshore en cas d'indisponibilité du Modular Offshore Grid, modifié en dernier lieu par l'arrêté royal du 11 février 2019, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les 7° et 8° sont abrogés ;</span></li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article 1er est complété par les 15° et 16° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"15°\"><span class=\"provision-text\">\" rapport ex-ante \" : le rapport établi par le gestionnaire du réseau, reprenant l'ensemble des données pertinentes en vue de l'évaluation par la commission des coûts et, le cas échéant, des recettes liées à l'obligation d'achat des certificats verts pour l'exercice suivant ;</span></li>\n            <li class=\"provision\" data-number=\"16°\"><span class=\"provision-text\">\" rapport ex-post \" : le rapport établi par le gestionnaire du réseau, reprenant l'ensemble des données pertinentes en vue de l'établissement des coûts et, le cas échéant, des recettes, liés à l'obligation d'achat des certificats verts pour l'exercice écoulé.</span></li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.881Z",
+  "tokenUsage": {
+    "prompt": 2118,
+    "completion": 474,
+    "total": 2592
+  }
+}

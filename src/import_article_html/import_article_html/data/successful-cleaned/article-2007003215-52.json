@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003215",
+  "articleNumber": "52",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-52\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 52</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 82 de la même loi, abrogé par l'arrêté royal du 25 mars 2003, est retabli dans la rédaction suivante : \" Art. 82. Aux fins visées à l'article 35, § 1er, 1° et 2°, l'auditeur peut, moyennant l'autorisation préalable d'un juge d'instruction :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">ordonner, selon les règles prévues à l'article 83, sauf dans une habitation privée, la saisie de fonds, valeurs, titres ou droits qui sont la propriété de la personne faisant l'objet d'une enquête menée par la CBFA ou par une autorité compétente au sens de l'article 75, § 1er, 3° ou 4°, et qui, soit constituent l'objet de l'infraction examinée, soit étaient destinés ou ont servi à commettre l'infraction en question, soit constituent un avantage patrimonial tiré directement de l'infraction ou en constituent l'équivalent;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">requérir, selon les règles prévues à l'article 84, la communication des données d'appel de moyens de télécommunication, ainsi que de l'origine ou de la destination de télécommunications;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">imposer, selon les règles prévues à l'article 85, une interdiction temporaire d'exercice de l'activité professionnelle.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.771Z",
+  "tokenUsage": {
+    "prompt": 2001,
+    "completion": 459,
+    "total": 2460
+  }
+}

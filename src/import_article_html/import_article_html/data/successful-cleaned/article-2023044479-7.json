@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044479",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 20, alinéa 1er, 1°, 2°,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">4°, du même arrêté, les mots \" de la dernière adaptation du plan pluriannuel \" sont chaque fois remplacés par les mots \" dans le plan pluriannuel ou, le cas échéant, sa dernière adaptation établie, et dans les comptes annuels pour l'exercice précédent \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.790Z",
+  "tokenUsage": {
+    "prompt": 1553,
+    "completion": 222,
+    "total": 1775
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014207536",
+  "articleNumber": "135",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-135\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 135</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1556 du même Code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, 1° à 3°, les mots \" a justifié \" sont à chaque fois remplacés par le mot \" justifie \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 5, 1° et 2°, les mots \" a développé \" sont remplacés par le mot \" développe \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.206Z",
+  "tokenUsage": {
+    "prompt": 1608,
+    "completion": 243,
+    "total": 1851
+  }
+}

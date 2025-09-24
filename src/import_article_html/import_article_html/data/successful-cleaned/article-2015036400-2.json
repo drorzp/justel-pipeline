@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015036400",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 3 du même arrêté est remplacé par ce qui suit:</p>\n      <blockquote>\n        <p>\" L'organisateur dispose de l'infrastructure, visée aux articles 13/1 à 19 inclus et 21,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">2°, et veille à ce que l'infrastructure consiste en un environnement sûr et sain tel que visé à l'article 24, § 1er. Pour un accueil de groupe, cela ressort d'un avis sur l'infrastructure d'un fonctionnaire de surveillance et d'une déclaration sur l'honneur de l'organisateur pour l'accueil familial.</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.283Z",
+  "tokenUsage": {
+    "prompt": 1615,
+    "completion": 264,
+    "total": 1879
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013204518",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Sans préjudice de l'application de l'article 4, alinéa premier, 3° et de l'article 6, alinéas premier et quatre, les collaborateurs du Guichet sont liés par l'obligation de confidentialité relative aux données dont ils prennent connaissance dans l'exercice de leur mission, telle que visée à l'article 4, premier alinéa et qui ont un rapport avec cette mission.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.206Z",
+  "tokenUsage": {
+    "prompt": 1526,
+    "completion": 166,
+    "total": 1692
+  }
+}

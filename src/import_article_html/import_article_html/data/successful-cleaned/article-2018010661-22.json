@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018010661",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 56 du même arrêté, remplacé par l'arrêté royal du 18 novembre 2015, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les 1°, 2° et 3° sont complétés par la disposition sous e) rédigée comme suit :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"e)\">ne pas être sous le coup d'une sanction disciplinaire non radiée.</li>\n          </ul>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le 4° est complété par la disposition sous f) rédigée comme suit :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"f)\">ne pas être sous le coup d'une sanction disciplinaire non radiée.</li>\n          </ul>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans les dispositions sous 5°, 6° et 7°, la disposition sous e) est remplacée comme suit :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"e)\">ne pas être sous le coup d'une sanction disciplinaire non radiée.</li>\n          </ul>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans les dispositions sous 1° à 7°, les mots \"l'épreuve de promotion visée\" sont remplacés par les mots \"l'examen de promotion visé\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.766Z",
+  "tokenUsage": {
+    "prompt": 1949,
+    "completion": 470,
+    "total": 2419
+  }
+}

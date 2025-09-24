@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024008993",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article D.29-7 du même Livre du même Code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 1er, le deuxième alinéa est complété par ce qui suit : \" Si le permis est introduit dans une zone d'activité économique visée à l'article D.II.28 du Code du Développement territorial, au moins deux des quatre affiches sont placées dans les quartiers résidentiels en zone d'habitat ou en zone d'habitat à caractère rural visées à l'article D.II.23, alinéa 2,</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\"><span class=\"provision-text\">et</span></li>\n            <li class=\"sub-provision\" data-marker=\"2°\"><span class=\"provision-text\">du Code du Développement territorial, situées à moins d'un kilomètre de la parcelle concernée par la demande de permis.</span></li>\n          </ol>\n          <span class=\"provision-text\">\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 2, alinéa 1er, les mots \" cinq jours \" sont remplacés par les mots \" sept jours \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.469Z",
+  "tokenUsage": {
+    "prompt": 1868,
+    "completion": 415,
+    "total": 2283
+  }
+}

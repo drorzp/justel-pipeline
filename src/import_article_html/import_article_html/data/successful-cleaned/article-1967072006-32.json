@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1967072006",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-10-22/35\" data-law-type=\"AR\" data-article-number=\"17\">\n          &lt;AR 2006-10-22/35, art. 17, 006; En vigueur : 27-11-2006&gt;\n        </span>\n        Dans les cas prévus à l'article 31, alinéa 1er, 1°,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        3°, le médecin-conseil a droit à un préavis calculé conformément aux dispositions de l'article 82, § 3, de la loi du 3 juillet 1978 relative aux contrats de travail.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.574Z",
+  "tokenUsage": {
+    "prompt": 1668,
+    "completion": 291,
+    "total": 1959
+  }
+}

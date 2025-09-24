@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015A36304",
+  "articleNumber": "63",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-63\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 63</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le conseil d'administration et la commission de pratique sont convoqués à la demande :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">du président ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de l'administrateur délégué ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">du Gouvernement flamand ou de son (ses) délégué(s) ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">uniquement en ce qui concerne le conseil d'administration, de trois de ses membres ;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">uniquement en ce qui concerne la commission de pratique, de deux de ses membres.</span></li>\n      </ol>\n      <p>Les demandes de convocation émanant du Gouvernement flamand, de son (ses) délégué(s) ou des personnes visées à l'alinéa précédent, 4° et 5°, seront adressées par écrit, par la poste ou par la voie électronique au président, à l'adresse de l'agence ou introduites pendant la réunion.</p>\n      <p>Lorsque la demande de convocation est adressée au président par écrit, celui-ci est tenu d'en remettre une copie à l'administrateur délégué.</p>\n      <p>Les demandes de convocation indiquent les points dont l'inscription à l'ordre du jour est demandée.</p>\n      <p>Le président convoque le \" Management Syntra-netwerk \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.303Z",
+  "tokenUsage": {
+    "prompt": 1971,
+    "completion": 464,
+    "total": 2435
+  }
+}

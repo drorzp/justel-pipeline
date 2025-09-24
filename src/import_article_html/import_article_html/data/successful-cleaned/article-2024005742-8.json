@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005742",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sous la réserve prévue au § 2, le présent arrêté entre en vigueur le lendemain de sa publication au Moniteur belge.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>En dérogation au § 1er, l'article 2, § 1er, 6° et 7°, du présent arrêté entre en vigueur le même jour que l'arrêté royal modifiant l'article 1er de l'arrêté royal du 26 juin 2002 relatif à la détention et au port d'armes par les services de l'autorité ou de la force publique, en vue d'y intégrer les membres de l'URCET.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.557Z",
+  "tokenUsage": {
+    "prompt": 1752,
+    "completion": 289,
+    "total": 2041
+  }
+}

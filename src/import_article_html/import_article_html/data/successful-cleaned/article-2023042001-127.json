@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042001",
+  "articleNumber": "127",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-127\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 127</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Par dérogation à l'article 125, le présent arrêté s'applique également aux engagements pour la mesure culture de légumineuses, la mesure désherbage mécanique, la mesure préservation des races ovines locales et des races bovines locales, qui sont toujours en cours au 1er janvier 2023 et qui ont été conclus conformément à l'article 2, premier alinéa, 1°, respectivement l'article 2, premier alinéa, 3° et 5°, de l'arrêté du 5 septembre 2014.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les conditions des engagements, mentionnés au premier alinéa, sont adaptées aux dispositions du présent arrêté pour la durée restante de l'engagement.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 3.</h3>\n        <div class=\"paragraph-content\">\n          <p>Par dérogation au deuxième alinéa, la condition visée à l'article 45, 2°, ne s'applique pas aux engagements, visés au premier alinéa.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 4.</h3>\n        <div class=\"paragraph-content\">\n          <p>Si l'agriculteur n'accepte pas l'ajustement visé au deuxième alinéa, ou s'il ne respecte pas les conditions du présent arrêté, l'engagement prend fin sans exiger le remboursement de la période pendant laquelle l'engagement a déjà été exécuté.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.739Z",
+  "tokenUsage": {
+    "prompt": 1949,
+    "completion": 496,
+    "total": 2445
+  }
+}

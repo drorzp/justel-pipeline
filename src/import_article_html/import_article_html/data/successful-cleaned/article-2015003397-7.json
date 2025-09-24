@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015003397",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la zone de jeu visée à l'article 4, § 1er, alinéa 1er, peuvent figurer des indications de contrôle sous toute forme jugée utile par la Loterie Nationale. Ces indications de contrôle sont utilisées pour vérifier, entre autres par le biais d'un système informatique, si le billet présenté pour obtenir un lot est authentique et valide, pour vérifier s'il est gagnant ou non, pour vérifier le lot éventuel, et pour la reconstruction informatique du billet si nécessaire. Si ces indications de contrôle donnent un résultat qui ne correspond pas aux données mentionnées sur le billet, le billet est nul et le porteur d'un tel billet a le droit d'en obtenir l'échange ou d'être remboursé du prix d'achat du billet nul, selon le choix de la Loterie Nationale. Si l'absence de correspondance est la conséquence d'une fraude ou mauvaise manipulation du billet, ceci entraîne la nullité du billet, sans aucun droit à un échange ou un remboursement. A des fins de contrôle, seule la Loterie Nationale est habilitée à gratter la pellicule opaque recouvrant la zone de jeu visée à l'article 4 et les pellicules opaques visées à l'article 6,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, des billets invendus.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.264Z",
+  "tokenUsage": {
+    "prompt": 1955,
+    "completion": 407,
+    "total": 2362
+  }
+}

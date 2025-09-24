@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014000026",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 7, § 2, alinéa 2, de la loi du 26 juin 2004 exécutant et complétant la loi du 2 mai 1995 relative à l'obligation de déposer une liste de mandats, fonctions et professions et une déclaration de patrimoine, modifié par la loi du 12 mars 2009, la première phrase est remplacée par ce qui suit:</p>\n      <p class=\"quote-text\">\"Si l'affaire est soumise par un sénateur visé à l'article 67, § 1er, 6° et 7°, de la Constitution, elle est examinée par une commission de suivi composée de membres du Sénat.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.140Z",
+  "tokenUsage": {
+    "prompt": 1689,
+    "completion": 233,
+    "total": 1922
+  }
+}

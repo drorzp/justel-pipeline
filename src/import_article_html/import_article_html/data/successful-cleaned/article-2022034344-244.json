@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034344",
+  "articleNumber": "244",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-244\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 244</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">- In Artikel 79bis, § 3 des Königlichen Erlasses vom 25. November 1991 zur Regelung der Arbeitslosigkeit werden die folgenden Anderungen in der französischen Fassung vorgenommen:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">In Absatz 1 wird ein 6° eingefügt, der wie folgt lautet: \" 6° au profit des personnes visées au 1° à 4°, les activités qu'une structure, active sur le territoire de l'ALE concernée et retenue dans le cadre de l'appel à projets lancé par le FOREm dans le cadre de l'expérience pilote Territoire zéro chômeur de longue durée, envisage d'effectuer dans le cadre de l'expérience pilote \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">in Absatz 2 werden die Wörter \" à l'alinéa 1er, 3° et 4° \" durch die Wörter \" à l'alinéa 1er, 3°, 4° et 6° \" ersetzt.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.774Z",
+  "tokenUsage": {
+    "prompt": 1828,
+    "completion": 352,
+    "total": 2180
+  }
+}

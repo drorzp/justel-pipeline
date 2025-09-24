@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018010130",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article X 10 du même arrêté, modifié par les arrêtés du Gouvernement flamand des 16 mars 2007, 23 mai 2008 et 29 mai 2009, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 4, les mots \" congé de paternité \" sont remplacés par les mots \" congé de paternité ou de co-maternité \" et il est ajouté un point</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">congé de naissance</span>\n            </li>\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">congé dans le cadre du placement familial.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté un alinéa 5, rédigé comme suit :</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\" Par dérogation à l'alinéa 3, le congé annuel de vacances du fonctionnaire n'est pas diminué proportionnellement en cas de congé dans le cadre du placement familial.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.765Z",
+  "tokenUsage": {
+    "prompt": 1896,
+    "completion": 406,
+    "total": 2302
+  }
+}

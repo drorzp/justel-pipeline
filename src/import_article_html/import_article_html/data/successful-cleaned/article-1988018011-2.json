@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1988018011",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Afin de couvrir les frais pour 1987, prévus à l'article 7, § 3, dernier alinéa de l'arrêté royal n° 289, une avance de douze millions cinq cent mille francs, à valoir sur les affectations visées à l'article 7, § 3,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">2°, dudit arrêté, sera réservée sur un compte spécial productif d'intérêts ouvert au nom de l'Institut national auprès de la Caisse nationale, à raison de onze millions de francs au profit de l'Institut national et de un million cinq cent mille francs au profit de la Caisse nationale.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.712Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 270,
+    "total": 1949
+  }
+}

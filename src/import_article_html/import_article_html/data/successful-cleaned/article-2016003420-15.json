@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003420",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 8 du même arrêté royal est remplacé par ce qui suit : \" Art. 8. Sont éligibles au remboursement au titre de la protection des dépôts, sans préjudice des dispositions de l'arrêté royal du 14 novembre 2008 et des articles suivants, les avoirs confiés par un client à une société visée à l'article 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans l'ignorance de bonne foi de l'interdiction qui est faite à ces sociétés de recevoir, détenir ou conserver des dépôts de fonds de clients.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.317Z",
+  "tokenUsage": {
+    "prompt": 1667,
+    "completion": 272,
+    "total": 1939
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024203846",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'organisme payeur vérifie lors du contrôle ex-post le respect des conditions fixées dans l'attestation en vertu de l'article 22, alinéa 1er, 2° et 3°.</p>\n        <p class=\"closing-text\">Le contrôle ex-post des obligations en matière de publicité et de visibilité peut uniquement intervenir au cours des cinq années à compter de la liquidation de la subvention.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.739Z",
+  "tokenUsage": {
+    "prompt": 1565,
+    "completion": 205,
+    "total": 1770
+  }
+}

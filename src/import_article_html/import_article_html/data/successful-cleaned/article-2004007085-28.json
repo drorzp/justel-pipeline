@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004007085",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le comité de sélection établit un tableau de classement par régime linguistique. Pour établir ce classement, le comité de sélection tient compte :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">de l'ancienneté de service dans le cadre auxiliaire;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'aptitude professionnelle et de la manière de servir;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-06-06/17\" data-law-type=\"AR\" data-article-number=\"5\">du résultat obtenu aux épreuves visées aux articles 18, 1° et 2°, et 19, 1° et 2°, de la loi du 11 novembre 2002.</span>\n          </span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.651Z",
+  "tokenUsage": {
+    "prompt": 1779,
+    "completion": 329,
+    "total": 2108
+  }
+}

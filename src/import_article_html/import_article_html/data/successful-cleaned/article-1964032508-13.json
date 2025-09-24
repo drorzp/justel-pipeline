@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1964032508",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le Roi peut, dans la mesure compatible avec la sauvegarde de la santé publique, faciliter aux pharmaciens et aux autres personnes autorisées à délivrer des médicaments l'exécution de l'obligation qu'ils ont de garantir la qualité et la conformité des médicaments qu'ils délivrent.</p>\n      <p>Le (ministre qui a la Santé publique dans ses attributions) est autorisé à agréer un ou plusieurs laboratoires auxquels il est loisible aux personnes visées à l'alinéa premier de confier sans que leur responsabilité s'en trouve dégagée, le contrôle de la qualité et de la conformité des médicaments qu'ils délivrent. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1998-10-20/34\" data-law-type=\"L\" data-article-number=\"11\">&lt;L 1998-10-20/34, art. 11, 009;En vigueur :21-11-1998&gt;</span></p>\n      <p>Le Roi peut obliger les producteurs et les grossistes-répartiteurs de percevoir, à charge de tous les pharmaciens d'officine (et les médecins vétérinaires titulaires d'un dépôt), qui s'approvisionnent chez eux et au profit des laboratoires agrées le montant de la redevance destinée à financer le coût du contrôle des médicaments. Le Roi peut étendre l'application de cette disposition (à d'autres contributions et rétributions et) à charge des autres personnes autorisées à délivrer des médicaments. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2008-12-22/32\" data-law-type=\"L\" data-article-number=\"171\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2008122232\">&lt;L [2008-12-22/32](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2008122232), art. 171, 1° et 2°, 029;En vigueur :08-01-2009&gt;</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.527Z",
+  "tokenUsage": {
+    "prompt": 2174,
+    "completion": 547,
+    "total": 2721
+  }
+}

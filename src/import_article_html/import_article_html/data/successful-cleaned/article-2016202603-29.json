@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016202603",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 29</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'arrêté royal du 13 décembre 2015 modifiant l'année de référence utilisée pour prouver que l'entreprise est considérée comme entreprise en difficulté au sens de l'article 77/1, § 4, 1° et 3°, de la loi du 3 juillet 1978 relative aux contrats de travail est abrogé.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.646Z",
+  "tokenUsage": {
+    "prompt": 1502,
+    "completion": 156,
+    "total": 1658
+  }
+}

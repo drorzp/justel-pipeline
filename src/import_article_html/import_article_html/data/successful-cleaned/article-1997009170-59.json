@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997009170",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 59</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 283 du même Code sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, les 2°, 3° et 4° sont remplacés par la disposition suivante :<br>\" 2° avoir réussi un concours organisé par le Roi, devant un jury institué par le ministre de la Justice. Les licenciés en droit et les porteurs du certificat de candidat-greffier ou de candidat-secrétaire sont dispensés du concours. \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'alinéa 2 est remplacé par la disposition suivante :<br>\" La nomination d'un employé n'est définitive qu'après l'accomplissement d'une année de fonctions.<br>Le ministre de la Justice peut, au cours de cette année, sur l'avis du secrétaire en chef que celui-ci lui transmet directement, mettre fin aux fonctions exercées à titre provisoire.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.026Z",
+  "tokenUsage": {
+    "prompt": 1794,
+    "completion": 337,
+    "total": 2131
+  }
+}

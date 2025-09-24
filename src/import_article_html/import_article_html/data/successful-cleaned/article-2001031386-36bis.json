@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001031386",
+  "articleNumber": "36bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-05-08/36\" data-law-type=\"ORD\" data-article-number=\"21\">\n          La section IIquater du Chapitre II et l'article 30bis, § 3, 7° et 8° entrent en vigueur au jour de l'entrée en vigueur de la loi de transfert de compétences en matière de tarifs de distribution opéré par la loi fédérale, sauf dérogation par le Gouvernement.\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.138Z",
+  "tokenUsage": {
+    "prompt": 1614,
+    "completion": 201,
+    "total": 1815
+  }
+}

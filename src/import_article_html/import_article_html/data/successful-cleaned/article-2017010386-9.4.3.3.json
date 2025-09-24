@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010386",
+  "articleNumber": "9.4.3.3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9-4-3-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9.4.3.3</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le demandeur doit payer les frais liés au traitement de la demande, visée à l'article 9.4.3.2.</p>\n        <p>Pour les demandes telles que visées à l'article 9.4.3.2,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">les frais sont fixés à cent euros.</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">les frais sont fixés à cent euros.</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">les frais sont fixés à cinquante euros.</span>\n          </li>\n        </ol>\n        <p>Par dérogation aux alinéas 1er à 3 inclus, aucun frais n'est lié à la demande, visée à l'article 9.4.3.2, 3°, si la demande a uniquement trait à la suppression de moyens de transport ou de stockages temporaires mobiles de l'agrément.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les frais de dossier, visés au paragraphe 1er, sont dus au moment que le demandeur introduit la demande. Le montant dû doit être versé sur le compte de la VLM destiné à cet effet.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.750Z",
+  "tokenUsage": {
+    "prompt": 1891,
+    "completion": 482,
+    "total": 2373
+  }
+}

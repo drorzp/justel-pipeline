@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021030326",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un montant supplémentaire maximum de 1 735 833 euros est prévu pour l'accueil exceptionnel pendant la période du 1 janvier 2021 au 18 avril 2021 par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les internats tels que mentionnés aux articles III.21 et III.35 de la Codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les homes tels que mentionnés aux articles III.1, § 1, alinéa premier, III.20, III.35, § 1, 2° et III.37 de la même codification ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les internats de l'enseignement spécial tels que mentionnés au chapitre 4, section 1, sous-section 2 de la même codification ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les internats avec ouverture permanente tels que mentionnés au chapitre 6 de la même codification.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Le montant par établissement est calculé en multipliant par 50 euros le nombre d'internes présents exceptionnellement pris en charge par demi-journée d'accueil exceptionnel. Les coûts supplémentaires doivent être justifiés auprès d'AGODI.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.125Z",
+  "tokenUsage": {
+    "prompt": 1956,
+    "completion": 449,
+    "total": 2405
+  }
+}

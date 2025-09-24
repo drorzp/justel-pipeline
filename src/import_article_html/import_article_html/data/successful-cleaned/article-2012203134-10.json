@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012203134",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 85, § 1er, du même arrêté est complété par les 4°, 5° et 6° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">une subvention spécifique leur permettant de financer les augmentations salariales résultant de la valorisation des heures inconfortables;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">une subvention spécifique en vue de compenser les dispositions en matière de revalorisation barémique des éducateurs chefs de groupe et des chefs éducateurs;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">une subvention spécifique leur permettant de financer les emplois compensatoires liés à l'attribution de jours de congés annuels supplémentaires aux travailleurs âgés de 52 ans et plus. Cette subvention est accordée uniquement aux services gérés par un pouvoir organisateur public.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.332Z",
+  "tokenUsage": {
+    "prompt": 1750,
+    "completion": 330,
+    "total": 2080
+  }
+}

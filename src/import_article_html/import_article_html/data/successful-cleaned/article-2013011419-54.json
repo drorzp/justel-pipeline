@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013011419",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 54</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 87quater de la même loi, inséré par l'arrêté royal du 3 mars 2011, dont le texte actuel formera le paragraphe 1er, est complété par les paragraphes 2 et 3 rédigés comme suit :</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les établissements visés à l'article 45, § 1er, alinéa 1er, 2° et 3°, fournissent à la FSMA, au plus tard dans les dix jours ouvrables bancaires suivant sa demande, un accès permanent aux parties de leurs sites web qui sont réservées à leurs clients, sans toutefois donner accès aux données individuelles de leurs clients.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les dispositions des articles 36 et 37 sont applicables en cas de manquement aux obligations prévues par ou en vertu du présent article.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.027Z",
+  "tokenUsage": {
+    "prompt": 1786,
+    "completion": 335,
+    "total": 2121
+  }
+}

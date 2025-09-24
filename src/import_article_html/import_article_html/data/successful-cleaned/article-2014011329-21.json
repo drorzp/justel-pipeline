@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014011329",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Lorsque la publicité mentionne un rendement historique simulé ou y fait référence, elle doit se rapporter à un produit d'investissement, à un produit d'épargne ou à un indice financier, et les conditions suivantes doivent être remplies :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le rendement historique simulé prend pour base les performances passées réelles d'un ou plusieurs produits d'investissement, produits d'épargne ou indices financiers qui sont identiques ou sous-jacents au produit concerné;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">en ce qui concerne les performances passées réelles visées au 1°, les conditions énumérées aux 2° à 7°, 9° et 10° de l'article 17 sont remplies;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">la publicité fait figurer en bonne place un avertissement précisant que le rendement cité est un rendement historique simulé et qu'un rendement réalisé dans le passé ne constitue pas un indicateur fiable du rendement futur.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.153Z",
+  "tokenUsage": {
+    "prompt": 1826,
+    "completion": 364,
+    "total": 2190
+  }
+}

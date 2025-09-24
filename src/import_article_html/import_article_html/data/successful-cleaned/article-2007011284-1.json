@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007011284",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Comité de coordination, créé auprès de l'Institut national de Statistique, est composé des membres suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">deux membres émanant du Conseil supérieur de statistique :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">le président du Conseil supérieur de statistique;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">un membre du Conseil supérieur de statistique, proposé par le Conseil supérieur de statistique. Ce membre ne pourra pas faire partie d'une des institutions représentées aux points 2° et 3°;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">quatre membres émanant des entités fédérales :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">deux représentants de la Direction générale de la Statistique et de l'Information économique;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">un représentant de la Banque nationale de Belgique;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">un représentant du Bureau fédéral du Plan;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">La Communauté française, la Région wallonne, la Communauté flamande, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone peuvent chacune désigner un représentant, en tant que membre du Comité de coordination.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.783Z",
+  "tokenUsage": {
+    "prompt": 1940,
+    "completion": 464,
+    "total": 2404
+  }
+}

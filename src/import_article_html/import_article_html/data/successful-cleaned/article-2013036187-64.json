@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013036187",
+  "articleNumber": "64",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-64\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 64</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-03-17/23\" data-law-type=\"AGF\" data-article-number=\"34\">\n        <p class=\"intro-text\">Les personnes qui disposent d'une attestation de dérogation ou d'une preuve de connaissance sur la base des articles 64 à 66/1 précédemment applicables, pour l'application des conditions visées aux articles 8, 11, 40, § 2, alinéa 1er, 3° et 5°, et § 3, et à l'article 43, § 2, alinéa 1er, 4°, conservent leur droit à la dérogation précitée.</p>\n        <p class=\"closing-text\">Une période transitoire est prévue jusqu'au 31 mars 2024 pour satisfaire à la condition visée à l'article 43, § 2, alinéa 1er, 4°.</p>\n        <p class=\"closing-text\">L'organisateur de l'accueil en groupe employant des accompagnateurs d'enfants qui travaillent dans le statut social spécifique des parents d'accueil ne peut, tant que les accompagnateurs d'enfants travaillent dans ce statut, obtenir une autorisation pour plus de 18 places d'accueil d'enfants pour ce milieu d'accueil d'enfants.</p>\n        <p class=\"closing-text\">Si, entre le 1er janvier 2019 et le 31 décembre 2023, l'accompagnateur d'enfants en accueil familial, qui travaille également comme responsable, est soutenu par un pool d'accueil familial tel que visé à l'arrêté du Gouvernement flamand du 22 février 2019 portant octroi d'une subvention aux pools d'accueil familial, la qualification visée à l'article 43, § 2, alinéa 1er, 4°, a), du présent arrêté s'applique à cette personne, par dérogation à la condition de fonctionnement sur la qualification visée à l'article 40, § 2, alinéa 1er, 5°, du présent arrêté, au plus tard jusqu'au 31 mars 2024.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.200Z",
+  "tokenUsage": {
+    "prompt": 2302,
+    "completion": 549,
+    "total": 2851
+  }
+}

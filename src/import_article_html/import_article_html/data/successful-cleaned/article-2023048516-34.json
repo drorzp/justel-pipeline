@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048516",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le processus de conclusion d'une convention carbone comporte les étapes suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le Gouvernement et une communauté carbone établissent un projet de convention carbone sur la base de la convention carbone type</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le projet de convention carbone est soumis à consultation publique pendant trente jours à dater de la publication sur les sites internet dédiés de l'administration ayant en charge l'Energie et de l'Agence</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le Gouvernement et les communautés carbone qui ont établi le projet de convention carbone examinent les observations visées au 2° et modifient, le cas échéant, le projet de convention</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">la convention carbone est conclue par la signature des parties contractantes et est publiée sur les sites internet dédiés de l'administration ayant en charge l'Energie et de l'Agence.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">La convention carbone est obligatoire pour les parties contractantes dès le jour de sa signature.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.502Z",
+  "tokenUsage": {
+    "prompt": 1845,
+    "completion": 391,
+    "total": 2236
+  }
+}

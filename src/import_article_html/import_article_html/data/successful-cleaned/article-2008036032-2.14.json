@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008036032",
+  "articleNumber": "2.14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2.14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 139quater, § 1er, du même décret, le point 1° est remplacé par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">\n            les écoles visées à l'article 139ter sont classées suivant le pourcentage d'élèves qui répondent à un ou plusieurs indicateurs d'égalité des chances visés à l'article 139bis, § 1er,\n            <ol class=\"numbered-provisions\">\n              <li class=\"sub-provision\" data-marker=\"1°\"><span class=\"sub-provision-text\">1°</span></li>\n              <li class=\"sub-provision\" data-marker=\"2°\"><span class=\"sub-provision-text\">2°</span></li>\n              <li class=\"sub-provision\" data-marker=\"3°\"><span class=\"sub-provision-text\">3°</span></li>\n              <li class=\"sub-provision\" data-marker=\"4°\"><span class=\"sub-provision-text\">4°</span></li>\n            </ol>\n            ; le nombre d'élèves réguliers répondant uniquement aux indicateurs d'égalité des chances visés à l'article 139bis, § 1er,\n            <ol class=\"numbered-provisions\">\n              <li class=\"sub-provision\" data-marker=\"1°\"><span class=\"sub-provision-text\">1°</span></li>\n              <li class=\"sub-provision\" data-marker=\"1°\"><span class=\"sub-provision-text\">1°</span></li>\n              <li class=\"sub-provision\" data-marker=\"5°\"><span class=\"sub-provision-text\">5°</span></li>\n            </ol>\n            , est multiplié par un coefficient fixé par le Gouvernement flamand, étant au moins égal à 0,1 et ne dépassant pas 1. A l'intérieur d'un même pourcentage, les écoles sont classées suivant le nombre absolu de ces élèves;\n          </span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.043Z",
+  "tokenUsage": {
+    "prompt": 1992,
+    "completion": 535,
+    "total": 2527
+  }
+}

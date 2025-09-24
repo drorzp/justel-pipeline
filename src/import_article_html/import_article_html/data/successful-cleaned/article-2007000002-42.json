@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000002",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 42</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        (Les exercices de tir, respectivement visés à l'article 22, 4°, et 25, 2°, se déroulent exclusivement avec une arme dont la nature, le modèle et le type correspond avec l'arme utilisée lors des formations respectivement visées aux articles 22, 2° et 3°, et 25, 1°). \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"23-02-2007\" data-law-type=\"MB\">&lt;Erratum, voir M.B. 23-02-2007, p. 8821&gt;</span>\n      </p>\n      <p>\n        Les exercices de tir visés à l'article 23, se déroulent exclusivement avec une arme dont la nature, le modèle et le type est conforme à l'arme mentionnée sur l'autorisation de port d'arme.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.807Z",
+  "tokenUsage": {
+    "prompt": 1687,
+    "completion": 271,
+    "total": 1958
+  }
+}

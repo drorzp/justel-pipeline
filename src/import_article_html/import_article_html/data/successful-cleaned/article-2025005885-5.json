@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025005885",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 113, § 2 de l'annexe 8 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 20 octobre 2023, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les points </span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\"><span class=\"provision-text\">1°</span></li>\n            <li class=\"sub-provision\" data-marker=\"2°\"><span class=\"provision-text\">2° sont abrogés ;</span></li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le point 3°, h), est abrogé ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">au point 3°, j), les mots \" dans le respect du régime des visites \" sont abrogés ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">au point 11°, le membre de phrase \" et la disponibilité d'une liste actuelle des ministres et délégués au centre de type 3 \" est abrogé.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.733Z",
+  "tokenUsage": {
+    "prompt": 1814,
+    "completion": 400,
+    "total": 2214
+  }
+}

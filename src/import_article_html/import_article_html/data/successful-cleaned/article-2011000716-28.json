@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011000716",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 71 du même arrêté, le:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">engager un membre du personnel à temps plein, chargé de la fonction de coordinateur de cours, qui satisfait aux prescriptions de l'article 5 de la loi et de l'article 72, 2° et 3°, qui est chargé de l'organisation des formations, et qui est en possession d'un diplôme adapté de l'enseignement supérieur de type court au minimum ou équivalent et qui est détenteur de l'attestation visée à l'article 9 ou 10, ou de l'attestation visée à l'article 9 si l'organisme de formation pour lequel il est coordinateur de cours est agréé pour organiser la formation visée à l'article 9;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.344Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 276,
+    "total": 2037
+  }
+}

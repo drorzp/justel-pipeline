@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994021012",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les dispostions du présent titre sont applicables aux pouvoirs adjudicateurs visés à l'article 4, § 1 et § 2, 1° à 8° et 10°, ainsi qu'aux entreprises publiques, lorsqu'ils exercent une des activités visées au présent titre. Une liste non limitative de ces entreprises publiques est établie par le Roi.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Toutefois, pour les entreprises publiques, les dispositions du présent titre ne sont applicables qu'aux marchés publics ayant trait à leurs tâches de service public telles que determinées par une loi, un décret ou une ordonnance.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.932Z",
+  "tokenUsage": {
+    "prompt": 1600,
+    "completion": 276,
+    "total": 1876
+  }
+}

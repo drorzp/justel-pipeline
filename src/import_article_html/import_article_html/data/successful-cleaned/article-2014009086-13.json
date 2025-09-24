@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014009086",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sans préjudice des dispositions de l'article 20, § 5, du présent arrêté, les dix-neuvième et vingtième chambres connaissent des contestations visées à l'article 582, 3°, 582, 4°, 582, 6°, 582, 8°, 582, 9° et 582, 12°, du Code judiciaire.</p>\n      <p class=\"closing-text\">Les dix-neuvième et vingtième chambres connaissent également, comme chambres auxiliaires, des contestations visées au présent arrêté.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.064Z",
+  "tokenUsage": {
+    "prompt": 1622,
+    "completion": 200,
+    "total": 1822
+  }
+}

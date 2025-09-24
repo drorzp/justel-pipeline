@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016200647",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En application de l'article 14, § 5, alinéa 2, de l'arrêté du Gouvernement wallon du 28 janvier 2016, le maître de stage répond aux conditions cumulatives suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">être installé depuis au moins trois ans comme responsable à titre principal d'une exploitation agricole telle que définie à l'article D.3, 15°, du Code;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pouvoir démontrer une expérience en matière de formation et communication, le cas échéant, s'engager à suivre une formation en la matière dans l'année qui suit l'entrée en fonction en tant que formateur.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Par dérogation à l'alinéa 1er, 1° et outre le respect des conditions visées à l'alinéa 1er, 2°, lorsque le stage se déroule dans une entreprise autre qu'une exploitation agricole ou dans un organisme en relation avec le secteur agricole, le maître de stage occupe, depuis au moins trois ans, des fonctions, dans une entreprise ou un organisme en relation avec le secteur agricole, lui permettant de répondre aux objectifs visés à l'article 9 de l'arrêté du Gouvernement wallon du 28 janvier 2016.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.646Z",
+  "tokenUsage": {
+    "prompt": 1928,
+    "completion": 407,
+    "total": 2335
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015036628",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 38</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er de l'arrêté du Gouvernement flamand du 7 juillet 2006 fixant les modalités en matière de la succession en droits des sociétés de développement régional par les sociétés de développement provincial, modifié par l'arrêté du Gouvernement flamand du 30 janvier 2009, les points:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">sont abrogés.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.190Z",
+  "tokenUsage": {
+    "prompt": 1571,
+    "completion": 221,
+    "total": 1792
+  }
+}

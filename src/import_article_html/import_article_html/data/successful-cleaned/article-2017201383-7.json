@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017201383",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 9 du même arrêté, remplacé par l'arrêté du Gouvernement wallon du 1er février 2007 et modifié par l'arrêté du Gouvernement wallon du 23 avril 2009, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">le paragraphe 1er est remplacé par ce qui suit :</span>\n        <section class=\"paragraph\">\n          <h3 class=\"paragraph-marker\">§ 1er.</h3>\n          <div class=\"paragraph-content\">\n            <p>Les agents détachés visés à l'article 7, §§ 1er, 1° et 2°, bénéficient d'une allocation annuelle égale à la différence entre l'échelle de traitements visée à l'article 7 et leur échelle de traitements. Les agents détachés visés à l'article 5, § 2, bénéficient d'une allocation annuelle équivalente à l'allocation annuelle de Cabinet accordée aux membres du personnel des services du Gouvernement ou de tout service public, détachés dans les Cabinets en application de l'arrêté du Gouvernement wallon relatif aux Cabinets des Ministres du Gouvernement wallon en vigueur.</p>\n          </div>\n        </section>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">dans le paragraphe 3, 1°, les mots \" prévue à l'article 9 \" sont remplacés par les mots \" et l'allocation prévue au paragraphe 1er \".</span>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.632Z",
+  "tokenUsage": {
+    "prompt": 1961,
+    "completion": 429,
+    "total": 2390
+  }
+}

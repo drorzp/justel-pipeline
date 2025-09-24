@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005022834",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-10-05/01\" data-law-type=\"AR\" data-article-number=\"2\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Le fonctionnaire mentionné à l'article 1er notifie, dans les trente jours calendrier dans le cas où le Procureur du Roi renonce à intenter des poursuites pénales ou omet de notifier sa décision dans le délai prévu à l'article 7, § 4, alinéa 4, de la loi du 28 juillet 1981 mentionnée ci-dessus ou à la demande du Procureur du Roi dans les cas où celui-ci renonce à intenter des poursuites en cas d'infractions constatées par toutes les personnes visées à l'article 7, § 1er, 1° et 2° ; à l'intéressé, par lettre recommandée, son intention d'infliger une amende administrative. Dans cette lettre, il invite l'intéressé à introduire, par lettre recommandée, ses moyens de défense à l'adresse y mentionnée dans un délai de trente jours calendrier à compter de la date de la présentation de la lettre recommandée au domicile de l'intéressé.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Si le dossier administratif qui a été constitué à la suite de l'infraction, contient des pièces autres que le procès-verbal et la notification éventuelle du procureur du Roi, la lettre visée à l'alinéa 1er mentionne également que l'intéressé peut venir consulter le dossier.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 3.</h3>\n        <div class=\"paragraph-content\">\n          <p>L'intéressé a le droit de demander à être entendu.</p>\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.888Z",
+  "tokenUsage": {
+    "prompt": 2189,
+    "completion": 538,
+    "total": 2727
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998022842",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Ministre peut, au mois d'octobre de chaque année, après avis de la Commission consultative instituée auprès de l'Institut, adapter les montants visés aux articles 2 à 8 et 9, 1° et 3°, ainsi que les montants visés aux chapitres I, II et IV à VI de l'annexe, aux fluctuations de l'indice des prix à la consommation du Royaume.</p>\n        <p>Les montants réajustés peuvent être arrondis par le Ministre, après avis de cette Commission.</p>\n        <p>Les nouveaux montants sont applicables aux factures dressées à partir du 1 janvier de l'année qui suit celle durant laquelle le réajustement a été réalisé.</p>\n        <p>Pour l'application du présent article, le montant des droits visés au présent arrêté est lié à l'indice des prix du mois d'août 1998.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>A la fin de la deuxième année qui suit celle de la première application du présent arrêté, le Ministre fait, après avis de la Commission consultative, rapport au Gouvernement en ce qui concerne les droits percus par secteur.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.083Z",
+  "tokenUsage": {
+    "prompt": 1954,
+    "completion": 406,
+    "total": 2360
+  }
+}

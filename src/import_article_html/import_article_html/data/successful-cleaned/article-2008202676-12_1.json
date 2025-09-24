@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008202676",
+  "articleNumber": "12/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12/1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12/1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-03-13/20\" data-law-type=\"DRW\" data-article-number=\"43\">\n                <p class=\"intro-text\">ar dérogation à l'article 12, 1°, selon les conditions définies par le Gouvernement :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">l'une des entreprises peut ne pas avoir de siège d'activité en Wallonie;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">l'un des partenaires non-entreprise peut ne pas être organisé ou subventionné par la Communauté française s'il s'agit d'une entité visée à l'article 8, 2° et 8, 3°, ou ne pas avoir de siège d'activité en Wallonie s'il s'agit d'une entité visée à l'article 8, 1° ou 10, 2°.</span>\n                    </li>\n                </ol>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.919Z",
+  "tokenUsage": {
+    "prompt": 1815,
+    "completion": 334,
+    "total": 2149
+  }
+}

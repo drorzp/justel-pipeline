@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005011333",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Un article 83octies, rédigé comme suit, est inséré dans la même loi :</p>\n    <p>Art. 83octies.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le fournisseur est responsable vis-à-vis du consommateur pour le respect des obligations des articles 83ter à 83quinquies.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas de non-respect des obligations des articles 83ter, § 1er, 2° et 3°, 83quater, et 83quinquies, le consommateur peut résilier le contrat sans frais ni pénalités par lettre recommandée et motivée dans un délai raisonnable à partir du moment où il a connaissance ou aurait dû avoir connaissance du non-respect de ces obligations.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.754Z",
+  "tokenUsage": {
+    "prompt": 1798,
+    "completion": 318,
+    "total": 2116
+  }
+}

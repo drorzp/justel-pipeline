@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016000736",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article XI.6 de l' AEPol, modifié par l'arrêté ministériel du 20 décembre 2007, est complété par le</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">rédigé comme suit :</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">appartenant aux postes de circulation de la police de la route de la police fédérale à l'exception de ceux visés à l'article XI.4,</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et de ceux qui y occupent un emploi d'administration, de logistique ou de secrétariat.\"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.309Z",
+  "tokenUsage": {
+    "prompt": 1684,
+    "completion": 308,
+    "total": 1992
+  }
+}

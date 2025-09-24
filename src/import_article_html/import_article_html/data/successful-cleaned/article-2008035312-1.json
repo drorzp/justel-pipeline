@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008035312",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 10 juillet 2001 réglant le subventionnement des services d'aide logistique et de soins à domicile complémentaires, modifié par l'arrêté du Gouvernement flamand des 21 juin 2002, 7 mai 2004, 31 mars 2006, 8 septembre 2006 et 12 janvier 2007, il est ajouté les points 14°, 15° et 16°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"14°\">\n          <span class=\"provision-text\">travailleur de groupe cible : la personne qui effectue des activités d'aide ménagère, de dépannage et de garde dans le cadre de l'économie de services locaux;</span>\n        </li>\n        <li class=\"provision\" data-number=\"15°\">\n          <span class=\"provision-text\">économie de services locaux : les services visés à l'article 2,</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\">\n              <span class=\"provision-text\">du décret du 22 décembre 2006 relatif à l'économie de services locaux;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"16°\">\n          <span class=\"provision-text\">encadrement : la personne ou les personnes visées à l'article 1,</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"5°\">\n              <span class=\"provision-text\">de l'arrêté du Gouvernement flamand du 5 octobre 2007 relatif à l'économie de services locaux.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.042Z",
+  "tokenUsage": {
+    "prompt": 1994,
+    "completion": 490,
+    "total": 2484
+  }
+}

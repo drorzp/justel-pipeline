@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003196",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'annexe II au même arrêté, remplacée par l'arrêté royal du 19 décembre 2001 et modifiée par l'arrêté royal du 2 avril 2002, au cadre III, D, premier tiret, les mots &quot;l'article 51, § 2, 1° et 5°, du Code de la T.V.A.&quot; sont remplacés par les mots &quot;l'article 51, § 2, 1°, 5° et 6°, du Code de la T.V.A.&quot;</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.769Z",
+  "tokenUsage": {
+    "prompt": 1582,
+    "completion": 196,
+    "total": 1778
+  }
+}

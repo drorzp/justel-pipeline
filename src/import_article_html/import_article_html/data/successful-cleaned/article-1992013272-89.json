@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992013272",
+  "articleNumber": "89",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-89\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 89</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1994-12-23/43\" data-law-type=\"AM\" data-article-number=\"2\">&lt;AM 1994-12-23/43, art. 2, 025;<b>En vigueur :</b>14-11-1994&gt;</span> Pour les travailleurs visés à l'article 28, § 3, 1° et 3°, de l'arrête royal et pour les autres travailleurs des ports, la demande d'allocations est introduite au moyen de la souche du carnet de salaire ou du document qui en tient lieu.\n      </p>\n      <p class=\"closing-text\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-10-22/07\" data-law-type=\"AM\" data-article-number=\"1\">Pour les travailleurs visés à l'article 28, § 3, 1°, de l'arrêté royal, l'état de prestations visé à l'article 137, § 1er, alinéa 1er, 6°, de l'arrêté royal est considéré comme document remplaçant la souche de leur carnet de salaire.</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.087Z",
+  "tokenUsage": {
+    "prompt": 1911,
+    "completion": 357,
+    "total": 2268
+  }
+}

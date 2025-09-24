@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009A31280",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La Chambre de Concertation et d'Agrément se compose :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">du Président et du Vice-Président de la Chambre des métiers;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">du Président et du Vice-Président de la Chambre Enseignement-Formation;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">du Directeur exécutif de la Cellule exécutive;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">du Directeur de la cellule exécutive du Consortium de validation des compétences;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">d'un représentant de chacune des parties à l'accord.</span></li>\n      </ol>\n      <p>La Chambre de Concertation et d'Agrément peut solliciter l'expertise du méthodologiste du groupe projet chargé de l'élaboration des profils métiers et des profils formation au moment de l'examen de ces profils.</p>\n      <p>Les membres désignés au présent article, 1° et 2°, ont voix délibérative.</p>\n      <p>Les membres désignés au présent article, 3° à 5° ont voix consultative.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.313Z",
+  "tokenUsage": {
+    "prompt": 1873,
+    "completion": 411,
+    "total": 2284
+  }
+}

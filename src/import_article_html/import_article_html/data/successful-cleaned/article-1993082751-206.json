@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1993082751",
+  "articleNumber": "206",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-206\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 206</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La cotisation spéciale à l'impôt des sociétés visée à l'article 219 du Code des impôts sur les revenus 1992, la cotisation spéciale à l'impôt des non-résidents établie en vertu de l'article 246,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">les cotisations visées a l'article 247, 2° et 3°, dudit Code, sont rattachées à l'exercice d'imposition afférent à la période imposable déterminée conformément aux articles 200 à 203, au cours de laquelle la circonstance donnant ouverture auxdites cotisations s'est produite.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.059Z",
+  "tokenUsage": {
+    "prompt": 1660,
+    "completion": 259,
+    "total": 1919
+  }
+}

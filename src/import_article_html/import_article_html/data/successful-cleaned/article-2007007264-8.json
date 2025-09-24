@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007007264",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 14bis du même arrêté, inséré par l'arrêté ministériel du 5 novembre 2002 et modifié par l'arrêté ministériel du 23 septembre 2004, est remplacé par la disposition suivante : \" Article 14bis. Sont appelés à siéger dans le comité interforces :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le chef de la défense et le vice-chef de la défense;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le directeur général human resources;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les lieutenants généraux;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les officiers qui sont directeurs généraux ou sous-chefs d'état-major;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">l'officier le plus ancien, nommé ou commissionné dans le grade le plus élevé, de la force qui ne compte pas d'officier visé aux 3° et 4°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.789Z",
+  "tokenUsage": {
+    "prompt": 1841,
+    "completion": 397,
+    "total": 2238
+  }
+}

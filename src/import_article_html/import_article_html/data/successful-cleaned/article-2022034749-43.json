@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034749",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 43</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les articles de la présente loi, tels qu'ils s'appliquent aux organismes du secteur public fédéral, ne s'appliquent à la police intégrée que lorsque qu'il y est explicitement référé, le terme \"organisme du secteur public fédéral\" étant alors lu comme \"police intégrée\".</p>\n            <p class=\"intro-text\">Les articles 2, 3, §§ 2 à 4, 4, 5, §§ 1er et 3, 6, 5°</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">à 11°</span></li>\n                <li class=\"provision\" data-number=\"14°\"><span class=\"provision-text\">à 18°</span></li>\n                <li class=\"provision\" data-number=\"21°\"><span class=\"provision-text\">, 23° et 24°</span></li>\n            </ol>\n            <p class=\"intro-text\">7, §§ 1er, 3 et 4, 12, 14, §§ 3 et 4,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">à 7°</span></li>\n            </ol>\n            <p class=\"closing-text\">15 à 22, 24, 25 à 27 sont applicables par analogie au présent chapitre.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.773Z",
+  "tokenUsage": {
+    "prompt": 1852,
+    "completion": 417,
+    "total": 2269
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997035985",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2 de l'arrêté du Gouvernement flamand du 22 juillet 1993 portant les mesures d'exécution de la politique d'enseignement pour les migrants dans l'enseignement secondaire à temps plein du premier degré, un 7° et 8° paragraphe sont insérés, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">politique de non discrimination : l'ensemble des mesures dans l'enseignement ordinaire ayant pour but de créer une attitude plus consciente de l'école relative à la prévention et la lutte contre la discrimination d'une part, à la promotion d'une répartition plus proportionnelle des élèves du groupe-cible sur les écoles d'autre part;</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">convention de politique d'admission : une convention entre tous les pouvoirs organisateurs organisant un enseignement secondaire dans une même commune, éventuellement dans la région, ou dans la Région de Bruxelles-Capitale ayant pour but de maximaliser l'accès des élèves du groupe-cible à toutes les écoles dans cette commune, éventuellement dans la région pour obtenir une présence plus proportionnelle de ces élèves du groupe-cible.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Tous les pouvoirs organisateurs de l'enseignement communautaire, de l'enseignement officiel subventionné et de l'enseignement catholique subventionné sont obligés de participer à la convention. La convention entre en vigueur le 1er septembre suivant la conclusion de la convention et vaut pour la période de 5 années scolaires successives.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.920Z",
+  "tokenUsage": {
+    "prompt": 2016,
+    "completion": 449,
+    "total": 2465
+  }
+}

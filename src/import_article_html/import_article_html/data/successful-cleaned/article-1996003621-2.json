@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996003621",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 161 du même Code, y inséré par l'article 73 de la loi du 22 juillet 1993, est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\" Art. 161. Sont assujettis à une taxe annuelle à partir du 1er janvier qui suit leur inscription, selon le cas, auprès de la Commission bancaire et financière ou de l'Office de Contrôle des Assurances :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les organismes de placement collectif visés par l'article 108, alinéa 1er, 1° et 2°, de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers et qui revêtent la forme statutaire;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les établissements de crédit régis par la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit qui attribuent des revenus ou des dividendes visés à l'article 21, 5° et 6°, du Code des impôts sur les revenus 1992;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les entreprises d'assurances visées à l'article 2, § 1er, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances qui attribuent des dividendes ou des revenus visés à l'article 21, 6° et 9°, du Code des impôts sur les revenus 1992.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.054Z",
+  "tokenUsage": {
+    "prompt": 2021,
+    "completion": 471,
+    "total": 2492
+  }
+}

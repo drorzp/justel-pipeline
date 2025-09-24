@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001B00327",
+  "articleNumber": "VII.II.17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-VII-II-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article VII.II.17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2010-06-25/10\" data-law-type=\"AR\" data-article-number=\"6\">Les articles IV.I.15, alinéa 1er, 1°, 2° et 4°, IV.I.16</span>, <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-06-07/13\" data-law-type=\"AR\" data-article-number=\"56\">...</span>, IV.I.26 et <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-06-07/13\" data-law-type=\"AR\" data-article-number=\"56\">IV.I.27, 1° et 3° à 6°</span>, sont d'application conforme aux candidats pour accession au cadre de base [en tenant compte de ce que l'épreuve visée à l'article IV.I.15, alinéa 1er, 1°, est remplacée par une épreuve professionnelle.] <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-04-02/39\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 2004-04-02/39, art. 2,**En vigueur :**05-05-2004&gt;</span>\n      </p>\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-06-07/13\" data-law-type=\"AR\" data-article-number=\"56\">Pour ce qui concerne l'épreuve de personnalité visée à l'article IV.I.15, alinéa 1er, 2°, l'avis du chef de corps, pour ce qui concerne les membres de la police locale ou l'avis du directeur concerné, pour ce qui concerne les membres de la police fédérale, est respectivement pris en compte. Les candidats qui reçoivent un avis négatif et qui obtiennent un résultat négatif à cette épreuve, ne sont pas admis à l'épreuve suivante.</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.685Z",
+  "tokenUsage": {
+    "prompt": 2226,
+    "completion": 564,
+    "total": 2790
+  }
+}

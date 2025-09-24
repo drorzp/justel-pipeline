@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994003443",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 181 du même Code, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans le 1° et 2° le mot \" leur \" est remplacé deux fois par le mot \" leurs \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le 7°, le mot \" culturelles \" est supprimé</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.065Z",
+  "tokenUsage": {
+    "prompt": 1636,
+    "completion": 212,
+    "total": 1848
+  }
+}

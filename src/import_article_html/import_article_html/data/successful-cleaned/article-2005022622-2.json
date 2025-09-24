@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005022622",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er août 2005. (Néanmoins, les dispositions de l'article 1er, 22° et 23° produiront seulement leurs effets pour les séances individuelles réalisées à partir du 1er août 2005.)</p>\n            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-06-12/35\" data-law-type=\"AR\" data-article-number=\"1\">&lt;AR 2006-06-12/35, art. 1, 002; En vigueur : 01-08-2005&gt;</span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.882Z",
+  "tokenUsage": {
+    "prompt": 1647,
+    "completion": 217,
+    "total": 1864
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042542",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5 de la loi du 4 avril 2014 relative aux assurance, modifié en dernier lieu par la loi du 3 avril 2019, est complété par les 59° et 60°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"59°\">\n          <span class=\"provision-text\">\"Règlement 2019/2088\": Règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d'informations en matière de durabilité dans le secteur des services financiers;</span>\n        </li>\n        <li class=\"provision\" data-number=\"60°\">\n          <span class=\"provision-text\">\"Règlement 2020/852\": Règlement (UE) 2020/852 du Parlement européen et du Conseil du 18 juin 2020 sur l'établissement d'un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088.\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.157Z",
+  "tokenUsage": {
+    "prompt": 1773,
+    "completion": 324,
+    "total": 2097
+  }
+}

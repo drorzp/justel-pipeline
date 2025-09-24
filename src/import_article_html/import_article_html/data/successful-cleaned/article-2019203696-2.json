@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019203696",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 3 du décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination, modifié par les décrets des 19 mars 2009 et 12 janvier 2012, les 2° et 3° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la discrimination fondée sur le sexe et les critères apparentés que sont la grossesse, l'accouchement, la maternité, l'allaitement, le changement de sexe, l'identité de genre et l'expression de genre;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">la discrimination directe ou indirecte fondée sur l'âge, l'orientation sexuelle, l'état civil, la composition de ménage, la naissance, la fortune, la conviction religieuse ou philosophique, la conviction politique, la conviction syndicale, la langue, l'état de santé, un handicap, une caractéristique physique ou génétique ou l'origine et la condition sociales;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.428Z",
+  "tokenUsage": {
+    "prompt": 1860,
+    "completion": 340,
+    "total": 2200
+  }
+}

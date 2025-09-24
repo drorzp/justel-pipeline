@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020201678",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 63, § 2, alinéa 4,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">du même arrêté royal, les mots \"31 mars 2020\" sont remplacés par les mots \"30 septembre 2020\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.090Z",
+  "tokenUsage": {
+    "prompt": 1506,
+    "completion": 203,
+    "total": 1709
+  }
+}

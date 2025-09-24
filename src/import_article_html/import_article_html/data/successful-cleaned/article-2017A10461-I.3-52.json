@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017A10461",
+  "articleNumber": "I.3-52",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-I-3-52\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article I.3-52</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Outre les éléments visés à l'article I.3-51, § 1er, 1° à 5°, l'employeur prend les mesures nécessaires pour que les travailleurs et les membres de la ligne hiérarchique disposent de toutes les informations utiles relatives :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">aux résultats de l'analyse des risques visée à l'article I.3-1 et aux résultats de l'évaluation visée à l'article I.3-6;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">aux mesures de prévention applicables.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En outre, l'employeur veille à ce que les travailleurs et les membres de la ligne hiérarchique reçoivent la formation nécessaire pour qu'ils puissent appliquer de manière adéquate les mesures de prévention, les procédures, les droits et les obligations au sujet desquels ils reçoivent les informations visées au § 1er, 2° et à l'article I.3-51, § 1er, 1°, 2°, 3° et 5°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.564Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 453,
+    "total": 2401
+  }
+}

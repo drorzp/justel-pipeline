@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003339",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 4, § 1er, alinéa 2, du même arrêté, modifié par les arrêtés royaux des 23 février 2010, 12 juillet 2015 et 25 avril 2016, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'article 2, hormis le § 1er, 5°, 6°, 7°, 17° et 20° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les articles 11 et 12, étant entendu que le rapport financier annuel des émetteurs de droit belge dont les actions sont admises à la négociation sur Alternext doit être publié au plus tard quinze jours avant leur assemblée générale annuelle ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">l'article 15 ainsi que les articles 17 à 23 ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">le c) est abrogé ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">l'article 41, § 1er, hormis l'alinéa 1er, 2° et 4°, l'alinéa 2 et l'alinéa 4, et étant entendu qu'en ce qui concerne l'alinéa 1er, 5°, la période couverte est de deux ans au lieu de cinq ans, et l'article 41, § 2 ;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.319Z",
+  "tokenUsage": {
+    "prompt": 2177,
+    "completion": 496,
+    "total": 2673
+  }
+}

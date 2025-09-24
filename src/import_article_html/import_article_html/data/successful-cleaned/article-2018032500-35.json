@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032500",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Au paragraphe 2 de l'article 306 de la même loi, modifié par la loi du 18 février 2018, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, il est inséré, entre les points 1° et 2°, un point 1° /1 rédigé comme suit :<br>\"1° /1 l'application, par la FSMA ou d'autres institutions ayant reçu délégation, des dispositions relatives à la pension libre complémentaire pour les travailleurs salariés, contenues dans la LPCL salariés et ses arrêtés d'exécution;\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, 4°, les mots \"articles 59, 60 et 1453/1\" sont remplacés par les mots \"articles 59, 60, 1453 et 1453/1\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, point 6°, les mots \"et de l'article 6, § 5, de la LPC indépendant personne physique\" sont remplacés par \", de l'article 6, § 5, de la LPC indépendant personne physique et de l'article 10, § 5, de la LPCL salariés\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans l'alinéa 2, entre le mot \"1° \" et le mot \", 2° \", les mots \", 1° /1\" sont insérés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.408Z",
+  "tokenUsage": {
+    "prompt": 2082,
+    "completion": 507,
+    "total": 2589
+  }
+}

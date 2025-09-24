@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012A24221",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <section class=\"paragraph\">\n    <h3 class=\"paragraph-marker\">1.</h3>\n    <div class=\"paragraph-content\">\n      Le conseil peut créer en son sein des sections chargées de l'examen des questions se rapportant :\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux prestations visées à l'article 22, 1° de l'arrêté royal n° 78;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à la collaboration des membres des professions paramédicales à l'exécution des actes visés à l'article 22, 2° et 3° de l'arrêté royal n° 78.</span>\n        </li>\n      </ol>\n    </div>\n  </section>\n  <section class=\"paragraph\">\n    <h3 class=\"paragraph-marker\">2.</h3>\n    <div class=\"paragraph-content\">\n      Chaque section sera composée d'au minimum six membres et d'au maximum douze membres, qui sont différentes des membres des groupes de travail \" agrément \". Seuls ces membres ont droit de vote. Au moins la moitié des membres de la section sont membres ou membres suppléant du Conseil. Au moins une personne compétente soit pour confier en tant qu'acte, soit pour prescrire en tant que prestation technique les activités de la profession concernée fait partie de la section.\n    </div>\n  </section>\n  <section class=\"paragraph\">\n    <h3 class=\"paragraph-marker\">3.</h3>\n    <div class=\"paragraph-content\">\n      Les sections siègent quel que soit le nombre de membres présents.\n    </div>\n  </section>\n  <section class=\"paragraph\">\n    <h3 class=\"paragraph-marker\">4.</h3>\n    <div class=\"paragraph-content\">\n      Les sections désignent un président. Un membre du Bureau en est le rapporteur.\n    </div>\n  </section>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.078Z",
+  "tokenUsage": {
+    "prompt": 1990,
+    "completion": 486,
+    "total": 2476
+  }
+}

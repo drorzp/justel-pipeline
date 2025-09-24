@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011590",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 16/1 du même arrêté, inséré par l'arrêté royal du 1 mars 2016, est remplacé comme suit :</p>\n      <blockquote class=\"article-quote\">\n        <p class=\"quote-text\">\" Art. 16/1. Un billet gagnant ne donne droit qu'à un seul lot parmi ceux visés aux articles 3, 5/3, 8, 13 et 15/3.</p>\n        <p class=\"quote-text\">Les articles 5, 5/5, 10, 15 et 15/5, paragraphes 2 à 5 s'appliquent uniquement après grattage complet de la pellicule opaque des zones de jeu du billet.</p>\n        <p class=\"quote-text\">Chacun des symboles de jeu, visés aux articles 4, 2°, 5/4, 2°, 9, 2°, 14, 2° et 15/4, 2°, peut être composé de divers éléments graphiques, figuratifs, photographiques ou autres qui, formant un ensemble non-fragmentable, ne peuvent être isolément considérés comme étant des symboles de jeu.</p>\n        <p class=\"quote-text\">Il appartient au joueur de contrôler que la pellicule opaque recouvrant les zones de jeu est intacte au moment où il acquiert un billet. \"</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.685Z",
+  "tokenUsage": {
+    "prompt": 1893,
+    "completion": 385,
+    "total": 2278
+  }
+}

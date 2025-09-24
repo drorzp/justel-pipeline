@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007033073",
+  "articleNumber": "75",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-75\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 75</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les membres du personnel qui encadrent un étudiant lors d'un stage visé à l'article 74, 2°, 3°, 4° <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-06-28/08\" data-law-type=\"DCG\" data-article-number=\"107\">, 5° et 6°</span>, obtiennent une allocation de 4 EUR par heure.</p>\n            <p><span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2021-06-28/11\" data-law-type=\"DCG\" data-article-number=\"305\">Les stages d'observation ne sont pas indemnisés. Par \"stage d'observation\", il faut entendre le stage dans le cadre l'étudiant observe et appuie les enseignants ou maîtres spéciaux lorsqu'ils dispensent les cours, et dans leur gestion des élèves. Les membres du personnel qui encadrent un étudiant ou un groupe d'étudiants dans le cadre d'un laboratoire visé à l'article 74, 1°, obtiennent une allocation de 25 euros par jour de cours si la visite concerne une leçon modèle menée dans une classe de maternelle ou de primaire ou si l'étudiant ou le groupe d'étudiants mène des activités dans la classe de maternelle ou de primaire lors dudit laboratoire. Le montant mentionné aux alinéas 1er et 2 est soumis aux fluctuations de l'indice des prix à la consommation conformément à la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public, modifiée par l'arrêté royal n° 178 du 30 décembre 1982, l'arrêté royal du 24 décembre 1993 et les lois des 2 janvier 2001 et 19 juillet 2001.</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.120Z",
+  "tokenUsage": {
+    "prompt": 2225,
+    "completion": 490,
+    "total": 2715
+  }
+}

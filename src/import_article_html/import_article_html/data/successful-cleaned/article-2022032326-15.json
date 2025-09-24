@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032326",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Tout transport protégé est interdit sur l'ensemble du territoire belge entre 22.00 heures et 6.00 heures, à l'exception du transport suivant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le transport tel que prévu à l'article 10, § 1er, 1°, 5° et 6°, du présent arrêté ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le transport effectué dans les lieux non accessibles au public des aéroports ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le transport zonal entre les sièges d'exploitation de l'entreprise ou du service interne, entre 22.00 heures et 24.00 heures.</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le transport de détail entrepris entre 6.00 heures et 22.00 heures et qui subit un retard dû à un cas de force majeure ne pouvant pas être attribué à l'entreprise, pour autant que ce transport soit escorté par la police fédérale.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.752Z",
+  "tokenUsage": {
+    "prompt": 1830,
+    "completion": 380,
+    "total": 2210
+  }
+}

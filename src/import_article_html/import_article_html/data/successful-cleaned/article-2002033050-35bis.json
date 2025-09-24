@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002033050",
+  "articleNumber": "35bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-12-15/17\" data-law-type=\"DCG\" data-article-number=\"93\">\n          Par dérogation à l'article 16, alinéa 1er, le subside représente 75 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1° à 5° et 7° à 9°, en ce qui concerne les infrastructures sportives utilisées par l'Association faitière pour le sport en Communauté germanophone en tant qu'implantation du Centre de promotion du sport, infrastructures créées par une commune, une régie communale ou une intercommunale.\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.754Z",
+  "tokenUsage": {
+    "prompt": 1724,
+    "completion": 256,
+    "total": 1980
+  }
+}

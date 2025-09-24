@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035504",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-07-06/05\" data-law-type=\"DCFL\" data-article-number=\"21\">\n        <p class=\"intro-text\">L'article 44 du même décret est remplacé par ce qui suit : \" Art. 44. Pour la répartition des moyens disponibles sur les centres d'intégration, le Gouvernement flamand peut établir des règles qui tiennent au moins compte des éléments suivants :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la présence et la concentration des personnes, visées à l'article 3, premier alinéa, 1° et 2° ;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la mesure dans laquelle des problèmes de défavorisation et de désavantage se présentent;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le volume des moyens affectés pour réaliser un certain résultat;</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">la durabilité et l'importance des résultats.</span></li>\n        </ol>\n        <p class=\"closing-text\">Ces éléments sont évalués sur la base des conventions pluriannuelles établies.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.092Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 398,
+    "total": 2295
+  }
+}

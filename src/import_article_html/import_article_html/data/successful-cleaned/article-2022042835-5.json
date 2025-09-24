@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042835",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 452, alinéa 1er, du même arrêté est complété par les points 2° /1 et 2° /2, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2° /1\">\n          <span class=\"provision-text\">une copie des contrats conclus avec les agences de travail intérimaire visées à l'article 475, § 3, alinéas 1er et 3, 1°, une copie des factures indiquant le nombre d'heures prestées par les membres du personnel visés à l'article 475, § 3, alinéas 1er et 3, 1°, dans la structure de soins ainsi que les preuves de paiement. L'agence peut également demander les documents nécessaires démontrant qu'il s'agit de personnel soignant qualifié ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2° /2\">\n          <span class=\"provision-text\">une copie des contrats d'entreprise conclus avec le personnel indépendant visé à l'article 475, § 3, alinéa 2, 1° et alinéa 3, 2°, ou de la convention de prêt de personnel infirmier salarié auprès d'une autre structure de soins, visée à l'article 475, § 3, alinéa 2, 2°, une copie des factures sur lesquelles figurent le nombre d'heures prestées par les membres du personnel visés à l'article 475, § 3, alinéa 2, 1° et 2° et alinéa 3, 2°, dans la structure de soins ainsi que les preuves de paiement. L'agence peut également demander les documents nécessaires démontrant qu'il s'agit de personnel soignant qualifié ;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.865Z",
+  "tokenUsage": {
+    "prompt": 2109,
+    "completion": 491,
+    "total": 2600
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013201218",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 406 du même Code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Au 1°, les mots &quot; d'accueil pour aînés &quot; sont remplacés par les mots &quot; d'hébergement et d'accueil pour aînés &quot;.</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Au 2°, les mots &quot; d'accueil pour aînés &quot; sont remplacés par les mots &quot; d'hébergement et d'accueil pour aînés &quot;.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Au 3°, les mots &quot; d'accueil pour aînés &quot; sont remplacés par les mots &quot; d'hébergement et d'accueil pour aînés &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.200Z",
+  "tokenUsage": {
+    "prompt": 1654,
+    "completion": 324,
+    "total": 1978
+  }
+}

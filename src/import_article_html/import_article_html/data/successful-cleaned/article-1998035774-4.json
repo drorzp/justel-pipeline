@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998035774",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 258, alinéa premier du Code des impôts sur les revenus, les mots \" l'article 257, 1° à 3° \" sont remplacés pour ce qui concerne la Région flamande, par les mots \" l'article 257, § 1er, 1° à 3° inclus et § 2, 1° et 2° \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.051Z",
+  "tokenUsage": {
+    "prompt": 1710,
+    "completion": 167,
+    "total": 1877
+  }
+}

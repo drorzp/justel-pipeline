@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1894041255",
+  "articleNumber": "99",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-99\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 99</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">[Abrogé] <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"05-07-1976\" data-law-type=\"L\" data-article-number=\"21\">L 05-07-1976, art. 21, 1° et 2°</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.671Z",
+  "tokenUsage": {
+    "prompt": 1452,
+    "completion": 150,
+    "total": 1602
+  }
+}

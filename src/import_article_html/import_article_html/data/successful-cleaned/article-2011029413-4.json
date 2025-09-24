@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011029413",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 8, § 1er, du même décret :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">un alinéa rédigé comme suit est inséré entre les alinéas 2 et 3 et devient l'alinéa 3 : \" Le montant de l'investissement exprimé à l'alinéa 1er et l'alinéa 2 doit recouvrir l'ensemble des travaux envisagés et ne peut en aucun cas constituer une partie d'un investissement plus important réalisé simultanément sur fonds propres ou au moyen de subventions obtenues auprès d'autres fonds des bâtiments scolaires visés au décret du 5 février 1990 relatif aux bâtiments scolaires de l'enseignement non universitaire organisé ou subventionné par la Communauté française. \"</span>\n                </li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">à l'alinéa 3 ancien, devenant l'alinéa 4, les mots suivants dont ajoutés : \" A partir de 2012, tout dépassement du total des subventions visées à l'alinéa 1er </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et à l'alinéa 2,</span></li>\n                    </ol>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">doit être motivé. Le Gouvernement, le cas échéant, en fixe les modalités. \"</span></li>\n                    </ol>\n                </li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.205Z",
+  "tokenUsage": {
+    "prompt": 2043,
+    "completion": 515,
+    "total": 2558
+  }
+}

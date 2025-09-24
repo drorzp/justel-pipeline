@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017032097",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les membres élisent parmi les membres visés à l'article 7, § 1er, 1°, a) à e) un président, ainsi qu'un Bureau composé du président et de trois vice-présidents issus de chacune des 3 catégories de membres visés à l'article 7, § 1er, 1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">3°. Un membre du Bureau est d'expression néerlandaise.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.712Z",
+  "tokenUsage": {
+    "prompt": 1583,
+    "completion": 220,
+    "total": 1803
+  }
+}

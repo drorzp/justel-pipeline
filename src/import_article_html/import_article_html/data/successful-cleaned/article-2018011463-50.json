@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011463",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 50</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les périodes d'absence en cours de stage entraînent une prolongation de celui-ci dès que le stagiaire compte, en dehors des congés visés à l'article 49, alinéa 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n      </ol>\n      <p class=\"closing-text\">7°, plus de quinze jours d'absence en une ou plusieurs fois dûment justifiés, même si le stagiaire est dans la position d'activité de service. Pendant la suspension du stage, l'intéressé conserve sa qualité de stagiaire. Il conserve également celle-ci jusqu'à la date où une décision définitive de nomination ou de licenciement est prise.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.771Z",
+  "tokenUsage": {
+    "prompt": 1680,
+    "completion": 281,
+    "total": 1961
+  }
+}

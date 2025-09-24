@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042663",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les données visées à l'article 3,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">11°, de l'arrêté royal du 15 novembre 2017 relatif à l'exigence de déclaration de biocarburants, d'huiles minérales et de leurs produits de substitution d'origine biologique, sont transmises à la Direction générale de l'Energie à l'aide des modèles annexés au présent arrêté.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.499Z",
+  "tokenUsage": {
+    "prompt": 1571,
+    "completion": 216,
+    "total": 1787
+  }
+}

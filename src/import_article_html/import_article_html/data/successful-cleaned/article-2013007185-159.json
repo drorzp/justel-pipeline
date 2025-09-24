@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013007185",
+  "articleNumber": "159",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-159\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 159</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 108 de la même loi est remplacé par ce qui suit :</p>\n            <p class=\"intro-text\">\"Art. 108. Le candidat militaire visé à l'article 105, à l'article 106, alinéa 2, 2° et 3°, et le cas échéant à l'article 107, alinéa 1er, contracte un engagement dans sa nouvelle qualité.</p>\n            <p class=\"closing-text\">Le candidat militaire visé à l'article 107, alinéa 3 contracte un nouvel engagement et est rattaché à une promotion afin de suivre son cycle de formation spécifique originelle.\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.018Z",
+  "tokenUsage": {
+    "prompt": 1651,
+    "completion": 224,
+    "total": 1875
+  }
+}

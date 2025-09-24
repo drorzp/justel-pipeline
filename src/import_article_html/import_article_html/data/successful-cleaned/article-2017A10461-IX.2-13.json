@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017A10461",
+  "articleNumber": "IX.2-13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-IX-2-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article IX.2-13</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>En outre, la procédure visée aux § 2 et § 3 s'applique aux EPI pour lesquels les exigences visées à l'article IX.2-12, alinéa 1er, 2° et 3° sont prescrites dans le bon de commande.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lors de la livraison, le fournisseur remet à son client un document qui confirme le respect des obligations imposées par l'article IX.2-12, alinéa 1er, 2° et 3°.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Avant toute mise en service, l'employeur est en possession d'un rapport constatant le respect des dispositions visées au § 2.</p>\n        <p>Le rapport est établi par le conseiller en prévention sécurité du travail.</p>\n        <p>L'avis du conseiller en prévention-médecin du travail y est annexé.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'employeur peut, de sa propre initiative, ou doit, à la demande des représentants des travailleurs au sein du Comité, consulter au préalable d'autres services ou institutions qui sont spécialisés ou sont particulièrement compétents dans le domaine concerné.</p>\n        <p>Les services ou institutions sont considérés comme spécialisés ou compétents lorsqu'ils sont acceptés comme tels par tous les représentants de l'employeur et des travailleurs au sein du Comité.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.578Z",
+  "tokenUsage": {
+    "prompt": 2205,
+    "completion": 513,
+    "total": 2718
+  }
+}

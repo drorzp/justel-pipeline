@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011031100",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 2 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 18 avril 2002 relatif à la fixation d'objectifs à long terme, de valeurs cibles, de seuil d'alerte et de seuil d'information pour les concentrations d'ozone dans l'air ambiant, les points 4° à 15° sont remplacés par les points 4° et 5°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">\" composés organiques volatils \" (COV) : les composés organiques provenant de sources anthropiques et biogènes, autres que le méthane, capables de produire des oxydants photochimiques par réaction avec des oxydes d'azote sous l'effet du rayonnement solaire;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">\" précurseurs de l'ozone \" : des substances qui contribuent à la formation d'ozone troposphérique, dont certaines sont énumérées à l'annexe 6.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.205Z",
+  "tokenUsage": {
+    "prompt": 1840,
+    "completion": 357,
+    "total": 2197
+  }
+}

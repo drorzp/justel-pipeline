@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021021582",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté du Président du Comité de direction du 9 décembre 2015 portant création des Centres PME au sein de l'Administration Petites et Moyennes Entreprises de l'Administration générale de la Fiscalité et fixant leur siège ainsi que leurs compétences matérielles et territoriales tel que modifié par les arrêtés du Président du Comité de direction des 28 juin 2016, 2 décembre 2016, 8 décembre 2017, 24 janvier 2018, 11 juillet 2018, 14 septembre 2018, 20 mars 2019, 10 juillet 2019, 24 décembre 2019, 04 juin 2020 et 26 novembre 2020 les points 7°, 10°, 12° et 13° sont remplacés par ce qui suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">Centre PME Hasselt dont le siège est établi à Hasselt et qui comprend des localisations à Genk, Pelt et Tongres</span>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">Centre PME Gand dont le siège est établi à Gand et qui comprend une localisation à Audenarde</span>\n                </li>\n                <li class=\"provision\" data-number=\"12°\">\n                    <span class=\"provision-text\">Centre PME Louvain dont le siège est établi à Louvain et qui comprend des localisations à Diest, Dilbeek, Hal, Ternat et Vilvorde</span>\n                </li>\n                <li class=\"provision\" data-number=\"13°\">\n                    <span class=\"provision-text\">Centre PME Bruges dont le siège est établi à Bruges et qui comprend une localisation à Ostende et Roulers</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.178Z",
+  "tokenUsage": {
+    "prompt": 2076,
+    "completion": 502,
+    "total": 2578
+  }
+}

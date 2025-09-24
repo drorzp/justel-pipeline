@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022201841",
+  "articleNumber": "93",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-93\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 93</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans le même décret, modifié en dernier lieu par le décret du 11 décembre 2018, il est inséré un article 35bis rédigé comme suit :</p>\n        <blockquote>\n          <p>\" Art. 35bis - Implantation du Centre de promotion du sport</p>\n          <p>Par dérogation à l'article 16, alinéa 1er, le subside représente 75 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">à 5°</span>\n            </li>\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">à 9°</span>\n            </li>\n          </ol>\n          <p>en ce qui concerne les infrastructures sportives utilisées par l'Association faitière pour le sport en Communauté germanophone en tant qu'implantation du Centre de promotion du sport, infrastructures créées par une commune, une régie communale ou une intercommunale.\"</p>\n        </blockquote>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.826Z",
+  "tokenUsage": {
+    "prompt": 1704,
+    "completion": 374,
+    "total": 2078
+  }
+}

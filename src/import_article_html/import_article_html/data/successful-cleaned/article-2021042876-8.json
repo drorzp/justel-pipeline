@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042876",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 58, § 2, de l'Arrêté de subvention du 22 novembre 2013, le membre de phrase \" à l'article 17, alinéa trois, 1° et 2°, \" est remplacé par le membre de phrase \" à l'article 17, alinéa 5, 1° et 2°, \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.058Z",
+  "tokenUsage": {
+    "prompt": 1519,
+    "completion": 165,
+    "total": 1684
+  }
+}

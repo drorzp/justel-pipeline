@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044537",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 165 du même Code, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, 1°, le membre de phrase \" , à l'exception de la formation de nursing \" est abrogé ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, les points 8° et 9° sont abrogés ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">l'alinéa 5 est abrogé.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.790Z",
+  "tokenUsage": {
+    "prompt": 1642,
+    "completion": 273,
+    "total": 1915
+  }
+}

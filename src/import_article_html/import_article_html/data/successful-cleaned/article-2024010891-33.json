@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024010891",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 831/166 du même code, modifié par l'arrêté du Gouvernement wallon du 17 janvier 2019, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er est complété par les 4°, 5° et 6° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"4°\">\n              <span class=\"provision-text\">pour les services organisés par un pouvoir organisateur privé, une subvention spécifique leur qui permet de financer les augmentations de la prime de fin d'année ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"5°\">\n              <span class=\"provision-text\">pour les services organisés par un pouvoir organisateur privé, une subvention spécifique qui leur permet de financer les suppléments de subvention réservé au financement de formations ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"6°\">\n              <span class=\"provision-text\">pour les services organisés par un pouvoir organisateur public, une subvention spécifique qui leur permet de financer la prime de printemps.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par un alinéa rédigé comme suit :</span>\n          <div class=\"paragraph-content\">\n            <p>Les montants repris aux articles 831/176/1 à 831/176/3 sont liés à l'indice pivot qui sert de référence à l'indexation des salaires dans la fonction publique, à savoir 107,20 en date du 1er avril 2020 base 2013.</p>\n          </div>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.690Z",
+  "tokenUsage": {
+    "prompt": 2021,
+    "completion": 516,
+    "total": 2537
+  }
+}

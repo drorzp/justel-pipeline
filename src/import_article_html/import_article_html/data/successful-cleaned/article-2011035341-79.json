@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011035341",
+  "articleNumber": "79",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-79\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 79</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent décret entre en vigueur le dixième jour après sa publication au Moniteur belge, à l'exception de l'article 32, 3°, l'article 47, 49, 1° et 2°, l'article 57, 58, 59 et 60, qui entrent en vigueur à une date à préciser par le Gouvernement flamand.</p>\n            <p class=\"note-text\">(NOTE : entrée en vigueur des art. 49, 1° et 2°, des art. 58 et 59 fixée au 21-10-2011 par AGF <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011092304\">[2011-09-23/04]</a>, art. 1)</p>\n            <p class=\"note-text\">(NOTE : entrée en vigueur de l'article 32, 3° fixée au 01-01-2013 par AGF <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011102805\">[2011-10-28/05]</a>, art. 8)</p>\n            <p class=\"note-text\">(NOTE : entrée en vigueur des articles 47 et 57 fixée au 12-02-2012 par AGF <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2011122321\">[2011-12-23/21]</a>, art. 17)</p>\n            <p class=\"note-text\">(NOTE : entrée en vigueur de l'article 60 fixée au 01-01-2013 par AGF <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2012072038\">[2012-07-20/38]</a>, art. 25)</p>\n            <p class=\"closing-text\">Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.</p>\n            <p class=\"signature-text\">Bruxelles, 29 avril 2011.</p>\n            <p class=\"signature-text\">Le ministre-Président du Gouvernement flamand,</p>\n            <p class=\"signature-text\">K. PEETERS</p>\n            <p class=\"signature-text\">La Ministre flamande de l'Energie, du Logement, des Villes et de l'Economie sociale,</p>\n            <p class=\"signature-text\">F. VAN DEN BOSSCHE</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.220Z",
+  "tokenUsage": {
+    "prompt": 2350,
+    "completion": 669,
+    "total": 3019
+  }
+}

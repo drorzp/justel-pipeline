@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032523",
+  "articleNumber": "104",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-104\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 104</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 3, § 2, alinéa 2, de la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement, de la santé et des travailleurs, un 9° et un 10° sont ajoutés et rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">le règlement (UE) 2017/746 du Parlement et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">la loi du xxx relative aux dispositifs médicaux de diagnostic in vitro.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.810Z",
+  "tokenUsage": {
+    "prompt": 1737,
+    "completion": 306,
+    "total": 2043
+  }
+}

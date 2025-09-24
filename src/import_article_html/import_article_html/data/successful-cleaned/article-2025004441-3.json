@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025004441",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans section 2 du même arrêté, il est inséré un article 9/1, rédigé comme suit :</p>\n      <p>\" Art. 9 /1. Lors de l'application d'un produit à usage professionnel, un pourcentage minimum de réduction de la dérive est toujours atteint pour les cas visées à l'article 8, 3° et 4°. Ce pourcentage minimum est de septante-cinq pour cent. Cette réduction n'est atteinte qu'au moyen de buses réduisant la dérive et/ou du type de pulvérisateur prévu par l'arrêté ministériel du 1er avril 2021 déterminant les mesures ou moyens de réduction de la dérive. Chaque dispositif de pulvérisation soumis à inspection doit respecter ce pourcentage minimal de réduction de la dérive. \"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.716Z",
+  "tokenUsage": {
+    "prompt": 1686,
+    "completion": 248,
+    "total": 1934
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002036142",
+  "articleNumber": "9/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-08-30/27\" data-law-type=\"AGF\" data-article-number=\"7\">\n        <p class=\"intro-text\">Si l'enseignement d'accueil est organisé en dehors d'un centre d'enseignement :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les conditions, visées à l'article 3, 1° et 3°, ne sont pas d'application ;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le nombre de primo-arrivants allophones dans l'école en question est pris en considération pour le recalcul éventuel du nombre de périodes/enseignant spécifiques, visées à l'article 5, § 1er, 3° et 4° ;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les périodes/enseignant spécifiques, visées à l'article 5, § 2, sont attribuées, aux modalités fixées, à chaque école dispensant un enseignement d'accueil.</span></li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.703Z",
+  "tokenUsage": {
+    "prompt": 1861,
+    "completion": 365,
+    "total": 2226
+  }
+}

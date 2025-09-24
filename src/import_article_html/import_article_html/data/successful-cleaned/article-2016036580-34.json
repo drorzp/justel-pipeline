@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036580",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 65 du même décret, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa premier est remplacé par ce qui suit :<br>\" Les travaux d'infrastructure et les travaux d'adaptation à l'environnement de logement, mentionnés à l'article 64, § 1er, alinéa premier, 2° et 4°, ne peuvent être subventionnés que lorsqu'ils sont transférés, dans le délai fixé par le Gouvernement flamand, ainsi que le terrain dans lequel ou sur lequel ils sont exécutés, à la commune en vue de leur intégration dans le domaine public communal. La commune et l'initiateur se montrent en principe disposés à effectuer ce transfert, au plus tard lors de l'introduction de la demande de subvention. \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le deuxième alinéa, le membre de phrase \" intégration dans le domaine public communal \" est remplacé par le membre de phrase \" admission au domaine public communal \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'alinéa cinq est remplacé par ce qui suit :<br>\" La commune entretient l'infrastructure de logement, visée à l'alinéa premier, à partir de la réception provisoire, ou à partir de la mise en service lorsque celle-ci précède la réception provisoire. Le propriétaire entretient les équipements collectifs à partir de la réception provisoire, ou à partir de la mise en service lorsque celle-ci précède la réception provisoire.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.638Z",
+  "tokenUsage": {
+    "prompt": 2060,
+    "completion": 483,
+    "total": 2543
+  }
+}

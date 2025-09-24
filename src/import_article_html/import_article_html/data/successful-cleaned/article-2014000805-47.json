@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014000805",
+  "articleNumber": "47",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-47\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 47</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La démission honorable est accordée d'office par le conseil:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au membre du personnel professionnel à la fin du mois au cours duquel il prend sa retraite</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au membre du personnel professionnel à la fin du mois au cours duquel il atteint l'âge de soixante-cinq ans</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au membre du personnel volontaire à la fin du mois au cours duquel il atteint l'âge de soixante-cinq ans.</span>\n        </li>\n      </ol>\n      <p>Par dérogation à l'alinéa 1er, 2° et 3°, le conseil peut, à la demande du membre du personnel, et après avis du commandant, autoriser le membre du personnel à rester en service après avoir atteint la limite d'âge.</p>\n      <p>Le conseil autorise la prolongation pour une durée maximale d'une année, prolongéable à chaque fois pour une période d'un an maximum.</p>\n      <p>Le membre du personnel doit réussir un examen médical, réalisé par un spécialiste désigné par le médecin du travail</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.142Z",
+  "tokenUsage": {
+    "prompt": 1876,
+    "completion": 397,
+    "total": 2273
+  }
+}

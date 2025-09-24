@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011811",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent décret entre en vigueur le 1er avril 2019, à l'exception :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">des articles 2, 3, 5, 2° et 14, 1°, qui entrent en vigueur le 1er septembre 2019 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">des articles 12, 19, 20 et 22, qui entrent en vigueur à une date à fixer par le Gouvernement flamand.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.294Z",
+  "tokenUsage": {
+    "prompt": 1607,
+    "completion": 242,
+    "total": 1849
+  }
+}

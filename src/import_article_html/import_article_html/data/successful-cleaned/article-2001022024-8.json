@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001022024",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour la fixation de la sous-partie B2, l'exercice 1994 est retenu pour l'application des article 42, § 9, et 43, § 3,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">c)</span>\n            <ol>\n              <li class=\"sub-provision\" data-marker=\"c)\">et</li>\n              <li class=\"sub-provision\" data-marker=\"d)\">and</li>\n            </ol>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.143Z",
+  "tokenUsage": {
+    "prompt": 1797,
+    "completion": 276,
+    "total": 2073
+  }
+}

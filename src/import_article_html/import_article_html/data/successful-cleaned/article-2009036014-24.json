@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009036014",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les articles 1er et 5, l'article 6,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"5°\">\n                        <span class=\"provision-text\">5°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"7°\">\n                        <span class=\"provision-text\">7°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"8°\">\n                        <span class=\"provision-text\">8°</span>\n                    </li>\n                </ol>\n                <p>l'article 8, § 2, l'article 14,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">1°</span>\n                    </li>\n                </ol>\n                <p>produisent leurs effets le 1er janvier 2007.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 14,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">2°</span>\n                    </li>\n                </ol>\n                <p>produit ses effets le 1er janvier 2008.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.932Z",
+  "tokenUsage": {
+    "prompt": 1691,
+    "completion": 447,
+    "total": 2138
+  }
+}

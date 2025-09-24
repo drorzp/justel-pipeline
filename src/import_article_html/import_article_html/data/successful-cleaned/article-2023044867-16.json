@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044867",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le présent arrêté entre en vigueur le 1er juillet 2023.</p>\n      <p>\n        Par dérogation à l'alinéa 1er, le présent arrêté ne s'applique pas aux rapports d'audit enregistrés jusque 3 mois après l'entrée en vigueur pour lesquels le demandeur sollicite l'application de l'article 20, alinéa 2, de l'arrêté du Gouvernement wallon du 29 juin 2023 modifiant l'arrêté du Gouvernement wallon du 4 avril 2019 instaurant le régime de prime instaurant un régime de primes pour la réalisation d'un audit, de ses rapports de suivi de travaux et des investissements économiseurs d'énergie et de rénovation d'un logement.\n      </p>\n      <p>\n        Les articles 1er, 2, 2° et 3°, 3, 4, 2°, 5, 6, 2° et 3°, 8, 1°, 9, 10, 1° et 3°, 12 et 15 ainsi que l'alinéa 2 du présent article cessent d'être en vigueur le 1er juillet 2026.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.365Z",
+  "tokenUsage": {
+    "prompt": 1817,
+    "completion": 333,
+    "total": 2150
+  }
+}

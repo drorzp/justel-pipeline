@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004247",
+  "articleNumber": "137",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-137\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 137</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>La suspension préventive, le cas échéant accompagnée d'un rappel à l'administration centrale, ne peut être proposée qu'après que l'agent a eu la possibilité d'être entendu par le président ou son délégué dans ses moyens de défense sur les faits qui justifient une éventuelle suspension préventive, le cas échéant, accompagnée d'un rappel à l'administration centrale.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>En cas d'urgence, le président peut immédiatement suspendre préventivement l'agent et, le cas échéant, le rappeler à l'administration centrale avant de l'entendre.</p>\n                <p>La notification de la suspension préventive, le cas échéant accompagnée d'un rappel à l'administration centrale, comporte la convocation à l'audition, dont le contenu est conforme à l'article 138, alinéa 2, 1° et 3° à 5°.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.341Z",
+  "tokenUsage": {
+    "prompt": 1871,
+    "completion": 350,
+    "total": 2221
+  }
+}

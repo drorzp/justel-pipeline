@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009029272",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 66 du même décret, modifié par les décrets des 9 septembre 1996, 8 février 1999, 31 mai 1999 et 30 juin 2006, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">A l'alinéa 1er, un 4°bis rédigé comme suit est inséré entre les 4° et 5° : \" 4°bis d'un représentant du personnel administratif nommé à titre définitif, élu par le personnel concerné parmi ses membres \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">L'alinéa 4 est remplacé comme suit : \" La durée du mandat des membres visés au 4° et 4°bis est de cinq ans à l'exception du mandat attribué pour la première fois à un représentant du personnel administratif nommé à titre définitif qui s'achève en même temps que celui des membres visés au 3°, 4°, 5° et 6°. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.105Z",
+  "tokenUsage": {
+    "prompt": 1835,
+    "completion": 355,
+    "total": 2190
+  }
+}

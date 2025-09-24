@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003624",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 30</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 24 du même décret, modifié par le décret du 18 mai 2018, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au paragraphe 1er, le membre de phrase \" mentionnés à l'article 20, 4°, 5°, 6° et 7°, \" est remplacé par le membre de phrase \" mentionnés à l'article 20, alinéa 1er, 4°, 5°, 6° et 7°, \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au paragraphe 2, alinéa 1er, les mots \" le domaine visé \" sont remplacés par le membre de phrase \" les domaines visés \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au paragraphe 2, alinéa 1er, le membre de phrase \" et 7° \" est inséré entre le membre de phrase \" l'article 20, alinéa 1er, 6° \" et le membre de phrase \" , en raison de \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">le paragraphe 2, alinéa 2, est remplacé par ce qui suit :</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">\" Par dérogation à l'alinéa 1er, il n'y a pas question de discrimination directe au sens de l'article 16, § 1er, dans le domaine visé à l'article 20, alinéa 1er, 6°, si l'accès à, ou l'offre ou la fourniture de ceux-ci, uniquement ou principalement à des membres d'un sexe déterminé sont justifiés par un but légitime et si les moyens d'atteindre ce but sont appropriés et nécessaires.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.536Z",
+  "tokenUsage": {
+    "prompt": 2160,
+    "completion": 558,
+    "total": 2718
+  }
+}

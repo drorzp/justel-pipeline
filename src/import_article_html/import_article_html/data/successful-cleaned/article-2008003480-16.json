@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008003480",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-05-31/07\" data-law-type=\"L\" data-article-number=\"7\">\n          Conformément aux articles 53, 3° et 35octies de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat et par la loi spéciale du 13 juillet 2001 portant refinancement des communautés et extension des compétences fiscales des régions, les transferts visés aux articles 34 et 35ter à 35septies pour l'année budgétaire 2009, en ce compris l'écart entre le solde définitif et le solde probable du décompte de l'année budgétaire 2008, sont estimés à 5.551.153.655 EUR pour la Région flamande, à 3.383.463.694 EUR pour la Région wallonne et à 824.998.373 EUR pour la Région de Bruxelles-Capitale.\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.022Z",
+  "tokenUsage": {
+    "prompt": 1866,
+    "completion": 328,
+    "total": 2194
+  }
+}

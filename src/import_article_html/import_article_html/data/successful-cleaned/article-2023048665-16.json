@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048665",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Service public flamand des données traite les données en vue de la réalisation des missions, visées à l'article 3 du présent décret, et de l'exécution des tâches, visées à l'article 4 du présent décret, qui peuvent contenir les catégories de données à caractère personnel visées à l'article 24, § 1er, du décret du 2 décembre 2022. Les données à caractère personnel traitées par le Service public flamand des données dans le cadre de la VIP concernent les catégories suivantes de personnes concernées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les demandeurs et leurs collaborateurs</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les titulaires de droits sur un bien immobilier pour lequel des informations immobilières sont demandées, et leurs parents</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les représentants des personnes concernées, visées aux points 1° et 2°</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">les collaborateurs des entités fournisseuses, visées à l'article 10, alinéas 1er à 3, ou du Service public flamand des données, qui sont associés au traitement d'une demande de certains produits.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.502Z",
+  "tokenUsage": {
+    "prompt": 1903,
+    "completion": 407,
+    "total": 2310
+  }
+}

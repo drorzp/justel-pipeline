@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004035499",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article I 1, deuxième alinéa, de l'arrêté du Gouvernement flamand du 28 janvier 1997 portant statut et organisation des établissements scientifiques flamands et statut de leur personnel, est complété par un 6° et un 7°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">\" le \" Centrum voor Landbouwkundig Onderzoek \" (Centre de Recherches agronomiques);</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">le \" Centrum voor Landbouweconomie \" (Centre d'Economie agricole)\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.840Z",
+  "tokenUsage": {
+    "prompt": 1635,
+    "completion": 257,
+    "total": 1892
+  }
+}

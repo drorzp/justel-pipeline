@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1980100202",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Lorsque les denrées visées à l'article 1er, 3°, 4° et 5° ont subi un des traitements cités à l'article 2, § 2, ces denrées doivent porter dans leur étiquetage, selon le cas, une ou plusieurs mentions suivantes :</p>\n                <ul class=\"unordered-provisions\">\n                    <li class=\"provision\" data-number=\"1\">\n                        <span class=\"provision-text\">durci\" ou \"hydrogéné</span>\n                    </li>\n                </ul>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.694Z",
+  "tokenUsage": {
+    "prompt": 2185,
+    "completion": 229,
+    "total": 2414
+  }
+}

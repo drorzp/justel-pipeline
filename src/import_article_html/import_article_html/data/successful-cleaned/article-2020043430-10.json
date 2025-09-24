@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020043430",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les montants de gains des rangs de gain 1 et 2 sont arrondis aux dix centimes inférieurs. Le montant qui est généré suite à cet arrondi est ajouté au Fonds Booster au prochain tirage.</p>\n      <p class=\"intro-text\">Les parts allouées aux rangs de gain 3 à 6 suivant les modalités de calcul de l'article 9, alinéa 3,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">10°</span></li>\n        <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"12°\"><span class=\"provision-text\">sont arrondies aux dix centimes inférieurs.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.079Z",
+  "tokenUsage": {
+    "prompt": 1620,
+    "completion": 280,
+    "total": 1900
+  }
+}

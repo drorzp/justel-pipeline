@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035037",
+  "articleNumber": "73",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-73\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 73</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>A l'article 14, § 1er du même décret les mots \" ou hôtel pour jeunes \" sont insérés entre les mots \" centre de séjour pour jeunes \" et les mots \" , le centre doit \".</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Au § 2 du même article les mots \" ou hôtels pour jeunes \" sont insérés entre les mots \" types A et B \" et les mots \" doivent en outre \".</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Au § 3 du même article les mots \" du type C \" sont remplacés par les mots \" des types C ou hôtels pour jeunes \".</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-4\">\n            <h3 class=\"paragraph-marker\">§ 4.</h3>\n            <div class=\"paragraph-content\">\n                <p>Au même paragraphe les points 3° et 6° sont supprimés.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.080Z",
+  "tokenUsage": {
+    "prompt": 1879,
+    "completion": 395,
+    "total": 2274
+  }
+}

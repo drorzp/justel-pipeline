@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042204",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 59</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 46 du même arrêté, modifié par l'arrêté royal du 20 juillet 2020 et confirmé par la loi du 24 décembre 2020, le § 2 est remplacé par ce qui suit:</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'intervention visée au paragraphe 1er, 2° est due au plus tôt à partir du 23 mars 2020 ou à partir de la date de début des activités du centre de triage et de prélèvement, si cette date est postérieure au 23 mars 2020. Les interventions visées au paragraphe 1er, 3°, 4° et 5° sont dues au plus tôt à partir de la date de début du centre de triage et de prélèvement. En ce qui concerne le renvoi au paragraphe 1er, 2°, 3° et 4°, ce paragraphe est d'application jusqu'au 26 juillet 2020.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.152Z",
+  "tokenUsage": {
+    "prompt": 1934,
+    "completion": 319,
+    "total": 2253
+  }
+}

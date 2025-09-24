@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019030061",
+  "articleNumber": "348",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-348\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 348</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3 de l'arrêté royal du 28 avril 2011 royal fixant l'intervention de l'assurance obligatoire soins de santé et indemnités dans les frais de voyage des patients de moins de 18 ans suivis dans un centre de rééducation fonctionnelle avec lequel le Comité de l'assurance soins de santé a conclu une convention de rééducation fonctionnelle type, modifié par l'arrêté royal du 16 mai 2016, les points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">sont abrogés.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.432Z",
+  "tokenUsage": {
+    "prompt": 1635,
+    "completion": 253,
+    "total": 1888
+  }
+}

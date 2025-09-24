@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997027101",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Pour les opérations en cours, régies par l'arrêté de l'Exécutif régional wallon du 8 septembre 1988 relatif aux conditions d'octroi de subventions pour le logement de sans-abri ou de personnes mal logées :</p>\n        <ul class=\"hyphenated-items\">\n          <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 1er, 5° et 9° du présent arrêté s'applique uniquement aux occupants pris en charge après l'entrée en vigueur du présent arrêté;</span></li>\n          <li class=\"hyphenated-item\"><span class=\"item-text\">les articles 5, 6, 8 et 9 s'appliquent uniquement aux conventions conclues conformément à l'article 7 après l'entrée en vigueur du présent arrêté;</span></li>\n          <li class=\"hyphenated-item\"><span class=\"item-text\">les articles 16 et 17 du présent arrêté entrent en vigueur à partir du 1er janvier 1997.</span></li>\n        </ul>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les demandes de subventions introduites à la date d'entrée en vigueur du présent arrêté et pour lesquelles l'administration n'a pas encore notifié la conformité visée à l'article 12, § 3 du présent arrêté, l'organisme doit compléter sa demande dans le respect des dispositions du présent arrêté. L'administration notifie à l'organisme les documents complémentaires à fournir.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.976Z",
+  "tokenUsage": {
+    "prompt": 1980,
+    "completion": 466,
+    "total": 2446
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000014232",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si le fabricant le souhaite, il peut démontrer la conformité des équipements en question avec l'exigence de base visée à l'article 93, § 1er, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">de la loi, au moyen des procédures prévues par l'arrêté royal du 23 mars 1977 déterminant les garanties de sécurité que doivent présenter certaines machines, appareils et canalisations électriques, modifié par les arrêtés royaux du 12 août 1981, 6 juillet 1987 et 10 janvier 1997.</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de la loi, et ce au moyen de la procédure applicable mentionnée dans l'arrêté royal du 18 mai 1994 relatif à la compatibilité électromagnétique, modifié par l'arrêté royal du 30 janvier 1996.</span></li></ol></p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Ces procédures constituent une alternative aux procédures exposées aux articles 10, 11, 13 et 15 pour ce qui est de l'établissement de la conformité des équipements concernés avec les exigences visées à l'article 93, § 1er, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de la loi.</span></li></ol> Ces procédures sont uniquement utilisées pour les équipements entrant dans le champ d'application des arrêtés susmentionnés.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.114Z",
+  "tokenUsage": {
+    "prompt": 2003,
+    "completion": 503,
+    "total": 2506
+  }
+}

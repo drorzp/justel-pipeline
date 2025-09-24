@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021043625",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 234, alinéa 1er, du même Code, modifié en dernier lieu par la loi du 25 novembre 2021, est complété par un 10° rédigé comme suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">dans la mesure où ils excèdent 3 p.c. de la rémunération brute totale du sportif, calculée sur une base annuelle pendant la durée du contrat de travail, sur les commissions, courtages, ristournes commerciales ou autres, vacations ou honoraires occasionnels ou non, gratifications, rétributions ou avantages de toute nature qui sont payés, directement ou indirectement, dans le cadre d'un contrat ayant pour but:</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">d'assister un sportif lors de négociations visant la conclusion, la prolongation, le renouvellement ou la cessation d'un contrat de travail auprès d'un club sportif;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">ou d'assister un redevable du précompte professionnel visé à l'article 270, 1° et 3°, lors de négociations visant la conclusion, la prolongation, le renouvellement ou la cessation d'un contrat de travail avec un sportif;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">ou de régler un prêt ou un transfert définitif en vue de l'arrivée ou du départ d'un sportif.</li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.059Z",
+  "tokenUsage": {
+    "prompt": 1962,
+    "completion": 428,
+    "total": 2390
+  }
+}

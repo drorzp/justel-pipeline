@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998003172",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5 du même arrêté royal, modifié par l'arrêté royal du 4 avril 1996, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"A)\">\n          <span class=\"provision-text\">il est inséré, entre le 3° et le 4°, un 3°bis rédigé comme suit : \" 3°bis pour tout certificat de radiation d'immatriculation, d'enregistrement ou d'inscription au registre des affrètements à coque nue : 1 000 francs; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"B)\">\n          <span class=\"provision-text\">le 10° est remplacé par la disposition suivante : \" 10° pour l'envoi des pièces, par pièce envoyée, 25 francs majorés d'un montant forfaitaire pour frais fixé par le Ministre des Finances. Aucun salaire n'est dû pour l'envoi de pièces à une administration de l'Etat; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.074Z",
+  "tokenUsage": {
+    "prompt": 1768,
+    "completion": 320,
+    "total": 2088
+  }
+}

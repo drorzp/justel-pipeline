@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013029635",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>En application de l'article 47 du décret du 20 décembre 2011, la Direction de l'Audit du Ministère est chargée des audits budgétaire et comptable du Ministère et des services tels que définis respectivement à l'article 2, 4° et 5°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.047Z",
+  "tokenUsage": {
+    "prompt": 1480,
+    "completion": 143,
+    "total": 1623
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1965040806",
+  "articleNumber": "41",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-41\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 41</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Lorsque le mineur est mis à la disposition du Gouvernement en vertu des articles 39 ou 40, le Ministre de la Justice décide de le soumettre à l'une des mesures prévues à l'article 37, (§ 2, 2°, 7° et 8° et § 2bis), ou de le faire détenir, s'il a plus de seize ans, dans un établissement pénitentiaire où il sera soumis à un régime spécial. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-06-13/40\" data-law-type=\"L\" data-article-number=\"8\">&lt;L 2006-06-13/40, art.8, 023;**En vigueur :**16-10-2006&gt;</span></p>\n      <p class=\"closing-text\">(La présente disposition n'est pas applicable aux personnes qui ont commis un fait qualifié infraction.) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1994-02-02/33\" data-law-type=\"L\" data-article-number=\"5\">&lt;L 1994-02-02/33, art. 5, 007;**En vigueur :**27-09-1994&gt;</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.539Z",
+  "tokenUsage": {
+    "prompt": 1886,
+    "completion": 357,
+    "total": 2243
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015357",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 53</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 91 du même arrêté, les modifications suivantes sont apportées :</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">A l'alinéa 2, dans le texte néerlandais, le mot \" sollicitant \" est remplacé par le mot \" kandidaat \".</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">L'alinéa 4 est remplacé comme suit:</span>\n                <p>\" La proposition est notifiée aux fonctionnaires qui ont posé leur candidature pour occuper l'emploi à conférer. \"</p>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n                <span class=\"provision-text\">L'alinéa 6, comme inséré par l'article 25 de l'arrêté du Collège réuni de la Commission communautaire commune du 21 mai 2015 modifiant l'arrêté du Collège réuni de la Commission communautaire commune du 5 juin 2008 portant le statut administratif et pécuniaire des fonctionnaires et stagiaires des Services du Collège réuni de la Commission communautaire commune de Bruxelles-Capitale, est remplacé comme suit:</span>\n                <p>\" Les notifications et délai visés à l'alinéa 4 sont régis selon les règles visées à l'article 2, § 1er, 10° et § 3. \"</p>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.463Z",
+  "tokenUsage": {
+    "prompt": 1924,
+    "completion": 407,
+    "total": 2331
+  }
+}

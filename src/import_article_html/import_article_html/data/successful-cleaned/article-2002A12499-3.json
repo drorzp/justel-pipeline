@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002A12499",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 2, 5°, 6° et 7° de la même convention collective de travail est remplacé par le texte suivant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">reprise de l'actif : soit l'établissement d'un droit réel sur tout ou partie de l'actif d'une entreprise en faillite, soit la prise en location de tout ou partie de ce même actif;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">date de la faillite : date de la déclaration de faillite, au sens de l'article 1er de la loi du 8 août 1997 sur les faillites;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">transfert réalisé dans le cadre d'un concordat judiciaire : le transfert visé à l'article 41 de la loi du 17 juillet 1997 relative au concordat judiciaire.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.712Z",
+  "tokenUsage": {
+    "prompt": 1750,
+    "completion": 332,
+    "total": 2082
+  }
+}

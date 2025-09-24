@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007002100",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 578, 15°, du même Code, inséré par la loi du 13 février 1998 et modifié par la loi du 13 décembre 2005, est remplacé par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"15°\">\n          <span class=\"provision-text\">des contestations fondées sur la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie et qui sont relatives aux relations de travail et aux régimes complémentaires de sécurité sociale, au sens de l'article 5, § 1er, 4° et 5°, de ladite loi, à l'exception des contestations visées à l'article 581, 11°, et sous réserve des compétences du Conseil d'Etat, telles que définies par les lois coordonnées du 12 janvier 1973 sur le Conseil d'Etat; </span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.770Z",
+  "tokenUsage": {
+    "prompt": 1751,
+    "completion": 299,
+    "total": 2050
+  }
+}

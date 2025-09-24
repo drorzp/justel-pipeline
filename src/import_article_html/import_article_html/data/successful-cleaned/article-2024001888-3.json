@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001888",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 3 du même arrêté est modifié comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">A la fin de la phrase formant le 5°, le point final est remplacé par un point-virgule ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">Sous le 5°, sont ajoutés les nouveaux 6° et 7°, libellés comme suit :</span>\n                    <ol class=\"sub-provisions\" type=\"a\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">\n                            <span class=\"provision-text\">\" 6° aux articles 3.2.16 à 3.2.27 de l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie ; \" ;</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">\n                            <span class=\"provision-text\">\" 7° à l'article 36 de l'ordonnance du 9 juin 2022 relative aux services de taxis.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.436Z",
+  "tokenUsage": {
+    "prompt": 1815,
+    "completion": 381,
+    "total": 2196
+  }
+}

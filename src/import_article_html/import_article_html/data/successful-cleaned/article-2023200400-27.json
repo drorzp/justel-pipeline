@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023200400",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">- A l'article D.II.51 du même Code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le § 1er, alinéa 2, le 3° est remplacé par ce qui suit : \" 3° lorsqu'il est envisagé d'établir un périmètre de site à réaménager en application de l'article D.II.57.5, le dossier visé à l'article D.II.57.3; ce dernier est établi par la personne visée à l'article D.II.57.2, et est accompagné des avis visés à l'article D.II.57.4, § 1er, alinéa 1er, 1° et 3°. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">(concerne le texte allemand);</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le § 1er, alinéa 4, les mots \" D.V.2, § 2 \" et \" D.V.2, § 4 \" sont respectivement remplacés par les mots \" D.II.57.2 \" et \" D.II.57.4, § 2 \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le § 4, alinéa 3, les mots \" D.V.2, § 8 \" et \" D.V.2, § 7 \" sont respectivement remplacés par les mots \" D.II.57.5 \" et \" D.II.57.4, § 5 \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">dans le § 5, alinéa 2, les mots \" D.V.2, § 7 \" et \" D.V.2, § 4 \" sont respectivement remplacés par les mots \" D.II.57.4, § 5 \" et \" D.II.57.4, § 2 \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.405Z",
+  "tokenUsage": {
+    "prompt": 2327,
+    "completion": 613,
+    "total": 2940
+  }
+}

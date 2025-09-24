@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1930061855",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les établissements d'assurance ci-après peuvent être agréés:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">Les caisses d'assurances autonomes établies au sein des entreprises commerciales, industrielles ou financières;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">Les caisses communes d'assurance en vue de la vieillesse et du décès prématuré des employés, constituées par les chefs d'entreprise (et par les employés) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"3-3-1933\" data-law-type=\"L\" data-article-number=\"10\">L. 3-3-1933, art. 10</span></span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">Les sociétés d'assurance légalement constituées.</span>\n                </li>\n            </ol>\n            <p>Les organismes repris aux 1° et 2° ne peuvent faire d'autres opérations d'assurance que celles prévues par la présente loi.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.583Z",
+  "tokenUsage": {
+    "prompt": 1753,
+    "completion": 349,
+    "total": 2102
+  }
+}

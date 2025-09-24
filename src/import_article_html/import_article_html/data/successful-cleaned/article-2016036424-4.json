@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036424",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans le même arrêté, l'article 8, § 1er, alinéa 1er, est remplacé par ce qui suit :</p>\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Les membres du personnel visés à l'article 1er peuvent, à leur demande, être autorisés par le pouvoir organisateur pour les membres du personnel, visés à l'article 1er,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">1° et 2°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">et par le Ministre flamand chargé de l'enseignement, ou son mandataire pour les membres du personnel, visés à l'article 1er, 3° et 4°, à exercer leur fonction par prestations réduites pour convenance personnelle.</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.636Z",
+  "tokenUsage": {
+    "prompt": 1738,
+    "completion": 327,
+    "total": 2065
+  }
+}

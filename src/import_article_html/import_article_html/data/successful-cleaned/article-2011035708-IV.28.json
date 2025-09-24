@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011035708",
+  "articleNumber": "IV.28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-IV-28\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article IV.28</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 109, § 3, du même décret, modifié par les décrets des 4 juillet 2008, 8 mai 2009 et 9 juillet 2010, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le point 4° est remplacé par la disposition suivante :</span>\n                    <p>\" 4° être, au moment de l'inscription, détenu tel que visé à l'article 2, 16°bis ; \";</p>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le point 6° est remplacé par la disposition suivante :</span>\n                    <p>\" 6° sont intégrants et qui ont signé un contrat d'intégration civique tel que visé à l'article 2, 9°, du décret du 28 février 2003 relatif à la politique flamande d'intégration civique ou ont obtenu une attestation d'intégration civique ou une attestation EVC, telle que visée à l'article 2, 11° et 13°, du décret précité pour les formations 'Nederlands tweede taal richtgraad 1', 'Nederlands tweede taal richtgraad 2' et 'Latijns schrift' de la discipline 'Nederlands tweede taal' (néerlandais - deuxième langue); \".</p>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.219Z",
+  "tokenUsage": {
+    "prompt": 1964,
+    "completion": 418,
+    "total": 2382
+  }
+}

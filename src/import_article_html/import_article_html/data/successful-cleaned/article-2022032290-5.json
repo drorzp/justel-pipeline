@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032290",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5 de la même loi, modifié par la loi du 17 novembre 2016, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, le mot &quot;majeurs&quot; est inséré entre le mot &quot;Belges&quot; et le mot &quot;inscrits&quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 2, les mots &quot;article 1er, § 2, alinéa 1er, 1° &quot; sont remplacés par les mots &quot;article 1er, § 2, alinéa 1er, 1° et 1° /2&quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le paragraphe 1er est complété par un alinéa rédigé comme suit: &quot;Les mineurs ne peuvent introduire une demande de participation visée à l'alinéa 2 qu'à partir de l'âge de quatorze ans accomplis.&quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le paragraphe 2, alinéa 2, deuxième phrase, le mot &quot;Toutefois&quot; est remplacé par les mots &quot;Toutefois et uniquement en ce qui concerne les électeurs majeurs&quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.753Z",
+  "tokenUsage": {
+    "prompt": 2001,
+    "completion": 487,
+    "total": 2488
+  }
+}

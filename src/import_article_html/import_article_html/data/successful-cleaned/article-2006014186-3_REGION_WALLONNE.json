@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006014186",
+  "articleNumber": "3_REGION_WALLONNE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3_REGION_WALLONNE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3_REGION_WALLONNE</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-07-06/39\" data-law-type=\"ARW\" data-article-number=\"17\">\n        Le total des sommes à percevoir prévues à l'annexe 2 ne peut dépasser 3.500 EUR à charge d'un même auteur d'infraction. Ce total s'élève à 7.000 EUR pour les infractions mentionnées dans les\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n          <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5° de l'annexe 2.</span></li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.823Z",
+  "tokenUsage": {
+    "prompt": 1691,
+    "completion": 264,
+    "total": 1955
+  }
+}

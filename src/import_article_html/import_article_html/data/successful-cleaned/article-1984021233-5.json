@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1984021233",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'émission d'actions privilégiées sans droit de vote est soumise aux conditions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">elles ne peuvent représenter plus de la moitié du capital social de la société;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">elles doivent conférer en cas de répartition des bénéfices de droit à un dividende privilégié de 2 p.c. au moins de leur valeur nominale, sans préjudice du droit qui peut leur être accordé dans la répartition du surplus des bénéfices par la convention dont question à l'article 4 du présent arrêté;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">elles doivent être privilégiées quant au remboursement de l'apport sans préjudice du droit qui peut leur être accordé dans le distribution du boni lors de la liquidation par la convention dont question à l'article 4 du présent arrêté.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Le cas échéant, les droits préférentiels dont question aux 2° et 3° du présent article sont exercés avant ceux attachés aux autres actions, actions de jouissance et titres similaires dont question à l'article 47 des lois coordonnées sur les sociétés commerciales.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.685Z",
+  "tokenUsage": {
+    "prompt": 1959,
+    "completion": 401,
+    "total": 2360
+  }
+}

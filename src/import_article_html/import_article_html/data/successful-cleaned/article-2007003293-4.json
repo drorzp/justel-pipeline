@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003293",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 6, § 1er, alinéa 2, 4°, de la même loi, modifié par l'arrêté royal du 6 juillet 1994 et par les lois des 20 mars 1996, 30 octobre 1998, 25 février 2003, 19 novembre 2004 et 16 juin 2006, est complété comme suit : \" ou dans des expressions similaires, et les compagnies financières mixtes visées à l'article 49bis, § 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et faisant l'objet du contrôle prévu par cet article peuvent, de leur côté, faire usage du terme \" banque \" dans l'expression \" holding de bancassurance \" ou dans des expressions similaires; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.775Z",
+  "tokenUsage": {
+    "prompt": 1712,
+    "completion": 282,
+    "total": 1994
+  }
+}

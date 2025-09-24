@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011031277",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 6 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol>\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"sub-provision-text\">le 1° est remplacé par ce qui suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">le projet éventuellement modifié suivant les remarques du pouvoir subsidiant ou d'une autre autorité compétente par rapport au projet introduit lors de la demande d'accord de principe d'octroi de subside.</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"sub-provision-text\">l'article est complété par les points 6° et 7° rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"6°\">\n                            <span class=\"provision-text\">une copie de l'avis de marché;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">pour des travaux visés à l'article 17,4° de l'ordonnance, il s'agit de joindre le formulaire ad hoc complété. Le modèle de ce formulaire est établi par le Ministre qui a les Pouvoirs Locaux dans ses attributions et est disponible auprès de l'Administration des Pouvoirs Locaux.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.207Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 435,
+    "total": 2332
+  }
+}

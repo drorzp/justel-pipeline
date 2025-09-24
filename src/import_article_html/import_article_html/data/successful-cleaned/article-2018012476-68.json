@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012476",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 68</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'expert en sélection qui organise le test rédige un rapport de test écrit concernant la réalisation et l'évaluation de chaque test qui entraîne la délivrance d'une <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"\" data-law-type=\"\" data-article-number=\"\">attestation d'examen psychotechnique</span>. Ce rapport de test contient tous les éléments d'évaluation des tests ainsi que les réflexions montrant qu'à partir de ces éléments d'évaluation, on peut raisonnablement apprécier si l'intéressé a une personnalité équilibrée et satisfait aux conditions visées à l'article 64, 1°, 2°,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">de la loi.</span></li>\n            </ol>\n            <p class=\"closing-text\">Le Ministre peut préciser le contenu du rapport de test visé à l'alinéa précédent.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.693Z",
+  "tokenUsage": {
+    "prompt": 1704,
+    "completion": 318,
+    "total": 2022
+  }
+}

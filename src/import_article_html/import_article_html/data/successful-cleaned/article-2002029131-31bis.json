@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029131",
+  "articleNumber": "31bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 31bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-07-08/19\" data-law-type=\"DCFR\" data-article-number=\"29\">\n        Le pouvoir organisateur qui a un emploi vacant à conférer complète, dans le respect de l'article 23, et par dérogation à l'article 33, la charge d'un membre de son personnel nommé à titre définitif dans une charge à prestations incomplètes par une extension de sa nomination à titre définitif dans la même fonction. L'extension produit ses effets quelle qu'en soit la date. Elle ne peut être accordée que pour autant que le membre du personnel remplisse toutes les conditions prévues à l'article 32, à l'exception du 10° et du 12°.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.745Z",
+  "tokenUsage": {
+    "prompt": 1722,
+    "completion": 251,
+    "total": 1973
+  }
+}

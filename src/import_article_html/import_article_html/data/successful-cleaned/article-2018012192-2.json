@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012192",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">au 2° et 11°, le mot \" Foreign \" est abrogé ;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">au 12°, les mots \" à l'article 6, § 1er, 1°. \" sont remplacés par les mots \" à l'article 6, § 1er, 1° et 1° /1. \" ;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"c)\">\n          <span class=\"provision-text\">au 13°, les mots \" la banque de données F.T.F. \" sont remplacés par les mots \" la banque de données Terrorist Fighters \" ;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"d)\">\n          <span class=\"provision-text\">l'article 1er est complété par les 14° et 15° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"14°\">\n              <span class=\"provision-text\">\" Homegrown Terrorist Fighters \" : les personnes visées à l'article 6, § 1er, 1° /1;</span>\n            </li>\n            <li class=\"provision\" data-number=\"15°\">\n              <span class=\"provision-text\">\" Terrorist Fighters \" : les personnes visées à l'article 6, § 1er, 1° et 1° /1.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.693Z",
+  "tokenUsage": {
+    "prompt": 1981,
+    "completion": 485,
+    "total": 2466
+  }
+}

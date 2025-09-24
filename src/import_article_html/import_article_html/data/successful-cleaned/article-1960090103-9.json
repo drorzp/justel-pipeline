@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1960090103",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"08-04-1965\" data-law-type=\"AR\" data-article-number=\"4\">\n                    &lt;AR 08-04-1965, art. 4, 1° et 2°&gt;\n                </span>\n                En attendant que le conseil d'administration de l'Office national d'allocations familiales pour travailleurs indépendants ait procédé à l'élaboration des règlements dont il est question à l'article 8 et que ces règlements aient été approuvés par le Ministre de la Prévoyance sociale, les règlements en vigueur auprès de la Caisse mutuelle nationale d'allocations familiales et de la Caisse mutuelle auxiliaire d'allocations familiales restent applicables à l'Office national d'allocations familiales pour travailleurs indépendants.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.463Z",
+  "tokenUsage": {
+    "prompt": 1682,
+    "completion": 271,
+    "total": 1953
+  }
+}

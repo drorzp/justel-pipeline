@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035572",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les points 13° et 15° de l'article 1er de l'arrêté du Gouvernement flamand du 13 septembre 2013 portant les conditions auxquelles la Société flamande du Logement social et le Fonds flamand du Logement peuvent octroyer des prêts sociaux spéciaux à des particuliers, sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"13°\">\n          <span class=\"provision-text\">date de référence :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">Lors de la conclusion du contrat de prêt : la date à laquelle est reçu le versement de l'avance sur les frais de dossier par le prêteur ou par l'instance qui offre les prêts localement ;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">Lors de la révision biennale du taux d'intérêt : respectivement 2 mois avant le deuxième, quatrième et sixième anniversaire de l'acte du prêt ;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">Lors de la révision quinquennale du taux d'intérêt : respectivement 2 mois avant le deuxième, quatrième et sixième anniversaire de l'acte du prêt ;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"15°\">\n          <span class=\"provision-text\">taux d'intérêt de référence : le taux d'intérêt fixé mensuellement en fonction de l'évolution des taux OLO20, l'obligation linéaire avec un terme d'échéance restant de 20 ans ;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.333Z",
+  "tokenUsage": {
+    "prompt": 1967,
+    "completion": 448,
+    "total": 2415
+  }
+}

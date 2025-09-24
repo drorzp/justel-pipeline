@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006797",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 40</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 59 du même décret, modifié par le décret du 17 décembre 2020, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au 3°, les mots \" , de ne pas le communiquer au candidat acquéreur ou locataire \" sont insérés entre les mots \" de ne pas l'afficher \" et les mots \" ou de ne pas mentionner \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'article est complété par les 5° et 6° rédigés comme suit :</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">le fait de ne pas communiquer un document de preuve en application de l'article 51, alinéa 2;</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">le fait de ne pas corriger un document en application de l'article 53, alinéa 1er.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.543Z",
+  "tokenUsage": {
+    "prompt": 1806,
+    "completion": 373,
+    "total": 2179
+  }
+}

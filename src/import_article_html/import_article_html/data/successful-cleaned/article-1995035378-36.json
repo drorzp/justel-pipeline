@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995035378",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 36</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 50, § 4, du même décret est remplacé par la disposition suivante :</p>\n        <section class=\"paragraph\" id=\"para-4\">\n            <h3 class=\"paragraph-marker\">§ 4.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation au § 1er et pour une période de 30 jours civils au maximum, un membre du personnel est désigné par l'organe de direction local ou, à son défaut, par le chef d'établissement, pour exercer à titre intérimaire une fonction de sélection ou de promotion, compte tenu des conditions fixées à l'article 46, 1°, 2°, 3° et 4°.</p>\n                <p>Pour une période de 30 jours civils au maximum, l'appel aux candidats peut se limiter aux membres du personnel de l'organe de direction local ou, à son défaut, de l'établissement où l'emploi est vacant.</p>\n                <p>L'organe de direction local ou, à son défaut, le chef d'établissement, peut déroger de la condition de l'article 46, 3°, s'il n'y a pas de candidats porteurs d'un titre.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.005Z",
+  "tokenUsage": {
+    "prompt": 1859,
+    "completion": 332,
+    "total": 2191
+  }
+}

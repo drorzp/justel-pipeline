@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036322",
+  "articleNumber": "5.9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5.9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 73, § 2, du même décret, les mots \" 6° et 7° \" sont remplacés par les mots \" 6°, 7° et 9° et 10° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.726Z",
+  "tokenUsage": {
+    "prompt": 1459,
+    "completion": 136,
+    "total": 1595
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001009579",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le cadre de l'application des articles 16 et 27, § 2 de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat, de l'article 87, § 2 de la loi spéciale du 8 août 1980 des réformes institutionnelles, et de l'article 1er, § 3, 2° et 3° de l'arrêté royal du 26 septembre 1994 fixant les principes généraux du statut administratif et pécuniaire des agents de l'Etat applicables au personnel des services des Gouvernements de Communauté et de Région et des Collèges de la Commission communautaire commune et de la Commission communautaire française ainsi qu'aux personnes morales de droit public qui en dépendent, sont autorisés à accéder aux informations enregistrées dans le Casier judiciaire central :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le fonctionnaire dirigeant le Bureau de sélection de l'Administration fédérale;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les membres du personnel du Bureau de sélection de l'Administration fédérale que le fonctionnaire dirigeant désigne nommément et par écrit à cet effet, en raison des fonctions qu'ils occupent et pour autant qu'ils soient revêtus d'un grade équivalent à celui du niveau 1 des agents de l'Etat.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.214Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 416,
+    "total": 2364
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029618",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 2, § 2, de l'arrêté royal du 14 juin 1978 portant création d'un conseil de recherche dans les institutions universitaires, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">aux 1° et 2°, le mot &quot; permanent &quot; est abrogé;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">au 1°, les mots &quot; à durée indéterminée &quot; sont remplacés par les mots &quot; extérieur. Les membres du conseil de recherche représentant le personnel scientifique doivent être titulaires du grade académique de docteur &quot;;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">au 2°, les mots &quot; à durée indéterminée &quot; sont remplacés par le mot &quot; extérieur &quot;.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.106Z",
+  "tokenUsage": {
+    "prompt": 1735,
+    "completion": 325,
+    "total": 2060
+  }
+}

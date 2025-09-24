@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006202314",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 43</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 146 du même Code, modifié par les lois du 30 mars 1994, du 6 juillet 1994, du 21 décembre 1994, du 7 avril 1999, du 10 août 2001, du 28 avril 2003 et du 23 décembre 2005, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au 1°, les mots \" non visées aux 2° \" sont supprimés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au 2°, les mots \" visées à l'article 31bis \" sont remplacés par les mots \" visées à l'article 31bis, alinéas 2 et 3 \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au 5°, les mots \" aux 2° à \" sont remplacés par les mots \" aux 3° et \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.902Z",
+  "tokenUsage": {
+    "prompt": 1796,
+    "completion": 350,
+    "total": 2146
+  }
+}

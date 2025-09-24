@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1936063050",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les entreprises qui exercent conjointement les activités définies par l'article 33,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'arrêté royal n° 225, doivent, d'une part, donner l'avis aux fins d'inscription visé aux articles 35 et 36 de cet arrêté et, d'autre part, solliciter l'autorisation prévue par l'article 40 du même arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.583Z",
+  "tokenUsage": {
+    "prompt": 1582,
+    "completion": 228,
+    "total": 1810
+  }
+}

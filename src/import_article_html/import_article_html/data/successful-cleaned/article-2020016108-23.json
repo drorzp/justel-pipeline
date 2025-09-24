@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016108",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 23, alinéas trois et quatre du même décret, insérés par le décret du 23 décembre 2016, le membre de phrase &quot; visés à l'article 28, § 1er, alinéa 1er, 2° et 3° du présent décret, &quot; est remplacé par le membre de phrase &quot; tels que visés à l'article 26, § 1er, 2° et 3°, &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.277Z",
+  "tokenUsage": {
+    "prompt": 1683,
+    "completion": 191,
+    "total": 1874
+  }
+}

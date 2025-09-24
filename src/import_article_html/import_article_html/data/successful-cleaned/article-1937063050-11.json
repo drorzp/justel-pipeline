@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1937063050",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le cas où l'annulation porte sur un ou plusieurs éléments de la marque collective, le requérant devra fournir un modèle en triple exemplaire de la marque modifiée et un cliché de celle-ci, le tout conformément aux dispositions de l'article 5,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">du présent arrêté.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.583Z",
+  "tokenUsage": {
+    "prompt": 1544,
+    "completion": 207,
+    "total": 1751
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998003249",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 7 de la loi du 5 avril 1994 précitée, modifié par l'arrêté royal du 7 février 1997, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le § 1er, 1° et 4°, le montant \" 564 235 \" est remplacé par le montant \" 575 520 \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le § 1er, 2° et dans le § 2, le montant \" 451 387 \" est remplacé par le montant \" 460 416 \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.075Z",
+  "tokenUsage": {
+    "prompt": 1662,
+    "completion": 270,
+    "total": 1932
+  }
+}

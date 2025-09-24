@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005021175",
+  "articleNumber": "63",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-63\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 63</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 39, § 4, de la même loi, modifié par la loi-programme du 9 juillet 2004, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 1° est complété comme suit : \", jusque et y compris le dernier jour du trimestre au cours duquel ils atteignent l'âge de vingt-cinq ans; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le 2°, les mots \" vingt-six \" sont remplacés par les mots \" vingt-cinq \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'alinéa suivant est inséré entre les alinéas 1er et 2 : \" Sur avis du gouvernement régional compétent, le Roi peut relever ou abaisser d'un an l'âge de vingt-cinq ans visé à l'alinéa précédent, 1° et 2°, pour les nouveaux travailleurs occupés dans la région pour laquelle ce gouvernement est compétent. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.762Z",
+  "tokenUsage": {
+    "prompt": 1826,
+    "completion": 364,
+    "total": 2190
+  }
+}

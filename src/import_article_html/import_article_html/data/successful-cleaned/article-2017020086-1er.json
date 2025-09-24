@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017020086",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 3 de l'arrêté du Président du Comité de direction du SPF Finances du 18 décembre 2014 établissant les tâches dont l'Administration des Services patrimoniaux est chargée, et déterminant les compétences ainsi que le siège de ses services opérationnels, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le § 2, premier alinéa, les mots \"du contrôle de la comptabilité ainsi que\" du troisième tiret sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le § 3, les dispositions sous 1° et 2° sont complétées avec les mots \"avec siège à Bruxelles et avec comme ressort le territoire de la Belgique, sauf les communes de la région de langue allemande (Amblève, Bullange, Burg-Reuland, Butgenbach, Eupen, La Calamine, Lontzen, Raeren et Saint-Vith)\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le § 3, la disposition sous 3° est complétée avec les mots \"avec siège à Bruxelles et avec comme ressort le territoire de la Région de Bruxelles-Capitale et les provinces du Brabant-Flamand et du Brabant-Wallon\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le § 3, les dispositions sous 4°, 5°, 6° et 7° sont abrogées.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.598Z",
+  "tokenUsage": {
+    "prompt": 2019,
+    "completion": 476,
+    "total": 2495
+  }
+}

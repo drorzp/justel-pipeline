@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023046843",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article VII.189 du même Code, inséré par la loi du 19 avril 2014, les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"VII.13\" data-law-type=\"articles\" data-article-number=\"5°\">\"articles VII.13, 5°, a) et c)</span> et <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"VII.31\" data-law-type=\"articles\" data-article-number=\"1°\">VII.31, 1° et 3° \"</span> sont remplacés par les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"VII.22\" data-law-type=\"articles\" data-article-number=\"5°\">\"articles VII.22, 5°, a) et d)</span>, et <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"VII.39\" data-law-type=\"articles\" data-article-number=\"1°\">VII.39, 1° et 3° \"</span>.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.480Z",
+  "tokenUsage": {
+    "prompt": 1529,
+    "completion": 317,
+    "total": 1846
+  }
+}

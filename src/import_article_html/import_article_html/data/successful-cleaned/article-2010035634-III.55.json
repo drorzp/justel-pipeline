@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035634",
+  "articleNumber": "III.55",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-III-55\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article III.55</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 35/1 de l'arrêté royal n° 439 du 11 août 1986 portant rationalisation et programmation de l'enseignement spécial, inséré par le décret du 8 mai 2009, est remplacé par ce qui suit :</p>\n            <p class=\"intro-text\">\" Article 35/1. Par dérogation aux articles 32 et 35, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">6°, et § 2, le type 7 ne peut être organisé dans une école ou forme d'enseignement pendant les années scolaires 2009-2010 et 2010-2011. Dans les années scolaires 2009-2010 et 2010-2011, la création du type 7 est considérée comme une programmation pour les écoles et formes d'enseignement qui, à la date de comptage de l'année scolaire 2008-2009, n'avaient pas d'élèves de ce type.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.238Z",
+  "tokenUsage": {
+    "prompt": 1801,
+    "completion": 340,
+    "total": 2141
+  }
+}

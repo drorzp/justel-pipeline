@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021205509",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 44</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même chapitre, il est inséré un article 91quintagiesbis rédigé comme suit : \" Art. 91quintagiesbis - Conditions d'admission Une personne peut exercer cette fonction si :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">elle remplit les conditions énumérées à l'article 91quater, 1° et 4° à 6°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">elle est porteuse de l'un des titres requis fixé à l'article 14, 8°, de l'arrêté royal du 22 avril 1969 fixant les titres requis des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical et sociopsychologique des établissements d'enseignement gardien, primaire, spécialisé, moyen, technique, artistique et normal de l'Etat et des internats dépendant de ces établissements;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">elle a introduit sa candidature dans les formes et délais fixés dans l'appel aux candidats. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.795Z",
+  "tokenUsage": {
+    "prompt": 1852,
+    "completion": 376,
+    "total": 2228
+  }
+}

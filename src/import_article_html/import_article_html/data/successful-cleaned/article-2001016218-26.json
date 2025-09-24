@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001016218",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sauf possibilité de disculpation, sont responsables pour la conformité du produit aux prescriptions du présent arrêté :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">s'il s'agit d'une étiquette prévue à l'annexe IV, A, celui pour le compte duquel le service de certification a effectué la première fermeture officielle ou l'importateur, si cette étiquette porte le nom d'un service de certification étranger; si toutefois les emballages ont subi à l'intérieur du pays une nouvelle fermeture officielle, celui pour le compte duquel la dernière fermeture officielle a été effectuée, est responsable pour ce qui concerne la faculté germinative;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">s'il s'agit d'une étiquette prévue à l'annexe IV, B, celui dont le nom figure sur l'étiquette ou l'importateur si cette étiquette porte le nom d'un fournisseur étranger;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le propriétaire ou le détenteur, dans les autres cas.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">La responsabilité des personnes mentionnées aux alinéas 1° et 2°, est toutefois dégagée lorsque les emballages ont été ouverts, autrement que pour subir une nouvelle fermeture officielle ou lorsqu'il est établi, après enquête, que par la faute de l'acheteur - détenteur, le produit ne se trouve plus dans un état normal de bonne conservation ou a perdu sa faculté germinative initiale.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.224Z",
+  "tokenUsage": {
+    "prompt": 1995,
+    "completion": 453,
+    "total": 2448
+  }
+}

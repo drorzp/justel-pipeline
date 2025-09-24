@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000000537",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 6 de la même loi sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">Il est inséré un § 2bis, rédigé comme suit :</span>\n        <section class=\"paragraph\" id=\"para-2bis\">\n          <h3 class=\"paragraph-marker\">§ 2bis.</h3>\n          <div class=\"paragraph-content\">\n            <p>(Les motifs d'exception) visés au § 1er, 6° et au § 2, 2°, ne peuvent être invoqués par une autorité administrative fédérale qui détient des documents administratifs à caractère environnemental. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"05.08.2000\" data-law-type=\"M.B.\">Erratum, voir M.B. 05.08.2000, p. 27.082</span></p>\n          </div>\n        </section>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">Le § 5 est complété par l'alinéa suivant :</span>\n        <p>Par dérogation aux alinéas 1 et 2 et en application de l'article 3, § 4, de la directive 90/313/CEE, l'autorité administrative fédérale qui est saisie d'une demande de publicité relative à des documents administratifs à caractère environnemental qu'elle détient y répond de manière formelle dans un délai non prorogeable de soixante jours à compter de la réception de la demande. En cas de rejet, l'autorité administrative fédérale communique les motifs de sa décision au demandeur au plus tard à l'échéance de ce délai. La motivation doit, en tout cas, être concomitante à la décision de rejet.</p>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.106Z",
+  "tokenUsage": {
+    "prompt": 2046,
+    "completion": 494,
+    "total": 2540
+  }
+}

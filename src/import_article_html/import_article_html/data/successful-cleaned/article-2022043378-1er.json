@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043378",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 7 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 11 octobre 2018 portant exécution de l'ordonnance du 3 mai 2018 relative aux aides pour le développement économique des entreprises, un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2 :</p>\n      <p class=\"intro-text\">\" Le bénéficiaire qui cesse ses activités en tant qu'entreprise personne physique ou est en état de faillite est exonéré du remboursement de l'aide qui lui est octroyée sur la base de l'article 28 de l'ordonnance, sous réserve de l'alinéa 3,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">, du présent article.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.873Z",
+  "tokenUsage": {
+    "prompt": 1721,
+    "completion": 311,
+    "total": 2032
+  }
+}

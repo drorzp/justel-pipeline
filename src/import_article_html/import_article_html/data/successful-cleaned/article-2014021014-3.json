@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014021014",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Chaque convention visée à l'article 2 comporte les mentions suivantes:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'obligation par le tiers du respect de la destination de l'établissement</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">ses obligations en matière de sécurité, d'assurance, de salubrité et de vérification d'accès</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le versement d'une somme forfaitaire pour l'utilisation des infrastructures, en ce compris le montant des prestations des membres du personnel qui se seront portés volontaires pour assurer un service pendant l'événement privé</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le cas échéant la liste des autres frais auxquels il serait tenu de participer</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">les autres mentions que l'ordonnateur jugera utiles le cas échéant d'ajouter pour assurer le bon déroulement de l'événement privé.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Les frais visés aux points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">sont intégralement à charge du tiers-organisateur.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.184Z",
+  "tokenUsage": {
+    "prompt": 1869,
+    "completion": 485,
+    "total": 2354
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010201753",
+  "articleNumber": "6ter",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6ter\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6ter</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-12-26/07\" data-law-type=\"AR\" data-article-number=\"1\">\n                Les pourcentages des cotisations prévus aux articles 5, alinéa 1er, 2°, 5bis, alinéa 1er, 2°, 5ter, alinéa 1er, 2°, 6, § 3, alinéa 1er, 2°, § 4, alinéa 1er, 2° et § 5, alinéa 1er, 2°, sont multipliés par un coefficient de 1,047 à partir du 1er janvier 2023 jusqu'au 31 décembre 2023 et par un coefficient de 1,094 à partir du 1er janvier 2024 jusqu'au 31 décembre 2024. Les nouveaux pourcentages ainsi obtenus sont arrondis arithmétiquement à la deuxième décimale, 0,005 étant arrondi vers le haut.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.337Z",
+  "tokenUsage": {
+    "prompt": 1855,
+    "completion": 317,
+    "total": 2172
+  }
+}

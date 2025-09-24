@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1993036040",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les membres du personnel et les personnes visés à l'article 67, 2° et 3°, du décret précité du 12 décembre 1990 n'ayant pas réussi un concours de recrutement annoncé par le Secrétariat permanent de Recrutement avant le 31 décembre 1993, sont intégrés par priorité dans le régime organique pour l'engagement de contractuels tel qu'il a été fixé à l'article 65 du décret précité du 12 décembre 1990.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.058Z",
+  "tokenUsage": {
+    "prompt": 1562,
+    "completion": 184,
+    "total": 1746
+  }
+}

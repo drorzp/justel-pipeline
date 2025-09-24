@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011021082",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 43</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Lorsqu'ils passent des marchés dans les domaines de la défense et de la sécurité, les <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-06-17/19\" data-law-type=\"L\" data-article-number=\"186\">personnes bénéficiant de droits spéciaux et exclusifs visés à l'article 93, 2°, b, et les entreprises publiques et pouvoirs adjudicateurs visés respectivement à l'article 93, 2°, a, et c, en ce qui concerne les tâches qui y sont mentionnées</span> sont soumis à l'application des <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2019-04-07/03\" data-law-type=\"L\" data-article-number=\"23\">articles 5, 6, 11, 11/1, 11/2, 12, alinéa 4, 14 à 20, alinéas 1er et 2, 22, alinéas 1er et 3, 23, 24, alinéas 1er à 3, 25, 1°, c, alinéa 1er, d, alinéa 1er, e, f et g, 2°, 3°, 4° et 5°, 27, 29, 31 à 34, 36 à 40 et 49/1</span> de la présente loi.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.164Z",
+  "tokenUsage": {
+    "prompt": 2048,
+    "completion": 404,
+    "total": 2452
+  }
+}

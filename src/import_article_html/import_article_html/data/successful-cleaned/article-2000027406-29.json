@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000027406",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 29</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Centre inscrit, aux examens A, B ou I, les auditeurs visés à l'article 26, § 1er, 1° et 2°.</p>\n                <p>Sous réserve du § 2, le Centre inscrit, à l'examen C, les auditeurs visés à l'article 26, § 1er.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Centre inscrit, à l'examen C, le candidat qui justifie d'une expérience pratique suffisante conformément aux conditions et modalités fixées par l'Institut.</p>\n                <p>Le candidat, qui effectue en entreprise un stage dont les modalités sont fixées par l'arrêté du Gouvernement wallon du 16 juillet 1998 ou par l'arrêté du Collège de la Commission communautaire française du 17 juillet 1998 relatif à la convention de stage, justifie de l'expérience pratique requise à l'alinéa 1er.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.248Z",
+  "tokenUsage": {
+    "prompt": 1808,
+    "completion": 357,
+    "total": 2165
+  }
+}

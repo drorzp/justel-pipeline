@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999000189",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La &quot; Vrije Universiteit Brussel &quot; est autorisée à recevoir communication des informations visées à l'article 3, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\"></span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"></span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">de la loi du 8 août 1983 organisant un Registre national des personnes physiques et relatives aux 5 100 personnes composant l'échantillon qui seront interrogées sur leur participation à l'environnement social et les attitudes qui sont les leurs en matière de citoyenneté et de culture politique, et ce pour les besoins d'une enquête dénommée &quot; Tussen burger en overheid &quot;.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.122Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 346,
+    "total": 2025
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040717",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'alinéa 2 de l'article 47, § 1er, du décret du 3 mars 2004 organisant l'enseignement spécialisé est remplacé par ce qui suit :</p>\n      <p class=\"intro-text\">\" Dans l'enseignement organisé par la Communauté française ainsi que dans l'enseignement officiel subventionné et dans l'enseignement libre non confessionnel subventionné qui offrent le choix entre les différents cours de religion ou de morale non confessionnelle, l'enseignement secondaire spécialisé visé à l'article 45, 1°, 2° et 3°, demeure organisé à raison de 32 périodes à 36 périodes lorsque l'élève est dispensé du cours de religion ou de morale non confessionnelle.</p>\n      <p class=\"intro-text\">Les élèves de l'enseignement secondaire spécialisé visés à l'article 45, 1°, 2° et 3°, et dispensés du cours de religion ou de morale non confessionnelle, participent obligatoirement à une deuxième période de cours de philosophie et de citoyenneté visée à l'article 8, alinéa 5, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation sur l'enseignement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.624Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 343,
+    "total": 2284
+  }
+}

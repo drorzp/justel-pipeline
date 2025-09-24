@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999022227",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        A l'article 72, § 1er, de l'arrêté royal du 3 juillet 1996 portant exécution de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, les mots \" à l'article 7, § 1er, A, B, Ea et Eb \" sont remplacés par les mots \" à l'article 7, § 1er, rubriques I et II du 1°, 2°, 3° et 4° \".\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.280Z",
+  "tokenUsage": {
+    "prompt": 1640,
+    "completion": 198,
+    "total": 1838
+  }
+}

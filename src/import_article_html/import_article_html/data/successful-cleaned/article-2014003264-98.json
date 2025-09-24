@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003264",
+  "articleNumber": "98",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-98\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 98</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 44, § 3, du Code de la taxe sur la valeur ajoutée, le</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">est remplacé comme suit :</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">la gestion des organismes de placement collectif visés par la loi du 3 août 2012 relative à certaines formes de gestion collective de portefeuilles d'investissement, des sociétés immobilières réglementées publiques ou institutionnelles visées à l'article 2, </span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\">\n              <span class=\"provision-text\"></span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"2°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"3°\">\n              <span class=\"provision-text\">de la loi du 12 mai 2014 relative aux sociétés immobilières réglementées, et des organismes de financement de pensions visés à l'article 8 de la loi du 27 octobre 2006 relative au contrôle des institutions de retraite professionnelle;</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.064Z",
+  "tokenUsage": {
+    "prompt": 1833,
+    "completion": 410,
+    "total": 2243
+  }
+}

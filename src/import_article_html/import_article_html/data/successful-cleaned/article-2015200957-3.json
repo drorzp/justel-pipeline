@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015200957",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'employeur qui bénéficiait déjà, avant l'entrée en vigueur du présent arrêté, d'une réduction telle que visée à l'article 16, § 1er, 1°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, de l'arrêté royal précité, peut bénéficier des nouveaux montants de réduction pour le nombre restant de trimestres auxquels il a encore droit.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.189Z",
+  "tokenUsage": {
+    "prompt": 1563,
+    "completion": 212,
+    "total": 1775
+  }
+}

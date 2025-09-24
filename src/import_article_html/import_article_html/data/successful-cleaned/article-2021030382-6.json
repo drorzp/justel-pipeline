@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021030382",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Un financement unique et exceptionnel de 2.578.925 euros est alloué en 2021 aux universités, en complément du montant obtenu en application des alinéas 1er et 4 de l'article 36quater de la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires, en vue de promouvoir les initiatives et les aides à la réussite visées à l'article 148, alinéa 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\"></span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\"></span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\"></span></li>\n      </ol>\n      <p>du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.126Z",
+  "tokenUsage": {
+    "prompt": 1732,
+    "completion": 322,
+    "total": 2054
+  }
+}

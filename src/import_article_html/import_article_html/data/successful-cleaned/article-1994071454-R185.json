@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071454",
+  "articleNumber": "R185",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R185\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article R185</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Loi du 9 août 1963, article 117, remplacé par la loi du 15 février 1993, article 77, les références \"des articles 79,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">et 89\", \"article 8,</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">3°\", \"article 80\" et \"article 94\" sont remplacées par les références \"des articles 141, § 1er, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">et 155\", \"article 12,</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°\", \"article 146\" et \"article 162\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.950Z",
+  "tokenUsage": {
+    "prompt": 1684,
+    "completion": 304,
+    "total": 1988
+  }
+}

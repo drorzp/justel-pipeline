@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003031265",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 1, 5°, 7° et 9°, la date du &quot; 19 juillet 2001 &quot; est remplacée par la date du &quot; 26 septembre 2002 &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.622Z",
+  "tokenUsage": {
+    "prompt": 1445,
+    "completion": 131,
+    "total": 1576
+  }
+}

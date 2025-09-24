@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004825",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le médecin-responsable médical, le médecin de garde et/ou l'infirmier CPVS peuvent intervenir, au sein de la structure CPVS, en une double qualité auprès de la victime quand ils:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">fournissent des soins de santé au sein de la structure CPVS</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et ont été requis par une autorité judiciaire pour effectuer l'examen médico-légal décrit dans la présente loi et faire rapport à l'autorité judiciaire conformément à leurs pouvoirs légaux.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Ils communiquent à la victime toutes les informations nécessaires dans le cadre de la double qualité visée à l'alinéa 1er.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.422Z",
+  "tokenUsage": {
+    "prompt": 1657,
+    "completion": 289,
+    "total": 1946
+  }
+}

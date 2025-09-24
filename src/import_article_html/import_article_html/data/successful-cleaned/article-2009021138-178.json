@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009021138",
+  "articleNumber": "178",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-178\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 178</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2, alinéa unique, de la loi du 16 janvier 2003 portant création d'une Banque-Carrefour des Entreprises, modernisation du registre de commerce, création de guichets-entreprises agréés et portant diverses dispositions, les 3°, 4° et 5° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">\" entreprise \" : toute entité tenue de se faire inscrire dans la Banque-Carrefour des Entreprises;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">\" entreprise commerciale \" : toute personne physique ou morale, qui a une unité d'établissement en Belgique et y exerce des actes qualifiés commerciaux comme décrits au Code de commerce et qui est ainsi présumée avoir la qualité de \" commerçant \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">\" entreprise artisanale \" : l'entreprise créée par une personne privée, qui a une unité d'établissement en Belgique et y exerce habituellement, en vertu d'un contrat de prestation de services, principalement des actes matériels, ne s'accompagnant d'aucune livraison de biens, ou seulement à titre occasionnel et qui est ainsi présumée avoir la qualité d'\" artisan \"; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.942Z",
+  "tokenUsage": {
+    "prompt": 1912,
+    "completion": 407,
+    "total": 2319
+  }
+}

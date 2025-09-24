@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004036227",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les délégations spécifiques suivantes sont conférées au chef de l'agence :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">le chef de l'agence est autorisé à désigner les huissiers de justice chargés du recouvrement forcé des impôts flamands et des créances non fiscales, au moyen de la signification d'une contrainte, ainsi qu'à fixer les conditions de leur désignation;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">la conclusion d'accords de coopération avec des partenaires externes dans le cadre des tâches de l'agence jusqu'à un montant maximum de 2,4 millions d'euros, notamment pour ce qui est de l'inventarisation des données sur les impôts ou les redevances et pour ce qui est de la perception et du recouvrement des dettes d'impôt ou de redevance.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les délégations pour des matières visées à <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-01-20/15\" data-law-type=\"AGF\" data-article-number=\"1\">l'article 17, alinéa 1er, 2° et 3°, de l' arrêté du Gouvernement flamand du 30 octobre 2015 réglant la délégation de compétences de décision aux chefs des départements et des agences autonomisées internes</span>, portent pour ce qui concerne l'AAI 'Vlaamse Belastingdienst' notamment sur les tâches mentionnées à l'article 3 du présent arrêté de création.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.842Z",
+  "tokenUsage": {
+    "prompt": 2160,
+    "completion": 543,
+    "total": 2703
+  }
+}

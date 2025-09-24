@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040370",
+  "articleNumber": "57",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-57\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 57</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">En cas d'absence temporaire d'un membre du personnel du Service général de l'Inspection ou de vacance d'un emploi d'inspecteur pour lequel il n'est pas possible de désigner un stagiaire, le Gouvernement peut procéder à une désignation à titre provisoire dans un emploi d'une fonction d'inspecteur visée à l'article 32, alinéa 2, 1° et 2°.</p>\n            <p class=\"closing-text\">Dans ce cas, sauf disposition contraire, pour les besoins de l'exercice de ses fonctions, le membre du personnel désigné à titre provisoire est assimilé à un membre du personnel nommé ou engagé à titre définitif dans la fonction d'inspecteur. Quelle que soit la date à partir de laquelle le membre du personnel est désigné en vertu de l'alinéa 1er, sa désignation à titre temporaire prend fin au plus tard le 31 août. La désignation visée à l'alinéa 1er peut être renouvelée deux fois au maximum dans le respect des dispositions de la présente section. La durée totale de la désignation à titre provisoire ne peut excéder trois années scolaires consécutives.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.443Z",
+  "tokenUsage": {
+    "prompt": 1884,
+    "completion": 333,
+    "total": 2217
+  }
+}

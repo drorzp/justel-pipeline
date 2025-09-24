@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035504",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-07-06/05\" data-law-type=\"DCFL\" data-article-number=\"13\">\n        <p>L'article 28 du même décret est remplacé par ce qui suit :</p>\n        <p>\" Art. 28. Les villes et communes ont le rôle régisseur concernant la politique d'intégration sur leur territoire. Cela signifie qu'au sein des limites du principe de subsidiarité, elles assurent l'élaboration, la coordination et l'harmonisation de la politique locale d'intégration inclusive. Elles coordonnent les acteurs pertinents dans la propre ville ou commune et impliquent les personnes visées à l'article 3, alinéa premier, 1° et 2°, et leurs organisations à cette politique.</p>\n        <p>Le Gouvernement flamand précise le contenu du rôle régisseur des villes et communes.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.093Z",
+  "tokenUsage": {
+    "prompt": 1827,
+    "completion": 279,
+    "total": 2106
+  }
+}

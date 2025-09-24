@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003350",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 57 du même arrêté, remplacé par l'arrêté royal du 20 janvier 2014, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la phrase liminaire est remplacée par ce qui suit : \" Il ne peut être mis fin unilatéralement au contrat de travail de l'employé admis à titre définitif que : \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le 2° est remplacé par ce qui suit : \" 2° en exécution de l'article 34 de l'arrêté royal du 24 septembre 2013 relatif à l'évaluation dans le secteur public; \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le 3° est remplacé par ce qui suit : \" 3° si l'employé ne remplit plus les conditions mentionnées à l'article 16, § 1er, 2°, 3° et 5°, de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat; \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'alinéa 2 est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.317Z",
+  "tokenUsage": {
+    "prompt": 1906,
+    "completion": 416,
+    "total": 2322
+  }
+}

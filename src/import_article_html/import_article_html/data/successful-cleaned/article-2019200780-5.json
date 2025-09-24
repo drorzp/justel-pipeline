@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019200780",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le plan d'expropriation visé à l'article 7, § 1er, 2°, du décret du 22 novembre 2018, la description indicative des actes et travaux à réaliser et le tracé des voiries qui seraient désaffectées ainsi que les éventuelles mesures de compensation envisagées suite à la désaffectation des voiries, visés à l'article 7, § 2, 1° et 4°, du décret du 22 novembre 2018, sont établis à l'échelle de 1/500ème ou de 1/200ème.</p>\n        <p>Si ces échelles sont inadaptées, des documents établis à une autre échelle peuvent être produits à condition que l'expropriant y soit autorisé par l'administration.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.418Z",
+  "tokenUsage": {
+    "prompt": 1683,
+    "completion": 278,
+    "total": 1961
+  }
+}

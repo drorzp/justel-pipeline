@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030772",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 5.176 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 18 décembre 2020, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le premier alinéa il est inséré un point 1° /1 ainsi rédigé : \" 1° /1 locataire : les particuliers qui ont signé le contrat de location et le partenaire avec lequel ils cohabitent légalement ou avec lequel ils sont mariés et qui occupe également le logement \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le premier alinéa, 2°, 3° /1, 5° et 7° le mot \" candidat- \" est chaque fois abrogé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le premier alinéa le point 3° est remplacé par ce qui suit : \" 3° registre d'inscription : le registre d'inscription central ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le premier alinéa le point 4° est remplacé par ce qui suit : \" 4° candidat locataire : le candidat locataire, visé à l'article 6.1, premier alinéa, 1° /1 du Code flamand du Logement de 2021 ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">dans les troisième et quatrième alinéas le mot \" candidat- \" est chaque fois abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.842Z",
+  "tokenUsage": {
+    "prompt": 2061,
+    "completion": 508,
+    "total": 2569
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023043354",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les mentions visées à l'article 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">et à l'article 4 sont établies en français, en néerlandais et en allemand.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.766Z",
+  "tokenUsage": {
+    "prompt": 1492,
+    "completion": 181,
+    "total": 1673
+  }
+}

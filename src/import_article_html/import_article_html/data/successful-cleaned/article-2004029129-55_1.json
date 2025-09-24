@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004029129",
+  "articleNumber": "55/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-55/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 55/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-06-12/07\" data-law-type=\"DCFR\" data-article-number=\"44\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019061207\">\n        <p class=\"intro-text\">Les collaborations autorisées, à la date d'entrée en vigueur du présent décret, avec un pays non signataire de la Convention de La Haye ou de la Convention concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants, faite à La Haye le 19 octobre 1996 :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">doivent être soumises aux modalités visées à l'article 18, § 2, dans un délai de deux ans à dater de l'entrée en vigueur du présent décret</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">doivent faire l'objet d'un accord bilatéral de coopération, tel que visé à l'article 18, § 1er, 2°, dans un délai de cinq ans à dater de l'entrée en vigueur du présent décret ; si aucun accord bilatéral n'a pu être signé dans ce délai, seules les procédures ayant déjà fait l'objet d'une décision d'apparentement, conformément à l'article 35, § 3, 6° et 7°, peuvent se poursuivre.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.785Z",
+  "tokenUsage": {
+    "prompt": 2036,
+    "completion": 465,
+    "total": 2501
+  }
+}

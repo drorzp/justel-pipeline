@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010024147",
+  "articleNumber": "61",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-61\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 61</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les membres du conseil d'administration de la société mutualiste qui est transformée sont tenus solidairement envers les intéressés, malgré toute stipulation contraire :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">du paiement de la différence éventuelle entre l'actif net de la nouvelle société et le capital social minimal prescrit par le Code des sociétés pour la société concernée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de la surévaluation de l'actif net apparaissant à l'état prévu à l'article 57, § 1er;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de la réparation du préjudice qui est une suite immédiate et directe soit de la nullité de l'opération de transformation en raison de la violation des règles prévues aux articles 403, 2° à 4° et 454, 2° à 4° du Code des sociétés, appliquées par analogie, ou 59, § 1er, de la présente loi, soit de l'absence ou de la fausseté des énonciations prescrites par l'article 453, alinéa 1er, à l'exception des 6°, et 9° à 12° du même Code, ou 59, § 1er, de la présente loi.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.250Z",
+  "tokenUsage": {
+    "prompt": 2128,
+    "completion": 426,
+    "total": 2554
+  }
+}

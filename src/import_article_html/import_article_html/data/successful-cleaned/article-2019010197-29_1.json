@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019010197",
+  "articleNumber": "29/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29/1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 29/1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-11-23/09\" data-law-type=\"ORD\" data-article-number=\"25\">\n                Toute personne qui, au 1er janvier 2024, habite sur le territoire de la région bilingue de Bruxelles-Capitale et est admise en tant que personne handicapée par la direction d'administration de l'aide aux personnes handicapées, au sein des services du Collège de la Commission communautaire française, dénommée \" Service Personne Handicapée Autonomie Recherchée \", ou est inscrite à la \" Vlaams Agentschap pour Personen met un Handicap \" est assimilée, pour l'octroi des aides individuelles, à un assuré bruxellois au sens de l'article 2, 6°, d), et est réputée remplir les conditions visées à l'article 3/1, § 2, 1° et 2°.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.446Z",
+  "tokenUsage": {
+    "prompt": 1876,
+    "completion": 289,
+    "total": 2165
+  }
+}

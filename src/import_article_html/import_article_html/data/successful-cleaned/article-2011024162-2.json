@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011024162",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le montant de la contribution sera versé au compte suivant :</p>\n                <p>National Westminster Bank PLC<br>\n                Law Courts, Temple Bar Branch<br>\n                PO Box 10720<br>\n                217 Strand<br>\n                London WC2R 1AL</p>\n                <p>N° de code de la Banque : 60-80-08<br>\n                N° et dénomination du compte : 01626183<br>\n                Bonn Agreement<br>\n                IBAN : GB75NWBK60800801626183<br>\n                Swift : NWBKGB2L</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.204Z",
+  "tokenUsage": {
+    "prompt": 1577,
+    "completion": 238,
+    "total": 1815
+  }
+}

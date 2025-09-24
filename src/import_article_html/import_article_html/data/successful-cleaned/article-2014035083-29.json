@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035083",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 29</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er janvier 2014, à l'exception de l'article 1er, 2° et 3°, l'article 5, l'article 13, 6° et l'article 14, 2°, qui entrent en vigueur le 1er janvier 2015.</p>\n      <p class=\"closing-text\">L'article 23 s'applique aux dossiers pour lesquels l'autorisation urbanistique a été demandée avant le 1er janvier 2014 et pour lesquels la demande PEB doit encore être introduite à la date de l'entrée en vigueur u présent arrêté.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.328Z",
+  "tokenUsage": {
+    "prompt": 1613,
+    "completion": 216,
+    "total": 1829
+  }
+}

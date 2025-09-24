@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020015123",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 59</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 2.2.4.0.4, alinéa 2, du même décret, le membre de phrase &quot; et 11° &quot; est remplacé par le membre de phrase &quot; ,11° et 15° &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.269Z",
+  "tokenUsage": {
+    "prompt": 1465,
+    "completion": 140,
+    "total": 1605
+  }
+}

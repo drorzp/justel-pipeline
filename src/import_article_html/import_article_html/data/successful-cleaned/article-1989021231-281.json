@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1989021231",
+  "articleNumber": "281",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-281\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 281</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En ce qui concerne les communes et les centres publics d'aide sociale qui, en matière de régime de pension, sont affiliés à l'Office national de sécurité sociale des administrations provinciales et locales :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">la charge des pensions de retraite visées à l'article 279 est jusqu'au dernier jour du mois durant lequel l'agent retraité atteint l'âge de 60 ans supportée exclusivement par la commune ou le centre public d'aide sociale. Après cette date, la part de pension résultant de l'application de l'article 279, § 2, 2°, reste à charge de la commune ou du centre public d'aide sociale;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">la part de pension de survie résultant de l'application des articles 279, § 2, 2° et 280 est supportée exclusivement par la commune ou le centre public d'aide sociale.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Roi détermine les modalités d'application du § 1er.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.724Z",
+  "tokenUsage": {
+    "prompt": 1891,
+    "completion": 425,
+    "total": 2316
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012029465",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Le secrétariat de la fédération accuse réception du dossier envoyé par le demandeur dans le mois de l'introduction de la demande et sollicite, le cas échéant, la transmission de pièces manquantes.</p>\n          <p>La fédération délivre la licence provisoire, dans le mois qui suit la transmission de l'accusé de réception du dossier complet sauf dans le cas où le demandeur ne répond pas aux conditions prévues à l'article 11, § 3:</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">2°</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3°</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">4°</span>\n            </li>\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">5°</span>\n            </li>\n          </ol>\n          <p>de la loi sur les armes et aux conditions de délivrance prévues par ou en vertu du décret.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.266Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 391,
+    "total": 2061
+  }
+}

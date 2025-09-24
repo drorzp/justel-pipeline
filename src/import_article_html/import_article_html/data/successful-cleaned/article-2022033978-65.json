@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022033978",
+  "articleNumber": "65",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-65\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 65</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la même loi, il est inséré un article 37/1, rédigé comme suit:</p>\n      <p class=\"intro-text\">\"Art. 37/1. Par dérogation aux articles 35, alinéa 7, et 37, alinéa 4, les mandats des membres visés à l'article 35, alinéa 1er, 1° et 2°, sont exercés à titre gratuit, même si ceux-ci sont élus comme président.\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.818Z",
+  "tokenUsage": {
+    "prompt": 1612,
+    "completion": 193,
+    "total": 1805
+  }
+}

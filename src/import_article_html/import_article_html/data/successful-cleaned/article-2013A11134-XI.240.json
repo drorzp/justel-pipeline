@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A11134",
+  "articleNumber": "XI.240",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-XI-240\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article XI.240</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-12-22/03\" data-law-type=\"L\" data-article-number=\"32\">Les auteurs et les éditeurs d'oeuvres ont droit à une rémunération en raison de la reproduction et de la communication de celles-ci dans les conditions fixées à <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2024-02-09/19\" data-law-type=\"L\" data-article-number=\"40\">l'article XI.191/1, § 1er, 3°, 4°, 6° et 8°</span>. Les auteurs de bases de données ont droit à une rémunération en raison de la reproduction et de la communication de celles-ci dans les conditions fixées à l'article XI.191/2, § 1er. Les artistes-interprètes ou exécutants, les producteurs de phonogrammes et les producteurs de premières fixations de films ont droit à une rémunération en raison de la reproduction et de la communication de leurs prestations dans les conditions fixées à <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2024-02-09/19\" data-law-type=\"L\" data-article-number=\"40\">l'article XI.217/1, 3°, 4°, 5° et 7°</span>.</span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.110Z",
+  "tokenUsage": {
+    "prompt": 2110,
+    "completion": 397,
+    "total": 2507
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000A09814",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un article 21bis, rédigé comme suit, est inséré dans la convention :</p>\n      <p>&quot; Art. 21bis. Au moins cinq jours ouvrables avant le début de l&apos;activité d&apos;un établissement horeca, d&apos;un dancing-discothèque ou d&apos;une terrasse temporaire ou avant la ou les journée(s) d&apos;ouverture occasionnelle, l&apos;exploitant est tenu de fournir par exploitation au moins les informations suivantes et, ce au moyen d&apos;un formulaire prévu à cet effet :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les informations prévues à l&apos;article 21, 1°, 2°, 3°, 5°, 6° et 7°;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le nom et l&apos;adresse de l&apos;exploitant et/ou de l&apos;organisateur;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le lieu où l&apos;établissement temporaire ou la terrasse temporaire est exploité, ou le lieu de la ou des journée(s) d&apos;ouverture occasionnelle;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">la date et le nombre de jours durant lesquels l&apos;établissement temporaire ou la terrasse temporaire est exploité ou le nombre de jours d&apos;ouverture occasionnelle;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">la nature de l&apos;établissement temporaire ou de la terrasse temporaire ou de l&apos;activité organisée durant le ou les jours d&apos;ouverture occasionnelle : établissement horeca temporaire, discothèque-dancing temporaire, établissement mixte temporaire et/ou terrasse temporaire.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.199Z",
+  "tokenUsage": {
+    "prompt": 2072,
+    "completion": 528,
+    "total": 2600
+  }
+}

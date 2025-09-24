@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007035392",
+  "articleNumber": "45",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-45\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 45</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 6 février 1991 fixant le règlement flamand relatif à l'autorisation écologique (VLAREM I), modifié par l'arrêté du Gouvernement flamand du 3 juin 2005, sont ajoutés les points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"43°\">\n          <span class=\"provision-text\">véhicule : moyen de transport motorisé, à l'exception des navires</span>\n        </li>\n        <li class=\"provision\" data-number=\"44°\">\n          <span class=\"provision-text\">véhicule hors d'usage : un véhicule qui est un déchet dans le sens de l'article 2 du décret du 2 juillet 1981 relatif à la prévention et à la gestion des déchets.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.119Z",
+  "tokenUsage": {
+    "prompt": 1765,
+    "completion": 280,
+    "total": 2045
+  }
+}

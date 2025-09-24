@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1964011703",
+  "articleNumber": "45",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-45\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 45</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          <p>La commission provinciale des indemnités de milice se compose de trois membres :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">un magistrat effectif, suppléant ou honoraire d'un tribunal de première instance d'un arrondissement judiciaire de la province qui préside, de droit, la commission;</span></li>\n            <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un commissaire d'arrondissement;</span></li>\n            <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">un inspecteur des contributions.</span></li>\n          </ol>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          <p>Les personnes visées aux 2° et 3° doivent être choisies parmi les fonctionnaires en fonction dans la province.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          <p>Il est nommé un ou plusieurs suppléants de chaque membre.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          <p>Le président et ses suppléants sont nommés par le Roi sur la proposition du Ministre de la Justice, le commissaire d'arrondissement et ses suppléants sont désignés par le Ministre de l'Intérieur et l'inspecteur des contributions et ses suppléants par le Ministre des Finances.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.527Z",
+  "tokenUsage": {
+    "prompt": 1903,
+    "completion": 448,
+    "total": 2351
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019203818",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 35</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La commission de recours est composée :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">de quatre membres proposés par les organisations syndicales représentatives pour le BRF; s'il échet, les mandats sont répartis de commun accord;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de quatre membres proposés par le conseil d'administration parmi le personnel statutaire du BRF, à l'exclusion des membres du conseil de direction;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">du directeur ou d'un représentant désigné par lui, qui assure la présidence.</span>\n                </li>\n            </ol>\n            <p>Si les organisations syndicales ne parviennent pas à un accord sur la répartition des mandats, c'est le président de la commission de recours qui décide.</p>\n            <p>Les membres mentionnés à l'alinéa 1er, 1° et 2°, sont désignés par le Gouvernement.</p>\n            <p>Le stagiaire et un membre du conseil de direction délégué par ce conseil doivent être entendus par la commission de recours. Le membre délégué par le conseil de direction ne peut pas en même temps présider la commission de recours. Le stagiaire peut se faire assister par la personne de son choix.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.230Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 415,
+    "total": 2312
+  }
+}

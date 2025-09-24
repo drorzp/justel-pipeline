@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022243",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Il est mis fin à l'application de l'arrêté royal du 30 décembre 1996 portant des mesures temporaires et conservatoires en matière de maîtrise des dépenses de soins de santé, pour certaines interventions forfaitaires, en application de l'article 3, § 1er, 1° et 4° de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne pour :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les prestations visées à l'article 34, 11°, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, en ce qui concerne les maisons de soins psychiatriques;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les prestations visées à l'article 34, 18°, de la loi précitée.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.968Z",
+  "tokenUsage": {
+    "prompt": 1768,
+    "completion": 323,
+    "total": 2091
+  }
+}

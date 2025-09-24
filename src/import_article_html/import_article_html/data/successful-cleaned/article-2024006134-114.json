@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006134",
+  "articleNumber": "114",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-114\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 114</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les articles 7.4.1 à 7.4.4 de l'arrêté relatif à l'énergie du 19 novembre 2010, tels que modifiés par les articles 54, 55,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">57 et 58 du présent arrêté, s'appliquent pour la première fois aux projets pour lesquels la demande d'aide a été introduite après la date d'entrée en vigueur des articles 54, 55,</span></li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">57 et 58 du présent arrêté.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.564Z",
+  "tokenUsage": {
+    "prompt": 1694,
+    "completion": 309,
+    "total": 2003
+  }
+}

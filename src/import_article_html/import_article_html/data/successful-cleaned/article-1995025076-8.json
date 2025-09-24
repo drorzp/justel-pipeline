@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995025076",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le service de cathétérisme cardiaque pour examen invasif qui satisfait à toutes les dispositions de la présente section peut éventuellement se situer au sein d'un hôpital général (qui dispose d'un service de cardiologie et des services visés à l'article 2, 3° et 4°) mais qui ne dispose pas d'un centre cardiaque à part entière. Le cas échéant une convention de collaboration écrite doit être conclue avec un service de diagnostic et de traitement cardiaque agréé, et ce en vue d'une assistance urgente à partir du service de diagnostic et de traitement cardiaque. Pour l'agrément du centre cardiaque l'équipement ainsi que l'encadrement en personnel médical et autre du service isolé de cathétérisme cardiaque pour examen invasif ne peuvent en aucun cas être pris en compte pas plus que l'activité effectuée dans le service de cathétérisme cardiaque concerné.<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1995-05-19/46\" data-law-type=\"AR\" data-article-number=\"1\">&lt;AR 1995-05-19/46, art. 1, 002; En vigueur : 30-06-1995&gt;</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.996Z",
+  "tokenUsage": {
+    "prompt": 1859,
+    "completion": 344,
+    "total": 2203
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071451",
+  "articleNumber": "35septies/13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35septies/13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35septies/13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-11-20/02\" data-law-type=\"L\" data-article-number=\"9\">\n        <p>Pour les finalités visées à l'article 35septies/8, alinéa 1er, 1° et 2°, le délai de conservation des données est fixé par le ministre compte tenu de la nature des données sans pouvoir excéder dix ans.</p>\n        <p>Pour les finalités visées dans l'article 35septies/8, alinéa 1er, 3° et 4°, la conservation des données enregistrées pseudonymisées est assurée, sauf obligation découlant d'une autre disposition légale ou réglementaire, durant la période pendant laquelle le remboursement de la prestation est lié à l'enregistrement et à la collecte des données, majorée de cinq années supplémentaires.</p>\n        <p>Au-delà du délai de conservation visé aux alinéas 1er et 2, les données sont conservées sous une forme anonyme.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.123Z",
+  "tokenUsage": {
+    "prompt": 1849,
+    "completion": 322,
+    "total": 2171
+  }
+}

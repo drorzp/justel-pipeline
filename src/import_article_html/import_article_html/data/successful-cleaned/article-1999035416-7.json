@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035416",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 8, § 1er du même décret sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 3° est remplacé par ce qui suit :<br>\" 3° les recettes concernant des terrains ou immeubles dont l'entretien incombant au propriétaire fut confié au Fonds, ainsi que le produit de la vente de ces terrains ou immeubles; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté un 7° et un 8° libellés comme suit :<br>\" 7° toutes recettes provenant de publications et de services prestes par le Fonds à des tiers moyennant paiement;<br>8° recettes variables.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.187Z",
+  "tokenUsage": {
+    "prompt": 1688,
+    "completion": 284,
+    "total": 1972
+  }
+}

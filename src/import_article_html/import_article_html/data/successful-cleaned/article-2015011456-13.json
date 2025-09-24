@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015011456",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les stagiaires qui ont obtenu au moins soixante pour cent des points à l'épreuve orale ont réussi pour l'obtention du titre professionnel de comptable agréé.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2</h3>\n      <div class=\"paragraph-content\">\n        <p>Les stagiaires qui, en outre, ont obtenu au moins soixante pour cent des points lors de la dernière épreuve orale dans les matières visées à l'article 4, 6°, 7°, 8°, 9° et 11°, ont réussi pour l'obtention du titre de comptable-fiscaliste agréé.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.171Z",
+  "tokenUsage": {
+    "prompt": 1659,
+    "completion": 271,
+    "total": 1930
+  }
+}

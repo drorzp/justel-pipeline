@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007200551",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 4, § 2, les termes \"dont 1 de rang A4 et 3 de rang A6\" sont supprimés.</p>\n    <p>Le § 3 est remplacé par les dispositions suivantes :</p>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Peuvent postuler aux emplois visés au § 2 :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">les agents des services du Gouvernement wallon ou des organismes d'intérêt public soumis au décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">les membres du personnel contractuel des services du Gouvernement wallon ou des organismes d'intérêt public soumis au décret du 22 janvier 1998 précité, qui bénéficient d'un contrat à durée indéterminée.</span>\n          </li>\n        </ol>\n        <p>A défaut de candidatures ou de candidatures valables parmi les personnes visées aux 1° et 2°, il peut-être fait appel à du personnel recruté contractuellement à l'extérieur.</p>\n        <p>Les membres du personnel de la Cellule de développement territorial visés au § 2 sont soumis à une période d'essai de six mois.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les membres du personnel de la Cellule de développement territorial visés au § 2 sont désignés par le Gouvernement wallon, sur proposition de la commission visée au § 1er, élargie au fonctionnaire dirigeant \".</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.982Z",
+  "tokenUsage": {
+    "prompt": 2071,
+    "completion": 525,
+    "total": 2596
+  }
+}

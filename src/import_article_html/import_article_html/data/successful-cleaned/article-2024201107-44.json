@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024201107",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 44</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article L4124-2 du même Code, les mots \", en respectant les modalités prévues à l'article L4122-8, § 1er, 1° et 2° \" sont abrogés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.698Z",
+  "tokenUsage": {
+    "prompt": 1528,
+    "completion": 133,
+    "total": 1661
+  }
+}

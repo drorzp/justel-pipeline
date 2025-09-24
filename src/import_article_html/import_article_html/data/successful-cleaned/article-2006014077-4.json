@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006014077",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les articles 7, 3e alinéa, 21, 3°, 23, 1°, 28, § 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et 35,</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de l'arrêté royal du 4 avril 1996 relatif à l'enregistrement des navires et l'entrée en vigueur de la loi du 21 décembre 1990 relative à l'enregistrement des navires, les mots &quot;certifiée conforme&quot; sont supprimés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.823Z",
+  "tokenUsage": {
+    "prompt": 1623,
+    "completion": 252,
+    "total": 1875
+  }
+}

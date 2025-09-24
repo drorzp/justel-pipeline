@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001319",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 58 du même arrêté, est complété par les 26° et 27° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"26°\">\n                    <span class=\"provision-text\">les frais de camps, d'activités sportives culturelles ou autres, des services non résidentiels ne bénéficiant pas de ce type de subventions pour frais individuels ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"27°\">\n                    <span class=\"provision-text\">les charges d'amortissement ainsi que les intérêts relatifs aux vélos ou autres matériels roulant non motorisés achetés en leasing.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">L'utilisation privée du vélo ou d'un autre matériel roulant non motorisé par le travailleur doit faire l'objet d'un avantage en nature mentionné sur sa fiche de salaire.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.519Z",
+  "tokenUsage": {
+    "prompt": 1699,
+    "completion": 291,
+    "total": 1990
+  }
+}

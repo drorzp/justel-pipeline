@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023046742",
+  "articleNumber": "95",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-95\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 95</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 73, alinéa 1er, du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans les points 1° et 2°, le membre de phrase \" ou dans une subdivision structurelle Se-n-Se qui spécialise professionnellement \" est chaque fois remplacé par le membre de phrase \" , à l'exception d'une subdivision structurelle de démarrage, ou dans une 7e année d'études préparatoires à l'entrée sur le marché du travail \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le point 3°, les mots \" subdivision structurelle Se-n-Se qui spécialise professionnellement \" sont remplacés par le membre de phrase \" 7e année d'études préparatoires à l'entrée sur le marché du travail \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.478Z",
+  "tokenUsage": {
+    "prompt": 1736,
+    "completion": 307,
+    "total": 2043
+  }
+}

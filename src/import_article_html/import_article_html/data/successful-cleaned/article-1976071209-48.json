@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1976071209",
+  "articleNumber": "48",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-48\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 48</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les plans et tableaux prévus aux articles 35, 39 et 47, 1°, 2° et 3°, sont soumis à enquête publique pendant trente jours dans la commune où le comité a fixé son siège.</p>\n      <p>Le dépôt de ces documents est annoncé par voie d'affichage dans toutes les communes concernées par le remembrement simplifié.</p>\n      <p>Les propriétaires, usufruitiers et exploitants mentionnés aux tableaux sont avisés de ce dépôt par lettre recommandée à la poste par les soins du comité.</p>\n      <p>L'avis mentionne les jour, heures et endroit où les observations et réclamations des intéressés peuvent être reçues par le président du comité ou son délégué.</p>\n      <p>Le président et le secrétaire du comité ouvrent le procès-verbal destiné à recueillir les déclarations des intéressés, qui les contresignent. Les observations et réclamation écrites reçues au cours de l'enquête sont mentionnées au procès-verbal et y demeurent annexées.</p>\n      <p>A l'expiration du délai de trente jours qui prend cours le lendemain du jour de l'expédition des notifications visées à l'article 13, alinéa trois, le procès-verbal est clos par le président et le secrétaire du comité.</p>\n      <p>Après clôture de l'enquête, le comité examine les observations et réclamations qu'elle a suscitées et statue à leur sujet.</p>\n      <p>Le comité arrête les plans et tableaux prévus aux articles 35, 39 et 47, 1°, 2° et 3°, et les dépose à son siège, où tout intéressé est admis à en prendre connaissance pendant toute la durée des opérations, sur demande faite au président ou au secrétaire.</p>\n      <p>L'avis du dépôt est notifié aux propriétaires, usufruitiers et exploitants intéressés par lettre recommandée à la poste.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.618Z",
+  "tokenUsage": {
+    "prompt": 2255,
+    "completion": 498,
+    "total": 2753
+  }
+}

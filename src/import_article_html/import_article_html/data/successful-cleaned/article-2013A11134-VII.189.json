@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A11134",
+  "articleNumber": "VII.189",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-VII-189\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article VII.189</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-19/39\" data-law-type=\"L\" data-article-number=\"3\">Sauf s'il prouve que le payeur a agi frauduleusement, le prestataire de services de paiement reste responsable à l'égard de l'utilisateur de services de paiement, de toutes les conséquences résultant de l'usage d'un instrument de paiement par un tiers non autorisé en cas de non-respect par le prestataire de services de paiement des obligations qu'il a en vertu des <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2023-11-05/07\" data-law-type=\"L\" data-article-number=\"22\">articles VII.22, 5°, a) et d), et VII.39, 1° et 3°</span>.</span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.110Z",
+  "tokenUsage": {
+    "prompt": 1871,
+    "completion": 290,
+    "total": 2161
+  }
+}

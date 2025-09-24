@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009024223",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un protocole informatique est conclu entre, d'une part, la direction de l'hôpital, le médecin en chef, le pharmacien titulaire ou le pharmacien en chef et le responsable du système informatique et, d'autre part, chaque médecin et praticien de l'art dentaire prescripteur.\n        Le protocole informatique comprend :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la procédure permettant au médecin ou praticien de l'art dentaire concerné d'authentifier son identité lorsqu'il rédige la prescription;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la procédure dont l'application permet au document électronique visé à l'article 1er de répondre aux conditions visées à l'article 1er, § 1er, 2° et 3°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.943Z",
+  "tokenUsage": {
+    "prompt": 1718,
+    "completion": 297,
+    "total": 2015
+  }
+}

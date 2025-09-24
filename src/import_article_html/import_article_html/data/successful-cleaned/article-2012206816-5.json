@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012206816",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un centre communautaire doit disposer de l'infrastructure suivante en vue de la participation culturelle, de la création de communautés et de la diffusion de la culture :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">une salle polyvalente d'au moins 200 m2 ou un théâtre ayant au moins 250 places fixes ou à ancrer et en plus une salle polyvalente d'au moins 100 m2, dans laquelle des activités autres que des activités théâtrales peuvent avoir lieu;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">une salle d'exposition ayant une superficie totale d'au moins 100 m2;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">trois locaux à usage culturel.</span>\n                </li>\n            </ol>\n            <p>A condition que la commune puisse motiver de façon approfondie comment elle pourra combler les besoins de la population locale à l'aide de son infrastructure culturelle, il peut être dérogé pour au maximum 20 % au nombre requis de mètres carrés, visé à l'alinéa premier, 1° et 2°, lorsque la superficie totale s'élève à au moins 300 m2.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.077Z",
+  "tokenUsage": {
+    "prompt": 1863,
+    "completion": 385,
+    "total": 2248
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042333",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A condition qu'ils ne bénéficient pas d'avantages accordés par un Service social constitué auprès d'une autre administration, les bénéficiaires du Service social sont :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les personnes qui, à quelque titre que ce soit, font partie du personnel d'Actiris ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les membres du personnel admis à la retraite ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le conjoint, le cohabitant de fait ou légal et les enfants à charge de la personne visée sous 1° et 2° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le conjoint, le cohabitant de fait ou légal et les enfants dont la personne visée sous 1° et 2° avait la charge ainsi que les enfants posthumes ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">les cas non compris sous 1°, 2°, 3° et 4° font l'objet d'un examen individuel par le Comité.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.759Z",
+  "tokenUsage": {
+    "prompt": 1854,
+    "completion": 406,
+    "total": 2260
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010012027",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        L'introduction de la demande se fait conformément aux règles fixées en vertu de l'article 138, alinéa 1er,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de l'arrêté chômage, mais au plus tôt à partir du jour qui suit la sortie de service et au plus tard dans les 6 mois à partir du jour qui suit la date de fin de la période couverte par une rémunération ou par une indemnité de rupture.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        La demande est introduite auprès du bureau du chômage compétent de l'Office, conformément à l'article 142 de l'arrêté chômage. Ce bureau dispose notamment des compétences visées à l'article 139 de l'arrêté chômage.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.243Z",
+  "tokenUsage": {
+    "prompt": 1681,
+    "completion": 306,
+    "total": 1987
+  }
+}

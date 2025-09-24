@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018203379",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 10, § 2, du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">au 1°, 2°, 3° et 4° les mots \" du 1er juillet de l'année t-1 au 30 juin de l'année t \" sont chaque fois remplacés par les mots \" du 1er janvier de l'année t-1 au 31 décembre de l'année t-1 \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">au 4° le mot \" remplacements \" est remplacé par le mot \" entretiens \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.322Z",
+  "tokenUsage": {
+    "prompt": 1723,
+    "completion": 263,
+    "total": 1986
+  }
+}

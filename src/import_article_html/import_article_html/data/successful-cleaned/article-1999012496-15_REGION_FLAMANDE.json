@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999012496",
+  "articleNumber": "15_REGION_FLAMANDE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15_REGION_FLAMANDE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15_REGION_FLAMANDE</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les dispositions de l'article 14 ne s'appliquent pas à l'occupation :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">des personnes qui séjournent légalement en Belgique depuis au moins 2 ans;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">des personnes <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-06-01/06\" data-law-type=\"AGF\" data-article-number=\"6\">telles que mentionnées à l'article 9 alinéa premier, 4°, 9°, 10° et 20°</span>.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.231Z",
+  "tokenUsage": {
+    "prompt": 1700,
+    "completion": 277,
+    "total": 1977
+  }
+}

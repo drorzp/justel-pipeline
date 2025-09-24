@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020015256",
+  "articleNumber": "86",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-86\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 86</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la même loi il est inséré un article 90/2 rédigé comme suit:</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 90/2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Sans préjudice d'autres dispositions légales, les autorités de contrôle visées à l'article 85, §§ 1er et 2, pour l'exercice de leurs compétences déterminées par ou en vertu de la présente loi, ont accès aux informations contenues dans les documents, pièces, plans, bases de données et les données détenues par l'Administration générale de la Documentation patrimoniale du Service public fédéral Finances dans le cadre des tâches qui lui sont confiées en exécution du titre IX du Code des impôts sur les revenus de 1992. Cet accès est effectué conformément au titre 3 de l'arrêté royal du 30 juillet 2018 relatif à la constitution et la mise à jour de la documentation cadastrale et fixant les modalités pour la délivrance des extraits cadastraux et l'article 64, §§ 1er à 2, de la présente loi.</p>\n          <p>Les informations en vertu du premier alinéa permettent aux autorités de contrôle précitées d'identifier toutes les personnes physiques ou morales propriétaires d'un bien immobilier en temps utile. Les données de ces informations sont les données visées à l'article 11, alinéa 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">de l'arrêté royal précité du 30 juillet 2018.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.271Z",
+  "tokenUsage": {
+    "prompt": 1999,
+    "completion": 491,
+    "total": 2490
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002022901",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Au plus tard le premier jour ouvrable qui suit la fin de l'emploi déclaré, l'employeur communique à l'institution les données suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le numéro identifiant la déclaration d'entrée en service, visé à l'article 10, ou, si ce numéro n'existe pas, les données visées à l'article 4, a) à c) ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la date de sortie de service du travailleur.</span>\n        </li>\n      </ol>\n      <p>L'employeur, visé aux articles 4, (5bis,) <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-12-13/02\" data-law-type=\"AR\" data-article-number=\"2\">6, 7 <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2021-12-23/09\" data-law-type=\"AR\" data-article-number=\"6\">, 7/1 et 7/2</span></span>, ne fait pas cette déclaration si la date, visée en 2°, ne diffère pas de la date visée à <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-12-13/02\" data-law-type=\"AR\" data-article-number=\"2\">l'article 4, 6°, l'article 6, 2°, l'article 5bis, § 2, 2° et § 3, 1er alinéa 1°, l'article 7, 3°, <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2021-12-23/09\" data-law-type=\"AR\" data-article-number=\"6\">l'article 7/1, ou l'article 7/2</span></span>°. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2005-10-14/38\" data-law-type=\"AR\" data-article-number=\"5\">AR 2005-10-14/38, art. 5, 007; En vigueur : 01-07-2006</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.692Z",
+  "tokenUsage": {
+    "prompt": 2300,
+    "completion": 626,
+    "total": 2926
+  }
+}

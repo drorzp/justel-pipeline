@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001019156",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En vertu de l'article 23, § 1er du décret, l'Administrateur général est compétent pour la signature des conventions qui concrétisent les décisions prises par le Comité de gestion en application de l'article 12, § 1er,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"10°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"11°\">\n            <span class=\"provision-text\">du décret ou par le Bureau exécutif en application de l'article 20,</span>\n          </li>\n        </ol>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">du décret.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Il est également compétent pour engager les dépenses et conclure les conventions subordonnées aux conventions-cadre dont le principe et l'enveloppe budgétaire annuelle sont arrêtés par le Comité de gestion ou le Bureau Exécutif par groupe d'opérateurs ou par opérateur.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'Administrateur général informe l'organe compétent des conventions spécifiques conclues par lui en application du § 2, selon une périodicité trimestrielle.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.225Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 505,
+    "total": 2402
+  }
+}

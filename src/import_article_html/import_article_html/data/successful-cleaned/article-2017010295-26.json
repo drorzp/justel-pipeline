@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010295",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Outre les plafonds maximaux de frais éligibles instaurés par l'article 65 § 4, alinéa 4 de l'ordonnance et par l'article 3 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'ensemble des frais des actions de coordination et de communication visées à l'article 60, alinéa 1er, 6° de l'Ordonnance ne peuvent représenter plus de dix pourcents du montant total des subventions octroyées dans chaque programme de Politique de la Ville;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les opérations visées à l'article 60, alinéa 1er, 5° de l'ordonnance ne peuvent pas représenter plus de trente pourcents du du montant total des subventions octroyées dans chaque programme de Politique de la Ville. Le Gouvernement peut toutefois, s'il en constate l'intérêt, déroger à ce seuil, lorsque celui-ci est insuffisant pour financer l'intégralité d'une opération visée à l'article 60, alinéa 1er, 5° de l'ordonnance, qui a été déclarée éligible.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Pour le calcul du montant total visé à l'alinéa 1er, 1° et 2°, il n'est pas tenu compte des montants qui font l'objet d'autres subventionnements publics, des apports financiers privés complémentaires visés à l'article 67, § 1er, alinéa 3 de l'ordonnance.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.751Z",
+  "tokenUsage": {
+    "prompt": 2045,
+    "completion": 465,
+    "total": 2510
+  }
+}

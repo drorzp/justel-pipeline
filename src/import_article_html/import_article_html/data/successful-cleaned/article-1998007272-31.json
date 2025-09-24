@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998007272",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 31</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-03-30/11\" data-law-type=\"L\" data-article-number=\"64\">\n                <p class=\"intro-text\">Sans préjudice de l'article 30 de la présente loi, des articles 70, 416 et 417 du Code pénal et des règles de droit international applicables, les membres de l'équipe d'intervention ne peuvent faire usage d'armes à feu contre des personnes que dans les cas suivants:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">contre des personnes armées ou en direction de véhicules à bord desquels se trouvent des personnes armées, en cas de crime ou de délit flagrant au sens de l'article 41 du Code d'instruction criminelle, commis avec violences, lorsqu'il est raisonnablement permis de supposer que ces personnes disposent d'une arme à feu prête à l'emploi et qu'elles l'utiliseront contre des personnes;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">lorsqu'en cas d'absolue nécessité, les membres de l'équipe d'intervention ne peuvent défendre autrement les personnes, les infrastructures et biens confiés à leur protection.</span>\n                    </li>\n                </ol>\n                <p class=\"intro-text\">Le recours aux armes prévu aux 1° et 2° ne s'effectue que conformément aux instructions et après avertissement donné à haute voix ou par tout autre moyen disponible, à moins que cela ne rende ce recours inopérant.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.160Z",
+  "tokenUsage": {
+    "prompt": 2093,
+    "completion": 445,
+    "total": 2538
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008024258",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le même arrêté royal, il est inséré un article 6bis, rédigé comme suit:</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 6bis.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Les normes complémentaires auxquelles doit satisfaire une maison de repos et de soins pour obtenir et conserver l'agrément spécial comme centre pour lésions cérébrales acquises, sont fixées dans l'annexe 3 du présent arrêté. Pour la partie de l'établissement concernée par l'agrément spécial visé, la maison de repos et de soins doit satisfaire aux normes visées à l'annexe 1re, à l'exception des normes fixées aux points:</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"A, 1°\">\n                            <span class=\"provision-text\">1°</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">2°</span>\n                        </li>\n                    </ol>\n                    <p class=\"closing-text\">B, 1°, j), B, 2°, d), B, 3°, e) et h), (2), (c) et B, 10°, e). L'agrément spécial comme centre pour lésions cérébrales acquises est distinct de l'agrément comme maison de repos ou de l'agrément spécial comme maison de repos et de soins. Le nombre de lits agréés d'un centre pour lésions cérébrales acquises est mentionné dans l'arrêté d'agrément.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.008Z",
+  "tokenUsage": {
+    "prompt": 1896,
+    "completion": 448,
+    "total": 2344
+  }
+}

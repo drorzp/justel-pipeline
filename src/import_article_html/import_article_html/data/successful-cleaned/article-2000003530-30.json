@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000003530",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 30</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 37 de la même loi sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">le § 6, alinéa premier, est remplacé par la disposition suivante :</span>\n        <section class=\"paragraph\">\n          <h3 class=\"paragraph-marker\">§ 6.</h3>\n          <div class=\"paragraph-content\">\n            <p>Pour les prestations visées à l'article 34, 7°,8° et 9°, a), l'intervention de l'assurance soins de santé est fixée à 100 % des prix et honoraires fixés par les conventions prévues à l'article 22, 6°.</p>\n          </div>\n        </section>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">au § 11, modifié par la loi du 22 février 1998, L'alinéa 1er est remplacé par la disposition suivante :</span>\n        <section class=\"paragraph\">\n          <h3 class=\"paragraph-marker\">§ 11.</h3>\n          <div class=\"paragraph-content\">\n            <p>L'intervention de l'assurance soins de santé dans les frais de voyage visés à l'article 34, 10°, est fixée par le ministre.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.105Z",
+  "tokenUsage": {
+    "prompt": 1841,
+    "completion": 388,
+    "total": 2229
+  }
+}

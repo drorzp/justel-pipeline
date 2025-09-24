@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998036073",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Conseil ne délibère valablement que du moment où plus de la moitié des membres ayant voix délibérative sont présents. Au sein du Conseil, les décisions sont prises à la majorité simple des voix, sauf dans les cas visés aux articles 33, § 1er, 1°, et 34, 1°, qui requièrent une majorité des deux tiers. Pour la fixation du quorum majoritaire, les abstentions, les votes non avenus et les bulletins blancs ne sont pas pris en ligne de compte.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Conseil élit parmi ses membres visés à l'article 31, 1°, 3° et 4°, un président. Le Gouvernement fixe la procédure d'élection du président du Conseil.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Conseil établit son propre règlement d'ordre intérieur.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les membres du Conseil s'abstiennent de délibérer et de voter au sujet de matières portant sur l'école où ils sont occupés ou sur le groupe d'écoles dont relèvent l'école, le centre d'encadrement des élèves et l'internat où ils sont occupés.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.072Z",
+  "tokenUsage": {
+    "prompt": 2059,
+    "completion": 491,
+    "total": 2550
+  }
+}

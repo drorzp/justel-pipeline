@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018070047",
+  "articleNumber": "227",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-227\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 227</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article D.138 du Livre Ier du Code de l'Environnement, modifié en dernier lieu par le décret du 12 décembre 2014, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er est complété par les</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"18°\">\n              <span class=\"provision-text\">le Code forestier du 15 juillet 2008;</span>\n            </li>\n            <li class=\"provision\" data-number=\"19°\">\n              <span class=\"provision-text\">la loi du 28 février 1882 sur la chasse.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 2 est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'alinéa 3 est complété par ce qui suit :</span>\n          <p class=\"closing-text\">\" ainsi que par l'article 63 de la loi du 2 juillet 1973 sur la conservation de la nature \".</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.357Z",
+  "tokenUsage": {
+    "prompt": 1849,
+    "completion": 399,
+    "total": 2248
+  }
+}

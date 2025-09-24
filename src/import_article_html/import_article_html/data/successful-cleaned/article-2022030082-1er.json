@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030082",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er, de l'arrêté du Collège réuni du 10 mars 2016 portant exécution de l'ordonnance du 21 juin 2012 relatif à la promotion de la santé dans la pratique du sport, à l'interdiction du dopage et à sa prévention, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">au 6°, le mot \"désigné\" est remplacé par le \"désignée\";</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un 7°, 8°, 9°, 10° et 11° sont insérés, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">\"Le Standard international pour les AUT\" : le Standard international pour les autorisations d'usage à des fins thérapeutiques;</span></li>\n            <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">\"Le SIGR\" : le Standard international pour la gestion des résultats;</span></li>\n            <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">\"Le SICE\" : le Standard international pour les contrôles et les enquêtes;</span></li>\n            <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">\"Le Directeur de l'ONAD de la Commission communautaire commune\" : le Directeur de la Direction Santé et Aide aux Personnes des Services du Collège réuni de la Commission communautaire commune.</span></li>\n            <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">\"La CODA\" : la Commission disciplinaire antidopage instituée en exécution de l'article 30/1 de l'ordonnance.\".</span></li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.842Z",
+  "tokenUsage": {
+    "prompt": 2071,
+    "completion": 542,
+    "total": 2613
+  }
+}

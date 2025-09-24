@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022071",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les communications de données visées à l'article 2, § 1er, 2° et 3°, et § 2 doivent être déclarées au <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-09-19/03\" data-law-type=\"AR\" data-article-number=\"3\">comité de sécurité de l'information</span> dans un délai de deux mois à partir du moment où ces communications ont commencé <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-09-19/03\" data-law-type=\"AR\" data-article-number=\"3\">...</span> :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">par l'institution gérant le réseau secondaire concerné pour celles visées à l'article 2, § 1er, 2°;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">par l'Institut national d'assurance maladie-invalidité en concertation avec le Collège intermutualiste national pour celles visées à l'article 2, § 1er, 3°;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">par l'institution qui effectue la communication, pour celles visées à l'article 2, § 2.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.966Z",
+  "tokenUsage": {
+    "prompt": 1928,
+    "completion": 418,
+    "total": 2346
+  }
+}

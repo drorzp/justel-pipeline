@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017013373",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 29</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le garde champêtre particulier qui a réussi la formation condensée visée à l'article 18 de l'arrêté royal du 8 janvier 2006 réglementant le statut des gardes champêtres particuliers obtient une nouvelle carte de légitimation dont la validité court jusqu'au 31 décembre 2017. Passé cette date, le renouvellement de sa carte de légitimation est soumis à l'article 11.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le détenteur de l'attestation de réussite de la formation condensée est assimilé pour l'application des articles 3,12°, 6, 6° et 24, 3° et 27 au détenteur de l'attestation de réussite de la formation de base.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.616Z",
+  "tokenUsage": {
+    "prompt": 1818,
+    "completion": 311,
+    "total": 2129
+  }
+}

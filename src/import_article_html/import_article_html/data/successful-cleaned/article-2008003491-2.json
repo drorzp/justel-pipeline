@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008003491",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les représentants des services publics visés à l'article 1er, § 1er, 4° et 5°, sont désignés pour une période de trois ans. Ils sont désignés par le Ministre des Finances, sur la proposition des Ministres compétents.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le membre démissionnaire ou décédé est remplacé immédiatement. Le nouveau membre achève le mandat de son prédécesseur.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.022Z",
+  "tokenUsage": {
+    "prompt": 1671,
+    "completion": 251,
+    "total": 1922
+  }
+}

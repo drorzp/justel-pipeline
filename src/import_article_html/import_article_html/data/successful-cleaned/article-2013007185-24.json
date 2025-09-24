@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013007185",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 9 de la même loi, les modifications suivantes sont apportées :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">dans le 2°, le mot \"autre\" est inséré entre les mots \"ressortissant d'un\" et les mots \"état membre de\";</li>\n        <li class=\"sub-provision\" data-marker=\"b)\">le 3° est remplacé par ce qui suit : \"3° justifier des qualités morales indispensables;\";</li>\n        <li class=\"sub-provision\" data-marker=\"c)\">il est inséré les 9° et 10° rédigés comme suit :\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">ne pas avoir reçu un avis de sécurité négatif du département d'état-major renseignement et sécurité, délivré sur la base d'une vérification de sécurité conformément aux dispositions de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité, ou ne pas avoir refusé cette vérification de sécurité. Par dérogation à l'article 22septies de la loi précitée, aucune rétribution n'est due par le postulant qui fait l'objet d'une vérification de sécurité;</span></li>\n            <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">satisfaire aux prescriptions réglementaires relatives à la présentation du militaire.\".</span></li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.019Z",
+  "tokenUsage": {
+    "prompt": 1933,
+    "completion": 426,
+    "total": 2359
+  }
+}

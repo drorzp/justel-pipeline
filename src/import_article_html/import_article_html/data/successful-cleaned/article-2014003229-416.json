@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003229",
+  "articleNumber": "416",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-416\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 416</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 4, § 1er de la même loi, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les 1° et 2° sont remplacés par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">les organismes de placement collectif belges qui répondent aux conditions de la Directive 2009/65/CE;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">les organismes de placement collectif étrangers qui répondent aux conditions de la Directive 2009/65/CE et qui offrent publiquement leurs parts en Belgique.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les paragraphes 2 et 3 sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.033Z",
+  "tokenUsage": {
+    "prompt": 1814,
+    "completion": 333,
+    "total": 2147
+  }
+}

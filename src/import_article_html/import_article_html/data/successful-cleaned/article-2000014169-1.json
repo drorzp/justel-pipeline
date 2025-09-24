@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000014169",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté royal du 22 juin 1998 relatif aux conditions d'établissement et d'exploitation de réseaux publics de télécommunications, sont ajoutés un 8°, 9°, 10° et un 11° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">boucle locale radio: les systèmes de transmission et, le cas échéant, l'équipement de commutation et autres ressources permettant le transport de signaux entre une station radioélectrique fixe définie et des utilisateurs finals par ondes hertziennes;</span></li>\n        <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">station de base: site où sont installées une ou plusieurs stations radioélectriques fixes qui relient, par un système de boucle locale radio, un ou plusieurs utilisateurs finals à un réseau public de télécommunications;</span></li>\n        <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">capacité maximale d'une station de base: le débit maximal numérique, exprimé en mégabit par seconde, que peut traiter à tout moment la station de base, à l'exclusion de la capacité utilisée par le système pour la signalisation interne du réseau;</span></li>\n        <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">capacité maximale totale de la partie du réseau fonctionnant en boucle locale radio: somme des capacités maximales de chaque station de base exploitée par l'opérateur, ci-après \"capacité maximale totale\".</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.116Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 446,
+    "total": 2422
+  }
+}

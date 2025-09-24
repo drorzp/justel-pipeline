@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007011221",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 131 de la même loi est modifié comme suit :</p>\n      <p class=\"intro-text\">Le point 4° est remplacé par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">Points d'accès : les installations physiques, notamment les boîtes aux lettres mises à la disposition du public, soit sur la voie publique, soit dans les locaux du prestataire du service universel, soit à d'autres endroits indiqués par le prestataire du service universel, où les envois postaux peuvent être confiés par des clients au réseau postal public.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">L'article 131 est complété par les points 21°, 22° et 23° :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"21°\">\n          <span class=\"provision-text\">Envoi égrené : envois postaux déposés par pièce individuelle.</span>\n        </li>\n        <li class=\"provision\" data-number=\"22°\">\n          <span class=\"provision-text\">Tarif plein : tarif d'application aux envois postaux égrenés.</span>\n        </li>\n        <li class=\"provision\" data-number=\"23°\">\n          <span class=\"provision-text\">\" adresse \" : ensemble de données permettant à l'opérateur postal de déterminer le lieu de distribution et contenant au moins le numéro de maison, le nom de la rue et le nom de la commune ou une mention ou information acceptée par l'opérateur postal concerné lui permettant de déterminer sans équivoque au moins le numéro de maison, le nom de la rue et le nom de la commune.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.781Z",
+  "tokenUsage": {
+    "prompt": 2019,
+    "completion": 484,
+    "total": 2503
+  }
+}

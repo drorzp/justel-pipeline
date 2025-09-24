@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030964",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 18 juillet 2013 relatif aux zones de stationnement réglementées et aux cartes de dérogation, est complété par les 19°, 20°, 21°, 22° et 23° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"19°\">\n          <span class=\"provision-text\">La borne de recharge électrique : infrastructure permettant la recharge d'un ou de plusieurs véhicules électriques. La borne comporte au minimum un point de charge matérialisé par un socle de prise ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"20°\">\n          <span class=\"provision-text\">Raccordement : branchement physique d'un véhicule électrique à la borne électrique, telle que définie à l'article 1er, 19° du présent arrêté, en vue de recharger ledit véhicule ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"21°\">\n          <span class=\"provision-text\">Connexion : identification électronique en vue de charger ou de payer un tarif de rotation auprès de l'exploitant de l'infrastructure de recharge de véhicules électriques ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"22°\">\n          <span class=\"provision-text\">Autocar : tout véhicule à moteur conçu et construit pour transporter exclusivement des passagers assis comportant, outre le siège du conducteur, plus de huit places assises telles que définies à l'article 2.66 de l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.364Z",
+  "tokenUsage": {
+    "prompt": 2007,
+    "completion": 477,
+    "total": 2484
+  }
+}

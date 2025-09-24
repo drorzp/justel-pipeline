@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012021063",
+  "articleNumber": "52",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-52\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 52</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 116 de la loi du 27 décembre 2006, modifié par les lois des 21 décembre 2007, 22 décembre 2008 et 23 décembre 2009, est complété par un alinéa rédigé comme suit :</p>\n      <p class=\"intro-text\">\" Par dérogation à l'alinéa 1er, 1° et 2°, pour l'année 2012, les ressources du Fonds amiante sont modifiées comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le montant annuel visé au 1° s'élève à 5 millions d'euros;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le produit visé au 2° consiste en une cotisation spécifique à charge des employeurs dont le rendement est au moins égal au montant visé au 1°.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Le Roi, par arrêté délibéré en Conseil des Ministres, détermine les catégories d'employeurs redevables de cette cotisation, le mode de calcul et d'établissement de cette cotisation, ainsi que les modalités de perception de cette cotisation.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.187Z",
+  "tokenUsage": {
+    "prompt": 1867,
+    "completion": 381,
+    "total": 2248
+  }
+}

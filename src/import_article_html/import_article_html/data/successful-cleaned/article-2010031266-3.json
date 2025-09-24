@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010031266",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 7 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\"><span class=\"item-text\">A l'alinéa 1er, le deuxième tiret est remplacé par le texte suivant : &quot; une deuxième tranche de trente p.c. peut être demandée lorsque le projet de plan est soumis à enquête publique &quot;;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">A l'alinéa 2, troisième tiret, les mots &quot; §§ 4 et 5 de l'article 5 &quot; sont remplacés par les mots &quot; 8° et 9° du § 1er de l'article 5 &quot;.</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.232Z",
+  "tokenUsage": {
+    "prompt": 1658,
+    "completion": 266,
+    "total": 1924
+  }
+}

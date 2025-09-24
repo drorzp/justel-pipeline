@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003234",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Entrent en vigueur :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le jour de la publication au Moniteur belge du présent arrêté, les articles 18 et 21;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le 1er janvier 2008, les articles 6 à 8, 12 à 14, 2°, 15 à 17, 19, 20, 2° et 22;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le 1er janvier 2014, les articles 1er à 3, 9 à 11, 14, 3°, 20, 1° et 23;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le 1er janvier 2015, les articles 4 et 5.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.770Z",
+  "tokenUsage": {
+    "prompt": 1740,
+    "completion": 326,
+    "total": 2066
+  }
+}

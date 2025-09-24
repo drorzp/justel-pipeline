@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020041046",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation à l'article 4, alinéa 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"5°\">\n            <span class=\"provision-text\">du décret du 11 mars 2004 relatif aux incitants régionaux en faveur des petites ou moyennes entreprises, et de manière temporaire, les activités d'intermédiations en vente et en achat immobilier, ainsi que les activités sportives, de loisirs et de distribution de produits culturels, sont admises dans le cadre des mesures prises à la suite de la crise du coronavirus COVID-19 reconnue par le Gouvernement comme un évènement extraordinaire au sens de l'article 10 dudit décret.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.160Z",
+  "tokenUsage": {
+    "prompt": 1663,
+    "completion": 303,
+    "total": 1966
+  }
+}

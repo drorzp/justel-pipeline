@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997003191",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Il est renoncé à la perception du précompte mobilier sur les revenus des Bons du Trésor libellés en monnaies étrangères payés ou attribués à des établissements financiers ou entreprises y assimilées et en général à des investisseurs professionnels, et sur les revenus obtenus à l'occasion d'opérations sur ces titres par ces mêmes investisseurs.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La qualité d'investisseur professionnel est déterminée par la loi de l'Etat dans lequel l'investisseur exerce son activité.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>En ce qui concerne les revenus des Bons du Trésor libellés en monnaies étrangères détenus par des résidents belges, seuls les établissements financiers ou entreprises y assimilées et investisseurs professionnels visés à l'article 105,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">de l'arrêté royal du 27 août 1993 d'exécution du code des Impôts sur les revenus 1992 peuvent bénéficier de la renonciation à la perception du précompte mobilier.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.027Z",
+  "tokenUsage": {
+    "prompt": 1951,
+    "completion": 476,
+    "total": 2427
+  }
+}

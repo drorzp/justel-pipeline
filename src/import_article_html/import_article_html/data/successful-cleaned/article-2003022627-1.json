@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003022627",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 15 de l'arrêté royal du 25 avril 2002 relatif à la fixation et à la liquidation du budget des moyens financiers des hôpitaux sont ajoutés les points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"28°\">\n          <span class=\"provision-text\">les moyens alloués aux hôpitaux disposant d'un programme de soins agréé 'Médecine de reproduction B';</span>\n        </li>\n        <li class=\"provision\" data-number=\"29°\">\n          <span class=\"provision-text\">Les moyens alloués pour couvrir forfaitairement les coûts liés à la fonction de médiation dans les hôpitaux aigus et les services Sp isolés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.818Z",
+  "tokenUsage": {
+    "prompt": 1648,
+    "completion": 259,
+    "total": 1907
+  }
+}

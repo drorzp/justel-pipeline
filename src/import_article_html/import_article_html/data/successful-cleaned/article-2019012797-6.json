@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012797",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <p class=\"intro-text\">A l'article 2.3.2.1 du même arrêté, modifié par les arrêtés du Gouvernement flamand des 23 mai 2014 et 23 septembre 2016, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">au § 1er, 1° et 2°, les mots \" annexe 2.3.2.A \" sont chaque fois remplacés par les mots \" annexe VI de l'arrêté du Gouvernement flamand du 14 décembre 2007 fixant le règlement flamand relatif à l'assainissement du sol et à la protection du sol \" ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">au § 2, l'alinéa 3 est remplacé par ce qui suit :</span>\n        <p>Le test HAP-spray détermine si le granulat d'asphalte contient des HAP. Si une coloration jaune est obtenue après le test HAP-spray, le granulat d'asphalte est présumé contenir des HAP. A défaut d'une coloration nette, un test de confirmation au moyen de la spectroscopie infrarouge peut être réalisé. Le granulat d'asphalte est présumé contenir des HAP si la spectroscopie infrarouge démontre de pointes claires pour les HAP. La teneur en HAP peut être testé qualitativement à l'aide de la spectroscopie infrarouge sans test HAP-spray préalable. En cas de doute, un contre-essai consistant en une analyse chimique sur la présence des HAP via GC-MS, déterminera si les normes sont oui ou non dépassées. Le règlement unique sur les granulats recyclés fait état de la méthode d'essais et du contrôle de conformité du test HAP-spray.</p>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.307Z",
+  "tokenUsage": {
+    "prompt": 2152,
+    "completion": 510,
+    "total": 2662
+  }
+}

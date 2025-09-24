@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992029195",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"\" data-law-type=\"\" data-article-number=\"\">Voir note sous TITRE</span>\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le secrétaire d'apprentissage peut se faire assister d'un suppléant agréé par le Ministre.</p>\n        <p>Dans le cas où ce secrétaire gère 750 contrats au moins, il doit se faire assister d'un suppléant agréé par le Ministre.</p>\n        <p>Le suppléant doit satisfaire aux conditions visées à l'article 3, 1° à 6° et 8° et à l'article 6.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le suppléant assiste le secrétaire d'apprentissage dans l'exécution de ses tâches. Il n'a pouvoir d'agir seul et au nom du secrétaire qu'en cas d'impossibilité pour ce dernier d'exercer sa mission pour cause d'incapacité de travail, de vacances annuelles, de circonstances familiales graves ou de toute situation de force majeure.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.085Z",
+  "tokenUsage": {
+    "prompt": 1880,
+    "completion": 369,
+    "total": 2249
+  }
+}

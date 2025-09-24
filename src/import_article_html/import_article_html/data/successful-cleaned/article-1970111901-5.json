@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1970111901",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'incapacité de travailler normalement soit au fond et à la surface, soit au fond des entreprises minières est établie au moyen d'expertises médicales. Selon les modalités fixées par le (Service des indemnités de l'Institut national d'assurance maladie-invalidité), le demandeur : <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-02-24/37\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 2003-02-24/37, art. 2, 016;**En vigueur :**01-01-2003&gt;</span></p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">est soumis à l'expertise de médecins-experts désignés par le (Service des indemnités); <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-02-24/37\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 2003-02-24/37, art. 2, 016;**En vigueur :**01-01-2003&gt;</span></span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">peut solliciter une expertise contradictoire devant les médecins experts et son médecin traitant;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">peut, au cours des expertises visées aux 1° et 2°, être envoyé par les médecins-experts dans un institut spécialisé ou chez un médecin spécialiste, nommément désignés par ces médecins-experts.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.558Z",
+  "tokenUsage": {
+    "prompt": 2003,
+    "completion": 484,
+    "total": 2487
+  }
+}

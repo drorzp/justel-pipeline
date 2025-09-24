@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022015357",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 11 de l'arrêté du Gouvernement flamand du 20 novembre 2020 portant exécution du décret du 10 juin 2016 réglant certains aspects des formations en alternance, est complété par un alinéa six, rédigé comme suit : \" Si la commission de recours se prononce sur une demande motivée dans le cadre de l'article 8, §§ 5 et 6, du décret du 25 mars 2022 réglant certains aspects des formations duales dans l'éducation des adultes, elle est composée comme suit, par dérogation à l'alinéa premier :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">du président du Partenariat flamand pour l'Apprentissage dual ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de deux des quatre membres visés à l'article 2bis, § 2, alinéa premier, 2°, du décret du 10 juin 2016 ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">de deux des quatre membres visés à l'article 2bis, § 2, alinéa premier, 3°, du décret précité ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">de quatre des membres visés à l'article 2bis, § 2, alinéa premier, 12° et 13°, du décret précité.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.801Z",
+  "tokenUsage": {
+    "prompt": 1978,
+    "completion": 446,
+    "total": 2424
+  }
+}

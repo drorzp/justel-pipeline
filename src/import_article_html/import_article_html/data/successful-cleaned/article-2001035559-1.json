@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001035559",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 13 juillet 1994 relatif à l'agrément et à l'octroi de subventions aux institutions de l'assistance spéciale à la jeunesse, modifié par les arrêtés du Gouvernement flamand des 8 décembre 1998 et 8 décembre 2000, sont ajoutés les points 28° et 29°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"28°\"><span class=\"provision-text\">durs métiers : mise au travail de personnel d'accompagnement dans une institution agréée des catégories 1, 2 ou 3, telles que visées à l'article 3, par application de l'annexe 2 au présent arrêté</span></li>\n        <li class=\"provision\" data-number=\"29°\"><span class=\"provision-text\">la masse salariale : les dépenses en matière de personnel faites par application du présent arrêté, à l'exception des dépenses visées à l'article 32, §§ 2, 3 et 4.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.672Z",
+  "tokenUsage": {
+    "prompt": 1792,
+    "completion": 330,
+    "total": 2122
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996101852",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 1er, 1° et 2° de la décision du 14 juin 1994 relative aux frais de consultation des données enregistrées par la Banque concernant les défauts de paiement en matière de crédit à la consommation et crédit hypothécaire est remplacé par les dispositions suivantes :</p>\n            <p>\"</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">septante francs (F 70), hors TVA, lorsque la demande de consultation est introduite par écrit;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">quinze francs (F 15), hors T.V.A., lorsque la demande de consultation est introduite par téléprocessing.)</span>\n                </li>\n            </ol>\n            <p>\"</p>\n            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1998-12-29/32\" data-law-type=\"DIVERS\" data-article-number=\"1\">&lt;DIVERS 1998-12-29/32, art. 1, 002; En vigueur : 01-01-1999&gt;</span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.115Z",
+  "tokenUsage": {
+    "prompt": 1773,
+    "completion": 351,
+    "total": 2124
+  }
+}

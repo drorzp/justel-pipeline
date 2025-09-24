@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036249",
+  "articleNumber": "163",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-163\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 163</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 4, alinéa 1er, 4° et 6°, l'article 4, alinéa deux, l'article 6, § 2, alinéa 1er, l'article 7, § 1er, alinéa deux, et l'article 7, § 2, du même arrêté, les mots &quot;l'administration&quot;, &quot;à l'administration&quot; et &quot;de l'administration&quot; sont respectivement remplacés par les mots &quot;le département&quot;, &quot;au département&quot; et &quot;du département&quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.726Z",
+  "tokenUsage": {
+    "prompt": 1598,
+    "completion": 211,
+    "total": 1809
+  }
+}

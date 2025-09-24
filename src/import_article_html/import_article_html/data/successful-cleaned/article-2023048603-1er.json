@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048603",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Il est ajouté à l'article 1er les points 5° et 6° libellés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">l'institution d'accueil : l'institution dans laquelle le membre du personnel est transféré ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">l'institution d'origine : l'institution dont le membre du personnel fait partie avant son transfert.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.501Z",
+  "tokenUsage": {
+    "prompt": 1570,
+    "completion": 222,
+    "total": 1792
+  }
+}

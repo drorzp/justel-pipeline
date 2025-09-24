@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022045877",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Délégation est accordée à l'administrateur général pour :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">choisir le mode de passation des marchés publics, engager la procédure, arrêter le cahier spécial des charges et les documents du marché, sélectionner le cas échéant les opérateurs économiques à consulter, sélectionner les candidats, attribuer et notifier le marché, lorsque le montant estimé est inférieur à 140.000 euros HT.V.A. ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">ne pas attribuer les marchés visés au 1° et mettre fin à la procédure et, le cas échéant, dans les limites de sa délégation, entamer une nouvelle procédure ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">sans préjudice de l'article 23, prendre toute décision relative à l'exécution des marchés publics y compris ceux qui sont passés par le Ministre fonctionnel.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.874Z",
+  "tokenUsage": {
+    "prompt": 1779,
+    "completion": 342,
+    "total": 2121
+  }
+}

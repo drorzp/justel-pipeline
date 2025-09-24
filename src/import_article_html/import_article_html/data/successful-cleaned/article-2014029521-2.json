@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029521",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">L'horaire minimum d'une unité d'enseignement représente la somme des périodes consacrées à :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">l'enseignement du contenu minimum, en ce compris, les opérations d'admission, d'évaluation des acquis et de sanction des études;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">la part d'autonomie.</span>\n                    </li>\n                </ol>\n                <p>Les périodes visées aux 1° et 2° sont dévolues aux chargés de cours tel que prévu au dossier pédagogique.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>La certification de l'unité d'enseignement est fondée exclusivement sur la maîtrise des acquis d'apprentissage repris dans le dossier pédagogique en fonction du contenu minimum visé à l'article 3.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.106Z",
+  "tokenUsage": {
+    "prompt": 1783,
+    "completion": 370,
+    "total": 2153
+  }
+}

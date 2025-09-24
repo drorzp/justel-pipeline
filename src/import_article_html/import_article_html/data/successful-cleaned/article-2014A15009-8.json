@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014A15009",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le chef d'un poste consulaire de carrière établit les actes de l'état civil visés à l'article 7.</p>\n      <p>La compétence, autre que celle visée à l'article 7, 2°, 3° et 4°, est uniquement exercée par les chefs d'un poste consulaire de carrière dont la circonscription consulaire est située en dehors de l'Union européenne.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.205Z",
+  "tokenUsage": {
+    "prompt": 1519,
+    "completion": 165,
+    "total": 1684
+  }
+}

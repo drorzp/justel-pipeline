@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003121651",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 1er de l'arrêté royal du 30 mars 1967 déterminant les modalités générales d'exécution des lois relatives aux vacances annuelles des travailleurs salariés, modifié par les arrêtés royaux du 20 juillet 1970, 5 août 1971, 17 décembre 1992 et 23 septembre 1998, est inséré un § 4 rédigé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les dispositions du titre II - ouvriers et apprentis-ouvriers, ainsi que du titre IV - dispositions communes et du titre V - contrôle et sanctions, s'appliquent aux personnes assujetties au régime de sécurité sociale pour les travailleurs salariés, en raison des prestations artistiques qu'elles fournissent et/ou des oeuvres artistiques qu'elles produisent au sens de l'article 1erbis, § 2, de la loi du 27 juin 1969 revisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.</p>\n        <p>Toutefois, sans porter préjudice aux dispositions de l'article 18, l'assimilation est limitée pour ces personnes si elles sont recrutées sur la base d'un contrat de travail ou d'apprentissage d'employé, à la période durant laquelle elles sont liées par un contrat de travail ou d'apprentissage. Pour obtenir l'assimilation, elles doivent aussi, par dérogation à l'article 19, § 1er, a, avoir été liées par un contrat de travail ou d'apprentissage le premier jour de la période assimilable. L'article 16,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"13°\">\n            <span class=\"provision-text\">13°</span>\n          </li>\n          <li class=\"provision\" data-number=\"14°\">\n            <span class=\"provision-text\">14°</span>\n          </li>\n        </ol>\n        <p>ne s'applique pas à ces personnes.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.724Z",
+  "tokenUsage": {
+    "prompt": 2141,
+    "completion": 541,
+    "total": 2682
+  }
+}

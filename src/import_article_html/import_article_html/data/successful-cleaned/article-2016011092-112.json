@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011092",
+  "articleNumber": "112",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-112\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 112</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'entreprise d'assurance notifie à la Banque et, le cas échéant, aux autorités de contrôle des Etats membres d'accueil concernées toutes modifications qu'elle entend apporter aux informations communiquées en application de l'article 108, § 1er, alinéa 2, 2°, 3° et 4° et ce, un mois au moins avant qu'elles ne soient effectuées. L'article 108, § 3, est applicable en ce qui concerne ces modifications.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.237Z",
+  "tokenUsage": {
+    "prompt": 1618,
+    "completion": 184,
+    "total": 1802
+  }
+}

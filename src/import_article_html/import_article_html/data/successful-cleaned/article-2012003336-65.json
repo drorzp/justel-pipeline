@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012003336",
+  "articleNumber": "65",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-65\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 65</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Un organisme de placement collectif peut acquérir des parts visées à l'article 52, § 1er, 5° et 6°, à condition de ne pas placer plus de 20 % de ses actifs dans les parts d'un même organisme de placement collectif. S'il investit dans les parts d'un organisme de placement collectif qui a plusieurs compartiments, chacun des compartiments est, pour l'application du présent paragraphe, considéré comme un organisme de placement collectif distinct.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les placements dans des parts visées à l'article 52, § 1er, 6°, ne peuvent dépasser, au total, 30 % des actifs de l'organisme de placement collectif.</p>\n        <p>Lorsqu'un organisme de placement collectif a acquis des parts visées à l'article 52, § 1er, 5° et 6°, les actifs des organismes de placement collectif concernés ne doivent pas être combinés aux fins de l'application des limites prévues à l'article 62.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.180Z",
+  "tokenUsage": {
+    "prompt": 1959,
+    "completion": 371,
+    "total": 2330
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008200643",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 6 du même arrêté ministériel sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le § 1er est modifié comme suit :</span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"a)\">à l'alinéa 1er, les mots \"ou en 2006\" sont insérés entre les mots \"en 2005\" et les mots \"d'établissement ou d'adaptation\";</li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">aux points 2° et 3°, les mots \"une date comprise entre le 1er janvier 2000 et la date d'introduction de la demande initiale\" sont remplacés par les mots \"une date comprise entre, d'une part, le 1er janvier 2000 pour les demandes introduites en 2005 et, d'autre part, le 16 mars 2005 pour les demandes introduites en 2006, et la date d'introduction de la demande initiale\";</li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au § 2, tirets 3 et 4, les mots \"en 2005\" sont remplacés par les mots \"l'année de l'introduction de la demande\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.907Z",
+  "tokenUsage": {
+    "prompt": 1909,
+    "completion": 411,
+    "total": 2320
+  }
+}

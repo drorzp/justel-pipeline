@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001003402",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 146 du même Code, modifié par les lois des 30 mars 1994, 21 décembre 1994, 7 avril 1999 et, en ce qui concerne le texte français, par la loi du 6 juillet 1994, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le 1°, les mots \"les prépensions non visées au 2°\" sont remplacés par les mots \"les prépensions non visées aux 2° et 2°bis\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est inséré un 2°bis rédigé comme suit : \" 2°bis prépensions nouveau régime : les prépensions qui ont pris cours à partir du 1er janvier 2004;\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.205Z",
+  "tokenUsage": {
+    "prompt": 1745,
+    "completion": 311,
+    "total": 2056
+  }
+}

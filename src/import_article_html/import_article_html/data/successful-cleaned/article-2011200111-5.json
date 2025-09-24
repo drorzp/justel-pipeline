@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011200111",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans la même loi, il est inséré un article 25bis rédigé comme suit :</p>\n    <p class=\"inserted-article-title\">\" Art. 25bis.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Gouvernement fixe, à l'échelle de la Région wallonne, des objectifs de conservation pour chaque type d'habitat naturel et pour chaque type d'espèce pour lesquels des sites doivent être désignés.</p>\n        <p>Les objectifs de conservation sont déterminés sur la base de l'état de conservation, à l'échelle de la Région wallonne, des types d'habitats naturels et des espèces pour lesquels des sites doivent être désignés et ont pour objet de maintenir ou, le cas échéant, de rétablir les types d'habitats naturels et les espèces pour lesquels des sites doivent être désignés dans un état de conservation favorable.</p>\n        <p>Ces objectifs de conservation ont valeur indicative.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sur la base des objectifs de conservation visés au § 1er, le Gouvernement fixe des objectifs de conservation applicables à l'échelle des sites Natura 2000.</p>\n        <p>Ces objectifs de conservation ont valeur réglementaire. Ils s'interprètent au regard des données visées à l'article 26, § 1er, alinéa 2, 2° et 3°.</p>\n      </div>\n    </section>\n    <p>\"</p>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.217Z",
+  "tokenUsage": {
+    "prompt": 2035,
+    "completion": 455,
+    "total": 2490
+  }
+}

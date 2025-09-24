@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004200662",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La demande d'autorisation est introduite, par <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2008-10-23/37\" data-law-type=\"DRW\" data-article-number=\"4\">envoi certifié</span>, auprès du Commissariat général au tourisme.</p>\n      <p>Elle précise la dénomination que le demandeur souhaite utiliser.</p>\n      <p>Elle peut également contenir une demande de dérogation aux conditions d'octroi de l'autorisation et d'utilisation d'une dénomination <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2008-10-23/37\" data-law-type=\"DRW\" data-article-number=\"6\">visées à l'article 24, § 1er, alinéa 1er, 1° et 2°</span> ou aux critères de classement visés à l'article 33.</p>\n      <p>Le Gouvernement arrête le contenu de la demande d'autorisation et peut préciser le nombre d'exemplaires du dossier qu'elle doit comporter. Il détermine la forme de la demande.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.694Z",
+  "tokenUsage": {
+    "prompt": 1901,
+    "completion": 337,
+    "total": 2238
+  }
+}

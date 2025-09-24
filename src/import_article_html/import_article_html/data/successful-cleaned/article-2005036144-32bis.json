@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005036144",
+  "articleNumber": "32bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"2006-11-24/37\" data-article-number=\"11\" data-law-type=\"AGF\" data-effective-date=\"01-07-2006\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006112437\">&lt;inséré par, AGF 2006-11-24/37, art. 11; En vigueur : 01-07-2006&gt;</span> Par dérogation à l'article 32, alinéa deux, les membres du personnel dirigeants qui sont à la tête des agences, mentionnées à l'article 23, § 2, 1° et 2° <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-01-25/26\" data-law-type=\"AGF\" data-article-number=\"16\">et à l'article 28, § 2, 5° à 8°</span>, ne font pas partie du conseil de gestion du domaine politique en question.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.793Z",
+  "tokenUsage": {
+    "prompt": 1839,
+    "completion": 347,
+    "total": 2186
+  }
+}

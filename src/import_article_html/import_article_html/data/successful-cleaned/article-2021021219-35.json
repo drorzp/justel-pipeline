@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021021219",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les articles 2, 10, 16, 17, 18, 19, 20, 21, 25, 27, 28, 30, 32, 5° et l'article 33, 4°, produisent leurs effets à partir du 20 mars 2020.</p>\n      <p class=\"intro-text\">Les articles 6, 7, 11, 14, 23, 26, 29 en 31 produisent leurs effets à partir du 30 octobre 2020.</p>\n      <p class=\"intro-text\">Les articles 5, 9, 13 et 24 produisent leurs effets à partir du 1er janvier 2021.</p>\n      <p class=\"intro-text\">Les articles 32, 3°, l'article 33, 2° et l'article 34 produisent leurs effets à partir du 31 mars 2021.</p>\n      <p class=\"closing-text\">L'article 3 produit ses effets à partir du 30 juin 2021.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.176Z",
+  "tokenUsage": {
+    "prompt": 1836,
+    "completion": 310,
+    "total": 2146
+  }
+}

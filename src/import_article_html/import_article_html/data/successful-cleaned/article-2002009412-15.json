@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002009412",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La présente loi entre en vigueur le jour de sa publication au Moniteur belge, à l'exception des articles 8, 11 et 12.</p>\n            <p class=\"intro-text\">Le dix-huitième mois qui suit l'entrée en vigueur visée dans l'alinéa précédent, le Roi dépose à la Chambre des représentants et au Sénat un rapport d'évaluation sur l'application de la peine de travail telle qu'organisée suite à la présente loi.</p>\n            <p class=\"intro-text\">(Les articles 8, 1°, 11 et 12, 4° et 5°, entrent en vigueur le 1er mai 2004. Les articles 8, 2°, et 12, 1°, 2° et 3°, entrent en vigueur le 1er mai 2005.)</p>\n            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-12-22/42\" data-law-type=\"L\" data-article-number=\"393\">&lt;L 2003-12-22/42, art. 393, 002; En vigueur : 10-01-2004&gt;</span>\n            <p class=\"intro-text\">Le Roi saisira les Chambres législatives d'un projet de loi de confirmation de l'arrêté pris en exécution de l'alinéa précédent.</p>\n            <p class=\"closing-text\">Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.</p>\n            <p class=\"closing-text\">Donné à Bruxelles, le 17 avril 2002.</p>\n            <p class=\"closing-text\">ALBERT</p>\n            <p class=\"closing-text\">Par le Roi :</p>\n            <p class=\"closing-text\">Le Ministre de la Justice,</p>\n            <p class=\"closing-text\">M. VERWILGHEN</p>\n            <p class=\"closing-text\">Scellé du sceau de l'Etat :</p>\n            <p class=\"closing-text\">Le Ministre de la Justice,</p>\n            <p class=\"closing-text\">M. VERWILGHEN</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.812Z",
+  "tokenUsage": {
+    "prompt": 2170,
+    "completion": 563,
+    "total": 2733
+  }
+}

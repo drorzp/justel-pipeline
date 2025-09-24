@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040588",
+  "articleNumber": "81",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-81\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 81</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article 38 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le montant visé à l'article 38, 1° est fixé à 1.889.096 euros en 2019 et 8.754.177 euros en 2020. En 2020, le montant est adapté selon la fluctuation de l'indice des prix à la consommation ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le montant visé à l'article 38, 2° ne peut excéder 2.306.907 euros en 2019 et 6.920.596 euros en 2020. En 2020, le montant est lié à l'évolution de l'indice des prix à la consommation, de l'évolution des barèmes tel que prévu par le statut adopté par le Gouvernement, l'évolution de la charge de retraite des pensions statutaires des OIP, le changement de statut administratif des membres du personnel.</span>\n        </li>\n      </ol>\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-12-18/15\" data-law-type=\"DCFR\" data-article-number=\"63\">Le montant visé au paragraphe 1er, 1°, est sans préjudice de l'article 38, alinéa 2.</span>\n      <p>Le montant des coûts salariaux, majorés de 17 %, de tout membre du personnel affecté à des tâches relevant du pouvoir organisateur de l'enseignement organisé par le Communauté française ayant été engagé entre le 1er janvier 2019 et le 31 août 2019 et transféré à WBE le 1er septembre 2019, est déduit des montants visés à l'alinéa précédent 1° et ajouté aux montants visés à l'alinéa précédent 2°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.380Z",
+  "tokenUsage": {
+    "prompt": 2168,
+    "completion": 530,
+    "total": 2698
+  }
+}

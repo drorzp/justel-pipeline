@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014027195",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 1245, alinéa 2, du même Code, les 2°, 8°, 9° et 17° sont abrogés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.211Z",
+  "tokenUsage": {
+    "prompt": 1425,
+    "completion": 115,
+    "total": 1540
+  }
+}

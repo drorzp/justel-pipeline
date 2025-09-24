@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1967111040",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Nul ne peut attribuer à des personnes qu'il occupe, même bénévolement, un titre professionnel se rapportant à une des prestations précisées en exécution de l'article 23, § 1er, ou à des actes visés à l'article 22,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">3°, si ces personnes ne répondent pas aux conditions de qualification exigées.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.624Z",
+  "tokenUsage": {
+    "prompt": 1561,
+    "completion": 209,
+    "total": 1770
+  }
+}

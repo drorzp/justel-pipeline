@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001B00327",
+  "articleNumber": "V.II.19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-V-II-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article V.II.19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-24/24\" data-law-type=\"AR\" data-article-number=\"2\">\n        <p class=\"intro-text\">Le dossier de stage comprend au moins :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">un inventaire des pièces;</span></li>\n          <li class=\"provision\" data-number=\"1bis°\"><span class=\"provision-text\">le rapport d'évaluation récapitulatif visé à l'article V.II.10, alinéa 1er;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les rapports de fonctionnement visés à l'article V.II.11;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le rapport de stage récapitulatif visé à l'article V.II.12, alinéa 1er;</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le cas échéant, les remarques du stagiaire relatives aux rapports visés aux 1bis°, 2° et 3° ;</span></li>\n          <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">la décision du chef de corps, du commissaire général ou du directeur général concerné visée à l'article V.II.14, alinéa 1er, et, le cas échéant, l'avis visé à l'article V.II.15, alinéa 3, et la décision visée à l'article V.II.15, alinéa 6 ou 7, ainsi que toutes les pièces probantes.</span></li>\n        </ol>\n        <p class=\"closing-text\">Le ministre détermine les autres pièces devant figurer au dossier de stage.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.685Z",
+  "tokenUsage": {
+    "prompt": 2118,
+    "completion": 533,
+    "total": 2651
+  }
+}

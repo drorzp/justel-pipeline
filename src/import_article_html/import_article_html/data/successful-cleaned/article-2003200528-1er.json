@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003200528",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 15 de l'arrêté royal du 8 août 1980 relatif à la tenue des documents sociaux, dont le texte actuel formera le § 1er, il est ajouté un § 2, rédigé comme suit :</p>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Au sein des entreprises de travail intérimaire, les employeurs sont dispensés, pour le personnel qu'ils occupent en tant que travailleur intérimaire, de l'obligation d'inscrire les mentions énumérées au § 1er,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"11°\">\n                        <span class=\"provision-text\">11°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"15°\">\n                        <span class=\"provision-text\">15°</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.722Z",
+  "tokenUsage": {
+    "prompt": 1686,
+    "completion": 305,
+    "total": 1991
+  }
+}

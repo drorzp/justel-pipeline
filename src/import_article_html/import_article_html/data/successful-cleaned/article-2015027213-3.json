@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015027213",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article R. 90 du Livre II du Code de l'Environnement contenant le Code de l'Eau, modifié par l'arrêté du Gouvernement wallon du 17 février 2011, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au point 20° quinquies \" Biodisponibilité \", le signe \" . \" est remplacé par le signe \" ; \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un point 20° sexies et un point 20° septies sont ajoutés entre les points 20° quinquies et 21° et sont rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"20° sexies\">\n              <span class=\"provision-text\">\" matrice \" : un milieu de l'environnement aquatique, à savoir l'eau, les sédiments ou le biote;</span>\n            </li>\n            <li class=\"provision\" data-number=\"20° septies\">\n              <span class=\"provision-text\">\" taxon de biote \" : un taxon aquatique donné au rang taxinomique de sous-phylum, classe ou leurs équivalents;</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.183Z",
+  "tokenUsage": {
+    "prompt": 1814,
+    "completion": 407,
+    "total": 2221
+  }
+}

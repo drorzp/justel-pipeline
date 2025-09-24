@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017A70033",
+  "articleNumber": "R.VII.3-2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R-VII-3-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article R.VII.3-2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le document attestant la qualité d'agent constatateur visé à l'article R.VII.3-1, alinéa 1er, 1° et 2°, est délivré par le directeur général de <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-04-25/42\" data-law-type=\"ARW\" data-article-number=\"2\">l'administration</span> ou, à défaut, par l'inspecteur général du Département de l'Aménagement et de l'Urbanisme de <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-04-25/42\" data-law-type=\"ARW\" data-article-number=\"2\">l'administration</span>.</p>\n            <p>Le document attestant la qualité d'agent constatateur visé à l'article R.VII.3-1, alinéa 1er, 3°, est délivré par le directeur général de la DGO3 ou, à défaut, par l'inspecteur général du Département de la Nature et des Forêts de <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-25/42\" data-law-type=\"ARW\" data-article-number=\"99\">l'administration de l'Environnement</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.764Z",
+  "tokenUsage": {
+    "prompt": 1966,
+    "completion": 388,
+    "total": 2354
+  }
+}

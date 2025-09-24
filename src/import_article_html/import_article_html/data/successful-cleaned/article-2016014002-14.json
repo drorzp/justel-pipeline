@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016014002",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans le même chapitre XIV, il est inséré un article 54/9 rédigé comme suit :</p>\n      <p>\"Art. 54/9. Les arrêtés pris en vertu de l'article 54/8 peuvent modifier, compléter, remplacer ou abroger les dispositions légales en vigueur.\nLes pouvoirs accordés au Roi par l'article 54/8 expirent le 31 décembre 2018. Après cette date, les arrêtés pris en vertu de l'article 54/8 ne peuvent plus être modifiés, complétés, remplacés ou abrogés que par une loi.\nLes dispositions prises en vertu de l'article 54/8, 3°, 4° et 5°, cessent de produire leurs effets si elles n'ont pas été confirmées par la loi dans les six mois de leur date d'entrée en vigueur. La confirmation produit ses effets à partir de cette date.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.246Z",
+  "tokenUsage": {
+    "prompt": 1728,
+    "completion": 268,
+    "total": 1996
+  }
+}

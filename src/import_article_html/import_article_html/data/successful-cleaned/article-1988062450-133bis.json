@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1988062450",
+  "articleNumber": "133bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-133bis\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 133bis</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"15-07-1992\" data-law-type=\"L\" data-article-number=\"1\">Inséré par L 15-07-1992, art. 1, MB 22-12-1992</span> Sans pouvoir, d'une façon quelconque, porter atteinte aux attributions du bourgmestre, le conseil communal a le droit d'être informé par le bourgmestre de la manière dont celui-ci exerce les pouvoirs que lui confèrent \n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"1998-12-07/31\" data-law-type=\"L\" data-article-number=\"202\">l'article 133, alinéas 2 et 3, et les articles 42, 43 et 45 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.</span>\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"1998-12-07/31\" data-law-type=\"L\" data-article-number=\"202\">Dans les zones unicommunales, ce droit est étendu aux pouvoirs conférés au bourgmestre par l'article 45 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.</span>\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\"><strong>En vigueur :</strong> 01-01-2001</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\"><strong>En vigueur :</strong> 01-01-2001</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.713Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 529,
+    "total": 2477
+  }
+}

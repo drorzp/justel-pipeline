@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998000203",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 24/10 de la loi du 27 décembre 1973 relative au statut du personnel du corps opérationnel de la gendarmerie, inséré par la loi du 24 juillet 1992, est remplacé par la disposition suivante:</p>\n      <p class=\"quoted-text\">\" Art. 24/10. Sans préjudice de l'article 24/3, 4°, 8° et 9°, les membres du personnel peuvent s'affilier à des associations professionnelles de leur choix. \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.073Z",
+  "tokenUsage": {
+    "prompt": 1614,
+    "completion": 194,
+    "total": 1808
+  }
+}

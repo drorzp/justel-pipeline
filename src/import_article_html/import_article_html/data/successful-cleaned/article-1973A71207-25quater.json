@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1973A71207",
+  "articleNumber": "25quater",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25quater\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25quater</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-12-22/30\" data-law-type=\"DRW\" data-article-number=\"7\">\n        <p>Sans préjudice de l'article 4, le Gouvernement met en oeuvre un système de suivi de l'état de conservation, à l'échelle de la Région wallonne, de chaque type d'habitat naturel et de chaque type d'espèce pour lesquels des sites doivent être désignés.</p>\n        <p>Le système de suivi prévoit une évaluation périodique de l'état de conservation des habitats naturels et des espèces pour lesquels des sites doivent être désignés.</p>\n        <p>L'évaluation de l'état de conservation s'effectue au regard des critères visés à l'article 1erbis, 6° et 10°.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.605Z",
+  "tokenUsage": {
+    "prompt": 1744,
+    "completion": 268,
+    "total": 2012
+  }
+}

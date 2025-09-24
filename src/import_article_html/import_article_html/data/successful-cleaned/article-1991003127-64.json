@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991003127",
+  "articleNumber": "64",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-64\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 64</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1.</h3>\n            <div class=\"paragraph-content\">\n                <p>Un organisme de placement ne peut contracter des emprunts.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation au § 1er, un organisme de placement peut cependant contracter :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">des emprunts en devises liés à des prêts d'une même valeur dans le seul but de l'acquisition de devises, lorsqu'à la suite de ces opérations son endettement net ne se modifie pas ou se modifiera pas;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">des emprunts à court terme à concurrence de 5 % de ses actifs nets;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">d'autres emprunts à concurrence de 10 % de ses actifs.</span>\n                    </li>\n                </ol>\n                <p>Les limites visées aux 2° et 3° peuvent être cumulées.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.739Z",
+  "tokenUsage": {
+    "prompt": 1890,
+    "completion": 399,
+    "total": 2289
+  }
+}

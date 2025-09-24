@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035346",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les participants à la GDI-Vlaanderen ont accès aux sources de données géographiques, aux services géographiques et aux métadonnées qui ont été ajoutés à la GDI. Ils peuvent utiliser les sources de données géographiques et les services géographiques pour l'exécution de missions d'intérêt général, y compris l'exécution de responsabilités ou de fonctions, ou pour assurer des services publics relatifs à l'environnement, à moins que cet accès ne soit limité conformément à l'article 18.</p>\n      <p class=\"intro-text\">Le Gouvernement flamand établit, sur la proposition du groupe de pilotage, les règles détaillées relatives à l'accès et à l'utilisation. Ces règles évitent notamment que des obstacles pratiques pour l'échange se manifestent. Si nécessaire il tient compté des conditions d'utilisation qui sont fixées pour les données géographiques et les services géographiques, visés à l'article 12, premier alinéa, 3° et 4°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.087Z",
+  "tokenUsage": {
+    "prompt": 1801,
+    "completion": 285,
+    "total": 2086
+  }
+}

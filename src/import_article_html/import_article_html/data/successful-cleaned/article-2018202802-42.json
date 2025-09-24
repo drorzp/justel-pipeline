@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018202802",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 42</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article D.29-22, § 2, alinéa 4, du Livre Ier du même Code, inséré par le décret du 31 mai 2007 et modifié par le décret du 27 octobre 2011, les 1° et 2° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'objet et la teneur de la décision;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'endroit ou les endroits où peut être consultée la décision;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.319Z",
+  "tokenUsage": {
+    "prompt": 1619,
+    "completion": 244,
+    "total": 1863
+  }
+}

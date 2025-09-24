@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004022718",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <p class=\"intro-text\">A l'article 4, § 1er, de la loi du 5 avril 1994 régissant le cumul des pensions du secteur public avec des revenus provenant de l'exercice d'une activité professionnelle ou avec un revenu de remplacement, modifié par la loi du 19 juin 1996 et par les arrêtés royaux des 7 février 1997, 24 avril 1998, 22 septembre 2000, 11 décembre 2001 et 23 décembre 2002, sont apportées les modifications suivantes :</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">le montant de 10.845,34 EUR prévu à l'alinéa 1er, 1° et 4° est remplacé par le montant de 13.556,68 EUR;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">le montant de 8.676,27 EUR prévu à l'alinéa 1er, 2° et à l'alinéa 2 est remplacé par le montant de 10.845,34 EUR.</span>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.775Z",
+  "tokenUsage": {
+    "prompt": 1852,
+    "completion": 346,
+    "total": 2198
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996000212",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 14 du même arrêté, est remplacé par la disposition suivante :</p>\n            <p>\"Art. 14. Sur présentation préalable à leur supérieur fonctionnel d'un ordre de mission ou d'un mandat personnel émanant d'un dirigeant responsable, les membres du personnel agréés en vertu de l'article 13, § 1er, alinéa 2, 1° et 2°, obtiennent, si les nécessités de service le permettent et pour la durée nécessaire à cet effet, une dispense de service pour l'exercice d'une ou plusieurs prérogatives.</p>\n            <p>La durée de cette dispense de service n'entre en ligne de compte pour le calcul du temps de travail qu'à concurrence de douze ou six jours par an, selon qu'il s'agit d'un délégué de groupe ou d'un délégué local, et par membre du personnel visé à l'article 13, § 1er, alinéa 2, 1° et 2°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.049Z",
+  "tokenUsage": {
+    "prompt": 1768,
+    "completion": 291,
+    "total": 2059
+  }
+}

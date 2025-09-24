@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035504",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 23 du même décret est remplacé par la disposition suivante : &quot; Article 23. Le Gouvernement flamand agrée et subventionne cinq centres d'intégration provinciaux au maximum ayant comme zone d'action respectivement le territoire des provinces suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la province d'Anvers, à l'exception de la ville d'Anvers;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la province de Flandre orientale, à l'exception de la ville de Gand;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">la province du Limbourg;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">la province du Brabant flamand;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">la province de Flandre occidentale;</span></li>\n      </ol>\n      <p>Le Gouvernement flamand peut décider pour une fusion des zones d'action, visées au premier alinéa, ainsi que des zones d'actions, visées à l'article 27/2, § 1er, et à l'article 36, § 1er, en zones d'action plus grandes.</p>\n      <p>Par dérogation à l'alinéa premier un centre d'intégration provincial peut, après concertation avec le centre d'intégration provincial concerné ou les centres d'intégration intéressés, élargir sa zone d'action dans le cas d'une mission telle que visée à l'article 19, § 2, 3° et 4°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.092Z",
+  "tokenUsage": {
+    "prompt": 2031,
+    "completion": 488,
+    "total": 2519
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035410",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\" data-article-number=\"31\">1er</span>.</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5, § 2, de l'arrêté du Gouvernement flamand du 31 juillet 1991 fixant les conditions de travail et le régime pécuniaire des enseignants de l'apprentissage et des formations certifiées, remplacé par l'arrêté du Gouvernement flamand du 16 mars 1994, et modifié par les arrêtés du Gouvernement flamand des 3 mai 2002, 4 avril 2003 et 14 mars 2008, est ajouté un deuxième alinéa ainsi rédigé :</p>\n      <p class=\"intro-text\">\" Par dérogation au premier alinéa, le conseil d'administration de Syntra Vlaanderen peut déterminer une indemnité plus élevée par heure de cours pour des cours bien définis, tels que visés aux points :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.235Z",
+  "tokenUsage": {
+    "prompt": 1792,
+    "completion": 368,
+    "total": 2160
+  }
+}

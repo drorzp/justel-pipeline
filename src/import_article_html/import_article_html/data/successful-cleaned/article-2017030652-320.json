@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030652",
+  "articleNumber": "320",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-320\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 320</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article VI.83 du Code de droit économique, le 23° abrogé par la loi du 25 décembre 2016, est rétabli dans la rédaction suivante :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"23°\">\n                    <span class=\"provision-text\">désigner un juge autre que celui désigné par l'article 624, 1°, 2° et 4°, du Code judiciaire, sans préjudice de l'application du Règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.738Z",
+  "tokenUsage": {
+    "prompt": 1644,
+    "completion": 244,
+    "total": 1888
+  }
+}

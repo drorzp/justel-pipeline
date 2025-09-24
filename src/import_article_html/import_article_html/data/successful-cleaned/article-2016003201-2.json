@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003201",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'estimation se fait selon une méthode conforme à celle utilisée pour déterminer les recettes fédérales de l'impôt des personnes physiques et expliquée dans l'exposé général du budget.\nL'estimation est réalisée sur la base des chiffres les plus récents pour le dernier exercice d'imposition connu pour lequel le délai d'imposition visé à l'article 359 du Code des impôts sur les revenus 1992 est expiré.\nLes chiffres visés à l'alinéa 2 sont adaptés compte tenu :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">des paramètres qui sont utilisés pour calculer les recettes fédérales pour le même exercice d'imposition, toutefois appliqués par région;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">des mesures discrétionnaires visées à l'article 54/1, § 3, alinéa 2, 1° et 2°, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sur le montant déterminé conformément au paragraphe 1er, on applique un coefficient qui prend en compte la mesure de la perception réelle au 31 août de l'année qui suit l'exercice d'imposition.\nLe coefficient de perception est fixé annuellement et est égal à la moyenne du degré de perception des trois derniers exercices d'imposition connus. Le coefficient est exprimé en pourcent et arrondi à la deuxième décimale supérieure ou inférieure selon que le chiffre de la troisième décimale atteint ou non 5.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.311Z",
+  "tokenUsage": {
+    "prompt": 2113,
+    "completion": 527,
+    "total": 2640
+  }
+}

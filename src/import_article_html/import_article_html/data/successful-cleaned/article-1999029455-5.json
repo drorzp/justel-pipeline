@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999029455",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En tant qu'ils s'appliquent aux agents titulaires, à la veille de la date d'entrée en vigueur du présent arrêté, d'un grade repris dans l'arrêté royal du 12 novembre 1991 relatif aux statuts administratif et pécuniaire du personnel informatique des administrations de l'Etat, les articles 124, 132,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"14°\">\n          <span class=\"provision-text\">et 133 de l'arrêté du Gouvernement du 22 juillet 1996 portant statut des agents des Services du Gouvernement de la Communauté française, entrent en vigueur à la date d'entrée en vigueur du présent arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.176Z",
+  "tokenUsage": {
+    "prompt": 1635,
+    "completion": 243,
+    "total": 1878
+  }
+}

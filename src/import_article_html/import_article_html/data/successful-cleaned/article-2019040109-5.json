@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040109",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 62 du même décret est complété par un alinéa deux, rédigé comme suit : &quot;Le forum des clients, visé à l'article 45/2 mandate les personnes visées à l'alinéa premier, 1° et 2°.&quot;</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.440Z",
+  "tokenUsage": {
+    "prompt": 1481,
+    "completion": 147,
+    "total": 1628
+  }
+}

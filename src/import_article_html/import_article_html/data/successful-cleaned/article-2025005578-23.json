@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025005578",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 18, alinéa 1er, du même Code, modifié en dernier lieu par la loi du 22 décembre 2023, il est inséré le 2° quater, rédigé comme suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2° quater\">\n          <span class=\"provision-text\">la partie de l'avoir social d'une société qui, en vertu de l'article 209, est considérée comme un dividende distribué à l'impôt des sociétés, limitée proportionnellement à la partie du bénéfice distribué à laquelle les actions, parts et parts bénéficiaires, quelle que soit leur dénomination, détenues par le contribuable donnent droit, dans les cas suivants:</span>\n          <ul class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">en cas d'opération visée à l'article 210, § 1er, 4°, et uniquement dans la mesure où ce dividende se rapporte à des éléments qui, à la suite de l'opération, ne sont plus affectés ou maintenus en Belgique;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">en cas d'opération visée à l'article 210, § 1er, 1° et 1° bis, et uniquement dans la mesure où ce dividende se rapporte à des éléments qui, à la suite de l'opération, ne sont plus affectés ou maintenus en Belgique.\"</span>\n            </li>\n          </ul>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.727Z",
+  "tokenUsage": {
+    "prompt": 1981,
+    "completion": 448,
+    "total": 2429
+  }
+}

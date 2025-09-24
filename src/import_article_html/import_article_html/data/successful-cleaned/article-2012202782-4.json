@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012202782",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 6 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 9 octobre 2009, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 1er, les points 5°, 6° et 7° sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 2, alinéa premier, les mots \"ou d'un diplôme de gradué (enseignement supérieur professionnel HBO-5, formation de nursing)\" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au paragraphe 2, l'alinéa deux est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le paragraphe 4 est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.331Z",
+  "tokenUsage": {
+    "prompt": 1820,
+    "completion": 341,
+    "total": 2161
+  }
+}

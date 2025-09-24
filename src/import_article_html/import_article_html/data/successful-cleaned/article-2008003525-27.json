@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008003525",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les transferts visés à l'article 15 de la loi du 1er juin 2008 contenant le budget des Voies et Moyens de l'année budgétaire 2008 sont majorés du solde probable du décompte de l'année budgétaire 2008 qui est estimé à 69.783.166 EUR pour la Région flamande, à 45.534.667 EUR pour la Région wallonne et à 24.838.903 EUR pour la Région de Bruxelles - Capitale.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Conformément aux articles 53,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">et 35octies de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat et par la loi spéciale du 13 juillet 2001 portant refinancement des communautés et extension des compétences fiscales des régions, les transferts visés aux articles 34 et 35ter à 35septies pour l'année budgétaire 2009 sont estimés à 5.908.607.243 EUR pour la Région flamande, à 3.566.181.633 EUR pour la Région wallonne et à 867.989.016 EUR pour la Région de Bruxelles-Capitale.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.996Z",
+  "tokenUsage": {
+    "prompt": 2039,
+    "completion": 479,
+    "total": 2518
+  }
+}

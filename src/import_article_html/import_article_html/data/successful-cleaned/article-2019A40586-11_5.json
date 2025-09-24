@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019A40586",
+  "articleNumber": "11:5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11:5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11:5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La nullité d'une fondation ne peut être prononcée que dans les cas suivants:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">lorsque l'acte constitutif n'est pas établi en la forme requise;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">lorsque les statuts ne contiennent pas les mentions visées à l'article 2:11, § 2, 2° et 3° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">lorsque le but ou l'objet en vue duquel elle est constituée, ou son but ou objet réel, contrevient à la loi ou à l'ordre public;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">lorsqu'elle a été constituée dans le but de fournir à ses fondateurs, aux membres de son organe d'administration ou à toute autre personne, sauf dans le but désintéressé déterminé par les statuts, des avantages patrimoniaux directs ou indirects tels que visés à l'article 1:4.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.118Z",
+  "tokenUsage": {
+    "prompt": 1853,
+    "completion": 396,
+    "total": 2249
+  }
+}

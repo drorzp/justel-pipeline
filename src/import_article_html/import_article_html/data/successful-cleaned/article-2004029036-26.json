@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004029036",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'alinéa 2 de l'article 2 du décret du 17 juillet 2003 relatif à une intervention dans les frais de transport en commun public et/ou dans l'utilisation de la bicyclette des membres du personnel, sont apportées les modifications suivantes :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">au premier tiret, les mots \" des internats, \" sont insérés entre les mots \" de promotion sociale \" et \" des Hautes Ecoles, \";</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">au deuxième tiret, les mots \" des internats dépendant de ces établissements, des internats autonomes, des homes d'accueil, \" sont insérés entre les mots \" des Hautes Ecoles, \" et \" des Ecoles supérieures des arts \";</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"c)\">\n          <span class=\"provision-text\">au troisième tiret, le mot \" technique \" est supprimé;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"d)\">\n          <span class=\"provision-text\">au quatrième tiret, le mot \" technique \" est supprimé;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"e)\">\n          <span class=\"provision-text\">un cinquième tiret nouveau libellé comme suit est inséré :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"provision-text\">\" - des centres visés à l'article 1er, 8°, 9°, 10° et 11°, s'il s'agit d'un membre du personnel de ces derniers. \"</span>\n            </li>\n          </ul>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.784Z",
+  "tokenUsage": {
+    "prompt": 2013,
+    "completion": 497,
+    "total": 2510
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040370",
+  "articleNumber": "119",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-119\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 119</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour chaque membre effectif, le Gouvernement désigne un membre suppléant selon les mêmes modalités que celles visées à l'article 118, 1°, 2° et 4°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.376Z",
+  "tokenUsage": {
+    "prompt": 1438,
+    "completion": 124,
+    "total": 1562
+  }
+}

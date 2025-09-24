@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019A12565",
+  "articleNumber": "2.2.6.49",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2-2-6-49\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2.2.6.49</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Paiement</p>\n          <p>L'adjudicataire paie les montants dont il est question à l'article 2.2.6.48,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1°</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">2°</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">4°</span>\n            </li>\n          </ol>\n          <p>de la manière déterminée dans les conditions de vente.</p>\n          <p>Il paie le montant visé à l'article 2.2.6.48, 3°, entre les mains de l'officier public ou ministériel désigné.</p>\n          <p>L'acheteur est libéré par ces paiements.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.230Z",
+  "tokenUsage": {
+    "prompt": 1645,
+    "completion": 354,
+    "total": 1999
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998003350",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 61 de la loi du 8 juillet 1970 créant de nouveaux avantages en faveur des victimes du devoir militaire ou d'un devoir assimilé, modifié par la loi du 18 mai 1998 portant modification de la législation relative aux pensions et aux rentes de guerre, dont le texte actuel formera le § 1er, est complété par un § 2 rédigé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsque les commissions prévues à l'article 47, § 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">des lois coordonnées sur les pensions de réparation, statuent sur des demandes de pension relatives à des dommages physiques visés à l'article 60, alinéas 1er et 2, elles comprennent un membre supplémentaire qui est un invalide bénéficiaire d'une pension de réparation accordée pour de tels dommages. Ce membre supplémentaire est désigné par le Ministre qui a les pensions de réparation dans ses attributions. En cas de partage des voix lors d'un vote, la voix du président ou du vice-président est prépondérante.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.074Z",
+  "tokenUsage": {
+    "prompt": 1901,
+    "completion": 405,
+    "total": 2306
+  }
+}

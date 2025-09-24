@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044728",
+  "articleNumber": "111",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-111\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 111</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 3,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">, et l'article 31 du décret du 23 décembre 2022 modifiant la loi du 28 décembre 1964 relative à la lutte contre la pollution atmosphérique, le décret sur l'Energie du 8 mai 2009, le décret du 13 juillet 2012 contenant les dispositions accompagnant le deuxième ajustement du budget 2012 et le décret du 17 décembre 2021 modifiant le décret sur l'Energie du 8 mai 2009, en ce qui concerne les allocations au Fonds de l'Energie, les modifications relatives à la flexibilité et au partage d'énergie, le développement de la plateforme de données énergétiques et la révision des amendes administratives en matière d'exigences d'installation entrent en vigueur le 1er décembre 2023.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.371Z",
+  "tokenUsage": {
+    "prompt": 1766,
+    "completion": 324,
+    "total": 2090
+  }
+}

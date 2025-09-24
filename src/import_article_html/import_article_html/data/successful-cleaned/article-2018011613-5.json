@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011613",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 132 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 23 octobre 2015, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">le paragraphe 1 est abrogé ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">dans le paragraphe 2, les points 5° et 8° sont abrogés ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">dans le paragraphe 3, le membre de phrase \" 3° et \" est abrogé ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"4°\">\n        <span class=\"provision-text\">le paragraphe 4 est remplacé par ce qui suit :</span>\n        <section class=\"paragraph\" id=\"para-4\">\n          <h3 class=\"paragraph-marker\">§ 4.</h3>\n          <div class=\"paragraph-content\">\n            <p>L'organisation d'assainissement du sol agréée peut toujours introduire auprès du Ministre une demande de modification du modèle, visé au paragraphe 2. Le Ministre prend une décision sur cette demande, sur la proposition de l'OVAM, dans les nonante jours après avoir reçu la demande.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.682Z",
+  "tokenUsage": {
+    "prompt": 1874,
+    "completion": 416,
+    "total": 2290
+  }
+}

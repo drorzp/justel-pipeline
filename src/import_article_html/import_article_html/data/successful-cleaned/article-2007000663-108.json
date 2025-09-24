@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000663",
+  "articleNumber": "108",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-108\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 108</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        Pour l'exécution de ses missions en matière de sécurité sur le territoire de sa province, le gouverneur ainsi que \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-01-06/64\" data-law-type=\"L\" data-article-number=\"25\">\n          l'autorité de l'agglomération bruxelloise compétente en vertu de l'article 48 de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises\n        </span>, peut faire appel aux zones. A cette fin, \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-01-06/64\" data-law-type=\"L\" data-article-number=\"25\">\n          ils adressent\n        </span> une demande au commandant de zone afin que celui-ci prenne les dispositions nécessaires. Les postes de la zone ou des zones sont placés dans ce cadre sous l'autorité du gouverneur ou \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-01-06/64\" data-law-type=\"L\" data-article-number=\"25\">\n          de l'autorité de l'agglomération bruxelloise compétente en vertu de l'article 48 de la loi spéciale du 12 janvier 1989 relative aux Institutions\n        </span>.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.818Z",
+  "tokenUsage": {
+    "prompt": 2156,
+    "completion": 391,
+    "total": 2547
+  }
+}

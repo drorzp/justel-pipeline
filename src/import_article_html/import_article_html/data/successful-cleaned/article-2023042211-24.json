@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042211",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 115 du même arrêté les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 1er les mots \" mutation interne \" sont remplacés par \" mobilité interne \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux points 1° et 2° du paragraphe 1er, les mots \" offre de mutation \" sont remplacés par les mots \" offre de mobilité interne \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.738Z",
+  "tokenUsage": {
+    "prompt": 1668,
+    "completion": 231,
+    "total": 1899
+  }
+}

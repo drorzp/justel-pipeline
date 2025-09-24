@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005058",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 44</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Collège réuni peut arrêter des mesures transitoires particulières relatives à la diminution progressive des forfaits alloués pour certains appareillages ou matériels visés aux articles 29, 1°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et 31, § 3, de l'arrêté royal du 25 avril 2002 relatif à la fixation et à la liquidation du budget des moyens financiers des hôpitaux.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.427Z",
+  "tokenUsage": {
+    "prompt": 1602,
+    "completion": 240,
+    "total": 1842
+  }
+}

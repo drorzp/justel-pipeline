@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024203477",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les informations mentionnées ci-après sont transmises à l'Office de l'emploi par le service de placement agréé ou par l'Office de la Communauté germanophone pour une vie autodéterminée pour l'application de l'article 37, § 1er, alinéa 4, du décret :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les informations mentionnées à l'article 6, 1° à 8°;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le numéro de compte du stagiaire;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">la convention d'objectifs mentionnée à l'article 38 du décret;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">toute modification des données mentionnées aux 1° et 2° qui surviendrait au cours du contrat de stage.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.707Z",
+  "tokenUsage": {
+    "prompt": 1751,
+    "completion": 332,
+    "total": 2083
+  }
+}

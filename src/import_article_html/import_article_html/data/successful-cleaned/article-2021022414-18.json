@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021022414",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'instance compétente désignée par le Gouvernement flamand vérifie :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">si les communautés religieuses locales respectent les obligations visées aux articles 7 et 8, deuxième alinéa, pendant la période d'attente visée à l'article 10, prolongée, le cas échéant, conformément à l'article 14, § 3 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">si les communautés religieuses locales respectent les obligations visées à l'article 7, à l'exception des points 10° et 11°, au cours de la procédure visée à l'article 67, § 1 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">si les administrations du culte respectent et continuent de respecter les obligations visées au chapitre 3 du présent décret.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">A la demande de l'autorité de tutelle, l'instance compétente peut demander les informations nécessaires et fournir des informations sur les administrations du culte dans le cadre du maintien du respect des obligations énumérées dans le décret du 7 mai 2004. L'instance compétente ne peut ni perturber ni interrompre un culte en cours pendant l'exécution des missions visées au premier alinéa.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.184Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 430,
+    "total": 2378
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1966101009",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le repos compensatoire auquel ont droit les ouvriers occupés le dimanche, en vertu de l'article 5, § 1er, ou de l'article 6, § 1er, 13° et 24°, de la loi du 6 juillet 1964, sur le repos du dimanche <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"16-03-1971\" data-law-type=\"L\" data-article-number=\"12\">&lt;voir L 16-03-1971, art. 12&gt;</span> est octroyé dans les quatre semaines qui suivent ce dimanche.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.571Z",
+  "tokenUsage": {
+    "prompt": 1630,
+    "completion": 217,
+    "total": 1847
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017032170",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">En application de l'article 5, § 3, alinéa 1er, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, le Gouvernement est chargé de notifier au plus tard le 31 décembre 2017 au Gouvernement fédéral la décision de la Région de Bruxelles-Capitale d'assurer le service de la taxe de circulation sur les véhicules automobiles et de la taxe de mise en circulation mentionnées à l'article 3, alinéa 1er, 10° et 11°, de la même loi spéciale.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.718Z",
+  "tokenUsage": {
+    "prompt": 1649,
+    "completion": 204,
+    "total": 1853
+  }
+}

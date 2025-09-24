@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012007147",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 8 de la même loi les modifications suivantes sont apportées :</p>\n      <ol class=\"sub-provisions-list\">\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          l'alinéa 1er, 2°, est remplacé par ce qui suit :\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">être belge ou être citoyen d'un autre Etat membre de l'Espace économique européen ou de la Confédération suisse;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          l'alinéa 1er est complété par les 8°, 9° et 10° rédigés comme suit :\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">jouir des droits civils et politiques;</span>\n            </li>\n            <li class=\"provision\" data-number=\"9°\">\n              <span class=\"provision-text\">le cas échéant, ne pas avoir reçu un avis de sécurité négatif du département d'état-major renseignement et sécurité, délivré sur la base d'une vérification de sécurité conformément aux dispositions de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité, ou ne pas avoir refusé cette vérification de sécurité. Par dérogation à l'article 22septies de la loi précitée, aucune rétribution n'est due par le postulant qui fait l'objet d'une vérification de sécurité;</span>\n            </li>\n            <li class=\"provision\" data-number=\"10°\">\n              <span class=\"provision-text\">satisfaire aux prescriptions réglementaires relatives à la présentation du militaire.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.181Z",
+  "tokenUsage": {
+    "prompt": 2032,
+    "completion": 508,
+    "total": 2540
+  }
+}

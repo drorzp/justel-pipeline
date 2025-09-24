@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020042746",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'annexe III/3 à l'arrêté relatif à l'énergie du 19 novembre 2010, telle que modifiée par l'article 10, 7°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">, du présent arrêté, s'applique aux projets pour lesquels aucun facteur de banding provisoire ou définitif spécifique au projet n'a encore été fixé avant le 1er septembre 2020, conformément à l'article 6.2/1.7, paragraphe 1er ou paragraphe 2, de l'arrêté relatif à l'énergie du 19 novembre 2010.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.167Z",
+  "tokenUsage": {
+    "prompt": 1665,
+    "completion": 268,
+    "total": 1933
+  }
+}

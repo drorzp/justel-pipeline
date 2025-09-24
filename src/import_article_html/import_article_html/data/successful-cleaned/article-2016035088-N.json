@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016035088",
+  "articleNumber": "N",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N\">\n   <header class=\"article-header\">\n      <h2 class=\"article-number\">Article N</h2>\n   </header>\n   <div class=\"article-content\">\n      <div class=\"article-text\">\n         <p class=\"intro-text\">Annexe 2.3.6 à l'arrêté du Gouvernement flamand du 1er juin 1995 fixant les dispositions générales et sectorielles en matière d'hygiène de l'environnement Annexe 2.3.6. Objectifs de gestion des risques d'inondation et objectifs de gestion de la pénurie en eau de surface Article 1er. Dans la présente annexe, on entend par :</p>\n         <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n               <span class=\"provision-text\">décret du 18 juillet 2003 : le décret du 18 juillet 2003 relatif à la politique intégrée de l'eau ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n               <span class=\"provision-text\">risque d'inondation : un risque d'inondation tel que visé à l'article 3, § 2, 59° du décret du 18 juillet 2003 ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n               <span class=\"provision-text\">pénurie en eau : l'état quantitatif d'une masse d'eau de surface, caractérisé par un déséquilibre important entre la consommation d'eau et la disponibilité naturelle en eau, compromettant les objectifs de la politique intégrée de l'eau, visés à l'article 5, alinéa premier, 3°, 5°, 6° et 8° du décret du 18 juillet 2003.</span>\n            </li>\n         </ol>\n      </div>\n   </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.227Z",
+  "tokenUsage": {
+    "prompt": 1959,
+    "completion": 431,
+    "total": 2390
+  }
+}

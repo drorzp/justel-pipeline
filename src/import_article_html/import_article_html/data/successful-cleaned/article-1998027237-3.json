@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998027237",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les dossiers relatifs aux missions visées à l'article 2, 2°, 3°, 5°, 6° et 7°, sont soumis par (l'administrateur général) pour décision au Gouvernement ou au Ministre que ce dernier a délégué à cette fin. \n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-04-01/53\" data-law-type=\"DWG\" data-article-number=\"5\">&lt;DWG 2004-04-01/53, art. 5, 003; En vigueur : 01-07-2004&gt;</span>\n            </p>\n            <p class=\"intro-text\">Les dossiers relatifs aux missions visées à l'article 2, 1° et 4°, sont soumis par (l'administrateur général) pour décision au conseil d'administration. \n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-04-01/53\" data-law-type=\"DWG\" data-article-number=\"5\">&lt;DWG 2004-04-01/53, art. 5, 003; En vigueur : 01-07-2004&gt;</span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.094Z",
+  "tokenUsage": {
+    "prompt": 1904,
+    "completion": 350,
+    "total": 2254
+  }
+}

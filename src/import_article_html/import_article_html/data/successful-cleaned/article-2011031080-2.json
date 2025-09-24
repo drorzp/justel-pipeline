@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011031080",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans l'article 98, § 1er, de l'ordonnance du 17 juillet 2003 portant le Code bruxellois du Logement, inséré par l'ordonnance du 1er avril 2004, l'alinéa premier est modifié comme suit: &quot; Le Conseil consultatif est composé de vingt-cinq membres, à savoir: [...] &quot;.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans l'article 98, § 1er de la même ordonnance, inséré par l'ordonnance du 1er avril 2004, les 4° et 10° sont remplacés par ce qui suit:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">un représentant de la Confédération Construction Bruxelles-Capitale,</span>\n          </li>\n          <li class=\"provision\" data-number=\"10°\">\n            <span class=\"provision-text\">deux représentants de l'Association de la Ville et des Communes de la Région de Bruxelles-Capitale, dont un de la section &quot; Centres publics d'Action sociale &quot;,</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 98, § 1er de la même ordonnance, inséré par l'ordonnance du 1er avril 2004, est complété par le 16° rédigé comme suit:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"16°\">\n            <span class=\"provision-text\">un représentant du secteur des promoteurs immobiliers désigné par l'Union professionnelle du Secteur immobilier (UPSI).</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.206Z",
+  "tokenUsage": {
+    "prompt": 2232,
+    "completion": 584,
+    "total": 2816
+  }
+}

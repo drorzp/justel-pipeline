@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032180",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 42</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'enseignant qui désire obtenir un agrément doivent présenter une demande à l'administration par voie électronique, dont le modèle est fixé par l'administration.</p>\n      <p>L'enseignant de la partie visée à l'article 2, alinéa premier,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">joint à sa demande les documents dont il ressort que les conditions visées à l'article 39, 1°, 2° et 3°, et l'article 40, sont remplies.</span>\n        </li>\n      </ol>\n      <p>L'enseignant de la partie visée à l'article 2, alinéa premier,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et 3°, joint à sa demande les documents dont il ressort que les conditions visées à l'article 39, 1°, 2° et 3°, et l'article 41, sont remplies.</span>\n        </li>\n      </ol>\n      <p>Le ministre ou son mandataire informe l'enseignant, au plus tard un mois après la réception de la demande, si celle-ci est complète ou non.</p>\n      <p>Si la demande est incomplète, le Ministre ou son mandataire ne la traitera pas avant d'avoir reçu les informations manquantes.</p>\n      <p>Dans un délai de deux mois à compter de la présentation d'une demande complète, le Ministre ou son mandataire décide de l'agrément ou non de l'enseignant.</p>\n      <p>Le Ministre ou son mandataire peut proroger d'un mois le délai dans lequel il doit prendre sa décision. Il en informe l'enseignant.</p>\n      <p>Si aucune décision n'est prise dans le délai imposé, l'absence de décision est considérée comme une décision d'acceptation.</p>\n      <p>Dans le cas d'une décision d'agrément, le Ministre ou son mandataire délivre un certificat de l'agrément.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.409Z",
+  "tokenUsage": {
+    "prompt": 2161,
+    "completion": 550,
+    "total": 2711
+  }
+}

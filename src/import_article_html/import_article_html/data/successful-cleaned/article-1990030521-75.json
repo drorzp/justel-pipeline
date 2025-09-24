@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990030521",
+  "articleNumber": "75",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-75\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 75</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                (NOTE : abrogé pour les personnes morales qui relèvent de la Communauté flamande ou de la Région flamande par \n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-07-18/45\" data-law-type=\"DCFL\" data-article-number=\"37\">\n                    DCFL 2003-07-18/45, art. 37, 2°\n                </span>;\n                <b>En vigueur :</b> 01-09-2003) Les règles fixées par l'article 18, §§ 2 et 3 de l'arrêté royal du 17 septembre 1969 concernant les concours et examens organisés en vue du recrutement et de la carrière des agents de l'Etat restent applicables aux réserves de recrutement visées à l'article 70, § 2, 1° et 3°.\n            </p>\n            <p class=\"closing-text\">\n                Au deuxième alinéa du § 2 de l'article 18 précité, les mots \" et sans préjudice des articles 5 et 6 de la loi du 26 mars 1968 facilitant le recrutement dans les services publics des personnes ayant accompli des services à la coopération avec les pays en voie de développement \" ne sont toutefois pas applicables aux emplois qui appartiennent au quota réservé prévu à l'article 70, § 1er.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.727Z",
+  "tokenUsage": {
+    "prompt": 1912,
+    "completion": 381,
+    "total": 2293
+  }
+}

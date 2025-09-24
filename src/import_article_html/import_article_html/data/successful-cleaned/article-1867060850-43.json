@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1867060850",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La confiscation spéciale (s'appliquant aux choses visées aux 1° et 2° de l'article 42) sera toujours prononcée pour crime ou délit. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-03-18/14\" data-law-type=\"L\" data-article-number=\"19\">La confiscation des choses qui ont servi ou qui <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2019-05-05/10\" data-law-type=\"L\" data-article-number=\"67\">ont été</span> destinées à commettre le crime ou le délit sera ordonnée, sauf lorsqu'elle a pour effet de soumettre le condamné à une peine déraisonnablement lourde.</span><span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1990-07-17/30\" data-law-type=\"L\" data-article-number=\"2\">&lt;L 1990-07-17/30, art. 2, 004;**En vigueur :**25-08-1990&gt;</span></p>\n      <p>Elle ne sera prononcée pour contravention que dans les cas déterminés par la loi.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.664Z",
+  "tokenUsage": {
+    "prompt": 1919,
+    "completion": 361,
+    "total": 2280
+  }
+}

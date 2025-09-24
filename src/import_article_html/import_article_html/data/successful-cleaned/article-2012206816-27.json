@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012206816",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un partenariat intercommunal tel que visé à l'article 38 du décret du 6 juillet 2012 peut introduire auprès de l'administration, avant le 1er décembre, une demande de subventionnement à l'appui de l'harmonisation de l'offre culturelle et de la communication culturelle, sur la base d'un dossier démontrant que les conditions, visées à l'article 38, alinéa deux,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n      </ol>\n      <p class=\"closing-text\">Le Ministre accepte ou refuse la demande de subvention et communique sa décision au partenariat intercommunal au plus tard le 31 mars de l'année suivant l'introduction de la demande de subvention. Si aucune décision n'a été envoyée dans ce délai, le Ministre est censé accepter la demande de subvention et l'administration en informera le partenariat intercommunal. Le subventionnement prend cours le 1er janvier de l'année suivant l'introduction de la demande de subvention et concerne une période qui court jusqu'à la première année incluse d'une nouvelle législature communale.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.077Z",
+  "tokenUsage": {
+    "prompt": 1915,
+    "completion": 404,
+    "total": 2319
+  }
+}

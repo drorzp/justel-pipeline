@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019014858",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 39</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article X 67 du même arrêté, modifié par les arrêtés du Gouvernement flamand des 23 mai 2008, 29 mai 2009 et 26 avril 2019, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le point 2°, les mots \" ou président du conseil d'assistance sociale d'une commune \" sont abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">entre les points 2° et 3°, il est inséré un point 2° /1, rédigé comme suit : \" 2° /1 président du conseil de l'aide sociale d'un centre public d'action sociale desservant la commune de Fourons, ou une commune telle que visée à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1996 : le règlement pour échevin, visé au point 2°, s'applique par analogie ; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.394Z",
+  "tokenUsage": {
+    "prompt": 1803,
+    "completion": 344,
+    "total": 2147
+  }
+}

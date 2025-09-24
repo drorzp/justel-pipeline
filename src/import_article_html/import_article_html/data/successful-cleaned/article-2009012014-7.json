@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009012014",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 127, § 1er, du même arrêté sont apportées les modifications suivantes :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">A)</h3>\n                <div class=\"paragraph-content\">\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-05-19/05\" data-law-type=\"AR\" data-article-number=\"3\">\n                        le 2° et le 3° sont remplacés par les dispositions suivantes :\n                    </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">pour le travailleur isolé qui a atteint l'âge de 55 ans à 6,2 % de la rémunération journalière moyenne;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"3°\">\n                            <span class=\"provision-text\">pour le travailleur isolé non visé au 2° à 2 % de la rémunération journalière moyenne.</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">B)</h3>\n                <div class=\"paragraph-content\">\n                    <p>le 4° est remplacé par la disposition suivante :</p>\n                    <p class=\"closing-text\">\" 2,84 euros pour le travailleur cohabitant dont le montant journalier de l'allocation de chômage est fixé à 14,11 euros. \"</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.029Z",
+  "tokenUsage": {
+    "prompt": 1858,
+    "completion": 436,
+    "total": 2294
+  }
+}

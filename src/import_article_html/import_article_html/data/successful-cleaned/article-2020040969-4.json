@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020040969",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 8 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Aux points 9° et 11° b) de l'alinéa 1er, les mots \"l'Administration\" sont remplacés par le mot \"Iriscare\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Au point 10° de l'alinéa 1er, les mots \"au service des prix du SPF Economie, P.M.E., Classes moyennes et Energie\" sont remplacés par les mots \"à Iriscare\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2 : \"Les documents visés sous 3°, 4°, 7°, 8°, 9° et 10° de l'alinéa premier ne doivent pas être fournis à nouveau si la demande visée à l'alinéa premier concerne des lits de maisons de repos et de soins ou de centres de soins de jour mis en service dans une maison de repos agréée, et si aucune modification n'y a été apportée depuis l'introduction du dossier descriptif afférent à la précédente demande d'autorisation de fonctionnement provisoire ou d'agrément auprès d'Iriscare.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.265Z",
+  "tokenUsage": {
+    "prompt": 1977,
+    "completion": 440,
+    "total": 2417
+  }
+}

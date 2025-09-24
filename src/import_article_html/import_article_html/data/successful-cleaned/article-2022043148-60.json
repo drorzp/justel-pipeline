@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043148",
+  "articleNumber": "60",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-60\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 60</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les délais visés à l'article 7.1.1, § 1er, alinéas 2 et 5, du Décret sur l'énergie du 8 mai 2009, insérés par l'article 25,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">prennent cours à partir de la date d'entrée en vigueur du présent décret, pour les installations de production pour lesquelles les périodes d'aide, visées à l'article 7.1.1, § 1er, du Décret sur l'énergie du 8 mai 2009, ont déjà expiré à la date d'entrée en vigueur du présent arrêté.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.873Z",
+  "tokenUsage": {
+    "prompt": 1669,
+    "completion": 283,
+    "total": 1952
+  }
+}

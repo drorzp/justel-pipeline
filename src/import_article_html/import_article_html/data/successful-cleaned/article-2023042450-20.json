@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042450",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le promoteur introduit une justification financière de la subvention visée à l'article 3. La justification financière démontre les coûts qui ont été exposés pour réaliser les activités pour lesquelles la subvention a été octroyée, et les produits qui ont été dégagés, dans le cadre de ces activités, des activités proprement dites ou d'autres sources. La justification financière comprend tous les éléments suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">un état récapitulatif contenant un aperçu global de tous les coûts et produits se rapportant à la période subventionnée pour les activités subventionnées du promoteur et de chaque partenaire</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un compte de résultat du promoteur et de chaque partenaire reprenant tous les coûts et produits se rapportant à la période subventionnée pour les activités subventionnées. Les éventuelles subventions supplémentaires octroyées par l'Autorité flamande ou d'autres autorités pour les mêmes activités figurent également dans le compte de résultat.</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les pièces justificatives du promoteur et de chaque partenaire.</span></li>\n      </ol>\n      <p class=\"intro-text\">Si le promoteur coopère avec d'autres partenaires, chaque partenaire fournit au promoteur tous les documents visés à l'alinéa 1er, 2° et 3°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.761Z",
+  "tokenUsage": {
+    "prompt": 1947,
+    "completion": 423,
+    "total": 2370
+  }
+}

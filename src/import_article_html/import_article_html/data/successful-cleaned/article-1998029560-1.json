@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998029560",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Conformément à l'article 2 de l'arrêté du Gouvernement de la Communauté française fixant l'organisation et la capacité d'accueil de l'institution publique de protection de la jeunesse de Braine-le-Château, les places visées à l'article 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">du même arrêté sont mises en oeuvre le 1er décembre 1998.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">A cette même date, les places visées à l'article 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">du même arrêté sont supprimées.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.052Z",
+  "tokenUsage": {
+    "prompt": 1686,
+    "completion": 308,
+    "total": 1994
+  }
+}

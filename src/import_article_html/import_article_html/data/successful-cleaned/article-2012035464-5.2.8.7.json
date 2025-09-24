@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012035464",
+  "articleNumber": "5.2.8.7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5-2-8-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5.2.8.7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les transformateurs dont les liquides contiennent plus de 0,05 % en poids de PCV peuvent être nettoyés aux conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'objectif du nettoyage des appareils contenant du PCV consiste à abaisser le taux de PCB à moins de 0,05 pour cent en poids et, si possible, à maximum 0,005 pour cent en poids;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le liquide de remplacement, qui ne contient pas de PCB, doit comporter clairement moins de risques;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le remplacement du liquide ne peut pas menacer la suppression ultérieure des PCB.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Les transformateurs dont les liquides contiennent entre 0,05 et 0,005 pour cent en poids de PCB peuvent être nettoyés en fonction des conditions mentionnées aux alinéas 1°, 2° et 3° dans l'objectif final de réduire le taux de PCB à 0,005 pour cent en poids maximum.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.273Z",
+  "tokenUsage": {
+    "prompt": 1861,
+    "completion": 389,
+    "total": 2250
+  }
+}

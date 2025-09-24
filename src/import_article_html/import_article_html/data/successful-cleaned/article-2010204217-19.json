@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010204217",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même arrêté, il est inséré un article 27/2 rédigé comme suit :</p>\n      <blockquote class=\"article-quote\">\n        <p class=\"quote-text\">Art. 27/2. Par dérogation aux articles 115 et 116 du Code, pour les métiers du conseil, les compétences du SELOR sont exercées par le service public désigné par le Gouvernement wallon visé à l'article 27/1 de l'arrêté précité et celles de la Région wallonne sont exercées par le Département des ressources humaines de l'Office.</p>\n        <p class=\"quote-text\">Par dérogation à l'article 116, § 3, du Code, la vérification des conditions générales d'admissibilité prévues par l'article 19, 1° et 2°, du Code préalable à la désignation des lauréats est effectuée par le service public désigné par le Gouvernement. Dans l'attente de la désignation de ce service public, la vérification des conditions générales d'admissibilité se fait par le SELOR.</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.336Z",
+  "tokenUsage": {
+    "prompt": 1817,
+    "completion": 316,
+    "total": 2133
+  }
+}

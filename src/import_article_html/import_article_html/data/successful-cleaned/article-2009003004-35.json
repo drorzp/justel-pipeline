@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009003004",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La présente loi est applicable pour les opérations ou transferts effectués à partir du jour de la publication de la présente loi au Moniteur belge.</p>\n      <p class=\"intro-text\">Par dérogation à l'alinéa 1er, les articles 5, d, 21, 1°, et 27, b, de la présente loi sont applicables à partir de l'exercice d'imposition 2007.</p>\n      <p class=\"intro-text\">Par dérogation à l'alinéa 1er, l'article 184bis, § 1er, alinéa 2, du Code des impôts sur les revenus 1992, tel qu'inséré par l'article 13 de la présente loi, est applicable aux opérations effectuées à partir du 6 février 2001.</p>\n      <p class=\"intro-text\">Par dérogation à l'alinéa 1er, l'article 19, 3° et 4°, respectivement pour les opérations réalisées à partir du 1er janvier 1990 et à partir du 1er octobre 1993, est applicable à partir de l'exercice d'imposition 2009.</p>\n      <p class=\"intro-text\">Par dérogation à l'alinéa 1er, l'article 21, 2°, de la présente loi est applicable aux fusions, scissions ou opérations y assimilées qui sont réalisées à partir du 1er octobre 1993, et ceci à partir de l'exercice d'imposition 2009.</p>\n      <p class=\"closing-text\">Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.</p>\n      <p class=\"closing-text\">Bruxelles, le 11 décembre 2008.</p>\n      <p class=\"closing-text\">ALBERT</p>\n      <p class=\"closing-text\">Par le Roi :</p>\n      <p class=\"closing-text\">Le Vice-Premier Ministre et Ministre des Finances,</p>\n      <p class=\"closing-text\">D. REYNDERS</p>\n      <p class=\"closing-text\">Scellé du sceau de l'Etat :</p>\n      <p class=\"closing-text\">Le Vice-Premier Ministre en Ministre de la Justice,</p>\n      <p class=\"closing-text\">J. VANDEURZEN.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.074Z",
+  "tokenUsage": {
+    "prompt": 2194,
+    "completion": 607,
+    "total": 2801
+  }
+}

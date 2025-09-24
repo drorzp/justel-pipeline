@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001000238",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        L'Institut scientifique de la Santé publique Louis Pasteur est autorisé à recevoir communication des informations visées à l'article 3, alinéa 1er, 1° à 3° et 5° à 9°, de la loi du 8 août 1983 organisant un Registre national des personnes physiques dans le cadre de son enquête \"een retrospectieve follow-up studie van de meest begaafden in Vlaanderen\" (une étude rétrospective de suivi des surdoués en Flandre\").\n      </p>\n      <p class=\"closing-text\">\n        L'utilisation des informations obtenues en communication du Registre national est autorisée aux seules fins mentionnées ci-après : pour autant que cela s'avère nécessaire pour cette enquête, l'Institut susvisé est autorisé à prendre un échantillon du Registre national composé de 1600 personnes ayant participé au cours des années 1922 à 1940 à l'examen du Fonds provincial pour les Surdoués de la Province d'Anvers.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.197Z",
+  "tokenUsage": {
+    "prompt": 1840,
+    "completion": 303,
+    "total": 2143
+  }
+}

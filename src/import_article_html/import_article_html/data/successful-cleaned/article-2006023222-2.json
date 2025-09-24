@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006023222",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Le service où est installé un tomographe à résonance magnétique est considéré comme un service médico-technique, visé à l'article 44 de la loi sur les hôpitaux, coordonnée le 7 août 1987, pour autant qu'il réponde aux conditions du présent arrêté.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Par dérogation à l'alinéa 1er, le service visé à l'article 48, § 1er, alinéa 2, de la loi du 27 avril 2005 relative à la maîtrise du budget des soins de santé et portant diverses dispositions en matière de santé ne doit pas remplir les conditions visées à l'article 3, alinéa 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1°</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3°, à l'article 5, § 1er, et à l'article 7.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.667Z",
+  "tokenUsage": {
+    "prompt": 1752,
+    "completion": 408,
+    "total": 2160
+  }
+}

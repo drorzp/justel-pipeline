@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014027151",
+  "articleNumber": "D.205",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-D-205\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article D.205</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'octroi de l'autorisation est subordonné au respect des conditions déterminées par le Gouvernement. Celles-ci portent sur le rôle d'exemplarité aux fins d'atteindre l'objectif mentionné à l'article D.1er, § 3, alinéa 1er, 4° et comprennent au minimum :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les caractéristiques des bâtiments et des abords de l'exploitation agricole;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'état d'entretien, de salubrité et de propreté, le confort et la sécurité des bâtiments et des abords de l'exploitation agricole;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">l'exigence d'assurances spécifiques;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">l'existence d'un projet pédagogique;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">le respect de l'environnement.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.212Z",
+  "tokenUsage": {
+    "prompt": 1808,
+    "completion": 381,
+    "total": 2189
+  }
+}

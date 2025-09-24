@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010022534",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les intermédiaires en assurances visés à l'article 6, un organisme central peut introduire une demande collective d'inscription pour plusieurs candidats, conformément au libellé de l'article 9, § 1er, alinéa 4, de la loi du 27 mars 1995.  \n        Par dérogation à l'article 5, alinéa 1er, 1° et 2°, de l'arrêté royal du 25 mars 1996, l'organisme central met à la disposition de l'OCM, pour chaque candidat, les documents énumérés dans l'article 6, à l'exception du document visé à l'article 3, 5°, ou à l'article 4, 5°, de l'arrêté royal du 25 mars 1996.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par ailleurs, l'organisme central met également à la disposition de l'OCM un document dont il ressort :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">soit qu'il assume les obligations en matière de responsabilité professionnelle du candidat, telle que visée à l'article 21 de l'arrêté royal du 25 mars 1996;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">soit qu'il a souscrit, pour le candidat, une assurance de responsabilité professionnelle au sens de l'article 18 de l'arrêté royal du 25 mars 1996;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">soit que le candidat lui-même a souscrit une assurance de responsabilité professionnelle au sens de l'article 18 de l'arrêté royal du 25 mars 1996.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.251Z",
+  "tokenUsage": {
+    "prompt": 2149,
+    "completion": 570,
+    "total": 2719
+  }
+}

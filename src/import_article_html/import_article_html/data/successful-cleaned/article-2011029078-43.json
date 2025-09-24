@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011029078",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 43</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 131, 1°,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">3°, du même décret, il est ajouté &quot; 5 &quot; entre &quot; 4 &quot; et &quot; 6 &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.203Z",
+  "tokenUsage": {
+    "prompt": 1492,
+    "completion": 181,
+    "total": 1673
+  }
+}

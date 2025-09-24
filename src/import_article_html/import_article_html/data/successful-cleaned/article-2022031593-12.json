@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031593",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les services reconnus à la date d'entrée en vigueur du présent arrêté, continuent à être reconnus.</p>\n      <p class=\"intro-text\">L'article 8, § 2, 5°, et l'article 9, § 2, 2°, et § 4, de l'arrêté du Gouvernement flamand du 30 septembre 2011 portant agrément et subventionnement des services Plan de soutien pour le parcours préalable des personnes handicapées, tels qu'en vigueur à partir de la date d'entrée en vigueur du présent arrêté, ne s'appliquent pas à l'accompagnement visé à l'article 11, § 1, alinéa 1:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">1° et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'arrêté précité, tel qu'en vigueur à partir de la date de l'entrée en vigueur du présent arrêté, qui a été lancé avant la date de l'entrée en vigueur du présent arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.744Z",
+  "tokenUsage": {
+    "prompt": 1781,
+    "completion": 344,
+    "total": 2125
+  }
+}

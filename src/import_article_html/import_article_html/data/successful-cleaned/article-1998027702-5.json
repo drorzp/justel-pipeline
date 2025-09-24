@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998027702",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>\n                    L'article 20, § 1er, 1°, du décret du 7 octobre 1985 sur la protection des eaux de surface contre la pollution est complété par la disposition suivante :\n                </p>\n                <p>\n                    \" Peuvent être subventionnés par la Région wallonne, pour autant que ces travaux soient nécessaires à l'établissement d'ouvrages d'épuration visés à l'article 18, 1° et 4°, les études et travaux connexes à une infrastructure appartenant à une personne de droit public dont la propriété, eu égard à son affectation, ne peut être acquise par l'organisme d'épuration.\n                </p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.092Z",
+  "tokenUsage": {
+    "prompt": 1614,
+    "completion": 247,
+    "total": 1861
+  }
+}

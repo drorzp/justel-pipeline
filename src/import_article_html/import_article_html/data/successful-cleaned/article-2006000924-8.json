@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006000924",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Lors de l'introduction de la demande d'autorisation, le demandeur adresse à l'administration un dossier qui contient les éléments suivants:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">une documentation ou un certificat d'un armurier, d'où il apparaît que l'arme répond aux conditions visées à l'article 31;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la nature, la marque, le modèle, le type et le calibre et, lorsque le demandeur possède l'arme, le numéro de série;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">l'adresse du magasin d'armes dans lequel l'arme sera conservée;.</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">la preuve du paiement des frais administratifs, redevables en vertu de l'article 20 de la loi sur la sécurité privée.</span></li>\n      </ol>\n      <p>Le demandeur transmet, en même temps que la demande de renouvellement d'obtention de l'autorisation spéciale visée à l'article 2, la liste complète des armes pour lesquelles il souhaite renouveler le permis de détention avec, pour chaque arme, les mentions visées à l'alinéa 1er, 2° et 3°, ainsi que la preuve visée à l'alinéa 1er, 4°.</p>\n      <p class=\"closing-text\">Pour une arme qui, dans le cadre du présent arrêté, est utilisée et conservée dans un siège d'exploitation situé dans un autre Etat membre de l'Union européenne, l'autorisation de détention ne peut être délivrée avant l'accord préalable de cet Etat.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.868Z",
+  "tokenUsage": {
+    "prompt": 2050,
+    "completion": 489,
+    "total": 2539
+  }
+}

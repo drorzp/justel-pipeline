@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024011943",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 18, l'alinéa 3 du même arrêté, les 1°, 2° et 3° sont remplacés par ce qui suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">disposer des autorisations de vol préalables du gestionnaire de zone qui sont demandées en suivant les modalités pratiques additionnelles établies conformément à l'article 4;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">disposer d'une autorisation préalable du Service Général du Renseignement et de la Sécurité (SGRS) pour toute utilisation de moyens de télédétection dirigés vers ladite installation militaire.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les vols réalisés en mode d'exploitation hors vue (BVLOS) sont subordonnés à l'utilisation de services U-space.</span>\n        </li>\n      </ol>\n      <p>HOOFDSTUK 7 :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\" data-marker=\"-\">\n          <span class=\"item-text\">Dispositions finales</span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.688Z",
+  "tokenUsage": {
+    "prompt": 1815,
+    "completion": 381,
+    "total": 2196
+  }
+}

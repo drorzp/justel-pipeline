@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008204563",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 30</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 36bis du même arrêté, inséré par l'arrêté du Gouvernement flamand du 31 août 1999 et modifié par l'arrêté du Gouvernement flamand du 23 septembre 2005, sont apportées les modifications suivantes :</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">au § 2, A, points 1° et 2° les mots \"A ancienneté de fonction égale, le membre du personnel le plus âgé est le premier désigné à un emploi vacant.\" sont chaque fois supprimés;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">au § 2, B, points 1° et 2°, les mots \"A ancienneté de fonction égale, le membre du personnel le plus âgé est le premier désigné à un emploi vacant.\" sont chaque fois supprimés;</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n                <span class=\"provision-text\">au § 2, C, points 1° et 2°, les mots \"A ancienneté de fonction égale, le membre du personnel le plus âgé est le premier désigné à un emploi vacant.\" sont chaque fois supprimés;</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n                <span class=\"provision-text\">Le § 7 est remplacé par ce qui suit :</span>\n                <section class=\"paragraph\" id=\"para-7\">\n                    <h3 class=\"paragraph-marker\">§ 7.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>Pour l'application du présent article, les établissements appartenant à une seule entité pédagogique sont considérés comme un seul établissement.</p>\n                    </div>\n                </section>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.065Z",
+  "tokenUsage": {
+    "prompt": 2030,
+    "completion": 491,
+    "total": 2521
+  }
+}

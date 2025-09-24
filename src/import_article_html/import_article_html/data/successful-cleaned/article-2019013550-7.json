@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019013550",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Aux fins de l'envoi de la liste des données enregistrées dans le PCC en ce qui concerne les comptes étrangers du contribuable qui n'est pas un client au sens de l'article 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"11°\">\n                    <span class=\"provision-text\">de la loi PCC, la Banque nationale de Belgique est autorisée à accéder aux informations les plus récentes mentionnées à l'article 3, alinéa 1er,</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">de la loi du 8 août 1983 organisant un Registre national des personnes physiques relative au dit contribuable.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.335Z",
+  "tokenUsage": {
+    "prompt": 1705,
+    "completion": 317,
+    "total": 2022
+  }
+}

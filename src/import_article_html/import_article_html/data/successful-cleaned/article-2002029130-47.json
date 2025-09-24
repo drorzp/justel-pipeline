@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029130",
+  "articleNumber": "47",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-47\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 47</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-02-02/52\" data-law-type=\"DCFR\" data-article-number=\"128\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007020252\">&lt;DCFR 2007-02-02/52, art. 128, 008; En vigueur : 01-09-2007&gt;</span> Tout pouvoir organisateur qui démontre l'impossibilité de pouvoir engager un candidat, membre de son personnel technique, qui satisfait aux conditions de l'article 43, peut engager, à sa demande, un membre du personnel technique d'un centre du même caractère qui satisfait aux conditions de l'article 43, à l'exception des:\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">8°</span>\n        </li>\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">10°</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.746Z",
+  "tokenUsage": {
+    "prompt": 1772,
+    "completion": 346,
+    "total": 2118
+  }
+}

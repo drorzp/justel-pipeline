@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018040347",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 9 du même arrêté, modifié par l'arrêté royal du 29 janvier 2016, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \"continue à\" sont remplacés par le mot \"peut\" et les mots \"1° /1, 2° et 3°, \" sont insérés entre les mots \"l'article 7, alinéa 1er,\" et les mots \"qui n'a pas accompli\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par un alinéa rédigé comme suit :</span>\n          <blockquote class=\"provision-quote\">\n            <p>\"Le ministre de la Défense ou l'autorité militaire qu'il désigne à cet effet peut accorder des allocations aéronautiques prévues à la présente section pour maximum six mois, au militaire appartenant à la catégorie visée à l'article 7, alinéa 1er, 1°, qui n'a pas accompli les prestations exigées, soit pour des raisons de service dûment motivées, soit en raison d'une inaptitude physique temporaire au service aérien à la suite d'un fait dommageable survenu en service et par le fait du service. Après ce délai, le militaire n'a plus droit à l'allocation trimestrielle aéronautique jusqu'à ce qu'il satisfasse à nouveau aux conditions exigées.\"</p>\n          </blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.351Z",
+  "tokenUsage": {
+    "prompt": 2071,
+    "completion": 439,
+    "total": 2510
+  }
+}

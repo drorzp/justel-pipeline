@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1970020901",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Lorsqu'une officine est ouverte au public en contravention avec les dispositions de l'article 3, le Ministre de la Santé publique, la commission médicale du ressort ou les organisations visées à l'article 6, § 1er, alinéa 2, sub:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">6°, en informent le Conseil compétent de l'Ordre des pharmaciens avec indication de l'identité des personnes ayant exercé l'art pharmaceutique dans cette officine.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.545Z",
+  "tokenUsage": {
+    "prompt": 1609,
+    "completion": 233,
+    "total": 1842
+  }
+}

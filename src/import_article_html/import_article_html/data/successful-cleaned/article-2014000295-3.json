@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014000295",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, modifié en dernier lieu par la loi du 15 mai 2012, est complété par les 16° et 17° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"16°\">\n          <span class=\"provision-text\">protection internationale : le statut de réfugié et le statut de protection subsidiaire;</span>\n        </li>\n        <li class=\"provision\" data-number=\"17°\">\n          <span class=\"provision-text\">système d'information Schengen : le système d'information Schengen tel qu'il a été créé dans le cadre de l'acquis de Schengen intégré et développé dans le cadre de l'Union européenne, et qui est régi notamment par le Règlement (CE) n° 1987/2006 du Parlement européen et du Conseil du 20 décembre 2006 sur l'établissement, le fonctionnement et l'utilisation du système d'information Schengen de deuxième génération (SIS II).</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.143Z",
+  "tokenUsage": {
+    "prompt": 1806,
+    "completion": 341,
+    "total": 2147
+  }
+}

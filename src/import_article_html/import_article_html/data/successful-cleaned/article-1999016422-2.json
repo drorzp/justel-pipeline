@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999016422",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Une entreprise agricole qui satisfait aux conditions d'indépendance économique visées à l'article 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">et qui est liée par un contrat comportant des prix d'achat garantis pour des animaux qu'elle élève ou engraisse ou pour des produits d'origine animale qu'elle produit, ou qui, pour le reste, n'est éligible à recevoir des aides du Fonds d'indemnisation d'entreprises agricoles touchées par la crise de la dioxine que dans la mesure où cette aide concerne les dommages qui ont un rapport avec la partie de la production pour laquelle l'entreprise agricole bénéficie de prix garantis et pour autant qu'elle prouve avoir subi un dommage réel à cause de la crise de la dioxine qui dépasse celui qui peut être indemnisé en vertu du contrat précité. Dans le cas du non respect du contrat de la partie adverse, l'indemnité de dommage pour une entreprise agricole est possible à condition que l'Etat soit subrogé dans les droits contractuels concernés de l'entreprise agricole.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.282Z",
+  "tokenUsage": {
+    "prompt": 1852,
+    "completion": 365,
+    "total": 2217
+  }
+}

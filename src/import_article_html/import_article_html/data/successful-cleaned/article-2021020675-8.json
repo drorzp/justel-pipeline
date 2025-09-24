@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021020675",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 6,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">l'article 7, alinéa 2, 3°, </span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"2)\">\n                            <span class=\"sub-provision-text\">, </span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"3)\">\n                            <span class=\"sub-provision-text\"> et </span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"4)\">\n                            <span class=\"sub-provision-text\">, l'article 8, alinéas 2 et 3, et l'article 9, alinéa 1er, du même arrêté, modifiés par l'arrêté du Gouvernement flamand du 9 juin 2017, le mot &quot; FoCI &quot; est chaque fois remplacé par le membre de phrase &quot; Département de la Culture, de la Jeunesse et des Médias &quot;.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.253Z",
+  "tokenUsage": {
+    "prompt": 1759,
+    "completion": 368,
+    "total": 2127
+  }
+}

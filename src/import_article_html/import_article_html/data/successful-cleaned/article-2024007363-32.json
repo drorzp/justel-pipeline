@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024007363",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article R.II.42-1, 1er phrase, du même Code, les termes \" a) et \" sont insérés entre les termes \" D.II.11, § 2, 1° et 2°, \" et les termes \" c à f \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.551Z",
+  "tokenUsage": {
+    "prompt": 1475,
+    "completion": 141,
+    "total": 1616
+  }
+}

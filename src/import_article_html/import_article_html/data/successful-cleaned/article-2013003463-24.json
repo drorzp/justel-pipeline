@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013003463",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 269 du même Code, remplacé par la loi-programme du 27 décembre 2012 et modifié en dernier lieu par la loi du 21 décembre 2013 portant des dispositions fiscales et financières diverses, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Dans le § 1er, 1°, les mots \"dans les dispositions sous 2° à 4° \" sont remplacés par les mots \"dans les dispositions sous 2° à 4° et 7° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le § 1er est complété par le 7° rédigé comme suit : \"7° à 15 pc. pour les revenus provenant de bons de caisse ou de dépôts à terme qui sont proposés par des établissements de crédit pour le financement d'un prêt-citoyen thématique comme visé dans la loi du 26 décembre 2013 et à condition que ces bons de caisse ou dépôts à terme répondent aux critères et conditions déterminés dans la dite loi.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.019Z",
+  "tokenUsage": {
+    "prompt": 1832,
+    "completion": 358,
+    "total": 2190
+  }
+}

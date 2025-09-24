@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019014454",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 21</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-26/58\" data-law-type=\"AGF\" data-article-number=\"14\">\n                    Nonante pour cent des montants de subvention, visés à l'article 18, § 1er, alinéa 1er, 1° à 3°, du présent arrêté, et le montant, visé à l'article 18, § 1er, alinéa 1er, 4°, du présent arrêté, sont liés à l'indice santé lissé, visé à l'article 2, § 2, de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays, et appliqués conformément aux articles 2 à 2quater de l'arrêté royal précité.<br>\n                    Les subventions visées à l'article 18, § 1er, alinéa 1er, 1° et 2°, et le montant visé à l'article 18, § 1er, alinéa 1er, 4°, sont adaptés le 1er janvier de chaque année, en vertu de l'alinéa 1er, à l'indice du mois de décembre de l'année précédente, étant entendu que l'indice de départ est celui du mois de décembre 2022.<br>\n                    La subvention visée à l'article 18, § 1er, alinéa 1er, 3°, est adaptée le 1er janvier de chaque année, en vertu de l'alinéa 1er, à l'indice du mois de décembre de l'année précédente, étant entendu que l'indice de départ est celui du mois de décembre 2024.\n                </span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.396Z",
+  "tokenUsage": {
+    "prompt": 2166,
+    "completion": 481,
+    "total": 2647
+  }
+}

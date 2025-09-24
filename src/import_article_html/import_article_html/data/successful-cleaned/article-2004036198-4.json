@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004036198",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 3, § 1er,\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n                    <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">de l'arrêté du Gouvernement flamand du 18 décembre 1992 instaurant une prime d'adaptation et une prime d'amélioration pour les habitations, les mots 'copie certifiée conforme par le bourgmestre' sont à chaque fois remplacés par le mot 'copie'.</span></li>\n                </ol>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.841Z",
+  "tokenUsage": {
+    "prompt": 1572,
+    "completion": 220,
+    "total": 1792
+  }
+}

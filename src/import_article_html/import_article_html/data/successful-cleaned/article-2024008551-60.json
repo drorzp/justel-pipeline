@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024008551",
+  "articleNumber": "60",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-60\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 60</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 53/6 du même arrêté, inséré par l'arrêté du Gouvernement flamand du 1er mars 2013 et modifié en dernier lieu par l'arrêté du Gouvernement flamand du 24 juin 2022, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 7° est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">n'effectue des travaux sur des établissements classés que si l'autorisation ou la prise d'acte nécessaire est disponible, et notifie préalablement le commencement de tous les travaux de forage et de remplissage par le biais d'une application web de la Banque de données Sous-sol Flandre, à la division compétente et au département, et respecte les conditions environnementales en vigueur ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté des points 12° et 13°, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"12°\">\n              <span class=\"provision-text\">fournit les données visées à l'article 5.53.6.1.2, § 2, du titre II du VLAREM, dans les délais fixés, via une application web de la Banque de données Sous-sol Flandre.</span>\n            </li>\n            <li class=\"provision\" data-number=\"13°\">\n              <span class=\"provision-text\">fournit dans les deux mois le rapport visé à l'article 5.53.6.6.1, alinéa 4, du titre II du VLAREM, via une application web de la Banque de données Sous-sol Flandre.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.463Z",
+  "tokenUsage": {
+    "prompt": 2138,
+    "completion": 548,
+    "total": 2686
+  }
+}

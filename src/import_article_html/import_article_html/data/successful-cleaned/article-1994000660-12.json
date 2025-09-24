@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994000660",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 95 de l'arrêté du Régent du 23 août 1948 déterminant la procédure devant la section d'administration du Conseil d'Etat, rétabli par l'arrêté royal du 7 janvier 1991, le:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les articles 68bis et 76bis de la loi éléectorale communale et l'article 37/4 de la loi du 19 octobre 1921 organique des élections provinciales.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.064Z",
+  "tokenUsage": {
+    "prompt": 1659,
+    "completion": 220,
+    "total": 1879
+  }
+}

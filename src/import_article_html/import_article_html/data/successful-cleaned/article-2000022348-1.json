@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000022348",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 10, § 1er, alinéa 1er, de l'arrêté royal du 5 novembre 1971 portant exécution des articles 8, 13, § 2, et 14 de la loi du 5 août 1968 établissant certaines relations entre les régimes de pensions du secteur public et ceux du secteur privé, le</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">sont supprimés.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.115Z",
+  "tokenUsage": {
+    "prompt": 1614,
+    "completion": 234,
+    "total": 1848
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994021048",
+  "articleNumber": "119",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-119\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 119</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-01-06/17\" data-law-type=\"L\" data-article-number=\"1\">\n                <p class=\"intro-text\">Le mandat de membre d'un Parlement de communauté ou de région est incompatible avec celui de membre de la Chambre des représentants. Il est en outre incompatible avec le mandat de sénateur visé à l'article 67, § 1er, 6° et 7°.</p>\n                <p class=\"intro-text\">Disposition transitoire</p>\n                <p class=\"intro-text\">Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les dispositions suivantes sont d'application :</p>\n                <p class=\"intro-text\">\"Le mandat de membre d'un Parlement de communauté ou de région est incompatible avec celui de membre de la Chambre des représentants. Il est en outre incompatible avec le mandat de sénateur visé à l'article 67, § 1er,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\"></span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n                    <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\"></span></li>\n                    <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\"></span></li>\n                </ol>\n                <p class=\"intro-text\">.\"</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.933Z",
+  "tokenUsage": {
+    "prompt": 1952,
+    "completion": 441,
+    "total": 2393
+  }
+}

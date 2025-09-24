@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006022343",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 3 du même arrêté est remplacé par la disposition suivante :</p>\n    <p>&quot; Art. 3.</p>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les membres visés à l'article 2, § 1er, 1° au 8°, sont nommés d'après une liste de doubles candidatures, proposées par les organisations visées.</p>\n        <p>Les membres visés à l'article 2, § 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"9°\">\n            <span class=\"provision-text\">sont nommés sur la proposition du président du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement;</span>\n          </li>\n          <li class=\"provision\" data-number=\"10°\">\n            <span class=\"provision-text\">et 11°, sont nommés sur la proposition des Ministres compétents respectifs.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La moitié des membres visés à l'article 2, § 1er, 9°, 10° en 11°, doit appartenir au rôle linguistique néerlandophone, l'autre moitié doit appartenir au rôle linguistique francophone. Pour l'application de cette disposition, le représentant de la Communauté germanophone est réputé appartenir au rôle linguistique francophone. &quot;</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.670Z",
+  "tokenUsage": {
+    "prompt": 1964,
+    "completion": 452,
+    "total": 2416
+  }
+}

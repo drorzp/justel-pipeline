@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018010662",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 47 du même arrêté est complété par un 9° et un 10° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">l'arrêté royal du 20 juin 1994 fixant les dispositions générales relatives à l'octroi d'une allocation pour diplôme à certains agents des services publics d'incendie et de la police communale;</span>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">l'arrêté ministériel du 15 mars 1995 fixant les diplômes, brevets et certificats qui sont pris en compte pour l'octroi d'une allocation de diplôme à certains agents des services d'incendie.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.766Z",
+  "tokenUsage": {
+    "prompt": 1674,
+    "completion": 274,
+    "total": 1948
+  }
+}

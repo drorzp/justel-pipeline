@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014011030",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            Dans l'article 1er, 7°, dans l'article 2, 5° et 8°, dans l'article 4, § 2, et dans l'article 5, 5° et 8°, du même arrêté, les mots \" de la Statistique et de l'Information économique \" sont remplacés par les mots \" \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-02-12/Erratum\" data-law-type=\"M.B.\" data-article-number=\"12228\">Statistique - Statistics Belgium</span>.\n            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2014-02-12/Erratum\" data-law-type=\"M.B.\" data-article-number=\"12228\">Erratum, M.B. 12-02-2014,P. 12228</span>.\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.151Z",
+  "tokenUsage": {
+    "prompt": 1558,
+    "completion": 268,
+    "total": 1826
+  }
+}

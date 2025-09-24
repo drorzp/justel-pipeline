@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001981",
+  "articleNumber": "263",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-263\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 263</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article D.51, § 1er, alinéa 2, et D.102,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">du Code wallon du Patrimoine, sub article 1er du même décret, les mots \" d'un permis unique, d'un permis d'environnement, d'un permis d'implantation commerciale ou d'un permis intégré \" sont remplacés par les mots \" d'un permis d'environnement ou d'un permis unique \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.436Z",
+  "tokenUsage": {
+    "prompt": 1604,
+    "completion": 246,
+    "total": 1850
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009009844",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 50</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les articles 21, 22, 23, 24, 30, 31, 32, 42, 2° et 45 du présent arrêté produisent leurs effets à dater du 1 décembre 2006.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 47 du présent arrêté produit ses effets à dater du 1er décembre 2008.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.028Z",
+  "tokenUsage": {
+    "prompt": 1627,
+    "completion": 233,
+    "total": 1860
+  }
+}

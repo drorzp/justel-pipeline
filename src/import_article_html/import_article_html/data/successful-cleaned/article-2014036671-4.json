@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036671",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les membres de la Commission, visés à l'article 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">sont nommés pour une période de quatre ans par le Ministre après un appel public aux candidats, publié au moins au Moniteur belge, sur le site web de l'agence Patrimoine de Flandre et sur d'autres sites web pertinents.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">sont nommés par le Ministre après la proposition des représentants par les entités compétentes de l'Autorité flamande. Chaque proposition comprend pour la moitié des hommes et pour la moitié des femmes.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Le président de la Commission est nommé par le Ministre parmi les membres pour une période de quatre ans.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.364Z",
+  "tokenUsage": {
+    "prompt": 1785,
+    "completion": 356,
+    "total": 2141
+  }
+}

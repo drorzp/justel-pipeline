@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034009",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 42, § 1, alinéa 2, du même arrêté, est remplacé par ce qui suit : \" Si l'officine visée à l'article 11, alinéa 1er est ouverte au lieu d'implantation temporaire pour une durée supérieure à la durée maximale autorisée, l'autorisation d'exploitation est réputée de plein droit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">expirée si pendant cette durée maximale autorisée aucune demande d'autorisation d'implantation n'a été introduite pour ce lieu d'implantation temporaire ou une autre adresse, conformément aux dispositions du présent arrêté ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">suspendue si l'autorisation d'implantation visée sous 1° a été demandée à temps, mais a été refusée ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">expirée si l'autorisation d'implantation visée sous 1° a été demandée à temps, et a été accordée, mais le titulaire de l'autorisation n'en fait pas usage dans les deux ans visés à l'article 12.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Dans les cas visés aux 2° et 3°, et par dérogation à l'article 11, la durée de l'autorisation d'implantation portant transfert temporaire est prolongée jusqu'au refus, à l'expiration ou à l'usage précités.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.776Z",
+  "tokenUsage": {
+    "prompt": 2009,
+    "completion": 462,
+    "total": 2471
+  }
+}

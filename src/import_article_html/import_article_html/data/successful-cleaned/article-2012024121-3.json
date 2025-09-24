@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012024121",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 1° est remplacé par ce qui suit :<br>\" 1° les mots \"malade\", \"maladie\", le nom de maladies, le nom ou la représentation de symptômes de maladies ou de personnes malades, sauf lorsqu'ils sont utilisés dans les allégations autorisées dans le cadre de l'article 17 du Règlement (CE) n° 1924/2006 susmentionné; \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les 7° et 8° sont remplacés par ce qui suit :</span>\n          <span class=\"provision-text\">\"</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"7°\">\n              <span class=\"provision-text\">des références à des recommandations, attestations ou approbations médicales comportant des allégations qui n'ont pas été autorisées dans le cadre du Règlement (CE) n° 1924/2006 susmentionné;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"8°\">\n              <span class=\"provision-text\">des références au Ministre ou aux autorités compétentes en matière de Santé publique, sauf autorisation expresse du ministre ou de l'autorité en question;</span>\n            </li>\n          </ol>\n          <span class=\"provision-text\">\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les 2°, 3°, 4° et 10° sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.258Z",
+  "tokenUsage": {
+    "prompt": 2005,
+    "completion": 496,
+    "total": 2501
+  }
+}

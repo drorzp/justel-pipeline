@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011889",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 53</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le présent arrêté entre en vigueur le premier jour du mois qui suit la date de son approbation.</p>\n      <p>L'article 1er, 1° produit ses effets le 1er janvier 2016.</p>\n      <p>L'article 1er, 3°, 4°, 5°, 6°, 7° et 8°, l'article 2, 1°, l'article 3, 1°, l'article 5, 1° et les articles 8, 9, 35 et 52 produisent leurs effets à partir du 14 juillet 2017.</p>\n      <p>L'article 2, 2° produit ses effets à partir du 1er avril 2018.</p>\n      <p>L'article 3, 2° produit ses effets à partir du 31 décembre 2017.</p>\n      <p>L'article 20, 1°, l'article 26, 1° et 2° et les articles 38 et 48 produisent leurs effets à partir du 1er janvier 2018.</p>\n      <p>L'article 37 produit ses effets à partir du 1er juillet 2015.</p>\n      <p>Les articles 42 et 46 produisent leurs effets à partir du 1er janvier 2017.</p>\n      <p>L'article 47 produit ses effets à partir du 1er avril 2017.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.684Z",
+  "tokenUsage": {
+    "prompt": 1888,
+    "completion": 384,
+    "total": 2272
+  }
+}

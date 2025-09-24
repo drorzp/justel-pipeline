@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014000066",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 18, 2°, de la même loi, modifié par la loi du 24 juillet 2008, les mots \"article 3, § 1er, 3°, 4° et 5° \" sont remplacés par les mots \"article 3, § 1er, 3°, 4°, 5° et 7° \".</p>\n      <p>Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée au Moniteur belge.</p>\n      <p>Donné à Bruxelles, le 13 janvier 2014.</p>\n      <p>PHILIPPE</p>\n      <p>Par le Roi :</p>\n      <p>La Ministre de l'Intérieur,</p>\n      <p>Mme. J. MILQUET</p>\n      <p>Scellé du sceau de l'Etat :</p>\n      <p>La Ministre de la Justice,</p>\n      <p>Mme A. TURTELBOOM</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.142Z",
+  "tokenUsage": {
+    "prompt": 1760,
+    "completion": 308,
+    "total": 2068
+  }
+}

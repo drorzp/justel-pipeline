@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003907",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 7 du même accord de coopération, le paragraphe 2 est remplacé par ce qui suit :</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>- La commission compte parmi ses membres six membres répondant aux conditions fixées au § 1er, 1°, et six membres répondant aux conditions fixées au § 1er, 2° ou 3°, dont au moins un répondant aux conditions fixées au § 1er, 2°, et au moins une répondant aux conditions fixées au § 1er, 3°. Dans la mesure des candidatures reçues, il est veillé à respecter le principe de la représentation proportionnelle sur l'ensemble des membres visés à l'article 7, § 1er, 2° et 3°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.340Z",
+  "tokenUsage": {
+    "prompt": 1712,
+    "completion": 275,
+    "total": 1987
+  }
+}

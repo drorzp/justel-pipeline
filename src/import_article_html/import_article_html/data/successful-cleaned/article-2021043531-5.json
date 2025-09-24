@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021043531",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les distances visées dans le présent chapitre ainsi que la zone d'influence géographique sont fixées par un géomètre, sous peine d'irrecevabilité de la demande d'autorisation d'implantation. La zone d'influence démographique de la officine est, sous peine d'irrecevabilité de la demande, déterminée par un géomètre sur la base de la zone d'influence géographique déterminée par lui et des chiffres fournis conformément à l'article 6. Sous peine d'irrecevabilité de la demande, les chiffres fournis, tels que visés à l'article 6, ne peuvent pas concerner des données datant de plus de six mois au moment de la demande. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-10-26/02\" data-law-type=\"AR\" data-article-number=\"2\">Par dérogation aux alinéas 1er et 2, la zone d'influence géographique et démographique ne doit pas être fixée par un géomètre pour les transferts visés à l'article 10, § 1er, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et l'article 11.</span></li></ol></span></p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les chiffres de population des communes concernent les chiffres de population les plus récents disponibles, comme ceux publiés par le Service public fédéral Intérieur, Institutions et Population. L'Agence demande les chiffres lors du traitement du dossier et indique ceux-ci dans la décision.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.063Z",
+  "tokenUsage": {
+    "prompt": 2160,
+    "completion": 534,
+    "total": 2694
+  }
+}

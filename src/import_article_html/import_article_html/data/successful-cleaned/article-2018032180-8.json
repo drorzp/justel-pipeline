@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032180",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les locaux dans lesquels les parties visées à l'alinéa 2, alinéa premier, 1° et 3°, auront lieu, répondent aux conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">ils renferment un local de cours et des équipements sanitaires</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">ils ne se trouvent pas dans un débit de boissons ni dans un espace de séjour</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">ils répondent aux conditions visées à l'article 15, § 1er, alinéa quatre, 2° et 3°, de l'arrêté royal du 11 mai 2004</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le local de cours offre des places assises à au moins le nombre de personnes pour lesquelles une séance de mise à niveau est organisée</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">le bourgmestre ou le service des pompiers compétent a délivré un certificat attestant que les locaux sont conformes aux normes légales applicables en matière de sécurité incendie.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.409Z",
+  "tokenUsage": {
+    "prompt": 1886,
+    "completion": 420,
+    "total": 2306
+  }
+}

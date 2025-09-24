@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014021066",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 55 de la même loi, modifiée par la loi du 5 août 2011, l'alinéa 1er est remplacé par ce qui suit :</p>\n            <blockquote class=\"quote-text\">\" Les articles 5 à 11, 15, 17, 18, alinéa 1er, 1° à 5° et alinéa 2, 19, 20, à l'exception du paragraphe 1/1, 21, 22, 24, 25, 28 à 30, 32, alinéas 1er à 3, 5 et 6, 33, 35 à 41, 42 et 43, sont également applicables aux marchés publics visés par le présent titre.\"</blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.184Z",
+  "tokenUsage": {
+    "prompt": 1745,
+    "completion": 257,
+    "total": 2002
+  }
+}

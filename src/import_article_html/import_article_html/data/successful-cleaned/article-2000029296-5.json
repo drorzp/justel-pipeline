@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000029296",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    Par dérogation à <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2008-05-09/83\" data-law-type=\"DCFR\" data-article-number=\"7\">l'article 1er, § 1er, 1° et 12°</span>, le centre peut être un siège d'exploitation d'une organisation de jeunesse, ayant la forme d'association sans but lucratif, reconnue dans le cadre du <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2023-11-09/19\" data-law-type=\"DCFR\" data-article-number=\"5\">décret du 26 mars 2009 fixant les conditions d'agrément et d'octroi de subventions aux organisations de jeunesse</span>. (Dans ce cas, l'association doit disposer d'une comptabilité qui distingue sa gestion financière de celles d'autres sièges d'exploitation ainsi que de celle de l'organisation de jeunesse visée au 1er alinéa.) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-03-03/45\" data-law-type=\"DCFR\" data-article-number=\"3\">&lt;DCFR 2004-03-03/45, art. 3, 005; En vigueur : 01-01-2004&gt;</span>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.250Z",
+  "tokenUsage": {
+    "prompt": 1972,
+    "completion": 397,
+    "total": 2369
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007037117",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <p class=\"intro-text\">L'article 2bis de l'arrêté du Gouvernement flamand du 28 septembre 2001 concernant l'agrément, l'enregistrement, le mandat, l'affiliation, la demande et la prise en charge dans le cadre de l'assurance soins, modifié par l'arrêté du Gouvernement flamand du 15 avril 2005, est remplacé par les dispositions suivantes :</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les structures et les prestataires de soins professionnels établis en Région bilingue de Bruxelles-Capitale, sont assimilés aux structures agréées par le Gouvernement flamand, dans la mesure où ils exercent leurs activités de manière régulière et offrent une aide et des prestations de services similaires à celles proposées par une structure visée à l'article 2, § 2, 2°, 3° et 4°.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les structures et les prestataires de soins professionnels non établis en Belgique, mais dans un autre Etat membre de la Communauté européenne ou de l'Espace économique européen, ou en Suisse, sont assimilés aux structures agréées par le Gouvernement flamand, dans la mesure où ils exercent leurs activités de manière régulière et offrent une aide et des prestations de services similaires à celles proposées par une structure visée à l'article 2, § 2, 2°, 3° et 4°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.973Z",
+  "tokenUsage": {
+    "prompt": 2012,
+    "completion": 443,
+    "total": 2455
+  }
+}

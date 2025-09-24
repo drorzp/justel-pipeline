@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008204208",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 5 du même arrêté sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le point 1° est remplacé par la disposition suivante :<br>\" 1° l'indicateur \"la famille est appuyée par une ou plusieurs allocations scolaires\" a un poids de 0,18. Si l'élève satisfait aux indicateurs d'égalité des chances visés à l'article VI.2, § 1er, 1°, ou 1° et 5°, l'indicateur a un poids de 0,4; \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le point 4° est remplacé par la disposition suivante :<br>\" 4° l'indicateur \"la langue que l'élève parle dans la famille n'est pas la langue d'enseignement\" a un poids de 0,2 en combinaison avec un autre indicateur. \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.064Z",
+  "tokenUsage": {
+    "prompt": 1780,
+    "completion": 329,
+    "total": 2109
+  }
+}

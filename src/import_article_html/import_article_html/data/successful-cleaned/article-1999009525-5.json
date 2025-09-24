@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999009525",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les introductions se font :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">pour les affaires traitées par trois juges : devant la dixième chambre;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">pour les appels contre les jugements rendus par le juge de paix : devant la onzième chambre;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">pour les affaires civiles non visées aux 1° et 2° : devant la première chambre;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">devant le président siégeant en référé : à l'audience du mercredi;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">devant le juge des saisies : aux audiences du mardi et du vendredi;</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">pour les affaires civiles devant le tribunal de la jeunesse : à l'audience du mardi de la vingt-deuxième chambre.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.131Z",
+  "tokenUsage": {
+    "prompt": 1876,
+    "completion": 395,
+    "total": 2271
+  }
+}

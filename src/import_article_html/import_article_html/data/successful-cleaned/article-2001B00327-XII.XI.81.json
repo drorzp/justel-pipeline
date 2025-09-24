@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001B00327",
+  "articleNumber": "XII.XI.81",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-XII-XI-81\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article XII.XI.81</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article XIII.I.10, 27° et 28°, l'arrêté royal du 16 décembre 1996 accordant une prime de connaissance d'une seconde langue nationale aux membres des greffes et des secrétariats de parquet, ainsi qu'au personnel des greffes et parquets et l'arrêté royal du 23 décembre 1998 octroyant une allocation de bilinguisme à certains militaires en activité de service, restent toutefois en vigueur pour les membres actuels du personnel du cadre administratif et logistique du personnel qui avaient le statut de membres des greffes et des secrétariats de parquet ou de membres du personnel des greffes et des parquets ou de militaires transférés vers le corps administratif et logistique de la gendarmerie, qui optent pour le maintien de leur position juridique d'origine, et qui, jusqu'à et y compris le jour précédant la date entrée en vigueur du présent arrêté, bénéficiaient de l'allocation visée dans ces mêmes textes, aussi longtemps qu'ils ne sont pas affectés à un autre corps, unité, service ou emploi que celui (celle) qui est le (la) leur à la date d'entrée en vigueur du présent arrêté, qui ne serait pas visé par l'arrêté royal du 30 avril 1991 accordant une prime de bilinguisme au personnel des administrations de l'Etat.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.793Z",
+  "tokenUsage": {
+    "prompt": 1987,
+    "completion": 376,
+    "total": 2363
+  }
+}

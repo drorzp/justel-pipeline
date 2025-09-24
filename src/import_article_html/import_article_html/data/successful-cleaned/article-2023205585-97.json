@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023205585",
+  "articleNumber": "97",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-97\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 97</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 62.45, 1°, du même décret, inséré par le décret du 22 juin 2020, les mots \"1° et 4° à 6°\" sont remplacés par les mots \"à l'exception de l'alinéa 1er, 2° et 3°\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.413Z",
+  "tokenUsage": {
+    "prompt": 1629,
+    "completion": 156,
+    "total": 1785
+  }
+}

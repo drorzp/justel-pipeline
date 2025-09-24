@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032054",
+  "articleNumber": "64",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-64\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 64</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent décret entre en vigueur à partir de l'année académique 2021-2022. Par dérogation à l'alinéa 1er :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les articles 2, 3, 5, 6, 9, 1°, 2°, 4°, 5°, 7° à 11° et 13° à 15°, 24, 3° à 8°, et 25, 8° à 19°, entrent en vigueur le 1er septembre 2021;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article 9, 3°, produit ses effets au 1er janvier 2019;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les articles 9, 6° et 12°, 24, 1°, et 25, 1° à 6°, produisent leurs effets au 1er janvier 2021;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les articles 21 et 22 produisent leurs effets à partir de l'année académique 2015-2016;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">les articles 23 et 24, 2°, produisent leurs effets à partir de l'année académique 2018-2019;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">l'article 25, 7°, produit ses effets au 1er août 2020;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">les articles 62 et 63 produisent leurs effets à partir de l'année académique 2020-2021.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.209Z",
+  "tokenUsage": {
+    "prompt": 2143,
+    "completion": 574,
+    "total": 2717
+  }
+}

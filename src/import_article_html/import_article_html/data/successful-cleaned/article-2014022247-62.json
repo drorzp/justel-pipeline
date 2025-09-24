@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014022247",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5, § 2, de la loi du 24 octobre 2011 assurant un financement pérenne des pensions des membres du personnel nommé à titre définitif des administrations provinciales et locales et des zones de police locale et modifiant la loi du 6 mai 2002 portant création du fonds des pensions de la police intégrée et portant des dispositions particulières en matière de sécurité sociale et contenant diverses dispositions modificatives, est complété par les alinéas suivants :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>\"Les zones de secours visées à l'article 14 de la loi du 15 mai 2007 relative à la sécurité civile et leurs membres du personnel sont de plein droit et irrévocablement affiliés au Fonds de pension solidarisé de l'ONSSAPL à partir du 1er janvier 2015.</p>\n          <p>L'affiliation d'office prévue à l'alinéa 2 concerne tous les membres du personnel visés à l'article 48, § 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">de la loi du 5 mai 2014 concernant diverses matières relatives aux pensions du secteur public qui sont nommés à titre définitif ou y assimilés ou sont stagiaires.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.188Z",
+  "tokenUsage": {
+    "prompt": 1914,
+    "completion": 446,
+    "total": 2360
+  }
+}

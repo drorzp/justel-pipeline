@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018010918",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 25, alinéa 3, de l'arrêté du Gouvernement de la Communauté française du 3 mai 1999 déterminant la forme et les règles de délivrance du certificat d'études de base est remplacé par la disposition suivante:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Les documents repris aux</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">doivent être remis, le cas échéant, en 3 exemplaires.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.765Z",
+  "tokenUsage": {
+    "prompt": 1593,
+    "completion": 233,
+    "total": 1826
+  }
+}

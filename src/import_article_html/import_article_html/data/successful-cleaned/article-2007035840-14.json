@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007035840",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'emploi, le chiffre d'affaires annuel et le total du bilan de l'entreprise, visés à l'article 3, 2° et 3°, du décret, sont calculés conformément à la définition de 'petites et moyennes entreprises' fixée par la Commission européenne à l'annexe Ire du <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-03-20/08\" data-law-type=\"AGF\" data-article-number=\"14\">Règlement général d'exemption par catégorie</span>. Les données pour le calcul de l'emploi, du chiffre d'affaires annuel et du total du bilan sont établies sur la base d'une déclaration sur l'honneur de l'entreprise et sur la base des articles 15 et 16.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.118Z",
+  "tokenUsage": {
+    "prompt": 1715,
+    "completion": 247,
+    "total": 1962
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998036158",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 17, § 1er,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de l'arrêté du Gouvernement flamand du 7 avril 1998 relatif au statut du secrétaire d'apprentissage, les montants de \" 80 000 F \" et \" 215 F \" sont remplacés par les montants de \" 95 100 F \" et \" 252 F \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.068Z",
+  "tokenUsage": {
+    "prompt": 1574,
+    "completion": 233,
+    "total": 1807
+  }
+}

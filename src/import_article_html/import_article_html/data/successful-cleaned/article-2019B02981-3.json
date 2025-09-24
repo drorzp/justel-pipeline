@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019B02981",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Composition Le comité se compose des membres suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">un représentant du Ministre;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un représentant de l'Administration;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">un représentant du Forem;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">un représentant des organisations représentatives des employeurs;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">un représentant des organisations représentatives des travailleurs.</span></li>\n      </ol>\n      <p>La durée du mandat des membres est fixée à cinq ans.</p>\n      <p>Les membres sont nommés par le Gouvernement.</p>\n      <p>La désignation des membres repris aux points 4° et 5° est réalisée sur proposition des organisations représentatives que les membres représentent et après concertation entre elles.</p>\n      <p>Cette concertation sera attestée par la signature des responsables des différentes organisations représentatives concernées sur le document de proposition de désignation. Sans ces signatures, il ne peut y avoir désignation.</p>\n      <p>Lorsque le mandat d'un membre prend fin avant le terme fixé, le remplaçant achève la durée du mandat restant à courir.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.118Z",
+  "tokenUsage": {
+    "prompt": 1886,
+    "completion": 422,
+    "total": 2308
+  }
+}

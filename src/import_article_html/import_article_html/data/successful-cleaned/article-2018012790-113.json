@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012790",
+  "articleNumber": "113",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-113\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 113</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 112, alinéa 1er, du même Code, modifié par le décret du 17 juin 2016, sont ajoutés un point 16° et un point 17°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"16°\">\n                    <span class=\"provision-text\">les coordonnées du centre d'encadrement des élèves avec lequel l'école ou le centre d'enseignement secondaire professionnel à temps partiel coopère et les arrangements concrets relatifs à la prestation de services d'encadrement des élèves ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"17°\">\n                    <span class=\"provision-text\">les grandes lignes de la vision et du fonctionnement de l'école ou du centre d'enseignement secondaire professionnel à temps partiel au sein de la politique menée d'encadrement des élèves.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.665Z",
+  "tokenUsage": {
+    "prompt": 1703,
+    "completion": 286,
+    "total": 1989
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003159",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 46 de la même loi est complété par les 6° et 7 ° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">une analyse de sensibilité, reprenant un aperçu des évolutions des principales variables budgétaires en fonction de différentes hypothèses relatives aux taux de croissance et d'intérêt;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">une énumération de tous les organismes et fonds qui ne sont pas repris dans le budget mais qui font partie du périmètre de consolidation tel que défi ni par l'Institut des Comptes nationaux ainsi qu'une analyse de leur impact sur le solde de financement et sur la dette publique.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.031Z",
+  "tokenUsage": {
+    "prompt": 1671,
+    "completion": 276,
+    "total": 1947
+  }
+}

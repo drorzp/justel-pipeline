@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018013336",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 31</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 3, point 11°, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, modifié en dernier lieu par le décret du 27 avril 2018, il est ajouté la phrase \" En vue d'une nomination à titre définitif, il s'agit également d'un emploi déclaré vacant en vertu de l'article 28,</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"4°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"5°\">\n                            <span class=\"provision-text\">, ou de l'article 100terdecies; \".</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.672Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 290,
+    "total": 1960
+  }
+}

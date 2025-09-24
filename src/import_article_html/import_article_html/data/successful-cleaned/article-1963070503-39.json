@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1963070503",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 39</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Lorsque lhandicapé ou son représentant légal a usé de la faculté prévue à l'article 38, il peut recourir à l'organisation choisie, en vue d'être assisté par celle-ci dans le choix visé à l'article 15,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et lors de la détermination et de l'exécution du protocole fixant le processus de réadaptation et de reclassement social et notamment d'obtenir tous renseignements y afférents. (A cette fin, le Fonds national avise l'organisation choisie de l'envoi à lhandicapé ou à son représentant légal de l'invitation à faire dresser le protocole fixant le processus de réadaptation et de reclassement social.)</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"18-02-1965\" data-law-type=\"AR\">&lt;AR 18-02-1965&gt;</span> \n        Dans la même éventualité, les décisions visées aux articles 10, 12, dernier alinéa et 35 sont communiquées à l'organisation choisie, au moment de leur notification à lhandicapé ou à son représentant légal. \n        (NOTE : abrogé pour la Région wallonne par \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1996-07-04/44\" data-law-type=\"ARW\" data-article-number=\"68\">&lt;ARW 1996-07-04/44, art. 68; En vigueur : 01-12-1996&gt;</span>) \n        (NOTE : article abrogé pour la Commission communautaire française de la Région de Bruxelles-Capitale par \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1997-03-13/49\" data-law-type=\"ARR\" data-article-number=\"12\">&lt;ARR 1997-03-13/49, art. 12; En vigueur : 01-03-1997&gt;</span>)\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.477Z",
+  "tokenUsage": {
+    "prompt": 2141,
+    "completion": 572,
+    "total": 2713
+  }
+}

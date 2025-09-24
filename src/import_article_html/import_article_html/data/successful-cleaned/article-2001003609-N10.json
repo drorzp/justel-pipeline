@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001003609",
+  "articleNumber": "N10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article N10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Annexe 10 (01.01.2002). - Pensions aux ascendants de la guerre 1940-1945 et du temps de paix.</p>\n      <table>\n        <thead>\n          <tr>\n            <th>Categories</th>\n            <th>Temps de guerre</th>\n            <th>Temps de paix</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>Art. 32, 1° (*)</td>\n            <td>698,47</td>\n            <td>558,76</td>\n          </tr>\n          <tr>\n            <td>Art. 32, 2° (*)</td>\n            <td>349,24</td>\n            <td>279,33</td>\n          </tr>\n          <tr>\n            <td>Art. 32, 1° et art. 33 (*)</td>\n            <td>2 620,83</td>\n            <td>2 096,59</td>\n          </tr>\n          <tr>\n            <td>Art. 32, 2° et art. 33 (*)</td>\n            <td>1 310,37</td>\n            <td>1 048,30</td>\n          </tr>\n        </tbody>\n      </table>\n      <p class=\"closing-text\">(*) des lois coordonnees sur les pensions de reparation</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.206Z",
+  "tokenUsage": {
+    "prompt": 1694,
+    "completion": 394,
+    "total": 2088
+  }
+}

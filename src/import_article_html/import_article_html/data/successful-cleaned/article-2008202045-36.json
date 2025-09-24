@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008202045",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Le 1er juillet de chaque année, il est accordé aux employeurs une remise de 11,5 p.c. du montant de l'ensemble des cotisations visées à l'article 38, §§ 1er et 2 et \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-25/77\" data-law-type=\"L\" data-article-number=\"56\">\n          § 3, 1° ou 2° ou 3° et 8° à 10°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés\n        </span>, dues trimestriellement pour chacun des quatre trimestres de l'année civile écoulée.\n      </p>\n      <p class=\"closing-text\">\n        Cette remise est limitée à 359,45 EUR par trimestre pris en considération si le montant de l'ensemble des cotisations dues trimestriellement est compris entre 5 453,66 EUR et 26 028,82 EUR.\n        Elle est limitée à 272,68 EUR par trimestre pris en considération si le montant de l'ensemble des cotisations dues trimestriellement dépasse 26 028,82 EUR.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.907Z",
+  "tokenUsage": {
+    "prompt": 1920,
+    "completion": 353,
+    "total": 2273
+  }
+}

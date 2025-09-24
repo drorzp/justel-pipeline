@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031906",
+  "articleNumber": "314",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-314\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 314</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les établissements de crédit et les entreprises d'investissement de droit belge et les compagnies financières et les compagnies financières mixtes approuvées, visés aux articles 218/1, paragraphe 1er, 1° et 2° et 576/1 de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse, dont le groupe de pays tiers opère dans l'Union par l'intermédiaire de plus d'un établissement de crédit, d'une entreprise d'investissement, d'une compagnie financière ou d'une compagnie financière mixte et dont la valeur totale des actifs dans l'Union était supérieure ou égale à 40 milliards euros au 27 juin 2019, existants à la date de l'entrée en vigueur de la présente loi, sont tenus d'avoir une entreprise mère intermédiaire dans l'EEE au plus tard le 30 décembre 2023. Cette disposition ne porte pas préjudice à l'article 218/2, § 2 de la loi précitée du 25 avril 2014.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.209Z",
+  "tokenUsage": {
+    "prompt": 1878,
+    "completion": 310,
+    "total": 2188
+  }
+}

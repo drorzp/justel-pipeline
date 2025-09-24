@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008036468",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 6 du même arrêté, le paragraphe 2 est remplacé par ce qui suit :</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'agence établit chaque mois, par commune, une liste d'adresses électronique des personnes visées à l'article 3, § 1er, du décret, si elles sont inscrites au registre national pour la première fois avec un titre de séjour de plus de trois mois, et visées aux articles 3, § 5, 5, § 1er, 3° et 5, § 7 du décret, qui se sont inscrites dans cette commune le mois précédent. Elle remet cette liste d'adresses aux bureaux d'accueil par l'intermédiaire de la Banque-Carrefour Intégration.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.910Z",
+  "tokenUsage": {
+    "prompt": 1746,
+    "completion": 273,
+    "total": 2019
+  }
+}

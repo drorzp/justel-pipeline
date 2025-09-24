@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009024498",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 39</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 270, § 1er, de la loi-programme (I) du 24 décembre 2002, modifié par les lois des 23 décembre 2005 et 13 décembre 2006, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">A l'alinéa 1er, un 5°bis, libellé comme suit, est inséré :<br>\" 5°bis l'administateur général de l'Agence fédérale des Médicaments et des Produits de Santé; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 6 les mots \" 4° et 5° \" sont remplacés par les mots \" 4°, 5° et 5°bis \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">à l'alinéa 8 les mots \" 4° et 5° \" sont remplacés par les mots \" 4°, 5° et 5°bis \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.944Z",
+  "tokenUsage": {
+    "prompt": 1844,
+    "completion": 375,
+    "total": 2219
+  }
+}

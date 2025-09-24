@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014014333",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté est applicable aux autogires qui :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">sont immatriculés dans un Etat membre de l'Union Européenne, d'Islande, du Lichtenstein, de Norvège ou de Suisse ou, à défaut, sont munis d'un document tenant lieu de certificat d'immatriculation délivré par l'autorité compétente d'un de ces Etats;</span>\n                </li>\n            </ol>\n            <p>Et,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">sont admis à la circulation aérienne par le pays ayant délivré l'immatriculation ou le document tenant lieu de certificat d'immatriculation;</span>\n                </li>\n            </ol>\n            <p>Ou,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">sont immatriculés dans un Etat autre que ceux visés au 1° et admis à la circulation aérienne par le pays ayant délivré l'immatriculation ou le document tenant lieu de certificat d'immatriculation si la DGTA a conclu à cet effet un accord avec l'autorité compétente de l'Etat ayant délivré l'immatriculation.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.168Z",
+  "tokenUsage": {
+    "prompt": 1883,
+    "completion": 414,
+    "total": 2297
+  }
+}

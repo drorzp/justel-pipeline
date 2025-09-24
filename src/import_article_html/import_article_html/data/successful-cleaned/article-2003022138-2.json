@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003022138",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3, § 1er, 7°, phrase introductive, remplacé par l'arrêté royal du 31 décembre 1992 et modifié par l'arrêté royal du 8 novembre 2001, et 7°, point a), alinéa 4, remplacé par l'arrêté royal du 31 décembre 1992, l'article 18, alinéa 1er, remplacé par l'arrêté royal du 31 décembre 1992, l'article 20,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">4°, alinéa 2, remplacé par l'arrêté royal du 31 décembre 1992, l'article 22quater, alinéa 3, inséré par l'arrêté royal du 31 décembre 1992, l'article 22quinquies, alinéa 5, inséré par l'arrêté royal du 8 novembre 2001, l'article 48ter, § 1er, alinéa 3, remplacé par l'arrêté royal du 8 novembre 2001, et à l'annexe 2, VI, inséré par l'arrêté royal du 31 décembre 1992, du même arrêté, les mots &quot; l'Inspection générale de la Pharmacie &quot; sont remplacés par les mots &quot; la DG Médicaments &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.764Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 423,
+    "total": 2399
+  }
+}

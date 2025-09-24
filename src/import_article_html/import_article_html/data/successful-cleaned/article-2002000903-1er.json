@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002000903",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La division de l'Emploi - Europe de l'administration de l'Emploi du Ministère de la Communauté flamande est autorisée à utiliser le numéro d'identification du Registre national des personnes physiques. L'autorisation d'utiliser le numéro d'identification est limitée à l'accomplissement des tâches pour lesquelles l'autorité visée à l'alinéa 1er agit comme gestionnaire des moyens du Fonds social européen ou d'autres outils de financement attribués à la Région flamande pour prévenir et lutter contre le chômage. L'utilisation du numéro d'identification est réservée :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au directeur général de l'administration de l'Emploi</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au chef de division de la division de l'Emploi - Europe de l'administration de l'Emploi</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">aux agents que les fonctionnaires visés sous 1° et 2° désignent nommément et par écrit au sein de leurs services, compte tenu des fonctions qu'ils exercent et dans les limites de leurs attributions respectives.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.795Z",
+  "tokenUsage": {
+    "prompt": 1883,
+    "completion": 393,
+    "total": 2276
+  }
+}

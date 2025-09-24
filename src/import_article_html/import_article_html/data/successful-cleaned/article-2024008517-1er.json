@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024008517",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 11, § 1er, alinéa 4, de l'arrêté du Gouvernement wallon du 23 février 2023 relatif aux aides à l'installation et aux investissements concernant les secteurs agricole et horticole, ainsi que les coopératives et autres entreprises dans la transformation et commercialisation dans le secteur agro-alimentaire et dans la première transformation et commercialisation dans le secteur sylvicole, tel que modifié par l'arrêté du Gouvernement wallon du 11 février 2024, les mots &quot;</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">&quot; sont remplacés par les mots &quot;</span></li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">à</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">&quot;.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.462Z",
+  "tokenUsage": {
+    "prompt": 1746,
+    "completion": 342,
+    "total": 2088
+  }
+}

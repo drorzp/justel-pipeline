@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008200836",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>L'emploi, le chiffre d'affaires annuel et le total du bilan de l'entreprise, visés à l'article 3, 2° et 3°, du décret, sont calculés conformément à la définition de 'petites et moyennes entreprises' fixée par la Commission européenne à l'annexe Ire du <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-04-03/29\" data-law-type=\"AGF\" data-article-number=\"8\">Règlement général d'exemption par catégorie</span>.</p>\n          <p>Les données pour le calcul de l'emploi, du chiffre d'affaires annuel et du total du bilan sont établies sur la base d'une déclaration sur l'honneur de l'entreprise et sur la base des articles 3 et 4.</p>\n          <p>Si l'article 32, § 4 est d'application, l'emploi, le chiffre d'affaires annuel et le total du bilan de la société de patrimoine et de l'entreprise demandeuse sont additionnés.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.907Z",
+  "tokenUsage": {
+    "prompt": 1855,
+    "completion": 340,
+    "total": 2195
+  }
+}

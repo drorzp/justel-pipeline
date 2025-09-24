@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012003381",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">[Art.] [9]. A l'article 105 du même Code, remplacé par la loi du 24 décembre 2008, le 2° et le 3° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2° les dépenses visées à l'article 104, 1° et 2°, qui sont dues conjointement par les deux conjoints, sont imputées par priorité suivant la règle proportionnelle sur l'ensemble des revenus nets des deux conjoints;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">3° les dépenses visées à l'article 104, 1° et 2° sont imputées par priorité sur l'ensemble des revenus nets du conjoint qui en est personnellement débiteur et le solde éventuel est imputé sur l'ensemble des revenus nets de l'autre conjoint.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.179Z",
+  "tokenUsage": {
+    "prompt": 1732,
+    "completion": 311,
+    "total": 2043
+  }
+}

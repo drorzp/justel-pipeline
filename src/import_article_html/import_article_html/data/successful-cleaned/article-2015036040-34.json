@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015036040",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 34</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 3.18.0.0.11, premier alinéa, du même décret, inséré par le décret du 19 décembre 2014, il est ajouté un point 7° /1, rédigé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°/1\">\n                    <span class=\"provision-text\">le cessionnaire, si le tarif réduit visé à l'article 2.9.4.2.1, § 1er, échoit à défaut d'aliénation d'un bien immeuble qui est affecté ou destiné partiellement ou totalement à l'habitation et duquel pour l'application de l'article 2.9.4.2.1, § 2,</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"3°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"4°\">\n                            <span class=\"provision-text\">, il n'est pas tenu compte dans le délai mentionné à l'article 2.9.4.2.1, § 3, 1° ;</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.283Z",
+  "tokenUsage": {
+    "prompt": 1837,
+    "completion": 377,
+    "total": 2214
+  }
+}

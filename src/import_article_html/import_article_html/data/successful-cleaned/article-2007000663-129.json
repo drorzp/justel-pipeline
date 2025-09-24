@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000663",
+  "articleNumber": "129",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-129\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 129</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les décisions de l'autorité zonale relatives au <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/22\" data-law-type=\"L\" data-article-number=\"100\">plan du personnel</span> <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2015-11-09/19\" data-law-type=\"L\" data-article-number=\"32\">du personnel opérationnel</span> de la zone, sont transmises pour approbation au gouverneur. Une copie est envoyée au ministre.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.817Z",
+  "tokenUsage": {
+    "prompt": 1757,
+    "completion": 214,
+    "total": 1971
+  }
+}

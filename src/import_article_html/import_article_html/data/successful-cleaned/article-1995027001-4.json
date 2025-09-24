@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995027001",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les PME wallonnes, l'intervention visée aux articles 1er, 1° et 3 de l'arrêté prend la forme d'une subvention.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les entreprises wallonnes ne répondant pas aux critères de la PME, tels que définis à l'article 1er du présent arrêté, l'intervention visée aux articles 1er, 1° et 3 de l'arrêté prend la forme d'une avance récupérable sans intérêt.</p>\n        <p>L'avance est remboursable dans le cas où le chiffre d'affaires annuel réalisé dans le pays visé par le PEI dépasse 5 % du chiffre d'affaires global à l'exportation pour la même année.</p>\n        <p>Les modalités de remboursement sont précisées dans la convention de prêt.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les demandeurs locaux, l'intervention visée aux articles 4 et 5 de l'arrêté prend la forme d'un prêt qui sera utilisé pour l'acquisition de biens et services produits en Région wallonne ou pour l'apport en numéraire au capital d'une société locale lorsqu'au moins une entreprise wallonne y est actionnaire.</p>\n        <p>Dans le cas de l'acquisition de biens et services de la Région wallonne, l'intervention peut prendre la forme d'un paiement direct au fournisseur wallon, dans les conditions qui seront décrites dans la notification.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.000Z",
+  "tokenUsage": {
+    "prompt": 2062,
+    "completion": 502,
+    "total": 2564
+  }
+}

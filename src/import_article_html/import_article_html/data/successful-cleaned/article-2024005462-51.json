@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005462",
+  "articleNumber": "51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-51\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 51</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La commission contrôle le respect des conditions formulées aux articles 47 et 48. A cet effet, le concessionnaire transmet à la commission chaque accord d'achat d'énergie visé à l'article 47, et chaque modification d'un tel accord, avant son entrée en vigueur. Un tel accord ou ses modifications ne peuvent entrer en vigueur qu'après que la commission a confirmé que les conditions précitées sont remplies. En cas de résiliation anticipée de l'accord d'achat d'énergie, le concessionnaire informe également la commission des motifs de cette résiliation. Si, au terme de son examen, la commission estime que la cause réelle de la résiliation s'écarte des motifs de résiliation admissibles visé à l'article 47, § 1er, l'alinéa 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">et à l'article 52 et est liée à la volonté d'une partie de tirer avantage de l'évolution des prix du marché de l'électricité au détriment de la stabilité requise pour ce type de contrat, elle peut infliger à la partie responsable une amende administrative conformément à l'article 6/3 paragraphe 12 de la loi du 29 avril 1999.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.430Z",
+  "tokenUsage": {
+    "prompt": 1889,
+    "completion": 369,
+    "total": 2258
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997016219",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">A l'article 8, § 3,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">du même arrêté, les mots &quot; Centre de lutte, Drongenstationsstraat 71, à 9031 Drongen &quot; sont remplacés par les mots &quot; centre de lutte &quot;.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 8, § 3, 3°, du même arrêté est remplacé par la disposition suivante : &quot; Les porcs à transporter doivent avoir un poids de 80 kg ou plus et doivent être nés dans l'exploitation d'origine ou y être restés depuis au moins quatre semaines.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les points 8°,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"9°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"10°\">\n            <span class=\"provision-text\">de l'article 8, § 3, du même arrêté sont abrogés.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.037Z",
+  "tokenUsage": {
+    "prompt": 1900,
+    "completion": 483,
+    "total": 2383
+  }
+}

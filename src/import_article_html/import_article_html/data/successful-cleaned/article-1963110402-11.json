@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1963110402",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Comité de gestion du Service des indemnités de l'Institut national d'assurance maladie-invalidité est composé:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">d'un président et de deux vice-présidents, nommés par le Roi parmi les membres visés aux 2°, 3° et 4° ci-dessous;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de sept membres effectifs et de trois membres suppléants, choisis parmi les candidats présentés par les organisations représentatives des employeurs, en nombre double de celui des mandats à attribuer;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de sept membres effectifs et de trois membres suppléants, choisis parmi les candidats présentés par les organisations représentatives des travailleurs salariés, en nombre double de celui des mandats à attribuer;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de six membres effectifs et de six membres suppléants, choisis parmi les candidats présentés par les organismes assureurs, en nombre double de celui des mandats à attribuer. Chaque organisme assureur a droit à un mandat de membre effectif et à un mandat de membre suppléant.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.526Z",
+  "tokenUsage": {
+    "prompt": 1884,
+    "completion": 414,
+    "total": 2298
+  }
+}

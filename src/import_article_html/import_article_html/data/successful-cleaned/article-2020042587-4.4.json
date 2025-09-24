@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020042587",
+  "articleNumber": "4.4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4.4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les inspecteurs effectuent des inspections conformément au système de sélection décrit à l'article 4.11 et aux dispositions de l'annexe Ire. Afin de se conformer à ses obligations annuelles en matière d'inspection :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les inspecteurs inspectent tous les navires de \" priorité I \", visés à l'article 4.11, alinéa 2, 1°, qui font escale dans les ports et mouillages belges ; et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les inspecteurs effectuent annuellement un nombre d'inspections de navires de \" priorité I \" et de \" priorité II \", visés à l'article 4.11, alinéa 2, 1° et 2°, qui correspond au moins à la part belge du nombre total d'inspections à effectuer annuellement dans l'EEE et dans la région couverte par le MOU de Paris. La part d'inspection belge est fondée sur le nombre de navires distincts faisant escale dans les ports belges par rapport au nombre total de navires distincts faisant escale dans les ports de chaque Etat membre dans l'EEE et dans la région couverte par le MOU de Paris.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Pour le calcul de la part du nombre total d'inspections à effectuer annuellement dans l'EEE et dans la région couverte par le MOU de Paris, visée au point 2°, les navires au mouillage ne sont pas pris en compte.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.169Z",
+  "tokenUsage": {
+    "prompt": 2041,
+    "completion": 464,
+    "total": 2505
+  }
+}

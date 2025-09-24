@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003231",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 292 de la même loi est complété par les 8° et 9° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">la Commission européenne, la Banque centrale européenne, l'Autorité européenne des marchés financiers, l'Autorité européenne des assurances et des pensions professionnelles et l'Autorité bancaire européenne;</span>\n        </li>\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">lorsque l'établissement soumis à la procédure de résolution répond à la définition d'une institution au sens de l'article 2, point b), de la directive 98/26/CE, les opérateurs des systèmes auxquels il participe.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.311Z",
+  "tokenUsage": {
+    "prompt": 1653,
+    "completion": 262,
+    "total": 1915
+  }
+}

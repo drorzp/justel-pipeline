@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024007418",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er juillet 2024, à l'exception de :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'article 6, à l'exception des points 30°, 31°, 32° et 33° du paragraphe 1er, l'article 10 et l'article 17. Ceux-ci entrent en vigueur le 1er août 2024.</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article 5 et l'article 6, en ce qu'il ajoute un point 33° à l'article 4.3.2, paragraphe 1er de l'arrêté du Gouvernement flamand du 17 février 2012 fixant le règlement flamand relatif à la gestion durable de cycles de matériaux et de déchets. Ceux-ci entrent en vigueur à une date à fixer par le ministre et au plus tôt le 1er janvier 2025 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'article 6 en ce qu'il remplace les points 30°, 31° et 32° dans l'article 4.3.2, paragraphe 1er de l'arrêté du Gouvernement flamand du 17 février 2012 fixant le règlement flamand relatif à la gestion durable de cycles de matériaux et de déchets. Celui-ci entre en vigueur le 1er janvier 2027 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les articles 30, 31 et 32, qui entrent en vigueur le 1er décembre 2024.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.452Z",
+  "tokenUsage": {
+    "prompt": 2058,
+    "completion": 502,
+    "total": 2560
+  }
+}

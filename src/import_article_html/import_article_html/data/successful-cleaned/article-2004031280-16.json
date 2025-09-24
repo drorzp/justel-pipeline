@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004031280",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 174, alinéa 2, de la même ordonnance, un 5° et un 6° libellés comme suit sont ajoutés :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">si l'immeuble est inscrit sur la liste de sauvegarde ou classé ou en cours d'inscription ou de classement;</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">si l'immeuble est repris à l'inventaire des sites d'activité inexploités.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.736Z",
+  "tokenUsage": {
+    "prompt": 1595,
+    "completion": 231,
+    "total": 1826
+  }
+}

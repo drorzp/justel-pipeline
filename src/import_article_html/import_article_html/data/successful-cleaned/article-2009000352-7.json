@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009000352",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article IV.I.20 PJPol est complété par deux alinéas rédigés comme suit :</p>\n            <p class=\"intro-text\">\" La commission paritaire ne peut valablement siéger, délibérer et voter que si les deux tiers des membres sont présents ou représentés.</p>\n            <p class=\"intro-text\">Le président dispose d'une voix. Chaque groupe d'assesseurs visés à l'alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">dispose d'un nombre de voix fixé conformément au</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">2°, en dépit du nombre d'assesseurs présents dans chaque groupe. Ces voix sont divisées de manière égale parmi les membres de ce groupe.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.073Z",
+  "tokenUsage": {
+    "prompt": 1676,
+    "completion": 307,
+    "total": 1983
+  }
+}

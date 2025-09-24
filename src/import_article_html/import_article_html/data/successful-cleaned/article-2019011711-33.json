@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011711",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le tribunal de la jeunesse peut imposer à un délinquant mineur une sanction ambulatoire, telle que visée à l'article 29, § 2, alinéa 1er, 4°. L'article 24 s'applique mutatis mutandis.</p>\n      <p>La sanction ambulatoire concerne le traitement dans un service psychologique ou psychiatrique, un service d'éducation sexuelle, un service spécialisé dans le domaine de l'alcoolisme ou de la toxicomanie, ou l'encadrement contextuel axé sur le soutien généraliste du mineur et de toutes les parties prenantes de son milieu familial et éducatif et d'autres domaines importants de sa vie. A cet effet sont déployées des méthodes étayées, axées sur le délit, qui influencent le comportement du mineur ainsi que ses conséquences et qui empêchent la récidive.</p>\n      <p>Par dérogation à l'article 24, le tribunal de la jeunesse prévoit en même temps une sanction de remplacement pour le cas où le délinquant mineur n'exécute pas, ou pas entièrement, la sanction ambulatoire. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-19/14\" data-law-type=\"DCFL\" data-article-number=\"20\">Les sanctions visées à l'article 29, § 2, alinéa 1er, 4°, 5°, 5° /0, 6° et 7°</span> peuvent être imposées à titre de sanction de remplacement. Egalement par dérogation à l'article 24, la durée maximale de l'exécution de la sanction ambulatoire est de deux ans. Le tribunal de la jeunesse fixe la durée dans son jugement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.458Z",
+  "tokenUsage": {
+    "prompt": 2176,
+    "completion": 459,
+    "total": 2635
+  }
+}

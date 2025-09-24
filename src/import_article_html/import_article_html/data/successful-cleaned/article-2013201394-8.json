@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013201394",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'élimination des déchets suivants dans les masses d'eau, les mers ou les océans est interdite :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les déchets solides;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les eaux mères résultant de la phase de filtration après hydrolyse de la solution de sulfate de titanyle, provenant des installations utilisant le procédé au sulfate; y compris les déchets acides associés à ces eaux mères, qui contiennent globalement plus de 0,5 pour cent d'acide sulfurique libre et divers métaux lourds, et ces eaux mères qui ont été diluées afin que la proportion d'acide sulfurique libre ne dépasse pas 0,5 pour cent;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les déchets des installations utilisant le procédé au chlorure, qui contiennent plus de 0,5 pour cent d'acide chlorhydrique libre et divers métaux lourds, y compris les déchets qui ont été dilués afin que la proportion d'acide chlorhydrique libre ne dépasse pas 0,5 pour cent;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les sels de filtration, boues et déchets liquides qui proviennent du traitement (concentration ou neutralisation) des déchets mentionnés aux points 2° et 3° et qui contiennent différents métaux lourds, à l'exception des déchets neutralisés et filtrés ou décantés qui contiennent des métaux lourds seulement sous forme de traces et qui, avant toute dilution, ont une valeur de pH supérieure à 5,5.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.199Z",
+  "tokenUsage": {
+    "prompt": 2084,
+    "completion": 506,
+    "total": 2590
+  }
+}

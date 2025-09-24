@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042488",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 39</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article IV.II.46, alinéa 1er, PJPol, modifié par les arrêtés royaux du 7 juin 2009, du 11 janvier 2019 et du 30 septembre 2020, est remplacé par ce qui suit :</p>\n      <p class=\"intro-text\">\"L'autorité de recrutement ou, selon le cas, le directeur de la direction du personnel de la police fédérale peut, lorsque le délai entre l'inscription dans la réserve de recrutement et le commencement de la formation de base le rend nécessaire, demander à la commission de délibération concernée un examen complémentaire relatif aux exigences visées à l'article IV.I.15,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, ainsi qu'une enquête complémentaire de moralité.\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.155Z",
+  "tokenUsage": {
+    "prompt": 1717,
+    "completion": 297,
+    "total": 2014
+  }
+}

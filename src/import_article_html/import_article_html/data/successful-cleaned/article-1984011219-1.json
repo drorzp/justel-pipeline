@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1984011219",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 1er de l'arrêté ministériel du 14 juillet 1981 fixant les prix maximums des tarifs de prestations d'entretien et de réparation de véhicules automoteurs, modifié par les arrêtés ministériels des 17 novembre 1982 et 1er décembre 1983, est remplacé par la disposition suivante :</p>\n            <p class=\"intro-text\">\"Les prix, taxe sur la valeur ajoutée non comprise, des prestations d'entretien et de réparation de véhicules automoteurs ne peuvent dépasser les prix réellement appliqués le 1er septembre 1979 majorés de:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">70 F pour le tarif horaire et de 14,5 p.c. pour les prestations forfaitaires;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">7,5 p.c. calculés sur les prix résultant de l'alinéa 1er;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">5 p.c. calculés sur les prix résultant des alinéas 1° et 2°;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">3 p.c. calculés sur les prix résultant des alinéas 1°, 2° et 3°.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Toutefois, les entreprises qui ont obtenus à titre individuel, des hausses de prix supérieures aux augmentations reprises aux alinéas 1°, 2° et 3° peuvent appliquer l'augmentation de 3 p.c. mentionnée à l'alinéa 4° sans pouvoir dépasser le montant total des hausses cumulées mentionnées aux alinéas 1°, 2°, 3° et 4°.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.678Z",
+  "tokenUsage": {
+    "prompt": 2113,
+    "completion": 536,
+    "total": 2649
+  }
+}

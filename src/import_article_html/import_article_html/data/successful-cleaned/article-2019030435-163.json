@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019030435",
+  "articleNumber": "163",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-163\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 163</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un article 45/2 rédigé comme suit est inséré dans le chapitre XVIII de la même loi :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 45/2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les personnes qui ont légalement acquis et enregistré avant le 13 juin 2017 une arme visée à l'article 3, § 1,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"19°\">\n              <span class=\"provision-text\">19°</span>\n            </li>\n            <li class=\"provision\" data-number=\"20°\">\n              <span class=\"provision-text\">20°, soit sur autorisation, soit par enregistrement sur base d'un permis de chasse, un certificat de garde particulier ou une licence de tireur sportif, soit par enregistrement dans le registre d'une personne agréée, peuvent continuer à détenir cette arme, à condition que les autres conditions légales concernant la détention d'armes soient remplies.</span>\n            </li>\n          </ol>\n          <p>Cette arme ne peut être cédée qu'à des tireurs sportifs visés à l'article 27, § 3, alinéa 4, et à des armuriers, collectionneurs ou musées agréés à cet effet. L'arme à feu peut aussi être neutralisée conformément à l'article 3, § 2, 3°, ou peut faire l'objet d'un abandon.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.434Z",
+  "tokenUsage": {
+    "prompt": 1829,
+    "completion": 423,
+    "total": 2252
+  }
+}

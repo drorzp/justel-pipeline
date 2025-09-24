@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020043095",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'(es) entreprise(s) d'assurance cessionnaire(s) devra(ont) informer les preneurs d'assurance en détail des conséquences du transfert sur leur contrat en ce compris le fait que ces contrats ne seront plus, à la suite du transfert, régis par l'arrêté royal du 14 novembre 2003 concernant l'octroi d'avantages extra-légaux aux travailleurs salariés visés par l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés et aux personnes visées à l'article 32, alinéa 1er, 1° et 2° du Code des Impôts sur les Revenus 1992, occupés en dehors d'un contrat de travail.</p>\n      <p class=\"intro-text\">Lors de cette information, l'(es) entreprise(s) d'assurance cessionnaire(s) doi(ven)t mentionner la possibilité de transférer les réserves liées aux contrats à une autre entreprise ou, dans la mesure où l'(es) entreprise(s) d'assurance cessionnaire(s) exerce(nt) cette activité, de les intégrer dans les activités existantes visées par l'arrêté royal du 14 novembre 2003 concernant l'octroi d'avantages extra-légaux aux travailleurs salariés visés par l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés et aux personnes visées à l'article 32, alinéa 1er, 1° et 2° du Code des Impôts sur les Revenus 1992, occupés en dehors d'un contrat de travail.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.168Z",
+  "tokenUsage": {
+    "prompt": 2189,
+    "completion": 436,
+    "total": 2625
+  }
+}

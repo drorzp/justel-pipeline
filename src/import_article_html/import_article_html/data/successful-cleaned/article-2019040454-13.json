@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040454",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Entrent en vigueur le 25 mars 2019 :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les articles 84 à 86, 91, 2° et 95 de l'ordonnance ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le présent arrêté.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Le présent arrêté s'applique à tous les dossiers relatifs à des chantiers en voirie qui ne sont pas arrivés à leur terme à la date visée à l'alinéa 1er. Pour les chantiers qui ont débuté avant celle-ci, la date visée à l'alinéa 1er :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">sert de point de départ pour la prise en compte des conditions de reconnaissance du niveau 2 ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">est considérée comme la date de début du chantier visée à l'article 6.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.378Z",
+  "tokenUsage": {
+    "prompt": 1821,
+    "completion": 387,
+    "total": 2208
+  }
+}

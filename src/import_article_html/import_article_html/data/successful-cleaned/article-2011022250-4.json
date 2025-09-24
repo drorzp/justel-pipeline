@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011022250",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les coefficients de 0,80691 et de 0,75634 visés à l'article 7, § 1er, 1° et 2°, de l'arrêté royal du 28 septembre 2006 portant exécution des articles 33, 33bis, 34 et 34bis de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, et le coefficient de 0,76842 visé à l'article 7, § 2, du même arrêté sont respectivement remplacés :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">avec effet au 1er septembre 2011, par les coefficients de 0,843786, de 0,810418 et de 0,823362;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">avec effet au 1er janvier 2012, par les coefficients de 0,877537, de 0,842835 et de 0,856296.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.164Z",
+  "tokenUsage": {
+    "prompt": 1808,
+    "completion": 342,
+    "total": 2150
+  }
+}

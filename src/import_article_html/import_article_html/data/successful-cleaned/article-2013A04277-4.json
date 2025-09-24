@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A04277",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          Le travailleur qui remplit les conditions fixées à l'article 3 et dont le délai de préavis expire après le 31 décembre 2014 conserve le droit à l'indemnité complémentaire.\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          Le travailleur ayant des problèmes physiques graves qui remplit les conditions fixées à l'article 3, 1° et 2° et qui a introduit sa demande de reconnaissance comme travailleur ayant des problèmes physiques graves avant le 1er juillet 2014 auprès du Fonds des accidents du travail conserve, en dérogation à l'article 3, 3° et 4°, le droit à l'indemnité complémentaire s'il peut apporter seulement après le 31 décembre 2014 la preuve qu'il dispose d'une attestation délivrée par le Fonds des accidents du travail conformément à l'article 7 de la présente convention et s'il est licencié sauf pour motif grave au sens de la législation relative aux contrats de travail.\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.171Z",
+  "tokenUsage": {
+    "prompt": 1779,
+    "completion": 349,
+    "total": 2128
+  }
+}

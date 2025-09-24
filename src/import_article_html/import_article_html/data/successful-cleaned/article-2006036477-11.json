@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036477",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er du même arrêté, les points 9° et 10° sont remplacés par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">l'Agentschap Economie : agence autonomisée interne sans personnalité juridique qui fait partie du domaine politique de l'Economie, des Sciences et de l'Innovation;</span></li>\n        <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">le chef de l'Agentschap Economie : le fonctionnaire dirigeant de l'Agentschap Economie;</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.728Z",
+  "tokenUsage": {
+    "prompt": 1598,
+    "completion": 231,
+    "total": 1829
+  }
+}

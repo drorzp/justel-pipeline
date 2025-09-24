@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1968031501",
+  "articleNumber": "23quinquies_REGION_FLAMANDE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23quinquies_REGION_FLAMANDE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23quinquies_REGION_FLAMANDE</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          <span class=\"legal-citation legal-citation-insertion\" data-dossier-number=\"1998-12-15/32\" data-law-type=\"AR\" data-article-number=\"10\">&lt;Inséré par AR 1998-12-15/32, art. 10; En vigueur : 01-01-1999&gt;</span> Les articles 23ter, § 1er, 4° à 7°, <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-04-27/14\" data-law-type=\"AGF\" data-article-number=\"7\">§ 2, 7° et 8°</span> et l'article 23sexies, § 1er, 5°, ne s'appliquent pas à la remise en circulation suite à une immatriculation du véhicule au nom de l'autre époux (ou du cohabitant légal) ou au nom d'un de leurs enfants à condition que le véhicule dispose encore d'un certificat de visite valable tel que défini à l'article 23novies, § 3. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-03-17/34\" data-law-type=\"AR\" data-article-number=\"9\">&lt;AR 2003-03-17/34, art. 9, 026; En vigueur : 01-05-2003&gt;</span>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          Dans ce cas la périodicité du contrôle reste inchangée, mais un contrôle administratif est effectue avant immatriculation si le futur titulaire n'envisage pas le transfert a son propre nom de l'ancienne marque d'immatriculation.\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.658Z",
+  "tokenUsage": {
+    "prompt": 2124,
+    "completion": 500,
+    "total": 2624
+  }
+}

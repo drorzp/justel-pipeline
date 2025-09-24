@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003264",
+  "articleNumber": "82",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-82\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 82</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 122 de la même loi, il est ajouté des points 45° et 46°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"45°\">\n                    <span class=\"provision-text\">au demandeur, contre les refus d'agrément ou les refus d'approbation décidés par la FSMA en vertu de l'article 9, § 3, ou 12, § 2, de la loi du 12 mai 2014 relative aux sociétés immobilières réglementées, ou lorsque la FSMA n'a pas statué dans un délai de respectivement trois mois ou deux mois à dater de l'introduction d'un dossier complet. Dans ce dernier cas, la demande d'agrément ou d'approbation est censée rejetée;</span>\n                </li>\n                <li class=\"provision\" data-number=\"46°\">\n                    <span class=\"provision-text\">à la société immobilière réglementée, contre les décisions de la FSMA prises en vertu de l'article 64, § 1er, alinéa 2, 3° et 6°, de la loi du 12 mai 2014 précitée. Le recours suspend l'exécution de la décision sauf si la FSMA en décide autrement en cas de péril grave pour les créanciers ou les actionnaires.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.063Z",
+  "tokenUsage": {
+    "prompt": 1953,
+    "completion": 388,
+    "total": 2341
+  }
+}

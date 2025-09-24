@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008035050",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 6 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 15 septembre 2006, est remplacé par les dispositions suivantes :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 6.</h3>\n        <div class=\"paragraph-content\">\n          <p>Une commune ou une structure de coopération de communes qui veulent pour la première fois être éligibles à la subvention pour l'exécution d'un plan de politique culturelle tel que défini aux articles 21, § 1er et § 2, et 76ter, § 1er du décret, est tenue d'introduire auprès de l'administration, au plus tard le 1er avril de l'année dans laquelle elle veut présenter un plan de politique culturelle, une demande qui démontre qu'elle répond aux conditions énoncées à l'article 4, § 1er.</p>\n          <p>Dans l'annexe au plan de politique culturelle qui doit être introduit avant le 31 décembre, il est démontré que la commune répond aux conditions énoncées à l'article 22, § 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"10°\">\n              <span class=\"provision-text\">4°</span>\n            </li>\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">et 5° du décret au plus tard le 1er janvier de l'année suivante.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.040Z",
+  "tokenUsage": {
+    "prompt": 1892,
+    "completion": 431,
+    "total": 2323
+  }
+}

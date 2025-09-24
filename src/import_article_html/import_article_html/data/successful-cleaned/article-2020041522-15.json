@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020041522",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Deux sessions sont organisées pour les examens A et I visés à l'article 13,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1°</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2°</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Les premières ou deuxièmes sessions non encore organisées à l'entrée en vigueur du présent arrêté sont organisées entre le 15 mai 2020 et le 15 octobre 2020. Cette période peut, moyennant l'accord préalable du sfpme, être prolongée.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.159Z",
+  "tokenUsage": {
+    "prompt": 1574,
+    "completion": 250,
+    "total": 1824
+  }
+}

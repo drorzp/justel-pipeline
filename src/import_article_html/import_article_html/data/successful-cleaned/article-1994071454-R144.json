@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071454",
+  "articleNumber": "R144",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R144\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article R144</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Loi du 9 août 1963, article 79quater, inséré par la loi du 22 décembre 1989, article 28 et modifié par les lois des 29 décembre 1990, article 30 et 26 juin 1992, article 47; la référence &quot;l'article 79bis&quot; est remplacée par la référence &quot;l'article 142&quot;; les mots &quot;le Ministre des Affaires sociales&quot; sont remplacés par les mots &quot;le Ministre&quot;; dans le texte néerlandais, au § 1, les mots &quot;Franstaligen en de helft Nederlandstaligen&quot; sont remplacés par les mots &quot;nederlandstaligen en de helft Franstaligen&quot;; au § 2, les divisions 1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">sont omises, au § 2, alinéa 2, les mots &quot;neerlandophones et pour moitié de francophones&quot; sont remplacés par les mots &quot;francophones et pour moitié de néerlandophones&quot;, dans le texte néerlandais, au § 2, les mots &quot;hebben een beslissende stem&quot; sont remplacés par les mots &quot;zijn stemgerechtigd&quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.950Z",
+  "tokenUsage": {
+    "prompt": 1949,
+    "completion": 428,
+    "total": 2377
+  }
+}

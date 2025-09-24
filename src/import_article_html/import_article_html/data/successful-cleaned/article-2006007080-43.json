@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006007080",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 43</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 52 du même arrêté est remplacé par la disposition suivante : \" Article 52. A l'issue du cours, le commandant de l'institut émet, à l'égard de chaque stagiaire :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">une évaluation de ses compétences professionnelles, constituée :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">des résultats obtenus lors des tests écrits dans les modules visés à l'article 51, alinéa 1er, 1° à 3°;</li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">des résultats obtenus lors des tests oraux dans les modules visés à l'article 51, alinéa 1er, 1° à 5°;</li>\n                        <li class=\"sub-provision\" data-marker=\"c)\">des résultats obtenus lors de l'épreuve finale de synthèse organisée à la fin du cours, constituée d'une partie écrite et d'une partie orale portant sur l'ensemble des matières enseignées dans les modules visés à l'article 51, alinéa 1er, 1° et 2°, et orientée selon la formation spécifique suivie;</li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'appréciation de ses compétences de fonctionnement. \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.868Z",
+  "tokenUsage": {
+    "prompt": 1936,
+    "completion": 432,
+    "total": 2368
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031626",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le présent arrêté entre en vigueur le premier jour du trimestre civil qui suit celui au cours duquel il aura été publié au Moniteur belge.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En ce qui concerne l'entrée en vigueur du présent arrêté, les dispositions transitoires suivantes sont d'application :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">Pour les appareils auditifs prescrits avant la date d'entrée en vigueur du présent arrêté mais délivrés après cette date, le code de la nomenclature et le pseudocode doivent être utilisés, conformément aux dispositions prévues à l'article 1er, 2°, 3° et 4° ;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">La bonne combinaison entre le code de nomenclature et le pseudocode est établie sur base de la table de concordance approuvée par le Comité de l'assurance Soins de santé de l'Institut national d'assurance maladie-invalidité.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.135Z",
+  "tokenUsage": {
+    "prompt": 1853,
+    "completion": 403,
+    "total": 2256
+  }
+}

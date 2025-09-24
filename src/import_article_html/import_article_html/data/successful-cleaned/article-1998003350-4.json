@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998003350",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Toutes les compétences dévolues à la Commission des pensions militaires et à la Commission supérieure d'appel des pensions militaires, créées en application de l'article 67 des lois coordonnées sur les pensions militaires, sont reprises par les commissions prévues à l'article 47, § 1er,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">des lois coordonnées sur les pensions de réparation.</span></li>\n            </ol>\n            <p class=\"closing-text\">Le Roi peut prendre toutes les mesures qu'Il estimerait nécessaires pour régler les difficultés auxquelles donnerait lieu l'application de l'alinéa 1er.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.074Z",
+  "tokenUsage": {
+    "prompt": 1647,
+    "completion": 263,
+    "total": 1910
+  }
+}

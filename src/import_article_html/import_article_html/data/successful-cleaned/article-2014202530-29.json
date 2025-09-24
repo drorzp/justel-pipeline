@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014202530",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 29</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 20, § 1er, du décret du 23 juin 2008 relatif à la protection des monuments, du petit patrimoine, des ensembles et sites, ainsi qu'aux fouilles, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er est complété par un 4°, rédigé comme suit : \" 4° le service compétent du Ministère de la Communauté germanophone. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 2, les modifications suivantes sont apportées :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              <span class=\"provision-text\">dans la première phrase, les mots \"au § 1er\" sont remplacés par les mots \"à l'alinéa 1er, 1° à 3°,\";</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              <span class=\"provision-text\">dans la deuxième phrase, les mots \"2° et 3°\" sont remplacés par les mots \"2° à 4°\".</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.374Z",
+  "tokenUsage": {
+    "prompt": 1869,
+    "completion": 406,
+    "total": 2275
+  }
+}

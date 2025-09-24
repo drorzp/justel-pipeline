@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010029211",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la même sous-section 1re, il est inséré un article 79/2 rédigé comme suit : \" Article 79/2. Pour l'application des dispositions de la section 1re/1, et particulièrement pour le calcul des distances nécessaires à la détermination de l'indice composite visé à l'article 79/17, est assimilée à :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">une école fondamentale ou primaire, toute implantation au sens de l'article 4, alinéa 1er, 9° et 10°, de l'arrêté royal du 2 août 1984 portant rationalisation et programmation de l'enseignement maternel et primaire;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un établissement d'enseignement secondaire, toute implantation située dans un bâtiment ou un ensemble de bâtiments, ayant une autre adresse que le siège administratif d'un établissement secondaire et où cet établissement organise un premier degré commun et pour autant que l'adresse de l'implantation et celle du siège soit distante de plus de 2 km. Si ce n'est pas le cas, c'est l'adresse du siège administratif qui est prise en compte. \"</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Pour l'application des dispositions de la présente section, par distance, il faut entendre la distance la plus courte, soit la distance à vol d'oiseau. Pour l'application des dispositions de la présente section, le résultat obtenu par l'application des différents pourcentages prévus est arrondi à l'unité inférieure lorsque la 1ère décimale est inférieure à 5 et à l'unité supérieure lorsque la 1ère décimale est supérieure ou égale à 5.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.233Z",
+  "tokenUsage": {
+    "prompt": 2081,
+    "completion": 486,
+    "total": 2567
+  }
+}

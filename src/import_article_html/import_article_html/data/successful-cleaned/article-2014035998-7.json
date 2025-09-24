@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035998",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La plate-forme de concertation mentionnée à l'article 50novies du décret du 21 octobre 1997, réunit un ou plusieurs représentants de :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'agence, conformément à l'article 50novies, deuxième alinéa, 1°, du décret du 21 octobre 1997 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-06-16/17\" data-law-type=\"AGF\" data-article-number=\"2\">\n              la \" Vlaamse Landmaatschappij \" (Agence flamande terrienne), la \" Vlaamse Milieumaatschappij \" (Société flamande de l'Environnement) ou d'autres administrations flamandes, si, dans le cadre de leurs fonctions, elles fournissent une contribution à la réalisation des objectifs de conservation de la zone de protection spéciale en question;\n            </span>\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">d'autres acteurs que les acteurs mentionnés aux points 1° et 2°, qui assurent l'exécution d'une ou de plusieurs actions dans la zone de protection spéciale ou qui peuvent subir un impact considérable suite à la réalisation progressive des objectifs de conservation pour la zone de protection spéciale concernée.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">L'agence présente, par zone de protection spéciale ou pour une série de zones de protection spéciales, une proposition de composition pour approbation à l'instance de concertation mentionnée à l'article 50quinquies du décret du 21 octobre 1997.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.345Z",
+  "tokenUsage": {
+    "prompt": 2103,
+    "completion": 501,
+    "total": 2604
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024A03426",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3, § 1er, du règlement, il est ajouté un</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">l'installation d'une solution alternative pour produire l'eau chaude et le chauffage lorsque le réseau de gaz ne peut être rétabli rapidement après la survenance d'une calamité naturelle. Par solution alternative pour produire l'eau chaude et le chauffage rapidement, on entend une production d'eau chaude électrique d'une capacité maximale de 100 litres, une production de chauffage électrique fixe de maximum 3KW ou une production de chauffage ponctuelle au bois d'une puissance maximale de 8KW</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">la réalisation des investissements destinés à protéger un logement contre les inondations causés par débordement de cours d'eau ou par ruissellement.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.766Z",
+  "tokenUsage": {
+    "prompt": 1814,
+    "completion": 303,
+    "total": 2117
+  }
+}

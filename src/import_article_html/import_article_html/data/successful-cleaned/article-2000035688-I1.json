@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035688",
+  "articleNumber": "I1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-I1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article I1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté produit ses effets le 1er janvier 1995, à l'exception des articles suivants :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'article C73 qui produit ses effets le 1er juillet 1994;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'article C59 qui produit ses effets le 1er décembre 1997;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'article H62 qui produit ses effets le 1er juillet 1997;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les articles A45, 1°, A61, B45, 1°, B62, C35, 2°, C36, C50, 1°, C71, D43, 1°, D62, 1° et 3°, premier tiret, E46, 1°, E65, F44, 1°, F62, G45, 1°, G63, H43, 1° et H61 qui produisent leurs effets le 1er janvier 1996;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les articles A6, A10 à A24, A29, A32, A63, B5, B8 à B22, B29, B32, B64, C6, C9 à C22, C32, C35, 1°, C74, D5, D8 à D21, D29, D32, D65, E5, E8 à E22, E31, E34, E66, F5, F8 à F22, F28, F31, F64, G5, G11 à G25, G30, G33, G64, H7, H9 à H23, H29, H32, H63 qui produisent leurs effets le 1er juillet 1996;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'article C70 qui produit ses effets le 1er juin 1996;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les articles D26 et D58 qui produisent leurs effets le 1er juin 1993;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les articles A48, B48, C53, D24, D46, D47, D63, D64, E50, F48, G48, H3, H24 et H46 qui entrent en vigueur à la date de l'adoption du présent arrêté.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.261Z",
+  "tokenUsage": {
+    "prompt": 2431,
+    "completion": 699,
+    "total": 3130
+  }
+}

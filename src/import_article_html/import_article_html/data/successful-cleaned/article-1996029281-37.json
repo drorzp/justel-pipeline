@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996029281",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 56, 1°, du même arrêté modifié par l'arrêté royal du 3 juillet 1985 et par l'arrêté de l'Exécutif du 30 août 1989 est remplacé par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux limites de temps fixées pour :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">les changements de forme d'enseignement et de subdivision par les articles 9, 20, § 1, § 2, § 3, 1° et 2°, b et c, 33 et 45, § 1, 1° et 2°, b et c;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">les passages de cinquième année technique en cinquième année professionnelle;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">les changements de forme d'enseignement et de subdivision par les articles 20, § 3, 2°, a et 45, § 1, 2°, a, uniquement pour les cas où un certificat médical établit l'inaptitude physique de l'élève à poursuivre ses études dans la subdivision d'enseignement où il est inscrit\".</li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.109Z",
+  "tokenUsage": {
+    "prompt": 1892,
+    "completion": 397,
+    "total": 2289
+  }
+}

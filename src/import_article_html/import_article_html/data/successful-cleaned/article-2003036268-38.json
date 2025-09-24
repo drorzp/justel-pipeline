@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003036268",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 38</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">En ce qui concerne la Région flamande, l'article 376, § 3, 2° du même Code est remplacé par ce qui suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">des réductions et exemptions résultant de l'application des articles 88, 131 à 135, 138, 139, 146 à 156, 253, 7° et 8°, et 257, pour autant que le fait générateur de ces réductions ou exemptions ait été constaté par l'administration ou signalé à celle-ci par le redevable ou par son conjoint sur les biens duquel l'imposition est mise en recouvrement, dans les trois ans à partir du 1er janvier de l'exercice d'imposition auquel appartient l'impôt sur lequel ces réductions ou exemptions doivent être accordées.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.721Z",
+  "tokenUsage": {
+    "prompt": 1735,
+    "completion": 291,
+    "total": 2026
+  }
+}

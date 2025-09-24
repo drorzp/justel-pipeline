@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006012392",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 25</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 61 de la même loi sont apportées les modifications suivantes :</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">Aux § 1er, 2° et § 2, 2°, les mots \" en application de l'article 35 \" sont remplacés par les mots \" en application de l'article 35, §§ 1er, et 2 \".</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">II est inséré un § 3 et un § 4, rédigés comme suit :</span>\n                <section class=\"paragraph\" id=\"para-3\">\n                    <h3 class=\"paragraph-marker\">§ 3.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>Le cédant est tenu de rembourser au Fonds, lorsque celui-ci les a payés, le montant des rémunérations, indemnités et avantages payés en application de l'article 35, § 3.</p>\n                    </div>\n                </section>\n                <section class=\"paragraph\" id=\"para-4\">\n                    <h3 class=\"paragraph-marker\">§ 4.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>Le Fonds est subrogé de plein droit aux droits et actions du travailleur à l'égard du cédant pour le montant des rémunérations, indemnités et avantages payés par le Fonds en application de l'article 35, § 3.</p>\n                    </div>\n                </section>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.826Z",
+  "tokenUsage": {
+    "prompt": 1909,
+    "completion": 428,
+    "total": 2337
+  }
+}

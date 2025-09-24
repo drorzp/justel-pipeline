@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022344",
+  "articleNumber": "295bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-295bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 295bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"1997-11-24/43\" data-article-number=\"4\" data-law-type=\"AR\" data-effective-date=\"01-01-1997\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=1997112443\">\n          &lt;Inséré par AR 1997-11-24/43, art. 4; En vigueur : 01-01-1997&gt;\n        </span>\n        Toute décision en matière de soins de santé et/ou d'indemnités qui entraîne l'application de la règle de cumul prévue par l'article 136, § 2, de la loi coordonnée est communiquée au bénéficiaire ou à son représentant par lettre ordinaire.\n      </p>\n      <p class=\"intro-text\">\n        Celle-ci mentionne, outre les indications visées à l'article 14, \n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">5°</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">6°</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        de la loi précitée du 11 avril 1995, la faculté pour le titulaire de demander à sa mutualité une révision ou régularisation dans le délai de deux ans, conformément à l'article 174 de la loi coordonnée, ainsi que la faculté d'intenter un recours devant la juridiction compétente dans le même délai en cas de désaccord avec sa mutualité.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.109Z",
+  "tokenUsage": {
+    "prompt": 1925,
+    "completion": 484,
+    "total": 2409
+  }
+}

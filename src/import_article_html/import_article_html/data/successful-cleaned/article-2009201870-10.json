@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009201870",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les élections du conseil d'administration sont organisées par la 'Vlaamse autonome hogeschool Hogere Zeevaartschool'. Le directeur général de la 'Vlaamse autonome hogeschool Hogere Zeevaartschool' assume la présidence du collège électoral.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour les membres du conseil d'administration visés à l'article 6, alinéa premier, 1° et 2°, il est en même temps élu un successeur.</p>\n                <p>Si un membre met fin prématurément à son mandat ou n'a plus la qualité sur la base de laquelle le mandat lui a été accordé, le successeur achève le mandat de son prédécesseur. Si le successeur à son tour de rôle ne peut achever le mandat, des élections intermédiaires seront organisées.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Si un membre du conseil d'administration tel que visé à l'article 6, alinéa premier, 3°, met fin prématurément à son mandat ou n'a plus la qualité sur la base de laquelle le mandat a été accordé, il est désigné un successeur qui achèvera le mandat du prédécesseur.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.309Z",
+  "tokenUsage": {
+    "prompt": 2078,
+    "completion": 450,
+    "total": 2528
+  }
+}

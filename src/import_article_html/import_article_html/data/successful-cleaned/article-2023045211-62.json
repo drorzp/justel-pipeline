@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045211",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 28bis, § 1er du décret du 4 janvier 1999 relatif aux fonctions de promotion et de sélection, les mots \" à l'article 4,3° \" sont remplacés par les mots \" à l'article 4, § 1er, 3° et 4° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.365Z",
+  "tokenUsage": {
+    "prompt": 1491,
+    "completion": 151,
+    "total": 1642
+  }
+}

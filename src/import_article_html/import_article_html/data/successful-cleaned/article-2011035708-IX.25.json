@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011035708",
+  "articleNumber": "IX.25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-IX-25\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article IX.25</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 5, du décret du 9 avril 1992 relatif à l'enseignement III, modifié par les décrets des 14 juillet 1998, 1er décembre 1998, 8 juin 2000, 14 février 2003, 13 juillet 2007 et 8 mai 2009, sont apportées les modifications suivantes:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au premier paragraphe, troisième tiret, les mots &quot;, du Centre psycho-médico-social, du Centre psycho-médico-social de l'enseignement spécial &quot; sont remplacés par les mots &quot; ou du centre d'encadrement des élèves &quot;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au premier paragraphe, cinquième tiret, les mots &quot; des centres psycho-médico-sociaux subventionnés &quot; sont remplacés par les mots &quot; des centre d'encadrement des élèves &quot;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">aux paragraphes 1bis, 1ter et 1quater est chaque fois ajouté un alinéa ainsi rédigé:</span>\n                    <blockquote class=\"provision-quote\">\n                        <p>&quot; L'emploi du membre du personnel, visé à l'article 4, § 1er, 1° et 2°, devient définitivement vacant au moment de la mise en disponibilité par défaut d'emploi et peut entrer en ligne de compte pour une affectation définitive, une mutation ou une nomination à titre définitif. Cela s'applique également aux emplois des membres du personnel qui, au moment de l'entrée en vigueur de cette disposition, sont déjà mis en disponibilité par défaut d'emploi.&quot;</p>\n                    </blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.219Z",
+  "tokenUsage": {
+    "prompt": 2157,
+    "completion": 529,
+    "total": 2686
+  }
+}

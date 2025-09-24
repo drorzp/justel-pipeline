@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008203430",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Au point:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">du paragraphe 3 de l'article 21 du même arrêté, le corps de phrase &quot; C : prise en charge visant à répondre aux besoins de bénéficiaires atteints de déficience physique, sensorielle, ou intellectuelle sévère ou profonde et présentant au moins quatre des critères suivants, dont un au moins figure dans l'énumération sous</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et les trois autres dans l'énumération sous</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">: &quot; est remplacé par le corps de phrase suivant :</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">&quot; C : prise en charge visant à répondre aux besoins de bénéficiaires atteints d'autisme, de lésion cérébrale congénitale ou acquise, de déficience physique, sensorielle, ou intellectuelle sévère ou profonde et présentant au moins quatre des critères suivants, dont un au moins figure dans l'énumération sous</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et les trois autres dans l'énumération sous</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.065Z",
+  "tokenUsage": {
+    "prompt": 1935,
+    "completion": 468,
+    "total": 2403
+  }
+}

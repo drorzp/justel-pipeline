@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004698",
+  "articleNumber": "56",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-56\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 56</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 168, alinéa 3, du même Code, remplacé par la loi du 25 avril 2007, est complété par les 8° et 9° rédigés comme suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">il répond à toutes les demandes des justiciables pour leur fournir des informations générales de nature purement procédurale concernant leur dossier, sans préjudice de l'article 297;</span>\n        </li>\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">il assiste techniquement les justiciables dans l'utilisation du matériel et des logiciels qui sont mis à la disposition du public dans les cours et tribunaux et dans leurs greffes.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.357Z",
+  "tokenUsage": {
+    "prompt": 1675,
+    "completion": 275,
+    "total": 1950
+  }
+}

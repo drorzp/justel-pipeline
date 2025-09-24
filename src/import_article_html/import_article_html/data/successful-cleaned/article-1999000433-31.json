@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999000433",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 31</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">&lt;Voir note sous intitulé&gt; Lorsqu'il existe des indices sérieux que le contact entre un occupant et un visiteur constitue un danger pour la sécurité nationale, la sécurité publique ou l'ordre public ou si la prévention de faits délictueux, la protection sanitaire ou des bonnes moeurs, la protection des droits et libertés d'autrui ou la protection de la sécurité du centre le commande, le directeur de centre ou son remplacant peut prendre une des mesures suivantes à l'égard du visiteur :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">adresser un avertissement verbal;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">mettre fin à la visite;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">refuser l'accès au centre.</span></li>\n      </ol>\n      <p>Lorsque les sanctions visées aux points 2° et 3° sont prises à l'égard de personnes visées à l'article 33 et 34, le directeur de centre doit en aviser immédiatement le Ministre par la voie hiérarchique.</p>\n      <p>Si un visiteur tente de préparer ou de faciliter une évasion, le directeur de centre ou son remplacant le met à la disposition des services de police.</p>\n      <p class=\"closing-text\">La visite de l'avocat de l'occupant ne peut être interdite. En cas d'indices sérieux de mauvais usage ou d'abus de ce droit de visite de l'avocat, le Bâtonnier du barreau de l'arrondissement dans lequel l'avocat est inscrit en est immédiatement informé.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.126Z",
+  "tokenUsage": {
+    "prompt": 2027,
+    "completion": 469,
+    "total": 2496
+  }
+}

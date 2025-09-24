@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000036042",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article XIV 5 du même statut est modifié comme suit:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au § 2, modifié par les arrêtés du Gouvernement flamand des 23 décembre 1993, 26 juin 1996, 11 mars 1997, 14 janvier 1997, 28 avril 1998, 19 décembre 1998, 16 mars 1999, 29 juin 1999, 28 janvier 2000, 14 avril 2000 et 8 juin 2000, il est ajouté un</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"28°\">\n                            <span class=\"provision-text\">1 emploi de chef de l'entité d'Audit interne et au moins 2 et au plus 5 emplois d'auditeur-manager auprès de l'entité susmentionnée</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au § 3, premier alinéa, modifié par les arrêtés du Gouvernement flamand des 14 janvier 1997, 28 avril 1998, 19 décembre 1998, 28 janvier 2000 et 8 juin 2000, les mots \"§ 2, 19° aux 22°, 24° et 27° inclus\" sont remplacés par les mots \"§ 2, 19° aux 22°, 24°, 27° et 28° inclus\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.258Z",
+  "tokenUsage": {
+    "prompt": 2236,
+    "completion": 458,
+    "total": 2694
+  }
+}

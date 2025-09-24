@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992003810",
+  "articleNumber": "96",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-96\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 96</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Il est inséré dans le même Code un article 508bis libellé comme suit : \" Article 508bis. Sans préjudice de l'application de l'article 34, sont exonérés les pensions, les rentes, les capitaux, l'épargne et les valeurs de rachat :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'éventualité où ils résultent de contrats d'assurance-vie que le contribuable ou la personne dont celui-ci est l'ayant-droit à conclus individuellement et pour lesquels aucune exonération ou réduction d'impôt n'a été opérée en vertu de dispositions applicables antérieurement à l'exercice d'imposition 1990 et aucune déduction visée à l'article 81, 1° et 2°, tel qu'il existait avant d'être abrogé par l'article 80 de la loi du 28 décembre 1992 n'a été accordée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'éventualité où ils résultent d'un compte-épargne ou d'un contrat d'assurance épargne pour lesquels la déduction des versements prévue à l'article 104, alinéa 1er, 10°, tel qu'il existait avant d'être abrogé par l'article 81, 2°, de la loi du 28 décembre 1992 n'a pas été obtenue.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.018Z",
+  "tokenUsage": {
+    "prompt": 1973,
+    "completion": 424,
+    "total": 2397
+  }
+}

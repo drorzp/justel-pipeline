@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007022208",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-03-26/15\" data-law-type=\"AR\" data-article-number=\"16\">\n      <section class=\"paragraph\" id=\"para-1er\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>L'équipe pluridisciplinaire de la liaison interne gériatrique est composée de personnes représentant les qualifications visées à l'article 12, 1°, 2°, 4°, 5°, 6°, 7° et 8°.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\" id=\"para-2\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Cette équipe est constituée d'au moins 2 équivalents temps plein, sans compter le médecin spécialiste visé à l'article 12, 1°, et son nombre dépend du nombre annuel de patients de 75 ans et plus hospitalisés dans l'hôpital pour lesquels une admission en service agréé de gériatrie, visé à l'article 13, n'est pas possible.</p>\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.863Z",
+  "tokenUsage": {
+    "prompt": 1834,
+    "completion": 347,
+    "total": 2181
+  }
+}

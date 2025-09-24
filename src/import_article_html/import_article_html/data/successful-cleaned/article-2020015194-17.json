@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020015194",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">à l'article 194ter/1, § 2, 1°, deuxième tiret, du même Code, modifié en dernier lieu par la loi du 29 mai 2020, les mots \"dans un délai prenant cours au plus tôt 6 mois avant la date de signature de la convention-cadre pour l'obtention de l'attestation Tax Shelter pour la production de cette oeuvre visée à l'article 194ter, § 1er, alinéa 1er, 5° et terminant au plus tard 18 mois après la signature de la convention-cadre précitée\" est remplacé par les mots \"dans un délai de 24 mois prenant cours au plus tôt 6 mois avant la date de signature de la convention-cadre pour l'obtention de l'attestation Tax Shelter pour la production de cette oeuvre visée à l'article 194ter, § 1er, alinéa 1er, 5° et terminant au plus tard 24 mois après la signature de la convention-cadre précitée.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.270Z",
+  "tokenUsage": {
+    "prompt": 1846,
+    "completion": 302,
+    "total": 2148
+  }
+}

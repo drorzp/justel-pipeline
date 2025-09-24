@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001B00327",
+  "articleNumber": "VII.III.98",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-VII-III-98\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article VII.III.98</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le mandataire peut rompre volontairement son mandat au moyen d'une lettre, selon le cas, au ministre, au bourgmestre ou au collège de police.</p>\n      <p class=\"closing-text\">S'il s'agit d'une des fonctions visées à l'article 66, alinéa 1er, 2°, 3°, 5° et 7°, de la loi du 26 avril 2002, le membre du personnel informe également le Ministre de la Justice de sa requête de démission.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.682Z",
+  "tokenUsage": {
+    "prompt": 1619,
+    "completion": 200,
+    "total": 1819
+  }
+}

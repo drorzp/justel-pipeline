@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036322",
+  "articleNumber": "2.30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2-30\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2.30</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les dispositions du présent chapitre entrent en vigueur le 1er septembre 2006, à l'exception :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">de l'article II.27, qui produit ses effets le 1er septembre 1997;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">des articles II.2, 1°, 4° et 5°, II.17, II.18, II.20, 1°, II.21, II.22 et II.23, qui produisent leurs effets le 1er septembre 2005;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">des articles II.6 et II.7, qui entrent en vigueur le jour de la publication du présent décret au Moniteur belge.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.728Z",
+  "tokenUsage": {
+    "prompt": 1730,
+    "completion": 317,
+    "total": 2047
+  }
+}

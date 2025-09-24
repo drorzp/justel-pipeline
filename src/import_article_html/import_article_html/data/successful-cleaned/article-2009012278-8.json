@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009012278",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 43 du même arrêté, modifié par les arrêtés royaux des 22 juin 2004 et 14 février 2006, est complété par les 9°, 10° et 11° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">aux périodes d'adaptation temporaire de la durée du travail d'un quart ou d'un cinquième, prévues à l'article 353bis /3 de la loi-programme du 24 décembre 2002;</span>\n        </li>\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">aux périodes de réduction des prestations de travail d'un 1/5e ou d'un 1/2, visées à l'article 15 de la loi du 19 juin 2009 portant des dispositions diverses en matière d'emploi pendant la crise;</span>\n        </li>\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">aux périodes de suspension totale ou partielle de l'exécution du contrat de travail visées à l'article 23 la loi du 19 juin 2009 portant des dispositions diverses en matière d'emploi pendant la crise.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.029Z",
+  "tokenUsage": {
+    "prompt": 1858,
+    "completion": 378,
+    "total": 2236
+  }
+}

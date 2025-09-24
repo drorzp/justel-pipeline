@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008035441",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'agrément est accordé pour une durée indéterminée. L'agrément peut être retiré si le VDAB juge que le GTB, le GA ou le GOB ne remplit plus les conditions d'agrément.</p>\n      <p class=\"intro-text\">Les plaintes relatives aux conditions d'agrément d'un GTB, d'un GA ou d'un GOB peuvent être introduites au Conseil d'Administration qui juge des suites à réserver à celles-ci.</p>\n      <p class=\"intro-text\">Le VDAB établit les modalités de la comptabilité, telle que prévue à l'article 6, alinéa deux, 7°, l'article 7, alinéa deux, 6° et l'article 8, alinéa deux, 6°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.039Z",
+  "tokenUsage": {
+    "prompt": 1726,
+    "completion": 253,
+    "total": 1979
+  }
+}

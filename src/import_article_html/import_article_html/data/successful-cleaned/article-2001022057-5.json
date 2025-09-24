@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001022057",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 10 du même arrêté est remplacé comme suit :</p>\n      <blockquote>\n        <p class=\"quoted-text\">\" Art. 10. La partie de la subvention visée à l'article 4, attribuée sur la base de l'évaluation de la qualité de la gestion financière, décrite à l'article 7,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et dont le coefficient de pondération est fixée à l'article 8,</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">2°, est affectée au Fonds de réserve. Si les subventions visées à l'article 2 et à l'article 4, à l'exception de la partie attribuée au Fonds de réserve, dépassent le montant réel des frais d'administration, l'excédent est versé à la réserve administrative.</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.147Z",
+  "tokenUsage": {
+    "prompt": 1669,
+    "completion": 296,
+    "total": 1965
+  }
+}

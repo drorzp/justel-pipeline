@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003550",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 13 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er est remplacé par ce qui suit :</span>\n          <p>\" L'aide à l'éco-régime \" cultures favorables à l'environnement \" n'est pas octroyée pour les surfaces agricoles suivantes :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">les surfaces faisant l'objet d'un engagement pour les mesures agro-environnementales et climatiques n° 5 \" tournières enherbées \", n° 7 \" parcelles aménagées \" ou n° 12 \" parcelles de céréales laissées sur pied \", conformément à l'arrêté du 23 février 2023 relatif à l'aide aux mesures agro-environnementales et climatiques ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">les surfaces désignées comme zones non productives en application de l'article 67, § 1er, de l'arrêté du Gouvernement wallon du 23 février 2023 ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">les surfaces faisant l'objet d'un engagement pour l'éco-régime \" maillage écologique \". \" ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est complété par un alinéa rédigé comme suit :</span>\n          <p>\" L'alinéa 1er, 2° et 3°, ne s'applique pas à l'égard des arbustes, des buissons isolés et des particularités topographiques au sens de l'article 2, § 1er, alinéa 1er, 7° et 32°, de l'arrêté du Gouvernement wallon du 23 février 2023.</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.536Z",
+  "tokenUsage": {
+    "prompt": 2150,
+    "completion": 572,
+    "total": 2722
+  }
+}

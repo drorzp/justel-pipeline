@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030006",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 2 du même décret, modifié par les décrets des 20 février 2009, 12 juillet 2013 et 15 mai 2020, les points:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"7° /1\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"12°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"15° à 18°\"><span class=\"provision-text\"></span></li>\n            </ol>\n            <p>sont abrogés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.841Z",
+  "tokenUsage": {
+    "prompt": 1701,
+    "completion": 351,
+    "total": 2052
+  }
+}

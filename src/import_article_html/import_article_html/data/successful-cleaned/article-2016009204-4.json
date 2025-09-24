@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016009204",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-05-20/01\" data-law-type=\"L\" data-article-number=\"2\">\n        Lors de la première recomposition des commissions de nomination après l'entrée en vigueur de la présente loi, le mandat de deux des membres effectifs visés à l'article 38, § 4, alinéa 1er, 1° et 2°, d'un des membres effectifs visés à l'article 38, § 4, alinéa 1er, 3° et 4° et d'un des membres effectifs visés à l'article 38, § 4, alinéa 1er, 5° ainsi que le mandat de leurs suppléants seront d'une durée de deux ans.\n        Les membres visés à l'alinéa précédent ne peuvent siéger pour une durée de plus de six ans.\n        Les membres siégeant dans chaque commission de nomination au moment de l'entrée en vigueur de la présente loi sont immédiatement rééligibles pour les mandats visés à l'alinéa 1er.\n        Dans l'hypothèse où le nombre de candidats aux mandats visés à l'alinéa 1er n'est pas suffisant pour pourvoir à ces mandats, la Chambre des représentants et les membres de l'assemblée générale de la Chambre nationale des notaires désignent d'office les membres parmi l'ensemble des candidats ayant postulé pour le prochain renouvellement.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.237Z",
+  "tokenUsage": {
+    "prompt": 2027,
+    "completion": 406,
+    "total": 2433
+  }
+}

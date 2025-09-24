@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995003661",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Conformément à l'article 53,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et 35bis de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, les moyens financiers des Régions en provenance de la partie attribuée du produit de l'impôt des personnes physiques sont réestimés, pour l'année budgétaire 1995, en tenant compte du décompte définitif des moyens attribués pour l'année budgétaire 1994, à 156 941 000 000 de francs pour la Région flamande, à 101 281 900 000 francs pour la Région wallonne et à 27 720 300 000 francs pour la Région de Bruxelles-Capitale.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.986Z",
+  "tokenUsage": {
+    "prompt": 1724,
+    "completion": 301,
+    "total": 2025
+  }
+}

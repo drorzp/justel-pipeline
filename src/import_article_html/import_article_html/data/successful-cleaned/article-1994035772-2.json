@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994035772",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 4,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">du même arrêté, modifié par l'arrêté du Gouvernement flamand du 24 novembre 1993, la dénomination &quot; Equitation et soins aux chevaux &quot; est chaque fois insérée entre les subdivisions &quot; agriculture &quot; et &quot; horituculture et/ou agriculture et horticulture &quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.123Z",
+  "tokenUsage": {
+    "prompt": 1581,
+    "completion": 236,
+    "total": 1817
+  }
+}

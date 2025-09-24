@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1937100201",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2022-05-12/30\" data-law-type=\"AR\" data-article-number=\"9\">\n          Le directeur général de la direction générale Recrutement et Développement du Service public fédéral Stratégie et Appui\n        </span> \n        organise les sélections comparatives. \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2002-09-05/37\" data-law-type=\"AR\" data-article-number=\"11\">\n          Il peut toutefois sous sa surveillance confier tout ou partie de l'organisation de ces sélections comparatives au service public fédéral.\n        </span> \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2002-09-05/37\" data-law-type=\"AR\" data-article-number=\"11\">...</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.585Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 293,
+    "total": 2054
+  }
+}

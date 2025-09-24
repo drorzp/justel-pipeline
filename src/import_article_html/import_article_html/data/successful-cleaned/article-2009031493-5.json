@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009031493",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le Fonctionnaire dirigeant des services du Collège réuni est chargé de l'exécution du présent arrêté.<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-01-22/05\" data-law-type=\"AM\" data-article-number=\"2\">Par dérogation à l'alinéa précédent, le Fonctionnaire dirigeant de l'Office bicommunautaire de la Santé, de l'Aide aux personnes et des prestations familiales est chargé de l'exécution de l'article 1er, § 1/1, 1° et §§ 2 à 4, du présent arrêté, pour les centres et services pour personnes handicapées.</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.078Z",
+  "tokenUsage": {
+    "prompt": 1684,
+    "completion": 232,
+    "total": 1916
+  }
+}

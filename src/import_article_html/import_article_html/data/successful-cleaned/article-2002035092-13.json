@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002035092",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article18 du même arrêté sont ajoutés les points 3°, 4° et 5°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">un élève est également admis en deuxième année d'études, s'il a atteint l'âge de neuf ans ou s'il est inscrit en quatrième année de l'enseignement fondamental;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">un élève est également admis en troisième année d'études, s'il a atteint l'âge de dix ans ou s'il est inscrit en cinquième année de l'enseignement fondamental;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">un élève est également admis en quatrième année d'études, s'il a atteint l'âge de onze ans ou s'il est inscrit en sixième année de l'enseignement fondamental.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.704Z",
+  "tokenUsage": {
+    "prompt": 1762,
+    "completion": 330,
+    "total": 2092
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995000386",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'accomplissement des tâches qui relèvent de sa compétence, le commandant de la gendarmerie est autorisé à accéder aux informations visées à l'article 3, alinéa 1er, 1° à 9°, de la loi du 8 août 1983 organisant un registre national des personnes physiques et aux modifications de ces informations visées à l'article 3, alinéa 2, de ladite loi, aux fins ci-après déterminées et dans les limites fixées à l'article 2 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'accomplissement de missions de police administrative;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'accomplissement de missions de police judiciaire;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'accomplissement de tâches de gestion, d'administration et de recrutement du personnel.</span>\n        </li>\n      </ol>\n      <p>L'accès pour les tâches visées au premier alinéa, 1° et 2°, est également accordé aux autres membres du personnel du corps opérationnel de la gendarmerie.</p>\n      <p class=\"closing-text\">L'accès pour les tâches visées au premier alinéa, 3°, est réservé aux membres du personnel de la gendarmerie qui font partie des administrations, services ou unités chargés de la gestion, de l'administration et du recrutement du personnel et qui sont désignés à cet effet par le Ministre de l'Intérieur.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.960Z",
+  "tokenUsage": {
+    "prompt": 2005,
+    "completion": 461,
+    "total": 2466
+  }
+}

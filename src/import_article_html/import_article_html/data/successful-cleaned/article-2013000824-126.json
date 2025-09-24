@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013000824",
+  "articleNumber": "126",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-126\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 126</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 125 de la présente loi entre en vigueur le 1er janvier 2014, sauf les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">modifiant l'article 221/1, § 6, qui produisent leurs effets le 5 octobre 2012.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.075Z",
+  "tokenUsage": {
+    "prompt": 1503,
+    "completion": 207,
+    "total": 1710
+  }
+}

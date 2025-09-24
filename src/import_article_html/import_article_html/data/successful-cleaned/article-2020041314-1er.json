@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020041314",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Au chapitre Vbis de l'arrêté royal du 16 mai 2003 pris en exécution du Chapitre 7 du Titre IV de la loi-programme du 24 décembre 2002 (I), visant à harmoniser et à simplifier les régimes de réductions de cotisations de sécurité sociale, modifié en dernier lieu par l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 7 juin 2018, il est ajouté un article 20/5, rédigé comme suit :</p>\n      <p class=\"intro-text\">\" Art. 20/5. A cause de la crise du coronavirus, les délais, qui conformément à l'article 20/3, § 2, alinéa premier,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">et alinéa deux, et à l'article 20/4, alinéa deux, prennent fin le 31 mars 2020, sont prolongés jusqu'au 30 juin 2020 inclus.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.160Z",
+  "tokenUsage": {
+    "prompt": 1785,
+    "completion": 329,
+    "total": 2114
+  }
+}

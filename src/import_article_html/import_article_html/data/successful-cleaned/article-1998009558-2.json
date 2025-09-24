@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998009558",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">de la loi du 3 juin 1997 sur les protêts, les mots \"son domicile ou siège social\" sont chaque fois remplacés par les mots \"son domicile ou, s'il s'agit d'un commercant, sont établissement principal ou, s'il s'agit d'une personne morale, sont siège social\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.159Z",
+  "tokenUsage": {
+    "prompt": 1568,
+    "completion": 230,
+    "total": 1798
+  }
+}

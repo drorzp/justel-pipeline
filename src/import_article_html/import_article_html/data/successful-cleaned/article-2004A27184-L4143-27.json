@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004A27184",
+  "articleNumber": "L4143-27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-L4143-27\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article L4143-27</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2006-06-01/31\" data-law-type=\"DRW\" data-article-number=\"2\">\n                <p>Le bureau arrête et inscrit au procès-verbal :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">le nombre des électeurs qui ont pris part au vote;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">le nombre des bulletins repris en application de l'article L4143-22, § 1er, 5° et 6°, du présent Code;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">le nombre des bulletins inutilisés;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"4°\">\n                        <span class=\"provision-text\">le nombre obtenu en soustrayant du nombre de bulletins indiqué au procès-verbal conformément à l'article L4143-7, § 2, ceux indiqués au 2° et au 3°. Ce nombre doit correspondre au 1°.</span>\n                    </li>\n                </ol>\n            </span>\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2023-06-01/29\" data-law-type=\"DRW\" data-article-number=\"165\">\n                <p>Les membres du bureau et les témoins signent le procès-verbal.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.736Z",
+  "tokenUsage": {
+    "prompt": 2018,
+    "completion": 454,
+    "total": 2472
+  }
+}

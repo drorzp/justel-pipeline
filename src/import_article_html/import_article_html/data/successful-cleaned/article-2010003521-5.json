@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010003521",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les articles 2 et 4 sont applicables à partir de l'exercice d'imposition 2011.</p>\n      <p class=\"intro-text\">Des dépenses visées à l'article 6311, § 1er, de l'AR/CIR 92, pour lesquelles, à la date de publication du présent arrêté au Moniteur belge, une facture ou une annexe à une facture a été faite conformément aux dispositions de l'article 6311, § 1er, de l'AR/CIR 92, telles qu'elles existaient avant qu'elle ne soient modifiées par le présent arrêté, sont censées satisfaire aux conditions relatives aux mentions obligatoires à fournir sur la facture ou son annexe telles qu'elles sont reprises à l'article 6311, § 1er, A,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et B,</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, de l'AR/CIR 92. L'article 3 est applicable à partir de l'exercice d'imposition 2012.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.283Z",
+  "tokenUsage": {
+    "prompt": 1797,
+    "completion": 338,
+    "total": 2135
+  }
+}

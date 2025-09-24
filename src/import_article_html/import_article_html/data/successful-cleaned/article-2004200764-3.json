@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004200764",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 7 du même arrêté est modifié comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au § 1er, 7°, les mots \" et sur avis préalable de la Direction générale du Personnel et de la Fonction publique \" sont insérés entre les mots \" avant liquidation du traitement correspondant \" et \" l'octroi des allocations \".</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au même § 1er est ajouté un 8°, rédigé comme suit : \" 8° pour conclure les conventions de stage non rémunéré des étudiants \".</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au § 4, 2e alinéa, les mots \" la compétence prévue au 3° \" sont remplacés par les mots, \" les compétences prévues aux 3° et 8° \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.693Z",
+  "tokenUsage": {
+    "prompt": 1743,
+    "completion": 330,
+    "total": 2073
+  }
+}

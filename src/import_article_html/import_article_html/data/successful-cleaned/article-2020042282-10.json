@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020042282",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          Les informations et décisions relatives à la date, et le cas échéant à l'horaire des élections, ainsi que celles relatives au calendrier électoral tel que visé à \n          <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-12-04\" data-law-type=\"L\" data-article-number=\"14\">\n            &lt;L 2007-12-04, art. 14, alinéa 1er, 1° et 7°&gt;\n          </span>, \n          de la loi du 4 décembre 2007, sont adaptées et communiquées par le conseil ou le comité ou, en l'absence de l'organe, par l'employeur, conformément aux modalités prévues par le présent arrêté.\n        </p>\n        <p>\n          Pendant la période de suspension de la procédure des élections sociales, le conseil, le comité ou l'employeur peuvent valablement se réunir, prendre des décisions et procéder à des communications concernant les éléments visés au premier alinéa.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.159Z",
+  "tokenUsage": {
+    "prompt": 1661,
+    "completion": 334,
+    "total": 1995
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011031389",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 50</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les articles 23, points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">7°, 24, point:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et 36, point</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de la présente ordonnance entrent en vigueur le 1er janvier 2012.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge. Bruxelles, le 20 juillet 2011. Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, et de la Propreté publique et de la Coopération au Développement, Ch. PICQUE Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, la Fonction publique et des Relations extérieures, J.-L. VANRAES La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de l'Environnement, de l'Energie et de la Politique de l'Eau, de la Rénovation urbaine, de la Lutte contre l'Incendie et l'Aide médicale urgente et du Logement, Mme E. HUYTEBROECK La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée des Travaux publics et des Transports, Mme B. GROUWELS Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de la Recherche scientifique, B. CEREXHE</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.206Z",
+  "tokenUsage": {
+    "prompt": 2118,
+    "completion": 522,
+    "total": 2640
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018206018",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans le Livre IIIter, inséré par l'article 4, il est inséré un article 43/16 rédigé comme suit : \" Art. 43/16.</p>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les conditions de facturation des prestations et interventions prévues à l'article 43/7 sont subordonnées à la conclusion d'une convention, telle que prévue à l'article 43/2, alinéa 1er, 11° et 12°, approuvée par le Gouvernement. L'alinéa 1er ne concerne pas les prestations et interventions énumérées par le Gouvernement.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Pour chaque prestation et intervention prévues à l'article 43/7, le Gouvernement détermine, le cas échéant, la Commission compétente visée :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">à l'article 10 du présent Code pour la branche \" Bien-être et Santé \";</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">aux articles 23 et 24 du présent Code pour les conventions communes à plusieurs branches.</span></li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Gouvernement fixe la périodicité de la facturation.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.329Z",
+  "tokenUsage": {
+    "prompt": 1974,
+    "completion": 475,
+    "total": 2449
+  }
+}

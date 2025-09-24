@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035570",
+  "articleNumber": "55",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-55\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 55</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le présent arrêté entre en vigueur le jour de sa publication au Moniteur Belge, à l'exception de l'article 1er, points 3°, 5°, 6°, de l'article 2, des articles 5 à 21 inclus, de l'article 22, points 1° et 4°, de l'article 23 à 36 inclus, des articles 39 à 44 inclus, de l'article 47, des articles 49 à 51, et des articles 53 et 54, qui prennent effet le 1er avril 2014.</p>\n      <p>L'article 22, points 2° et 3°, s'applique pour la première fois à l'électricité produite à partir du 1er avril 2014.</p>\n      <p>L'article 38 s'applique pour la première fois aux projets pour lesquels à la date de publication du présent arrêté au Moniteur Belge, aucun facteur de banding provisoire, au sens de l'article 6.2/1.7, § 1er, cinquième alinéa, n'a encore été fixé par le ministre ou le Gouvernement flamand.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.334Z",
+  "tokenUsage": {
+    "prompt": 1834,
+    "completion": 324,
+    "total": 2158
+  }
+}

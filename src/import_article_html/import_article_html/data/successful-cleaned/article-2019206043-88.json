@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019206043",
+  "articleNumber": "88",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-88\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 88</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article D.IV.11 du même Code, les mots \" , 10° et 11° \" sont remplacés par les mots \" et 10° \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.229Z",
+  "tokenUsage": {
+    "prompt": 1427,
+    "completion": 117,
+    "total": 1544
+  }
+}

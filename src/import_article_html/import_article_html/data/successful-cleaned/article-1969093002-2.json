@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1969093002",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\"><h2 class=\"article-number\">Article 2</h2></header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Entrent en vigueur le 1er janvier 1970, les articles, énumérés ci-après, de la même loi:</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les articles 4, 5, 6, 7, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 29 et 30;</span></li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">l'article 34, en tant qu'il remplace les </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n                        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5° de l'article 121 de la loi du 9 août 1963 précitée;</span></li>\n                    </ol>\n                </li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 37</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 40, en tant qu'il contient un nouveau libellé du § 4 de l'article 133 de la loi du 9 août 1963 précitée;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les articles 41 et 43;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 44, en tant qu'il abroge la section 3 du chapitre III du titre IV, et les articles 139, § 2, et 146, alinéa 2, de la loi du 9 août 1963 précité.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.558Z",
+  "tokenUsage": {
+    "prompt": 2019,
+    "completion": 518,
+    "total": 2537
+  }
+}

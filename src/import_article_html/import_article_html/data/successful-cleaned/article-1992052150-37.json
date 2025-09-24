@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992052150",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les membres du comité exécutif, visés à l'article 32, <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"32\" data-law-type=\"L\" data-article-number=\"1\">1°</span>, ne peuvent être administrateur, directeur, gérant, fondé de pouvoir ou préposé de sociétés commerciales ou de sociétés à forme commerciale de droit belge ou de droit étranger, ni prendre part à la gestion d'une institution publique belge ou étrangère.</p>\n        <p>Cette interdiction ne s'applique pas à la représentation de la société dans des sociétés ou institutions dans lesquelles elle a une participation.</p>\n        <p>Dans des cas individuels, la Commission bancaire et financière, aux conditions qu'elle définit, peut accorder des dérogations à l'interdiction prévue au premier alinéa.</p>\n        <p>Les violations de cette interdiction sont frappées des peines prévues aux articles <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"42\" data-law-type=\"L\" data-article-number=\"5\">42, 5°</span> et <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"42\" data-law-type=\"L\" data-article-number=\"6\">6°</span>, et <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"46\" data-law-type=\"L\" data-article-number=\"46\">46</span> de l'arrêté royal n° 185 du 9 juillet 1935 sur le contrôle des banques et le régime des émissions de titres et valeurs.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.097Z",
+  "tokenUsage": {
+    "prompt": 1759,
+    "completion": 454,
+    "total": 2213
+  }
+}

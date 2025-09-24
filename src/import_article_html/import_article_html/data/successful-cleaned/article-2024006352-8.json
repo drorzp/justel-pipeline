@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006352",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même décret, dans la Section 1, insérée par l'article 5, il est inséré un article 8/7 rédigé comme suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Article 8/7.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les ressources prévues pour l'enseignement libre confessionnel, l'enseignement libre non confessionnel, le Conseil de l'Enseignement des Communes et des Provinces et le Conseil des Pouvoirs organisateurs de l'Enseignement Officiel Neutre Subventionné, aux chapitres III et IIIbis, sont réparties entre les deux mécanismes définis à l'article 8/5, 9° et 10°, à la proportionnelle du montant total des dossiers en liste d'attente dans chacun de ces mécanismes au 31 décembre de l'année N-1.</p>\n          <p>Par dérogation à l'alinéa 1, les ressources sont réparties entre ces deux mécanismes à hauteur de 50 pour cent chacun lors de la première année.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.565Z",
+  "tokenUsage": {
+    "prompt": 1817,
+    "completion": 335,
+    "total": 2152
+  }
+}

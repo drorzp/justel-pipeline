@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036195",
+  "articleNumber": "IV.8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-IV-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article IV.8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Gouvernement flamand est autorisé à modifier les articles suivants des arrêtés du Gouvernement flamand par arrêté du Gouvernement flamand :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">l'article 34 de l'arrêté du Gouvernement flamand du 3 octobre 2014 modifiant divers arrêtés relatifs à l'enseignement artistique à temps partiel en vue d'un certain nombre de mesures pour l'innovation au niveau du contenu ;</span>\n        </li>\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">l'article 2, § 1er, 7° et l'article 7 de l'arrêté du Gouvernement flamand du 31 juillet 1990 portant organisation de l'enseignement artistique à temps partiel, orientation \" Arts plastiques \" ;</span>\n        </li>\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">l'article 2, § 1er, 8°, b), l'article 2, § 1er, 11°, <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-06-16/24\" data-law-type=\"DCFL\" data-article-number=\"IV.3\">et l'article 26ter</span>, de l'arrêté du Gouvernement flamand du 31 juillet 1990 portant organisation de l'enseignement artistique à temps partiel, orientation \" Musique \", \" Arts de la Parole \" et \" Danse \".</span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.219Z",
+  "tokenUsage": {
+    "prompt": 1986,
+    "completion": 433,
+    "total": 2419
+  }
+}

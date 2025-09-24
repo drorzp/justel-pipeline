@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999000190",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p class=\"intro-text\">Les personnes visées à l'article 1er, alinéa 2, 1°,:</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">seront informées par écrit avant le début de l'enquête de la nature précise de celle-ci, de la dénomination exacte de l'organisme pour lequel l'activité de recherche est effectuée, des objectifs que celle-ci poursuit et des modalités selon lesquelles les informations recueillies seront traitées.</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">Elles seront informées qu'elles n'ont pas l'obligation de coopérer à l'enquête et qu'elles peuvent interrompre à tout moment leur coopération sans devoir en justifier les motifs.</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">Elles seront en outre informées du délai de conservation des données, visé à l'article 4, alinéa 1er, et du fait que les informations les concernant seront rendues anonymes.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.124Z",
+  "tokenUsage": {
+    "prompt": 1718,
+    "completion": 389,
+    "total": 2107
+  }
+}

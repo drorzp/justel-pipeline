@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001022463",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 44 du même arrêté, remplacé par l'arrêté royal du 17 juillet 1979 et modifié par l'arrêté royal du 15 mai 1995, les mots \" article 41, 7° à 12°, 14° et 15° \" sont remplacés par les mots \" article 41, 6° à 11° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.145Z",
+  "tokenUsage": {
+    "prompt": 1665,
+    "completion": 165,
+    "total": 1830
+  }
+}

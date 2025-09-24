@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997035033",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">(Le fonctionnaire dirigeant du Département de l'Agriculture et de la Pêche) désigne les membres des jurys provinciaux sur la proposition du chef de division de (l'entité compétente du Département de l'Agriculture et de la Pêche), des administrations provinciales et des centres intéressés pour la formation agricole et en tenant compte de la composition prévue à l'annexe 3 de l'arrêté du Gouvernement flamand du 13 décembre 1995 relatif à la formation permanente des personnes travaillant dans l'agriculture. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-05-19/47\" data-law-type=\"AM\" data-article-number=\"37\">AM 2006-05-19/47, art. 37, 1° et 2°, 002; <strong>En vigueur :</strong> 01-04-2006</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.918Z",
+  "tokenUsage": {
+    "prompt": 1766,
+    "completion": 277,
+    "total": 2043
+  }
+}

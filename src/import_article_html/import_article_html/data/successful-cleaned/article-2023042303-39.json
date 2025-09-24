@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042303",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 39</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-11-10/07\" data-law-type=\"AGF\" data-article-number=\"9\">\n        <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er janvier 2024, à l'exception de l'article 3, qui entre en vigueur le 1er juillet 2024.</p>\n        <p class=\"intro-text\">Les articles 4, 6, 7, 17, 1°, 19, 20, 1°, 2° et 3°, 37 et 38 produisent leurs effets à partir du 1er avril 2023.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.758Z",
+  "tokenUsage": {
+    "prompt": 1710,
+    "completion": 235,
+    "total": 1945
+  }
+}

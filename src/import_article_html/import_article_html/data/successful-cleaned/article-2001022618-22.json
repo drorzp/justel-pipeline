@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001022618",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 59, 7°, de la même loi, remplacé par l'arrêté royal n° 530 du 31 mars 1987, les mots \" visées à l'article 52, 5°, 6° et 7° \" sont supprimés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.144Z",
+  "tokenUsage": {
+    "prompt": 1539,
+    "completion": 143,
+    "total": 1682
+  }
+}

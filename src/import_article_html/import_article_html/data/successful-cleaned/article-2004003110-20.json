@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004003110",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 2 de l'arrêté royal n° 46 du 29 décembre 1992 relatif à la déclaration de l'acquisition intracommunautaire de moyens de transport et au paiement de la T.V.A. due y afférente, modifié par les arrêtés royaux du 22 novembre 1994 et du 11 mars 1999, est remplacé par la disposition suivante :</p>\n      <p>\" Art. 2.- Toute personne qui est tenue au dépôt de la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, ou 53ter, 1°, du Code, doit, pour la perception de la taxe due en raison de l'acquisition intracommunautaire d'un moyen de transport ou d'une opération y assimilée qu'elle a effectuée, déposer la déclaration spéciale visée à l'article 1er auprès du bureau de douane de son choix, lorsque, au moment où la taxe est exigible, elle ne remplit pas totalement ou partiellement les obligations prescrites par les articles 53, § 1er, alinéa 1er, 2° et 3°, 53bis, § 1er, 53ter ou 53quater du Code.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.650Z",
+  "tokenUsage": {
+    "prompt": 1882,
+    "completion": 347,
+    "total": 2229
+  }
+}

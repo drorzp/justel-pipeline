@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035791",
+  "articleNumber": "90",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-90\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 90</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 du décret du 7 mars 2008 relatif à l'assistance spéciale à la jeunesse, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 1° est remplacé par ce qui suit : \" 1° centre de soutien : le centre de soutien d'Aide sociale à la Jeunesse, créé en vertu de l'article 33 du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les points 2° à 4° inclus sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au point 8°, les termes \" le présent décret \" sont remplacés par la partie de phrase \" le décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les points 11° et 12° sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">le point 14° est remplacé par ce qui suit : \" 14° porte d'entrée : un organe tel que visé à l'article 17 du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">les points 15° à 17° inclus sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.090Z",
+  "tokenUsage": {
+    "prompt": 2029,
+    "completion": 505,
+    "total": 2534
+  }
+}

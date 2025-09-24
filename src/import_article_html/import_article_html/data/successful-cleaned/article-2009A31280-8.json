@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009A31280",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La Chambre des Métiers se compose de :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">huit membres effectifs et d'autant de suppléants représentant les organisations représentatives des travailleurs;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">huit membres effectifs et d'autant de suppléants représentant les organisations représentatives des employeurs;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">deux membres effectifs et de deux membres suppléants représentant les Services publics de l'emploi.</span>\n        </li>\n      </ol>\n      <p>Les représentants des organisations représentatives des travailleurs et des employeurs visés au 1° et 2° ont voix délibérative.</p>\n      <p>Parmi ces membres, deux membres au moins sont issus des organisations bruxelloises représentatives des travailleurs et deux membres au moins sont issus des organisations bruxelloises représentatives des employeurs.</p>\n      <p>Les membres représentant les organisations représentatives des travailleurs et des employeurs visés au 1° et 2°, sont nommés par les Gouvernements sur liste double de candidats présentée par leurs organisations.</p>\n      <p>Les membres représentant les Services publics de l'emploi visés au 3°, ont voix délibératives. Ils sont nommés par les Gouvernements et le Collège sur proposition de leur mandant.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.312Z",
+  "tokenUsage": {
+    "prompt": 1939,
+    "completion": 432,
+    "total": 2371
+  }
+}

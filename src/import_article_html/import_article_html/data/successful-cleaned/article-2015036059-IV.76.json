@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015036059",
+  "articleNumber": "IV.76",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-IV-76\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article IV.76</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent chapitre entre en vigueur le 1er septembre 2015.</p>\n      <p class=\"intro-text\">L'article IV.36 produit ses effets le 1er mars 2015.</p>\n      <p class=\"intro-text\">Les articles IV.38, IV.69 produisent leurs effets le 1er janvier 2013.</p>\n      <p class=\"intro-text\">Les articles IV.46, IV.52, IV.53, 1° et 2°, IV.56, IV.62, IV.63, IV.71, IV.74 produisent leurs effets le 1er octobre 2013.</p>\n      <p class=\"intro-text\">Les articles IV.49, IV.50, IV.51, IV.53, 3°, IV.60 produisent leurs effets le 1er janvier 2015.</p>\n      <p class=\"intro-text\">Les articles IV.64, IV.66 produisent leurs effets le 1er juillet 2015.</p>\n      <p class=\"intro-text\">Les articles IV.39, IV.61, IV.65 entrent en vigueur le 1er janvier 2016.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.282Z",
+  "tokenUsage": {
+    "prompt": 1774,
+    "completion": 338,
+    "total": 2112
+  }
+}

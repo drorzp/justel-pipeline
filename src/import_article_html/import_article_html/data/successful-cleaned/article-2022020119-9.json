@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022020119",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 20, de la même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 1° est remplacé par ce qui suit : \" 1° Les coûts calculés comme la somme des coûts d'investissement récurrents visés à l'article 18, § 2, 1°, des coûts fixes d'exploitation et de maintenance visés à l'article 18, § 2, 2° et, pour les technologies à coût variable élevé, du coût d'activation visé à l'article 18, § 2, 6°. Ce résultat est multiplié par le facteur 1 plus le coût moyen pondéré du capital visé à l'article 19bis § 3 ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les 2° , 3° et 7° sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.693Z",
+  "tokenUsage": {
+    "prompt": 1784,
+    "completion": 323,
+    "total": 2107
+  }
+}

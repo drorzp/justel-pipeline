@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004029241",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent chapitre ne s'applique que :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">si les négociations relatives à la programmation sociale intersectorielle pour les matières visées à l'article 3, § 1er, alinéa 7 et § 3 et à l'article 9bis, § 1er, 1° et 2°, f) et § 5, de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, telle que modifiée par la loi du 5 juin 2004, n'ont pas abouti à un accord;</span>\n        </li>\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">si, conformément à l'article 3, § 1er, alinéa 2 de la loi du 19 décembre 1974, telle que modifiée par la loi du 5 juin 2004, faute de l'accord préalable de toutes les autorités et de toutes les organisations syndicales, d'autres matières n'ont pu être mises à l'ordre du jour du comité commun à l'ensemble des services publics visé à l'article 3, § 1er, alinéa 1er, 3°, de la loi du 19 décembre 1974 précitée, ou si, dans le cas contraire, les négociations à leur sujet n'ont pas abouti à un accord.</span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.786Z",
+  "tokenUsage": {
+    "prompt": 1964,
+    "completion": 417,
+    "total": 2381
+  }
+}

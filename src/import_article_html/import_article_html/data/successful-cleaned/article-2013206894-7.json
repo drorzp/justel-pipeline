@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013206894",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 14bis du même arrêté royal, inséré par l'arrêté du Gouvernement wallon du 22 décembre 2009, sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">le paragraphe 1er est complété par les 3°, 4° et 5° rédigés comme suit :</span>\n        <ol class=\"numbered-provisions\">\n          <li class=\"sub-provision\" data-marker=\"3°\">\n            <span class=\"provision-text\">la taxe de circulation sur les véhicules automobiles;</span>\n          </li>\n          <li class=\"sub-provision\" data-marker=\"4°\">\n            <span class=\"provision-text\">la taxe de mise en circulation;</span>\n          </li>\n          <li class=\"sub-provision\" data-marker=\"5°\">\n            <span class=\"provision-text\">l'eurovignette.</span>\n          </li>\n        </ol>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">Sont insérés les paragraphes 8 et 9, rédigés comme suit :</span>\n      </li>\n    </ol>\n    <section class=\"paragraph\" id=\"para-8\">\n      <h3 class=\"paragraph-marker\">§ 8.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le service visé aux articles 29, 34, 35 et 102 du Code des taxes assimilées aux impôts sur les revenus, est la Direction générale opérationnelle Fiscalité du Service public de Wallonie.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-9\">\n      <h3 class=\"paragraph-marker\">§ 9.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le service visé aux articles 36ter, § 2, et 36quater, § 2, du Code des taxes assimilées aux impôts sur les revenus est le service chargé du recouvrement au sein de la Direction générale opérationnelle Fiscalité du Service public de Wallonie.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.172Z",
+  "tokenUsage": {
+    "prompt": 2075,
+    "completion": 558,
+    "total": 2633
+  }
+}

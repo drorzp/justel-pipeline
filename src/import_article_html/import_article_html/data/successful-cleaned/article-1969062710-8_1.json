@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1969062710",
+  "articleNumber": "8/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-07-10/03\" data-law-type=\"L\" data-article-number=\"11\">\n        <p class=\"intro-text\">L'Office national de sécurité sociale est chargé de l'exécution des dispositions :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">de la loi du 16 juin 1960 plaçant sous le contrôle et la garantie de l'Etat belge les organismes gérant la sécurité sociale des employés du Congo belge et du Ruanda-Urundi, et portant garantie par l'Etat belge des prestations sociales assurées en faveur de ceux-ci;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">des arrêtés d'exécution des lois visées sous 1° et 2°.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.546Z",
+  "tokenUsage": {
+    "prompt": 1829,
+    "completion": 354,
+    "total": 2183
+  }
+}

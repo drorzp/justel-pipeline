@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998027403",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le chauffage doit permettre d'atteindre, par n'importe quel temps, dans les locaux de séjour et dans les chambres, une température de 22° et dans les autres locaux une température de 18°.</p>\n            <p>Le système de chauffage adopté proscrit toute flamme ouverte, dégagement de gaz ou de poussière.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.092Z",
+  "tokenUsage": {
+    "prompt": 1488,
+    "completion": 150,
+    "total": 1638
+  }
+}

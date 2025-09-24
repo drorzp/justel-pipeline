@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995029168",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\">.</span></h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 7, § 1er, 10°, de l'arrêté de l'Exécutif de la Communauté française du 27 juin 1989 portant organisation du jury de la Communauté française de l'enseignement secondaire est remplacé par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">du diplôme d'aptitude visé à l'article 1er, B, 2° et C, 4°, les récipiendaires sont interrogés sur les matières visées à l'article 2 de l'arrêté du Gouvernement de la Communauté française du 20 février 1995 relatif à l'octroi du diplôme d'aptitude à accéder à l'enseignement supérieur.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.996Z",
+  "tokenUsage": {
+    "prompt": 1747,
+    "completion": 277,
+    "total": 2024
+  }
+}

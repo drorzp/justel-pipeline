@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000003530",
+  "articleNumber": "102",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-102\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 102</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 62 de la même loi, modifié par les lois du 6 août 1993 et du 29 avril 1996, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 3° est remplacé par la disposition suivante : \" 3° les institutions de sécurité sociale, leurs préposés ou mandataires, qui, contrairement aux dispositions de l'article 20, § 2, n'ont pas communiqué à la Banque-Carrefour les corrections et les effacements des données sociales à caractère personnel qu'ils traitent; \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans les 6°, 7° et 10° les mots \" données médicales a caractère personnel \" sont remplacés par les mots \" données sociales à caractère personnel relatives à la santé \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le 8°, les mots \" données médicales \" sont remplacés par les mots \" données sociales à caractère personnel relatives à la santé \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.104Z",
+  "tokenUsage": {
+    "prompt": 1829,
+    "completion": 366,
+    "total": 2195
+  }
+}

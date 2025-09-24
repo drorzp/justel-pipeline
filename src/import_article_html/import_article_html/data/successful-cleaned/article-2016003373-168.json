@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003373",
+  "articleNumber": "168",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-168\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 168</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les articles I. 9,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"71°\">\n          <span class=\"provision-text\">71°</span>\n        </li>\n        <li class=\"provision\" data-number=\"82°\">\n          <span class=\"provision-text\">82°</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">, XV. 57/1, alinéa 1er, et XV. 67/3, § 1er, alinéas 1er et 2, et § 2, alinéa 1er du Code de droit économique, les mots \"loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit\" sont chaque fois remplacés par les mots \"loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.320Z",
+  "tokenUsage": {
+    "prompt": 1690,
+    "completion": 295,
+    "total": 1985
+  }
+}

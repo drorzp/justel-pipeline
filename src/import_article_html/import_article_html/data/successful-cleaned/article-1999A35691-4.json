@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A35691",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Avant de statuer sur la demande, l'organe compétent de l'autre partie en adresse une copie à l'organe compétent de la partie dont relève la personne handicapée; ce dernier est tenu de lui communiquer le cas échéant :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">la copie du dossier qu'il a constitué au nom de la personne handicapée;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">la copie des décisions motivées d'octroi ou de refus d'intervention qu'il a prises à l'égard de la personne handicapée.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Lorsque l'organe compétent de l'autre partie projette de prendre une décision favorable vis à vis d'une demande basée sur les conditions reprises à l'article 3, alinéa 1er, 1° et 2°, b), il est tenu avant de statuer d'en informer l'organe compétent de la partie dont relève la personne handicapée; celui-ci est tenu de faire savoir dans un délai d'un mois s'il marque ou non son accord sur ce projet.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 3.</h3>\n        <div class=\"paragraph-content\">\n          <p>L'organe compétent de l'autre partie transmet à l'organe compétent de la partie dont relève la personne handicapée, la copie de sa décision relative à l'accès aux services qu'elle agrée et subventionne.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.105Z",
+  "tokenUsage": {
+    "prompt": 1931,
+    "completion": 528,
+    "total": 2459
+  }
+}

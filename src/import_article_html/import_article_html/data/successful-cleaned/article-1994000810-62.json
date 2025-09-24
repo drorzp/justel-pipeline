@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994000810",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La présente loi entre en vigueur le 1er janvier 1995, à l'exception des articles 17,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, 18, 20, 2°, 22, 1°, 23, 28, 34, 35, 40, 1°, 41 et 44 dont le Roi fixe, pour chacun d'eux, la date et les modalités d'entrée en vigueur.</p>\n      <p class=\"closing-text\">Donné à Bruxelles, le 9 décembre 1994.</p>\n      <p class=\"closing-text\">ALBERT</p>\n      <p class=\"closing-text\">Par le Roi :</p>\n      <p class=\"closing-text\">Le Ministre de la Justice,</p>\n      <p class=\"closing-text\">M. WATHELET</p>\n      <p class=\"closing-text\">Le Ministre de l'Intérieur,</p>\n      <p class=\"closing-text\">J. VANDE LANOTTE</p>\n      <p class=\"closing-text\">Scellé du sceau de l'Etat :</p>\n      <p class=\"closing-text\">Le Ministre de la Justice,</p>\n      <p class=\"closing-text\">M. WATHELET</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.065Z",
+  "tokenUsage": {
+    "prompt": 1709,
+    "completion": 401,
+    "total": 2110
+  }
+}

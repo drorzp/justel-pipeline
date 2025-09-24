@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007201376",
+  "articleNumber": "173",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-173\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 173</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 74 de la même loi, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'alinéa 1er est remplacé par les mots : \" La composante sociale du service universel consiste en la fourniture, par chaque opérateur offrant un service téléphonique public aux consommateurs, de conditions tarifaires particulières à certaines catégories de bénéficiaires \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">sont insérés, dans le quatrième alinéa, après les mots \" d'indemniser les prestataires de tarifs sociaux \", les mots suivants : \" qui ont introduit une demande à cet effet auprès de l'Institut \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">est ajouté un alinéa rédigé comme suit : \" L'Institut calcule, selon la méthodologie définie dans l'annexe, le coût net des tarifs sociaux pour chaque opérateur qui a introduit une demande dans ce sens auprès de l'Institut.</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">est ajouté un alinéa rédigé comme suit : \" L'Institut peut déterminer les modalités de calcul des coûts et des compensations dans les limites établies par la présente loi et par son annexe. \"</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">(NOTE : par son arrêt n° 7/2011 du 27-01-2011 (M.B. 11-03-2011, p. 15991-15995), la Cour Constitutionnelle a annulé l'article 173, 3° et 4°)</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.984Z",
+  "tokenUsage": {
+    "prompt": 2078,
+    "completion": 507,
+    "total": 2585
+  }
+}

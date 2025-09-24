@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997003481",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\"></span>.</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er de l'arrêté royal du 22 décembre 1995 relatif à l'organisation du marché secondaire hors bourse des obligations linéaires, des titres scindés et des certificats de trésorerie, le:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">intermédiaire : tout membre du marché visé à l'article 2.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.025Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 229,
+    "total": 1899
+  }
+}

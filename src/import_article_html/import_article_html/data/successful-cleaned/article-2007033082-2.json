@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007033082",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Définitions Pour l'application du présent arrêté, l'on entend par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">décret : le décret du 18 mars 2002 relatif à l'infrastructure;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-12-21/42\" data-law-type=\"ACG\" data-article-number=\"36\">\n              Office : l'Office de la Communauté germanophone pour une vie autodéterminée\n            </span>;\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">projet d'infrastructure : les projets d'infrastructure mentionnés à l'article 2, 1°, 3°, 4°, 5°, 7°, 8° et 9°, du décret;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">conditions d'accessibilité : les conditions d'accessibilité d'infrastructures subsidiées aux personnes handicapées, telles que fixées dans l'annexe au présent arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.119Z",
+  "tokenUsage": {
+    "prompt": 1860,
+    "completion": 396,
+    "total": 2256
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990022427",
+  "articleNumber": "62undecies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62undecies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62undecies</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-06-02/39\" data-law-type=\"L\" data-article-number=\"3\">\n      <section class=\"paragraph\" id=\"para-1er\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Toute décision par laquelle le Conseil de l'Office de contrôle prononce une astreinte ou une amende administrative, dans le cadre des missions visées à l'article 52, 11° et 12°, en application des articles 62bis, 62ter, 62quater, 62quinquies et 62sexies, est susceptible d'un recours auprès du tribunal de première instance de Bruxelles.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\" id=\"para-2\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Sans préjudice des dispositions spéciales plus restrictives prévues par ou en vertu de la loi, le recours visé au § 1er est ouvert aux parties en cause devant l'Office de contrôle.</p>\n          <p>Sans préjudice des dispositions spéciales prévues par ou en vertu de la loi, le délai de recours, prescrit à peine d'irrecevabilité, est de 30 jours à compter de la notification de la décision attaquée.</p>\n          <p>Le recours est formé, à peine d'irrecevabilité prononcée d'office, par requête signée et déposée auprès du tribunal de première instance de Bruxelles en autant d'exemplaires que de parties à la cause.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\" id=\"para-3\">\n        <h3 class=\"paragraph-marker\">§ 3.</h3>\n        <div class=\"paragraph-content\">\n          <p>Le recours visé au § 1er est suspensif de la décision du Conseil de l'Office de contrôle.</p>\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.727Z",
+  "tokenUsage": {
+    "prompt": 2189,
+    "completion": 536,
+    "total": 2725
+  }
+}

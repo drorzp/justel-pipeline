@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012024167",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5 du même arrêté est complété par les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">disposer de possibilités de traitement ambulatoire pour le suivi, en concertation avec la première ligne, de patients atteints d'une pathologie cardiaque chronique;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">disposer des possibilités de transférer, à tout moment et dans les plus brefs délais, des patients présentant un infarctus aigu du myocarde avec élévation ST (infarctus STEMI), éventuellement avec intervention d'un médecin ou d'une fonction \" service mobile d'urgence \", vers un programme de soins \" pathologie cardiaque \" B ou éventuellement vers les programmes partiels B1 et B2 tels que visés à l'article 22/2, suivant les modalités du manuel cardiologique pluridisciplinaire visé à l'article 8/1.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.258Z",
+  "tokenUsage": {
+    "prompt": 1839,
+    "completion": 319,
+    "total": 2158
+  }
+}

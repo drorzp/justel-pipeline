@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011132",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 3 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er, 2°, est remplacé par ce qui suit :<br>\" 2° la production de biocarburants, d'huiles minérales et de leurs produits de substitution d'origine biologique; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, 8°, les mots \" de biocarburants, \" sont insérés entre les mots \" des qualités \" et les mots \" d'huiles minérales \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">est inséré un 9°, rédigé comme suit :<br>\" 9° les ventes ou fournitures des biocarburants, huiles minérales, mélangés ou non, et leurs produits de substitution d'origine biologique mis à la consommation finale par région ou par zones du territoire qui peuvent être déterminées par le Ministre; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">est inséré un 10°, rédigé comme suit :<br>\" 10° Le détail des ventes ou fournitures visées au 9° mise à la consommation finale par secteur d'activité. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">l'alinéa 2 est remplacé par ce qui suit :<br>\" Les données visées au 1er alinéa, 1° à 6°, sont recueillies mensuellement. Celles visées au 1er alinéa, 7° et 8°, sont récoltées trimestriellement. Les autres données sont recueillies annuellement. \" .</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.240Z",
+  "tokenUsage": {
+    "prompt": 2147,
+    "completion": 555,
+    "total": 2702
+  }
+}

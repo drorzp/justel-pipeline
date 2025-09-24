@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202579",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er du décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public, modifié en dernier lieu par les décrets des 3 juillet 2003 et 4 décembre 2003, est modifié comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 16° \"Centre wallon de Recherches agronomiques\" est renuméroté en 17°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par les 18° et 19° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"18°\">\n              <span class=\"provision-text\">Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises;</span>\n            </li>\n            <li class=\"provision\" data-number=\"19°\">\n              <span class=\"provision-text\">Commissariat général au Tourisme.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.307Z",
+  "tokenUsage": {
+    "prompt": 1773,
+    "completion": 359,
+    "total": 2132
+  }
+}

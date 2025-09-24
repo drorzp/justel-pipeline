@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044637",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>\n                    Pour l'application de la norme horaire de 475 heures dans le cadre de contrats de travail pour étudiants, visée à l'article 14, § 2, alinéa 1er, 1°, l'article 29, § 1er, alinéa 1er, 1° et l'article 41, alinéa 1er, 1°, de l'arrêté du Gouvernement flamand du 5 octobre 2018 établissant les diverses qualités de l'enfant bénéficiaire et relatif aux exemptions des conditions d'octroi pour les allocations familiales, les montants initiaux naissance et adoption et les allocations de participation universelles, il n'est pas tenu compte, dans le secteur des soins et dans l'enseignement, des prestations effectuées sous le contrat de travail précité pendant la période du 1er octobre 2020 au 31 mars 2021 inclus.\n                </p>\n                <p>\n                    Dans l'alinéa 1er, on entend par secteur de soins : les commissions paritaires et les établissements publics de soins visés à l'article 10, alinéa 2, de la loi du 4 novembre 2020 relative à diverses mesures sociales à la suite de la pandémie COVID-19.\n                </p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.089Z",
+  "tokenUsage": {
+    "prompt": 1860,
+    "completion": 374,
+    "total": 2234
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022020074",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'instance de prélèvement d'échantillon assure que la chaîne de gestion est documentée en détail et, le cas échéant, que des instructions sont fournies sur le type d'analyse qui doit être effectué au laboratoire de contrôle chargé à cet effet.</p>\n      <p>Le donneur d'ordre ou l'ONAD Flandre fournit au laboratoire de contrôle les informations nécessaires visées à l'article 15, § 1, alinéa premier, 3°, 6°, 9°, 11°, 12°, 13°, 17°, 18°, 23°, 27°, 28° et 29° pour le rapport des résultats et à des fins statistiques, et indique si la conservation des échantillons est nécessaire sur la base de la stratégie de conservation des échantillons, visée à l'article 4.7.3 du Standard international pour les contrôles et les enquêtes</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.694Z",
+  "tokenUsage": {
+    "prompt": 1734,
+    "completion": 275,
+    "total": 2009
+  }
+}

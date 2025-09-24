@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041343",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 10 du même arrêté est remplacé par ce qui suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 10.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les conditions d'inscription sont les mêmes que les conditions visées à l'article 3, § 2. L'article 3, § § 3, 5 et 6 s'applique par analogie.</p>\n          <p>En cas d'application de l'article 3, § § 3 et 6, alinéa premier:</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">Le candidat locataire doit respecter la condition de possession immobilière, visée à l'article 3, § 2, un an après l'attribution d'un logement locatif modeste.</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">Si le locataire peut invoquer des raisons légitimes à cet effet, il peut demander à la société de logement social de prolonger le délai d'un an.</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">Si le locataire ne respecte pas la condition de possession immobilière dans un délai d'un an ou, le cas échéant, dans le délai prolongé, le contrat de location est résilié moyennant un préavis de six mois.</span>\n            </li>\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">Le candidat locataire doit respecter la condition de possession immobilière.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.481Z",
+  "tokenUsage": {
+    "prompt": 1862,
+    "completion": 484,
+    "total": 2346
+  }
+}

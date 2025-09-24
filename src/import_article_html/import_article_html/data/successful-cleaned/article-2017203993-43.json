@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017203993",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 43</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 62.7 du même décret, inséré par le décret du 11 mai 2009 et modifié en dernier lieu par le décret du 20 juin 2016, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans le § 1er, alinéa 1er, le nombre \"78\" est remplacé par les mots \"79, 80, alinéa 1er, 2°\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le § 2, alinéa 1er, les mots \"Le § 1er vaut \" sont remplacés par les mots \"Le § 1er du présent article, l'article 62.6, § 2, alinéa 1er, 4° et 6°, et alinéas 3 à 5, ainsi que l'article 80, à l'exception de l'alinéa 1er, 1°, valent\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.554Z",
+  "tokenUsage": {
+    "prompt": 1816,
+    "completion": 347,
+    "total": 2163
+  }
+}

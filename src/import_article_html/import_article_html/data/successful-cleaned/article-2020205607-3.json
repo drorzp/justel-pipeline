@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020205607",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'application de cet arrêté on entend par \" secteurs de soins de santé fédéraux \" :</p>\n            <ol>\n                <li class=\"sub-provision\" data-marker=\"a)\">Les hôpitaux soumis à la loi sur les hôpitaux, à l'exclusion des structures de soins de santé visées à l'article 5, § 1er, I, alinéa 1er, 3° et 4°, de la loi spéciale de réforme institutionnelle du 8 août 1980 proposant des soins appropriés aux patients dont l'état de santé nécessite l'admission ou le séjour, dans le but de rétablir ou d'améliorer leur état de santé en luttant contre la maladie ou en rééduquant le patient;</li>\n                <li class=\"sub-provision\" data-marker=\"b)\">Les centres de psychiatrie légale;</li>\n                <li class=\"sub-provision\" data-marker=\"c)\">Les centres d'accompagnement pour les grossesses non désirées, centres de rééducation pédiatrique et établissements pour enfants souffrant de troubles neurologiques et psychiatriques, avec lesquels le Comité de l'assurance de l'Institut national d'assurance maladie-invalidité (INAMI), sur proposition du Collège des médecins-directeurs, en exécution de l'article 22, 6°, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, a conclu une convention, à l'exception des centres de revalidation long term care tels que mentionnés à l'article 5, § 1er, I, alinéa 1er, 5°, de la loi spéciale de réforme institutionnelle du 8 août 1980;</li>\n                <li class=\"sub-provision\" data-marker=\"d)\">Les services de soins infirmier à domicile;</li>\n                <li class=\"sub-provision\" data-marker=\"e)\">Les maisons médicales;</li>\n                <li class=\"sub-provision\" data-marker=\"f)\">Les services pour le sang de la Croix-Rouge de Belgique.</li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.245Z",
+  "tokenUsage": {
+    "prompt": 2160,
+    "completion": 528,
+    "total": 2688
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008202045",
+  "articleNumber": "64",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-64\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 64</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 131 du même Code, remplacé par la loi du 10 août 2001, l'alinéa 1er est remplacé par ce qui suit : \" Pour le calcul de l'impôt, le montant de base suivant est exempté d'impôt :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">lorsque le revenu imposable du contribuable ne dépasse pas 15 220 EUR : 4 260 EUR;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">lorsque le revenu imposable du contribuable est compris entre 15 220 EUR et 15 220 EUR majoré de la différence entre le montant mentionné au 1° et le montant mentionné au 3° : le montant mentionné au 1° diminué de la différence entre le revenu imposable et 15 220 EUR;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">dans les autres cas : 4 095 EUR. \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.905Z",
+  "tokenUsage": {
+    "prompt": 1803,
+    "completion": 354,
+    "total": 2157
+  }
+}

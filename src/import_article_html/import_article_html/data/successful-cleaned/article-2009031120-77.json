@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009031120",
+  "articleNumber": "77",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-77\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 77</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Sans préjudice des <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-06-23/23\" data-law-type=\"ORD\" data-article-number=\"2\">articles 13/4, 13/5</span> et 66, lorsqu'une reconnaissance de l'état du sol n'a pas été réalisée sur un site préalablement au début ou à la poursuite d'une activité à risque conformément à l'article 13, § 2, 3° et 4° et § 3, l'état du sol de ce site au moment ou cette reconnaissance de l'état du sol aurait dû être réalisée est considéré, pour les obligations d'identification et de traitement de la pollution du sol à charge de l'exploitant <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2017-06-23/23\" data-law-type=\"ORD\" data-article-number=\"79\">actuel</span>, et notamment pour déterminer un éventuel accroissement de pollution engendré par l'exploitation de l'activité à risque, comme respectant les normes d'assainissement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.113Z",
+  "tokenUsage": {
+    "prompt": 1895,
+    "completion": 326,
+    "total": 2221
+  }
+}

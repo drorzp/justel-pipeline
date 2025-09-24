@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023043756",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 16 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 2°, les mots \" plan d'action \" sont remplacés par les mots \" plan de mise en conformité \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un 3° rédigé comme suit est inséré entre le 2° et l'ancien 3°, devenant le 4° : \" 3° le maintien de l'agrément ou l'octroi d'un ultime délai de maximum six mois visés à l'article 28, § 2, du décret ; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.849Z",
+  "tokenUsage": {
+    "prompt": 1660,
+    "completion": 269,
+    "total": 1929
+  }
+}

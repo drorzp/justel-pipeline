@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012022349",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article 1er, l'interruption de carrière visée à l'article 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"17°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"20°\">\n          <span class=\"provision-text\">ne donne lieu à l'application de l'article 88, alinéas 3 et 4 de la loi du 28 décembre 2011 précitée que pour autant qu'une allocation complémentaire soit versée par l'employeur.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.190Z",
+  "tokenUsage": {
+    "prompt": 1582,
+    "completion": 234,
+    "total": 1816
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010003680",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsque, pour fixer la valeur normale des services visés aux articles 19, § 2, alinéa 1er, 1° et 36, § 1er, b), du Code, l'expertise prévue à l'article 59, § 2, du même Code, est requise par l'administration, elle est introduite par une demande notifiée par le chef de l'office de contrôle dans le ressort duquel est situé le bien visé à l'article 1er, § 9, 1°, du Code, auquel se rapportent les services :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">au maître de l'ouvrage auquel les services ont été fournis;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">à l'assujetti dans le cas prévu à l'article 19, § 2, alinéa 1er, 1°, du Code.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation au paragraphe 1er, lorsque des travaux immobiliers sont relatifs à l'achèvement d'un bien visé à l'article 1er, § 9, 1°, du Code, acquis avec paiement de la taxe, la demande d'expertise relative à ces travaux est introduite par le fonctionnaire indiqué à l'article 1er, en même temps que la demande d'expertise relative au bien inachevé.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.284Z",
+  "tokenUsage": {
+    "prompt": 2088,
+    "completion": 487,
+    "total": 2575
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1935113052",
+  "articleNumber": "174/18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-174/18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 174/18</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1993-06-29/30\" data-law-type=\"L\" data-article-number=\"1\">Inséré par L 1993-06-29/30, art. 1, 009;**En vigueur :**01-10-1993</span>\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sous réserve des paragraphes 2 et 3, la constitution de la nouvelle société est soumise à toutes les conditions prévues par les présentes lois coordonnées pour la forme de société qui a été choisie.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Quelle que soit la forme de la nouvelle société, la constitution de celle-ci doit, à peine de nullité, être constatée par acte authentique. Cet acte reproduit les conclusions du rapport du commissaire-reviseur, du reviseur d'entreprise, ou de l'expert comptable, visé à l'article 174/3, § 2.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 29bis, l'article 30, 11° et 15°, l'article 31, alinéa 2, deuxième phrase, et les articles 32 et 33 ne s'appliquent ni à la société anonyme ni, par dérogation à l'article 107 ou à l'article 147quater, à la société en commandite par actions ou à la société coopérative à responsabilité limitée qui est issue de la fusion.</p>\n        <p>Par dérogation aux articles 120bis et 121, l'article 29bis ne s'applique pas à la société privée à responsabilité limitée qui est issue de la fusion. L'article 121, 8° et 12°, ne s'applique pas non plus à cette société.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.587Z",
+  "tokenUsage": {
+    "prompt": 2263,
+    "completion": 572,
+    "total": 2835
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994003344",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Conformément à l'article 16, 1° de la loi, il est renoncé pour l'application de la loi à la perception du précompte mobilier sur les revenus des titres (<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-09-05/06\" data-law-type=\"AR\" data-article-number=\"1\">visés à l'article 2, §§ 1er, 2 et 3, 1°</span>) et sur les revenus obtenus à l'occasion des transactions qui s'y rapportent. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1995-01-23/33\" data-law-type=\"AR\" data-article-number=\"2\">AR 1995-01-23/33, art. 2, 1°, 002;<b>En vigueur :</b>07-02-1995</span></p>\n      <p>Pour les titres (visés à l'article 2, § 3, 2° <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-09-05/06\" data-law-type=\"AR\" data-article-number=\"1\">...</span>) il est, pour l'application de la loi, seulement renoncé à la perception du précompte mobilier sur les revenus des titres et sur les revenus obtenus à l'occasion des transactions qui s'y rapportent à condition que les titres visés soient émis sous la forme de titres dématérialisés (ou de titres collectifs au porteur de droit belge ou étranger) et que ceux-ci soient exclusivement représentés par des inscriptions en compte, visées à l'article 1er, 5° de la loi et sans application des dispositions de l'article 3, alinéa 1er, 2° et article 5 de la loi. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1995-01-23/33\" data-law-type=\"AR\" data-article-number=\"2\">AR 1995-01-23/33, art. 2, 3°, 002;<b>En vigueur :</b>07-02-1995</span> <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1996-05-07/46\" data-law-type=\"AR\" data-article-number=\"2\">AR 1996-05-07/46, art. 2, 004;<b>En vigueur :</b>14-05-1996</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.066Z",
+  "tokenUsage": {
+    "prompt": 2384,
+    "completion": 641,
+    "total": 3025
+  }
+}

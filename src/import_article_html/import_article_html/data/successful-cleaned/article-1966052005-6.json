@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1966052005",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"11-10-1971\" data-law-type=\"AR\" data-article-number=\"1er\">AR 11-10-1971, art. 1er</span> (L'intervention financière visée à l'article 1er s'élève:\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pendant une période maximale de six mois: à 24,30 francs l'heure ou à 4 860 francs par mois, selon qu'il s'agit d'un ouvrier ou d'un employé; ces montants sont toutefois portés respectivement à 31,05 et à 6 210 francs pour les chômeurs à la fois âgés et handicapés au sens de l'article 2, alinéa 1er, 1° et 2°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pendant une période maximale de trois mois consécutive à la période visée au 1° : 12,15 francs l'heure ou à 2 430 francs par mois, selon qu'il s'agit d'un ouvrier ou d'un employé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">pendant une période maximale de trois mois consécutive à la période visée au 2° : à 6,75 francs l'heure ou à 1 215 francs par mois, selon qu'il s'agit d'un ouvrier ou d'un employé.</span>\n        </li>\n      </ol>\n      <p>\n        Les montants prévus à l'alinéa 1er, 1°, sont limités à 50 p.c. de la rémunération brute payée par l'employeur lorsque celle-ci est inférieure à 43,20 francs l'heure ou à 8 640 francs par mois, selon qu'il s'agit d'un ouvrier ou d'un employé.\n      </p>\n      <p>\n        Les montants prévus à l'alinéa 1er sont liés à l'indice-pivot 114,20. Ils sont augmentés ou diminués suivant les règles prévues à l'article 159 de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.566Z",
+  "tokenUsage": {
+    "prompt": 2285,
+    "completion": 622,
+    "total": 2907
+  }
+}

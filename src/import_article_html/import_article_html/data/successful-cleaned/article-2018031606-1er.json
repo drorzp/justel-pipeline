@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018031606",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté royal du 2 août 2002, fixant le régime et les règles de fonctionnement applicables aux lieux situés sur le territoire belge, gérés par l'Office des Etrangers, où un étranger est détenu, mis à la disposition du gouvernement ou maintenu, en application des dispositions citées dans l'article 74/8, § 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, modifié par l'arrêté royal du 8 juin 2009, est complété par les 8° et 9°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">maison familiale : lieu se trouvant dans un centre et adapté aux besoins d'une famille avec enfants mineurs</span>\n        </li>\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">famille : membres d'une famille d'étrangers qui se déclarent parents ou les personnes qui exercent l'autorité parentale ainsi que les mineurs faisant partie de cette famille et les membres de la famille jusqu'au deuxième degré, qui ressortissent de l'article 74/8, § 1er, de la loi.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.369Z",
+  "tokenUsage": {
+    "prompt": 1917,
+    "completion": 398,
+    "total": 2315
+  }
+}

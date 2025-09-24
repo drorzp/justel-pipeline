@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023040942",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 4, § 1, du même arrêté, modifié par l'arrêté royal du 15 janvier 2014, est complété par les dispositions sous 8° et 9°, rédigées comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">toutes les parties du pulvérisateur ou de l'installation fixe de pulvérisation à inspecter doivent être accessibles pour le service d'inspection dans des conditions sécurisées ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">pour les nébulisateurs, un tableau de dosage du fabricant de l'appareil est disponible, afin de connaître la capacité de nébulisation en litres par heure.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.729Z",
+  "tokenUsage": {
+    "prompt": 1671,
+    "completion": 273,
+    "total": 1944
+  }
+}

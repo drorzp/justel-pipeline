@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999027656",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Sont admis à concourir, les candidats qui remplissent les conditions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">être titulaire d'un diplôme donnant accès au niveau 1;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">être âgé de 21 ans au moins;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">être d'une conduite répondant aux exigences de l'emploi;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">être physiquement apte.</span>\n                </li>\n            </ol>\n            <p>Les conditions, visées à l'alinéa 1er, 1°, 2° et 3°, doivent être remplies, au plus tard, le jour fixé pour la clôture des inscriptions au concours.</p>\n            <p>La vérification des aptitudes physiques est assurée par l'Office médico-social de l'Etat.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.176Z",
+  "tokenUsage": {
+    "prompt": 1757,
+    "completion": 345,
+    "total": 2102
+  }
+}

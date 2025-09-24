@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019013002",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La couverture de la responsabilité civile visée à l'article 3 prévue dans le contrat d'assurance, ne peut pas être inférieure, par sinistre, à :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1 500 000 euros pour les dommages résultant de lésions corporelles</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">500 000 euros pour le total des dommages matériels et immatériels</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">10 000 euros pour les objets confiés à l'assuré par le maître de l'ouvrage</span></li>\n            </ol>\n            <p>avec une limite annuelle de 5 000 000 euros, tous sinistres confondus. Le montant mentionné à l'alinéa 1er, 1°, est lié à l'indice des prix à la consommation. L'indice de départ est celui d'avril 2007. Pour l'indexation, l'indice à retenir est celui du moment de la déclaration du sinistre.</p>\n            <p>Les montants visés à l'alinéa 1er, 2° et 3°, sont liés à l'indice ABEX. L'indice de départ est celui du premier semestre 2007. Pour l'indexation, l'indice à retenir est celui du moment de la déclaration du sinistre.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.335Z",
+  "tokenUsage": {
+    "prompt": 1954,
+    "completion": 425,
+    "total": 2379
+  }
+}

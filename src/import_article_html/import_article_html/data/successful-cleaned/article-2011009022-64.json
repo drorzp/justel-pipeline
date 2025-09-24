@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011009022",
+  "articleNumber": "64",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-64\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 64</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 39, § 2, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">, du même arrêté royal, modifié par l'arrêté royal du 23 novembre 2007, les mots \" concordat judiciaire \" sont chaque fois remplacés par les mots \" réorganisation judicaire \";</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.147Z",
+  "tokenUsage": {
+    "prompt": 1552,
+    "completion": 220,
+    "total": 1772
+  }
+}

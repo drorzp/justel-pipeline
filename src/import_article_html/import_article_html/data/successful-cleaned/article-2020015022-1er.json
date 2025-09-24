@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020015022",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 2 de l'arrêté royal du 24 juin 1997 relatif aux cotisations obligatoires au Fonds de la santé et de la production des animaux, fixées pour le secteur avicole, est complété par un paragraphe 5 rédigé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-5\">\n      <h3 class=\"paragraph-marker\">§ 5.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le contributaire, dont le troupeau de volailles a dépassé en 2019 l'une des normes de l'article 3, 7., de l'arrêté royal du 5 mai 2008 relatif à la lutte contre l'influenza aviaire, suite à la présence confirmée par le laboratoire national de référence d'un virus de l'influenza faiblement pathogène dans ce troupeau de volailles, est exempté pour ce troupeau de volailles des contributions obligatoires pour l'année 2019. Cette exemption ne s'applique pas aux contributions obligatoires visées au paragraphe 1er, 19 ° et 20 °.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.270Z",
+  "tokenUsage": {
+    "prompt": 1793,
+    "completion": 316,
+    "total": 2109
+  }
+}

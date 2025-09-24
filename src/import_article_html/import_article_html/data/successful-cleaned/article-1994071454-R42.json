@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071454",
+  "articleNumber": "R42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R42\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article R42</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Loi du 9 août 1963, article 26, modifié par les lois des 6 juillet 1989, article 16 et 22 décembre 1989, article 117 et par les arrêtés royaux n° 58 du 22 juillet 1982, article 4, n° 132 du 30 décembre 1982, article 4 et n° 533 du 31 mars 1987, article 5; les mots \"les fournisseurs de prothèses et d'appareils et les fournisseurs d'implants,\" sont remplacés par les mots \"les fournisseurs de prothèses, d'appareils et d'implants et\"; le dernier alinéa libellé comme suit:</p>\n            <blockquote class=\"omitted-text\">\"Les conventions passées avec les institutions visées à l'article 23, 19°, sont soumises à l'approbation du Ministre qui a la Prévoyance sociale dans ses attributions, conformément aux dispositions de l'article 31, § 3.\" est omis;</blockquote>\n            <p class=\"intro-text\">les références \"l'article 23, 12°, 13° et 19°\" et \"l'article 23, 14°, 15°, 16° et 17° sont remplacées par les références \"l'article 34, 11°, 12° et 18° et \"l'article 34, 13°, 14°, 15° et 16°\", les mots \"infirmiers\" et kinésistes\" sont remplacés par les mots \"praticiens de l'art infirmier\" et \"kinésithérapeutes\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.950Z",
+  "tokenUsage": {
+    "prompt": 2220,
+    "completion": 439,
+    "total": 2659
+  }
+}

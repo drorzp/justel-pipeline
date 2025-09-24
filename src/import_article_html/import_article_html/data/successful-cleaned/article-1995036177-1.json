@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995036177",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>A l'article 37, § 1er, 5°, premier alinéa, de l'arrêté du Gouvernement flamand du 21 septembre 1994 portant exécution du décret du 24 juillet 1991 relatif à l'aide sociale générale les mots \"les tâches visées aux 3° et 4° du présent article\" sont remplacés par les mots \"les tâches visées aux 2°, 3° et 4° du présent article\".</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 37, § 1er, 5°, a) du même arrêté est modifié comme suit :</p>\n                <p>être cogéré par :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"a)\">\n                        <span class=\"provision-text\">un autre groupement de structures d'aide ne gérant aucun autre centre de formation visé ici;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"b)\">\n                        <span class=\"provision-text\">une université ou un centre universitaire.</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.042Z",
+  "tokenUsage": {
+    "prompt": 1769,
+    "completion": 395,
+    "total": 2164
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044195",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le cas d'une formation telle que visée à l'article 2, alinéa 1er, 1°, 2°, l'entreprise enregistre l'apprenant :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">dans la déclaration immédiate de l'emploi ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le cas échéant, dans la déclaration trimestrielle à l'organisme chargé de la perception des cotisations de sécurité sociale.</span></li>\n            </ol>\n            <p>Dans le cas d'une formation autre que les formations visées à l'article 2, alinéa 1er, 1° et 2°, du présent arrêté, l'entreprise déclare sur l'honneur que la condition visée à l'article 4, alinéa 1er, point 3°, du décret du 23 décembre 2022, est remplie.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.858Z",
+  "tokenUsage": {
+    "prompt": 1740,
+    "completion": 307,
+    "total": 2047
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1983018012",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\">Article</span>. La contribution visée à l'article 37,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"12°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"13°\">\n          <span class=\"provision-text\">de l'arrêté royal no 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés concernant les pensions accordées au cours des années 1966 jusque 1976 y comprise est fixée à un montant unique de 469 660 226 F.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.677Z",
+  "tokenUsage": {
+    "prompt": 1576,
+    "completion": 274,
+    "total": 1850
+  }
+}

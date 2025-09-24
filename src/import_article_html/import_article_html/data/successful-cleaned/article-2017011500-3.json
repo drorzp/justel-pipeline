@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011500",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'avis à émettre par le centre psycho-médico-social compétent en exécution de l'article 1er, § 4, 1°, § 4bis, 2° et 3°, de la loi du 29 juin 1983 précitée, doit être remis aux parents par le centre qui dessert l'école fréquentée par l'élève durant l'année scolaire qui précède celle pour laquelle l'avis est requis.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'avis - favorable ou défavorable - émis par le centre psycho-médico-social ne peut en aucun cas être le simple reflet d'une opinion mais bien le résultat élaboré des moyens mis en oeuvre par l'équipe psycho-médico-sociale en fonction des caractéristiques et des besoins propres à chaque cas. Une synthèse des constats de l'équipe doit explicitement figurer au dossier individuel de l'élève.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Une attestation d'avis doit également être remise aux parents. Elle doit être conforme au formulaire figurant en annexe B et signé par le directeur du centre compétent.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.757Z",
+  "tokenUsage": {
+    "prompt": 1955,
+    "completion": 405,
+    "total": 2360
+  }
+}

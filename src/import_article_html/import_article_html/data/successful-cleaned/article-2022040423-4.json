@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040423",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'engagement visé à l'article 2, alinéa 1er, prend effet à la date de début choisie par l'agriculteur et prend fin le 31 décembre 2022. La date de début visée à l'alinéa 1er, doit se situer entre le 1er mars 2022 au plus tôt et le 31 août 2022 au plus tard. A partir de la date de début choisie, l'agriculteur doit respecter l'engagement pour les animaux suivants présents dans son exploitation agricole :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">tous les bovins tels que mentionnés à l'article 2, alinéa 4, qui, à la date de début, ont vêlé au cours d'une période de trois cent cinquante-quatre jours maximum avant ladite date de début, si un engagement est pris concernant la mesure visée à l'article 2, alinéa 1er, 1° et 2° ;</span>\n        </li>\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">tous les bovins tels que mentionnés à l'article 2, alinéa 4, qui, à la date de début, ont vêlé au cours d'une période de cent nonante-neuf jours maximum avant ladite date de début, si un engagement est pris concernant la mesure visée à l'article 2, alinéa 1er, 3° à 5° inclus ;</span>\n        </li>\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">tous les bovins tels que mentionnés à l'article 2, alinéa 4, qui vont vêler dans la période comprise entre la date de début et jusqu'au 31 décembre 2022 inclus.</span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.784Z",
+  "tokenUsage": {
+    "prompt": 2113,
+    "completion": 503,
+    "total": 2616
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006003582",
+  "articleNumber": "13.2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13.2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-03-03/01\" data-law-type=\"AR\" data-article-number=\"331\">FSMA</span> peut dispenser les succursales d'établissements relevant du droit d'Etat qui ne sont pas membre de l'Union Européenne du respect du titre III, chapitre 1, section I du présent règlement, sous réserve que soient remplies les conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">L'établissement est soumis dans son pays d'origine à un statut de contrôle équivalent aux dispositions du droit de la Union européenne en la matière;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">L'établissement est soumis dans son pays d'origine à des exigences de solvabilité équivalentes à celles prévues par l'article III.1, § 1er, 3° et le niveau de solvabilité de celui-ci est largement supérieur aux minimums prévus dans celui-ci;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">L'établissement mère est à même, économiquement et juridiquement, de transférer les moyens nécessaires à la succursale pour qu'elle puisse faire face à ses obligations;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">Les succursales d'établissements de droit belge actives dans le pays concerne, y bénéficient d'un régime équivalent en matière de solvabilité.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.868Z",
+  "tokenUsage": {
+    "prompt": 2021,
+    "completion": 455,
+    "total": 2476
+  }
+}

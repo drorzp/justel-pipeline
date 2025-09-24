@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030652",
+  "articleNumber": "280",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-280\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 280</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 43 de la même loi, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, le 3e tiret est remplacé comme suit :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"-\">du directeur de l'Institut de formation ou de son représentant;</li>\n          </ul>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 2, les mots \"directeur adjoint de l'Institut de formation, compétent pour la division des magistrats de l'ordre judiciaire et des stagiaires judiciaires, ou de son représentant, \" sont remplacés par les mots \"directeur de l'Institution de formation ou son représentant\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans les alinéas 3 et 6, les mots \"directeur adjoint de l'Institut de formation, compétent pour la division des magistrats de l'ordre judiciaire et les stagiaires judiciaires,\" sont remplacés par les mots \"directeur de l'Institut de formation\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'article est complété par un alinéa rédigé comme suit :</span>\n          <blockquote>\n            Chaque commission peut déléguer un ou plusieurs de ses membres pour accomplir, sous son autorité, les missions visées à l'article 42, alinéa 2, 7° et 8°.\n          </blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.739Z",
+  "tokenUsage": {
+    "prompt": 2013,
+    "completion": 488,
+    "total": 2501
+  }
+}

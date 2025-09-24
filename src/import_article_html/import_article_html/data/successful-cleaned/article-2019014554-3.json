@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019014554",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 13, 3°, les articles 16 en 17, les articles 21 à 38, l'article 64, § 1er, alinéa 2, §§ 2 et 3, alinéas 1er, 3 et 4, l'article 67, § 1er, § 2, 2° et 3°, § 3, alinéas 1er et 2, et § 5, les articles 71 et 81, alinéa 4, 7°, du même arrêté, les mots \" médecin de contrôle \" sont chaque fois remplacés par les mots \" agent de contrôle de dopage \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.394Z",
+  "tokenUsage": {
+    "prompt": 1704,
+    "completion": 230,
+    "total": 1934
+  }
+}

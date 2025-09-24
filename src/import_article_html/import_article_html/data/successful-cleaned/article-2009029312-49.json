@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009029312",
+  "articleNumber": "49",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-49\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 49</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La sous-commission se compose :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">de deux représentants de chaque fédération d'organisations de jeunesse agréée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de deux représentants d'O.J. non fédérées, hormis les O.J. visées aux points 3° et 4°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de deux représentants d'O.J. agréées dans la catégorie des mouvements de jeunesse;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de deux représentants d'O.J. agréées dans la catégorie des services de jeunesse;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">de deux représentants de l'administration.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.105Z",
+  "tokenUsage": {
+    "prompt": 1716,
+    "completion": 335,
+    "total": 2051
+  }
+}

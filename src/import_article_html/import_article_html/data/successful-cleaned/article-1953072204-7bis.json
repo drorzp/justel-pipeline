@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1953072204",
+  "articleNumber": "7bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"21-02-1985\" data-law-type=\"L\" data-article-number=\"40\">&lt;L 21-02-1985, art. 40&gt;</span>\n        Les reviseurs d'entreprises ne peuvent :\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">s'engager dans un contrat de travail, sauf auprès d'un autre reviseur d'entreprises; il est fait mention au tableau des membres de la qualité d'employé auprès d'un autre reviseur d'entreprises;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">exercer des activités commerciales ou des fonctions d'administrateur ou de gérant de sociétés commerciales ou de société à forme commerciale autres que professionnelles et interprofessionnelles sauf lorsque ces fonctions leur sont confiées par un tribunal;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">exercer dans les liens de subordination une fonction rémunérée par l'Etat, les régions, les communautés, les provinces, les communes, les agglomérations et fédérations de communes, ou par un service public qui dépend de ces personnes morales de droit public;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">exercer des activités incompatibles avec la dignité ou l'indépendance de leur fonction.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Les 1° et 3° de l'alinéa 1er ne s'appliquent pas aux fonctions exercées dans l'enseignement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.468Z",
+  "tokenUsage": {
+    "prompt": 2033,
+    "completion": 490,
+    "total": 2523
+  }
+}

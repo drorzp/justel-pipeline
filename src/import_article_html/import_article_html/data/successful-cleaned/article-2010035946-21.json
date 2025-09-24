@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035946",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 21</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'exception des articles 5, 7°, 17, 3°, 4° et 5°, et 20, les dispositions du présent arrêté ne s'appliquent qu'à partir de la date de début de la période de subventionnement suivante pour les projets qui sont déjà éligibles aux subventions à la date d'entrée vigueur du présent arrêté.</p>\n            <p class=\"intro-text\">En dérogation à l'alinéa premier, les dispositions du présent arrêté, à l'exception des articles 5, 7°, 17, 3°, 4° et 5°, et 20, ne s'appliquent qu'à partir de la date de début de la troisième période de subventionnement pour les projets pour lesquels une demande de subventionnement pour la deuxième période de subventionnement a été introduite avant la date du présent arrête.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.295Z",
+  "tokenUsage": {
+    "prompt": 1813,
+    "completion": 270,
+    "total": 2083
+  }
+}

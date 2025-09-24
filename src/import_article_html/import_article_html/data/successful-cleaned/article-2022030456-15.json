@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030456",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 2, 4°, entre en vigueur à une date à fixer par le Gouvernement flamand.</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et 13 produisent leurs effets le 1er janvier 2021.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">(NOTE : Entrée en vigueur de l'article 2 fixée au 01-01-2023 par <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2022093008\">AGF[2022-09-30/08]</a>, art. 2)</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.841Z",
+  "tokenUsage": {
+    "prompt": 1650,
+    "completion": 251,
+    "total": 1901
+  }
+}

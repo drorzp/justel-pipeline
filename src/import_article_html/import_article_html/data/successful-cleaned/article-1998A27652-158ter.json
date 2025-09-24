@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998A27652",
+  "articleNumber": "158ter",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-158ter\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 158ter</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"2006-03-30/46\" data-article-number=\"20\" data-law-type=\"DRW\" data-effective-date=\"02-05-2006\">\n          &lt;Inséré par DRW 2006-03-30/46, art. 20;En vigueur :02-05-2006&gt;\n        </span>\n        Il est interdit à tout directeur-gérant :\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">\n            d'être présent à la délibération de tout organe de la société relative à des objets à propos desquels il a un intérêt personnel et direct ou ses parents ou alliés jusqu'au quatrième degré inclusivement ont un intérêt personnel et direct. Il est fait, dans ce cas, application de la procédure visée à l'article 149 du Code;\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">\n            de prendre part directement ou indirectement à des marchés passés avec la société;\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">\n            de prendre part à des décisions lorsqu'il se trouve dans une situation visée aux\n          </span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\">\n              <span class=\"provision-text\">1°</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"2°\">\n              <span class=\"provision-text\">et 2°</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.078Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 495,
+    "total": 2392
+  }
+}

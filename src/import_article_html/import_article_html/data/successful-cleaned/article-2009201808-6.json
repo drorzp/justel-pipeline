@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009201808",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 36 du même décret, le § 1er est remplacé par ce qui suit :</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le gouvernement flamand décide, au plus tard le 1er octobre de l'année qui précède la période de gestion, visée à l'article 33, premier ou deuxième alinéa, ou au plus tard le 1er octobre de l'année qui précède la période de gestion abrégée, visée à l'article 33, quatrième alinéa, et sur la base des critères, visés à l'article 35, premier alinéa, sur l'octroi et le montant de la subvention de fonctionnement annuelle aux organisations pour le patrimoine culturel gestionnaires de collection, visées à l'article 32, § 1er.</p>\n        <p>Pour les organismes d'archivage culturel, tels que visés à l'article 32, § 1er, 2° et 3°, la subvention de fonctionnement, visée à l'article 32, § 2, deuxième alinéa, 2°, s'élève à au moins 90 % de la subvention de fonctionnement qui a été octroyée sur la base du plan de gestion précédant, à moins que le service désigné par le Gouvernement flamand constate, lors du suivi et de l'évaluation de la période de gestion écoulée, de graves défauts lors de l'exécution du plan de gestion.</p>\n        <p>La subvention de fonctionnement annuelle est octroyée pour la période de gestion ou la période de gestion abrégée à laquelle se rapporte le plan de gestion.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.307Z",
+  "tokenUsage": {
+    "prompt": 2102,
+    "completion": 455,
+    "total": 2557
+  }
+}

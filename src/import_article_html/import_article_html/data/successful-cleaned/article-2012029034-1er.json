@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012029034",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 79/17, § 1er, alinéa 2, du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, le 3°, inséré par le décret du 18 mars 2010, est remplacé par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'établissement d'enseignement secondaire choisi se situe dans un rayon de 4 km de l'école primaire ou fondamentale d'origine. La valeur minimale 1 est attribuée lorsque le critère n'est pas rencontré ou lorsque ce critère est rencontré et que l'école visée au 1° et l'établissement visé au 2° sont les premiers plus proches au sens du 1° et du 2°. Dans les autres cas où ce critère est rencontré :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              <span class=\"provision-text\">la valeur minimale 1 est augmentée de 0,054; 0,108; 0,162, 0,216 ou de 0,27 selon que la valeur attribuée au critère visé au 1° vaut 1,81; 1,61; 1,41; 1,21 ou 1;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              <span class=\"provision-text\">la valeur obtenue au point a) est augmentée de 0,054; 0,108; 0,162; 0,216 ou de 0,27 selon que la valeur attribuée au critère visé au 2° vaut 1,79; 1,59; 1,39; 1,19 ou 1.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.259Z",
+  "tokenUsage": {
+    "prompt": 2134,
+    "completion": 525,
+    "total": 2659
+  }
+}

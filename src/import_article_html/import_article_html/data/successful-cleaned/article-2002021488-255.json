@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002021488",
+  "articleNumber": "255",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-255\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 255</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 133 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, est remplacé par la disposition suivante:</p>\n      <p class=\"quoted-text\">\" Art. 133. Par dérogation aux dispositions des articles 128 à 130, l'allocation pour frais funéraires est payée pour les titulaires visés à l'article 110 à l'exception des pensionnés visés à l'article 32, alinéa 1er, 7° et 8°, pour autant qu'ils remplissent, à la date du décès, la condition prévue à l'article 131. \"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.637Z",
+  "tokenUsage": {
+    "prompt": 1676,
+    "completion": 225,
+    "total": 1901
+  }
+}

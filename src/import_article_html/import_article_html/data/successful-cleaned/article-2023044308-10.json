@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044308",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 4.8.21 du même code, remplacé par le décret du 4 avril 2014, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les mots &quot; l'affaire &quot; sont remplacés par les mots &quot; le recours concernant la décision d'enregistrement &quot; ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est ajouté un alinéa 2, rédigé comme suit :</span>\n                    <p>&quot; Chaque partie, visée à l'article 4.8.11, § 3, peut intervenir dans les recours visés à l'article 4.8.2, 1° et 2°.&quot;</p>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.858Z",
+  "tokenUsage": {
+    "prompt": 1691,
+    "completion": 292,
+    "total": 1983
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006203587",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\">.</span></h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'âge de vingt-cinq ans, visé à l'article 39, § 4, alinéa 1er,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">2°, de la loi du 24 décembre 1999 en vue de la promotion de l'emploi, est relevé d'un an, à vingt-six ans, pour les nouveaux travailleurs occupés en région de langue allemande.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.909Z",
+  "tokenUsage": {
+    "prompt": 1577,
+    "completion": 227,
+    "total": 1804
+  }
+}

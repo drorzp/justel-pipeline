@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018204969",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 26 du même arrêté, modifié par l'arrêté ministériel du 2 février 2017, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, le 4° est remplacé par ce qui suit :\n\" 4° les frais généraux établis selon les dispositions de l'article 45, § 2, c), du règlement (UE) n° 1305/2013 liés aux dépenses visées aux 1°, 2° et 3° dans la limite de 12 pourcents des coûts d'investissements admissibles. \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le paragraphe 2, l'alinéa 1er est complété par un 13° rédigé comme suit :\n\" 13° les investissements liés à l'irrigation, aux captages d'eau et au drainage de terres agricoles. \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">dans le paragraphe 2, alinéa 2, les mots \" à l'investissement dans la transformation et la commercialisation des produits agricoles ou le développement de produits agricoles visée à l'article 49 de l'arrêté du Gouvernement wallon du 10 septembre 2015 \" sont insérés entre les mots \" de l'aide complémentaire \" et les mots \" accordée à un même bénéficiaire \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.320Z",
+  "tokenUsage": {
+    "prompt": 2021,
+    "completion": 462,
+    "total": 2483
+  }
+}

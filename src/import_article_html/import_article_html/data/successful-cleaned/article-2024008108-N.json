@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024008108",
+  "articleNumber": "N",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article N</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Annexe. Modèle de compte d'exploitation prévisionnel type (Image non reprise pour des raisons techniques, voir M.B. du 11-09-2024, p. 107086) Vu pour être annexé à notre arrêté du 19 août 2024 complétant et précisant la liste de données énumérées à l'article X.28, § 1er, 1° et 2°, du Code de droit économique et établissant un modèle de compte d'exploitation prévisionnel type.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.452Z",
+  "tokenUsage": {
+    "prompt": 1618,
+    "completion": 189,
+    "total": 1807
+  }
+}

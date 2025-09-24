@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998014078",
+  "articleNumber": "87",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-87\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 87</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-04-28/01\" data-law-type=\"AR\" data-article-number=\"58\">\n            Les examinateurs visés à la section 2 du chapitre IV qui exercent leurs fonctions avant le \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-04-28/01\" data-law-type=\"AR\" data-article-number=\"58\">1er mai 2013</span> \n            doivent en ce qui concerne les catégories de permis de conduire pour lesquelles ils étaient habilités à faire passer des épreuves pratiques de conduite satisfaire uniquement aux exigences de l'assurance de qualité et de formation continue prévues dans cette section.\n          </span>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-04-28/01\" data-law-type=\"AR\" data-article-number=\"58\">\n            Les personnes qui, avant le 19 janvier 2013, exercent des fonctions dans un organisme visé à l'article 4, 4°, 5°, 6°, 7°, 8° et 9° et qui sont autorisées à faire passer des examens pratiques de conduite reçoivent l'agrément d'examinateur au sens de l'article 26 pour ce qui concerne les catégories de permis de conduire pour lesquelles elles étaient autorisées avant le \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-04-28/01\" data-law-type=\"AR\" data-article-number=\"58\">1er mai 2013</span> \n            à faire passer des examens pratiques de conduite.\n          </span>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.169Z",
+  "tokenUsage": {
+    "prompt": 1958,
+    "completion": 539,
+    "total": 2497
+  }
+}

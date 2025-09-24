@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030529",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 26 du même arrêté est complété par les 5°, 6° et 7°, rédigés comme suit :</p>\n            <p class=\"intro-text\">\"</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">le mode de paiement des lots déterminé par la Loterie Nationale l'exige;</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">le billet donne droit au paiement d'un gain supérieur à 2.000 euros;</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">il existe un soupçon de fraude. \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.730Z",
+  "tokenUsage": {
+    "prompt": 1625,
+    "completion": 268,
+    "total": 1893
+  }
+}

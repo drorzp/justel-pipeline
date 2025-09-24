@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036352",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'enseignement d'accueil peut aussi bien être intégré dans une ou plusieurs formations professionnelles dispensées par le centre qu'offert sous forme d'une formation distincte.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'enseignement d'accueil comprend quinze périodes hebdomadaires organisées d'une des façons suivantes :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">sous forme d'un cluster de cours généraux, techniques ou pratiques, dont en tout cas au moins huit périodes de néerlandais pour l'année scolaire 2005-2006, respectivement au moins huit périodes de néerlandais pour primo-arrivants pour les années scolaires 2006-2007 et 2007-2008;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">comme une intégration de cours généraux, techniques ou pratiques, organisés comme des heures assimilées à des heures de cours sous le dénominateur \" tâches pédagogiques particulières \", en accentuant la composante \" langue néerlandaise \";</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">une combinaison des modes visés aux points 1° et 2°.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.729Z",
+  "tokenUsage": {
+    "prompt": 1943,
+    "completion": 461,
+    "total": 2404
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005004",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le même décret, modifié en dernier lieu par le décret du 30 juin 2023, la même section 1re est complétée par un article 3.23.1.0.2, rédigé comme suit : \" Art. 3.23.1.0.3. Les données à caractère personnel des catégories suivantes de personnes concernées peuvent être traitées aux fins de l'article 3.23.1.0.1, alinéa 1er :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le contribuable ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le redevable ;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les représentants des personnes visées aux points 1° et 2° ;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">les personnes physiques, visées aux articles 3.13.1.3.1 à 3.13.1.3.6, auxquelles l'entité compétente de l'administration flamande peut s'adresser dans le cadre de l'exercice de ses compétences d'enquête.</span></li>\n            </ol>\n            <p class=\"closing-text\">Les données à caractère personnel des catégories de personnes concernées visées à l'alinéa 1er ne sont traitées que si cela est nécessaire à la finalité concrète du traitement des données.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.422Z",
+  "tokenUsage": {
+    "prompt": 1961,
+    "completion": 442,
+    "total": 2403
+  }
+}

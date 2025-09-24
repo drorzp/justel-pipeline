@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024202431",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        A l'article 131bis de la même loi, inséré par la loi du 22 décembre 1989 et modifié en dernier lieu par la loi du 26 avril 2019, un paragraphe 1ernonies est inséré, rédigé comme suit:\n      </p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1ernonies.</h3>\n        <div class=\"paragraph-content\">\n          <p>A partir du 1er janvier 2025, les montants visés au § 1erocties sont égaux aux montants visés à l'article 4, alinéa 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1° et 2°, de la loi du 25 avril 2024, en ce qui concerne la pension de retraite</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">et à l'article 4, alinéa 1er, 3°, de la même loi, en ce qui concerne la pension de survie.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.708Z",
+  "tokenUsage": {
+    "prompt": 1719,
+    "completion": 366,
+    "total": 2085
+  }
+}

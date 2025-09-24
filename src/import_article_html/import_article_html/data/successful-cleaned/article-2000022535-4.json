@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000022535",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 6 de l'arrêté royal précité du 18 février 1991, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au § 1, le 3° est abrogé;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au § 2, le point 2° est remplacé par la disposition suivante :</span>\n                    <blockquote>\n                        <p class=\"provision-text\">\"Les mentions prévues au § 1, 1° et 2°, ne doivent toutefois pas être apposées lorsque l'annexe du présent arrêté le stipule expressément.\"</p>\n                    </blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.114Z",
+  "tokenUsage": {
+    "prompt": 1789,
+    "completion": 272,
+    "total": 2061
+  }
+}

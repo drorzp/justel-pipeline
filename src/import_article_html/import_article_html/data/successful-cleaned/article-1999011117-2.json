@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999011117",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 2, § 1er, de la loi du 27 mars 1995 relative à l'intermédiation en assurances et à la distribution d'assurances est complété par l'alinéa suivant :</p>\n        <p>\" Le Roi peut, aux conditions qu'il détermine, par arrêté délibéré en Conseil des ministres, dispenser de l'application de l'article 10, 2° et 4°, et réduire les connaissances professionnelles visées à l'article 10, 1°, à une connaissance de base des produits vendus ou offerts, les personnes dont l'activité principale n'est pas la fourniture de conseils en matière d'assurances ou la vente d'assurances et qui interviennent dans la conclusion de contrats qui :</p>\n        <ul class=\"hyphenated-items\">\n          <li class=\"hyphenated-item\" data-marker=\"-\">\n            <span class=\"item-text\">soit ont une durée de moins d'un an, y compris les assurances temporaires contre le décès mais à l'exclusion des autres contrats d'assurance sur la vie,</span>\n          </li>\n          <li class=\"hyphenated-item\" data-marker=\"-\">\n            <span class=\"item-text\">soit couvrent le risque de perte ou de dommages des biens vendus par ces personnes et ne nécessitent pas de connaissance approfondie en droit et technique de l'assurance, à condition que la prime commerciale hors taxes et cotisations n'excède pas 125 euros.</span>\n          </li>\n        </ul>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.134Z",
+  "tokenUsage": {
+    "prompt": 1908,
+    "completion": 425,
+    "total": 2333
+  }
+}

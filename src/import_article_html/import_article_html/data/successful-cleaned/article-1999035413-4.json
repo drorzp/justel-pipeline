@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035413",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le chiffre d'affaires annuel et le bilan global de l'entreprise sont ajoutés, sans les consolider, au chiffre d'affaires annuel et au bilan global de :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">toutes les entreprises dans lesquelles l'entreprise détient soit directement soit indirectement 25 % ou plus du capital ou des droits de vote, et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">toutes les entreprises qui détiennent soit directement soit indirectement 25 % ou plus du capital ou des droits de vote de l'entreprise.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">La période de référence est l'avant-dernier exercice clôturé avant la date d'enregistrement de la demande d'octroi de l'intervention d'investissement. Pour le calcul du chiffre d'affaires, un exercice supérieur ou inférieur à 12 mois est reconverti en une année calendaire.</p>\n      <p class=\"intro-text\">Si, en raison de la dispersion du capital, la composition de l'actionnariat n'est pas connue de façon précise, il y a lieu de se baser sur une déclaration de l'entreprise sur la détention du capital et des droits de vote.</p>\n      <p class=\"closing-text\">L'entreprise reste une petite ou moyenne entreprise au sens de l'article 2, 2° et 3°, lorsqu'un seul des deux critères financiers (chiffre d'affaires annuel ou bilan global annuel) est dépassé.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.188Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 435,
+    "total": 2383
+  }
+}

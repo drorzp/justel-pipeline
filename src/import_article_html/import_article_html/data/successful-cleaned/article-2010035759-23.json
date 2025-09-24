@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035759",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er septembre 2010, à l'exception :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">de l'article 3, 1° qui produit ses effets le 1er septembre 2009;</span>\n                </li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">des articles 3, 2°; 4, 2°; 5, 2°; 12, 1° et 8°, et 13, 1° et 8°, qui entrent en vigueur le 1er septembre 2011.</span>\n                </li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.238Z",
+  "tokenUsage": {
+    "prompt": 1624,
+    "completion": 246,
+    "total": 1870
+  }
+}

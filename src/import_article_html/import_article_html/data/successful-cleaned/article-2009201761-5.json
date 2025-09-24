@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009201761",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les articles 11, alinéa unique,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et </span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">, 12, alinéa unique, 15, §§ 2, alinéa 3 et 3, alinéa unique, </span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">, 16, alinéa unique, </span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\"> et 18, alinéa unique, du même arrêté, modifiés par l'arrêté royal du 29 janvier 2007, les mots \"dispositions applicables à l'enfant né le 31 décembre 1992 au plus tard\" sont remplacés par les mots \"dispositions anciennes\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.306Z",
+  "tokenUsage": {
+    "prompt": 1727,
+    "completion": 331,
+    "total": 2058
+  }
+}

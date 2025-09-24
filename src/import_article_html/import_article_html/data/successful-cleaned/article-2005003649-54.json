@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005003649",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 54</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 65, 3°, de la même loi, les mots \"visées à l'article 7, alinéa 1er, 3° à 5° et 7°,\" sont remplacés par les mots \"visées à l'article 7, alinéa 1er, 3° à 9°,\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.744Z",
+  "tokenUsage": {
+    "prompt": 1503,
+    "completion": 154,
+    "total": 1657
+  }
+}

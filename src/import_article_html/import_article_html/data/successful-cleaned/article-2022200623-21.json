@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022200623",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même arrêtés, les mots &quot; de la collège provincial &quot; sont remplacés par les mots &quot; du collège provincial &quot; :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'article 4, alinéa 1er, tel que modifié par l'arrêté du Gouvernement wallon du 15 novembre 2012 et par l'arrêté du Gouvernement wallon du 11 juillet 2013 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux articles 18, alinéa 5, et 24, tels que modifiés par l'arrêté du Gouvernement wallon du 15 novembre 2012 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">aux articles 35, alinéa 1er, et 52, alinéa 2, 4ième tiret, tels que modifiés par l'arrêté du Gouvernement wallon du 15 novembre 2012 et par l'arrêté du Gouvernement wallon du 11 juillet 2013 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">aux articles 54, alinéa 2, 1° et 5°, 57, 81, § 2, alinéa 1er, 87, alinéa 1er, et 92, alinéa 2, 2°, 3ième tiret, tels que modifiés par l'arrêté du Gouvernement wallon du 15 novembre 2012.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.875Z",
+  "tokenUsage": {
+    "prompt": 2027,
+    "completion": 483,
+    "total": 2510
+  }
+}

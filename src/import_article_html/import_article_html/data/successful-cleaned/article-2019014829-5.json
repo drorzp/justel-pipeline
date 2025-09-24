@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019014829",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'agent compétent visé aux articles 35, alinéa 1er et 2, 36, alinéa 1er et alinéa 2, 2°, 41, § 2, 42, § 1er, 43, 46, § 1er, 47, 48, 49, 51, § 1er, alinéa 3, 66, alinéa 1er et 2, 68, alinéa 1er, 69, § 1er, alinéa 1er, 2° 70, alinéa 1er, 71, § 2, alinéa 1er et alinéa 1er, 2°, § 3, 74, § 2, alinéa 2, § 4, alinéa 1er, 2°, 76, alinéa 2, 77, alinéa 1er, 118, § 1er, alinéa 2, première et seconde occurrence, 130, alinéa 2, 131, alinéa 1er, 2° et 3° de la même ordonnance, est à chaque fois le comptable de recettes chargé de matières fiscales.</p>\n      <p>En cas d'absence du comptable de recettes chargé de matières fiscales, ces compétences sont exercées par le comptable de recettes suppléant chargé de matières fiscales.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.394Z",
+  "tokenUsage": {
+    "prompt": 1986,
+    "completion": 398,
+    "total": 2384
+  }
+}

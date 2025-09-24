@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010386",
+  "articleNumber": "9.5.3.5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9-5-3-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9.5.3.5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La Mestbank enregistre chaque régime de voisinage transmis et lui donne un numéro d'identification unique. Si le régime de voisinage concerne différents types d'engrais ou des effluents d'élevage ou des eaux d'écoulement qui seront déchargés dans plusieurs communes, un numéro d'identification distinct peut être attribué par type d'engrais ou par commune.</p>\n            <p class=\"intro-text\">La Mestbank transmet à l'offreur et au preneur, visés à l'article 9.5.3.1, § 1er, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1° et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2°, une preuve de l'enregistrement du régime de voisinage transmis sur laquelle sont indiqués le numéro ou les numéros d'identification, par le biais d'un guichet Internet mis à disposition par la Mesbank.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Pendant chaque transport en exécution du régime de voisinage transmis, le conducteur du moyen de transport détient une copie papier ou numérique de la preuve de l'enregistrement du régime de voisinage transmise par la Mestbank. Le Ministre peut arrêter des modalités relatives à la version numérique.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.749Z",
+  "tokenUsage": {
+    "prompt": 1874,
+    "completion": 413,
+    "total": 2287
+  }
+}

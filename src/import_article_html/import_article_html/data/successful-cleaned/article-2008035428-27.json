@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008035428",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 15 du même arrêté, l'alinéa trois est remplacé par la disposition suivante : &quot; Les normes de superficie pour lots sociaux et lots moyens et les normes de volume pour habitations, à ériger sur ces lots, visés à l'article 1er, 5° et 6°, ne sont pas applicables aux lots ou habitations qui font déjà l'objet d'un registre en application de l'arrêté, visé à l'article 12. Les normes de superficie ne sont pas non plus applicables aux lots sociaux et moyens qui ont déjà été équipés ou autorisés à la date d'entrée en vigueur du présent arrêté. &quot;</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.039Z",
+  "tokenUsage": {
+    "prompt": 1631,
+    "completion": 220,
+    "total": 1851
+  }
+}

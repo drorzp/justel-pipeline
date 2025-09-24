@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040315",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 1er du même arrêté est remplacé par ce qui suit :</p>\n    <p>\" Article 1er.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le présent arrêté s'applique aux membres du personnel temporaires et nommés à titre définitif des instituts supérieurs en Communauté flamande qui appartiennent aux catégories du personnel enseignant ou du personnel administratif et technique, visés à la partie 5, titre 2 et titre 5, chapitre 2 du Code de l'Enseignement supérieur, codifié le 11 octobre 2013.</p>\n        <p>Le présent arrêté s'applique également aux membres du personnel visés aux articles III.35, § 1er, 1° à 3° et III.36, § 4, du Code de l'Enseignement supérieur qui sont effectivement employés auprès d'un institut supérieur.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les chapitres III et IV ne s'appliquent pas aux membres du personnel visés aux articles III.35, § 1er, 1° à 3° et III.36, § 4, du Code de l'Enseignement supérieur qui ne sont pas employés auprès d'un institut supérieur.</p>\n        <p>Lesdits membres du personnel sont régis par la réglementation en vigueur auprès de leur poste de travail effectif.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.722Z",
+  "tokenUsage": {
+    "prompt": 2160,
+    "completion": 446,
+    "total": 2606
+  }
+}

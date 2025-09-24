@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021021641",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les centres d'examen suivants peuvent organiser les examens visés au Titre 4 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Les centres visés à l'article 25, § 1er, première phrase, de l'arrêté royal Permis de conduire;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les organismes visés à l'article 4, 4° et 8° de l'AR Permis de Conduire s'il s'agit de candidats qui y ont suivi la formation;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les organismes visés à l'article 4, 5°, de l'AR Permis de conduire s'il s'agit de candidats qui y ont suivi une formation ou de candidats qui ont suivi une formation dans les organismes visés à l'article 4, 7° et 15° du même arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.176Z",
+  "tokenUsage": {
+    "prompt": 1754,
+    "completion": 334,
+    "total": 2088
+  }
+}

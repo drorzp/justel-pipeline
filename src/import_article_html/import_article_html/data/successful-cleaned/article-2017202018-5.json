@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017202018",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'agrément est octroyé pour une durée de dix ans, renouvelable conformément à la procédure prévue à l'article 4. En cas de renouvellement de l'agrément, le demandeur introduit sa demande d'agrément dans les six mois qui précèdent l'expiration de son agrément.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Ministre ou son délégué peut retirer l'agrément sur avis du Comité, lorsque des indices sérieux existent dans le chef du formateur quant au non-respect des conditions d'agrément fixées à l'article 31, § 3,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">3°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"4°\">\n                        <span class=\"provision-text\">4°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"5°\">\n                        <span class=\"provision-text\">5°</span>\n                    </li>\n                </ol>\n                <p>du décret du 27 mars 2014.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.633Z",
+  "tokenUsage": {
+    "prompt": 1775,
+    "completion": 409,
+    "total": 2184
+  }
+}

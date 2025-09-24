@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019013593",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'action du service social s'étend aux personnes suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les membres du personnel en service d'Iriscare et des Services du Collège réuni, sans distinction de statut ou de régime d'engagement</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les membres du personnel des cabinets ministériels des Membres du Collège réuni qui ne bénéficient d'aucun autre service social</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les veuves et veufs dont le conjoint appartenait au moment de son décès à la catégorie visée aux points 1° et 2° ci-dessus, ainsi que, jusqu'à l'âge de 25 ans maximum, les orphelins de ce conjoint décédé</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les conjoints et enfants à charge des personnes appartenant aux catégories citées aux points 1° et 2° ci-dessus. Sont assimilées aux conjoints les personnes dont la cohabitation avec le membre du personnel visé aux points 1° et 2° est établie par la composition de ménage délivrée par l'administration communale</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">les personnes pensionnées qui, la veille de leur mise à la retraite, étaient membres du personnel des Services du Collège réuni ou d'Iriscare</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.337Z",
+  "tokenUsage": {
+    "prompt": 2119,
+    "completion": 479,
+    "total": 2598
+  }
+}

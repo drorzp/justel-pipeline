@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006022247",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 6, § 2, du même arrêté, l'alinéa 1er est remplacé par la disposition suivante :</p>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">La permanence médicale est assurée par au minimum un médecin, attaché au moins à mi-temps à l'hôpital et possédant une des qualifications suivantes :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">médecin-spécialiste en médecine d'urgence, telle que visée à l'article 2, 1° et 2°, de l'arrêté ministériel précité du 14 février 2005;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">médecin-spécialiste en médecine aiguë, telle que visée à l'article 2, 3°, du même arrêté ministériel;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">médecin titulaire du brevet de médecine aiguë visée à l'article 6, § 3, 2°, du même arrêté ministériel;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"4°\">\n                        <span class=\"provision-text\">le médecin-spécialiste candidat en médecine d'urgence, visé au 1°, ou en médecine aiguë, visé au 2°, en formation, pour autant que l'intéressé soit déjà médecin-spécialiste agréé dans l'une des disciplines visées à l'article 2, 1°, du même arrêté ministériel, ou qu'il ait déjà suivi la formation précitée pendant au moins un an.</span>\n                    </li>\n                </ol>\n                <p class=\"closing-text\">&quot;</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.834Z",
+  "tokenUsage": {
+    "prompt": 2068,
+    "completion": 523,
+    "total": 2591
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040888",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 25</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 2.3.1-6, § 2, alinéa 3, du même Code, les modifications suivantes sont apportées;</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les mots \" 30 juin \" sont remplacés par les mots \" le dernier mercredi de l'année scolaire \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les mots \" en juin \" sont remplacés par les mots \" en fin d'année scolaire \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et le mot \" septembre \" est remplacé par les mots \" la rentrée scolaire \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.877Z",
+  "tokenUsage": {
+    "prompt": 1653,
+    "completion": 279,
+    "total": 1932
+  }
+}

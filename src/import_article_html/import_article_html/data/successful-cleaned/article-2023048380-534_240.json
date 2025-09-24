@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048380",
+  "articleNumber": "534/240",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-534/240\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 534/240</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un contrôle a posteriori de la conformité des données figurant dans la demande visée à l'article 534/237,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">est possible. La Commission des caisses d'assurance soins effectue ce contrôle à la demande de l'agence. Le ministre peut définir les modalités d'exécution de ce contrôle.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.494Z",
+  "tokenUsage": {
+    "prompt": 1545,
+    "completion": 223,
+    "total": 1768
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002118",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article VII.59/9, § 2, alinéa 1er, du même Code, inséré par la loi du 25 septembre 2022, les mots \"visées aux paragraphe 1er, 1° et 2° \" sont remplacés par les mots \"visées aux paragraphe 1er, 1°, 2° et 5° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.436Z",
+  "tokenUsage": {
+    "prompt": 1632,
+    "completion": 171,
+    "total": 1803
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1934060150",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les docteurs en médecine, chirurgie et accouchements diplômés en vertu de la loi du 21 mai 1929 et qui sont porteurs d'un des titres prévus au:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de l'article 1er, sont autorisés a exercer l'art dentaire cumulativement avec la médecine, la chirurgie et l'art des accouchements.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.583Z",
+  "tokenUsage": {
+    "prompt": 1572,
+    "completion": 221,
+    "total": 1793
+  }
+}

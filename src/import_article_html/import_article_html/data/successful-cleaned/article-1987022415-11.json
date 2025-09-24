@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1987022415",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La procédure d'entérinement des accords ou le refus d'entérinement pour les cas d'application visés aux articles 20bis, 58, § 1er, 1° et 3°, et 59quinquies, alinéa 1er, de la loi, s'effectue également conformément à la procédure décrite aux articles 2 à 10.</p>\n            <p class=\"closing-text\">Toutefois, la décision d'entérinement ou de refus est prise après avis du (Comité médico-technique) institué auprès <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-11-23/22\" data-law-type=\"AR\" data-article-number=\"155\">de Fedris</span> par l'arrêté royal du 21 décembre 1971 portant exécution de certaines dispositions de la loi du 10 avril 1971 sur les accidents du travail. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1996-11-18/41\" data-law-type=\"AR\" data-article-number=\"1\">&lt;AR 1996-11-18/41, art. 1, 008 ; En vigueur : 24-12-1996&gt;</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.712Z",
+  "tokenUsage": {
+    "prompt": 1932,
+    "completion": 358,
+    "total": 2290
+  }
+}

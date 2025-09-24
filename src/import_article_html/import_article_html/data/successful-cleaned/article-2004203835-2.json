@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004203835",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le président et les deux présidents de section visés à l'article 3, alinéa 1er, 1° du décret du 12 mai 2004 portant organisation du jury de la Communauté française de l'enseignement secondaire sont désignés pour une période de <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-01-14/04\" data-law-type=\"ACF\" data-article-number=\"1\">deux ans renouvelables</span> par le Ministre ayant l'Enseignement secondaire dans ses attributions.</p>\n      <p>Les secrétaires, les secrétaires adjoints de chaque section et les membres permanents visés à l'article 3, alinéa 1er, 2°, 3° et 4°, du décret précité sont mis en congé pour mission par le Ministre ayant l'Enseignement secondaire dans ses attributions. Durant ce mandat, les secrétaires et les secrétaires adjoints sont de plein droit membres de la section concernée.</p>\n      <p>Les membres non-permanents visés à l'article 3, alinéa 1er, 2°, du décret précité sont désignés pour une période de deux années, renouvelable, par le Ministre ayant l'Enseignement secondaire dans ses attributions.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.704Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 370,
+    "total": 2318
+  }
+}

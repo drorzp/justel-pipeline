@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010024147",
+  "articleNumber": "52",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-52\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 52</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          L'article 45, § 1er, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, modifié par l'arrêté royal du 25 mars 2003 et par les lois des 20 juillet 2004, 27 octobre 2006 et 16 février 2009, est complété par un alinéa rédigé comme suit :\n        </p>\n        <p>\n          \" Par dérogation aux points \n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">6°</span>\n            </li>\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">7°</span>\n            </li>\n            <li class=\"provision\" data-number=\"9°\">\n              <span class=\"provision-text\">9°</span>\n            </li>\n          </ol>\n          de l'alinéa précédent, le contrôle des sociétés mutualistes visées aux articles \n          <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"43bis\" data-law-type=\"§\" data-article-number=\"5\">43bis, § 5</span>, et \n          <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"70\" data-law-type=\"§§\" data-article-number=\"6,7,8\">70, §§ 6, 7 et 8</span>, de la loi du 6 août 1990 relative aux mutualités et aux unions nationales de mutualités, ainsi que de leurs opérations, relève des compétences de l'Office de contrôle des mutualités et des unions nationales de mutualités.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.250Z",
+  "tokenUsage": {
+    "prompt": 1741,
+    "completion": 489,
+    "total": 2230
+  }
+}

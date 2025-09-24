@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019203762",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article D.396 du même livre, remplacé par le décret du 5 juin 2008 et modifié par le décret du 23 juin 2016, est complété par les 4° et 5° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">celui qui rejette directement un ou des polluants dans les eaux souterraines en contravention à l'article D.167, alinéas 3 et 4;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">celui qui ne respecte pas l'obligation reprise à l'article D.33/3, alinéa 4, relatif au couvert végétal permanent le long des cours d'eau.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.427Z",
+  "tokenUsage": {
+    "prompt": 1694,
+    "completion": 285,
+    "total": 1979
+  }
+}

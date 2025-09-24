@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001009311",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 26 de la même loi, modifié par la loi du 12 août 2000, est remplacé par la disposition suivante : &quot; Article 26. La présente loi entre en vigueur le 1er septembre 2001, à l'exception :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">des articles 7, 1° et 2°, 12, 13, 20, § 2, 23, § 3, alinéa 4, et 24, alinéa 1er, qui entrent en vigueur le jour de la publication de la présente loi au Moniteur belge;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de l'article 22, § 3, alinéa 1er, et § 5, dans la mesure où celui-ci réfère au § 3, alinéa 1er, et de l'article 23, § 3, alinéa 1er, qui entrent en vigueur le 1er octobre 1999;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">des articles 18bis, 23, § 3, alinéas 5 et 6, 23, § 4, et 24, alinéas 2 et 3, qui entrent en vigueur le 1er janvier 2001.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.215Z",
+  "tokenUsage": {
+    "prompt": 1965,
+    "completion": 428,
+    "total": 2393
+  }
+}

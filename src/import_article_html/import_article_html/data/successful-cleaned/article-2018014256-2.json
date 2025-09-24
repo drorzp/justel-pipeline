@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018014256",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 3 du même arrêté, le paragraphe 1er est remplacé par ce qui suit :</p>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Seuls les arômes qui n'imitent pas la saveur du chocolat ou de la matière grasse lactique peuvent être ajoutés aux produits définis à l'article 1er, § 2, 1° à 4°, 6° à 9°, 12° et 13°.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.698Z",
+  "tokenUsage": {
+    "prompt": 1573,
+    "completion": 203,
+    "total": 1776
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007202868",
+  "articleNumber": "65/5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-65/5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 65/5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-10-18/11\" data-law-type=\"ARW\" data-article-number=\"47\">\n                Le président transmet aux entreprises en technique frigorifique spécialisées démontrant qu'elles répondent aux conditions visées à l'article 3, 4° et 7°, le certificat visé à l'article 4, § 5.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.013Z",
+  "tokenUsage": {
+    "prompt": 1634,
+    "completion": 178,
+    "total": 1812
+  }
+}

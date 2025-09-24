@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011818",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er de l'arrêté royal du 25 septembre 2016 concernant la gestion du registre central des testaments et du registre central des contrats de mariage, est inséré le 2/1 rédigé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2/1\">\n                    <span class=\"provision-text\">déclaration de maintien : les déclarations visées à l'article 66, § 2, alinéa 3,</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">et alinéa 4,</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n            <p class=\"closing-text\">2°, de la loi du 31 juillet 2017 modifiant le Code civil en ce qui concerne les successions et les libéralités et modifiant diverses autres dispositions en cette matière.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.683Z",
+  "tokenUsage": {
+    "prompt": 1669,
+    "completion": 307,
+    "total": 1976
+  }
+}

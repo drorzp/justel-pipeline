@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040652",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 7 du même arrêté, modifié par l'arrêté royal du 30 mai 2021, les modifications suivantes sont apportées :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">au paragraphe 1er, alinéa 1er, les 11° et 12° sont ajoutés : </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">rang de gain 11 : 1 numéro correct + le numéro Viking favori correct</span></li>\n                        <li class=\"provision\" data-number=\"12°\"><span class=\"provision-text\">rang de gain 12 : 1 numéro correct.</span></li>\n                    </ol>\n                </li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">au paragraphe 2, le 10° est remplacé comme suit : </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"10°\"><span class=\"provision-text\">12,02 au rang de gain 11</span></li>\n                    </ol>\n                </li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">au paragraphe 2, les 11° et 12° sont ajoutés : </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">3,01 au rang de gain 12</span></li>\n                        <li class=\"provision\" data-number=\"12°\"><span class=\"provision-text\">1,75 tous rangs de gain confondus.</span></li>\n                    </ol>\n                </li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.880Z",
+  "tokenUsage": {
+    "prompt": 1957,
+    "completion": 495,
+    "total": 2452
+  }
+}

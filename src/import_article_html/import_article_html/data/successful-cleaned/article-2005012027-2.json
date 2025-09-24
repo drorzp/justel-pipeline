@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005012027",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 2 du même arrêté, abrogé par l'arrêté royal du 16 mai 2003, est rétabli dans la rédaction suivante :</p>\n      <p class=\"intro-text\">\" Art. 2. Les employeurs, mentionnées dans l'article 1er, § 1er, 14° et 15°, et les employeurs qui organisent des initiatives dans le secteur des services de proximité pour lesquels une aide financière est octroyée à cette fin par la Fondation Roi Baudouin, peuvent, à partir du 1er janvier 2005, bénéficier de la réduction groupe cible visée à l'article 14 de l'arrêté royal du 16 mai 2003 pris en exécution du Chapitre 7 du titre IV de la loi-programme du 24 décembre 2002, visant à harmoniser et à simplifier les régimes de réductions de cotisations de sécurité sociale, selon les conditions stipulées dans cet article pour les travailleurs qui à cette date sont occupés chez eux et bénéficiaient au 31 décembre 2004 d'une allocation visée :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">soit à l'arrêté royal du 19 décembre 2001 de promotion de mise à l'emploi des demandeurs d'emploi de longue durée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">soit à l'arrêté royal du 11 juillet 2002 déterminant l'intervention financière du centre public d'aide sociale dans le coût salarial d'un ayant droit à l'intégration sociale qui est engagé dans le cadre du plan Activa;</span>\n        </li>\n        <li class=\"provision\" data-number=\"c)\">\n          <span class=\"provision-text\">soit à l'arrêté royal du 14 novembre 2002 déterminant l'intervention financière du centre public d'aide sociale dans le coût salarial d'un ayant droit à une aide sociale financière qui est engagé dans le cadre du plan Activa.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.755Z",
+  "tokenUsage": {
+    "prompt": 2181,
+    "completion": 544,
+    "total": 2725
+  }
+}

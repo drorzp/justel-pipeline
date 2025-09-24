@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005009983",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 764, alinéa 1er, 10°, du même Code, remplacé par la loi du 25 février 2003, les mots &quot; et 12°, 580, 581 &quot; sont remplacés par les mots &quot; et 13°, 580, 2°, 3°, 6° à 18°, 581, 2°, 3°, 9° et 10° &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.752Z",
+  "tokenUsage": {
+    "prompt": 1547,
+    "completion": 183,
+    "total": 1730
+  }
+}

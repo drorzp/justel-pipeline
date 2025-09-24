@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014018021",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'arrêté royal du 10 novembre 2009 relatif aux normes de commercialisation des oeufs, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'article 1er, § 1er, les 2°, 3° et 4° sont abrogés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'article 2, les mots \" sur le site de production, sur un marché public local ou par colportage \" sont remplacés par les mots \" conformément à l'arrêté royal du 7 janvier 2014 relatif à l'approvisionnement direct par un producteur primaire du consommateur final ou du commerce de détail local en petites quantités de certaines denrées d'origine animale \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.183Z",
+  "tokenUsage": {
+    "prompt": 1711,
+    "completion": 294,
+    "total": 2005
+  }
+}

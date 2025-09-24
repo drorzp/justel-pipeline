@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997027115",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 6 du même arrêté est remplacé par la disposition suivante : \" Art. 6. La durée des formations visées à l'article 3, § 1er, 1° et 2°, ne peut excéder :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">150 heures en moyenne par travailleur formé;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">25 000 heures par dossier.</span></li>\n            </ol>\n            <p class=\"intro-text\">La durée des formations visées à l'article 3, § 1er, 3°, ne peut excéder :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">40 heures en moyenne par travailleur formé;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">6 000 heures par dossier.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.975Z",
+  "tokenUsage": {
+    "prompt": 1732,
+    "completion": 331,
+    "total": 2063
+  }
+}

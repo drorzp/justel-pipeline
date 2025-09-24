@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A09646",
+  "articleNumber": "624",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-624\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 624</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le rapport de gestion de la société qui a acquis ses propres actions, parts bénéficiaires ou certificats, par elle-même ou par une personne agissant en son nom propre mais pour compte de la société ou par une société filiale contrôlée directement au sens de l'article 5, § 2, 1°, 2° et 4°, soit par elle-même, soit par une personne agissant en son nom propre mais pour compte de la filiale, est complété au moins par les indications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la raison des acquisitions;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le nombre et la valeur nominale ou, à défaut de valeur nominale, le pair comptable des actions acquises ou cédées pendant l'exercice et des actions auxquelles se rapportent les certificats acquis ou cédés, ainsi que la fraction du capital souscrit qu'elles représentent;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">la contre-valeur des actions, parts bénéficiaires ou certificats acquis ou cédés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le nombre et la valeur nominale, ou à défaut de valeur nominale, le pair comptable de l'ensemble des actions acquises et détenues en portefeuille et des actions auxquelles se rapportent les certificats acquis ou cédés, ainsi que la fraction du capital souscrit qu'elles représentent.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Lorsque la société n'est pas tenue de rédiger un rapport de gestion, les indications visées à l'alinéa 1er doivent être mentionnées dans l'annexe aux comptes annuels.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.275Z",
+  "tokenUsage": {
+    "prompt": 2093,
+    "completion": 515,
+    "total": 2608
+  }
+}

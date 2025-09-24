@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011009022",
+  "articleNumber": "60",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-60\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 60</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 17, § 2, alinéa 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, de l'arrêté royal du 8 janvier 1996 relatif aux marchés publics de travaux, de fournitures et de services et aux concessions de travaux publics, modifié par l'arrêté royal du 23 novembre 2007, les mots &quot; concordat judiciaire &quot; sont chaque fois remplacés par les mots &quot; réorganisation judicaire &quot;;</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.148Z",
+  "tokenUsage": {
+    "prompt": 1604,
+    "completion": 237,
+    "total": 1841
+  }
+}

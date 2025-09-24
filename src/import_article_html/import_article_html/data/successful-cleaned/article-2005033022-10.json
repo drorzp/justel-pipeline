@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005033022",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>A l'article 13, 1°, du même arrêté, la proposition suivante est insérée après \" au plus \" :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">\". Des exceptions aux limites d'âge peuvent être approuvées par le service; \"</span>\n            </li>\n          </ol>\n          <p>A l'article 13, 3°, du même arrêté, le passage \" demander à nouveau aux gardiennes \" est remplacé par \" exiger à nouveau des gardien(ne)s \".</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">de l'article 13 du même arrêté sont abrogés.</span>\n            </li>\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">L'article 13 du même arrêté est complété comme suit :</span>\n              <ol>\n                <li class=\"sub-provision\" data-marker=\"8°\">\n                  <span class=\"provision-text\">participer pendant au moins 10 heures par an à une formation continuée. Celle-ci porte sur des thèmes tels que l'éducation sanitaire, la psychologie et l'éducation générale de l'enfant ainsi que l'évolution des missions confiées aux gardien(ne)s.</span>\n                </li>\n              </ol>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.896Z",
+  "tokenUsage": {
+    "prompt": 1808,
+    "completion": 468,
+    "total": 2276
+  }
+}

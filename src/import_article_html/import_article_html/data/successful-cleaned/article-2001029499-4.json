@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001029499",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 21 est modifié comme suit : &quot; Seuls les membres du Comité d'accompagnement visés à l'article 15, § 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et à l'article 16 du présent arrêté peuvent bénéficier d'un jeton de présence pour leur participation à ses séances de travail et d'un remboursement de frais de parcours et de séjour.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Le Gouvernement en détermine les montants.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.154Z",
+  "tokenUsage": {
+    "prompt": 1577,
+    "completion": 219,
+    "total": 1796
+  }
+}

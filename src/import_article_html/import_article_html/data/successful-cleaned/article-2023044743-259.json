@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044743",
+  "articleNumber": "259",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-259\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 259</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans la même sous-section 2, il est inséré un article L4146-10 rédigé comme suit : \" Art. L4146-10.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation à l'article L4146-9, § 2, alinéa 2, lorsqu'au terme de la sélection comparative, il subsiste au moins une place vacante d'expert, le Gouvernement désigne en qualité d'experts ceux qui sont classés en ordre utile, en suivant les modalités définies au même alinéa. Le Gouvernement ou son délégué pourvoit les places vacantes en faisant publier un nouvel appel à candidatures au Moniteur belge le premier jour ouvrable du mois de mai de l'année des élections ordinaires.</p>\n        <p>Dans ce cas, les modalités visées à l'article L4146-9 relatives à l'introduction des candidatures, à la vérification de leur recevabilité, à l'établissement de leur classement, à la possibilité pour le Gouvernement de déroger au classement établi afin d'assurer qu'il n'y ait pas plus de deux experts effectifs du même sexe, à la désignation des experts au Conseil des élections locales, à la publication au Moniteur belge d'un communiqué mentionnant la composition du Conseil des élections locales et à la protection des données à caractère personnel, sont applicables.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsqu'au terme de la sélection visée au paragraphe 1er, alinéa 2, il subsiste au moins une place vacante d'expert, le Gouvernement pourvoit les places vacantes en désignant librement toute personne qui satisfait aux conditions visées à l'article L4146-8, § 1er, 1°, 2° et 5°, sous réserve d'acceptation par les personnes concernées.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.376Z",
+  "tokenUsage": {
+    "prompt": 2231,
+    "completion": 539,
+    "total": 2770
+  }
+}

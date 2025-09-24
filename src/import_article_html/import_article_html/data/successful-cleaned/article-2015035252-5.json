@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015035252",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 93, § 2, du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au troisième alinéa, le membre de phrase \" article 89, deuxième alinéa, points 3° et 4° et troisième alinéa, points 1° et 3° \" est remplacé par le membre de phrase \" article 89, deuxième alinéa, \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le quatrième alinéa est remplacé par la disposition suivante : \" Sans préjudice de l'application du cinquième alinéa, il est octroyé aux membres ou à leurs suppléants mentionnés à l'article 62, points 1° et 2° du décret précité, un jeton de présence de 20 euros par assemblée du Comité de gestion à laquelle ils participent. Ces membres ne reçoivent un jeton de présence que lorsqu'ils incluent l'affiliation dans le cadre d'un contrat de travail et que l'indemnité est attribuée à l'employeur de la personne concernée. L'indemnité est à charge du budget de la Communauté flamande \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">il est ajouté un cinquième alinéa, qui s'énonce comme suit : \" Les représentants mentionnés au quatrième alinéa ont droit au remboursement de leurs frais de voyage conformément aux normes en vigueur pour le personnel de l'Autorité flamande.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.275Z",
+  "tokenUsage": {
+    "prompt": 2042,
+    "completion": 472,
+    "total": 2514
+  }
+}

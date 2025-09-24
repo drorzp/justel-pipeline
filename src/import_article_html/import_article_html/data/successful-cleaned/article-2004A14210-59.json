@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004A14210",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 59</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 17, § 4, alinéas 2 et 3, l'article 18, § 2, premier alinéa, l'article 32, § 3, premier alinéa, et l'article 33, § 2, alinéa 2 et 3, entrent en vigueur le 1er janvier 2005.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La condition d'indépendance visée à l'article 33, § 3, alinéa 2, 1°, ne devra être remplie qu'après l'expiration du premier mandat du premier membre du comité de direction qui dirige le service chargé des fonctions visées à l'article 5, 4° et 5°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.706Z",
+  "tokenUsage": {
+    "prompt": 1783,
+    "completion": 313,
+    "total": 2096
+  }
+}

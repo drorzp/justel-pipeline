@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008035262",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 11 du même décret sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'alinéa premier est remplacé par la disposition suivante :<br>\" La commune où l'intégrant visé à l'article 3, § 1er est inscrit au registre national pour la première fois avec un titre de séjour de plus de trois mois, informe ladite personne sur la politique d'intégration civique et la renvoie au bureau d'accueil. La commune attire l'attention des intégrants au statut obligatoire, visés à l'article 5, § 1er, 1° et 3°, et à l'article 5, §§ 6, 7 et 8, sur les obligations visées à l'article 5, § 3, qui, le cas échéant, leur sont applicables, ainsi que sur les sanctions visées à l'article 25, § 2. \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le deuxième alinéa est remplacé par la disposition suivante :<br>\" La commune remet en outre chaque mois au bureau d'accueil une liste des intégrants visés à l'article 3, § 1er, qui sont inscrits pour la première fois au registre national avec un titre de séjour de plus de trois mois, des intégrants visés à l'article 5, §§ 7 et 8, et des nouveaux arrivants mineurs allophones qui se sont inscrits au cours du mois écoulé. \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.042Z",
+  "tokenUsage": {
+    "prompt": 2022,
+    "completion": 450,
+    "total": 2472
+  }
+}

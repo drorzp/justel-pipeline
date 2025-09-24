@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003031317",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3 de l'arrêté du Collège de la Commission communautaire française du 20 octobre 1994 relatif à la carrière des fonctionnaires des organismes d'intérêt public de la Commission communautaire française, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">à l'alinéa 2, le chiffre \" 4 \" est remplacé par le chiffre \" 3 \";</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">à l'alinéa 4, les mots \" le niveau 4 comprend 3 rangs numérotés de 42 à 44 \" sont supprimés.</span></li>\n      </ol>\n      <p>A l'article 9, alinéa 1er, du même arrêté, les mots \" 3 et 4 \" sont remplacés par les mots \" et 3 \".</p>\n      <p>A l'article 10, alinéa 1er, b), du même arrêté, les mots \" 3 et 4 \" sont remplacés par les mots \" et 3 \".</p>\n      <p>L'article 28 du même arrêté est abrogé.</p>\n      <p>L'intitulé du chapitre V du même arrêté est remplacé par l'intitulé suivant : \" De la promotion à un grade de niveau 2 ou 3 \".</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">A l'article 34, du même arrêté, les rubriques 7° et 8° sont supprimées.</div>\n      </section>\n      <p class=\"intro-text\">A l'article 35 du même arrêté, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">au paragraphe 1er, les mots \" 21, 26 ou 30 \" sont remplacés par les mots \" 21 ou 26 \";</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">au paragraphe 2, la rubrique 5° est supprimée.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.627Z",
+  "tokenUsage": {
+    "prompt": 2230,
+    "completion": 609,
+    "total": 2839
+  }
+}

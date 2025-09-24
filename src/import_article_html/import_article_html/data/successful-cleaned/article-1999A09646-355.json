@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A09646",
+  "articleNumber": "355",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-355\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 355</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'acte constitutif mentionne, outre les indications contenues dans l'extrait destiné à publication :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la désignation des apports;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les conditions d'admission, de démission et d'exclusion des associés et les conditions de retrait de versement;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les règles qui déterminent le nombre et le mode de désignation des membres des organes chargés de l'administration, de la représentation à l'égard des tiers, du contrôle de la société, ainsi que la répartition des compétences entre ces organes et la durée de leur mandat;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les droits des associés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">le mode de convocation de l'assemblée générale, la majorité requise pour la validité des délibérations, le mode de vote;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">la répartition des bénéfices et des pertes.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Les procurations doivent reproduire les énonciations prévues par l'article 69, 1°, 2°, 4°, 5° et 11°, et par le 1° du présent article.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.267Z",
+  "tokenUsage": {
+    "prompt": 1979,
+    "completion": 484,
+    "total": 2463
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035861",
+  "articleNumber": "4.1.1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4-1-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4.1.1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-06-10/09\" data-law-type=\"DCFL\" data-article-number=\"4\">\n        <p>Le Gouvernement flamand peut établir les inventaires suivants, en tout ou en partie :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'atlas des paysages ;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">l'inventaire de zones archéologiques ;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">l'inventaire du patrimoine architectural ;</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">l'inventaire du patrimoine paysager.</span></li>\n        </ol>\n        <p>Le Gouvernement flamand ne peut établir les inventaires visés à l'alinéa premier, 3° et 4°, que s'ils ne concernent pas le territoire d'une commune agréée du patrimoine immobilier.</p>\n        <p>Par dérogation à l'alinéa premier, une commune agréée du patrimoine immobilier peut établir en tout ou en partie les inventaires visés à l'alinéa premier, 3° et 4°, pour son propre territoire, et imposer des obligations d'autorisation pour des actes au niveau de certains biens immobiliers repris sur les inventaires susmentionnés. Le Gouvernement flamand détermine une liste exhaustive des actes éventuels soumis à l'obligation d'autorisation, sans que cela n'affecte le mode d'exploitation agricole et le choix de culture.</p>\n        <p>Si l'agrément de la commune de patrimoine immobilier est retiré, les obligations d'autorisation visées à l'alinéa trois, cessent de s'appliquer à partir du lendemain de la publication au Moniteur belge du retrait de l'agrément de la commune de patrimoine immobilier.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.090Z",
+  "tokenUsage": {
+    "prompt": 2188,
+    "completion": 548,
+    "total": 2736
+  }
+}

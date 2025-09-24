@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010201991",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 6 de la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour et modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques, remplacé par la loi du 25 mars 2003 et modifié par les lois du 5 août 2003, du 9 juillet 2004, du 15 mai 2007, et 24 juillet 2008, un § 2/1 est inséré, libellé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-2-1\">\n      <h3 class=\"paragraph-marker\">§ 2/1.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les données visées au § 2, alinéa 2, 1°, 2°, 3°, 5° et 10°, peuvent en outre être utilisées en vue de l'identification et de l'authentification du demandeur du permis de conduire ou du titre qui en tient lieu, visé par la loi relative à la police de la circulation routière.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.337Z",
+  "tokenUsage": {
+    "prompt": 1871,
+    "completion": 332,
+    "total": 2203
+  }
+}

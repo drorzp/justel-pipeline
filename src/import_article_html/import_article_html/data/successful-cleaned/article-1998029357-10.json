@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998029357",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 10, paragraphe 4, des mêmes lois, il est inséré entre les points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">pour l'enseignement secondaire professionnel à horaire réduit, la régularité des études pour les première et deuxième années d'études du niveau secondaire supérieur ainsi que pour l'année d'études organisée en vue de délivrer le certificat d'enseignement secondaire supérieur, dans l'enseignement de plein exercice ou dans l'enseignement secondaire professionnel à horaire réduit;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.052Z",
+  "tokenUsage": {
+    "prompt": 1646,
+    "completion": 253,
+    "total": 1899
+  }
+}

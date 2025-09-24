@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1935113052",
+  "articleNumber": "171",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-171\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 171</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les dispositions des articles 29bis, (30, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">et</span></li><li class=\"provision\" data-number=\"15°\"><span class=\"provision-text\">à 18°)</span></li></ol>, 31, alinéa 2, 32, 33 et 35 ne sont pas applicables en cas de transformation en société anonyme.</p>\n      <p>Les dispositions des articles 29bis, (30, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">et</span></li><li class=\"provision\" data-number=\"15°\"><span class=\"provision-text\">à 18°)</span></li></ol>, 32 et 33 et de l'article 108 en tant qu'il règle la responsabilité des fondateurs ne sont pas applicables en cas de transformation en société en commandite par actions. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"05-12-1984\" data-law-type=\"L\" data-article-number=\"61\">&lt;L 05-12-1984, art. 61&gt;</span></p>\n      <p>Les dispositions des articles (121, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">à 12°)</span></li></ol> et 123 ne sont pas applicables en cas de transformation en (société privée à responsabilité limitée). <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"15-07-1985\" data-law-type=\"L\" data-article-number=\"1\">&lt;L 15-07-1985, art. 1&gt;</span></p>\n      <p>(Les dispositions des articles 147 ter et 147 quater ne sont pas applicables en cas de transformation en une société coopérative à responsabilité limitée) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1991-07-20/31\" data-law-type=\"L\" data-article-number=\"174\" data-effective-date=\"01-11-1991\">&lt;L 1991-07-20/31, art. 174, 007;**En vigueur :**01-11-1991&gt;</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.594Z",
+  "tokenUsage": {
+    "prompt": 2139,
+    "completion": 615,
+    "total": 2754
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012126",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 30</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Par dérogation à l'article 28 et conformément à la procédure visée au Titre IV, Chapitre III, les infractions aux articles 5 à 7, 8,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">3°, 10, 11, § 2, 2°, 12, 13,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">5°, 16, 20 à 23, 35, 36, § 2, peuvent être sanctionnées soit par les peines prévues à l'article 28, soit par une amende administrative.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.692Z",
+  "tokenUsage": {
+    "prompt": 1725,
+    "completion": 332,
+    "total": 2057
+  }
+}

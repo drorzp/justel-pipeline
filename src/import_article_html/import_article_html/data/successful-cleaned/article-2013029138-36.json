@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013029138",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Président de la Commission d'évaluation demande que les rapports visés à l'article 35 lui soient transmis, dans un délai d'un mois.</p>\n      <p class=\"intro-text\">Dès qu'il reçoit le(s) rapport(s) visé(s) à \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-04-27/03\" data-law-type=\"ACF\" data-article-number=\"5\">\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2021-12-09/23\" data-law-type=\"ACF\" data-article-number=\"5\">l'article 35, 1°, 2°, 4°, 5° et 8°</span>\n        </span>, le Président de la Commission d'évaluation le(s) fait parvenir au mandataire concerné. Le mandataire peut, le cas échéant, y faire ses remarques par écrit dans les dix jours de la réception dudit rapport. Dans le même temps, le Président de la Commission d'évaluation fait parvenir le(s) rapport(s) aux autres membres de la Commission d'évaluation.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.003Z",
+  "tokenUsage": {
+    "prompt": 2123,
+    "completion": 341,
+    "total": 2464
+  }
+}

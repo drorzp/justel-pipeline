@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004022896",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté royal du 15 octobre 1997 relatif aux produits cosmétiques, les points:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">Produit cosmétique fini : le produit cosmétique dans sa formulation finale tel qu'il est mis dans le commerce à la disposition du consommateur final, ou son prototype.</span>\n                </li>\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">Prototype : un premier modèle ou dessin d'un produit cosmétique qui n'a pas été produit en lots et à partir duquel le produit cosmétique fini est copié ou finalement mis au point.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.774Z",
+  "tokenUsage": {
+    "prompt": 1725,
+    "completion": 256,
+    "total": 1981
+  }
+}

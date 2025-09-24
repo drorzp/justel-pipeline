@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1975101605",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les centres de formation qui ont été agréés conformément à l'arrêté royal du 19 juillet 1960 relatif à l'organisation de centres de formation d'aides familiales, ainsi que les centres de formation qui ont été agréés conformément à l'arrêté royal du 12 mai 1965 relatif à l'organisation de centres de formation d'aides seniors, qui répondent aux conditions prévues à l'article 2, 1°, 4° et 7°, peuvent également être agréés en tant que services d'aide aux familles et aux personnes âgées, mais exclusivement dans la mesure o l'organisation du stage le requiert.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.614Z",
+  "tokenUsage": {
+    "prompt": 1661,
+    "completion": 212,
+    "total": 1873
+  }
+}

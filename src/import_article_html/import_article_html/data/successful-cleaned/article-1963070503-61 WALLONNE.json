@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1963070503",
+  "articleNumber": "61 WALLONNE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-61\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 61</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'impossibilité momentanée pour lhandicapé de suivre les cours de formation ou de réadaptation professionnelle suspend l'exécution du contrat. Lhandicapé est tenu de justifier de cette impossibilité et, lorsqu'elle résulte d'une incapacité de travail, de produire un certificat médical, s'il y est invité. Au cas ou la suspension dépasse trente jours, en une ou plusieurs périodes cumulées, il peut être mis fin au contrat de formation ou de réadaptation professionnelle par les personnes qui, conformément aux dispositions de l'article 57, ont passé ce contrat avec lhandicapé; notification en est adressée dans les huit jours au Fonds national, lorsqu'il s'agit d'un contrat visé à l'article 57, alinéa 2, 2°, 3° et 4°.</p>\n            <p class=\"closing-text\">Art. 61. (COMMUNAUTE FLAMANDE) (Abrogé) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1997-04-22/43\" data-law-type=\"AGF\" data-article-number=\"18\">&lt;AGF 1997-04-22/43, art. 18; En vigueur : 01-01-1997&gt;</span></p>\n            <p class=\"closing-text\">Art. 61. (COMMISSION COMMUNAUTAIRE FRANCAISE DE LA REGION DE BRUXELLES-CAPITALE) (Abrogé) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1997-09-25/47\" data-law-type=\"ARR\" data-article-number=\"3\">&lt;ARR 1997-09-25/47, art. 3; En vigueur : 01-07-1997&gt;</span></p>\n            <p class=\"closing-text\">Art. 61. (REGION WALLONNE) (Abrogé) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2002-11-07/47\" data-law-type=\"ARW\" data-article-number=\"60\">&lt;ARW 2002-11-07/47, art. 60, 029; En vigueur : 01-01-2003&gt;</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.476Z",
+  "tokenUsage": {
+    "prompt": 2258,
+    "completion": 573,
+    "total": 2831
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048600",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 202 du même Code, modifié en dernier lieu par la loi du 27 juin 2021, les modifications suivantes sont apportées:</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, le 4° et 5° sont abrogés;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">dans le paragraphe 1er, l'alinéa 2 est abrogé;</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n                <span class=\"provision-text\">l'article est complété par un paragraphe 3, rédigé comme suit:</span>\n                <section class=\"paragraph\" id=\"para-3\">\n                    <h3 class=\"paragraph-marker\">§ 3.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>Des bénéfices de la période imposable sont également déduits les bénéfices distribués par une société étrangère visée à l'article 185/2, § 2, pour autant qu'ils en proviennent et pour autant et dans la mesure où le contribuable ait démontré que ces bénéfices avaient déjà été imposés dans son chef dans une période imposable antérieure comme bénéfices non distribués en application de l'article 185/2 et qu'ils n'ont pas encore été exonérés. Pour l'application du présent paragraphe, les bénéfices de la société étrangère, ou les bénéfices d'un établissement stable de cette société étrangère situé dans un pays tiers qui ont été imposés dans le chef de la société étrangère conformément à l'article 185/2, sont censés être distribués en premier.</p>\n                    </div>\n                </section>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.504Z",
+  "tokenUsage": {
+    "prompt": 2055,
+    "completion": 490,
+    "total": 2545
+  }
+}

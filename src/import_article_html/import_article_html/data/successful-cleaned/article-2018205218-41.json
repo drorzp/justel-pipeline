@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018205218",
+  "articleNumber": "41",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-41\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 41</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 30, § 1er, du même arrêté, remplacé par l'arrêté du Gouvernement wallon du 6 décembre 2006, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">à l'alinéa 1er, les mots \" article 9 \" sont remplacés par les mots \" article 31ter \" et les mots \" est habilité à fournir \" sont remplacés par le mot \" fournit \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">à l'alinéa 2, les mots \" A cette fin, \" sont remplacés par les mots \" Le cas échéant, \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">à l'alinéa 3, le signe \" : \" est remplacé par le signe \" . \" et les points 1° et 2° sont abrogés;</span>\n      </li>\n      <li class=\"provision\" data-number=\"4°\">\n        <span class=\"provision-text\">il est inséré un paragraphe 3, rédigé comme suit :</span>\n        <section class=\"paragraph\" id=\"para-3\">\n          <h3 class=\"paragraph-marker\">§ 3.</h3>\n          <div class=\"paragraph-content\">\n            <p>Pour les clients protégés visé à l'article 31bis, § 1er, 2°, et § 2, du décret et sauf si le client demande à être fourni, au tarif commercial, par un fournisseur de son choix, le fournisseur informe sans délai le gestionnaire de réseau de distribution qui reprend le client en tant que fournisseur social dans un délai de 30 jours maximum suivant la demande introduite par le fournisseur commercial et qui informe ce client de cette reprise et des conséquences de celle-ci.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.321Z",
+  "tokenUsage": {
+    "prompt": 2094,
+    "completion": 526,
+    "total": 2620
+  }
+}

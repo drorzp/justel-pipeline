@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1976071205",
+  "articleNumber": "60",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-60\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 60</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les libéralités d'un montant ou d'une valeur d'au moins mille francs consenties entre le 3 janvier 1976 et le 15 avril 1976 aux communes sinistrées par les inondations de janvier 1976 bénéficient du même régime fiscal que les libéralités visées à l'article 71, § 1er, 4° et 5°, du Code des impôts sur les revenus.</p>\n            <p class=\"closing-text\">La même disposition vaut pour les libéralités faites aux personnes physiques et morales une assistance aux sinistrés et spécialement agréées par le Ministre des Finances.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.614Z",
+  "tokenUsage": {
+    "prompt": 1654,
+    "completion": 216,
+    "total": 1870
+  }
+}

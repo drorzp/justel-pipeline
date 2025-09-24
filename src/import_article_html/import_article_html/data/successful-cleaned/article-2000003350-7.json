@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000003350",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>A l'article 169, § 1er, alinéa 1er, du même Code, modifié par les lois des 28 juillet 1992 et 28 décembre 1992, les mots \"des articles 1451, 3° et 14517, 1° et 2°,\" sont remplacés par les mots \"de l'article 14517,1°,\".</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.100Z",
+  "tokenUsage": {
+    "prompt": 1620,
+    "completion": 192,
+    "total": 1812
+  }
+}

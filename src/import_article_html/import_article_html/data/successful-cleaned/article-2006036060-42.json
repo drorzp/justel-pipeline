@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036060",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 42</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 du même arrêté, modifié par l'arrêté ministériel du 26 janvier 2001, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux points 1° et 2°, les mots \" au Service Qualité et Protection des végétaux de la DG4 \" et les mots \" du Service Qualité et Protection des végétaux de la DG4 \" sont respectivement remplacés par les mots \" à l'entité compétente de l'Agentschap voor Landbouw en Visserij \" et les mots \" de l'entité compétente de l'Agentschap voor Landbouw en Visserij \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au point 1°, les mots \" l'Administration de la Qualité des matières premières et du Secteur végétal \" sont remplacés par les mots \" l'Agentschap voor Landbouw en Visserij \";</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.717Z",
+  "tokenUsage": {
+    "prompt": 1780,
+    "completion": 329,
+    "total": 2109
+  }
+}

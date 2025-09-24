@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999033025",
+  "articleNumber": "62.50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62-50\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62.50</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-06-28/11\" data-law-type=\"DCG\" data-article-number=\"196\">\n        <p class=\"intro-text\">- Conditions d'admission Une personne peut exercer cette fonction si :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">elle remplit les conditions énumérées à l'article 62.3, <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2023-06-26/12\" data-law-type=\"DCG\" data-article-number=\"99\">à l'exception de l'alinéa 1er, 2° et 3°</span>;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">elle est porteuse de l'un des titres requis fixé à l'article 14, 8°, de l'arrêté royal du 22 avril 1969 fixant les titres requis des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical et sociopsychologique des établissements d'enseignement gardien, primaire, spécialisé, moyen, technique, artistique et normal de l'Etat et des internats dépendant de ces établissements;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">elle a introduit sa candidature dans les formes et délais fixés dans l'appel aux candidats.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.181Z",
+  "tokenUsage": {
+    "prompt": 2054,
+    "completion": 453,
+    "total": 2507
+  }
+}

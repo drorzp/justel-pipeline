@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001035268",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 8 du même arrêté est remplacé par ce qui suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 15.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les montants mentionnés aux articles 10, § 1er, 5°, § 2, 1° et 2°, 12, § 1er et 13, § 1er du décret sont liés aux fluctuations de l'indice des prix à la consommation, conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.138Z",
+  "tokenUsage": {
+    "prompt": 1751,
+    "completion": 294,
+    "total": 2045
+  }
+}

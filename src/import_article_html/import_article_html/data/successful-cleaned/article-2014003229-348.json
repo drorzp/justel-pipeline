@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003229",
+  "articleNumber": "348",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-348\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 348</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">\n          La FSMA peut requérir la coopération des autorités compétentes d'un autre Etat membre dans le cadre d'une activité de surveillance ou aux fins d'une vérification sur place ou dans le cadre d'une enquête sur le territoire de cet autre Etat membre dans le cadre des pouvoirs qui lui sont conférés au titre de la présente loi. \n          L'article 77bis, \n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-07-31/10\" data-law-type=\"L\" data-article-number=\"33\">§ 1er, 2°, alinéa 2</span>, \n          3°, §§ 2 et 3, 1° et 3° de la loi du 2 août 2002 est applicable.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.034Z",
+  "tokenUsage": {
+    "prompt": 1808,
+    "completion": 290,
+    "total": 2098
+  }
+}

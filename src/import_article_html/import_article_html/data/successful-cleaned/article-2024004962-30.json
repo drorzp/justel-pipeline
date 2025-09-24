@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004962",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 30</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er, § 3, du décret du 29 octobre 2015 portant création de fonds budgétaires en matière de routes et de voies hydrauliques, sont insérés des 5° et 6° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">au paiement des études réalisées à la demande de l'autorité wallonne de sécurité des barrages-réservoirs visée par le décret relatif à la sécurité d'exploitation des barrages-réservoirs, en lien avec leurs missions;</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">au financement du fonctionnement de l'autorité wallonne de sécurité des barrages-réservoirs visée par le décret relatif à la sécurité d'exploitation des barrages-réservoirs.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.422Z",
+  "tokenUsage": {
+    "prompt": 1722,
+    "completion": 298,
+    "total": 2020
+  }
+}

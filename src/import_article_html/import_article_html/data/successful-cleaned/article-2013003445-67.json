@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013003445",
+  "articleNumber": "67",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-67\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 67</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 84 de la même loi, modifié par les lois des 10 octobre 1913, 10 octobre 1967, 30 juin 1994 et 19 décembre 2006, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, 1° et 2°, les mots \", professions et domiciles\" sont chaque fois remplacés par les mots \"et domicile\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans l'alinéa 2, 1°, 2° et 3°, les mots \", profession et domicile\" sont chaque fois remplacés par les mots \"et domicile\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.018Z",
+  "tokenUsage": {
+    "prompt": 1690,
+    "completion": 284,
+    "total": 1974
+  }
+}

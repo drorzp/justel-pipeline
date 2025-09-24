@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003035388",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 8, § 3, du même arrêté, modifié par les arrêtés du Gouvernement flamand des 2 décembre 1992 et 10 mars 1998, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le 2° est remplacé par la disposition suivante : &quot; 2° est également assimilé au porteur du C.C.P., le titulaire du diplôme de lauréat avec mention complementaire &quot; et éducation musicale en (spécialité) &quot;, &quot; et éducation en (spécialité) &quot; ou &quot; et éducation musicale &quot;, délivré par un établissement supérieur de la musique. Le porteur du diplôme de lauréat en éducation musicale est considéré comme porteur d'un certificat de cours pédagogiques; &quot;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est ajouté un 6° et 7°, rédigés comme suit : </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"6°\">\n                            <span class=\"provision-text\">le certificat d'aptitude à l'enseignement artistique à temps partiel, délivré par un Conservatoire royal de Musique flamand; </span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"7°\">\n                            <span class=\"provision-text\">le certificat d'aptitudes pédagogiques pour l'enseignement, délivré par un jury, visé à l'article 110 du décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française. </span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.723Z",
+  "tokenUsage": {
+    "prompt": 2051,
+    "completion": 505,
+    "total": 2556
+  }
+}

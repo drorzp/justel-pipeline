@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994000718",
+  "articleNumber": "5_2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour être admis au cycle de formation de candidat officier promotion sociale, il faut avoir satisfait aux conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">remplir, à la fin du cycle de formation, les conditions fixées à l'article 3, § 1, 1° et 2°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">posséder les qualités morales indispensables à l'état d'officier de gendarmerie;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">ne pas avoir définitivement échoué à un précédent cycle de formation de candidat officier promotion sociale;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">avoir réussi un examen portant sur la connaissance approfondie de la langue française ou néerlandaise. Cet examen est celui déterminé à l'article 2 de la loi du 30 juillet 1938 relative à l'emploi des langues à l'armée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">être classé en ordre utile au concours d'admission. Ce concours consiste en un commentaire écrit d'un texte relatif à la connaissance professionnelle. Il a lieu dans la langue dont l'intéressé possède la connaissaince approfondie, conformément au 4°.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les examens visés à l'alinéa 1, 4° et 5°, sont présentés devant une commission d'examen.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.067Z",
+  "tokenUsage": {
+    "prompt": 2002,
+    "completion": 484,
+    "total": 2486
+  }
+}

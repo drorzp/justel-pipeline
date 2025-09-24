@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012203962",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article III.2 du même décret est remplacé par la disposition suivante : &quot;Art. III.2. A l'article II.1er du même décret, remplacé par le décret du 15 juillet 2005 et modifié par les décrets des 6 mars 2009, 8 mai 2009 et 9 juillet 2010, les points 1°, 2°, 3°bis, 6°, 9°, 11°, 15°, 17°, 21°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"22°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"23°\"><span class=\"provision-text\">sont abrogés.&quot;</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.170Z",
+  "tokenUsage": {
+    "prompt": 1661,
+    "completion": 267,
+    "total": 1928
+  }
+}

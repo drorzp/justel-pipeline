@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011795",
+  "articleNumber": "46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 46</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article I.20 du même Code, contenant les définitions particulières au livre XV, inséré par la loi du 17 juillet 2013 et modifié par la loi du 1er décembre 2016, est complété par les 7° et 8° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">entreprise : toute personne physique ou personne morale poursuivant de manière durable un but économique, y compris ses associations;</span>\n        </li>\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">entreprise soumise à inscription : toute entité tenue de s'inscrire en vertu de l'article III.49.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.683Z",
+  "tokenUsage": {
+    "prompt": 1659,
+    "completion": 267,
+    "total": 1926
+  }
+}

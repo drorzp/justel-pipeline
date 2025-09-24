@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991003766",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'agrément visé à l'article 10 prend fin au 31 décembre 1991 sauf s'il est confirmé auparavant, après qu'il ait été démontré que l'entreprise remplit les conditions visées à l'article 46 de la loi.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour obtenir confirmation de l'agrément, la société doit, entre le 1er mai 1991 et le 31 juillet 1991, saisir la Commission bancaire et financière, par lettre recommandée à la poste ou avec accusé de réception, d'une demande de confirmation de l'agrément.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>A la demande de confirmation de l'agrément prévue au § 2 est joint un dossier établi conformément à l'article 4, sauf les documents visés à l'article 4,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"8°\">\n            <span class=\"provision-text\">et ceux déjà transmis en vertu de l'article 12.</span>\n          </li>\n        </ol>\n        <p>La procédure de confirmation de l'agrément est réglée conformément aux articles 2 à 7.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.741Z",
+  "tokenUsage": {
+    "prompt": 1932,
+    "completion": 449,
+    "total": 2381
+  }
+}

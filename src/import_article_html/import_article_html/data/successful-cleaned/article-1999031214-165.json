@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999031214",
+  "articleNumber": "165",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-165\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 165</h2>\n    </header>\n    <div class=\"article-content\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2005-03-24/38\" data-law-type=\"ARR\" data-article-number=\"5\">\n            <ARR 2005-03-24/38, art. 5, 014;**En vigueur :**01-06-2005>\n        </span>\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Tous les agents ont droit aux congés pour interruption de carrière pour soins palliatifs et dans le cadre du congé parental visés à l'article 164, § 2, 4° et 5°.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Ont droit aux congés pour interruption de la carrière complète, partielle et dans le cadre de l'assistance médicale visés à l'article 164, § 2, 1° à 3°, les agents titulaires d'un grade de recrutement.</p>\n                <p>Peuvent bénéficier de ces congés les agents titulaires d'un grade de promotion, moyennant l'autorisation du secrétaire général ou du secrétaire général adjoint.</p>\n                <p>En sont exclus les agents titulaires d'un mandat.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.180Z",
+  "tokenUsage": {
+    "prompt": 1939,
+    "completion": 397,
+    "total": 2336
+  }
+}

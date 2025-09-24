@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006003199",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A la date de la publication du présent arrêté, entrent en vigueur :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'article 23 de la loi du 15 juillet 1998 modifiant certaines dispositions légales en matière d'instruments financiers et de systèmes de compensation de titres;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article 132,</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"2°\">\n              <span class=\"provision-text\">de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les articles 18, 19, 22, 31 et 71 de la loi du 15 décembre 2004 relatif aux sûretés financières et portant des dispositions fiscales diverses en matière de conventions constitutives de sûreté réelle et de prêts portant sur des instruments financiers;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le présent arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.869Z",
+  "tokenUsage": {
+    "prompt": 1860,
+    "completion": 429,
+    "total": 2289
+  }
+}

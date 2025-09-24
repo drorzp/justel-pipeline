@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015A24141",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 54</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le Roi règle l'organisation et le fonctionnement du Conseil fédéral de l'art infirmier. Le Conseil ne peut valablement délibérer que si la moitié des membres visés à l'article 53, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">sont présents.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.302Z",
+  "tokenUsage": {
+    "prompt": 1535,
+    "completion": 205,
+    "total": 1740
+  }
+}

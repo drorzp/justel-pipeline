@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003003387",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'arrêté ministériel du 19 mars 1986, octroyant délégation de compétences en matière d'agréation comme délégué permanent d'une organisation syndicale et de délivrance de la carte de légitimation, les mots &quot; Directeur général des Services généraux &quot; sont remplacés par les mots &quot; Directeur du service d'encadrement Personnel et Organisation &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.834Z",
+  "tokenUsage": {
+    "prompt": 1602,
+    "completion": 253,
+    "total": 1855
+  }
+}

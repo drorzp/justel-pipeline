@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004033043",
+  "articleNumber": "74",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-74\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 74</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Enumération. Un membre du personnel nommé à titre définitif peut être mis en disponibilité :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">par défaut d'emploi</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">pour mission</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">pour maladie ou infirmité</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">pour convenance personnelle</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">pour convenance personnelle précédant la mise à la retraite</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">par retrait d'emploi dans l'intérêt du service.</span></li>\n      </ol>\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2008-04-21/31\" data-law-type=\"DCG\" data-article-number=\"89\">Le premier alinéa, à l'exception des points 1°, 3° et 5°, s'applique aux membres du personnel temporaires désignés pour une durée indéterminée <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2021-06-28/11\" data-law-type=\"DCG\" data-article-number=\"260\">conformément à l'article 22bis</span>.</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.737Z",
+  "tokenUsage": {
+    "prompt": 2012,
+    "completion": 463,
+    "total": 2475
+  }
+}

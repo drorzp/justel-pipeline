@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005420",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er, § 2, du même arrêté, modifié par l'arrêté royal du 27 janvier 2022, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans le 13° les mots \" , de stockage et de participation active de la demande \" sont insérés entre les mots \" des moyens de production \" et les mots \" à disposition du réseau électrique belge \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le paragraphe 2 est complété par le 30° et le 31°, rédigé comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"30°\">\n                            <span class=\"provision-text\">\"MTU\": le \"market time unit\" ou l'intervalle de temps le plus court pour lequel le prix du marché est fixé, qui est au moins aussi court que la période de compensation des déséquilibres.</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"31°\">\n                            <span class=\"provision-text\">\"revenus à terme\" : les revenus des contrats conclus pour la vente future de l'électricité produite ;</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.430Z",
+  "tokenUsage": {
+    "prompt": 1865,
+    "completion": 403,
+    "total": 2268
+  }
+}

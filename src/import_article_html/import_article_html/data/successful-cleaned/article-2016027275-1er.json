@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016027275",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                La liste des espèces établie \n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-11/12\" data-law-type=\"AM\" data-article-number=\"1\">\n                    pour la plantation d'une haie vive ou d'un taillis\n                </span> \n                en application des \n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-11/12\" data-law-type=\"AM\" data-article-number=\"1\">\n                    articles 6, alinéa 1er, 1° et 7, alinéa 1er, 1\n                </span>, \n                de l'arrêté du Gouvernement wallon du 8 septembre 2016 relatif à l'octroi de subventions pour la plantation d'une haie vive, d'un taillis linéaire, d'un verger et d'alignement d'arbres ainsi que pour l'entretien des arbres têtards, dénommé ci-après \" l'arrêté du Gouvernement wallon du 8 septembre 2016 \", figure en annexe 1re.\n            </p>\n            <p class=\"closing-text\">\n                Les espèces entomophiles visées à l'article 6, alinéa 1er, 4°, de l'arrêté du Gouvernement wallon du 8 septembre 2016 figurent à l'annexe 1re et y sont reprises avec un astérisque. \n                Toutefois, lorsque des caractéristiques locales, traditionnelles, historiques ou paysagères l'imposent, la composition d'une haie vive, peut, après accord du Département, déroger au présent point.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.290Z",
+  "tokenUsage": {
+    "prompt": 2088,
+    "completion": 456,
+    "total": 2544
+  }
+}

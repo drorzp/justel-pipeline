@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1970020901",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le Ministre peut agréer, après avis des organisations pharmaceutiques les plus représentatives visées à l'article 6, § 1er, alinéa 2, sub</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">6°, un fonds spécial de subvention ou d'indemnisation. Il en agrée de même les modalités de fonctionnement ainsi que les moyens de financement par les détenteurs d'autorisation. La gestion de ce fonds est confiée aux organisations pharmaceutiques précitées, sous le contrôle et suivant les modalités déterminées par le Ministre de la Santé publique. Les fonds disponibles peuvent être affectés à l'octroi d'aide aux officines ouvertes au public à créer dans l'intérêt de la santé publique dans des régions où elles ne sont pas rentables; l'indemnisation d'un détenteur d'autorisation d'une officine ouverte au public ou de ses ayants droits directs peut également être prévue lorsque ceux-ci renoncent volontairement à l'autorisation qu'ils possèdent et à condition que l'officine en cause ne soit pas nécessaire aux besoins de la santé publique. Les gestionnaires du fonds statuent sur la recevabilité de la demande et fixent la subvention ou l'indemnisation suivant les critères agréés par le Ministre de la Santé publique en matière de rentabilité ou de remise d'officines.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.546Z",
+  "tokenUsage": {
+    "prompt": 1947,
+    "completion": 404,
+    "total": 2351
+  }
+}

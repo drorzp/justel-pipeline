@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016229",
+  "articleNumber": "5.162",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5-162\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5.162</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-11-10/07\" data-law-type=\"AGF\" data-article-number=\"100\">\n          Seules les données à caractère personnel qui sont adéquates, pertinentes et nécessaires aux fins sont traitées. Le traitement des données à caractère personnel répond à la condition prévue à l'article 6, paragraphe 1, c) du règlement général sur la protection des données.  \n          Les données à caractère personnel sont conservées pendant soixante ans au maximum. Treize ans après la date de demande, seules les données à caractère personnel nécessaires à la vérification de la condition mentionnée à l'article 5.154, alinéa deux, 8°, 9°, 10° et 11° sont conservées ; les autres données à caractère personnel sont détruites.\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.219Z",
+  "tokenUsage": {
+    "prompt": 1757,
+    "completion": 276,
+    "total": 2033
+  }
+}

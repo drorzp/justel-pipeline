@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995016231",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour être éligible à la prime, le demandeur doit être producteur à titre principal conformément à l'article 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et le demeurer durant une période d'au moins cinq ans à compter de l'année au cours de laquelle la première prime, conformément à l'article 7, est payée.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.983Z",
+  "tokenUsage": {
+    "prompt": 1531,
+    "completion": 191,
+    "total": 1722
+  }
+}

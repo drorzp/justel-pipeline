@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004202631",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 68</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Gouvernement fixe la date d'entrée en vigueur du présent décret.</p>\n      <p class=\"intro-text\">(NOTE : Entrée en vigueur des art. 56 à 63 fixée au 01-01-2005 par ARW <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2004120961\">[2004-12-09/61]</a>, art. 129)</p>\n      <p class=\"intro-text\">(NOTE : Entrée en vigueur des art. 1, 2, 6, 8, 55, 6° et 7°, 64 et 65 fixée au 30-11-2006 par ARW <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006111070\">[2006-11-10/70]</a>, art. 20)</p>\n      <p class=\"intro-text\">(NOTE : Entrée en vigueur des art. 7, 55, 4° et 5° fixée au 01-06-2007 par ARW <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006111070\">[2006-11-10/70]</a>, art. 21)</p>\n      <p class=\"intro-text\">(NOTE : Entrée en vigueur des art. 8 et 66 fixée au 10-04-2008 par ARW <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008041033\">[2008-04-10/33]</a>, art. 6)</p>\n      <p class=\"intro-text\">(NOTE : Entrée en vigueur du titre II et des art. 52, 53, 54, 55, 1°, 55, 3° et 67 fixée au 01-07-2008 par ARW <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008061942\">[2008-06-19/42]</a>, art. 16)</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.708Z",
+  "tokenUsage": {
+    "prompt": 2369,
+    "completion": 605,
+    "total": 2974
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011227",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le présent arrêté entre en vigueur au 31 décembre 2016.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>La convention visée à l'article 2 est conclue pour une durée indéterminée. Toutefois, elle cessera ses effets si le Centre de référence qui réalise les activités visées par le présent arrêté ne dispose plus d'une convention sur la base des articles</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"6°\">\n                        <span class=\"provision-text\">22, 6° et 23, § 3 de la loi relative à l'assurance obligatoire, coordonnée le 14 juillet 1994.</span>\n                    </li>\n                </ol>\n                <p>En outre, la convention contient une clause selon laquelle chacune des parties signataires de la convention (le Comité de l'assurance et les Centres de dépistage conventionnés) peut la dénoncer à tout moment moyennant l'observation d'un délai de préavis de 3 mois qui prend cours le premier jour du mois suivant la date d'envoi à la poste de la lettre recommandée.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.757Z",
+  "tokenUsage": {
+    "prompt": 1860,
+    "completion": 394,
+    "total": 2254
+  }
+}

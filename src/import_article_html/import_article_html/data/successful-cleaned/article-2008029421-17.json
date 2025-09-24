@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008029421",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 17</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Aux fins de remplir les missions visées aux articles 15,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et 15,</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">tous rapports des études ou recherches concernant l'Enseignement supérieur réalisés à l'initiative de la Communauté française ou subsidiées par celle-ci, sont transmis à l'Observatoire.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.051Z",
+  "tokenUsage": {
+    "prompt": 1543,
+    "completion": 215,
+    "total": 1758
+  }
+}

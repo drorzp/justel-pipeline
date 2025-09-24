@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1988018011",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Afin de couvrir les frais pour 1987, prévus à l'article 13, alinéa 2 de l'arrêté royal n° 464, une avance de cinquante-six millions de francs, à valoir sur les affectations visées à l'article 13,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">dudit arrêté, sera réservée sur un compte interne auprès de l'Institut national.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.711Z",
+  "tokenUsage": {
+    "prompt": 1584,
+    "completion": 227,
+    "total": 1811
+  }
+}

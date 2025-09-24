@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003003255",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>La taxe annuelle sur les contrats d'assurance perçue sur les contrats d'assurance et les véhicules répondant aux conditions établies par les articles 175.2 et 176.2, alinéa 1er, 9° et 10bis du Code des taxes assimilées au timbre, insérés par les articles 2 et 3 de la présente loi, peut être restituée sous déduction le cas échéant de la taxe due conformément à l'article 2 précité de la présente loi, lorsque la taxe a été payée sur des primes échues pendant la période s'étendant du 1er janvier 2000 jusqu'au jour de l'entrée en vigueur du présent article.</p>\n        <p>Ce remboursement est effectué au preneur d'assurance. Il doit être demandé par le preneur d'assurance au directeur des services de Recherche et de Documentation de l'enregistrement de Bruxelles, dans un délai de deux ans à compter du jour de la publication de la présente loi au Moniteur belge. Le directeur accuse réception de la demande le jour même où elle lui parvient.</p>\n        <p>Le remboursement est subordonné à la production des documents justifiant de l'existence de la cause du remboursement. Le Ministre des Finances détermine les modalités de la demande et le contenu des documents à déposer tant par le preneur d'assurance que par les redevables désignés à l'article 177 du Code des taxes assimilées au timbre.</p>\n        <p>Le remboursement est ordonnancé par le fonctionnaire désigné par le Ministre des Finances ou son délégué.</p>\n        <p>Lorsque l'ayant droit est titulaire d'un compte bancaire, le remboursement a lieu par virement à ce compte; dans le cas contraire, il a lieu au moyen d'une assignation postale.</p>\n        <p>Pour le surplus, les dispositions du Code des taxes assimilées au timbre sont applicables aux restitutions visées au présent article.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.837Z",
+  "tokenUsage": {
+    "prompt": 2161,
+    "completion": 524,
+    "total": 2685
+  }
+}

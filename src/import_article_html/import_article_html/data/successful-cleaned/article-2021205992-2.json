@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021205992",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans la limite des crédits budgétaires disponibles, le ministre octroie aux commissions de gestion des parcs naturels qui s'étendent en tout ou partie en région de langue allemande et introduisent une demande allant dans ce sens une subvention annuelle pour les frais de fonctionnement liés aux missions en matière d'aménagement du territoire, en ce compris le paysage. La subvention mentionnée à l'alinéa 1er concerne :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la coordination des projets d'aménagement du territoire prévus à l'article 7, 2°, du décret de la Région wallonne du 16 juillet 1985 relatif aux parcs naturels;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">la remise, par les commissions de gestion, d'avis découlant de l'article 15, 3° et 4°, du même décret ou, selon le cas, des articles 7 et 8 de l'accord de coopération du 14 novembre 2019 entre la Région wallonne et la Communauté germanophone relatif à l'exercice des compétences en matière d'aménagement du territoire et de certaines matières connexes.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.795Z",
+  "tokenUsage": {
+    "prompt": 1867,
+    "completion": 371,
+    "total": 2238
+  }
+}

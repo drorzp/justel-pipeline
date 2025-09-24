@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202854",
+  "articleNumber": "84",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-84\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 84</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'arrêté royal du 4 septembre 1989 relatif aux congés pour prestations réduites accordés aux membres du personnel de l'enseignement de l'Etat et des centres psycho-médico-sociaux de l'Etat qui ont atteint l'âge de cinquante ans ou qui ont au moins deux enfants qui n'ont pas dépassé l'âge de quatorze ans et relatif à la mise en disponibilité pour convenance personnelle précédant la mise à la retraite, le mot \"spécial\" est chaque fois remplacé par le mot \"spécialisé\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.315Z",
+  "tokenUsage": {
+    "prompt": 1668,
+    "completion": 282,
+    "total": 1950
+  }
+}

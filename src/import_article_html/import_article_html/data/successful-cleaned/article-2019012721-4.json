@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012721",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans le chapitre 2 \" Interventions dans l'installation des médecins généralistes \" du même arrêté, sont introduits un article 4/1 et 4/2 comme suit :</p>\n    <p>\" Art. 4/1.</p>\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les Ministres arrêtent la liste des quartiers en pénurie de médecins généralistes.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les modifications de la liste des quartiers en pénurie de médecins généralistes entrent en vigueur à une date mentionnée dans l'arrêté ministériel et au plus tôt six mois après leur publication au Moniteur belge.</p>\n      </div>\n    </section>\n    <p>\" Art. 4/2.</p>\n    <p>Par dérogation à l'article 4, les primes visées à cet article peuvent être octroyées dans les 12 mois précédant le dernier mois de la fin escomptée de la formation spécifique en médecine générale, en cas d'achat d'un bien immobilier ou de travaux d'aménagement d'un bien, destinés à accueillir une première installation.</p>\n    <p>Dans les cas visés à l'alinéa 1er, les conditions mentionnées à l'article 4, § 2, doivent être remplies dans les 18 mois qui suivent l'introduction de la demande de prime :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">1°</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">2°</span>\n      </li>\n      <li class=\"provision\" data-number=\"4°\">\n        <span class=\"provision-text\">4°</span>\n      </li>\n      <li class=\"provision\" data-number=\"5°\">\n        <span class=\"provision-text\">5°</span>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.309Z",
+  "tokenUsage": {
+    "prompt": 2006,
+    "completion": 569,
+    "total": 2575
+  }
+}

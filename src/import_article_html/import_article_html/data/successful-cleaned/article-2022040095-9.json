@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040095",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1 de l'arrêté du Gouvernement flamand du 18 décembre 2020 portant exécution du décret du 13 juillet 2018 portant la commission de reconnaissance et de médiation pour les victimes d'abus historiques, les points 4° et 5° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">Agence de la Justice et du Maintien : l'Agence de la Justice et du Maintien, créée par l'arrêté du Gouvernement flamand du 3 septembre 2021 portant création de l'agence autonomisée interne Agence de la Justice et du Maintien (\" Agentschap Justitie en Handhaving \")</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">chef de l'agence : le chef de l'Agence de la Justice et du Maintien, visé à l'article 9 de l'arrêté du Gouvernement flamand du 3 septembre 2021 portant création de l'agence autonomisée interne Agence de la Justice et du Maintien (\" Agentschap Justitie en Handhaving \").</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.783Z",
+  "tokenUsage": {
+    "prompt": 1833,
+    "completion": 353,
+    "total": 2186
+  }
+}

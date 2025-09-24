@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011A35474",
+  "articleNumber": "101",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-101\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 101</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-12-21/65\" data-law-type=\"DCFL\" data-article-number=\"III.6\">\n            Tout en conservant l'agrément, le financement ou le subventionnement d'une école qui ne remplit plus toutes les conditions de financement ou de subventionnement ou d'une subdivision structurelle de cette école qui ne remplit plus toutes ces conditions, est retenu en tout ou en partie par le Gouvernement flamand.\n          </span>\n          Cette retenue ne peut se faire que sur proposition de l'inspection de l'enseignement lorsqu'il s'agit des conditions visées à l'article 15, § 1er, 2°, 4° et 5°.\n        </p>\n        <p>Le Gouvernement flamand fixe les dispositions complémentaires quant à cette retenue et règle la procédure de recours.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-12-21/65\" data-law-type=\"DCFL\" data-article-number=\"III.6\">\n            Le Gouvernement flamand peut supprimer l'agrément d'une école, d'une implantation ou d'une subdivision structurelle de celle-ci en tenant compte des articles 36 à 42 inclus du décret du 8 mai 2009 relatif à la qualité de l'enseignement. Dans l'enseignement secondaire professionnel à temps partiel, le Gouvernement flamand peut également limiter la suppression de l'agrément à la suppression de la compétence de délivrer certains certificats de fin d'études identiques à ceux de l'enseignement secondaire ordinaire à temps plein.\n          </span>\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.197Z",
+  "tokenUsage": {
+    "prompt": 2161,
+    "completion": 529,
+    "total": 2690
+  }
+}

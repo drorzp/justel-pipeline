@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042651",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 12, alinéa 1er, du même arrêté, modifié par l'arrêté royal du 5 juillet 2015, les mots &quot; en vertu des articles 92, § 4, alinéa 2, 2° et 3°, et 94, alinéa 1er, de la loi du 6 avril 1995 relative au statut et au contrôle des entreprises d'investissement, &quot; sont remplacés par les mots &quot; en vertu des articles 121, alinéa 2, 2° et 3°, et 129, alinéa 1er, de la loi du 20 juillet 2022 relative au statut et au contrôle des sociétés de bourse et portant dispositions diverses &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.758Z",
+  "tokenUsage": {
+    "prompt": 1783,
+    "completion": 250,
+    "total": 2033
+  }
+}

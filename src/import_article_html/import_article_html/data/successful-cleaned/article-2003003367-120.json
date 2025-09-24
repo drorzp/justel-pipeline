@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003003367",
+  "articleNumber": "120",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-120\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 120</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'aliénation ou le transfert administratif des biens immeubles qui font partie du patrimoine qui est indispensable pour les besoins d'un service visé à l'article 2, 1°,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"closing-text\">4°, peuvent, le cas échéant, donner lieu à une compensation, fixée de commun accord entre le Ministre du Budget et le Ministre gestionnaire.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.834Z",
+  "tokenUsage": {
+    "prompt": 1553,
+    "completion": 233,
+    "total": 1786
+  }
+}

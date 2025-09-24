@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008022114",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er, alinéa 1er, 1°, de l'arrêté royal du 7 mars 1991 portant composition et organisation du Comité général de coordination de la Banque-carrefour de la sécurité sociale, remplacé par l'arrêté royal du 26 juin 2003, les mots \" visés au 3° \" sont remplacés par les mots \" visés au 3°, 7° et 8° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.005Z",
+  "tokenUsage": {
+    "prompt": 1633,
+    "completion": 179,
+    "total": 1812
+  }
+}

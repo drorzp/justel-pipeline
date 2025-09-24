@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014207536",
+  "articleNumber": "224",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-224\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 224</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les articles 1598,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">6°, 1601, 1603, 1607, 1801, alinéa 2, 1811,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">6°, 1814, 7°, 1815, § 1er, alinéa 3, 1825, 3°, 1827, 1829, 1863, alinéa 1er, 1867, alinéa 2, 1875, alinéa 1er, 1880, § 1er, l'alinéa 3, 1895 et 1897, du même Code, les mots &quot; des Services du Gouvernement &quot; sont à chaque fois remplacés par les mots &quot; de l'administration &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.207Z",
+  "tokenUsage": {
+    "prompt": 1803,
+    "completion": 362,
+    "total": 2165
+  }
+}

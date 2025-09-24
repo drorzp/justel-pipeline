@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019010078",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le service résidentiel général a pour missions :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à titre principal, d'organiser l'accueil collectif et l'éducation d'enfants qui nécessitent une aide en dehors de leur milieu de vie;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à titre complémentaire, à l'issue de la mission visée au 1°, d'assurer la supervision ainsi que l'encadrement éducatif et social d'enfants qui vivent en résidence autonome;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">à titre complémentaire, à l'issue de la mission visée au 1°, de mettre en oeuvre des programmes d'aide en vue de la réinsertion des enfants dans leur milieu de vie;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">à titre complémentaire, d'apporter une aide dans leur milieu de vie aux parents et à la fratrie de l'enfant hébergé dans le service.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">A titre exceptionnel, les missions visées à l'alinéa 1er, 2° et 3°, peuvent être assurées par le service sans l'accueil préalable visé à l'alinéa 1er, 1°, à raison d'un mandat sur quinze.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.448Z",
+  "tokenUsage": {
+    "prompt": 1921,
+    "completion": 437,
+    "total": 2358
+  }
+}

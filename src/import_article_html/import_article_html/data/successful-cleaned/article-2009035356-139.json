@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035356",
+  "articleNumber": "139",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-139\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 139</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-06-03/19\" data-law-type=\"DCFL\" data-article-number=\"7\">\n        Les organismes de radiodiffusion sonore nationaux respectent, après avoir reçu un agrément et pour toute la durée de celui-ci, les conditions de base visées aux articles 137 et 138, conformément auxquelles le Gouvernement flamand a délivré l'agrément.\n        Les organismes de radiodiffusion sonore nationaux qui, après avoir obtenu l'agrément, souhaitent apporter des modifications aux données visées à l'offre introduite par eux, dérogeant ainsi au critère de qualification complémentaire, visé à l'article 138, § 2, alinéa deux, 1°, sur la grille d'émission, et aux critères de qualification complémentaires visés à l'article 138, § 2, alinéa deux, 3°, 4° et 5°, en informent le Régulateur flamand des Médias. La notification s'effectue conformément à l'article 219.\n        Par dérogation aux alinéas premier et deux, le Régulateur flamand des Médias est informé des modifications relatives aux statuts ou \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-04-19/57\" data-law-type=\"DCFL\" data-article-number=\"26\">\n          à la structure de l'actionnariat\n        </span>\n        à la structure de l'actionnariat, qui sont soumises pour approbation au Gouvernement flamand. Lors de l'évaluation des modifications, le Gouvernement flamand tient compte de la préservation du pluralisme et de la diversité dans le paysage radio.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.088Z",
+  "tokenUsage": {
+    "prompt": 2187,
+    "completion": 464,
+    "total": 2651
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995929047",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les bureaux régionaux ont pour mission :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">d'assurer, dans le respect des directives du Conseil de gestion et de l'administrateur général, l'exécution des missions du Fonds communautaire visées à l'article 6, 1°, 2°, 4°, 6° à 11° et 13° à 14° du décret du 3 juillet 1991 relatif à l'intégration sociale et professionnelle des personnes handicapées;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">d'accomplir les autres missions qui leur sont délégués par le Conseil de gestion et par l'administrateur général, notamment celles visées à l'article 6, 3°, 5° et 12° du décret du 3 juillet 1991 précité;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">d'échanger avec les administrations publiques, les organisations habilitées à conseiller les personnes handicapées, les institutions et les particuliers tous renseignements utiles au sujet de l'application des législations relatives à l'intégration sociale et professionnelle des personnes handicapées.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.049Z",
+  "tokenUsage": {
+    "prompt": 1868,
+    "completion": 385,
+    "total": 2253
+  }
+}

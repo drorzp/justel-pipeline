@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998000792",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le cadre de sa mission visée à l'article 64, § 1er, alinéa 2, 4°, de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, à savoir entre autres l'organisation d'une politique d'accueil et de prise en charge des personnes qui, venant de Flandre, sont venues s'installer dans la région bilingue de Bruxelles-Capitale et d'une politique d'information à l'égard des habitants de cette région qui ont demandé l'usage du néerlandais dans leurs rapports avec les autorités de la commune de leur résidence, la Commission communautaire flamande de la Région de Bruxelles-Capitale est autorisée à accéder aux informations visées à l'article 3, alinéa 1er, 1°, 2°, 3°, 5° et 9°, de la loi du 8 août 1983 organisant un Registre national des personnes physiques, aux fins énumérées ci-après et dans les limites fixées à l'alinéa 2 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pour communiquer des informations sur les instances politiques flamandes de Bruxelles au niveau régional et communal, ainsi que sur les institutions flamandes qui dépendent de la Commission communautaire flamande;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour expédier des publications relatives à son propre fonctionnement.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">L'accès visé à l'alinéa 1er est réservé aux agents de la Commission communautaire flamande désignés nommément et par écrit à cette fin par le président du Collège de la Commission communautaire flamande, en raison de la fonction qu'ils exercent et dans les limites de leurs compétences légales et réglementaires.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.076Z",
+  "tokenUsage": {
+    "prompt": 2129,
+    "completion": 508,
+    "total": 2637
+  }
+}

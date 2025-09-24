@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019A30854",
+  "articleNumber": "1.6.4-2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1-6-4-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1.6.4-2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La Commission des évaluations est présidée par l'Administrateur général de l'Administration générale de l'enseignement ou une personne désignée par celui-ci. Selon les modalités établies par le Gouvernement, elle comporte des représentants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">de la Direction générale du pilotage du système éducatif</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">du Service général de l'Inspection</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">de la Commission des référentiels et des programmes du tronc commun et des commissions des programmes</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">de Wallonie-Bruxelles Enseignement et des fédérations de pouvoirs organisateurs d'enseignement</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">du Gouvernement</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">du monde académique spécialisé dans la pédagogie générale ou la docimologie.</span></li>\n      </ol>\n      <p><span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-12-18/15\" data-law-type=\"DCFR\" data-article-number=\"58\">Les membres visés à l'alinéa 1er, 4° et 6°, sont remboursés de leurs frais de déplacement selon les modalités établies par le Gouvernement.</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.235Z",
+  "tokenUsage": {
+    "prompt": 2015,
+    "completion": 478,
+    "total": 2493
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017031741",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'octroi de la subvention visée à l'article 2, s'applique uniquement :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux structures ayant obtenu avant le 31 décembre 2016 une promesse de subvention telle que visée à l'article 20, § 3, de l'arrêté du 8 juin 1999 ou un accord de principe définitif tel que visé au chapitre 5 de l'arrêté du 18 mars 2011 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les projets avec financement sans accord de principe préalable ayant obtenu, conformément au chapitre 7 de l'arrêté du 18 mars 2011, un avis favorable de la commission de coordination en vue de l'obtention de l'accord de principe définitif avant le 31 décembre 2016 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les projets avec autofinancement entier sans promesse de subvention préalable ayant obtenu, conformément au chapitre IV de l'arrêté du 8 juin 1999, un avis favorable de la commission de coordination en vue de l'obtention d'une promesse de subvention avant le 31 décembre 2016.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Pour les projets visés à l'alinéa premier, 2° et 3°, l'octroi de la subvention complémentaire visé à l'article 2 ne vaut que lorsque les projets n'ont obtenu effectivement une promesse de subvention ou un accord de principe définitif.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.715Z",
+  "tokenUsage": {
+    "prompt": 1988,
+    "completion": 471,
+    "total": 2459
+  }
+}

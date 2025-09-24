@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000002301",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'A.S.B.L. Ligue Braille, Institution nationale pour le bien des aveugles et des handicapés de la vue, est autorisée à accéder aux informations visées à l'article 3, alinéa 1er, 1°, 2° et 5°, et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques en vue d'exécuter ses missions d'aide morale et matérielle au profit de toute personne séjournant en Belgique et reconnue aveugle ou handicapée de la vue.</p>\n      <p class=\"closing-text\">L'accès aux modifications apportées aux informations visées à l'alinéa 1er est limité à une période de trois années précédant la communication de ces informations.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.102Z",
+  "tokenUsage": {
+    "prompt": 1722,
+    "completion": 251,
+    "total": 1973
+  }
+}

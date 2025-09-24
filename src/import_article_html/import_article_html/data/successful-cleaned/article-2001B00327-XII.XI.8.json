@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001B00327",
+  "articleNumber": "XII.XI.8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-XII-XI-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article XII.XI.8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation aux articles XIII.I.4, XIII.I.7, alinéa 1, et XIII.I.9, alinéa 1,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">4°, les dispositions de l'article XII.XI.2, sont, mutatis mutandis, également applicables aux membres actuels du personnel du cadre opérationnel qui, jusqu'à et y compris le jour précédant la date d'entrée en vigueur du présent arrêté, étaient détachés ou affectés auprès de l'unité ou du service ayant repris au 1er janvier 2001 les fonctions remplies par une unité ou un service du service général d'appui policier.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.682Z",
+  "tokenUsage": {
+    "prompt": 1697,
+    "completion": 280,
+    "total": 1977
+  }
+}

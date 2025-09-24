@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042520",
+  "articleNumber": "77",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-77\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 77</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 217 du même décret, le membre de phrase \" l'article 158 \" est chaque fois remplacé par le membre de phrase \" l'article 158, 1° et 2°, \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.757Z",
+  "tokenUsage": {
+    "prompt": 1441,
+    "completion": 124,
+    "total": 1565
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002036336",
+  "articleNumber": "11.78",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11-78\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11.78</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <div class=\"paragraph-content\">\n                (Voir NOTES sous l'intitulé) Les absences pour cause de congé politique facultatif et de congé politique d'office pour l'exercice d'un mandat politique visé (à l'article XI 74) et à l'article XI 75, premier alinéa,\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n                    <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n                </ol>, sont assimilées à une période d'activité de service. Le fonctionnaire n'a toutefois pas droit à un traitement. \n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-11-19/53\" data-law-type=\"AGF\" data-article-number=\"23\">AGF 2004-11-19/53, art. 23, 010;<strong>En vigueur :</strong>19-11-2004</span>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <div class=\"paragraph-content\">\n                Le congé politique à temps plein accordé d'office pour l'exercice d'un mandat politique visé à l'article XI 75, premier alinéa,\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"4° à 10° inclus\"><span class=\"provision-text\">4° à 10° inclus</span></li>\n                </ol>, est assimilé à une période de non-activité.\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <div class=\"paragraph-content\">\n                Le fonctionnaire a droit à l'avancement en échelle barémique, sauf en cas de congé politique à temps plein.\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.705Z",
+  "tokenUsage": {
+    "prompt": 2004,
+    "completion": 520,
+    "total": 2524
+  }
+}

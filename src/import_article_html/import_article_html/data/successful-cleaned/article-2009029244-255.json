@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009029244",
+  "articleNumber": "255",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-255\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 255</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sont applicables aux stagiaires les dispositions suivantes du Livre I:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">du Titre Ier, Des droits et devoirs des agents</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">du Titre V, chapitre III, section III, de la dispense de service pour formation de carrière</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">du Titre VII, Des incompatibilités</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">du Titre X, Du régime disciplinaire</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">du Titre XI, De la chambre de recours</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">du Titre XII, De la suspension dans l'intérêt du service</span></li>\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">des article 177 à 181, 1° et 2° du Titre XIII, chapitre premier, Des positions administratives</span></li>\n                <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">du Titre XIV, De la perte de la qualité d'agent et de la cessation des fonctions</span></li>\n                <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">du Titre XV, Du statut pécuniaire</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.106Z",
+  "tokenUsage": {
+    "prompt": 1992,
+    "completion": 477,
+    "total": 2469
+  }
+}

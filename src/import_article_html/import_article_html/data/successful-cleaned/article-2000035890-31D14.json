@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035890",
+  "articleNumber": "31D14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31D14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 31D14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">(Voir NOTES sous l'intitulé) Le régime en matière de congé de circonstance prévu à (l'article XI 74,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">à</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">7° inclus) et applicable aux fonctionnaires, vaut également pour l'agent contractuel. \n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-11-19/52\" data-law-type=\"AGF\" data-article-number=\"39\">\n                    &lt;AGF 2004-11-19/52, art. 39, 033;<strong>En vigueur :</strong>01-06-2004&gt;\n                </span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.258Z",
+  "tokenUsage": {
+    "prompt": 1675,
+    "completion": 308,
+    "total": 1983
+  }
+}

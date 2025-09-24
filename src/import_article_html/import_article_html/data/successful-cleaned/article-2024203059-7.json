@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024203059",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 50, § 1er, de l'arrêté du Gouvernement wallon du 8 juin 2017 portant organisation des contrôle et audit internes budgétaires et comptables ainsi que du contrôle administratif et budgétaire des Services du Gouvernement wallon, des services administratifs à comptabilité autonome, des entreprises régionales, des organismes et du Service du Médiateur et la Commission wallonne pour l'Energie en Région wallonne est complété par les 6° et 7° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">les contrats de gestion visés à l'article D.354, 5°, du Code wallon de l'Agriculture, pour autant qu'au jour de la conclusion du contrat il entraîne une répercussion annuelle directe ou indirecte sur les dépenses ou sur les recettes de la Région wallonne inférieure à 25.000 euros;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">les contrats relatifs à la concession de droits personnels à des personnes physiques ou morales sur des biens immobiliers appartenant ou confiés en gestion à la Région wallonne pour autant qu'au jour de la conclusion du contrat il entraîne une répercussion annuelle directe ou indirecte sur les dépenses ou sur les recettes de la Région wallonne inférieure à 25.000 euros.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.709Z",
+  "tokenUsage": {
+    "prompt": 1942,
+    "completion": 408,
+    "total": 2350
+  }
+}

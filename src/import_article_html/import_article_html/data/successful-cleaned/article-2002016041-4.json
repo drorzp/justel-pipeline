@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002016041",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5 du même arrêté est remplacé par la disposition suivante :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>\" Le bénéficiaire des droits et prestations visés à l'article 3 s'engage à signaler à l'organisme chargé du paiement des prestations tout événement susceptible d'entraîner la suppression ou une réduction des droits et prestations précités.</p>\n          <p>A défaut, la prestation prévue à l'article 7 devra intégralement être remboursée.</p>\n          <p>Tout changement dans les conditions visées à l'article 4, § 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3°</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">4°</span>\n            </li>\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">produit ses effets le premier jour du trimestre qui suit celui de ce changement, pour les droits visés à l'article 3, 1°.</span>\n            </li>\n          </ol>\n          <p>Tout changement dans les conditions visées à l'article 4, § 2, produit ses effets le premier jour du mois qui suit celui de ce changement, pour la prestation visée à l'article 3, 2°.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.642Z",
+  "tokenUsage": {
+    "prompt": 1809,
+    "completion": 434,
+    "total": 2243
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202876",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 33 du même arrêté royal, les mots \" lorsque le montant maximum de 22.310,42 euros, visé à l'article 32, § 1er \" sont remplacés par les mots \" lorsque le montant maximum, visé à l'article 32 \" et les mots \" les arriérés de rémunérations ou les rémunérations différées visés à l'article 32, § 2, 2°, 3° et 4° \" sont remplacés par les mots \" les arriérés de rémunérations en cas de non respect des délais de paiement visés à l'article 9 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs ou les rémunérations différées en application des articles 9bis et 9ter de la même loi \".\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.312Z",
+  "tokenUsage": {
+    "prompt": 1749,
+    "completion": 257,
+    "total": 2006
+  }
+}

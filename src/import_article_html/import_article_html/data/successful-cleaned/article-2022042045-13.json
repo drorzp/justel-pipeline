@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042045",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'expiration d'un certificat de qualification de l'Union, l'administration renouvelle, sur demande, le certificat et les autorisations spécifiques qui y figurent, à condition que :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">pour les certificats de qualification de l'Union en tant que membre d'équipage de pont et les autorisations spécifiques autres que celles visées à l'article 6, 4°, les pièces justificatives satisfaisantes visées à l'article 10, § 1er, 1° et 3°, aient été soumises ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">pour les certificats de qualification de l'Union relatifs à des opérations spécifiques, les pièces justificatives satisfaisantes visées à l'article 10, § 1er, 1° et 2°, aient été soumises.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.880Z",
+  "tokenUsage": {
+    "prompt": 1751,
+    "completion": 314,
+    "total": 2065
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020202691",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 176, paragraphe 3, alinéa 1er, du même Code, modifié par la loi du 29 février 2016, est complété par un 4° et un 5°, rédigés comme suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">n'a pas communiqué, par écrit ou par voie électronique, à l'entreprise de travail intérimaire l'information, visée à l'article 18 de la loi précitée du 24 juillet 1987;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">n'a pas communiqué à l'entreprise de travail intérimaire, avant le début de l'exécution des prestations de travail visées à l'article 20quater de la loi précitée du 24 juillet 1987, par écrit ou par voie électronique, l'information visée à ce même article 20quater.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.092Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 313,
+    "total": 2074
+  }
+}

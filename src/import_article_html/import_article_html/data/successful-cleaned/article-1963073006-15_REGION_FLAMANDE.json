@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1963073006",
+  "articleNumber": "15_REGION_FLAMANDE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15_REGION_FLAMANDE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15_REGION_FLAMANDE</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">(NOTE : abrogé pour les personnels qui relèvent du champ d'application :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">des décrets du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire et relatif au statut de certains membres du personnel de l'enseignement subventionné;</span>\n        </li>\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">de l'article 127, 1° et 2°, du décret du 15 juin 2007 relatif à l'éducation des adultes, par DCFL <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2009050832\">2009-05-08/32</a>, art. VIII.61, 003; En vigueur : 01-09-2009)</span>\n        </li>\n      </ul>\n      <p>Un candidat fournit la preuve de sa connaissance approfondie d'une langues il a obtenu, dans cette langue, le diplôme qui est à la base de son recrutement, ou s'il produit un certificat constatant qu'il a réussi un examen sur la connaissance approfondie de cette langue, devant une commission d'examen constituée par arrêté royal.</p>\n      <p>Un candidat fait la preuve de sa connaissance suffisante d'une langue si le diplôme qui est à la base de son recrutement en fait mention, ou s'il produit un certificat constatant qu'il a réussi un examen sur la connaissance suffisante de cette langue, devant une commission d'examen constituée par arrêté royal.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.476Z",
+  "tokenUsage": {
+    "prompt": 2023,
+    "completion": 455,
+    "total": 2478
+  }
+}

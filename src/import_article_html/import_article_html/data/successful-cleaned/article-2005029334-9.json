@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005029334",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 37, du même arrêté, est remplacé par la disposition suivante :</p>\n      <blockquote class=\"quoted-text\">\n        <p>L'encadrement des enfants au sein d'une crèche parentale est assuré par le personnel qualifié minimum suivant :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1,75 équivalent temps plein de personnel justifiant de la formation de puériculteur(trice) ou d'une autre qualification reconnue conformément à l'article 42, § 2, alinéa 2;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">0,25 équivalent temps plein d'infirmier(ère) gradué(e) social(e) ou spécialisé(e) en santé communautaire ou d'assistant(e) social(e) ou justifiant d'une formation supérieure à finalité psychopédagogique.</span>\n          </li>\n        </ol>\n        <p>L'encadrement minimum requis est fixé à 3,5 équivalents temps plein, soit :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">au moins 2 équivalents temps plein de personnel qualifié, conformément à l'alinéa 1er, 1° et 2°;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">au plus 1,5 équivalent temps plein assuré par les parents.</span>\n          </li>\n        </ol>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.886Z",
+  "tokenUsage": {
+    "prompt": 1846,
+    "completion": 460,
+    "total": 2306
+  }
+}

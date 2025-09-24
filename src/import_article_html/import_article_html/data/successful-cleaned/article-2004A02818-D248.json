@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004A02818",
+  "articleNumber": "D248",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-D248\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article D248</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La S.P.G.E. communique, pour le 31 mars de chaque année, aux centres publics d'aide sociale les montants disponibles, par distributeur, constitués des contributions visées à l'article 239 et des soldes excédentaires non utilisés, diminués des dépenses définies à l'article 240, alinéa 1er, 2°, 3° et 4°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.703Z",
+  "tokenUsage": {
+    "prompt": 1589,
+    "completion": 169,
+    "total": 1758
+  }
+}

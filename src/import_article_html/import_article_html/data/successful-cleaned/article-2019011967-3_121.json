@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011967",
+  "articleNumber": "3:121",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3:121\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3:121</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les éléments de l'actif et du passif, les droits et engagements ainsi que les produits et les charges des filiales étrangères comprises dans la consolidation, sont, en vue de leur intégration dans les comptes consolidés, convertis en euros soit selon la méthode monétaire/non monétaire soit selon la méthode du cours de clôture.</p>\n      <p class=\"intro-text\">Le choix de la méthode doit répondre au prescrit de l'image fidèle prévu à l'article 3:105.</p>\n      <p class=\"intro-text\">Ces deux méthodes peuvent être utilisées simultanément pour différentes filiales étrangères comprises dans la consolidation pour autant:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">que le choix réponde à des critères objectifs, et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">que ces critères soient appliqués de façon systématique.</span></li>\n      </ol>\n      <p class=\"intro-text\">Les sociétés consolidantes peuvent, dans des cas spéciaux, et dans le respect de l'article 3:105 et du 1° et du 2° de l'alinéa précédent adopter d'autres méthodes de conversion.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.295Z",
+  "tokenUsage": {
+    "prompt": 1868,
+    "completion": 363,
+    "total": 2231
+  }
+}

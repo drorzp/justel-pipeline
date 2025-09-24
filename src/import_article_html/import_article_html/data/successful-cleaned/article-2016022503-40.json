@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016022503",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 40</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 5 de la même loi est complété par les paragraphes 5, 6 et 7 rédigés comme suit :</p>\n    <section class=\"paragraph\" id=\"para-5\">\n      <h3 class=\"paragraph-marker\">§ 5.</h3>\n      <div class=\"paragraph-content\">\n        <p>\" Pour chacun des comités de gestion visés au § 1er, 2° et 3°, un commissaire du gouvernement est nommé par le Roi sur la proposition du ministre de tutelle. Un des commissaires du gouvernement visé à l'alinéa précédent exerce également la fonction de commissaire du gouvernement au comité général de gestion visé au § 1er, 1°.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-6\">\n      <h3 class=\"paragraph-marker\">§ 6.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour le comité général de gestion visé au § 1er, 1°, un commissaire du gouvernement du Budget est nommé par le Roi sur la proposition du ministre qui a le Budget dans ses attributions.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-7\">\n      <h3 class=\"paragraph-marker\">§ 7.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les commissaires du gouvernement du comité de gestion visé au § 1er, 1°, sont compétents pour l'élaboration et le suivi du budget et du contrat d'administration. Ils se concertent avec les commissaires du gouvernement des autres comités de gestion pour les problèmes qui concernent ces comités.\"</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.258Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 438,
+    "total": 2386
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007037038",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>En vue de l'évaluation des demandes de subvention, une commission d'au moins six membres est formée par appel, dont une moitié est constituée par des membres du <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-02-24/16\" data-law-type=\"AGF\" data-article-number=\"120\">Ministère flamand de l'Environnement</span>, et l'autre moitié d'experts externes. Les experts externes sont désignés par le Ministre. Lors de la désignation des experts externes, le Ministre peut tenir compte des projets ayant des caractéristiques spécifiques ou situés dans des zones spécifiques, visés à l'article 5, § 2.</p>\n                <p>La même personne peut plusieurs fois faire partie de la commission d'évaluation.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>La commission d'évaluation classe les projets stratégiques pour lesquels une subvention est demandée sur la base de scores accordés relatifs à chacun des critères visés à l'article 5, § 1er. Les critères, visés à l'article 5, § 1er, 1°, 5° et 6°, sont les plus importants et décisifs lors de l'évaluation. Un rapport de classement est dressé tout en motivant la pondération par critère.</p>\n                <p>Le cas échéant, la commission d'évaluation se prononce en outre sur la mesure dans laquelle les projets stratégiques répondent aux caractéristiques fixés par le Ministre conformément à l'article 5, § 2, ou elle constate que les projets sont situés dans les zones spécifiées par le Ministre. Un rapport séparé et motivé sera établi à ce sujet.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.974Z",
+  "tokenUsage": {
+    "prompt": 2179,
+    "completion": 528,
+    "total": 2707
+  }
+}

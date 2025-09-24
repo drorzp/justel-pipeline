@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001A03168",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er du Règlement de Bourse de la Bourse belge des Futures et des Options, les points 7°, 8°, 10°, 13°, 14°, 17° et 25° sont abrogés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.676Z",
+  "tokenUsage": {
+    "prompt": 1523,
+    "completion": 137,
+    "total": 1660
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997011393",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <p>L'article 12 du même arrêté, modifié par l'arrêté royal du 3 novembre 1975, est remplacé par la disposition suivante :</p>\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les organismes d'assurances sont tenus d'utiliser des bases techniques identiques pour l'ensemble des assurés masculins et pour l'ensemble des assurés féminins.</p>\n        <p>Les assurances en cas de décès ne peuvent contenir de risques exclus, à l'exception du suicide survenu moins d'un an après la prise d'effet du contrat.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sauf dérogation accordée par l'Office de Contrôle des Assurances, les chargements ne peuvent dépasser les taux suivants :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"a)\">\n            <span class=\"provision-text\">en ce qui concerne la constitution de la rente et l'assurance prévue à l'article 5, § 1er, 1° et 2° :</span>\n            <ul class=\"hyphenated-items\">\n              <li class=\"sub-provision\" data-marker=\"-\">chargement pour frais de gestion : 5 pc des versements;</li>\n              <li class=\"sub-provision\" data-marker=\"-\">chargement pour le service des rentes : 1 pc;</li>\n            </ul>\n          </li>\n          <li class=\"provision\" data-number=\"b)\">\n            <span class=\"provision-text\">en ce qui concerne l'assurance temporaire d'un an visée à l'article 5, § 1er, 3° :</span>\n            <ul class=\"hyphenated-items\">\n              <li class=\"sub-provision\" data-marker=\"-\">chargement : 0,0005 du capital assuré.</li>\n            </ul>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.029Z",
+  "tokenUsage": {
+    "prompt": 2077,
+    "completion": 544,
+    "total": 2621
+  }
+}

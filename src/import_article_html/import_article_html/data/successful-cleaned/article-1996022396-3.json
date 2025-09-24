@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022396",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>(Pour chaque membre visé à l'article 2, excepté celui visé au point 7°, il est nommé un suppléant, dans les mêmes conditions que les membres effectifs.) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1999-05-03/74\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 1999-05-03/74, art. 2, 002; En vigueur : 04-07-1999&gt;</span> Le membre suppléant remplace le membre effectif en cas d'empêchement ou d'absence. En cas de décès ou de démission d'un membre effectif, son suppléant lui succède. Dans ce cas, celui-ci achève le mandat de son prédécesseur.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le mandat des membres visés à l'article 2, 1° à 6° et 8°, est de cinq ans. Il est renouvelable.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les membres visés à l'article 2, 6°, 7° et 8°, siègent avec voix consultative.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.106Z",
+  "tokenUsage": {
+    "prompt": 2074,
+    "completion": 449,
+    "total": 2523
+  }
+}

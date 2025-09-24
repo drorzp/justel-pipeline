@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009014140",
+  "articleNumber": "130",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-130\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 130</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Après chirurgie réfractive, la délivrance d'un certificat médical de classe 1 ou de classe 2 peut être envisagé par la SMA aux conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la réfraction pré-opératoire comme définie dans le chapitre II, article 22, 2° et le chapitre III, article 47, 2° <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"JAR-FCL 3.220(b) et 3.340(b)\" data-law-type=\"JAR-FCL\" data-article-number=\"3.220(b) et 3.340(b)\">ne doit pas dépasser les limites de + 5,0 ou - 6,0 dioptries pour la classe 1 et de + 5,0 ou - 8,0 dioptries pour la classe 2;</span></span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">une stabilité satisfaisante de la réfraction doit être obtenue (variation diurne inférieure à 0,75 dioptries);</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'examen ophtalmologique ne montrant pas de complications post-opératoires;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">la sensibilité à l'éblouissement étant dans les limites de la normale;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">la sensibilité au contraste mésopique non altérée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">le contrôle sera pratiqué par un ophtalmologue agréé par la SMA.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">. Chirurgie de la cataracte</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.038Z",
+  "tokenUsage": {
+    "prompt": 2043,
+    "completion": 566,
+    "total": 2609
+  }
+}

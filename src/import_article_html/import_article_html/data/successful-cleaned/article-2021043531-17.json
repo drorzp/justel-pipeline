@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021043531",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans un délai de dix jours ouvrables qui suit le jour de la publication visé à l'article 16, le secrétariat demande l'avis du fonctionnaire visé dans l'arrêté royal du 17 décembre 2008 relatif à la surveillance à exercer par l'Agence fédérale des Médicaments et des Produits de santé. L'avis visé à l'alinéa 1er ne peut pas être demandé si l'autorisation d'implantation ne peut pas être accordée en vertu de l'article 14, alinéa 3 ou 4. Dans ce cas, le délai de dix jours ouvrables visé à l'alinéa 1er commence à courir soit le jour où le ministre ou son délégué a <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-01-12/02\" data-law-type=\"AR\" data-article-number=\"3\">refusé toutes les demandes antérieures au sens de l'article 14, alinéa 4 ou 5, soit le jour qui suit la date visée à l'article 14, alinéa <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et l'article 14, alinéa 14, 2°</span></li></ol></span>.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le fonctionnaire visé au § 1er émet son avis dans les quarante jours <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-10-26/02\" data-law-type=\"AR\" data-article-number=\"6\">ouvrables</span> qui suivent la date de la déclaration de recevabilité de la demande conformément à l'article 15. Si le fonctionnaire ne remet pas d'avis dans ce délai, l'avis est considéré comme positif.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.061Z",
+  "tokenUsage": {
+    "prompt": 2260,
+    "completion": 556,
+    "total": 2816
+  }
+}

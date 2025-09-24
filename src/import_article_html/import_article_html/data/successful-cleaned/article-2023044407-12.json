@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044407",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pendant la période d'attente, l'organe d'administration provisoire remplit les obligations suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'organe d'administration provisoire notifie dans les trente jours au Gouvernement flamand, à l'organe représentatif, à l'autorité de financement et, le cas échéant, à la commune consultée pour avis, toute modification pertinente à l'évaluation des critères de reconnaissance visés à l'article 7;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'organe d'administration provisoire se réunit aussi souvent que nécessaire pour satisfaire aux critères de reconnaissance visés à l'article 7, et au moins une fois par trimestre;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'organe d'administration provisoire établit un compte-rendu des réunions visées au point 2° et le soumet dans les dix jours au Gouvernement flamand, à l'organe représentatif, à l'autorité de financement et, le cas échéant, à la commune consultée pour avis;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'organe d'administration provisoire tient des archives avec soin.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.860Z",
+  "tokenUsage": {
+    "prompt": 1908,
+    "completion": 418,
+    "total": 2326
+  }
+}

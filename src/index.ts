@@ -89,7 +89,7 @@ const pool = new Pool(dbConfig);
     // await updateArticleVector(pool);
     // console.log('updateArticleVector completed');
     // console.log('process completed');
-    processS3HtmlUpdate(pool, 'article-zip', 'htmls');
+    await processS3HtmlUpdate(pool, 'article-zip', 'htmls.zip');
   } catch (err:unknown) {
     const message = err instanceof Error ? err.message : 'Unknown error';
     console.error('Error running batch task:', message);

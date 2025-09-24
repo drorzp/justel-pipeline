@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071454",
+  "articleNumber": "R45",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R45\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article R45</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Loi du 9 août 1963, article 30, modifié par la loi du 29 décembre 1990, article 17; les références \"chapitre 4, section 1° et \"l'article 27\" sont remplacés par les références \"chapitre V, section 1° et \"l'article 26\"; les mots \"qui les concerne\" sont remplacés par les mots \"qui les concernent\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.949Z",
+  "tokenUsage": {
+    "prompt": 1541,
+    "completion": 176,
+    "total": 1717
+  }
+}

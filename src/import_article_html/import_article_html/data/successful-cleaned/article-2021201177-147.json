@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021201177",
+  "articleNumber": "147",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-147\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 147</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Disposition modificative</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans l'article 1.1,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1°</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">2°</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3°</span>\n            </li>\n          </ol>\n          <p>du décret du 27 juin 1986 relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone, inséré par le décret du 14 février 2011, le mot \"audiovisuels\" est chaque fois remplacé par les mots \"audiovisuels et sonores\".</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.796Z",
+  "tokenUsage": {
+    "prompt": 1599,
+    "completion": 329,
+    "total": 1928
+  }
+}

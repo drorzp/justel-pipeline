@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022021101",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 122sexiesdecies de l'arrêté royal du 3 juillet 1996 portant exécution de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, inséré par l'arrêté royal du 10 février 2008 et modifié par les arrêtés royaux du 10 novembre 2012 et 27 juin 2018, sont apportées les modifications suivantes :</p>\n      <ol class=\"sub-provisions\">\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"sub-provision-text\">le paragraphe 1er est complété par le 11°, rédigé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"11°\">\n              <span class=\"provision-text\">\" un membre effectif et un membre suppléant, représentant de l'Agence fédérale des médicaments et des produits de santé, présentés par l'Administrateur-général de cette Agence fédérale. \"</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"sub-provision-text\">dans le paragraphe 2, les mots \"et 10° \" sont remplacés par les mots \" , 10° et 11° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.842Z",
+  "tokenUsage": {
+    "prompt": 1865,
+    "completion": 388,
+    "total": 2253
+  }
+}

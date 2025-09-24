@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018013550",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\">1er</span></h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 15, § 1er, premier alinéa, de l'arrêté royal du 22 mai 2014 relatif au transport de marchandises par route, le point 1°, annulé par l'arrêt n° 235.400 du Conseil d'Etat du 11 juillet 2016, est remplacé par un nouveau point 1°, libellé comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">de la fourniture à l'entreprise des biens matériels et services suivants, pour autant qu'ils servent à l'exécution des activités visées à l'article 2, alinéa premier, 1° et 2°, de la loi :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">les pneus, ainsi que les autres éléments et les accessoires obligatoires des véhicules ;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">les réparations et entretiens des véhicules ;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">les prestations du personnel roulant ;</li>\n            <li class=\"sub-provision\" data-marker=\"d)\">les carburants ;</li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.699Z",
+  "tokenUsage": {
+    "prompt": 1837,
+    "completion": 381,
+    "total": 2218
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011142",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les organismes agréés font parvenir à la DG Energie les informations concernant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">toute modification aux statuts susceptible d'avoir une influence sur le respect des conditions d'agrément;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">tout changement de nature organisationnelle ou technique susceptible d'avoir une influence sur le respect des conditions d'agrément;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">tout remplacement du dirigeant technique;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">un rapport annuel comportant un rapport détaillé des activités de l'exercice écoulé dans le cadre de la surveillance des essais, contrôles et épreuves se rapportant aux mesures de sécurité à prendre lors de la conception, de l'établissement, de la transformation, de la réparation et de l'exploitation des installations de transport de produits gazeux et autres par canalisations. Ce rapport est à fournir au plus tard le 1er avril;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">tout retrait ou modification de l'accréditation visée à l'article 6.</span></li>\n      </ol>\n      <p class=\"intro-text\">Les éléments visés aux 1°, 2°, 3° et 5° sont à fournir dans les 7 jours de leur réalisation.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.238Z",
+  "tokenUsage": {
+    "prompt": 1928,
+    "completion": 436,
+    "total": 2364
+  }
+}

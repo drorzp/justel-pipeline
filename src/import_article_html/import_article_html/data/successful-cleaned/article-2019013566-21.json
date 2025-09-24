@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019013566",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <p class=\"intro-text\">Dans la même section 3, il est inséré un article 61/27-6, rédigé comme suit : \"Art. 61/27-6.</p>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le ministre ou son délégué met fin à l'autorisation de séjour en tant que travailleur hautement qualifié ou refuse de renouveler celle-ci lorsque le ressortissant d'un pays tiers ne remplit pas ou plus les conditions visées à l'article 61/27-4, § 1er, 1° et 2°.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le ministre ou son délégué peut mettre fin à l'autorisation de séjour en tant que travailleur hautement qualifié ou refuser de renouveler celle-ci dans les cas suivants :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">lorsque le ressortissant d'un pays tiers ne dispose pas de ressources suffisantes pour subvenir à ses propres besoins et à ceux des membres de sa famille, afin de ne pas devenir une charge pour les autorités publiques. Dans le cadre de l'évaluation des ressources, il est tenu compte de la situation personnelle de l'étranger et, notamment, de la nature et de la régularité de ses revenus et du nombre de membres de la famille qui sont à sa charge;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">le ressortissant d'un pays tiers séjourne à des fins autres que celles pour lesquelles il a été autorisé au séjour.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.337Z",
+  "tokenUsage": {
+    "prompt": 2061,
+    "completion": 503,
+    "total": 2564
+  }
+}

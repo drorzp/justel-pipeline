@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016024135",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 44</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les articles 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"28°\">\n                    <span class=\"provision-text\">et 22, § 3, alinéas 1er et 2, de la même loi, modifiée par la loi du 10 avril 2014, les mots &quot;l'article 7 de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé&quot; sont chaque fois remplacés par les mots &quot;l'article 25 de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015&quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.258Z",
+  "tokenUsage": {
+    "prompt": 1640,
+    "completion": 248,
+    "total": 1888
+  }
+}

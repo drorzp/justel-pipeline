@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016206122",
+  "articleNumber": "143",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-143\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 143</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 465.D du même Code, l'expression &quot; article 1.D, 11° à 16°, 26°, 28°, 33°, 34° et 41° &quot; est remplacée par l'expression &quot; article 1.D, 4°, 11°, 12°, 17°, 23°, 29°, 35°, 48°, 50° et 53° &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.773Z",
+  "tokenUsage": {
+    "prompt": 1539,
+    "completion": 177,
+    "total": 1716
+  }
+}

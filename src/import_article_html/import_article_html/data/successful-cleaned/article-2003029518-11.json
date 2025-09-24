@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003029518",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La subvention de fonctionnement visée à l'article 10 du décret est versée à l'association des centres sportifs reconnue en deux tranches :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\"><span class=\"item-text\">60 % dans le courant du premier semestre de l'année en cours;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">40 % après réception par l'administration des documents visés aux points 11° et 12 ° de l'article 3 du décret, du procès verbal de l'assemblée générale les approuvant et de l'information prévue à l'article 9, 2), du décret.</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.622Z",
+  "tokenUsage": {
+    "prompt": 1622,
+    "completion": 240,
+    "total": 1862
+  }
+}

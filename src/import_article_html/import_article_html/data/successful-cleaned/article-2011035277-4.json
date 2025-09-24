@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011035277",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 3 de l'arrêté du Gouvernement flamand du 24 juillet 2009 relatif à la programmation, aux conditions d'agrément et au régime de subventionnement de structures de services de soins et de logement et d'associations d'usagers et d'intervenants de proximité, les alinéas trois, quatre et cinq sont ajoutés, rédigés comme suit:</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>\"Par dérogation à l'alinéa premier, 2°, b), un service de soins et de logement et de soins à domicile complémentaires doit, à partir de la date du commencement de son agrément, remplir les conditions d'agrément spécifiques relatives à la contribution personnelle, visée à l'article 4, A, 9° et 10°, de l'annexe Ire, qui doit être imputée à l'usager.</p>\n                    <p>\"Par dérogation à l'alinéa premier, 2°, b), un service d'aide logistique doit, à partir de la date du commencement de son agrément, remplir les conditions d'agrément spécifiques relatives à la contribution personnelle, visée à l'article 3, A, 6°, de l'annexe II, qui doit être imputée à l'usager.</p>\n                    <p>\"Par dérogation à l'alinéa premier, 2°, b), un service de garde doit, à partir de la date du commencement de son agrément, remplir les conditions d'agrément spécifiques relatives à la contribution personnelle, visée à l'article 5, A, 5°, de l'annexe III, qui doit être imputée à l'usager.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.217Z",
+  "tokenUsage": {
+    "prompt": 2082,
+    "completion": 473,
+    "total": 2555
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030048",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le membre ou les membres visé(s) à :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'article 2, § 1er, 2°, est nommé par le Ministre sur la proposition du Directeur général de la DG4 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article 2, § 1er, 3°, est nommé par le Ministre sur la proposition de l'administrateur délégué de l'Agence fédérale des Médicaments et Produits de santé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'article 2, § 1er, 4° et 5°, sont nommés par le Ministre d'après une liste de doubles candidatures, proposées par les instances visées ou par le service Denrées alimentaires, Aliments pour animaux et autres Produits de Consommation de la DG4.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.469Z",
+  "tokenUsage": {
+    "prompt": 1770,
+    "completion": 337,
+    "total": 2107
+  }
+}

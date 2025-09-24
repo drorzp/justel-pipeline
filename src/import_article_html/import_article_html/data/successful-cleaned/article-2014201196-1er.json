@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014201196",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                La banque de données doit respecter les standards en matière de sécurité tels qu'ils sont définis par \n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-11-22/05\" data-law-type=\"AR\" data-article-number=\"1\">l'Autorité de protection des données</span>, \n                assurer la sécurité des informations y contenues et doit être établie et gérée suivant les règles de l'art.\n            </p>\n            <p class=\"intro-text\">\n                La banque de données permet de tracer les données enregistrées.\n            </p>\n            <p class=\"intro-text\">\n                Elle a force probante s'agissant des données enregistrées à l'aide de l'appareil d'enregistrement et du moyen d'enregistrement visés à l'article 31ter, § 1er, alinéa 3, \n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">2°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">3°</span>\n                    </li>\n                </ol>\n                de la loi précitée du 4 août 1996 ou à l'aide d'une autre méthode d'enregistrement automatique visée à l'article 31ter, § 1er, alinéa 1er, \n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">2°</span>\n                    </li>\n                </ol>\n                de la même loi.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.364Z",
+  "tokenUsage": {
+    "prompt": 1882,
+    "completion": 456,
+    "total": 2338
+  }
+}

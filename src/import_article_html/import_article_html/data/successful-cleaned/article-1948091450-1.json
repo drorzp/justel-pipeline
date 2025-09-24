@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1948091450",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"18-07-1977\" data-law-type=\"Convention\" data-article-number=\"\">\n          &lt;Convention 18-07-1977&gt;\n        </span>\n        Le portefeuille détenu par la Banque ensuite d'opérations faites conformément à l'article 11, 3° et 9°, de sa loi organique, ne pourra pas dépasser trente-huit milliards deux cent cinquante millions de francs, dont trente-sept milliards de francs pour les effets belges.\n      </p>\n      <p class=\"closing-text\">\n        L'Etat belge entend donner à l'utilisation de sa faculté de recours à la Banque Nationale dont il est question au premier alinéa, la mobilité normale d'une facilité de caisse affectée à la couverture de déficits de trésorerie en cours d'année. Cette utilisation ne dépassera pas, en moyenne, sur une période de trois ans, les deux tiers du montant susmentionné de trente-sept milliards.\n      </p>\n      <p class=\"closing-text\">\n        Le montant de trente-huit milliards deux cent cinquante millions de francs sera réexaminé de trois en trois ans, et pour la première fois en 1980; il sera éventuellement adapté par conventions additionnelles.\n      </p>\n      <p class=\"closing-text\">\n        En cas d'adaptation, le nouveau montant maximum sera déterminé en majorant le montant de seize milliards cinq cent trente-trois millions de francs fixé en 1968, à raison d'un pourcentage qui ne pourra pas dépasser le tiers du pourcentage d'augmentation des recettes courantes de l'Etat belge, y compris celles affectées hors budget, prévues pour l'année durant laquelle l'adaptation aura lieu, par rapport à celles réalisées en 1967, le résultat ainsi obtenu étant majoré d'un montant fixe de six milliards de francs.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.593Z",
+  "tokenUsage": {
+    "prompt": 2067,
+    "completion": 481,
+    "total": 2548
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010201753",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'application du présent arrêté, on entend par :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la loi : la loi du 27 décembre 2006 portant des dispositions diverses <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\" data-article-number=\"31\">(1)</span></span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'arrêté royal du 25 novembre 1991 : l'arrêté royal du 25 novembre 1991 portant réglementation du chômage</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">CCT n° 17 : la convention collective de travail n° 17 conclue le 19 décembre 1974 au sein du Conseil national du Travail, et rendue obligatoire par l'arrêté royal du 16 janvier 1975</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">groupe : tous les employeurs qui appartiennent tant à l'unité technique d'exploitation comprenant plusieurs entités juridiques qu' à l'entité juridique comprenant plusieurs unités techniques d'exploitation, à laquelle appartient l'employeur qui paie directement ou indirectement l'indemnité complémentaire visée à l'article 114, 2° et 3° de la loi.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.338Z",
+  "tokenUsage": {
+    "prompt": 1940,
+    "completion": 447,
+    "total": 2387
+  }
+}

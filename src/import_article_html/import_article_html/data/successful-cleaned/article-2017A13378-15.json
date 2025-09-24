@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017A13378",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si une personne transmet des informations via les canaux de communication spécifiques visés à l'article 11, alinéa 2, 2° et 3°, les membres du personnel spécialisés communiquent à cette personne, lors de leur conversation, les informations visées à l'article 4.</p>\n        <p>Les membres du personnel spécialisés consignent les informations transmises sous la forme d'un compte rendu précis et, dans le cas d'informations transmises lors d'une rencontre en personne, complet de la conversation.</p>\n        <p>Les membres du personnel spécialisés donnent à la personne concernée la possibilité de vérifier le compte rendu, de le rectifier et de l'approuver par l'apposition de sa signature, à moins que cette personne n'ait explicitement fait part de son souhait de ne pas être contactée ou que les membres du personnel spécialisés n'aient des motifs raisonnables de croire que cela compromettrait la protection de l'identité de cette personne.</p>\n        <p>Si le compte rendu de la conversation est transmis à la personne concernée, les informations visées à l'article 4 y sont jointes.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.581Z",
+  "tokenUsage": {
+    "prompt": 1788,
+    "completion": 343,
+    "total": 2131
+  }
+}

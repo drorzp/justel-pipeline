@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035420",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 29</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 137 du même décret, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au § 1er, il est ajouté un sixième alinéa, libellé comme suit :\n                    \" Lorsque le fonctionnaire instrumentant doit reprendre un acte de gré à gré dans un acte authentique et que le premier ne répond pas aux prescriptions de l'article 141, il attire l'attention des parties lors de l'établissement de l'acte aux articles 141, 146, premier alinéa, 4° et 162 du présent décret. \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au § 2, première phrase, les mots suivants sont ajoutés :\n                    \" lorsque le prêt ou le crédit n'a trait qu'au financement et à l'exécution des travaux soumis à une autorisation \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.248Z",
+  "tokenUsage": {
+    "prompt": 1748,
+    "completion": 313,
+    "total": 2061
+  }
+}

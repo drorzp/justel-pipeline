@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016024298",
+  "articleNumber": "55",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-55\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 55</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 18 de la même loi, dont le texte actuel formera le paragraphe 1er, il est inséré un paragraphe 2 rédigé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Sans préjudice des articles 57bis et 99bis du Code pénal, les condamnations définitives antérieures prononcées par les juridictions pénales d'un autre Etat partie à la Convention du Conseil de l'Europe sur la contrefaçon des produits médicaux et les infractions similaires menaçant la santé publique, faite à Moscou le 28 octobre 2011, sont prises en compte dans les mêmes conditions que les condamnations prononcées par les juridictions pénales belges pour les infractions visées aux articles 16, § 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et § 3,</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et 16bis, § 2,</span></li>\n        </ol>\n        <p class=\"closing-text\">6°, et elles produiront les mêmes effets juridiques que ces condamnations.\".</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.291Z",
+  "tokenUsage": {
+    "prompt": 1900,
+    "completion": 418,
+    "total": 2318
+  }
+}

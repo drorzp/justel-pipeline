@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020020950",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-06-26/07\" data-law-type=\"AR\" data-article-number=\"4\">\n        <p class=\"intro-text\">Le congé parental corona peut être exercé à partir du 1er mai 2020 jusqu'au 30 septembre 2020, comme suit:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">soit durant une période ininterrompue jusqu'au 30 septembre 2020 inclus;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">soit durant une ou plusieurs périodes d'un mois, consécutives ou non;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">soit durant une ou plusieurs périodes d'une semaine, consécutives ou non, ou;</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">soit une combinaison des 2° et 3°.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.226Z",
+  "tokenUsage": {
+    "prompt": 1818,
+    "completion": 363,
+    "total": 2181
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1927051251",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Il ne sera point logé de troupes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Dans les maisons (non compris les dépendances, écuries, granges, remises, etc.) où il se trouve soit une femme en couches, soit des personnes atteintes de maladies graves ou contagieuses, soit le corps d'une personne décédée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Dans les maisons mal famées ou de prostitution publique;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Dans les bâtiments réservés à l'hospitalisation des blessés, pour autant que l'autorité militaire les considère comme ambulances ou infirmeries annexes;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">Chez les indigents secourus par les bureaux de bienfaisance;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">Dans les couvents de religieuses soumises à la clôture, non compris les dépendances.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Les personnes tombant sous l'application des 1° et 2° ci-dessus sont tenues de fournir la prestation en nature ailleurs que dans leur domicile, à défaut de quoi il y sera pourvu à leurs frais par les soins des collèges des bourgmestre et échevins.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.583Z",
+  "tokenUsage": {
+    "prompt": 1993,
+    "completion": 458,
+    "total": 2451
+  }
+}

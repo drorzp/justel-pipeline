@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997009524",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 44 du même arrêté est modifié comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, les mots \" les articles 3, alinéas 1er, 1° et 4° et 2, 5, 6, alinéa 2, 28 et 29 \" sont remplacés par les mots \" les articles 3, alinéa 2, 6, alinéa 2, 28 et 29 \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'alinéa 2, les mots \" les articles 3, alinéas 1er, 1° et 4° et 2, 5, 6, alinéa 2, 10, 26, alinéa 1er, 28, 29 et 31 \" sont remplacés par les mots \" les articles 3, alinéa 2, 6, alinéa 2, 10, 26, alinéa 1er, 28, 29 et 31 \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.026Z",
+  "tokenUsage": {
+    "prompt": 2039,
+    "completion": 376,
+    "total": 2415
+  }
+}

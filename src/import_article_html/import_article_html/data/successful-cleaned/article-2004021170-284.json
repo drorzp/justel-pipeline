@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004021170",
+  "articleNumber": "284",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-284\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 284</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 50 de la même loi, sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">au § 1er, il est inséré entre les alinéas 1er et 2, un nouvel alinéa rédigé comme suit :</span>\n        <p>La personnalité juridique sera accordée si le ou les buts de l'association internationale sans but lucratif répondent aux conditions visées à l'article 46.</p>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">le § 3 est remplacé par la disposition suivante :</span>\n        <section class=\"paragraph\">\n          <h3 class=\"paragraph-marker\">§ 3.</h3>\n          <div class=\"paragraph-content\">\n            <p>Toute modification des mentions visées à l'article 48, alinéa 1er, 2°, est soumise à l'approbation royale. Les autres modifications des mentions statutaires, visées à l'article 48, 5° et 7° sont constatées par acte authentique.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.775Z",
+  "tokenUsage": {
+    "prompt": 1866,
+    "completion": 346,
+    "total": 2212
+  }
+}

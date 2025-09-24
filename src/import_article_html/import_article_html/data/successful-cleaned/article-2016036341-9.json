@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036341",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 3.2 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 27 février 2015, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 1° est remplacé par ce qui suit :<br>\" 1° les actes visés à l'art. 3.1, 1° à 5° et 8° à 13°, sont exécutés entièrement dans un rayon de 30 mètres d'un bâtiment principalement autorisé ou censé autorisé ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 3° est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.637Z",
+  "tokenUsage": {
+    "prompt": 1672,
+    "completion": 275,
+    "total": 1947
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011493",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 29</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le réviseur d'entreprises ne peut exercer des activités ou poser des actes incompatibles avec soit la dignité, la probité ou la délicatesse, soit avec l'indépendance de sa fonction.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le réviseur d'entreprises ne peut exercer des missions révisorales dans les situations suivantes:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">exercer la fonction d'employé, sauf auprès d'un autre réviseur d'entreprises;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">exercer une activité commerciale directement ou indirectement, entre autres en qualité d'administrateur d'une société commerciale; n'est pas visé par cette incompatibilité l'exercice d'un mandat d'administrateur dans des sociétés civiles à forme commerciale;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">exercer la fonction de ministre ou de secrétaire d'Etat.</span>\n          </li>\n        </ol>\n        <p>La disposition du 1° ne s'applique pas aux fonctions exercées dans l'enseignement.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>En ce qui concerne les dispositions des 1° et 2° visées au paragraphe 2, le Roi peut prévoir des exceptions. Il peut également déterminer les modalités d'octroi d'une dérogation par le Collège.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.240Z",
+  "tokenUsage": {
+    "prompt": 2034,
+    "completion": 537,
+    "total": 2571
+  }
+}

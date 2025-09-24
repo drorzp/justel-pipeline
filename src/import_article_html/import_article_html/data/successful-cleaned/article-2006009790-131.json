@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006009790",
+  "articleNumber": "131",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-131\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 131</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        A l'article 1er de l'arrêté royal du 29 septembre 2003 relatif à l'octroi d'un pécule de vacances à certains membres du personnel des services qui assistent le pouvoir judiciaire, modifié par l'arrêté royal du 4 mai 2005, sont apportées les modifications suivantes :\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Les experts, experts administratifs et experts-ICT des greffes et des secrétariats de parquet;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Les assistants et les collaborateurs des greffes et des secrétariats de parquet;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.825Z",
+  "tokenUsage": {
+    "prompt": 1807,
+    "completion": 331,
+    "total": 2138
+  }
+}

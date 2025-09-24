@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024204663",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'employeur dispose :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">d'une procédure qui permet de vérifier quels travailleurs du sexe sont présents au sein de son établissement ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">d'une procédure assurant la disponibilité de la personne de référence en continu, ainsi que d'une procédure de réponse au bouton d'urgence, visés à l'article 17, alinéa 1er, 3° et 5° de la loi, qui sont reprises dans le plan d'urgence interne tel que visé à l'article I.2-23 du code du bien-être au travail.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.740Z",
+  "tokenUsage": {
+    "prompt": 1651,
+    "completion": 264,
+    "total": 1915
+  }
+}

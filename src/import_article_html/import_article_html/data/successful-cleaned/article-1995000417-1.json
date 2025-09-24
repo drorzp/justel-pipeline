@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995000417",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'accomplissement des tâches ci-après énumérées, l'Office central d'action sociale et culturelle, en abrégé, \"l'OCASC\", organisme visé par la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, est autorisé à accéder, au profit des membres de la communauté militaire, aux informations visées à l'article 3, alinéa 1er, 1° à 3° et 5° à 9°, de la loi du 8 août 1983 organisant un Registre national des personnes physiques :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">pour la gestion administrative des fichiers, dossiers et répertoires qu'il tient en vue d'identifier les bénéficiaires de ses prestations ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">pour l'identification des personnes débitrices de sommes envers l'OCASC ou créancières de sommes dues par l'OCASC.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">L'accès visé à l'alinéa 1er est réservé :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au fonctionnaire dirigeant l'OCASC ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">aux membres de son personnel désignés par lui nommément et par écrit à cette fin en raison de leurs fonctions, à condition qu'ils soient titulaires d'un grade équivalent à celui du niveau 1 des agents de l'Etat.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.961Z",
+  "tokenUsage": {
+    "prompt": 2037,
+    "completion": 496,
+    "total": 2533
+  }
+}

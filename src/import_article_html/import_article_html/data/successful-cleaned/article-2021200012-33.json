@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021200012",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'arrêté royal n° 47 du 26 juin 2020 pris en exécution de l'article 5, § 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">de la loi du 27 mars 2020 accordant des pouvoirs au Roi afin de prendre des mesures dans la lutte contre la propagation du coronavirus COVID-19 en vue de l'octroi d'une prime temporaire aux bénéficiaires de certaines allocations d'assistance sociale, est confirmé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.794Z",
+  "tokenUsage": {
+    "prompt": 1599,
+    "completion": 247,
+    "total": 1846
+  }
+}

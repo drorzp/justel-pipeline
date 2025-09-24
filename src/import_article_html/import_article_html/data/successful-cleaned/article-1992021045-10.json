@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992021045",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le groupe CONCERE assume d'initiative les missions qui lui sont confiées en vertu de l'article 1er. Chaque Ministre ou Secrétaire d'Etat ayant l'énergie dans ses attributions peut en outre requérir son avis sur les matières qui font l'objet de sa mission.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le groupe CONCERE exerce sa mission en émettant des avis, propositions et recommandations, sauf en ce qui concerne les points:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1° de l'article 1er</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">2° de l'article 1er, ainsi que les cas spécifiques visés aux articles 4 et 6, pour lesquels il décide de la position ou de la composition à adopter, sans préjudice du droit d'évocation par un Ministre ou un Secrétaire d'Etat ayant l'énergie dans ses attributions ou par la Conférence interministérielle économie et énergie, pour autant que ce droit soit exercé avant la réunion internationale concernée.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans tous les cas, le groupe établit ses positions par consensus entre les parties contractantes représentées. Lorsque plusieurs membres effectifs ou suppléants représentant une même partie sont présents, seul l'un d'entre eux participe à la formation du consensus.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.086Z",
+  "tokenUsage": {
+    "prompt": 1974,
+    "completion": 522,
+    "total": 2496
+  }
+}

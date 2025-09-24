@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017204064",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 33</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Dans les cas visés à l'article 32, § 1er,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">la demande de nouvelle répartition des crédits doit être approuvée par le Ministre du Budget, dans un délai de quinze jours, avant toute mise à exécution, excepté lorsqu'elle concerne des crédits de liquidation non limitatifs, auquel cas elle peut combler a postériori un dépassement de crédits.</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.556Z",
+  "tokenUsage": {
+    "prompt": 1575,
+    "completion": 261,
+    "total": 1836
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032546",
+  "articleNumber": "534/208",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-534/208\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 534/208</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la présente partie, on entend par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">demande : la demande d'intervention pour un accompagnement</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">\n            date de réception : la date d'envoi de l'accusé de réception de la demande complète dans le cas d'une demande introduite par le biais d'une application numérique telle que visée à l'article 534/221. Si le numéro NISS de l'usager est inconnu, la date de réception est celle à laquelle la demande complète a été reçue. En cas d'expédition d'un envoi recommandé, il s'agit de la date de la poste de la lettre par laquelle la demande complète a été expédiée. Si la date de la poste fait défaut, c'est la date à laquelle la caisse d'assurance soins à laquelle l'usager est affilié a reçu une demande complète.\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-11-10/17\" data-law-type=\"AGF\" data-article-number=\"30\">\n              La caisse d'assurance soins considère une demande comme complète si les éléments mentionnés dans l'article 534/212, 1° et 2°, ont été introduits auprès de la caisse d'assurance soins.\n            </span>\n          </span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.413Z",
+  "tokenUsage": {
+    "prompt": 2240,
+    "completion": 422,
+    "total": 2662
+  }
+}

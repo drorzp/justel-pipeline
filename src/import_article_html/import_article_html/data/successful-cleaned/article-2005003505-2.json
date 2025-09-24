@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005003505",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 205, § 2, du Code des impôts sur les revenus 1992, modifié par les lois des 28 juillet 1992 et 20 décembre 1995, par l'arrêté royal du 20 décembre 1996 et par la loi du 28 avril 2003, est complété par un alinéa 2 et 3 rédigés comme suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les diminutions énumérées à l'alinéa 1er ne s'appliquent pas aux revenus visés à l'article 202, § 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1°</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3°, alloués ou attribués par une société filiale établie dans un Etat membre de l'Union européenne.</span>\n            </li>\n          </ol>\n          <p>Pour l'application de l'alinéa précédent, on entend par société filiale, la société filiale telle qu'elle est définie dans la directive du 23 juillet 1990 (90/435/CE) concernant le régime fiscal commun applicable aux sociétés mères et filiales d'Etats membres différents.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.747Z",
+  "tokenUsage": {
+    "prompt": 1847,
+    "completion": 423,
+    "total": 2270
+  }
+}

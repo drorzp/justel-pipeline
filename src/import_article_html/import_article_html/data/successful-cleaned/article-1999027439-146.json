@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999027439",
+  "articleNumber": "146",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-146\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 146</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 14 du même décret, les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">sont abroges et les</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">2°, 3°,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">deviennent respectivement les</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">1°,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">3°. Au:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">nouveau du même article, c, remplacer les mots &quot; suivant l'une des modalités prévues à l'article 13 &quot; par les mots &quot; suivant l'une des modalités prévues à l'article 55 du décret du 11 mars 1999 relatif au permis d'environnement &quot;. Les termes &quot; la remise en état des installations ou &quot; et le terme &quot; autre &quot; sont supprimés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.289Z",
+  "tokenUsage": {
+    "prompt": 1782,
+    "completion": 450,
+    "total": 2232
+  }
+}

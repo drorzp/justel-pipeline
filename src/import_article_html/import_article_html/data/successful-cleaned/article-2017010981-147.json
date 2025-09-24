@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010981",
+  "articleNumber": "147",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-147\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 147</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>\n            L'OPCA publie chaque suspension de la valeur nette d'inventaire\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-10-15/08\" data-law-type=\"AR\" data-article-number=\"28\">\n              à l'endroit mentionné dans le prospectus\n            </span>.\n          </p>\n          <p>\n            Dans le cas visé à l'article 145, alinéa 1er, 4° et 5°, et alinéa 2, la publication par insertion dans la convocation à l'assemblée générale compétente des participants suffit.\n          </p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.747Z",
+  "tokenUsage": {
+    "prompt": 1702,
+    "completion": 262,
+    "total": 1964
+  }
+}

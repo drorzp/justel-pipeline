@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015201470",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 80, § 1er, du même décret est complété par un 4° et un 5°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">les personnes morales mentionnées à l'article 11 du décret du 18 mars 2002 relatif à l'infrastructure qui, conformément audit décret, peuvent obtenir de la Communauté germanophone des subsides pour des projets de construction et/ou d'équipement dans le domaine culturel;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">les ateliers soutenus conformément au décret du 16 décembre 2003 relatif à la promotion des ateliers créatifs.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.191Z",
+  "tokenUsage": {
+    "prompt": 1664,
+    "completion": 268,
+    "total": 1932
+  }
+}

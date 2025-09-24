@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030134",
+  "articleNumber": "86",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-86\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 86</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'intitulé de la section V du chapitre 2 du titre VI du même décret et dans les articles 96, alinéas 1 et 2, 98, 1°, 100, 3°, 100, 4°, 100, 6°, 100, 9° et 101, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le mot &quot; structures &quot; est à chaque fois remplacé par le mot &quot; plateformes &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le mot &quot; structure &quot; est à chaque fois remplacé par le mot &quot; plateforme &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.729Z",
+  "tokenUsage": {
+    "prompt": 1674,
+    "completion": 284,
+    "total": 1958
+  }
+}

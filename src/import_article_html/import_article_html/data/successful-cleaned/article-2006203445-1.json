@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006203445",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article 463, 2° et 3°, de l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la Fonction publique wallonne, peut faire choix du régime de la semaine volontaire de quatre jours :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le membre du personnel contractuel engagé dans le cadre d'un contrat de travail de remplacement ou dans le cadre de plusieurs contrats de travail de remplacement successifs dans le même ministère ou organisme d'intérêt public;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le membre du personnel contractuel engagé pour répondre à des besoins exceptionnels et temporaires en personnel.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.900Z",
+  "tokenUsage": {
+    "prompt": 1664,
+    "completion": 271,
+    "total": 1935
+  }
+}

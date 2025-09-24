@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007009412",
+  "articleNumber": "185",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-185\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 185</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le Roi fixe la date d'entrée en vigueur de chacune des dispositions de la présente loi, au plus tard 18 mois après sa publication au Moniteur belge, à l'exception :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">des articles 135, § 1er, 144, § 1er, 150, 2° et 4°, 166 et 185;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">des articles 39, 1° et 5°, et 138, § 1er, qui entrent en vigueur le 1er décembre 2006.</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">des articles 167 à 169, qui entrent en vigueur au plus tard le 1er janvier 2011.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2008-07-24/36\" data-law-type=\"L\" data-article-number=\"9\" data-effective-date=\"17-08-2008\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008072436\">&lt;L 2008-07-24/36, art. 9, 003; En vigueur : 17-08-2008&gt;</span>\n                (NOTE : la date d'entrée en vigueur de l'article 150 détermine celle de l'art. 2 de l'<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-05-25/32\" data-law-type=\"AM\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007052532\">&lt;AM 2007-05-25/32&gt;</span>.)\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.790Z",
+  "tokenUsage": {
+    "prompt": 2116,
+    "completion": 566,
+    "total": 2682
+  }
+}

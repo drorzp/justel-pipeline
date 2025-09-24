@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016410",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même arrêté, il est inséré un article 9.12, rédigé comme suit:</p>\n      <blockquote>\n        <p class=\"quoted-text\">\" Art. 9.12. Par dérogation à l'article 4.22, § 3, l'expérience nécessaire des examinateurs peut être prouvée jusqu'au 31 décembre 2024 pour les dispositions reprises aux points:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1° à</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">4° inclus et</span>\n          </li>\n          <li class=\"provision\" data-number=\"7°\">\n            <span class=\"provision-text\">7° de cet article par toute information utile et l'examinateur doit déclarer que ces conditions d'expérience sont remplies.</span>\n          </li>\n        </ol>\n        <p class=\"quoted-text\">Jusqu'au 31 décembre 2026, l'expérience récente qui est exigée pour les dispositions reprises aux points:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"5°\">\n            <span class=\"provision-text\">5° et</span>\n          </li>\n          <li class=\"provision\" data-number=\"6°\">\n            <span class=\"provision-text\">6° peut être prouvée par toute information utile et l'examinateur doit déclarer que ces conditions d'expérience sont remplies.</span>\n          </li>\n        </ol>\n        <p class=\"quoted-text\">\"</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.220Z",
+  "tokenUsage": {
+    "prompt": 1805,
+    "completion": 463,
+    "total": 2268
+  }
+}

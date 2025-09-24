@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004834",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En cas de doute sur la véracité de la demande introduite conformément à l'article 8, § 1er, ou des données visées à l'article 13, § 2, alinéa 1er, 2°, et alinéa 2, 1°, les fonctionnaires désignés à l'article 16, alinéa 3, peuvent effectuer des contrôles dans la résidence principale indiquée par le demandeur de la prime tarif social, y compris les parties communes et les locaux techniques de l'immeuble dans lequel se trouve la résidence principale indiquée.</p>\n      <p class=\"intro-text\">Dans l'exercice de l'alinéa 1er, les fonctionnaires désignés à l'article 16, alinéa 3, disposent des pouvoirs tels qu'énumérés à l'article XV.3, alinéa 1er, 1°, 2°, 3° et 5° et à l'article XV.4 du Code de droit économique.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.422Z",
+  "tokenUsage": {
+    "prompt": 1835,
+    "completion": 298,
+    "total": 2133
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998003665",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 211 du même Code, remplacé par l'article 3 de la loi du 6 août 1993 et modifié par l'article 102 de la loi du 21 décembre 1994 et par l'article 5 de la loi du 16 avril 1997, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le § 1er, alinéa 1er, 1°, est remplacé par la disposition suivante : \"1° les plus-values visées aux articles 44, § 1er, 1° et 47, qui sont exonérées au moment de l'opération, les subsides en capital visés à l'article 362 qui, au moment de l'opération, ne sont pas encore considérés comme des bénéfices, ainsi que les plus-values réalisées ou constatées à l'occasion de cette opération, n'interviennent pas pour l'imposition prévue à l'article 208, alinéa 2, ou à l'article 209;\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le § 1er, alinéa 1er, 2°, les mots \"émises en rémunération des apports\" sont remplacés par les mots \"émises à cette fin\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le § 2, alinéa 2, les mots \"réserves immunisées\" sont remplacés par les mots \"réserves exonérées\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le § 2, alinéa 4, est remplacé par la disposition suivante : \"Aucune réduction n'est imputée sur les plus-values et subsides en capital visés au § 1er, alinéa 1er, 1°, ni aux réductions de valeur et provisions exonérées visées à l'article 48, qui se retrouvent comme telles dans la comptabilité des sociétés absorbantes ou bénéficiaires.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.076Z",
+  "tokenUsage": {
+    "prompt": 2248,
+    "completion": 588,
+    "total": 2836
+  }
+}

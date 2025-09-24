@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035585",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article XIV 5 du même statut, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au § 2, modifié par les arrêtés du Gouvernement flamand des 23 décembre 1993, 26 juin 1996, 14 janvier 1997, 28 avril 1998, 19 décembre 1998, 16 mars 1999, 29 juin 1999, 28 janvier 2000 et 14 avril 2000, il est ajouté un point 27° rédigé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"27°\">\n              <span class=\"provision-text\">\" 27° 1 emploi de manager TIC auprès de l'entité Gestion et Contrôle de l'Informatique \";</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au § 3, premier alinéa, modifié par les arrêtés du Gouvernement flamand des 14 janvier 1997, 28 avril 1998, 19 décembre 1998 et 28 janvier 2000, les mots \"§ 2, 19° à 22° inclus et 24°\" sont remplacés par les mots \"§ 2, 19° à 22° inclus, 24° et 27°\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.248Z",
+  "tokenUsage": {
+    "prompt": 2147,
+    "completion": 434,
+    "total": 2581
+  }
+}

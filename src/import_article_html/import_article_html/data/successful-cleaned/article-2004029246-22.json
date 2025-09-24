@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004029246",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application des articles 20, § 1er, alinéa 2, 5° et 21, § 1er, alinéa 2, 6°, l'avis mentionne, par zone, par établissement et par fonction :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le nombre total d'emplois vacants, peu importe le nombre d'heures que comportent ces emplois, avec la précision de ce nombre d'heures par emploi;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le nombre d'emplois vacants que la commission propose d'attribuer à des stagiaires. Cette proposition est motivée pour chaque emploi.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.785Z",
+  "tokenUsage": {
+    "prompt": 1717,
+    "completion": 277,
+    "total": 1994
+  }
+}

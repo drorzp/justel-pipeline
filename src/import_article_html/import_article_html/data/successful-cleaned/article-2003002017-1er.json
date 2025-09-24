@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003002017",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 8 de l'arrêté royal du 29 octobre 2001 relatif à la désignation et à l'exercice des fonctions de management dans les services publics fédéraux est inséré un § 4, rédigé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>Tout candidat ayant déjà participé à un assessment et qui conformément au § 2, 2°, a été apprécié \" très apte \", \" apte \" ou \" moins apte \" peut, à sa demande et de manière irrévocable, pendant un délai de deux ans prenant cours à dater du moment où il est informé de son classement, obtenir une dispense de participation à l'assessment visé au § 2, 2°, pour toute fonction de management de poids équivalent ou inférieur. Dans ce cas, il conserve l'appréciation qui lui a été attribuée conformément au § 2, 2° et le § 2, 2°, alinéa 2, dernière phrase et alinéa 3 n'est pas d'application.</p>\n        <p>Cette disposition s'applique aux sélections comparatives pour lesquelles l'assessment n'a pas encore été organisé ainsi qu'aux sélections qui doivent être recommencées.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.836Z",
+  "tokenUsage": {
+    "prompt": 1888,
+    "completion": 367,
+    "total": 2255
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004202463",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sont exonérées de la taxe les superficies relatives à :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">des terrils au sens de la législation wallonne concernant la valorisation des terrils;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">des centres d'enfouissement technique tels que définis à l'article 2, 18°, du décret du 27 juin 1996 relatif aux déchets;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-07-20/46\" data-law-type=\"DRW\" data-article-number=\"79\">des sites à réaménager</span> pour lesquels le Gouvernement wallon, par l'intermédiaire d'un opérateur, se charge des travaux de réhabilitation;\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">des sites où ont été extraites et mises en valeur des masses de substances minérales ou fossiles renfermées dans le sein de la terre ou existant à la surface;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">des voies de chemins de fer désaffectées.</span>\n        </li>\n      </ol>\n      <p>Les dépendances bâties des sites visés aux points 1° et 4° ne sont pas exonérées de la taxe.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.708Z",
+  "tokenUsage": {
+    "prompt": 1981,
+    "completion": 471,
+    "total": 2452
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045513",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-7\">\n      <h3 class=\"paragraph-marker\">§ 7.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">\n          Sont dispensés de suivre les formations visées au § 4, 2° et 2/1°, pour autant qu'ils puissent démontrer d'une connaissance suffisante en matière de gestion de projet, de troubles cognitifs ou démences, ainsi que d'une formation suffisante à la communication indiquée dans l'accompagnement et les soins d'une personne présentant des troubles cognitifs :\n        </p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">les praticiens de l'art infirmier (bachelor ou équivalent) ayant le titre d'infirmier spécialisé en gériatrie ou une licence ou un master en gérontologie ou en gériatrie ainsi que les \"bachelors na bachelor opleiding psychosociale gerontologie\".</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">\n          Pour les formations visées à l'alinéa précédent, les demandes de reconnaissance, accompagnées des pièces justificatives nécessaires, sont adressées par les institutions, les individus concernés ou les organismes de formation à Iriscare qui leur répond dans les 60 jours. La liste des formations reconnues est publiée sur le site web d'Iriscare.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.397Z",
+  "tokenUsage": {
+    "prompt": 1867,
+    "completion": 389,
+    "total": 2256
+  }
+}

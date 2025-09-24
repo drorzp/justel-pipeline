@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011464",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-10-29/18\" data-law-type=\"ARR\" data-article-number=\"2\">\n        Les membres du personnel contractuel bénéficient des mêmes congés que ceux prévus aux chapitres III, V et VIII du titre VII \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2025-03-20/06\" data-law-type=\"ARR\" data-article-number=\"20\">, et au titre XII</span> \n        du Livre Ier du statut, pour autant que ce régime soit plus favorable que celui prévu par loi du 3 juillet 1978 relative aux contrats de travail et les lois particulières.  \n        Ces congés sont octroyés selon les modalités applicables au personnel statutaire.  \n        Pour ce qui concerne le chapitre III du titre VII du livre Ier du statut, le départ anticipé à la pension à mi-temps ne s'applique pas.  \n        Pour ce qui concerne le chapitre V du titre VII du livre Ier du statut, lorsque le membre du personnel contractuel est en absence pour maladie, autre que professionnelle, ou accident, autre qu'accident de travail ou sur le chemin du travail, et que la durée de l'assimilation, visée à l'article 43, alinéa 1, \n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">de l'arrêté royal du 30 mars 1967 déterminant les modalités générales d'exécution des lois relatives aux vacances annuelles des travailleurs salariés, est dépassée, les absences donnent lieu à une réduction proportionnelle du congé de vacances.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.684Z",
+  "tokenUsage": {
+    "prompt": 2164,
+    "completion": 501,
+    "total": 2665
+  }
+}

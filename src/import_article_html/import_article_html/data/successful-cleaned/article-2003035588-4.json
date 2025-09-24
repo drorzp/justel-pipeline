@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003035588",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 8, § 2 de l'AGF du 24 juillet 2001, les 2° et 3° sont remplacés par les dispositions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les descriptions de projets sur la base des plans de gestion des STC; à partir de l'appel pour la période 2004-2006, les descriptions de projets sont établies par le STC en concertation avec l'agence et approuvées par le STC;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">la mention des groupes cibles que l'appel veut atteindre et sur base desquels le promoteur formule son engagement en matière de groupes cibles;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.721Z",
+  "tokenUsage": {
+    "prompt": 1684,
+    "completion": 280,
+    "total": 1964
+  }
+}

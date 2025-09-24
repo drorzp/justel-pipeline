@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032546",
+  "articleNumber": "181",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-181\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 181</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les interventions rétroactives telles que visées à l'article 60 du décret du 18 mai 2018 sont effectuées aux conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les interventions rétroactives sont limitées à six mois maximum ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le premier mois, l'intervention rétroactive n'est pas exécutée.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Une intervention est considérée comme rétroactive lorsque la date de la demande tombe au cours d'un mois qui suit la date du droit à l'ouverture d'une intervention visé à l'article 83, alinéa 1er, 1° et 2°, du décret du 18 mai 2018.</p>\n      <p class=\"closing-text\">Le ministre fixe les formalités administratives à remplir pour exercer le droit aux interventions rétroactivement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.407Z",
+  "tokenUsage": {
+    "prompt": 1731,
+    "completion": 319,
+    "total": 2050
+  }
+}

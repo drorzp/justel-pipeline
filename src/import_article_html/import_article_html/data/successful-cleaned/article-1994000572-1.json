@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994000572",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 7, § 1er, alinéa 1er, de l'arrêté royal du 24 octobre 1983 relatif au statut pécuniaire des membres du personnel de la gendarmerie, est remplacé par la disposition suivante : &quot; Sont également pris en considération pour l'octroi des augmentations intercalaires :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les services effectifs, au sens de l'article 15, 1° et 2°, de l'arrêté royal du 29 juin 1973 portant statut pécuniaire du personnel des ministères, que le membre du personnel de la gendarmerie a accomplis à partir de l'âge fixé par catégorie dans les services, établissements, offices et centres visés à l'article 14 du même arrêté;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les services à temps plein que le membre du personnel de la gendarmerie a prestés antérieurement dans les administrations et les autres services des ministères comme contractuel engagé conformément aux dispositions de l'article 8 de l'arrêté royal n° 56 du 16 juillet 1982 relatif au recrutement dans certains services publics, modifié par la loi du 20 février 1990. &quot;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.066Z",
+  "tokenUsage": {
+    "prompt": 1925,
+    "completion": 403,
+    "total": 2328
+  }
+}

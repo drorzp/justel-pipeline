@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003022291",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 68 du même arrêté, modifié par les arrêtés royaux des 6 août 1968, 17 juillet 1979 et 18 mars 1982, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans le point 2°, </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">les mots \" articles 16, 3° et 17° et 41, 3° et 15° \" sont remplacés par les mots \" articles 16, 3°, 4° et 10°, et 41, 3°, 4° et 10° \";</li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le point 2°, </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"b)\">les mots \" articles 16, 1° et 2°, 4° à 13° inclus, 18° et 19°, et 41, 1° et 2°, 4° à 13° inclus, 16° et 17° \" sont remplacés par les mots \" articles 16, 1° et 2°, 5° à 9° inclus, 12°, 15° et 16°, et 41, 1° et 2°, 5° à 9° inclus, 12° à 14° \".</li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.764Z",
+  "tokenUsage": {
+    "prompt": 1990,
+    "completion": 463,
+    "total": 2453
+  }
+}

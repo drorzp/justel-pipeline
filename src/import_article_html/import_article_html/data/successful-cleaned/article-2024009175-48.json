@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024009175",
+  "articleNumber": "48",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-48\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 48</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 7 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 15 avril 2016, à l'alinéa 3, les phrases \" Cela ne s'applique pas à la situation visée à l'article 9, en ce qui concerne les documents énoncés à l'alinéa 2, 3° et 4°. Les personnes se trouvant dans cette situation sont bel et bien tenues de joindre les documents en question au formulaire de demande. \" sont remplacées par les phrases \" Cela ne s'applique pas dans la situation visée à l'article 9, pour le document visé à l'alinéa 2, 4°. Les personnes se trouvant dans cette situation sont toutefois tenues de joindre le document en question au formulaire de demande.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.467Z",
+  "tokenUsage": {
+    "prompt": 1755,
+    "completion": 256,
+    "total": 2011
+  }
+}

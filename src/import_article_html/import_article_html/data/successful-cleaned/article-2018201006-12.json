@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018201006",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'allocation mensuelle de base visée à l'article 9 est majorée d'un supplément mensuel pour famille monoparentale de :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">20 euros par enfant lorsque les revenus sont inférieurs à 30.386,48 euros bruts annuels;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">10 euros par enfant lorsque les revenus se situent entre le plafond visé au 1° et 50.000 euros bruts annuels.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le Gouvernement détermine les personnes et les revenus à prendre en considération pour la détermination des plafonds visés à l'alinéa 1er. Ce supplément est accordé si l'allocataire désigné conformément à l'article 22 ne forme pas un ménage de fait avec une personne autre qu'un parent ou allié jusqu'au troisième degré inclusivement, ni n'est marié, sauf si le mariage est suivi d'une séparation de fait. La séparation de fait doit apparaître de la résidence principale séparée des personnes en cause, au sens de l'article 32, 3°, du Code judiciaire, exception faite des cas dans lesquels il ressort d'autres documents officiels produits à cet effet, que la séparation de fait est effective bien qu'elle ne corresponde pas ou plus avec l'information obtenue auprès du Registre national des personnes physiques. N'est pas considérée comme une séparation de fait, la situation des époux qui, alors qu'aucune rupture entre eux n'est avérée, font volontairement le choix de ne pas se domicilier à la même adresse ou qui, pour des raisons administratives, ne sont pas en mesure de le faire.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.321Z",
+  "tokenUsage": {
+    "prompt": 2093,
+    "completion": 487,
+    "total": 2580
+  }
+}

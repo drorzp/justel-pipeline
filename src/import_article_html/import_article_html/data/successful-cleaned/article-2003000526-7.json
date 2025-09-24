@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003000526",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Il est inséré dans la même loi, à la place de l'article 20bis, qui devient l'article 20ter, un article 20bis nouveau, libellé comme suit :</p>\n    <p>Art. 20bis.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Comité permanent P exerce à l'égard des membres de son Service d'Enquêtes détachés de la police fédérale et de la police locale les compétences visées aux articles 19, 1° et 2°, et 20, 1° et 2°, de la loi du 13 mai 1999 portant le statut disciplinaire des membres du personnel des services de police.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsqu'un membre du personnel de la police fédérale ou de la police locale est, au moment des faits qui lui sont reprochés, membre du Service d'enquêtes du Comité permanent P, il reste soumis pour ces faits à l'autorité disciplinaire du Comité permanent P.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans les cas prévus aux §§ 1er et 2, un membre du Comité permanent P siège en tant qu'assesseur au conseil de discipline en lieu et place de l'assesseur prévu à l'article 40, alinéa 1er, 2°, de la loi du 13 mai 1999 portant le statut disciplinaire des membres du personnel des services de police.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.836Z",
+  "tokenUsage": {
+    "prompt": 2156,
+    "completion": 496,
+    "total": 2652
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012021152",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 191, alinéa 1er, de la même loi, modifié en dernier lieu par la loi du 22 juin 2012, est complété par le 31° et le 32°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"31°\">\n          <span class=\"provision-text\">Pour l'année 2013, il est instauré une contribution compensatoire à charge des firmes réalisant sur le marché belge un chiffre d'affaires avec des médicaments inscrits dans la liste des spécialités pharmaceutiques remboursables.\n          Le montant de cette contribution s'élève à 0,13 % du chiffre d'affaires qui a été réalisé en 2013 et est versé par le biais d'un acompte et d'un solde. Ce dernier étant la différence entre la contribution même et l'acompte payé.\n          L'acompte, fixé à 0,13 % du chiffre d'affaires réalisé en 2012, est versé avant le 1er juin 2013 sur le compte de l'Institut national d'assurance maladie-invalidité, en indiquant, la mention \" Acompte contribution compensatoire 2013 \" et le solde est versé avant le 1er juin 2014 sur ce même compte avec la mention \" Solde contribution compensatoire 2013 \".\n          Les modalités concernant la déclaration des chiffres d'affaire et le recouvrement par le service sont identiques à celles reprises au 15°.\n          Les recettes qui résultent de cette contribution compensatoire sont inscrites dans les comptes de l'assurance obligatoire soins de santé pour l'année comptable 2013.</span>\n        </li>\n        <li class=\"provision\" data-number=\"32°\">\n          <span class=\"provision-text\">les contributions qui sont payées en exécution de l'article 224, § 1er/1, de la loi du 12 aout 2000 portant des dispositions sociales, budgétaires et diverses.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.189Z",
+  "tokenUsage": {
+    "prompt": 2169,
+    "completion": 522,
+    "total": 2691
+  }
+}

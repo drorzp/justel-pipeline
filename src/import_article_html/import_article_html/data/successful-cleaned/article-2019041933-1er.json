@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041933",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\">1er</span>.</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2, 1er alinéa, de l'arrêté ministériel du 30 avril 2019 fixant les exigences de qualité minimales pour les équipes multidisciplinaires reconnues par l'Agence flamande pour les Personnes Handicapées, il est inséré un point 2° entre le point 1° et le point 2°, qui devient le point 3°, rédigé comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">\" expert en dispositifs : une personne titulaire d'un diplôme de bachelor en ergothérapie ou une personne titulaire d'un autre diplôme de bachelor qui était déjà employée comme expert en dispositifs auprès de l'équipe avant l'entrée en vigueur du présent arrêté ministériel sur la base de l'expérience qu'il a acquise en matière d'assistance matérielle individuelle ; \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.478Z",
+  "tokenUsage": {
+    "prompt": 1742,
+    "completion": 306,
+    "total": 2048
+  }
+}

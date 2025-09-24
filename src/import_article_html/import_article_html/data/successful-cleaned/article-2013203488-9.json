@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013203488",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 4,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">produit ses effets le 1er janvier 2013.</span>\n          </li>\n        </ol>\n        <p>Pour l'année 2013, la Société wallonne verse à la société le complément de subvention qui résulte de l'augmentation des montants visés à l'article 31, § 2, de l'arrêté du Gouvernement wallon du 31 janvier 2008 relatif aux comités consultatifs de locataires et de propriétaires auprès des sociétés de logement de service public, dans le mois de l'entrée en vigueur du présent arrêté.</p>\n        <p>La société liquide au comité ce complément de subvention dans le mois du versement de ce complément par la Société wallonne.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.206Z",
+  "tokenUsage": {
+    "prompt": 1689,
+    "completion": 327,
+    "total": 2016
+  }
+}

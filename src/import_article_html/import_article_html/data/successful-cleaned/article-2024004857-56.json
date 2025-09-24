@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004857",
+  "articleNumber": "56",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-56\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 56</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans la même sous-section II, il est inséré un article 331/41 rédigé comme suit: \"Art. 331/41.</p>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les absences du magistrat pendant cette période de prestations réduites sont assimilées à une période d'activité de service. Le magistrat visé à l'article 331/39, alinéa 1er, 1°, 2° et 3°, bénéficie de son traitement majoré des allocations et des primes.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les prestations réduites pour raisons médicales, visées à l'article 331/39, alinéa 1er, 2° et 3°, sont suspendues par:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">les congés dans le cadre de la protection de la maternité;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">le congé parental;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">l'exercice à temps partiel de la fonction à partir de cinquante-sept ou soixante ans;</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">les congés d'aidant.</span>\n          </li>\n        </ol>\n        <p>L'autorisation d'effectuer des prestations réduites pour raisons médicales est temporairement interrompue lors d'une absence pour maladie, pour un accident du travail, pour un accident survenu sur le chemin du travail et pour une maladie professionnelle.\"</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.423Z",
+  "tokenUsage": {
+    "prompt": 2061,
+    "completion": 528,
+    "total": 2589
+  }
+}

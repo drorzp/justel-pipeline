@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047551",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 1er, alinéa 1er, les mots \" d'étanchéité et de stabilité \" sont abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 1, alinéa 1er, les</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"3°\">\n              <span class=\"provision-text\">3°</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"5°\">\n              <span class=\"provision-text\">5° sont abrogés ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au paragraphe 2, les mots</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°\">\n              <span class=\"provision-text\">1°</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"2°\">\n              <span class=\"provision-text\">2°\" sont abrogés ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">au paragraphe 2, les mots \" enregistrement du premier rapport de suivi de travaux \" sont remplacés par les mots \" accusé de réception de la première demande de prime travaux \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.486Z",
+  "tokenUsage": {
+    "prompt": 1918,
+    "completion": 500,
+    "total": 2418
+  }
+}

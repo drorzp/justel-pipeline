@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004036698",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'emploi du nombre de travailleurs fixé à l'article 3, 2°, 3° et 4°, du décret, est déterminé sur la base du nombre de travailleurs occupés dans l'entreprise pendant la période de référence.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour l'application du présent article, on entend par période de référence la période d'emploi pendant les quatre derniers trimestres que l'Office national de Sécurité sociale peut attester et qui sont disponibles dans une banque de données centralisée.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>La preuve de l'emploi d'ouvriers portuaires dans des entreprises qui relèvent des différentes commissions paritaires des ports est fournie par des attestations des organisations patronales dans les différents ports.</p>\n                <p>Pour le calcul du nombre d'ouvriers portuaires, le nombre de tâches prestées pendant la période de référence est divisé par le nombre moyen de tâches prestées pendant cette période.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.694Z",
+  "tokenUsage": {
+    "prompt": 1910,
+    "completion": 398,
+    "total": 2308
+  }
+}

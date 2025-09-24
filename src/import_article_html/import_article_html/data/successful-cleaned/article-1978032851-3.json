@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1978032851",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sans préjudice des dispositions du paragraphe 2 du présent article, les dispositions de l'Arrangement administratif du 6 janvier 1969 relatif aux modalités d'application de la Convention générale sur la sécurité sociale entre le Royaume de Belgique et la République de Turquie, à l'exception de l'article 1er-</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et de l'article 2, sont appliquées par analogie, aux marins de la marine marchande.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour l'application des dispositions du présent Arrangement, il y a lieu d'entendre, pour ce qui concerne la Belgique, par :</p>\n        <ul>\n          <li class=\"sub-provision\" data-marker=\"institution compétente\">\n            <span class=\"provision-text\">la Caisse de secours et de prévoyance en faveur des marins naviguant sous pavillon belge;</span>\n          </li>\n          <li class=\"sub-provision\" data-marker=\"institution centralisatrice\">\n            <span class=\"provision-text\">là où l'Institut national d'assurance maladie-invalidité est désigné : La Caisse de secours et de prévoyance en faveur des marins naviguant sous pavillon belge.</span>\n          </li>\n        </ul>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.744Z",
+  "tokenUsage": {
+    "prompt": 1851,
+    "completion": 441,
+    "total": 2292
+  }
+}

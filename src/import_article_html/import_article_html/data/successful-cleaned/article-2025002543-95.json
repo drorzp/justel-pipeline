@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025002543",
+  "articleNumber": "95",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-95\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 95</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 du Code, les points 8° et 9° sont remplacés par ce qui suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">plan budgétaire et structurel national à moyen terme: le plan budgétaire et structurel national à moyen terme visé aux articles 11 et suivants du Règlement (CE) n° 2024/1263 du Parlement européen et du Conseil du 29 avril 2024 relatif à la coordination efficace des politiques économiques et à la surveillance budgétaire multilatérale et abrogeant le règlement (CE) n° 1466/97 du Conseil;</span>\n        </li>\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">rapport d'avancement annuel: le rapport d'avancement annuel, visé à l'article 21 du Règlement (CE) n° 2024/1263 du Parlement européen et du Conseil du 29 avril 2024 relatif à la coordination efficace des politiques économiques et à la surveillance budgétaire multilatérale et abrogeant le règlement (CE) n° 1466/97 du Conseil;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.715Z",
+  "tokenUsage": {
+    "prompt": 1853,
+    "completion": 363,
+    "total": 2216
+  }
+}

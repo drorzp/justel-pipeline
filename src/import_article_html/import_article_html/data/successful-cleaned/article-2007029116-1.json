@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007029116",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'Arrêté de l'Exécutif de la Communauté française du 22 avril 1969 fixant les titres requis des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique, du personnel social des établissements d'enseignement préscolaire, primaire, spécial, moyen, technique, artistique, de promotion sociale et supérieur non universitaire de la Communauté française et des internats dépendant de ces établissements, les modifications suivantes sont introduites :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">A l'article 9, sous la rubrique \" 3. professeur de morale \", les termes \" sciences morales \" sont remplacés par le terme \" philosophie \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">A l'article 9bis, il convient d'insérer après les termes \" philologie classique \" les termes \" ou langues et littératures modernes et anciennes pour ce qui concerne la langue ancienne mentionnée au diplôme \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"c)\">\n          <span class=\"provision-text\">A l'article 13septies, aux points 10° et 11°, il convient d'insérer entre les termes \" groupe sciences économiques \" et les termes \" et groupe sciences commerciales \" les termes suivants \", groupe sciences de gestion \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.962Z",
+  "tokenUsage": {
+    "prompt": 1928,
+    "completion": 414,
+    "total": 2342
+  }
+}

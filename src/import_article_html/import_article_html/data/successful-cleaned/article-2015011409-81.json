@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015011409",
+  "articleNumber": "81",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-81\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 81</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 39, &sect; 1er, alin&eacute;a 1er, de la m&ecirc;me loi, ins&eacute;r&eacute; par la loi du 18 janvier 2010 et modifi&eacute; par la loi du 26 novembre 2011, les modifications suivantes sont apport&eacute;es :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \"articles 2, &sect; 1er, 1&deg;, 2&deg;, 4&deg; &agrave; 15&deg;, 3 et 4\" sont remplac&eacute;s par les mots \"articles 2, &sect; 1er, 1&deg;, 2&deg;, 4&deg; &agrave; 16&deg; et 22&deg;, 3 et 4\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les mots \"aux articles 2, &sect; 1er, 16&deg; &agrave; 19&deg; \" sont remplac&eacute;s par les mots \"&agrave; l'article 2, &sect; 1er, 17&deg; &agrave; 19&deg; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.269Z",
+  "tokenUsage": {
+    "prompt": 1848,
+    "completion": 395,
+    "total": 2243
+  }
+}

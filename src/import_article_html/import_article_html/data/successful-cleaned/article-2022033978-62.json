@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022033978",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 35 de la même loi, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, le 3° est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, le 4° est remplacé par ce qui suit: \"4° deux membres disposant d'une expertise adéquate en matière de contrôle légal des comptes, nommés par le Roi sur proposition du ministre ayant l'Economie dans ses attributions et du ministre ayant les Finances dans ses attributions pour une durée de six ans renouvelable. A défaut de désignation d'autres experts en tant que membre du Comité, les anciens experts restent en fonction jusqu'à la première réunion du Comité dans sa nouvelle composition.\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans l'alinéa 7, les mots \"au membre, autre que le président du Comité, visé aux 3° et 4° du premier alinéa\" sont remplacés par les mots \"aux membres visés à l'alinéa 1er, 4° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.819Z",
+  "tokenUsage": {
+    "prompt": 1895,
+    "completion": 399,
+    "total": 2294
+  }
+}

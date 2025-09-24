@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008024318",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Ministre nomme, sur base de listes de personnes proposées par les organisations concernées, les membres effectifs visés à l'article 2, point 1° à 13° et leurs suppléants pour un mandat de quatre ans renouvelable. Le membre suppléant peut remplacer le membre en son absence et a les mêmes pouvoirs.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Chaque association concernée propose au Ministre au moins deux candidats pour le poste d'effectif et deux candidats pour le poste de suppléant. Les associations proposeront leurs candidats au Ministre dans un délai maximum d'un mois qui suit sa demande. Les associations à vocation nationale ne peuvent pas proposer que des candidats s'exprimant dans la même langue. Les associations qui n'ont pas introduit de candidature conforme dans les délais peuvent être omises du Conseil si cela ne nuit pas à la représentativité globale de celui-ci. Les membres effectifs ou suppléants peuvent être révoqués par le Ministre si leur représentativité est remise en cause ou en cas de manquement grave au règlement d'ordre intérieur. En cas de vacance avant l'échéance du mandat d'un membre effectif ou suppléant, le Ministre peut nommer un successeur pour ce mandat.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.006Z",
+  "tokenUsage": {
+    "prompt": 1942,
+    "completion": 410,
+    "total": 2352
+  }
+}

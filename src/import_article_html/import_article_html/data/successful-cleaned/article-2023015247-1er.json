@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023015247",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 27 novembre 2015 relatif à l'introduction et au traitement de la demande d'un budget pour les soins et le soutien non directement accessibles pour personnes majeures handicapées et relatif à la mise à disposition dudit budget, modifié par les arrêtés du Gouvernement flamand des 24 février 2017, 8 juin 2018, 10 mai 2019 et 5 mars 2021, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le point 12° est abrogé ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">aux points 18/1° et 21°, les mots \" la création d' \" et le membre de phrase \", à la détermination de la nécessité sociale, \" sont abrogés ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">aux points 18° /1 et 21°, le membre de phrase \", à l'orientation vers le soutien, ainsi qu'à l'harmonisation et la planification dans le cadre de l'aide financière personnalisée \" est remplacé par les mots \" et au classement au sein des groupes prioritaires \" ;</span></li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">il est inséré un point 20° /1 rédigé comme suit :</span>\n          <blockquote>\n            <span class=\"provision-text\">\" 21° /1 réseau social : la famille, les amis et les contacts informels qui offrent des soins et du soutien ou cohabitent avec la personne handicapée ; \".</span>\n          </blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.834Z",
+  "tokenUsage": {
+    "prompt": 2037,
+    "completion": 501,
+    "total": 2538
+  }
+}

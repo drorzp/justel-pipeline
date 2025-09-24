@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001635",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 194octies du même Code, inséré par la loi du 26 mars 2018 et modifié en dernier lieu par la loi du 5 juillet 2022, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \"et 64ter\" sont remplacés par les mots \"et 64ter, alinéa 1er, 2° et 3°, alinéas 2 et 3,\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article est complété par un alinéa, rédigé comme suit : \"L'article 64ter, alinéa 1er, 1°, est uniquement applicable dans le chef des sociétés qui sont considérées comme une petite société.\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les mots \"et 64ter, alinéa 1er, 2° et 3°, alinéas 2 et 3\" sont remplacés par les mots \"et 64ter\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'alinéa 2 est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.520Z",
+  "tokenUsage": {
+    "prompt": 1921,
+    "completion": 426,
+    "total": 2347
+  }
+}

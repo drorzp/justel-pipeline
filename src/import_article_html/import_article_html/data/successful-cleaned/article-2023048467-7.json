@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048467",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 30bis de la même loi, modifiée en dernier lieu par la loi du 16 décembre 2022, au paragraphe 3, alinéa 2, les mots \"12° bis et 12° ter\" sont insérés entre les mots \"à l'article 23, § 2, 3°, 3° bis, 4°, 4° bis, 5°, \" et les mots \"19° à 22°, 25°, 29° et 52°, \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.501Z",
+  "tokenUsage": {
+    "prompt": 1792,
+    "completion": 195,
+    "total": 1987
+  }
+}

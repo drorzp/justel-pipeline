@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991003028",
+  "articleNumber": "41",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-41\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 41</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          La comptabilité de tout teneur de comptes (visé à l'article 3, § 2, 1° et 3°, de la loi précitée du 2 janvier 1991) doit comporter un enregistrement de l'ensemble de ses opérations, avoirs, créances, dettes et engagements en titres dématérialisés, ainsi que de ses positions à la hausse et à la baisse dans ces titres, conformément aux règles usuelles de la comptabilité en partie double, dénommée ci-après \" comptabilité-titres \". <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-03-05/44\" data-law-type=\"AR\" data-article-number=\"6\">&lt;AR 2006-03-05/44, art. 6, 007;**En vigueur :**27-03-2006&gt;</span>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          Toute opération sur titres dématérialisés entraînant mouvement d'espèces ou mouvement de créances ou de dettes à enregistrer en comptabilité générale, fait l'objet d'écritures concomittantes en comptabilité-titres et en comptabilité générale.\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.739Z",
+  "tokenUsage": {
+    "prompt": 1846,
+    "completion": 368,
+    "total": 2214
+  }
+}

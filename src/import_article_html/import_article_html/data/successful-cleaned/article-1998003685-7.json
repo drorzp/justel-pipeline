@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998003685",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Fonds est administré par un Comité de direction composé :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">d'un président nommé par le Roi;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de cinq membres nommés par le Roi;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">de quatre membres nommés par le Roi sur une liste de trois candidats par mandat à pourvoir, présentés par l'association professionnelle représentant les établissements de crédit;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">de deux membres nommés par le Roi, sur une liste de trois candidats par mandat à pourvoir, présentés par les associations professionnelles représentant les entreprises d'investissement dont les engagements sont couverts par le ou les systèmes institués ou gérés par le Fonds.</span></li>\n      </ol>\n      <p>Deux suppléants sont nommés, selon les mêmes modalités, pour chacune des catégories de membres visées à l'alinéa 1er, 2°, 3° et 4°.</p>\n      <p>Les membres et les suppléants sont révocables par le Roi.</p>\n      <p>Les mandats, renouvelables, sont d'une durée de six années.</p>\n      <p>Une personne désignée par la Commission bancaire et financière assiste, avec voix consultative, aux réunions du Comité de direction.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.076Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 437,
+    "total": 2378
+  }
+}

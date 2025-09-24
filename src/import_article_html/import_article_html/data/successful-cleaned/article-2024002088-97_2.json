@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002088",
+  "articleNumber": "97_2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-97\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 97</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 25, § 2, d), de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, modifié en dernier lieu par la loi du 4 mai 2020, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le premier tiret est remplacé par ce qui suit:\n          \"aux articles 82 à 88, 90 à 92, 96 à 98, 100, 101, 112 à 119, 121 à 127, 134 à 149, 151 à 166, 171 à 174, 183, 185, 196, 197, 198, 200, alinéa 1er, 2° à 4°, 201, alinéa 1er, 2° à 4°, 202, 2° à 4°, 206 à 212, 214, 215, 219 à 222, 223 à 225, 227 à 229, 230, 231, 232, 233, 236, 258 à 261, 265, 288, 289, 290, 291, 307 et 308, 318 à 321, 322 à 324, 328 à 331, 333 à 335, 338, 339, 371, 373 à 375, 384 à 386, 404 et 405, 407 à 409, 413, §§ 1er, 1° et 2, 464, 469, §§ 1er, 4°, 2 et 3, 473, §§ 2, 3° et 3, 509, 520, 523, 552, 557 à 560, 685, deuxième tiret, du Code pénal\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le deuxième et le sixième tirets sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.439Z",
+  "tokenUsage": {
+    "prompt": 2298,
+    "completion": 587,
+    "total": 2885
+  }
+}

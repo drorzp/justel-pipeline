@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994000310",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Le présent arrêté entre en vigueur le 1er janvier 1995, sans préjudice des dispositions prévues à l'article 12, § 2, 1° et 2°, de la loi du 27 mai 1989 modifiant la nouvelle loi communale.\n      </p>\n      <p class=\"closing-text\">\n        Toutefois, à l'égard des communes visées à l'article 12, § 3, de la même loi, le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.058Z",
+  "tokenUsage": {
+    "prompt": 1580,
+    "completion": 199,
+    "total": 1779
+  }
+}

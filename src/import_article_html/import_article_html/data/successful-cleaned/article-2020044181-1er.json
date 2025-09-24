@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044181",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application du présent arrêté, il y a lieu d'entendre par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'Arrêté : l'arrêté ministériel du 18 juillet 2017 portant délégation de compétences aux fonctionnaires dirigeants de Bruxelles Prévention &amp; Sécurité;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la Région : la Région de Bruxelles-Capitale;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'Organisme : l'organisme d'intérêt public Bruxelles Prévention &amp; Sécurité, visé à l'article 3 de l'ordonnance du 28 mai 2015 créant un organisme d'intérêt public centralisant la gestion de la politique de prévention et de sécurité en Région de Bruxelles-Capitale et créant l'Ecole régionale des métiers de la sécurité, de la prévention et du secours - Brusafe;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le Ministre : le Ministre du Gouvernement de la Région de Bruxelles-Capitale compétent pour la politique de sécurité et de prévention, conformément à l'article 4 § 2quater, 3° et 4° de la loi du 26 juillet 1971 organisant les agglomérations et les fédérations de communes et à l'article 11bis de la loi spéciale en ce compris les contrats de sécurité conclus avec les communes;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.081Z",
+  "tokenUsage": {
+    "prompt": 1985,
+    "completion": 460,
+    "total": 2445
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1927030201",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-05-18/04\" data-law-type=\"L\" data-article-number=\"8\">\n          Les actes et écrits visés aux articles 3 à 8, alinéa 1er, 1° sont soumis au droit dès le moment où ils sont dressés et signés ou paraphés, soit à la main, soit sous forme d'une signature électronique au sens de l'article 3.10. du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE ou d'une signature électronique qualifiée au sens de l'article 3.12. de ce même règlement, par la personne ou par une des personnes qui délivre ces actes et écrits.  \n          Les écrits visés à l'article 8, alinéa 1er, 2°, 3° et 4° sont soumis au droit dès le moment où ils sont dressés par la banque, une personne y assimilée ou la société de bourse qui les délivre.\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.583Z",
+  "tokenUsage": {
+    "prompt": 1921,
+    "completion": 357,
+    "total": 2278
+  }
+}

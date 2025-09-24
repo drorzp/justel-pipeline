@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003626",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les demandes de subventions de fonctionnement pour un point d'appui pour la culture supralocale, telles que visées à l'article 25, alinéa 1er, remplissent toutes les conditions de recevabilité suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le demandeur est une personne morale sans but lucratif ou une combinaison sans personnalité juridique qui se compose de personnes morales sans but lucratif qui désignent un participant devant représenter la combinaison à l'égard de la Communauté flamande ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le demandeur est établi :</span>\n                    <ol class=\"sub-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">\n                            <span class=\"sub-provision-text\">soit dans la région de langue néerlandaise ;</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">\n                            <span class=\"sub-provision-text\">soit dans la région bilingue de Bruxelles-Capitale et ses activités doivent être considérées comme appartenant exclusivement à la Communauté flamande ;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">la demande a été introduite en temps utile, de manière complète et selon les formalités, conformément aux règles fixées par le Gouvernement flamand en exécution de l'article 75, 1° et 2°.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.536Z",
+  "tokenUsage": {
+    "prompt": 1930,
+    "completion": 452,
+    "total": 2382
+  }
+}

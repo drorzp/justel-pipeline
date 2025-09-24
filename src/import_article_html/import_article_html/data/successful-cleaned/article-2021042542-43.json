@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042542",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">A l'exception des articles 3, 11, 12, 18, 19, 20,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et 42, le présent titre entre en vigueur le 2 août 2021.</span>\n          </li>\n        </ol>\n        <p class=\"intro-text\">Les articles 3, 11, 12, 18, 19, 20,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et 42 entrent en vigueur le dixième jour après la publication de la présente loi au Moniteur belge.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Jusqu'au 31 décembre 2021, les mises à jour des communications publicitaires qui visent exclusivement à se conformer aux exigences de l'article 4, § 2, deuxième et troisième phrase et § 3, du règlement 2019/1156 du Parlement européen et du Conseil du 20 juin 2019 visant à faciliter la distribution transfrontalière des organismes de placement collectif et modifiant les règlements (UE) n° 345/2013, (UE) n° 346/2013 et (UE) n° 1286/2014, peuvent être publiées sans l'approbation préalable de la FSMA. Les mises à jour concernées sont communiquées à la FSMA préalablement à leur publication, dans la forme d'une version du document intégrant la mise à jour concernée.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.156Z",
+  "tokenUsage": {
+    "prompt": 2022,
+    "completion": 529,
+    "total": 2551
+  }
+}

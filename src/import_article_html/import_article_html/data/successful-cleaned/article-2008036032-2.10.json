@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008036032",
+  "articleNumber": "2.10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2.10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 139 du même décret, modifié par le décret du 7 juillet 2006, les mots &quot; 3°bis, &quot; sont insérés entre les mots &quot; visées à l'article 138, 1°, 2°, 3°, &quot; et les mots &quot; 4°, 5° et 7° &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.039Z",
+  "tokenUsage": {
+    "prompt": 1578,
+    "completion": 172,
+    "total": 1750
+  }
+}

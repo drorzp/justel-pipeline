@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035504",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 45 du même décret sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au premier alinéa, les mots \" les groupes-cibles visés à l'article 2, 6° \" sont remplacés par les mots \" les personnes visées à l'article 3, premier alinéa, 1° et 2° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa deux est remplacé par la disposition suivante :</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">\" Le Gouvernement flamand peut subventionner des organisations s'adressant à ces groupes dans les limites des crédits budgétaires disponibles et aux conditions qu'il fixe. Dans ce cas, les organisations doivent au moins accomplir les missions suivantes vis-à-vis de leur groupe cible :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">contribuer à une analyse précise du contexte social et de la position relative de leurs groupes cibles.</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">élaborer des méthodiques et des formes de travail visant à promouvoir l'intégration de leurs groupes-cibles;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">stimuler les autorités, visées à l'article 5, et les secteurs sociaux pertinents à mener une politique d'intégration pour leurs groupes-cibles.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les autres dispositions du présent décret ne s'appliquent pas aux groupes-cibles, visés au présent article.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.094Z",
+  "tokenUsage": {
+    "prompt": 2043,
+    "completion": 517,
+    "total": 2560
+  }
+}

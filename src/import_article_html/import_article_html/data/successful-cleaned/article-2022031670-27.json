@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031670",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données est :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le Département de l'Emploi et de l'Economie sociale, pour le traitement des données à caractère personnel dans le cadre de la liaison de données entre inscriptions et contrats, de la garantie de la quantité de lieux de travail et du suivi et de l'évaluation des formations duales dans l'éducation des adultes ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le Partenariat flamand pour l'Apprentissage dual, pour le traitement des données à caractère personnel dans le cadre de l'article 13, alinéa 1er, 7° et 8°, et de l'article 22 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'entreprise, pour le traitement des données à caractère personnel dans le cadre de la conclusion et de l'exécution du contrat, visées à l'article 3, et des obligations visées à l'article 11 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le CVO, pour le traitement des données à caractère personnel dans le cadre de la conclusion et de l'exécution du contrat, visées à l'article 3, et des obligations visées 13.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.746Z",
+  "tokenUsage": {
+    "prompt": 1939,
+    "completion": 443,
+    "total": 2382
+  }
+}

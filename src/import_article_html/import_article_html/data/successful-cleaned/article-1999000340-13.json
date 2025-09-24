@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999000340",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sont agréées par le Roi, les organisations syndicales des membres du personnel visées à l'article 2 qui :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">défendent les intérêts au minimum d'un des deux cadres visés à l'article 116 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">sans préjudice de l'article 126 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, ne visent dans leurs statuts ni dans leur fonctionnement des objectifs qui constituent une entrave aux missions confiées aux services de police par l'article 1er de la loi du 5 août 1992 sur la fonction de police, et qui veillent à ce que cette interdiction soit prise en considération par leurs délégués syndicaux;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">transmettent, sous pli recommandé, une copie de leurs statuts et de la liste de leurs dirigeants responsables au ministre de l'Intérieur.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Leur agrément ne leur est maintenu que tant qu'elles satisfont aux conditions fixées à l'alinéa 1er, 1° et 2° et que si elles portent à la connaissance du ministre de l'Intérieur les modifications apportées à leurs statuts ou à la liste de leurs dirigeants responsables.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.124Z",
+  "tokenUsage": {
+    "prompt": 2092,
+    "completion": 466,
+    "total": 2558
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035709",
+  "articleNumber": "7.1.2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7-1-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7.1.2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">A la suite d'un échange, tel que visé à l'article 5, § 2, 5° et à l'article 5, § 3, 1°, les droits dont le fermier jouissait sur ses anciennes parcelles, peuvent être transférés à sa nouvelle parcelle. Si ces droits sont transférés, des modifications peuvent être apportées au bail, en particulier en ce qui concerne :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le fermage ;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la durée du bail ;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les indemnités qui, conformément à la Loi sur le bail à ferme, sont dues au preneur qui a porté les coûts pour les plantations, constructions et tous les travaux nécessaires à l'habitabilité du bien loué ou utiles à l'exploitation du bien et conformes à sa destination.</span></li>\n        </ol>\n        <p class=\"closing-text\">Si des modifications doivent être apportées au bail, la \" Vlaamse Grondenbank \" convoque les parties et leur fait des propositions auxquelles elles peuvent souscrire. En cas d'un accord, un procès-verbal écrit en est établi par la \" Vlaamse Grondenbank \". Les dispositions de l'alinéa premier s'appliquent par dérogation aux règles de droit commun.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les dispositions visées au paragraphe 1er s'appliquent par analogie à l'emphytéose, au droit de superficie et au droit d'usage et d'habitation.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.345Z",
+  "tokenUsage": {
+    "prompt": 2208,
+    "completion": 551,
+    "total": 2759
+  }
+}

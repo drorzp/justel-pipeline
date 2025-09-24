@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012717",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 20</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'intitulé de la section 5 du chapitre III, inséré par l'arrêté royal du 18 août 2010, les termes \" 57/6, premier alinéa, 4°, 6° et 7°, \" sont remplacés par \" 57/6, § 1er, alinéa 1er, 4° et 6°, \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.692Z",
+  "tokenUsage": {
+    "prompt": 1521,
+    "completion": 164,
+    "total": 1685
+  }
+}

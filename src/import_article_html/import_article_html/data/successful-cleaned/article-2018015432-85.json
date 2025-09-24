@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015432",
+  "articleNumber": "85",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-85\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 85</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le présent arrêté entre en vigueur le 1er janvier 2019, à l'exception du chapitre 8 et de l'article 82, qui entrent en vigueur le jour de l'entrée en vigueur de l'accord de coopération d'exécution du 6 décembre 2018.</p>\n      <p>L'article 83 du présent arrêté entre en vigueur le 1er janvier 2019, à l'exception des dispositions suivantes de l'arrêté royal du 9 juin 1999 portant exécution de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers, qui restent applicables jusqu'à la date d'entrée en vigueur de l'accord de coopération d'exécution du 6 décembre 2018 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'article 2, alinéa premier, 26° ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">l'article 9, alinéa premier, 5°, et la section 1ère du chapitre VI ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">la section 1bis du chapitre IV.</span></li>\n      </ol>\n      <p>Par dérogation à l'article 3 du présent arrêté, les demandes introduites en vertu de l'alinéa deux, 2° et 3°, jusqu'à la date d'entrée en vigueur de l'accord de coopération d'exécution du 6 décembre 2018, sont traitées conformément à l'article 2 du présent arrêté.</p>\n      <p>En application de l'alinéa deux, 3°, l'autorité compétente délivre un permis de travail provisoire à l'employeur.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.463Z",
+  "tokenUsage": {
+    "prompt": 2064,
+    "completion": 483,
+    "total": 2547
+  }
+}

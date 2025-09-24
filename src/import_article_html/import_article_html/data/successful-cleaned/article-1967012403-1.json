@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1967012403",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article [1]</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté s'applique :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux employeurs des entreprises ressortissant à la Commission paritaire nationale pour employés des cokeries indépendantes et de la synthèse;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux employés occupés par les employeurs visés au 1° et qui :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              <span class=\"provision-text\">soit font partie des équipes d'entretien auxquelles ne s'applique pas le régime des équipes successives mais dont l'activité, telle que l'entretien préventif des machines, la remise en état des chaudières, les travaux requis par les modifications des programmes de fabrication, conditionne le fonctionnement permanent de l'entreprise;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              <span class=\"provision-text\">[...] <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"valable jusqu'au 11-02-1968\" data-law-type=\"voir\" data-article-number=\"art. 3, al. 2\">valable jusqu'au 11-02-1968; voir art. 3, al. 2</span></span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.567Z",
+  "tokenUsage": {
+    "prompt": 1798,
+    "completion": 413,
+    "total": 2211
+  }
+}

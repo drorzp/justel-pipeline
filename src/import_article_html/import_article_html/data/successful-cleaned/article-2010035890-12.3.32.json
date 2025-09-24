@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035890",
+  "articleNumber": "12.3.32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12-3-32\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12.3.32</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-10-19/04\" data-law-type=\"AGF\" data-article-number=\"16\">\n                Par dérogation à l'article 5.5.6 du présent arrêté, dans les cas visés à l'article 6.1.2, § 1er, alinéa 1er, 7° et 8°, du décret sur l'Energie du 8 mai 2009, l'alimentation en électricité et en gaz naturel ne peut pas être coupée, pendant la période du 1er novembre 2022 au 30 avril 2023, chez un client résidentiel où un compteur numérique a été installé ou bien un limiteur de courant autonome a été installé conformément à l'article 5.3.1.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.295Z",
+  "tokenUsage": {
+    "prompt": 1816,
+    "completion": 268,
+    "total": 2084
+  }
+}

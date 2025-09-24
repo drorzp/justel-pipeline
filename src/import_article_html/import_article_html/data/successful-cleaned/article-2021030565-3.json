@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021030565",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 4/1 de l'arrêté du Gouvernement flamand du 24 avril 2009 portant octroi d'aide aux projets visant à promouvoir l'entrepreneuriat, inséré par l'arrêté du Gouvernement flamand du 5 février 2016, l'alinéa 1er est remplacé par ce qui suit : \" Une entreprise n'est admissible à l'aide que si elle répond à l'une des conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'entreprise est une personne physique exerçant une activité professionnelle en tant qu'indépendant ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'entreprise est une société avec personnalité juridique de droit privé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'entreprise est une entreprise étrangère ayant un statut équivalent au statut visé aux points 1° et 2°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.123Z",
+  "tokenUsage": {
+    "prompt": 1769,
+    "completion": 336,
+    "total": 2105
+  }
+}

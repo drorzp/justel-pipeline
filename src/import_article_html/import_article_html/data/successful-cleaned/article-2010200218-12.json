@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010200218",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        L'article 78sexies du même arrêté, inséré par l'arrêté royal du 8 août 1997 et modifié par l'arrêté royal du 19 décembre 2001, est remplacé par les dispositions suivantes:\n      </p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>\n            \"Art. 78sexies. Par dérogation à l'article 27, 4°, l'allocation de travail visée à l'article 27, 11° et l'allocation d'expérience visée à l'article 27, 13°, ne sont pas considérées comme une allocation pour l'application des articles 38, § 1er, alinéa 1er, 1°, 42, 79, § 4, 80, 89, 92, 93 et 97.\n          </p>\n          <p>\n            Par dérogation à l'article 27, 4°, l'allocation d'intégration visée à l'article 131quater et l'allocation de réinsertion visée à l'article 131quinquies ne sont pas considérées comme une allocation pour l'application des articles 38, § 1er, alinéa 1er, 1°, 42, 80, 89, 92, 93 et 97.\n          </p>\n          <p>\n            Pour l'application des dispositions du présent arrêté dans lesquelles il est tenu compte du salaire d'un travailleur, l'allocation d'intégration visée à l'article 131quater, l'allocation de réinsertion visée à l'article 131quinquies, l'allocation de travail visée à l'article 27, 11°, ou l'allocation d'expérience visée à l'article 27, 13°, sont considérées comme faisant partie intégrante du salaire.\n          </p>\n          <p>\n            Le travailleur ne peut, pour la même période, avoir droit qu'à une des allocations visées aux alinéas précédents.\"\n          </p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.296Z",
+  "tokenUsage": {
+    "prompt": 2148,
+    "completion": 542,
+    "total": 2690
+  }
+}

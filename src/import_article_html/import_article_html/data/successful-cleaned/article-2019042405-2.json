@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042405",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le montant de la contribution sera versé au compte suivant:</p>\n      <p>Bonn Agreement Secretariat<br>\n      National Westminster Bank PLC<br>\n      Fleet Street (B) BRANCH<br>\n      PO Box 281<br>\n      156 Fleet street<br>\n      London EC4A2DX<br>\n      N° de code de la Banque: 60-80-08<br>\n      N° et dénomination du compte: 01626183<br>\n      Bonn Agreement<br>\n      IBAN: GB75NWBK60800801626183<br>\n      Swift: NWBKGB2L</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.479Z",
+  "tokenUsage": {
+    "prompt": 1528,
+    "completion": 206,
+    "total": 1734
+  }
+}

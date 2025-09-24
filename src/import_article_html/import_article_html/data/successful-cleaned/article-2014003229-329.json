@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003229",
+  "articleNumber": "329",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-329\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 329</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La société de gestion d'OPCA ne peut, sauf autorisation de la FSMA, détenir des participations dans des sociétés <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-06-27/09\" data-law-type=\"L\" data-article-number=\"125\">...</span>.</p>\n      <p>Cette interdiction ne s'applique pas aux participations dans des sociétés exerçant en tout ou en partie les activités visées à l'article 3, 41° et 43°, ni aux participations dans des sociétés dont l'activité consiste exclusivement en la détention de participations dans de telles sociétés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.032Z",
+  "tokenUsage": {
+    "prompt": 1660,
+    "completion": 222,
+    "total": 1882
+  }
+}

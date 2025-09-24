@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1977011302",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les officiers de réserve visés à l'article 34 de la loi du 13 juillet 1976 sont considérés comme répondant aux conditions fixées à l'article 18, § 1er, 2°, 3° et 4° de cette loi.\n      </p>\n      <p class=\"closing-text\">\n        Ils peuvent, aux conditions fixées à l'article 6, § 2 de l'arrêté royal du 25 septembre 1959, être admis avec leur grade dans le cadre temporaire du personnel militaire à l'issue de la prestation volontaire d'encadrement qu'ils effectuent, pour autant qu'à ce moment, ils n'aient pas dépassé l'âge de 45 ans. Leur ancienneté pour l'avancement est égale au temps de service passé en qualité d'officier de réserve en prestation volontaire d'encadrement et d'officier du cadre du personnel temporaire, diminué d'un an. L'officier temporaire dont l'ancienneté fixée conformément à l'alinéa précédent aurait pour effet de le classer pour l'avancement parmi les officiers d'un grade inférieur à celui dont il est revêtu, est classé provisoirement à la suite des officiers de son grade jusqu'à la nomination à ce grade des officiers plus anciens que lui dans le grade de sous-lieutenant et qui ont effectué une carrière normale; à ce moment, il est classé à la suite de ces officiers.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.744Z",
+  "tokenUsage": {
+    "prompt": 1997,
+    "completion": 397,
+    "total": 2394
+  }
+}

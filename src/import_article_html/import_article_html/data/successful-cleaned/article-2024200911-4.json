@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024200911",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Conditions de subsidiation des résidences-services Les projets d'infrastructure relatifs à des logements au sein de résidences-services au sens de l'article 22 du décret du 13 décembre 2018 peuvent être subsidiés conformément à l'article 16, alinéa 1er, du décret du 18 mars 2002, aux conditions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la superficie nette subsidiable pour les logements individuels est de 40 m2 au moins;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la superficie nette subsidiable pour les logements doubles est de 55 m2 au moins.</span></li>\n            </ol>\n            <p>Dans des cas particuliers et justifiés, le Gouvernement peut, sur demande, accorder des dérogations aux conditions prévues à l'alinéa 1er, 1° et 2°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.698Z",
+  "tokenUsage": {
+    "prompt": 1744,
+    "completion": 308,
+    "total": 2052
+  }
+}

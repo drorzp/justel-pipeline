@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008000647",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 51 du même arrêté, les mots &quot; relatifs aux matières fixées par le Ministre de l'Intérieur et aux matières visées aux articles 9, 3°, 10, 2°, 12, 2°,13, 1°, 15, 1°, 17, 2°, 18, 1°, 19, 2°, 21, 1°, 22, 1° &quot; sont remplacés par les mots &quot; relatifs aux matières fixées par le Ministre de l'Intérieur et aux matières visées aux articles 9, 3°, 10, 2°, 12, 2° et 3°, 13, 1°, 15, 1°, 17, 2°, 18, 1°, 19, 2°, 21, 1°, 22, 1° et 106, 1° &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.014Z",
+  "tokenUsage": {
+    "prompt": 1753,
+    "completion": 286,
+    "total": 2039
+  }
+}

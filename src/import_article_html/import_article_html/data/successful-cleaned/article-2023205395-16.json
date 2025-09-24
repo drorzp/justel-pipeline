@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023205395",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Ministre désigne les membres de la Commission visée à l'article 11 du décret du 20 juillet 2022.</p>\n        <p>Les représentants visés à l'article 11, alinéa 2,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1°</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">2°, du décret du 20 juillet 2022 sont proposés au Ministre par les organisations représentatives sur des listes doubles de candidats.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le mandat des membres a une durée de cinq ans et est renouvelable.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>La Commission se réunit au minimum une fois par an.</p>\n        <p>Elle peut constituer des groupes de travail dont elle détermine la composition et fixe les missions qui leurs sont confiées. Les résultats des groupes de travail sont communiqués à la Commission pour décision.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans le cadre de l'article 11, alinéa 1er, 4°, du décret du 20 juillet 2022, la Commission informe le Ministre ou son délégué des faits de la cause.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.415Z",
+  "tokenUsage": {
+    "prompt": 1922,
+    "completion": 538,
+    "total": 2460
+  }
+}

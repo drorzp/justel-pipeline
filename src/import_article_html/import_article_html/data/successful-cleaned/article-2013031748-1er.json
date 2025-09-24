@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013031748",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 5 de l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 18 juillet 2000 portant règlement de son fonctionnement et réglant la signature des actes du Gouvernement, il est inséré un point 31° et un point 32°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"31°\">\n          <span class=\"provision-text\">la désignation des membres du personnel de la STIB qui sont, en application de l'article 3, 12° du code de la Route, habilités à constater les infractions au Code de la route;</span>\n        </li>\n        <li class=\"provision\" data-number=\"32°\">\n          <span class=\"provision-text\">la désignation des membres du personnel de la STIB qui, en application de l'article 18bis de l'ordonnance du 22 novembre 1990 relative à l'organisation des transports en commun de la Région de Bruxelles-Capitale, sont habilités à constater les infractions aux conditions d'exploitation des transports en commun dans la Région de Bruxelles-Capitale.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.048Z",
+  "tokenUsage": {
+    "prompt": 1806,
+    "completion": 339,
+    "total": 2145
+  }
+}

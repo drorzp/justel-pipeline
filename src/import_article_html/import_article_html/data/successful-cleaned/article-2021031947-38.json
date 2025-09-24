@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031947",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 38</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le paragraphe 1er, alinéa 1er, de l'article 52quinquies du même décret, les mots \" 5, § 1er, 1° à 3° et 5° \", sont remplacés par les mots \" 5, § 1er, 1° à 3°, 5° et 8° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.207Z",
+  "tokenUsage": {
+    "prompt": 1708,
+    "completion": 166,
+    "total": 1874
+  }
+}

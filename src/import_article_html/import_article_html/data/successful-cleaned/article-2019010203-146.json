@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019010203",
+  "articleNumber": "146",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-146\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 146</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 157 de la même loi est complété par un alinéa rédigé comme suit:</p>\n      <p class=\"intro-text\">\"Les IRP qui, à la date du 13 janvier 2019, exercent déjà simultanément les activités visées à l'article 55, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, sont réputées avoir obtenu de plein droit un agrément pour les deux activités conformément à l'article 52.\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.447Z",
+  "tokenUsage": {
+    "prompt": 1588,
+    "completion": 236,
+    "total": 1824
+  }
+}

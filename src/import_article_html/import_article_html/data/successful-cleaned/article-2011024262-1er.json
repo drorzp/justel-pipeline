@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011024262",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 7 de l'arrêté royal du 20 juin 2005 fixant les critères et les modalités de sélection des kinésithérapeutes agréés qui obtiennent le droit d'accomplir des prestations qui peuvent faire l'objet d'une intervention de l'assurance obligatoire soins de santé et indemnités, modifié par l'arrêté royal du 18 septembre 2008, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">dans le paragraphe 1er, les mots \" pour les années 2005 à 2015 \" sont remplacés par les mots \" pour les années 2005 jusqu'à 2017 \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">dans le paragraphe 2, 1° et 2°, les mots \" pour les années 2005 à 2015 \" sont remplacés par les mots \" pour les années 2005 jusqu'à 2017 \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.205Z",
+  "tokenUsage": {
+    "prompt": 1789,
+    "completion": 333,
+    "total": 2122
+  }
+}

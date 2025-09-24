@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000036306",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 116octiesdecies des mêmes décrets, inséré par décret du 30 mars 1999, le § 1er est remplacé par ce qui suit :</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Il est institué, pour l'ensemble de la Communauté flamande, un Conseil flamand des litiges pour la radio et la télévision, dénommé ci-après \"le Conseil des litiges\", qui statue sur toutes les contestations individuelles surgies suite à l'application des articles 23, § 1er, 32, 8°,38octies, 7° et 9°, 38ter, § 4, 53, 9° et 14°, 74 et 78, § 2.</p>\n      </div>\n    </section>\n    <p>Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge. Bruxelles, le 1er décembre 2000. Le Ministre-Président du Gouvernement flamand, P. DEWAEL Le Ministre flamand de l'Economie, de l'Aménagement du Territoire et des Médias, D. VAN MECHELEN.</p>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.258Z",
+  "tokenUsage": {
+    "prompt": 1865,
+    "completion": 352,
+    "total": 2217
+  }
+}

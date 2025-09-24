@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004707",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">Les membres suppléants sont au minimum dix.</div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">Les huit premiers membres suppléants sont élus selon la même méthode que celle décrite à l'article 24, 2° à 5°.</div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 3.</h3>\n        <div class=\"paragraph-content\">Les neuvième et dixième membres suppléants appartiennent respectivement à la même catégorie et au même groupe linguistique que les membres effectifs élus en vertu de l'article 24, 6° et 7°.</div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 4.</h3>\n        <div class=\"paragraph-content\">Si le Conseil national prévoit plus de dix mandats de membres suppléants, les autres mandats que ceux visés à l'alinéa 1er sont attribués dans l'ordre décroissant des votes obtenus par les candidats, indépendamment de leur catégorie. Le nombre de membres suppléants supplémentaires appartenant à chaque groupe linguistique est égal.</div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.359Z",
+  "tokenUsage": {
+    "prompt": 1805,
+    "completion": 385,
+    "total": 2190
+  }
+}

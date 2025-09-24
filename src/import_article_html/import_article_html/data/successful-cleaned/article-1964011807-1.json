@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1964011807",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2024-04-24/04\" data-law-type=\"AR\" data-article-number=\"2\">\n                La cotisation de solidarité prévue à l'article 59 des lois relatives à la prévention des maladies professionnelles et à la réparation des dommages résultant de celles-ci, coordonnées le 3 juin 1970 est perçue respectivement par l'Office national de sécurité sociale ou la Caisse de secours et de prévoyance en faveur des marins naviguant sous pavillon belge selon qu'il s'agit des travailleurs visés à l'article 2, § 1er, \n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et 5°, desdites lois du 3 juin 1970, qui sont assujettis à la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs ou des travailleurs soumis à l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande.</span>\n                    </li>\n                </ol>\n            </span>\n            Cette cotisation de solidarité est percue par \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-11-23/22\" data-law-type=\"AR\" data-article-number=\"10\">Fedris</span>\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2017-11-23/22\" data-law-type=\"AR\" data-article-number=\"11\"></span>, \n            en ce qui concerne les personnes assujetties, autres que celles visées (aux alinéas 1er et 2 ci-dessus) \n            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"02-04-1965\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 02-04-1965, art. 2&gt;</span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.529Z",
+  "tokenUsage": {
+    "prompt": 2246,
+    "completion": 545,
+    "total": 2791
+  }
+}

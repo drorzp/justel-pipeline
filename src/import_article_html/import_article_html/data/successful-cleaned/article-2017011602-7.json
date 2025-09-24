@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011602",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 11, du même arrêté, les mots &quot; de l'article 7, al. 1, 1°, de la loi du 15 décembre 1980. &quot; sont remplacés par les mots &quot; de l'article 7, alinéa 1er, 1° et 2°, de la loi du 15 décembre 1980. &quot;</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.604Z",
+  "tokenUsage": {
+    "prompt": 1518,
+    "completion": 166,
+    "total": 1684
+  }
+}

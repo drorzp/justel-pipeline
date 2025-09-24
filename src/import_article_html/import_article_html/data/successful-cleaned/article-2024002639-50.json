@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002639",
+  "articleNumber": "50",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-50\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 50</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Dans l'article 4.3.6, paragraphe 1er, du même arrêté, inséré par l'arrêté du Gouvernement flamand du 23 mai 2014 et modifié par l'arrêté du Gouvernement flamand du 22 mars 2019, le membre de phrase \"<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1921-06-27\" data-law-type=\"L\" data-article-number=\"9\">à la loi du 27 juin 1921 relative aux associations sans but lucratif, aux associations internationales sans but lucratif et aux fondations</span>\" est remplacé par le membre de phrase \"<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2019-03-23\" data-law-type=\"L\" data-article-number=\"10\">aux dispositions du Code des sociétés et des associations du 23 mars 2019</span>\";</p>\n                </div>\n            </section>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'alinéa 2, le membre de phrase \"9° et 10°\" est remplacé par le membre de phrase \"10° et 11°\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.446Z",
+  "tokenUsage": {
+    "prompt": 1838,
+    "completion": 396,
+    "total": 2234
+  }
+}

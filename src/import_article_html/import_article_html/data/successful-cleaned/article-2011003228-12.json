@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011003228",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 14 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er est remplacé par ce qui suit :<br>\" En cas de défaillance d'un établissement de crédit, d'une société de bourse ou d'une entreprise d'investissement visés à l'article 2, 3° et 4°, le Fonds fait publier au Moniteur belge et diffuse sur son site web l'existence des circonstances décrites à l'article 5, alinéa 1er, ainsi que les délais prévisibles pour le paiement des interventions. Le Fonds publie également la décision de l'autorité en charge du contrôle prudentiel, de prolonger le délai de paiement des interventions, au Moniteur belge et la diffuse sur son site web. Le Fonds fait publier ces mêmes informations selon les modes officiels ou usuels dans les Etats d'implantation des succursales visées à l'article 13. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 2 est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.148Z",
+  "tokenUsage": {
+    "prompt": 1854,
+    "completion": 366,
+    "total": 2220
+  }
+}

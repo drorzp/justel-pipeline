@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008202688",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 633quinquies, § 1er, alinéa 1er, du même Code, remplacé par la loi du 10 mai 2007, est remplacé par ce qui suit :</p>\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Est seul compétent pour connaître des demandes relatives aux droits de propriété intellectuelle visés à l'article 574, 11°,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"11°\">\n                        <span class=\"provision-text\">11°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"14°\">\n                        <span class=\"provision-text\">14°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"19°\">\n                        <span class=\"provision-text\">19°</span>\n                    </li>\n                </ol>\n                <p class=\"closing-text\">le tribunal de commerce de Bruxelles.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.920Z",
+  "tokenUsage": {
+    "prompt": 1626,
+    "completion": 323,
+    "total": 1949
+  }
+}

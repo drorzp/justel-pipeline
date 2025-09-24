@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994036314",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'article 68 du décret du 22 décembre 1993 contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 1994 est complété comme suit :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"48°\">\n            <span class=\"provision-text\">le &quot; Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden &quot; (VIPA) (Fonds flamand de l'infrastructure affectée aux matières personnalisables).</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Dans l'article 68 du décret précité, les libellés des points 16° et 40° sont modifiés comme suit :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"16°\">\n            <span class=\"provision-text\">la &quot; Vlaamse Huisvestingsmaatschappij &quot; ou les sociétés locales de logement social agréées par la &quot; Vlaamse Huisvestingsmaatschappij &quot;.</span>\n          </li>\n          <li class=\"provision\" data-number=\"40°\">\n            <span class=\"provision-text\">l'Institut pour l'Encouragement de la Recherche scientifique dans l'Industrie et l'Agriculture et son ayant droit, le &quot; Vlaams instituut voor de bevordering van het wetenschappelijk-technologisch onderzoek in de industrie &quot;.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.124Z",
+  "tokenUsage": {
+    "prompt": 1965,
+    "completion": 489,
+    "total": 2454
+  }
+}

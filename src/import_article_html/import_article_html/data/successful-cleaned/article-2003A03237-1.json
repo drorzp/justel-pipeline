@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003A03237",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté de la Commission bancaire et financière du 5 décembre 1995 concernant le règlement relatif aux fonds propres des établissements de crédit, modifié par l'arrêté de la Commission bancaire et financière du 27 août 1996 et l'arrêté de la Commission bancaire et financière du 3 août 2000, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">L'alinéa 1er est remplacé par la disposition suivante :<br>\" Sauf indications contraires, les dispositions du présent règlement s'appliquent aux établissements de crédit au sens de l'article 1er, alinéa 2, 1° et visés aux titres II et IV de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">L'article 1er est complété par l'alinéa suivant :<br>\" Le Chapitre XIIbis ainsi que l'article 90, § 2, sont toutefois applicables aux établissements de crédit qui sont exclusivement des établissements de monnaie électronique visés à l'article 1er, alinéa 2, 2°, de la loi. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.733Z",
+  "tokenUsage": {
+    "prompt": 1911,
+    "completion": 396,
+    "total": 2307
+  }
+}

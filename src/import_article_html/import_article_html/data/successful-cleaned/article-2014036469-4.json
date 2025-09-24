@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036469",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 9 du même arrêté est remplacé par les dispositions suivantes :</p>\n      <p>\" Art. 9. Lors du paiement du lait, l'acheteur peut appliquer des primes, sur la base des critères qui sont exclusivement liés à la qualité du lait telle que visée à l'arrêté royal.</p>\n      <p>Pour pouvoir appliquer les primes, visées à l'alinéa premier, les trois conditions cumulatives suivantes doivent être remplies :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">il n'y a pas eu de réfaction suite à des points de pénalisation ou à la présence de substances inhibitrices ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la fourniture du lait est couplée à un régime de qualité alimentaire agréé par l'Autorité flamande, en application de l'arrêté ministériel du 26 mars 2007 portant agrément de régimes de qualité alimentaires ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le système, visé aux points 1° et 2°, est appliqué de façon non-discriminatoire à toute fourniture de lait répondant aux mêmes critères.</span>\n        </li>\n      </ol>\n      <p>Le montant de la prime, visée à l'alinéa premier, ne peut être supérieur à 1,50 euros par 100 litres.</p>\n      <p>D'autres primes peuvent être appliquées, qui n'ont toutefois pas trait aux critères de qualité, visés à l'arrêté royal.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.343Z",
+  "tokenUsage": {
+    "prompt": 1994,
+    "completion": 461,
+    "total": 2455
+  }
+}

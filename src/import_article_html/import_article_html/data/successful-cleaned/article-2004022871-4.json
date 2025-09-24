@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004022871",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-11-07/09\" data-law-type=\"AR\" data-article-number=\"3\">\n        <p>Les membres visés à l'article 3, 1°, c) et leurs suppléants sont proposés par le Ministre ayant l'Environnement dans ses attributions.<br>Le membre visé à l'article 3, 2° et son suppléant sont proposés par l'administrateur délégué de l'AFSCA.<br>Le membre visé à l'article 3, 3° et son suppléant sont proposés par le Ministre qui a le Budget dans ses attributions..<br>Les membres visés à l'article 3, 4° à 10° et leurs suppléants sont proposés par les associations professionnelles concernées.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.773Z",
+  "tokenUsage": {
+    "prompt": 1749,
+    "completion": 268,
+    "total": 2017
+  }
+}

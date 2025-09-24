@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013029484",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 34</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les articles 66, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">69,</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">81,</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">84,</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">90,</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">93,</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">98,</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et 101,</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">du même décret sont à chaque fois complétés par la phrase suivante :</span></li>\n            </ol>\n            <p class=\"closing-text\">&quot; Si l'opérateur développe plusieurs pôles d'activités, il doit également fournir la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.048Z",
+  "tokenUsage": {
+    "prompt": 1773,
+    "completion": 394,
+    "total": 2167
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1967101054",
+  "articleNumber": "566",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-566\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 566</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Diverses demandes en justice ou divers chefs de demande entre deux ou plusieurs parties, qui présentés isolément devraient être portés devant des tribunaux différents, peuvent, s'ils sont connexes, être réunis devant le même tribunal en observant l'ordre de préférence indiqué <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-07-30/23\" data-law-type=\"L\" data-article-number=\"126\">à l'article 565, alinéa 2, 1° et 2° et 4° à 8°</span>.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <p>Toutefois si les parties ne sont pas les mêmes dans toutes les demandes et si l'un des tribunaux a rendu un jugement qui n'a pas pour effet de soustraire le litige à sa connaissance, le renvoi à ce tribunal ne peut être prononcé si ceux qui n'ont pas été partie à ce jugement s'y opposent.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 3.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les dispositions des articles 661 et 662 sont applicables en cas de renvoi du chef de connexité.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.645Z",
+  "tokenUsage": {
+    "prompt": 1842,
+    "completion": 430,
+    "total": 2272
+  }
+}

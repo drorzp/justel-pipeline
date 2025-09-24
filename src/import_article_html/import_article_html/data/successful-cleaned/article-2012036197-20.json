@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012036197",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 20</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les articles 33 à 35 inclus, l'article 36, alinéa premier,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">3°, et l'article 88, § 5, du décret du 13 mars 2009 sur les soins et le logement entrent en vigueur le 1er janvier 2013.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.321Z",
+  "tokenUsage": {
+    "prompt": 1533,
+    "completion": 195,
+    "total": 1728
+  }
+}

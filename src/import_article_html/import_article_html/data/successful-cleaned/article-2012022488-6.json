@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012022488",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 37, § 20, alinéa 1er, de la même loi, inséré par la loi du 22 février 1998 et modifié par les lois des 27 avril et 27 décembre 2005, les mots \" les prestations visées à l'article 34, 14°,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"24°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"25°\">\n          <span class=\"provision-text\">&quot; sont remplacés par les mots &quot; les prestations visées à l'article 34,</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">14°,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"20°\">\n          <span class=\"provision-text\">bis,</span>\n        </li>\n        <li class=\"provision\" data-number=\"24°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"25°\">\n          <span class=\"provision-text\">&quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.257Z",
+  "tokenUsage": {
+    "prompt": 1699,
+    "completion": 371,
+    "total": 2070
+  }
+}

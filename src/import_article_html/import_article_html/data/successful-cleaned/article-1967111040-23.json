@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1967111040",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          Le Roi peut, (conformément aux dispositions de l'article 46bis, § 2), préciser les prestations visées à l'article 22, 1° et fixer les conditions de leur exécution. \n          <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1990-12-19/32\" data-law-type=\"L\" data-article-number=\"5\">\n            &lt;L 1990-12-19/32, art. 5, 1, 005;**En vigueur :**08-01-1991&gt;\n          </span>\n          Il peut en outre, (conformément aux dispositions de l'article 46bis, § 2), définir les conditions de qualification auxquelles doivent répondre les personnes qui accomplissent ces prestations. \n          <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1990-12-19/32\" data-law-type=\"L\" data-article-number=\"5\">\n            &lt;L 1990-12-19/32, art. 5, 2, 005;**En vigueur :**08-01-1991&gt;\n          </span>\n        </p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          Le Roi peut, sur avis du Conseil national des professions paramédicales, déterminer les titres professionnels sous lesquels les intéressés accomplissent les prestations et actes visés à l'article 22.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.641Z",
+  "tokenUsage": {
+    "prompt": 1922,
+    "completion": 463,
+    "total": 2385
+  }
+}

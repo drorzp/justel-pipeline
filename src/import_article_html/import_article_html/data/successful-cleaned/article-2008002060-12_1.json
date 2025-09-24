@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008002060",
+  "articleNumber": "12/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-08-03/29\" data-law-type=\"AR\" data-article-number=\"1\">\n        Par dérogation à l'article 7, § 1er, alinéa 3, de l'arrêté royal du 2 octobre 2002, les profils des membres effectifs de la commission de sélection, visés à l'article 7, § 1er, alinéa 1er, 2°, 4° et 5° de l'arrêté précité ainsi que ceux de leur suppléants sont déterminés en concertation avec le ministre concerné sur proposition conjointe du président et du directeur général de l'établissement.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.013Z",
+  "tokenUsage": {
+    "prompt": 1779,
+    "completion": 244,
+    "total": 2023
+  }
+}

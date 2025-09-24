@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035167",
+  "articleNumber": "VIII.43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-VIII-43\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article VIII.43</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 36octies du même décret, inséré par le décret du 10 juillet 2003 et modifié par le décret du 17 juin 2011, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au paragraphe 1er est ajouté un point 5°, rédigé comme suit : \" 5° par dérogation au point 2°, les membres du personnel désignés avec des périodes transférées, sont engagés pour l'accomplissement de charges pour et auprès d'autres écoles du centre d'enseignement. Ce point doit faire l'objet de concertations au sein du comité local. \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au paragraphe 2, les mots \" Lors de l'application du § 1er, 3° et 4°, \" sont remplacés par les mots \" Lors de l'application du § 1er, 3°, 4° et 5°, \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.048Z",
+  "tokenUsage": {
+    "prompt": 1804,
+    "completion": 345,
+    "total": 2149
+  }
+}

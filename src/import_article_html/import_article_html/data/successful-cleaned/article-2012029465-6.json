@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012029465",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>La fédération établit un agenda annuel des épreuves théorique et pratique visées à l'article 11, § 3,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">du décret et en informe ses membres.</span>\n                    </li>\n                </ol>\n                <p>Elle organise les deux épreuves, au moins tous les deux mois.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>La fédération établit la liste des stands de tir dans lesquels les épreuves peuvent être organisées.</p>\n                <p>Chaque candidat, dont la demande est recevable est convoqué, par courrier, dans le mois, afin de participer aux épreuves dont la date est la plus proche se déroulant le plus près possible de son domicile sauf s'il a, au moment de l'introduction de la demande, fait le choix d'une autre zone géographique que celle où est situé son domicile.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.267Z",
+  "tokenUsage": {
+    "prompt": 1806,
+    "completion": 398,
+    "total": 2204
+  }
+}

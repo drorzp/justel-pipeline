@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010027184",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        A l'article 15, § 1er, alinéa 1er, 7° et 8°, et alinéa 3, les mots \" centre public d'aide sociale \" sont remplacés par les mots \" centre public d'action sociale \".\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        Aux articles 2, § 1er, 1°, et § 4, 15, § 1er, alinéa 1er, 5°, 9° et 10°, § 2, 3°, 5° à 10°, § 3, alinéa 1er, 1°, et alinéa 2, § 4, alinéa 1er, § 6, 22, § 1er et 42, alinéa 1er et 2, les mots \" centres publics d'aide sociale \" sont remplacés par les mots \" centres publics d'action sociale \".\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.249Z",
+  "tokenUsage": {
+    "prompt": 1816,
+    "completion": 346,
+    "total": 2162
+  }
+}

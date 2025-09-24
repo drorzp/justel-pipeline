@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015131",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans la loi du 25 décembre 2017 modifiant diverses dispositions en vue de réformer les cantons judiciaires, entrent en vigueur le 1er février 2019 :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">les articles 8, 2°, 10, 6°, 11, 17°, 13, 2° et 26, 2° et 3° ;</li>\n        <li class=\"sub-provision\" data-marker=\"b)\">l'article 33 dans la mesure où, dans la section 5 de l'article 1er de l'annexe au Code judiciaire, il remplace les cantons de Hal, de Herne - Leeuw-Saint-Pierre et de Lennik par la section 5, 2. et 4. et l'arrondissement administratif de Hal-Vilvorde par la section 5, 8. ;</li>\n        <li class=\"sub-provision\" data-marker=\"c)\">l'article 39 dans la mesure où il remplace, dans la section 11 de l'article 1er de l'annexe au Code judiciaire, les cinq cantons de Charleroi, les cantons de Châtelet, de Fontaine-l'Evêque et de Thuin par la section 11, 3. à 7. et 9. ;</li>\n        <li class=\"sub-provision\" data-marker=\"d)\">les articles 40, e) et 41, d).</li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.711Z",
+  "tokenUsage": {
+    "prompt": 1939,
+    "completion": 404,
+    "total": 2343
+  }
+}

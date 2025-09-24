@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000663",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 31</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le conseiller zonal qui veut prendre un congé parental à l'occasion de la naissance ou de l'adoption d'un enfant, est remplacé <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/22\" data-law-type=\"L\" data-article-number=\"81\">pendant cette période selon les règles applicables en vigueur au niveau communal</span>. <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/22\" data-law-type=\"L\" data-article-number=\"81\">Alinéa 2 abrogé.</span> <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/22\" data-law-type=\"L\" data-article-number=\"81\">L'alinéa 1er ne s'applique</span> toutefois qu'à partir de la première séance du conseil suivant celle au cours de laquelle le conseiller empêché a été installé.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.816Z",
+  "tokenUsage": {
+    "prompt": 1839,
+    "completion": 308,
+    "total": 2147
+  }
+}

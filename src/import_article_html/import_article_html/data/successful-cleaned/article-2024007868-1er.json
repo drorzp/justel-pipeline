@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024007868",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 19 janvier 2018 réglant la participation flamande à et/ou le subventionnement d'infrastructures de recherche internationales, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le point 7° est complété par les mots suivants :</span>\n                    <p class=\"intro-text\">\" qui est une personne morale ou une personne morale en devenir \" ;</p>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est ajouté un point 11° et un point 12°, rédigés comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"11°\">\n                            <span class=\"provision-text\">appel \" feuille de route \" : l'appel aux demandes de participation à des infrastructures de recherche internationales dont l'importance stratégique pour la Région flamande ou la Communauté flamande peut être démontrée ;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"12°\">\n                            <span class=\"provision-text\">appel au financement : l'appel au financement ou au refinancement de la participation à des infrastructures de recherche internationales.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.452Z",
+  "tokenUsage": {
+    "prompt": 1902,
+    "completion": 401,
+    "total": 2303
+  }
+}

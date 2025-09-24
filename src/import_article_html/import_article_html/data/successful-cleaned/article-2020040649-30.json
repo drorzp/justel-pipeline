@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020040649",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 30</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les travailleurs handicapés visés à l'article 29,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">doivent disposer d'une décision favorable de l'équipe pluridisciplinaire antérieure à l'engagement dans l'entreprise et éventuellement d'une durée limitée.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">doivent disposer d'une décision favorable de l'équipe pluridisciplinaire antérieure à leur entrée dans l'entreprise conformément à l'arrêté du Collège du 7 mai 2015, les articles 46 à 63.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Ces décisions respectent les critères tels que précisés à l'annexe 1. La demande de la personne handicapée est introduite auprès du Directeur d'administration au moyen du formulaire établi par celui-ci.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.265Z",
+  "tokenUsage": {
+    "prompt": 1713,
+    "completion": 329,
+    "total": 2042
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001033016",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les employeurs qui, le 1er janvier 2001, occupent du personnel travaillant au 31 décembre 2000 en vertu de l'arrêté du Gouvernement wallon du 11 mai 1995 relatif à l'engagement d'agents contractuels subventionnés auprès de certains pouvoirs publics et employeurs y assimilés ou dans le cadre des mesures favorisant l'emploi visées à l'article 4, § 1,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"11°\"><span class=\"provision-text\">11°</span></li>\n                <li class=\"provision\" data-number=\"14°\"><span class=\"provision-text\">14°</span></li>\n                <li class=\"provision\" data-number=\"17°\"><span class=\"provision-text\">17°</span></li>\n            </ol>\n            <p class=\"closing-text\">, peuvent introduire tardivement, jusqu'au 28 février 2001 au plus tard, la convention visée à l'article 7, § 1, alinéa 1.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.138Z",
+  "tokenUsage": {
+    "prompt": 1681,
+    "completion": 322,
+    "total": 2003
+  }
+}

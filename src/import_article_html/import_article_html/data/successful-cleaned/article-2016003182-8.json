@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003182",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>En l'absence de candidats pour une désignation en tant que concierge ou si aucun candidat ne peut être classé dans les groupes A ou B tels que visés à l'article 5, § 1er, il peut être procédé à l'engagement sous contrat de travail d'un concierge à titre principal.</p>\n        <p>Par dérogation à l'article 2, 4°, de l'arrêté royal du 25 avril 2005 fixant les conditions d'engagement par contrat de travail dans certains services publics, les critères de sélection et la procédure de sélection repris dans les articles 4, 3°, 5° et 6°, 5 et 6 sont d'application.</p>\n        <p>Un contrat de travail pour exercer la fonction de concierge est conclu avec le candidat le mieux classé, conformément à la loi du 3 juillet 1978 relative aux contrats de travail.</p>\n        <p>Les dispositions du présent arrêté et de ses arrêtés d'exécution sont, le cas échéant, d'application aux concierges contractuels et aux membres de leur ménage pour autant qu'elles ne soient pas en contradiction avec la loi du 3 juillet 1978 précitée.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La fonction de concierge est une tâche auxiliaire au sens de l'article 4, § 1er, 3°, de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.310Z",
+  "tokenUsage": {
+    "prompt": 2058,
+    "completion": 461,
+    "total": 2519
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021033196",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\">1er</span></h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article I.2 du statut du personnel flamand du 13 janvier 2006, modifié en dernier lieu par l'arrêté du Gouvernement flamand du 27 novembre 2020, est complété par un point 35° et un point 36°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"35°\">\n          <span class=\"provision-text\">enfant placé : l'enfant pour lequel le membre du personnel ou le partenaire cohabitant, dans le cadre du placement familial, a été désigné par l'une des instances suivantes :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">le tribunal ;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">un service de placement agréé par la communauté compétente ;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">les services communautaires compétents de la protection de la jeunesse ;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"36°\">\n          <span class=\"provision-text\">père et mère d'accueil : le parent d'accueil qui, dans le cadre du placement familial, a été désigné par l'une des instances suivantes :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">le tribunal ;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">un service de placement agréé par la communauté compétente ;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">les services communautaires compétents de la protection de la jeunesse.</li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.192Z",
+  "tokenUsage": {
+    "prompt": 1975,
+    "completion": 493,
+    "total": 2468
+  }
+}

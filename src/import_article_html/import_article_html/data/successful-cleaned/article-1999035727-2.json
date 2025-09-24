@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035727",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 14, § 1er, du même arrêté, 4° et 5° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">en cas de concordat judiciaire, à partir de la date sur laquelle le plan de redressement est complètement accompli;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">en cas de reprise de l'entreprise aux termes de l'article 11, à partir de la date sur laquelle les données définitives sont disponibles et le prix de reprise total est payé et dans le délai de cinq ans après la date de la convention par laquelle le transfert est réglé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.264Z",
+  "tokenUsage": {
+    "prompt": 1658,
+    "completion": 264,
+    "total": 1922
+  }
+}

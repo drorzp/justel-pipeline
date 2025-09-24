@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018010896",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Si une spécialité est classée en classe 1 par le demandeur, tous les critères mentionnés à l'article 4 sont utilisés lors de l'évaluation. Si une spécialité est classée en classe 2, sous-classe 2B ou sous-classe 2C ou classe 3, sous-classe 3B ou sous-classe 3C, par le demandeur, les critères mentionnés à l'article 4, 1° à 4° inclus, sont utilisés lors de l'évaluation.</p>\n      <p>Si une spécialité est inscrite par le demandeur en classe 2, sous-classe 2A ou classe 3, sous-classe 3A, les critères mentionnés à l'article 4, 2° et 4° sont appliqués lors de l'évaluation.</p>\n      <p class=\"closing-text\">La détermination définitive de la classe de la plus-value est effectuée par le Ministre, sur la proposition de la Commission, sauf lorsque la Commission ne formule pas de proposition en temps opportun, auquel cas le Ministre prend la décision, et lorsque le Ministre ne prend pas de décision en temps opportun, c'est la proposition la plus récente du demandeur qui est prise en considération.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.766Z",
+  "tokenUsage": {
+    "prompt": 1991,
+    "completion": 347,
+    "total": 2338
+  }
+}

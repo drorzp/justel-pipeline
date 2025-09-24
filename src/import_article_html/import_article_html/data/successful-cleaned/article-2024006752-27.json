@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006752",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 27</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 18bis, § 2, alinéa 1er, du même décret, modifié par le décret du 23 décembre 2010, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">aux points </span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"4°\"><span class=\"provision-text\">et </span></li>\n                        <li class=\"sub-provision\" data-marker=\"5°\"><span class=\"provision-text\">, le mot \" fonctionnaires \" est chaque fois remplacé par les mots \" membres du personnel \"</span></li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au point </span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"7°\"><span class=\"provision-text\">, le mot \" fonctionnaires \" est chaque fois remplacé par les mots \" membres du personnel \"</span></li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au point </span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"8°\"><span class=\"provision-text\">, le membre de phrase \" , si la remise de la dette ressort de l'acte \" est abrogé et le mot \" fonctionnaires \" est remplacé par les mots \" membres du personnel \".</span></li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.544Z",
+  "tokenUsage": {
+    "prompt": 1872,
+    "completion": 448,
+    "total": 2320
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048141",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3, § 1er, de l'arrêté ministériel du 22 juin 2000 fixant l'intervention visée à l'article 37, § 12, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, dans les centres de soins de jour, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, les mots \"au Service des soins de santé de l'Institut national d'assurance malade invalidité\" sont remplacés par les mots \"à Iriscare\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux points 1°, 2°, 3° et 4°, première phrase, les mots \"le Service\" sont chaque fois remplacés par le mot \"Iriscare\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">il est inséré un point 1bis°, rédigé comme suit :</span>\n          <ol class=\"numbered-sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1bis°\">\n              <span class=\"sub-provision-text\">à partir du premier jour ouvrable suivant un trimestre échu, le nombre de journées facturées pendant ce trimestre;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">au point 4°, deuxième phrase, les mots \"le Service susvisé\" sont remplacés par le mot \"Iriscare\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.495Z",
+  "tokenUsage": {
+    "prompt": 2091,
+    "completion": 494,
+    "total": 2585
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030624",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 29</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Au début du parcours d'activation, le secrétaire mandaté obtient 70 % de l'indemnité de compensation, visée à l'article 28, alinéa 1er, du présent arrêté. Le secrétaire mandaté obtient les 30 % restants de l'indemnité de compensation si toutes les conditions suivantes sont remplies :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le case manager Travail et le case manager Soins jugent que les prestataires de services ont exécuté les actions du plan de parcours ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le case manager Travail et le case manager Soins ont reçu suffisamment d'informations pertinentes des prestataires de services afin d'établir à temps, sur cette base, un rapport final et de motiver un avis final tels que visés aux articles 30 et 31 du décret du 25 avril 2014 ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le parcours a une durée minimale de trois mois, telle que visée à l'article 24 du décret précité.</span></li>\n      </ol>\n      <p class=\"closing-text\">Les moyens qui n'appartiennent pas à l'indemnité de compensation du secrétaire pour l'exécution de ses tâches, visées à l'article 19, 1°, 3°, 4°, 5° et 6°, du décret précité, ne peuvent être affectés qu'à la dispensation de services aux participants. Les frais des soins, accordés dans le cadre du parcours d'activation, visés à l'article 23, alinéa 1er, 2°, du décret du 25 avril 2014 et à l'article 33 du présent arrêté, qui sont éligibles au remboursement par l'INAMI, ne sont pas à charge de l'indemnité de compensation. A la fin du mandat, les moyens non affectés à la prestation de service sont transmis à l'Autorité flamande.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.363Z",
+  "tokenUsage": {
+    "prompt": 2195,
+    "completion": 547,
+    "total": 2742
+  }
+}

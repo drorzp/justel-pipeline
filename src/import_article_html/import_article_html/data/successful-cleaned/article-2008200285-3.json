@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008200285",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 du même arrêté sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les 2°, 3°, 5°, 6° et 7° sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le 4°, le mot \"produire\" est remplacé par les mots \"présenter à la CWaPE\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le 8°, les mots \"conformément à la Directive 2003/54/CE\" sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">au 9°, la première phrase est complétée comme suit : \", au sens de l'article 15ter \" et la phrase \"Le Ministre définit, après avis de la CWaPE les termes \"modification significative\" est supprimée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">il est inséré un 11° rédigé comme suit :</span>\n        </li>\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">\"Ministre\" : le Ministre qui a l'Energie dans ses attributions.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.911Z",
+  "tokenUsage": {
+    "prompt": 1908,
+    "completion": 443,
+    "total": 2351
+  }
+}

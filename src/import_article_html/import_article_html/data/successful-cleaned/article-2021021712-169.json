@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021021712",
+  "articleNumber": "169",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-169\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 169</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 6.11 du même Code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1, le membre de phrase &quot; , § 1, alinéa 1, 1°, 2° et 3° &quot; est ajouté ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les alinéas 2 à 4 inclus sont remplacés par ce qui suit :</span>\n          <p class=\"closing-text\">&quot; Par dérogation à l'alinéa 1, le candidat locataire ne doit pas remplir les conditions d'admission si, au moment de l'attribution, il est déjà locataire d'un autre logement locatif social. Le conjoint ou cohabitant légal du locataire, visé à l'article 6.1, 1°, a), peut uniquement cohabiter avec ce locataire dans le logement locatif social après le début du contrat de location, si cette personne satisfait avec ce locataire aux conditions visées à l'alinéa 1, et si la cohabitation ne conduit pas à un logement inadapté ou à un logement qui ne répond pas aux normes énoncées à l'article 3.1, § 1, alinéa 4. Si ces conditions sont remplies, le conjoint ou cohabitant légal devient locataire de plein droit. Le partenaire de fait du locataire, visé à l'article 6.1, 1°, a), qui est venu cohabiter dans le logement locatif social après le début du contrat de location ne peut, après avoir cohabité avec le locataire de référence pendant un an, continuer à vivre dans le logement que si lui et le locataire de référence remplissent les conditions visées à l'alinéa 1. Si ces conditions sont remplies, le partenaire de fait devient locataire de plein droit.</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.178Z",
+  "tokenUsage": {
+    "prompt": 2195,
+    "completion": 542,
+    "total": 2737
+  }
+}

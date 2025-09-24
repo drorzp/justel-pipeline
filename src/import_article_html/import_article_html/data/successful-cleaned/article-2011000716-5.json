@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011000716",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 3 du même arrêté est complété par deux dispositions libellées comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">16° pour l'exercice de l'activité visée à l'article 1er, § 1er, alinéa 1er, 8°, de la loi : être détenteur de l'attestation de compétence agent de gardiennage - accompagnement de véhicules exceptionnels\".</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">17° pour l'exercice de l'activité visée à l'article 1er, § 1er, alinéa 1er, 1° et 5°, de la loi, aux postes de travail soumis à la loi de 5 février 2007 relative à la sûreté maritime : être détenteur de l'attestation de compétence agent de gardiennage - gardiennage portuaire et de l'attestation de compétence générale agent de gardiennage\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.345Z",
+  "tokenUsage": {
+    "prompt": 1888,
+    "completion": 333,
+    "total": 2221
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002027956",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 28</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les seuils de consommation et les limites d'émissions sont fixés de la manière suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">si la consommation de solvants est supérieure à 2 tonnes par an, la valeur limite d'émission de COV non méthanique dans les rejets canalisés, exprimée en carbone total est de 75 mg/m3;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le flux annuel des émissions diffuses ne doit pas dépasser :</span>\n          <ul class=\"hyphenated-items\">\n            <li class=\"hyphenated-item\">\n              <span class=\"item-text\">20 % de la quantité de solvants utilisée, si la consommation de solvants est inférieure ou égale à 10 tonnes/an;</span>\n            </li>\n            <li class=\"hyphenated-item\">\n              <span class=\"item-text\">15 % de la quantité de solvants utilisée, si la consommation de solvants est supérieure à 10 tonnes/an;</span>\n            </li>\n          </ul>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Les valeurs visées au 1° et 2° ci-avant ne s'appliquent pas aux installations qui démontrent à l'autorité compétente que la teneur moyenne en solvant organique de tous les produits de nettoyage utilisés ne dépasse pas 30 % en poids.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.699Z",
+  "tokenUsage": {
+    "prompt": 1916,
+    "completion": 437,
+    "total": 2353
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001475",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 44</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 1er octobre 2020 portant exécution du prêt Proxi est abrogé.</p>\n      <p class=\"intro-text\">Les prêts Proxi enregistrés avant l'entrée en vigueur du présent arrêté continuent toutefois d'être soumis aux dispositions de l'arrêté que l'alinéa 1er abroge.</p>\n      <p class=\"intro-text\">Les dispositions contenues aux articles 12, § 2, 21,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, et 22, § 1er, alinéa 3, s'appliquent néanmoins à ces prêts.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.518Z",
+  "tokenUsage": {
+    "prompt": 1648,
+    "completion": 274,
+    "total": 1922
+  }
+}

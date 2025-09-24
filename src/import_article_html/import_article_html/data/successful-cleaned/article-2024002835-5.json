@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002835",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 13 de la même loi, modifié en dernier lieu par la loi du 11 février 2021, est remplacé par ce qui suit: \"Art. 13. Est puni d'un emprisonnement de huit jours à trois mois et d'une amende de vingt-six euros à mille euros ou de l'une de ces peines seulement:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">celui qui, sans être le fabricant ou l'importateur, contrevient, à l'article 6, §§ 4, 4/1, 6, 6/1, 7, 9 et 10, et à l'article 8 et aux arrêtés pris en exécution des articles 2, 3, 2°, 4° et 6°, 4, §§ 3 et 4, 5, § 4, et 6;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">celui qui, sans être le fabricant ou l'importateur, introduit dans le commerce des denrées alimentaires ou autres produits visés par la présente loi et qui sont gâtés, nuisibles ou déclarés nuisibles par un règlement de l'administration générale, provinciale ou communale;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">celui qui contrevient aux arrêtés pris en exécution de l'article 2 al. 6;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">celui qui contrevient aux dispositions de l'article 3/1;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">celui qui contrevient à la mesure prise en exécution de l'article 6bis.\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.528Z",
+  "tokenUsage": {
+    "prompt": 2112,
+    "completion": 535,
+    "total": 2647
+  }
+}

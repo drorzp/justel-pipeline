@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998002123",
+  "articleNumber": "108",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-108\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 108</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2002-06-10/31\" data-law-type=\"AR\" data-article-number=\"13\" data-effective-date=\"01-08-1999\">\n          &lt;AR 2002-06-10/31, art. 13, 009; En vigueur : 01-08-1999&gt;\n        </span>\n        L'agent en congé pour une mission internationale visée à l'article 99, alinéa 2, 1° et 3°, obtient des indemnités destinées à supporter des charges réelles et/ou des allocations.\n      </p>\n      <p class=\"closing-text\">\n        Le ministre dont relève l'agent détermine le montant de ces indemnités et allocations, selon les modalités en vigueur pour les agents de la carrière du Service extérieur et de la carrière de la Chancellerie du Ministère des Affaires étrangères, du Commerce extérieur et de la Coopération internationale et (en fonction de la (classe) ou du grade) dont est revêtu l'agent en congé pour mission.\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-08-04/30\" data-law-type=\"AR\" data-article-number=\"132\" data-effective-date=\"01-12-2004\">\n          &lt;AR 2004-08-04/30, art. 132, 013; En vigueur : 01-12-2004&gt;\n        </span>\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2008-11-19/30\" data-law-type=\"AR\" data-article-number=\"95\" data-effective-date=\"01-12-2008\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008111930\">\n          &lt;AR 2008-11-19/30, art. 95, 022; En vigueur : 01-12-2008&gt;\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.077Z",
+  "tokenUsage": {
+    "prompt": 2091,
+    "completion": 544,
+    "total": 2635
+  }
+}

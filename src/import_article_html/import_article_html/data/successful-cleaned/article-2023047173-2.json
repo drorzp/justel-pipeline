@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047173",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 102 de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat, modifié en dernier lieu par l'arrêté royal du 19 novembre 1998, les 2° et 3° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour la protection de la maternité et le congé de maternité converti ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le cadre du congé parental, du congé d'adoption, du congé d'accueil, du congé parental d'accueil et du congé pour soins d'accueil ;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.484Z",
+  "tokenUsage": {
+    "prompt": 1667,
+    "completion": 271,
+    "total": 1938
+  }
+}

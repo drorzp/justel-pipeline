@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010859",
+  "articleNumber": "126",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-126\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 126</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 18 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er est remplacé par ce qui suit :<br>\" La commune met à disposition le texte utilisé pour la publication visée à l'article 16, alinéa 3, 1° à 4°, ou alinéa 4, 1° et 2°. \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 2, le point 1° est remplacé par ce qui suit :<br>\" 1° l'obligation d'autorisation ou les obligations d'autorisation visées à l'article 5 du décret du 25 avril 2014 auxquelles la demande se rapporte ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">à l'alinéa 2, un point 1° /1 est inséré, qui est libellé comme suit :<br>\" 1/1° une description succincte de l'objet de la demande de permis ; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.750Z",
+  "tokenUsage": {
+    "prompt": 1864,
+    "completion": 386,
+    "total": 2250
+  }
+}

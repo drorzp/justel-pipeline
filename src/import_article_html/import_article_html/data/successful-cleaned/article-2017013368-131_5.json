@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017013368",
+  "articleNumber": "131/5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-131/5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 131/5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-07-11/08\" data-law-type=\"L\" data-article-number=\"308\">\n                <p class=\"intro-text\">Les autorités de contrôle visées à l'article 85, § 1er, 3° et 4° servent de points de contact pour l'ABE.</p>\n                <p class=\"closing-text\">Ces autorités de contrôle informent l'ABE des cas dans lesquels elles sont informées en application de l'article 13, § 3, alinéa 3, que le droit d'un pays tiers ne permet pas de mettre en oeuvre les politiques et procédures requises en vertu de l'article 13, § 1er, en raison de contraintes juridiques, notamment en matière de secret, de protection des données et d'autres contraintes limitant l'échange d'informations. Elles coopèrent avec l'ABE à la recherche d'une solution. Ces autorités fournissent à l'ABE toutes les informations nécessaires pour lui permettre d'accomplir ses missions au titre de la Directive 2015/849/CE.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.615Z",
+  "tokenUsage": {
+    "prompt": 1919,
+    "completion": 328,
+    "total": 2247
+  }
+}

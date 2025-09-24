@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001B00327",
+  "articleNumber": "IV.II.46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-IV-II-46\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article IV.II.46</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'autorité de recrutement ou, selon les cas, le commissaire général peuvent, là où le délai entre l'inscription dans la réserve de recrutement et <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-06-07/13\" data-law-type=\"AR\" data-article-number=\"34\">le commencement de</span> la formation de base le rend nécessaire, demander à la commission de sélection concernée un examen complémentaire relatif aux exigences visées à l'article IV.I.15, alinéa 1, 2° et 3° <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-06-07/13\" data-law-type=\"AR\" data-article-number=\"34\">ainsi qu'une enquête complémentaire de milieu et des antécédents</span>.</p>\n      <p>Dans ce cas, les articles IV.I.15 <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-06-07/13\" data-law-type=\"AR\" data-article-number=\"34\">à IV.I.23 y compris</span> sont d'application.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.684Z",
+  "tokenUsage": {
+    "prompt": 1817,
+    "completion": 346,
+    "total": 2163
+  }
+}

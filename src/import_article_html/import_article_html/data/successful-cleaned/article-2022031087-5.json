@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031087",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 11, alinéa 2, du même arrêté, remplacé par l'arrêté royal du 11 octobre 2007, les mots \"La recommandation visée à l'article 10, alinéa 2, 3°, est transmise\" sont remplacés par les mots \"Les recommandations visées à l'article 10, alinéa 2, 3° et 5°, sont transmises\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.743Z",
+  "tokenUsage": {
+    "prompt": 1590,
+    "completion": 177,
+    "total": 1767
+  }
+}

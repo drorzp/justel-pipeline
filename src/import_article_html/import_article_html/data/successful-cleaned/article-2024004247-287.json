@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004247",
+  "articleNumber": "287",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-287\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 287</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En cas de cessation définitive de la fonction, le déménagement du lieu d'affectation vers une seule adresse est pris en charge à hauteur d'un déménagement vers la Belgique pour autant que le départ du déménagement du lieu d'affectation ait lieu dans le courant du mois qui suit le mois de la fin de l'affectation en poste.</p>\n      <p class=\"intro-text\">Sans préjudice de l'alinéa 1er, en cas de cessation définitive de la fonction, la prise en charge du garde-meuble est accordée dans les limites suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pour le loyer : jusqu'à trois mois après l'arrivée des meubles et effets personnels en provenance du lieu d'affectation ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour le déménagement des meubles et effets personnels du garde-meuble :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">à hauteur d'un déménagement vers une seule adresse en Belgique ;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">jusqu'à six mois après la cessation définitive de las fonction.</li>\n          </ol>\n        </li>\n      </ol>\n      <p>Par dérogation à l'alinéa 2, 2°, b), la prise en charge du déménagement des meubles et effets personnels hors du garde-meuble dans les limites visées à l'alinéa 2, 1° et 2°, a) est prolongée jusqu'à la fin de la prise en charge du loyer du garde-meuble lorsque la prise en charge du loyer du garde-meuble dépasse six mois après la cessation définitive de la fonction.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.341Z",
+  "tokenUsage": {
+    "prompt": 2049,
+    "completion": 499,
+    "total": 2548
+  }
+}

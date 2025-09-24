@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019030979",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 19, § 1er au a) des points 1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">de l'arrêté royal du 12 octobre 2004 fixant les conditions dans lesquelles l'assurance obligatoire soins de santé et indemnités intervient dans le coût des préparations magistrales et des produits assimilés, les mots &quot; le principe actif de cette spécialité pharmaceutique n'est pas inscrit dans la liste &quot; sont remplacés par les mots &quot; aucun principe actif de cette spécialité pharmaceutique n'est inscrit dans la liste &quot;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.434Z",
+  "tokenUsage": {
+    "prompt": 1659,
+    "completion": 274,
+    "total": 1933
+  }
+}

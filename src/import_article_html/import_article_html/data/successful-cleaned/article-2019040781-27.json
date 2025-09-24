@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040781",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article II.153 du même Code, modifié par les décrets des 8 décembre 2017, 4 mai 2018 et 18 mai 2018, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le paragraphe 1er, alinéa 2, est complété par la phrase suivante : \" Les règles visées aux paragraphes 2, 3, 6° et 3/1 ne s'appliquent pas aux autres institutions enregistrées d'office. Les autres institutions enregistrées d'office introduisent immédiatement un dossier auprès de la Commissie Hoger Onderwijs avant le 1er mars de l'année calendaire précédant l'année académique pendant laquelle l'institution souhaite proposer au plus tôt la formation. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le paragraphe 3, alinéa 2, est complété par la phrase suivante : \" Pour les autres institutions enregistrées d'office, l'avis de la Commissie Hoger Onderwijs ne tient pas compte du critère visé au paragraphe 1er, 6°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.379Z",
+  "tokenUsage": {
+    "prompt": 1877,
+    "completion": 376,
+    "total": 2253
+  }
+}

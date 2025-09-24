@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999022192",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 68 de la même loi, modifié par la loi du 18 juillet 1990, les mots \"et 35\" sont remplacés par les mots \", 35 et 37bis, § 1er, 1° et 4° à 6°.\".</p>\n      <p class=\"closing-text\">Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge. Donné à Bruxelles, le 16 mars 1999.</p>\n      <p class=\"signatures\">\n        ALBERT<br>\n        Par le Roi:<br>\n        Le Ministre de l'Intérieur,<br>\n        L. VAN DEN BOSSCHE<br>\n        Le Ministre de la Justice,<br>\n        T. VAN PARYS<br>\n        Le Secrétaire d'État à la Sécurité,<br>\n        J. PEETERS<br>\n        Scellé du sceau de l'Etat:<br>\n        Le Ministre de la Justice,<br>\n        T. VAN PARYS\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.281Z",
+  "tokenUsage": {
+    "prompt": 1776,
+    "completion": 315,
+    "total": 2091
+  }
+}

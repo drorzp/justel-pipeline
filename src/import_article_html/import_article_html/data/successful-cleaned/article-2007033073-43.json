@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007033073",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 43</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 49, § 1er, du même décret, modifié par le décret du 26 juin 2006, il est inséré entre les points</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">un point 8bis, libellé comme suit :</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">\" 8bis. avoir obtenu au moins la mention \" satisfaisant \" dans le dernier bulletin de signalement visé à l'article 39bis; s'il n'y a pas de bulletin de signalement, la condition est censée être remplie. \"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.968Z",
+  "tokenUsage": {
+    "prompt": 1653,
+    "completion": 270,
+    "total": 1923
+  }
+}

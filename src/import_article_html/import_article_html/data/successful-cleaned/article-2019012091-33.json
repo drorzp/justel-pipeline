@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012091",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 102bis du même décret, modifié en dernier lieu par le décret du 10 mars 2017, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 2, alinéa 1er, le membre de phrase \" 1° et 2° \" est remplacé par le membre de phrase \" 1°, 2° et 3° \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 3, alinéa 1er, le membre de phrase \" et 9° \" est remplacé par le membre de phrase \" , 3° et 9° \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 9, le membre de phrase \" 1° ou 2° \" est remplacé par le membre de phrase \" 1°, 2° ou 3° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.296Z",
+  "tokenUsage": {
+    "prompt": 1805,
+    "completion": 355,
+    "total": 2160
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044199",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1 l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 26 janvier 2017 établissant les lignes directrices et les critères nécessaires au calcul de la performance énergétique des unités PEB et portant modification de divers arrêtés d'exécution de l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie, sont ajoutés les points 48° et 49° énoncés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"48°\">\n          <span class=\"provision-text\">Position nominale (de l'installation de ventilation) : la position de régulation (des ventilateurs et/ou des organes de régulation) qui est prévue pour réaliser les débits minima exigés. Sauf mention explicite contraire sur le panneau de commande, la position maximale est considérée comme la position nominale ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"49°\">\n          <span class=\"provision-text\">Appareils de production connectés en série : appareils de production connectés de telle sorte que la sortie du fluide caloporteur de l'appareil connecté comme premier est connecté avec l'entrée du fluide caloporteur de l'appareil suivant. La configuration où la sortie de l'appareil connecté comme premier est connecté avec l'évaporateur d'une pompe à chaleur, n'est pas considérée comme une configuration avec des appareils de production connectés en série.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.082Z",
+  "tokenUsage": {
+    "prompt": 1988,
+    "completion": 430,
+    "total": 2418
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996007139",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2 de l'arrêté royal du 11 septembre 1987 portant création d'une médaille commémorative des opérations humanitaires armées, modifié par l'arrêté royal du 2 juillet 1992 et par l'arrêté royal du 20 mai 1994, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">aux 1°, 2°, 3°, 4° et 5° les mots \" les missions \" sont remplacés par les mots \" les missions AFRIQUE 60 \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le 6°, les mots \" les opérations \" sont remplacés par les mots \" les opérations OMMEGANG \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.055Z",
+  "tokenUsage": {
+    "prompt": 1716,
+    "completion": 289,
+    "total": 2005
+  }
+}

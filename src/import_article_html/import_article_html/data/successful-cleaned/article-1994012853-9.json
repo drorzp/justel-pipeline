@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994012853",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 133, § 1er, 8°, du même arrêté royal, est remplacé par la disposition suivante :</p>\n        <section class=\"paragraph\" id=\"para-8\">\n            <h3 class=\"paragraph-marker\">§ 8.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Le travailleur visé à l'article 28, § 3,:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                </ol>\n                <p class=\"closing-text\">3°, et le travailleur des ports, à l'occasion de chaque payement d'allocations.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.932Z",
+  "tokenUsage": {
+    "prompt": 1587,
+    "completion": 240,
+    "total": 1827
+  }
+}

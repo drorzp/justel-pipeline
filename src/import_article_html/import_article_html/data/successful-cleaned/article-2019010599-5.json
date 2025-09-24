@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019010599",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La demande d'une prime visée à l'article 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">est introduite au département au moyen du formulaire modèle visé à l'article 6, accompagnée d'une copie de la facture visée à l'article 4 et des attestations visées à l'article 3.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        Le formulaire modèle visé à l'article 6 est rempli intégralement et signée par le demandeur lorsque la prime est demandée. La demande de prime est introduite par le résident ou le bailleur, visé à l'article 2, dans les trois mois suivant la cessation des activités visées à l'article 3, alinéas premier et deux, par remise au département, par courrier ou par voie électronique avec signature numérique.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.446Z",
+  "tokenUsage": {
+    "prompt": 1694,
+    "completion": 321,
+    "total": 2015
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990003068",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-04-10/14\" data-law-type=\"AR\" data-article-number=\"4\">\n                <p class=\"intro-text\">L'inscription s'effectue de manière électronique via l'application du registre du Bureau de la Garantie de la Monnaie royale de Belgique, se trouvant, après identification, dans MyMinfin (https://mrb.minfin.fgov.be).</p>\n                <p class=\"intro-text\">L'inscription n'est acceptée que si les informations et les documents visés à l'article 15, § 2, alinéa 6, et § 3, 1° et 3°, de la loi du 11 août 1987 \"relative à la garantie des ouvrages en métaux précieux\" sont donnés.</p>\n                <p class=\"intro-text\">Les membres du personnel de la Monnaie royale de Belgique ont accès au registre via le réseau interne développé par le SPF Finances ;</p>\n                <p class=\"intro-text\">L'accès pour la police et l'inspection économique s'effectue via MyMinfin,</p>\n                <p class=\"closing-text\">Le Service Public Fédéral Finances s'assure que toute consultation du registre est enregistrée et conservée pour la durée prévue à l'article 15, § 2, de la loi du 11 août 1987 relative à la garantie des ouvrages en métaux précieux.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.725Z",
+  "tokenUsage": {
+    "prompt": 1974,
+    "completion": 395,
+    "total": 2369
+  }
+}

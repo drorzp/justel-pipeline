@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004072",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 36</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'opérateur ne peut pas commercialiser un bovin considéré comme &quot;suspect d'être infecté par le BoHV-1 &quot; ou &quot; infecté par le BoHV-1 &quot;, ni faire participer ce bovin à un quelconque rassemblement d'animaux, ni le mettre en pâture.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Par dérogation au paragraphe 1er et jusqu'au 31 octobre 2024, l'élimination directe vers un abattoir ou vers un troupeau d'engraissement est autorisée pour :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">des bovins &quot;infectés par le BoHV-1&quot;</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">des bovins &quot;suspects d'être infectés par le BoHV-1&quot; en raison de la présence dans le troupeau de bovins &quot;infectés par le BoHV-1&quot;.</span></li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation au paragraphe 1er et à partir du 1er novembre 2024, les bovins visés au paragraphe 2, 1° et 2°, ne peuvent être réformés que vers un abattoir. Le transport du ou des bovin(s) à l'abattoir est direct, sans contact avec les bovins des statuts supérieurs.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.343Z",
+  "tokenUsage": {
+    "prompt": 2084,
+    "completion": 545,
+    "total": 2629
+  }
+}

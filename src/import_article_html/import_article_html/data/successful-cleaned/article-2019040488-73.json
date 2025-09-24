@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040488",
+  "articleNumber": "73",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-73\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 73</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 90, alinéa 3, du Code des impôts sur les revenus 1992, inséré par la loi du 1er juillet 2016 et remplacé par la loi du 18 juillet 2018, les mots \"Sans préjudice de l'application des précomptes, les revenus des biens immobiliers, les revenus des capitaux et biens mobiliers ainsi que les revenus de sous-location d'immeubles visés à l'alinéa 1er, 5°, \" sont remplacés par les mots \"Les revenus des biens immobiliers, les revenus des biens mobiliers visés à l'article 17, § 1er, 3° et 5°, ainsi que les revenus de sous-location d'immeubles visés à l'alinéa 1er, 5°, \" et les mots \"ces biens et capitaux\" sont remplacés par les mots \"ces biens\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.378Z",
+  "tokenUsage": {
+    "prompt": 1816,
+    "completion": 277,
+    "total": 2093
+  }
+}

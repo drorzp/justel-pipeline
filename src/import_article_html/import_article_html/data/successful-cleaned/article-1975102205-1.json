@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1975102205",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un président et trois vice-présidents du Conseil national de l'Art infirmier sont nommés par Nous parmi les membres effectifs, visés à (l'article 21 duodecies), § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice de l'art de guérir, de l'art infirmier, des professions paramédicales et aux commissions médicales. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1999-05-03/91\" data-law-type=\"AR\" data-article-number=\"1\">&lt;AR 1999-05-03/91, art. 1, 002; En vigueur : 02-08-1999&gt;</span></span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.614Z",
+  "tokenUsage": {
+    "prompt": 1736,
+    "completion": 324,
+    "total": 2060
+  }
+}

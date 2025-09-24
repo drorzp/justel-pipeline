@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008014312",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 43, alinéa 1er, du même arrêté sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">les 4° et 5° sont abrogés;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">le 6° est remplacé par la disposition suivante :<br>\" 6° les transports de personnes effectués au moyen d'ambulances, telles que définies par l'article 1er, § 2, 12, de l'arrêté royal du 15 mars 1968 portant règlement général sur les conditions techniques auxquelles doivent répondre les véhicules automobiles, leurs remorques, leurs éléments ainsi que les accessoires de sécurité. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.993Z",
+  "tokenUsage": {
+    "prompt": 1689,
+    "completion": 283,
+    "total": 1972
+  }
+}

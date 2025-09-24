@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030413",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les acteurs suivants peuvent introduire une demande pour le trajectoire préliminaire :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les acteurs publics ou privés dotés de la personnalité juridique et établis en Région flamande ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les acteurs publics ou privés dotés de la personnalité juridique qui sont établis dans la région bilingue de Bruxelles-Capitale et qui, en raison de leur organisation, doivent être considérés comme appartenant exclusivement à la Communauté flamande ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">une combinaison des acteurs mentionnés aux points 1° et 2°.</span></li>\n      </ol>\n      <p class=\"closing-text\">Les acteurs visés au premier alinéa peuvent introduire la demande visée au premier alinéa pour le compte du partenariat candidat.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.843Z",
+  "tokenUsage": {
+    "prompt": 1724,
+    "completion": 313,
+    "total": 2037
+  }
+}

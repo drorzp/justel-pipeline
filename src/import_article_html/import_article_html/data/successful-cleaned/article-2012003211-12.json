@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012003211",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La Banque peut mettre à charge d'une entreprise visée à l'article 6 des frais et charges de contrôle exceptionnels qu'elle a dû engager en vertu des <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-07-05/05\" data-law-type=\"AR\" data-article-number=\"5\">articles 135, alinéa 2, 2° et 3°, et 140, alinéa 1er, de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit</span>, <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2023-04-25/10\" data-law-type=\"AR\" data-article-number=\"14\">en vertu des articles 121, alinéa 2, 2° et 3°, et 129, alinéa 1er, de la loi du 20 juillet 2022 relative au statut et au contrôle des sociétés de bourse et portant dispositions diverses</span> ou pour le retraitement des informations transmises par les entreprises contrôlées sous une forme non standardisée.</p>\n      <p>La méthode appliquée par la Banque pour le calcul des contributions visées à l'alinéa 1er, de même que les contributions ainsi déterminées, sont certifiées par le réviseur d'entreprise de la Banque.</p>\n      <p>Les contributions dues en vertu du présent article sont acquittées dans le mois qui suit l'invitation à payer faite par la Banque.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.351Z",
+  "tokenUsage": {
+    "prompt": 2068,
+    "completion": 418,
+    "total": 2486
+  }
+}

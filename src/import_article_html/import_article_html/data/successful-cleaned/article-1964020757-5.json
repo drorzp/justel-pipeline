@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1964020757",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">&lt;Voir note sous TITRE&gt; Les demandes d'agréation provisoire doivent être introduites par lettre recommandée à la poste auprès du Fonds national de reclassement social des handicapés et être accompagnées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">des engagements prévus à l'article 1er, 1°, 2° et 12°;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">des éléments propres à établir que le centre satisfait à l'obligation prévue à l'article 1er, 4°;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">d'une copie du règlement d'ordre intérieur prévu à l'article 1er, 9°;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">de toutes indications utiles relatives aux statuts du centre ou à ceux de la personne morale qui l'a organisé et, le cas échéant, d'un exemplaire de ces statuts;</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">du plan de fonctionnement du centre ainsi que des éléments propres à établir que le centre satisfait aux conditions prévues à l'article 4.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.526Z",
+  "tokenUsage": {
+    "prompt": 1864,
+    "completion": 400,
+    "total": 2264
+  }
+}

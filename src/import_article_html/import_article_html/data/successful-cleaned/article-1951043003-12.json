@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1951043003",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Lors même que le bail réserverait la faculté d'expulsion en cas d'aliénation, l'acquéreur à titre gratuit ou onéreux du bien loué ne peut expulser le preneur que dans les cas énoncés aux</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">de l'article 16 , moyennant un préavis d'un an donné dans les trois mois de l'acquisition et énoncant clairement le motif justifiant le congé, le tout à peine de déchéance.</span></li>\n            </ol>\n            <p class=\"closing-text\">Il en va de même lorsque le bail n'a pas date certaine antérieure à l'aliénation, si le preneur occupe le bien loué depuis six mois au moins.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.465Z",
+  "tokenUsage": {
+    "prompt": 1777,
+    "completion": 348,
+    "total": 2125
+  }
+}

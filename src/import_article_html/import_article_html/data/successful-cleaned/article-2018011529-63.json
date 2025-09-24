@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011529",
+  "articleNumber": "63",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-63\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 63</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 243/1,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°bis\">\n                    <span class=\"provision-text\">du même Code, inséré par la loi du 25 décembre 2016 et remplacé par la loi-programme du 25 décembre 2017, les mots \"à l'article 1451, 1° \" sont remplacés par les mots \"à l'article 1451, 1° et 1° bis\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.682Z",
+  "tokenUsage": {
+    "prompt": 1563,
+    "completion": 207,
+    "total": 1770
+  }
+}

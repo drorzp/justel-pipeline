@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009202076",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 7, A) du même arrêté, est remplacé par les dispositions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">pour le travailleur isolé qui a atteint l'âge de 55 ans à 6,2 % de la rémunération journalière moyenne;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">pour le travailleur isolé non visé au 2° à 2 % de la rémunération journalière moyenne.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.306Z",
+  "tokenUsage": {
+    "prompt": 1716,
+    "completion": 231,
+    "total": 1947
+  }
+}

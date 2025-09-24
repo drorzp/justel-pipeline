@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990021309",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 33</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 333, § 2, de la loi du 22 décembre 1989 portant des dispositions fiscales, les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"287\" data-law-type=\"L\" data-article-number=\"288\">\" des articles 287 et 288, 1° \"</span> sont remplacés par les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"275\" data-law-type=\"L\" data-article-number=\"2\">\" des articles 275, 2°, 276, 2°, 278, 1°, 287, 288, 1°, 292, 2° et 303, 1° \"</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.727Z",
+  "tokenUsage": {
+    "prompt": 1543,
+    "completion": 238,
+    "total": 1781
+  }
+}

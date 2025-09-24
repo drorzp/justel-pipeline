@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036322",
+  "articleNumber": "2.20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2-20\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2.20</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 138 du même décret, modifié par les décrets des 13 juillet 2001, 28 juin 2002 et 10 juillet 2003, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au § 1er, les points</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">sont remplacés par la disposition suivante :</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">des périodes destinées à l'éducation physique;</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">des périodes à l'appui de l'intégration des élèves allophones pour les écoles néerlandophones dans les communes de la périphérie bruxelloise et de la frontière linguistique, pour les écoles dans les communes limitrophes des communes de la périphérie bruxelloise et/ou dans les communes limitrophes de la Région de Bruxelles-Capitale et pour les écoles dans les communes fixées par la Communauté flamande.</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au § 2, les mots \" comme prévu par l'article 171 \" sont supprimés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.728Z",
+  "tokenUsage": {
+    "prompt": 1942,
+    "completion": 488,
+    "total": 2430
+  }
+}

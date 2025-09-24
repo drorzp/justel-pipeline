@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016031261",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans les quinze jours de la réception des courriers visés à l'article 36, 1° et 3°, le demandeur et le bourgmestre peuvent demander à être entendus par la commission sécurité d'incendie.</p>\n        <p>Cette demande est introduite auprès du secrétariat de la commission, soit par courrier recommandé à la poste, soit par courrier électronique.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>La commission peut, d'initiative, convoquer le demandeur et le bourgmestre.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le secrétariat de la commission envoie les convocations au moins huit jours avant la date fixée de l'audition.</p>\n        <p>Le demandeur et le bourgmestre peuvent se faire représenter ou assister par les personnes de leur choix.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.292Z",
+  "tokenUsage": {
+    "prompt": 1849,
+    "completion": 372,
+    "total": 2221
+  }
+}

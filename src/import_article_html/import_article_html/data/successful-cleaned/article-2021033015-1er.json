@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021033015",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement wallon du 22 septembre 2016 portant exécution du décret du 28 avril 2016 relatif au Prêt Coup de Pouce, les points:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le décret du 28 avril 2016 : le décret du 28 avril 2016 relatif au Prêt Coup de Pouce</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la SOWALFIN : la Société wallonne de financement et de garantie des petites et moyennes entreprises, reprise à la Banque Carrefour des Entreprises sous le numéro 0227.842.904 et dont le siège social est établi à 4000 Liège, Avenue Maurice Destenay, 13</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.190Z",
+  "tokenUsage": {
+    "prompt": 1809,
+    "completion": 294,
+    "total": 2103
+  }
+}

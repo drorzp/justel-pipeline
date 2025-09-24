@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999021025",
+  "articleNumber": "109",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-109\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 109</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 33, alinéa 1er, 3°, de la même loi, abroge par l'arrêté royal du 25 avril 1997, est rétabli dans la rédaction suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">aux personnes visées sous les</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">qui, en raison de leur état de santé, sont reconnues incapables d'effectuer un travail lucratif;</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.281Z",
+  "tokenUsage": {
+    "prompt": 1637,
+    "completion": 276,
+    "total": 1913
+  }
+}

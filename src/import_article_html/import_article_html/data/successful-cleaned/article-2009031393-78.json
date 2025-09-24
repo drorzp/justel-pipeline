@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009031393",
+  "articleNumber": "78",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-78\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 78</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Un article 274quater rédigé comme suit est inséré dans le même arrêté :</p>\n      <p>Art. 274quater. Lors de chaque procédure disciplinaire, le Secrétaire général ou le Secrétaire général adjoint désigne le supérieur hiérarchique habilité à proposer la peine disciplinaire en vertu des articles 275, 1° et 301, 1°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.078Z",
+  "tokenUsage": {
+    "prompt": 1521,
+    "completion": 166,
+    "total": 1687
+  }
+}

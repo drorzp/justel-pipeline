@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013007116",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 8 du même arrêté, remplacé par l'arrêté royal du 21 décembre 2006, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les mots \" l'article 7, à l'exception de celles visées à l'article 7, § 1er, 2° et 3°, et § 3, 2° \" sont remplacés par les mots \" l'article 7, § 1er \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article 8 est complété par trois alinéas rédigés comme suit :</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">\" Pour posséder les qualités caractérielles requises des membres de la catégorie de personnel pour laquelle il est formé, le candidat ne peut en outre obtenir, lors de chaque appréciation statutaire :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">une mention \" très mauvais \", \" mauvais \" ou \" insuffisant \" pour une compétence générique;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">une mention \" très mauvais \" ou \" mauvais \", pour une compétence spécifique.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les compétences, les indicateurs de comportement, ainsi que les mentions et les notes correspondantes sont fixés dans l'annexe du présent arrêté. Toutes les compétences et, au sein de chaque compétence, tous les indicateurs de comportement ont la même pondération.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.021Z",
+  "tokenUsage": {
+    "prompt": 2034,
+    "completion": 497,
+    "total": 2531
+  }
+}

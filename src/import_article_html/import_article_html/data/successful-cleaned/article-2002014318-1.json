@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002014318",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 3 de l'arrêté royal du 11 octobre 1997 relatif aux modalités particulières de la concertation visant à déterminer l'emplacement et les circonstances d'utilisation des appareils fixes fonctionnant automatiquement en l'absence d'un agent qualifié, destinés à assurer la surveillance sur la voie publique de l'application de la loi relative à la police de la circulation routière et des arrêtés pris en exécution de celle-ci, le 2° est remplacé par les dispositions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2° Pour les autorités policières :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">le ou les directeurs coordonnateur(s) de la police administrative;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">le ou les chefs de corps de la police locale et/ou un représentant de la direction des voies de communication de la police fédérale;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">le président du collège de police dans une zone pluricommunale de police;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">les responsables des agents qualifiés prévus à l'article 3, 4°, 5°, 6° et 12°, du règlement général sur la police de la circulation routière lorsque l'équipement ou les équipements fixes les concernent et/ou ils sont chargés de la gestion opérationnelle du ou desdits équipements.</span>\n            </li>\n          </ul>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.641Z",
+  "tokenUsage": {
+    "prompt": 2025,
+    "completion": 481,
+    "total": 2506
+  }
+}

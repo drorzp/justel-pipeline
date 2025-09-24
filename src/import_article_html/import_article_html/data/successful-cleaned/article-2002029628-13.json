@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029628",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 17, § 4, du même décret est abrogé.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 17, § 6, du même décret est remplacé par la disposition suivante :</p>\n        <blockquote>\n          <p>§ 6. Les articles 12, § 1er, 1° à 3°, 5° à 8° et § 2, ainsi que l'article 14, § 3 et § 4, s'appliquent, s'il y a lieu, à l'administrateur général et aux directeurs généraux.</p>\n        </blockquote>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 17, § 7, du même décret est abrogé.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.747Z",
+  "tokenUsage": {
+    "prompt": 1895,
+    "completion": 354,
+    "total": 2249
+  }
+}

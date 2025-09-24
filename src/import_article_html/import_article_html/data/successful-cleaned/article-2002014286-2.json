@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002014286",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 15 de l'arrêté royal du 14 mai 2002 modifiant l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\" Art. 15. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge , à l'exception</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">de l'article 8 qui entre en vigueur le 1er janvier 2003</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de l'article 7 qui entre en vigueur le 31 mars 2003</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">des articles 5, 6 et 13.</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">qui entrent en vigueur le 1er mai 2003</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et l'article 3 qui entre en vigueur le (1er janvier 2005).</span>\n        </li>\n      </ol>\n      <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-11-30/37\" data-law-type=\"AR\" data-article-number=\"1\">&lt;AR 2003-11-30/37, art. 1, 002;**En vigueur :**15-12-2003&gt;</span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.642Z",
+  "tokenUsage": {
+    "prompt": 1944,
+    "completion": 497,
+    "total": 2441
+  }
+}

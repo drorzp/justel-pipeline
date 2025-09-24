@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995912906",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les employeurs qui appartiennent au secteur non marchand fixé à l'article 35 ont droit pour chaque engagement net supplémentaire à une exonération des cotisations patronales de sécurité sociale visées à l'article 38, § 3, 1° à 7° et § 3bis, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés pour autant qu'ils appliquent une convention conclue entre le secteur et le Ministre de l'Emploi et du Travail et le Ministre des Affaires sociales.</p>\n        <p>Le Roi peut déterminer les cotisations patronales de sécurité sociale pour lesquelles les services publics peuvent obtenir une exonération.</p>\n        <p>La convention visée à l'alinéa 1er détermine :</p>\n        <ul>\n          <li class=\"sub-provision\" data-marker=\"-\"><span class=\"sub-provision-text\">les fonctions et/ou les catégories de travailleurs pour lesquelles l'employeur peut obtenir l'exonération précitée;</span></li>\n          <li class=\"sub-provision\" data-marker=\"-\"><span class=\"sub-provision-text\">l'objectif d'emploi à atteindre.</span></li>\n        </ul>\n        <p>Le Roi détermine ce qu'il faut entendre par engagement net supplémentaire. Il détermine en outre les modalités auxquelles la convention avec l'autorité qui subventionne doit répondre.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Roi détermine les modalités d'octroi de l'exonération de la cotisation patronale visée au § 1er.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.047Z",
+  "tokenUsage": {
+    "prompt": 2028,
+    "completion": 483,
+    "total": 2511
+  }
+}

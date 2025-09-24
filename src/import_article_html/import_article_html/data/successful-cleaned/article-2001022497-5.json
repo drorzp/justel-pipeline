@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001022497",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'arrêté royal du 5 mars 1987 relatif aux café, extraits de café et succédanés de café sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'intitulé est remplacé par l'intitulé suivant : \" arrêté royal relatif aux cafés et succédanés de café \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">sont abrogés :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"A\">A l'article 1er, les points 4°, 5°,b) et 7°;</li>\n            <li class=\"sub-provision\" data-marker=\"A\">A l'article 2, les points 3°, 4°, 5°, 6°, 8°, 9° et 10°;</li>\n            <li class=\"sub-provision\" data-marker=\"A\">A l'article 3, le paragraphe 2;</li>\n            <li class=\"sub-provision\" data-marker=\"L\">L'article 4;</li>\n            <li class=\"sub-provision\" data-marker=\"L\">L'article 6.</li>\n          </ul>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.145Z",
+  "tokenUsage": {
+    "prompt": 1793,
+    "completion": 389,
+    "total": 2182
+  }
+}

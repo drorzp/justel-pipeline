@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995036473",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les diplômes ou certificats belges énumérés ci-après sont reconnus équivalents pour ce qui concerne l'admission au deuxième cycle de la formation initiale de deux cycles aux diplômes mentionnés à l'article 22 du décret du 13 juillet 1994 relatif aux instituts supérieurs :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">un diplôme de premier prix, décerné par un conservatoire de musique ou l'institut Lemmens, à l'exception d'un premier prix solfège;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un diplôme d'ingénieur technique;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">un diplôme de l'enseignement supérieur de musique du premier degré de plein exercice, délivré par un conservatoire;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">un diplôme de l'enseignement artistique supérieur de plein exercice du deuxième degré;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">un diplôme de l'enseignement artistique supérieur de plein exercice du troisième degré;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">un diplôme d'une école supérieure technique du troisième degré;</span></li>\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">un diplôme d'architecte d'intérieur;</span></li>\n        <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">un certificat de réussite de deux années d'études de plein exercice au moins d'une formation qui conduit à un des diplômes mentionnés aux points 4°, 5°, 6° et 7°.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.040Z",
+  "tokenUsage": {
+    "prompt": 2040,
+    "completion": 520,
+    "total": 2560
+  }
+}

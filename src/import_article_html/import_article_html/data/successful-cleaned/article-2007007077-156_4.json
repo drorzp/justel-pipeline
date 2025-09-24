@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007007077",
+  "articleNumber": "156/4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-156/4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 156/4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-07-31/04\" data-law-type=\"L\" data-article-number=\"230\">\n        <p class=\"intro-text\">Le chef hiérarchique d'un militaire utilisé qui occupe chez l'employeur externe un rang qui est au moins équivalent à celui de chef de corps, est compétent pour introduire une proposition qui introduit la procédure qui, en application du statut du militaire concerné et sur la décision de l'autorité qui, selon ce statut, est compétente à cet effet, peut mener à :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le retrait temporaire d'emploi par mesure disciplinaire du militaire concerné;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la suspension par mesure d'ordre;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">la démission d'office;</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">la retenue sur le traitement.</span></li>\n        </ol>\n        <p>Lors de l'application des procédures visées à l'alinéa 1er, 1° et 3°, l'avis d'une chambre de recours, d'un conseil de discipline ou d'un organe similaire, doit être demandé conformément aux règles applicables au personnel de l'employeur externe.</p>\n        <p>L'autorité qui, chez l'employeur externe du militaire concerné, est investie d'un rang équivalent à celui de chef de corps, est expressément désignée dans l'accord visé à l'article 153, § 2, alinéa 2.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.786Z",
+  "tokenUsage": {
+    "prompt": 2151,
+    "completion": 499,
+    "total": 2650
+  }
+}

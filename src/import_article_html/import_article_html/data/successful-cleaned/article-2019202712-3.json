@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019202712",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 20 du même décret spécial, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"a)\">\n        <span class=\"provision-text\">dans le paragraphe 1er, les mots \" le trésorier de chaque fonds \" sont remplacés par les mots \" le trésorier du fonds de chaque comité \"</span>\n      </li>\n      <li class=\"provision\" data-number=\"b)\">\n        <span class=\"provision-text\">le paragraphe 1er est complété par les mots \" à l'exception des données visées à l'article 13, § 2, alinéa 1er, 2° et 3°, du présent décret spécial \"</span>\n      </li>\n      <li class=\"provision\" data-number=\"c)\">\n        <span class=\"provision-text\">le paragraphe 1er est complété par un alinéa rédigé comme suit : \" Le rapport contient l'identité des contributeurs visés à l'article 13, § 2, alinéa 1, 3°, du présent décret spécial. \"</span>\n      </li>\n      <li class=\"provision\" data-number=\"d)\">\n        <span class=\"provision-text\">il est inséré un paragraphe 9 rédigé comme suit :</span>\n        <section class=\"paragraph\" id=\"para-9\">\n          <h3 class=\"paragraph-marker\">§ 9.</h3>\n          <div class=\"paragraph-content\">\n            <p>Lorsque le rapport visé au paragraphe 1er n'est pas déposé et lorsque ce fait est imputable au comité, ses fondateurs perdent, pour tout ou partie, le droit au financement institué par le Parlement wallon en application de l'article 13, § 2, du présent décret spécial. La dotation versée au comité doit être restituée dans les conditions fixées par le Parlement wallon.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.421Z",
+  "tokenUsage": {
+    "prompt": 2077,
+    "completion": 514,
+    "total": 2591
+  }
+}

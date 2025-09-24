@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016035143",
+  "articleNumber": "790",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-790\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 790</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'administration compétente dresse un rapport sur l'application des articles 788 et 789. Le cas échéant, le rapport contient les motifs pour lesquels les conditions en ce qui concerne l'évaluation appropriée, visées à l'article 390, § 1er, alinéa 1er, points 2°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">4°, du décret du 25 avril 2014, n'ont pas été remplies.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.226Z",
+  "tokenUsage": {
+    "prompt": 1587,
+    "completion": 222,
+    "total": 1809
+  }
+}

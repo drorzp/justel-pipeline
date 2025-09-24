@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012449",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>\n                    L'article 12 de la présente loi modifiant l'article 35/1, § 3, de la loi du 22 février 1998 fixant le statut organique de la Banque nationale de Belgique, les articles 23 et 24 de présente loi modifiant les articles 1/1, § 1er et 6/3 de la loi du 28 décembre 2011 relative au Fonds de résolution, les articles 35, 37, 40, 41, 47, 66, 67 en 68, de la présente loi modifiant les articles 108, § 1er, alinéa 1er, 231, alinéa 1er, 242, 1° et 2°, 260, § 1er, 292, 468, § 5, 471, § 1er, alinéa 2 et 472, § 4 de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse ainsi que l'article 48 de la présente loi introduisant un nouvel article 295/1 dans la même loi du 25 avril 2014, transposent partiellement la directive 2014/59/UE du Parlement européen et du Conseil du 15 mai 2014 établissant un cadre pour le redressement et la résolution des établissements de crédit et des entreprises d'investissement et modifiant la directive 82/891/CEE du Conseil ainsi que les directives du Parlement européen et du Conseil 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE et 2013/36/UE et les règlements du Parlement européen et du Conseil (UE) N° 1093/2010 et (UE) N° 648/2012, en particulier, dans leur ordre de transposition, les articles 84, paragraphe 2, 106, paragraphe 4, 5, paragraphe 2, alinéa 2, 2, paragraphe 1er, point (20), 41, paragraphe 1er, alinéa 1er, 81, § 3, 88, § 2, 90, § 1er, et 91, § 4.\n                </p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.308Z",
+  "tokenUsage": {
+    "prompt": 2438,
+    "completion": 643,
+    "total": 3081
+  }
+}

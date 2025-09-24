@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001063",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent décret vise à soutenir les bénéficiaires dont les projets s'inscrivent dans le cadre de la mise en oeuvre du PSSI et dont les activités sont en lien avec les secteurs de l'aide aux personnes et de la santé en ce compris de la promotion de la santé visés à l'article 5, § 1er, I et II, de la loi spéciale du 8 aout 1980 de réformes institutionnelles à l'exception des matières visées à l'article 5, § 1er, II, 3° et 4°, de la même loi spéciale et des matières relatives aux crèches.</p>\n      <p class=\"closing-text\">Le Collège fixe les priorités relatives à l'octroi de subventions pluriannuelles sur base des orientations fixées dans le PSSI et de la durée antérieure du subventionnement de l'activité du bénéficiaire. Dans les limites des crédits budgétaires disponibles, le Collège octroie des subventions pluriannuelles aux bénéficiaires.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.518Z",
+  "tokenUsage": {
+    "prompt": 1821,
+    "completion": 299,
+    "total": 2120
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022201720",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Un chômeur complet indemnisé peut exercer une activité telle que visée à l'article 17, § 1er, alinéa 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">1°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">3° à 7°</span>\n                    </li>\n                </ol>\n                <p>de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, tout en conservant ses allocations s'il le notifie préalablement, par écrit, au bureau de chômage de l'Office national de l'emploi, et à condition qu'il s'agisse de la poursuite pure de l'exécution d'un contrat arrivant à échéance, conclu dans le cadre de l'article 17, § 1er, alinéa 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">1°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">3° à 7°</span>\n                    </li>\n                </ol>\n                <p>précité, qui était déjà effectivement exécuté avant la survenance du chômage.</p>\n                <p>L'alinéa 1er s'applique également aux personnes relevant du système du chômage avec complément d'entreprise.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.827Z",
+  "tokenUsage": {
+    "prompt": 1947,
+    "completion": 494,
+    "total": 2441
+  }
+}

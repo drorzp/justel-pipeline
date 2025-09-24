@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024011844",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 37 du même décret-programme est remplacé par ce qui suit : &quot; Art. 37. Lorsqu'une commune n'établit pas de taxe communale sur la force motrice, la Région, dans la limite des crédits disponibles, compense celle-ci sur base du montant des pertes réelles, le cas échéant au prorata si les crédits disponibles ne permettent pas une compensation complète, duquel sont déduit les montants dont la commune a bénéficié en application de la modification de l'article 257, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">4°, du Code des impôts sur les revenus 1992 prévue à l'article 2 du décret du 10 décembre 2009 d'équité fiscale et d'efficacité environnementale pour le parc automobile et les maisons passives.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.689Z",
+  "tokenUsage": {
+    "prompt": 1748,
+    "completion": 305,
+    "total": 2053
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011959",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La partie lésée a droit à l'indemnisation visée à l'article 3 si, au moment des dommages, il possède l'un des titres suivants sur le bien affecté :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">propriétaire ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">titulaire d'un droit d'emphytéose ou de superficie ;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">locataire ou acheteur d'un bien selon un contrat de vente-location ou un contrat de vente à tempérament ;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">exploitant du bien affecté, en cas de dommages aux cultures ou récoltes.</span></li>\n            </ol>\n            <p class=\"closing-text\">Lorsqu'elle possède plusieurs titres, tels que visés au premier alinéa, la personne visée au premier alinéa, 2°, 3° et 4°, a la priorité sur la personne visée au premier alinéa, 1°, lors de l'octroi de l'indemnisation.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.295Z",
+  "tokenUsage": {
+    "prompt": 1822,
+    "completion": 375,
+    "total": 2197
+  }
+}

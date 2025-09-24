@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002035479",
+  "articleNumber": "64",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-64\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 64</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article XIV 14bis , § 1er, du même statut, modifié par les arrêtés du Gouvernement flamand des 19 décembre 1998 et 9 février 2001, il est inséré un point d), rédigé comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"d)\">\n          <span class=\"provision-text\">l'agent contractuel ayant un emploi hautement qualifié tel que visé à l'article XIV 2, 4° et une rémunération égale à A311 au minimum.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.702Z",
+  "tokenUsage": {
+    "prompt": 1600,
+    "completion": 220,
+    "total": 1820
+  }
+}

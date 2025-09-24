@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998A12346",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En exécution de l'article 2, § 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de l'arrêté royal du 6 février 1997 précité, le droit à l'interruption de carrière s'applique aux travailleurs ayant une ancienneté de 12 mois dans l'entreprise qui suspendent complètement leurs prestations ou les réduisent à 50 p.c..</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Par dérogation à l'article 6 dudit arrêté royal, le travailleur qui souhaite bénéficier d'une interruption de sa carrière professionnelle doit avertir son employeur 3 mois à l'avance.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.069Z",
+  "tokenUsage": {
+    "prompt": 1662,
+    "completion": 279,
+    "total": 1941
+  }
+}

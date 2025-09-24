@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008009699",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la même loi, il est inséré un article 11/1 rédigé comme suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 11/1.</h3>\n        <div class=\"paragraph-content\">\n          <p>Une autorisation de détention est également octroyée aux personnes désirant conserver dans leur patrimoine une arme qui avait fait l'objet d'une autorisation ou pour laquelle une autorisation n'était pas requise avant l'entrée en vigueur de la présente loi.</p>\n          <p>Cette autorisation n'est valable que pour la simple détention de l'arme, à l'exclusion de munitions.</p>\n          <p>L'article 11, § 3,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">6°</span>\n            </li>\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">7°</span>\n            </li>\n          </ol>\n          <p class=\"closing-text\">et 9°, ne s'applique pas aux personnes visées à l'alinéa 1er.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.994Z",
+  "tokenUsage": {
+    "prompt": 1705,
+    "completion": 362,
+    "total": 2067
+  }
+}

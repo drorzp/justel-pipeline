@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001016239",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté royal du 1er décembre 1998 portant affectation du solde des cotisations visées à l'article 4, § 3, de l'arrêté royal du 18 novembre 1996 visant l'introduction d'une gestion financière globale dans le statut social des travailleurs indépendants, en exécution du chapitre Ier du titre VI de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, les mots &quot;à titre de couverture supplémentaire des missions visées à l'article 74, § 1er, 6°, de la loi du 28 juillet 1992 portant des dispositions fiscales et financières&quot; sont remplacés par &quot;à titre de couverture supplémentaire des missions visées à l'article 74, § 1er, 2°, 3°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">6°, de la loi du 28 juillet 1992 portant des dispositions fiscales et financières&quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.224Z",
+  "tokenUsage": {
+    "prompt": 1830,
+    "completion": 350,
+    "total": 2180
+  }
+}

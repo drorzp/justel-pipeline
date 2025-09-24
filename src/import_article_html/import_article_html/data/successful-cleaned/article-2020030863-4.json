@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020030863",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">\n          En complément à l'article 12, § 3, alinéa 9, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, pour l'année académique 2020-2021, sont également exemptés du droit d'inscription visé à l'article 12, § 3, alinéa 2, 1° et 2°, les étudiants considérés comme étudiants réguliers au 13 mars 2020 se réinscrivant, dans des unités d'enseignement auxquelles ils étaient inscrits durant le confinement lié au COVID-19.\n        </p>\n        <p class=\"closing-text\">\n          Cette exemption concerne les étudiants qui n'ont pas présenté les deux sessions prévues, pour l'enseignement secondaire, à l'article 16 de l'arrêté du Gouvernement de la Communauté française du 2 septembre 2015 portant règlement général des études de l'enseignement secondaire de promotion sociale et, pour l'enseignement supérieur, à l'article 18 de l'arrêté du Gouvernement de la Communauté française du 2 septembre 2015 portant règlement général des études de l'enseignement supérieur de promotion sociale de type court et de type long.\n        </p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          Par dérogation à l'article 12, § 4, de la même loi, pour l'année académique 2020-2021, les étudiants sont exemptés du minerval direct ou indirect pouvant être perçu par les établissements d'enseignement de promotion sociale, dans les mêmes conditions que celles énoncées au paragraphe premier du présent article.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.258Z",
+  "tokenUsage": {
+    "prompt": 2084,
+    "completion": 502,
+    "total": 2586
+  }
+}

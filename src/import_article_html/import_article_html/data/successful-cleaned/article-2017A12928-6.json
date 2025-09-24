@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017A12928",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-03-15/63\" data-law-type=\"DIVERS\" data-article-number=\"4\">\n                        Les états statistiques visés à l'article 3, § 2, 1°, 2° et 3°, sont établis selon une fréquence trimestrielle et correspondent à chacun des trimestres de l'année civile.\n                    </span>\n                </p>\n                <p class=\"closing-text\">\n                    Par exception à l'alinéa 1er, les organismes de placement collectif ou les compartiments qualifiés de monétaires doivent établir et transmettre les états statistiques visés à l'article 3, § 2, 3°, sur une base mensuelle.\n                </p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-03-15/63\" data-law-type=\"DIVERS\" data-article-number=\"4\">\n                        Les états statistiques visés à l'article 3, § 2, 4°, sont communiqués sur une base mensuelle.\n                    </span>\n                </p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.581Z",
+  "tokenUsage": {
+    "prompt": 2114,
+    "completion": 418,
+    "total": 2532
+  }
+}

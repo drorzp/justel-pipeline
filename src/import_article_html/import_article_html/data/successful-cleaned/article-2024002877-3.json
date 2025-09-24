@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002877",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 de la même ordonnance, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">au 4°, les mots &quot; les Services du Collège réuni &quot; sont remplacés par les mots &quot; l'Office bicommunautaire de la santé, de l'aide aux personnes et des prestations familiales &quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">l'article est complété par les 6° et 7° rédigés comme suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">personne de l'entourage de l'enfant: toute personne susceptible de conduire et/ou de venir chercher, avec l'accord des parents ou de son représentant légal, l'enfant à son milieu d'accueil ou d'être contactée par le milieu d'accueil en cas d'urgence;</span>\n            </li>\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">personne en contact régulier avec les enfants accueillis: le personnel en charge de l'entretien, des cuisines, de l'administration du milieu d'accueil, de l'accompagnement régulier des enfants, en ce compris les volontaires au sens de l'article 3, 2°, de la loi du 3 juillet 2005 relative aux droits des volontaires, présents dans le lieu d'accueil pendant l'accueil des enfants.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.528Z",
+  "tokenUsage": {
+    "prompt": 1965,
+    "completion": 457,
+    "total": 2422
+  }
+}

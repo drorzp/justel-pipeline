@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A09646",
+  "articleNumber": "330",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-330\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 330</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>La prise en gage par une société de ses parts ou de certificats se rapportant à ses parts, soit par elle-même, soit par une personne agissant en son nom propre mais pour compte de la société, est assimilée à une acquisition pour l'application des articles 321, 322, 1° et 2°, 324, alinéa 1er, 2°, et de l'article 328.</p>\n            <p>Nonobstant toute disposition contraire, la société ou la personne agissant en son nom propre mais pour compte de la société ne peuvent exercer le droit de vote attaché aux parts qui leur ont été remises en gage.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.264Z",
+  "tokenUsage": {
+    "prompt": 1627,
+    "completion": 219,
+    "total": 1846
+  }
+}

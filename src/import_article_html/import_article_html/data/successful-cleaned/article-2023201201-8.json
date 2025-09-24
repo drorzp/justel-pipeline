@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023201201",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 68 du même arrêté, modifié en dernier lieu par l'arrêté royal du 20 décembre 2019, le</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">est remplacé par ce qui suit : \n                        <ol>\n                            <li class=\"sub-provision\" data-marker=\"a)\">les jours d'interruption de travail visés aux articles 16, 1° à 4° inclus, 10°, 15°, 18°, 19°, 22° et 24°, et 41, 1° à 4° inclus, 10°,13°, 15°,16°, 21° et 23°;</li>\n                            <li class=\"sub-provision\" data-marker=\"b)\">les jours d'interruption de travail dans le cas visé aux articles 16, 5° à 9° inclus, 12°, 16° et 23°, et 41, 5° à 9° inclus, 12°, 14° et 22°, à moins que ceux-ci ne surgissent aux cours des vacances;</li>\n                        </ol>\n                    </span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.405Z",
+  "tokenUsage": {
+    "prompt": 1826,
+    "completion": 352,
+    "total": 2178
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003007131",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Le paragraphe 5 de l'article 259bis du Code pénal est remplacé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-5\">\n      <h3 class=\"paragraph-marker\">§ 5.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les dispositions du § 1er, 1° et 2°, ne s'appliquent pas à la captation, l'écoute, la prise de connaissance ou l'enregistrement, par le Service Général du Renseignement et de la Sécurité des Forces armées de toute forme de communications émises à l'étranger tant à des fins militaires dans le cadre des missions explicitées à l'article 11, § 2, 1° et 2° de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité que pour des motifs de sécurité et de protection de nos troupes et de celles de nos alliés lors de missions à l'étranger et de nos ressortissants établis à l'étranger, comme explicité au même article 11, § 2, 3° et 4°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.837Z",
+  "tokenUsage": {
+    "prompt": 1793,
+    "completion": 316,
+    "total": 2109
+  }
+}

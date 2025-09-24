@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032281",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Conformément aux conditions visées au présent décret et à ses arrêtés d'exécution, un bonus emploi est octroyé sous la forme d'une prime aux bénéficiaires appartenant à une ou plusieurs des catégories suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les travailleurs soumis à l'un des régimes suivants :</span>\n                    <ol class=\"sub-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">le régime visé à l'article 21, § 1er, 1° à 3° et 5°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés ;</li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">le régime visé à l'article 1er, 1° et 3°, de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande ;</li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les personnes physiques visées aux articles 3bis, 7, 8 et 9 à 15 de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les personnes physiques employées dans un Etat membre de l'Union européenne ou de l'Espace économique européen, et qui retournent en principe quotidiennement ou au moins une fois par semaine à leur résidence principale, visée à l'article 4, 1°, du présent décret.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.752Z",
+  "tokenUsage": {
+    "prompt": 2074,
+    "completion": 509,
+    "total": 2583
+  }
+}

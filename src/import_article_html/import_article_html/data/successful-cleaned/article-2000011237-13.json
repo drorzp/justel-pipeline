@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000011237",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 12 du même arrêté est remplacé par la disposition suivante : &quot; Art. 12. L'article 23 de la loi doit se lire comme suit : &quot; Sauf application de l'article 22, toutes modifications à l'organisation financière ou administrative ou aux conditions d'activité, notamment celles qui concernent les éléments visés à l'article 5, alinéa 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">5°, doivent être communiquées à l'Office de Contrôle dans le délai d'un mois.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.112Z",
+  "tokenUsage": {
+    "prompt": 1625,
+    "completion": 244,
+    "total": 1869
+  }
+}

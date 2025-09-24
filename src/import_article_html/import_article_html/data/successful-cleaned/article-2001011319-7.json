@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001011319",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 15/11 de la même loi, inséré par la loi du 29 avril 1999, il est inséré un 3°, rédigé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">organiser un fonds, à gérer par la Commission, qui :</span>\n                    <ol class=\"sub-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">\n                            <span class=\"sub-provision-text\">prend en charge tout ou une partie du coût réel net des obligations de service public visées aux 1° et 2°, dans la mesure où ce coût représenterait une charge inéquitable pour les entreprises tenues par ces obligations. Le cas échéant, le calcul des coûts et pertes visés au 3°, a) est effectué par chaque entreprise concernée, conformément à la méthodologie établie par la Commission, et vérifié par celle-ci;</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">\n                            <span class=\"sub-provision-text\">est financé par les titulaires d'une autorisation de fourniture, visés à l'article 15/3, au moyen de prélèvements, effectués dans le cadre de l'autorisation de fourniture précitée, sur les quantités livrées, exprimés en unités d'énergie, à l'ensemble, ou à des catégories objectivement définies, de consommateurs de gaz naturel, selon les modalités fixées par le même arrêté.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Tout arrêté pris en vertu du 3°, b), est censé ne jamais avoir produit d'effets s'il n'a pas été confirmé par la loi dans les six mois de sa date d'entrée en vigueur.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.216Z",
+  "tokenUsage": {
+    "prompt": 2062,
+    "completion": 494,
+    "total": 2556
+  }
+}

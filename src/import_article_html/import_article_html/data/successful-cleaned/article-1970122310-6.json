@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1970122310",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"TITRE\" data-law-type=\"Voir\" data-article-number=\"note\">&lt;Voir note sous TITRE&gt;</span>\n        L'arrêté royal du 15 septembre 1967, fixant la procédure et les conditions d'agréation des instituts spéciaux visés par l'article 3, § 1er,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        3°, de la loi du 27 juin 1956 créant le Fonds spécial d'assistance, est abrogé.\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1983-12-23/33\" data-law-type=\"AECF\" data-article-number=\"63\">&lt;Pour la Communauté française, cet article a été abrogé par AECF 1983-12-23/33, art. 63, 002&gt;</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.558Z",
+  "tokenUsage": {
+    "prompt": 1683,
+    "completion": 341,
+    "total": 2024
+  }
+}

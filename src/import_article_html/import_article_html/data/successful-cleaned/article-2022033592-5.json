@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022033592",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 23undecies, § 1er, du même arrêté, inséré par l'arrêté royal du 12 novembre 2009 et modifié par les arrêtés royaux des 1er juin 2011 et 10 janvier 2012, sont ajoutés les points 29° et 30°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"29°\">\n                    <span class=\"provision-text\">préparation et délivrance d'un rapport \" véhicule ancêtre \" : 17,60 euros ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"30°\">\n                    <span class=\"provision-text\">délivrance d'un duplicata d'un rapport \" véhicule ancêtre \" : 13,80 euros.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.818Z",
+  "tokenUsage": {
+    "prompt": 1672,
+    "completion": 275,
+    "total": 1947
+  }
+}

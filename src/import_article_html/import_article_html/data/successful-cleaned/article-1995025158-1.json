@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995025158",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er de l'arrêté royal du 30 octobre 1974 portant règlement général en matière de minimum de moyens d'existence est remplacé par le texte suivant :</p>\n      <p>\"Il y a lieu d'entendre par Centre public d'aide sociale comptent au sens de l'article 7, § 1er, de la loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence, le centre public d'aide sociale visé :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">par les articles 1er, 1° et 2 de la loi du 2 avril 1985 relative à la prise en charge de l'aide sociale accordée par les centres publics d'aide sociale, dans les cas visés par ces articles;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">par l'article 57bis de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, dans les cas de personnes qui ne sont pas visées par les dispositions mentionnées au 1°.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.998Z",
+  "tokenUsage": {
+    "prompt": 1827,
+    "completion": 357,
+    "total": 2184
+  }
+}

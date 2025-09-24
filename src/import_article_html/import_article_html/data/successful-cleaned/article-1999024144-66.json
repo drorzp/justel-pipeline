@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999024144",
+  "articleNumber": "66",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-66\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 66</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 44, § 3, de la même loi, modifié par la loi du 20 décembre 1995 et par l'arrêté royal du 16 avril 1997, les mots &quot;7° à 12° et 16°&quot; sont remplacés par les mots &quot;7° à 11°, 16° et 20°&quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.279Z",
+  "tokenUsage": {
+    "prompt": 1514,
+    "completion": 164,
+    "total": 1678
+  }
+}

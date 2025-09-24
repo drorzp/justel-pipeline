@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003836",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 13 du même arrêté, le 2° est remplacé par ce qui suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">500 kg par débarquement pour les produits visés à l'article 11, 2° et 3°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.534Z",
+  "tokenUsage": {
+    "prompt": 1497,
+    "completion": 172,
+    "total": 1669
+  }
+}

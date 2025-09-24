@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010166",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 42</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les transferts de données des passagers sans accord préalable de l'UIP de l'Etat membre de l'Union européenne dont les données ont été obtenues ne sont autorisés que dans des circonstances exceptionnelles et seulement si toutes les autres conditions sont satisfaites :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">ces transferts sont essentiels pour répondre à une menace précise et réelle liée à une infraction terroriste ou à une forme grave de criminalité dans un Etat membre de l'Union européenne ou un pays tiers,</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et l'accord préalable ne peut pas être obtenu en temps utile.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'UIP de l'Etat membre de l'Union européenne, qui n'a pu donner son accord en temps utile, est informée sans retard.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le transfert est dûment enregistré et soumis à une vérification ex post.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.781Z",
+  "tokenUsage": {
+    "prompt": 1886,
+    "completion": 442,
+    "total": 2328
+  }
+}

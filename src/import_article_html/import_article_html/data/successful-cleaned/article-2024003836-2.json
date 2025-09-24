@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003836",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 12 de l'arrêté royal du 7 janvier 2014 relatif à l'approvisionnement direct par un producteur primaire du consommateur final ou du commerce de détail local en petites quantités de certaines denrées alimentaires d'origine animale, le</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">est remplacé par ce qui suit :</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">du navire après l'accostage ou du quai vers le consommateur final ou le commerce de détail local, en ce qui concerne les produits, visés à l'article 11,</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">2°</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"3°\">\n                            <span class=\"provision-text\">et 3°.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.536Z",
+  "tokenUsage": {
+    "prompt": 1740,
+    "completion": 351,
+    "total": 2091
+  }
+}

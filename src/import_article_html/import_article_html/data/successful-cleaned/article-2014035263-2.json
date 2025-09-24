@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035263",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les missions, visées à l'article 12, alinéa premier, 3° et 4°, du décret du 21 juin 2013, sont effectuées par le centre à la demande du ministre, du département ou de l'agence <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-03-12/10\" data-law-type=\"AGF\" data-article-number=\"111\">...</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.332Z",
+  "tokenUsage": {
+    "prompt": 1630,
+    "completion": 183,
+    "total": 1813
+  }
+}

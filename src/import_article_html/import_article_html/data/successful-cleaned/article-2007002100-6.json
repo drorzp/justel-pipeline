@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007002100",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 581, 10°, du même Code, inséré par la loi du 25 février 2003, est remplacé par la disposition suivante :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">des contestations fondées sur la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination, relatives aux relations de travail et aux régimes complémentaires de sécurité sociale visés par l'article 5, § 1er,</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">5°, de ladite loi, et qui concernent des professions indépendantes; \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.769Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 285,
+    "total": 1955
+  }
+}

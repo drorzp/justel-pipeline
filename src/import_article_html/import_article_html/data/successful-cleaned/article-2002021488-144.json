@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002021488",
+  "articleNumber": "144",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-144\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 144</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 59quater , alinéa 4, de la même loi, inséré par l'arrêté royal n° 530 du 31 mars 1987, est remplacé par l'alinéa suivant :</p>\n            <blockquote class=\"replacement-text\">\n                <p class=\"quote-text\">\" Le Roi détermine les conditions dans lesquelles le Fonds des accidents du travail peut d'une part, renoncer au recouvrement des montants visés à l'article 59,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"4°\">\n                        <span class=\"provision-text\">et d'autre part, accorder à l'employeur, l'armateur et à l'entreprise d'assurance l'exonération ou la réduction de la majoration et de l'intérêt de retard, visés à l'alinéa 2.</span>\n                    </li>\n                </ol>\n                <p class=\"quote-text\">\"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.640Z",
+  "tokenUsage": {
+    "prompt": 1703,
+    "completion": 330,
+    "total": 2033
+  }
+}

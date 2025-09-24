@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990012060",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1990-10-16/30\" data-law-type=\"AM\" data-article-number=\"15\">&lt;Inséré par AM 1990-10-16/30, art. 15, 002; <b>En vigueur :</b> 10-05-1990&gt;</span> Les membres visés à l'article 3, § 1°, 3° et 4°, peuvent prétendre au remboursement des frais de parcours conformément aux dispositions de l'arrêté royal du 18 janvier 1965 portant réglementation générale en matière de frais de parcours.\n      </p>\n      <p class=\"closing-text\">\n        Ils sont, en application de l'article 17 du même arrêté royal du 18 janvier 1965, autorisés à utiliser leur voiture personnelle.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.725Z",
+  "tokenUsage": {
+    "prompt": 1722,
+    "completion": 267,
+    "total": 1989
+  }
+}

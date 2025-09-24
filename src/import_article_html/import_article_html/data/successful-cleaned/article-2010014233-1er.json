@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010014233",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 2, § 2,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">de l'arrêté royal du 15 mars 1968 portant règlement général sur les conditions techniques auxquelles doivent répondre les véhicules automobiles et leurs remorques, leurs éléments ainsi que les accessoires de sécurité, les modifications suivantes sont apportées :</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les mots \" qui sont en possession de la déclaration complétée par le titulaire dont le modèle est fixé par le Ministre ayant les Transports dans ses attributions ou son délégué \" sont remplacés par les mots \" qui sont immatriculés sous une plaque d'immatriculation dont le groupe de lettres commence par \" O \" \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">Le 1er alinéa est complété par la phrase suivante : \" La déclaration complétée par le titulaire et dont le modèle est fixé par le Ministre ayant les Transports dans ses attributions ou par son délégué reste valable jusqu' au 15 novembre 2011</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les mots \" 23sexies § 1er, 1° et 3° \" sont remplacés par les mots \" 23sexies § 1er, 1°, 3° et 6° \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.244Z",
+  "tokenUsage": {
+    "prompt": 2148,
+    "completion": 466,
+    "total": 2614
+  }
+}

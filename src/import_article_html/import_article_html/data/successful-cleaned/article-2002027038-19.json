@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002027038",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 11, alinéa 1, de l'arrêté du Gouvernement wallon du 7 novembre 1996 portant exécution du décret du 4 avril 1996 organisant l'agrément et le subventionnement des services de santé mentale, et dans l'article 23, alinéa 1, 1°, 2° et 3°, du même arrêté, les articles les montants exprimés en franc et figurant à la deuxième colonne du tableau suivant sont remplacés par les montants exprimés en euro dans la troisième colonne du même tableau.</p>\n      <table>\n        <thead>\n          <tr>\n            <th>Article</th>\n            <th>Alinéa</th>\n            <th>Montant (Francs)</th>\n            <th>Montant (Euros)</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>11</td>\n            <td>1er</td>\n            <td>350</td>\n            <td>8,70</td>\n          </tr>\n          <tr>\n            <td>23</td>\n            <td>1er, 1°</td>\n            <td>750</td>\n            <td>18,60</td>\n          </tr>\n          <tr>\n            <td>23</td>\n            <td>1er, 2°</td>\n            <td>600</td>\n            <td>14,90</td>\n          </tr>\n          <tr>\n            <td>23</td>\n            <td>1er, 3°</td>\n            <td>500</td>\n            <td>12,40</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.691Z",
+  "tokenUsage": {
+    "prompt": 1816,
+    "completion": 463,
+    "total": 2279
+  }
+}

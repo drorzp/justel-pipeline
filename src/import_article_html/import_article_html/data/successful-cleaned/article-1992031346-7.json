@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992031346",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>La section &quot; planning familial &quot; se compose de 4 membres effectifs et de 4 membres suppléants pour chacune des catégories visées à l'article 9, § 1er, 1°, 2° et 4°, du règlement.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.084Z",
+  "tokenUsage": {
+    "prompt": 1462,
+    "completion": 136,
+    "total": 1598
+  }
+}

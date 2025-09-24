@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1967101055",
+  "articleNumber": "1134",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1134\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1134</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>La requête, signée par trois avocats, dont deux au moins sont inscrits depuis plus de vingt ans au barreau, contient tous les moyens à l'appui de celle-ci et est signifiée avec citation dans les formes ordinaires devant la juridiction qui a rendu la décision entreprise, le tout à peine de nullité.</p>\n                    <p>Lorsque la requête civile est formée en vertu de l'article 1133, 6°, le désavoué doit être mis en cause.</p>\n                    <p>Si la décision entreprise a été rendue sur un litige prévu aux <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"580\" data-law-type=\"articles\" data-article-number=\"2°, 3°, 6°, 8°, 9°, 10° et 11°\">((articles 580, 2°, 3°, 6°, 8°, 9°, 10° et 11°)</span>, 581, 582, 1° et 2°, et 583)), la requête peut également être formée selon le cas, sous la signature de l'auditeur du travail ou du procureur général. \n                    <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"30-6-1971\" data-law-type=\"L\" data-article-number=\"29\">&lt;L 30-6-1971, art. 29&gt;</span> \n                    <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"22-12-1977\" data-law-type=\"L\" data-article-number=\"166\">&lt;L 22-12-1977, art. 166&gt;</span></p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.645Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 489,
+    "total": 2437
+  }
+}

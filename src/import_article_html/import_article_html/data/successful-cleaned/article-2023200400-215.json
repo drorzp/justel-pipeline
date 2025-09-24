@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023200400",
+  "articleNumber": "215",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-215\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 215</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">- A l'article D.VIII.7 du même Code, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">(concerne le texte allemand);</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">(concerne le texte allemand);</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">(concerne le texte allemand);</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le § 2, alinéa 2, 11°, le point en fin de phrase est remplacé par un point-virgule;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">dans le § 2, l'alinéa 2 est complété par les 12° et 13° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"12°\">\n              <span class=\"provision-text\">pour des permis relatifs à des actes et travaux conformément à l'article D.IV.4, alinéa 1er, 1° à 5°, une visualisation 3D du projet d'urbanisme;</span>\n            </li>\n            <li class=\"provision\" data-number=\"13°\">\n              <span class=\"provision-text\">pour des permis relatifs à des actes et travaux conformément à l'article D.IV.2, une représentation du parcellaire prévu et, le cas échéant, l'impression graphique des objectifs poursuivis en matière d'aménagement du territoire et d'urbanisme au niveau de la partie concernée de la zone.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.405Z",
+  "tokenUsage": {
+    "prompt": 1987,
+    "completion": 534,
+    "total": 2521
+  }
+}

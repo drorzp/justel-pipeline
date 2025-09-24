@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995031314",
+  "articleNumber": "181/3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-181/3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 181/3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-05-17/01\" data-law-type=\"ARR\" data-article-number=\"6\">\n        Le congé de circonstances visé à l'article 179, alinéa 1er, 2° et le congé de naissance visé à l'article 181/1 sont cumulables.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.005Z",
+  "tokenUsage": {
+    "prompt": 1612,
+    "completion": 170,
+    "total": 1782
+  }
+}

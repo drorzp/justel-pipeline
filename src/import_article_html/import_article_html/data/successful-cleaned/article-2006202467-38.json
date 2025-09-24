@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006202467",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 38</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les articles 1er; 2, § 1er, alinéa 1er, 1° et 3°, alinéas 2 et 4; 3, §§ 1er et 2; 4 à 22 de l'arrêté du Gouvernement de la Communauté française du 3 mai 1999 déterminant la forme et les règles de délivrance du certificat d'études de base sont abrogés.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 3, point 7 du décret du 27 mars 2002 relatif au pilotage du système éducatif de la Communauté française est abrogé.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.901Z",
+  "tokenUsage": {
+    "prompt": 1756,
+    "completion": 293,
+    "total": 2049
+  }
+}

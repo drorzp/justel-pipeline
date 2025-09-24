@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994012853",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 74, § 1er, du même arrêté royal, est remplacé par la disposition suivante :</p>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation à l'article 44, les travailleurs visés à l'article 28, § 3, 1° et 3°, et les travailleurs appartenant aux catégories désignées par le Ministre après avis du comité de gestion, peuvent bénéficier des allocations pour des demi-jours de chômage.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.933Z",
+  "tokenUsage": {
+    "prompt": 1566,
+    "completion": 198,
+    "total": 1764
+  }
+}

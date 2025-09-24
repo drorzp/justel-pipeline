@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044781",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 6, 1°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"intro-text\">5°, l'article 33, les articles 35 à 39, l'article 40,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">à</span></li>\n      </ol>\n      <p class=\"closing-text\">4°, l'article 41, les articles 46 à 48, les articles 67, 68 et 70 du décret du 21 avril 2023 modifiant divers décrets relatifs au logement entrent en vigueur le 30 juin 2023. L'article 14 du présent arrêté entre en vigueur le 30 juin 2023 et l'article 19 du présent arrêté entre en vigueur le 30 septembre 2023.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.369Z",
+  "tokenUsage": {
+    "prompt": 1711,
+    "completion": 307,
+    "total": 2018
+  }
+}

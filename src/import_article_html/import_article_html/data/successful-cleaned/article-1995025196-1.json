@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995025196",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\" data-article-number=\"\"></span>.</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 8 de l'arrêté royal du 15 mars 1995 fixant les normes auxquelles le centre cardiaque doit répondre pour être agréé comme service médico-technique au sens de l'article 44 de la loi sur les hôpitaux, coordonnée le 7 août 1987, les mots \"qui dispose des services visés à l'article 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n            </ol>\n            <p class=\"intro-text\">\" sont remplacés par \"qui dispose d'un service de cardiologie et des services visés à l'article 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n            </ol>\n            <p class=\"intro-text\">\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.996Z",
+  "tokenUsage": {
+    "prompt": 1799,
+    "completion": 423,
+    "total": 2222
+  }
+}

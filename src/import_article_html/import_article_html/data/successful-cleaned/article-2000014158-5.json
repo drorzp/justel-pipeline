@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000014158",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 36 du même arrêté, modifié par l'arrêté royal du 16 juillet 1997, le premier alinéa est remplacé par les dispositions suivantes :</p>\n            <p class=\"intro-text\">\" Les conducteurs et les passagers de tricycles et de quadricycles à moteur et de cyclomoteurs classe B, sans habitacle, doivent porter un casque de protection.</p>\n            <p class=\"intro-text\">Les conducteurs et les passagers de motocyclettes doivent porter un casque de protection, sauf s'ils portent la ceinture de sécurité ou s'ils sont transportés dans un autre système de retenue conformément aux dispositions de l'article 35.1.2. et que le véhicule a un habitacle; dans ce cas, lorsqu'il est fait application des dérogations au port de la ceinture de sécurité prévues à l'article 35.2.1.,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">6°</span></li>\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">7°</span></li>\n            </ol>\n            <p class=\"closing-text\">le port du casque est obligatoire.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.117Z",
+  "tokenUsage": {
+    "prompt": 1789,
+    "completion": 419,
+    "total": 2208
+  }
+}

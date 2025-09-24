@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024000374",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 7 de la même loi, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les mots \"de six organes\" sont remplacés par les mots \"au moins des organes internes suivants\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, 4°, les mots \"centre de connaissances\" sont remplacés par les mots \"service d'autorisation et d'avis\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'alinéa 2 est remplacé par ce qui suit:</span>\n          <p class=\"intro-text\">\"Chaque organe interne de l'Autorité de protection des données visé à l'alinéa 1er, 2° à 6° est dirigé par un membre différent du comité de direction.\"</p>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'article est complété par un alinéa rédigé comme suit:</span>\n          <p class=\"intro-text\">\"L'Autorité de protection des données peut, en application des articles 9, § 1er, alinéa 1er, 3° et 11, § 1er, 1° et 2°, décider de créer des organes internes supplémentaires à ceux mentionnés à l'alinéa 1er. La direction d'un organe interne supplémentaire est confiée par le comité de direction à un membre du comité de direction, à l'exception du président de l'Autorité de protection des données.\"</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.511Z",
+  "tokenUsage": {
+    "prompt": 2217,
+    "completion": 508,
+    "total": 2725
+  }
+}

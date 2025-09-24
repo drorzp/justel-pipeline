@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1978071105",
+  "articleNumber": "14bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14bis\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14bis</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-05-01/63\" data-law-type=\"L\" data-article-number=\"11\">&lt;L 2006-05-01/63, art. 11, 007;**En vigueur :**29-05-2006&gt;</span> Sauf décision contraire de l'autorité exerçant les attributions de chef de cor ps, l'exercice des prérogatives fixées aux articles 13, 1° et 2°, et 14, 2° à 4°, est suspendu de plein droit pour les militaires qui :\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">soit sont mis en oeuvre ou sont mis sur préavis;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">soit sont en service intensif.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">\n                Toutefois, les syndicats agréés conservent en permanence le droit de communiquer aux autorités militaires des problèmes relatifs aux intérêts du personnel.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.694Z",
+  "tokenUsage": {
+    "prompt": 1784,
+    "completion": 360,
+    "total": 2144
+  }
+}

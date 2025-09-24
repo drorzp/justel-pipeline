@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013022328",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1erbis de la même loi, inséré par la loi du 21 juin 1983 et modifié par les lois des 20 octobre 1998 et 1er mai 2006, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le § 1er, 1°, 2°, 3° et 4°, les mots \" éléments, matériaux, \" sont chaque fois insérés entre le mot \" aux \" et les mots \" objets, appareils \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le § 1er est complété par le 5°, rédigé comme suit : </span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"5°\">\n              <span class=\"provision-text\">éléments et matériaux entrant dans la fabrication des objets, appareils, substances ou compositions visés aux points 1°, 2°, 3° et 4° et destinés à être utilisés pour ces derniers, et qui sont essentiels à leur intégrité.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le § 2, les mots \" élément, matériel, \" sont insérés entre les mots \" à tout autre \" et les mots \" objet, appareil \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le § 3, les mots \" éléments, matériaux, \" sont insérés entre les mots \" pour la réglementation des \" et les mots \" objets, appareils \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.134Z",
+  "tokenUsage": {
+    "prompt": 2026,
+    "completion": 494,
+    "total": 2520
+  }
+}

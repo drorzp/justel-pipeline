@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992052151",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 37</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sans préjudice des articles de la loi de base et des lois spéciales, les membres du comité de direction ne peuvent être administrateur, directeur, gérant, fondé de pouvoir ou préposé de sociétés commerciales ou de sociétés à forme commerciale de droit belge ou de droit étranger, ni prendre part à l'administration d'une institution publique belge ou étrangère.</p>\n            <p class=\"intro-text\">Cette interdiction ne s'applique pas à la représentation dans des sociétés ou institutions dans lesquelles celle-ci a une participation.</p>\n            <p class=\"intro-text\">Dans des cas individuels, la Commission bancaire et financière, aux conditions qu'elle définit, peut accorder des dérogations à l'interdiction prévue au premier alinéa.</p>\n            <p class=\"intro-text\">Les violations de cette interdiction sont frappées des peines prévues aux articles 42,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et 46 de l'arrêté royal n° 185 du 9 juillet 1935 sur le contrôle des banques et le régime des émissions de titres et valeurs.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.095Z",
+  "tokenUsage": {
+    "prompt": 1782,
+    "completion": 345,
+    "total": 2127
+  }
+}

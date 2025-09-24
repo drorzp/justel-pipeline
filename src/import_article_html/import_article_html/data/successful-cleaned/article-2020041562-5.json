@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020041562",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Par dérogation à l'article 72 de l'arrêté royal du 21 décembre 1967 portant règlement général du régime de pension de retraite et de survie des travailleurs salariés, lorsque le bénéficiaire est décédé avant la date d'entrée en vigueur de la présente loi, les arrérages afférents au supplément de pension visé à l'article 3, § 6, de la loi du 20 juillet 1990 et à l'article 5, § 6, de l'arrêté royal du 23 décembre 1996 qui résultent de l'application de la présente loi:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">sont uniquement versés au conjoint et aux enfants, avec lesquels le bénéficiaire vivait au moment de son décès, sur demande introduite conformément aux modalités qui sont fixées pour les autres ayants droit;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">ne sont pas versés aux personnes visées à l'article 72, alinéa 2, 3° et 4°, de l'arrêté royal du 21 décembre 1967 précité.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Si le bénéficiaire est décédé avant la date d'entrée en vigueur de la présente loi, la demande de paiement des arrérages visés à l'alinéa 1er doit, par dérogation à l'article 72, alinéa 3, de l'arrêté royal du 21 décembre 1967, être introduite, sous peine de forclusion, dans un délai de douze mois à compter de la date de l'entrée en vigueur de la présente loi.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.162Z",
+  "tokenUsage": {
+    "prompt": 2064,
+    "completion": 475,
+    "total": 2539
+  }
+}

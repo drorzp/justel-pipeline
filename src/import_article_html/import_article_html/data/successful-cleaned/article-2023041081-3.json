@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023041081",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Un service d'aide aux familles dont le nombre d'usagers aidés visé à l'article 54, § 2, de l'annexe 2 de l'arrêté du 28 juin 2019 est inférieur en 2021 à celui de 2019 ou 2020, peut demander à l'agence de calculer les subventions visées à l'article 52, § 1er, 2° et 4°, de l'annexe précitée, relatives à l'année 2022, sur la base du nombre d'usagers aidés en 2019 ou 2020.\n      </p>\n      <p class=\"closing-text\">\n        Le service qui souhaite appliquer l'option mentionnée à l'alinéa 1er peut introduire une demande, au plus tard le 1er avril 2023, au moyen d'un formulaire mis à disposition par l'agence sur son site web à cet effet.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.731Z",
+  "tokenUsage": {
+    "prompt": 1766,
+    "completion": 282,
+    "total": 2048
+  }
+}

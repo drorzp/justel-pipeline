@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018010015",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La publication de la décision d'expropriation définitive sur les sites internet visés à l'article 11,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et sur la plate-forme d'échange numérique pour les expropriations visée à l'article 11,</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et à l'article 21 s'effectue toujours concomitamment avec toutes ses annexes, à l'exception des données relevant de la législation sur la protection de la vie privée.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.764Z",
+  "tokenUsage": {
+    "prompt": 1610,
+    "completion": 244,
+    "total": 1854
+  }
+}

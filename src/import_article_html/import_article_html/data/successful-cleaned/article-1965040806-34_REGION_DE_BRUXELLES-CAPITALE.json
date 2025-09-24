@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1965040806",
+  "articleNumber": "34_REGION_DE_BRUXELLES-CAPITALE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34_REGION_DE_BRUXELLES-CAPITALE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34_REGION_DE_BRUXELLES-CAPITALE</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En prononçant la déchéance totale ou partielle de (l'autorité parentale), le tribunal de la jeunesse désigne la personne qui, sous son contrôle, exercera les droits mentionnés à l'article 33, 1° et 2°, dont les parents ou l'un d'entre eux sont déchus et remplira les obligations qui y sont corrélatives, ou confie le mineur (aux institutions concernées), lequel désigne une personne qui exercera ces droits après que sa désignation aura été homologuée par ce tribunal, sur réquisition du ministère public. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"31-03-1987\" data-law-type=\"L\" data-article-number=\"105\">&lt;L 31-03-1987, art. 105&gt;</span> <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-04-09/43\" data-law-type=\"ORD\" data-article-number=\"16\" data-effective-date=\"01-10-2009\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2004040943\">&lt;ORD 2004-04-09/43, art. 16, 018;<strong>En vigueur :</strong>01-10-2009&gt;</span></p>\n      <p class=\"closing-text\">Le père et la mère sont préalablement entendus ou appelés. Si un seul des parents a encouru la déchéance, le tribunal de la jeunesse désigne, pour le remplacer, le parent non déchu, lorsque l'intérêt du mineur ne s'y oppose pas.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.543Z",
+  "tokenUsage": {
+    "prompt": 2067,
+    "completion": 475,
+    "total": 2542
+  }
+}

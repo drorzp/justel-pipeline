@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012253",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Une demande de publication de documents administratifs, telle que visée à l'article II.38, alinéa 1er, du décret de gouvernance du 7 décembre 2018 contient :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">une preuve de l'identité du demandeur ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un document prouvant que le demandeur est associé à une université, à un institut supérieur ou à un institut de recherche agréé ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">une mention des documents administratifs à consulter ;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">une description claire des fins scientifiques ;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">une description claire des méthodes de recherche qui seront utilisées ;</span></li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">la manière dont des données personnelles seront traitées si la demande concerne des documents administratifs pour lesquels les motifs d'exception, visés aux articles II.34,</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et II.36, § 1er, alinéa 2,</span></li>\n          </ol>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">du décret de gouvernance du 7 décembre 2018, peuvent être invoqués.</span></li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.304Z",
+  "tokenUsage": {
+    "prompt": 1980,
+    "completion": 513,
+    "total": 2493
+  }
+}

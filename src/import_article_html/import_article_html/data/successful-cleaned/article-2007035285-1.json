@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007035285",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\">.</span></h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 14 mai 2004 relatif à l'exploitation et aux tarifs de la VVM, il est ajouté un point 17° et un point 18°, rédigés comme suit :</p>\n            <p class=\"quoted-block\">\"</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"17°\">\n                    <span class=\"provision-text\">espaces publics de la VVM : tous les espaces accessibles au public destinés à assurer l'exploitation de la VVM;</span>\n                </li>\n                <li class=\"provision\" data-number=\"18°\">\n                    <span class=\"provision-text\">signaux de la VVM : tous les panneaux et indications, électroniques ou non, prescrits par des lois ou des règlements ou propres à la VVM, qui sont destinés à assurer l'exploitation ou la sécurité des transports publics.</span>\n                </li>\n            </ol>\n            <p class=\"quoted-block\">\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.120Z",
+  "tokenUsage": {
+    "prompt": 1728,
+    "completion": 322,
+    "total": 2050
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029792",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 21 du même décret sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à l'alinéa 1er, les mots &quot; au moins &quot; sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 2, les mots : &quot; Dans le respect du caractère spécifique du projet éducatif du pouvoir organisateur, &quot; sont remplacés par les mots &quot; Dans le respect du caractère spécifique des projets éducatif et pédagogique du pouvoir organisateur visés à l'article 1er, 7° et 8°, et du projet pédagogique et artistique d'établissement visé à l'article 3bis, &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.106Z",
+  "tokenUsage": {
+    "prompt": 1691,
+    "completion": 290,
+    "total": 1981
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015202615",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 18, deuxième alinéa, du même décret, modifié par le décret du 13 mars 2014, les 1°, 2° et 3° sont remplacés par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">80 pour une petite entreprise;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">70 pour une moyenne entreprise;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">60 pour une grande entreprise. \"</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.190Z",
+  "tokenUsage": {
+    "prompt": 1593,
+    "completion": 239,
+    "total": 1832
+  }
+}

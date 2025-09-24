@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005035378",
+  "articleNumber": "51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-51\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 51</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le présent arrêté entre en vigueur à la date d'approbation par le Gouvernement flamand, à l'exception des articles visés ci-dessous, qui produisent leurs effets à la date mentionnée ci-dessous :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 1er, 4° : le 1er septembre 2002;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 1er, 1° : le 29 avril 2004;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 1er, 2° et 3° : le 30 juin 2004;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 11 : le 1er juillet 2002;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">les articles 14, 3°, 23, 1° et 3°, 24, 26, 2°, 39 et 40 : le 1er juin 2004;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 15, 2°, pour ce qui concerne les §§ 1er et 2 : le 1er janvier 2004;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">les articles 19, 20, 21, 23, 2°, 25, 43 et 45 : le 1er juillet 2004;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 31 : le 1er novembre 2001;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">les articles 32 et 50 : le 1er décembre 2004;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">les articles 33 et 35 : le 1er octobre 2004;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">l'article 36 : le 1er septembre 2004;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">les articles 46 et 47 : le 22 juillet 2004.</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.893Z",
+  "tokenUsage": {
+    "prompt": 2230,
+    "completion": 635,
+    "total": 2865
+  }
+}

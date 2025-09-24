@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006021363",
+  "articleNumber": "148",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-148\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 148</h2>\n  </header>\n  <section class=\"paragraph\">\n    <div class=\"paragraph-content\">\n      <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-04-27/35\" data-law-type=\"L\" data-article-number=\"49\">&lt;L 2007-04-27/35, art. 49, 003;**En vigueur :**18-05-2007&gt;</span>Par arrêté délibéré en Conseil des Ministres et pris après avis du Conseil national du Travail, le Roi fixe la date d'entrée en vigueur du présent chapitre.\n    </div>\n  </section>\n  <section class=\"paragraph\">\n    <div class=\"paragraph-content\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-04-14/06\" data-law-type=\"L\" data-article-number=\"89\">Par dérogation aux dispositions de l'alinéa 1er, les articles 114 et 115 produisent leurs effets le 1er janvier 2007 et les articles 116, 1° à 3°, 121, 122, 125 et 146, 7°, 8° et 18° produisent leurs effets le 1er janvier 2009.</span>\n    </div>\n  </section>\n  <section class=\"paragraph\">\n    <div class=\"paragraph-content\">\n      A partir du 1er avril 2007 et jusqu'à la date d'entrée en vigueur du présent chapitre, les débiteurs de la retenue visée à l'article 1er de l'arrête royal n° 33 du 30 mars 1982 relatif à une retenue sur des indemnités d'invalidité et des prépensions et de la cotisation spéciale à charge de l'employeur visée à l'article 268 de la loi-programme du 22 décembre 1989, déclarent trimestriellement les retenues et cotisations et versent celles-ci <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2016-03-18/03\" data-law-type=\"L\" data-article-number=\"165\">au Service fédéral des Pensions</span> dans le mois qui suit ce trimestre.\n    </div>\n  </section>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.834Z",
+  "tokenUsage": {
+    "prompt": 2273,
+    "completion": 542,
+    "total": 2815
+  }
+}

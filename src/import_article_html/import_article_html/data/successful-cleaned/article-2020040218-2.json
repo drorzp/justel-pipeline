@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020040218",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la section A du même chapitre I, les dispositions du point 5 sont supprimées et remplacées par les dispositions suivantes : \" 5. En outre, ces prestations diététiques n'entrent en ligne de compte pour une intervention de l'assurance obligatoire soins de santé que si elles sont dispensées par un diététicien agréé qui dispose d'un visa du S.P.F. Santé publique et qui est également enregistré en tant que diététicien à l'INAMI. Pour être enregistrés à l'INAMI, les diététiciens doivent s'engager :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">sous peine de remboursement, à se conformer aux conditions mentionnées dans ce chapitre pour attester les prestations diététiques ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et à se conformer aux honoraires prévus pour ces prestations. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.265Z",
+  "tokenUsage": {
+    "prompt": 1759,
+    "completion": 318,
+    "total": 2077
+  }
+}

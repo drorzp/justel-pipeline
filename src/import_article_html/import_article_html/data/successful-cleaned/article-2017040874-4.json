@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040874",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les données visées à l'article 3, 1° à 9° sont transmises par le déclarant qui :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">met en consommation des biocarburants, huiles minérales, mélangés ou non, et leurs produits de substitution d'origine biologique; ou</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">produit, stocke, transporte, distribue, achète comme intermédiaire, vend ou fournit des biocarburants, des huiles minérales, mélangés ou non, et leurs produits de substitution d'origine biologique pour une capacité excédant 25.000 tonnes par an.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les données visées à l'article 3, 10° et 11°, sont transmises par le déclarant qui vend ou fournit à la consommation finale des biocarburants, des huiles minérales, mélangés ou non, et leurs produits de substitution d'origine biologique pour une capacité excédant cinquante tonnes par an.</p>\n        <p>Sont annuellement soumis à cette enquête obligatoire les déclarants possédant/gérant plus de trois établissements.</p>\n        <p>Les déclarants non visés à l'alinéa 1er sont soumis à un système d'échantillonnage simple.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.625Z",
+  "tokenUsage": {
+    "prompt": 1999,
+    "completion": 483,
+    "total": 2482
+  }
+}

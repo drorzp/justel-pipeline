@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017040465",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 79, alinéa 1er, de la même loi, inséré par la loi du 2 mai 2007 et modifié par l'arrêté royal du 3 mars 2011, les mots \"l'article 35, § 1er, 1° et 2° \" sont remplacés par les mots \"l'article 35, § 1er, alinéa 1er\".\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.720Z",
+  "tokenUsage": {
+    "prompt": 1580,
+    "completion": 178,
+    "total": 1758
+  }
+}

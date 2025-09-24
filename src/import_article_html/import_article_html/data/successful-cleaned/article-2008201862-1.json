@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008201862",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 20 avril 1994 portant exécution du décret du 30 juin 1993 portant protection du patrimoine archéologique, modifié par les arrêtés du Gouvernement flamand des 12 décembre 2003 et 23 juin 2006, sont ajoutés un point 7° et un point 8°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">Ministre : le Ministre flamand chargé des Monuments et des Sites;</span>\n        </li>\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">département : le Département de l'Aménagement du Territoire, de la Politique du Logement et du Patrimoine immobilier du Ministère flamand de l'Aménagement du Territoire, de la Politique du Logement et du Patrimoine immobilier;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.909Z",
+  "tokenUsage": {
+    "prompt": 1742,
+    "completion": 310,
+    "total": 2052
+  }
+}

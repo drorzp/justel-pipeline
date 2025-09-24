@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999036093",
+  "articleNumber": "153",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-153\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 153</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les modifications suivantes sont apportées à l'article 97, § 1er, du même décret :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les points 9° et 10° sont remplacés par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"9°\">\n              <span class=\"provision-text\">rédacteur et premier rédacteur : 63;</span>\n            </li>\n            <li class=\"provision\" data-number=\"10°\">\n              <span class=\"provision-text\">commis-dactylographe et premier commis-dactylographe : 57;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au point 20°, le nombre \" 99 \" est remplacé par le nombre \" 82 \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les points 21° à 23° sont ajoutés, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"21°\">\n              <span class=\"provision-text\">surveillant-éducateur avec échelle de traitement 104 : 82;</span>\n            </li>\n            <li class=\"provision\" data-number=\"22°\">\n              <span class=\"provision-text\">surveillant-éducateur avec échelle de traitement 123 : 82;</span>\n            </li>\n            <li class=\"provision\" data-number=\"23°\">\n              <span class=\"provision-text\">surveillant-éducateur avec échelle de traitement 126 : 82.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.266Z",
+  "tokenUsage": {
+    "prompt": 2051,
+    "completion": 521,
+    "total": 2572
+  }
+}

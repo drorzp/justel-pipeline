@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014015124",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans le chapitre 1er du même arrêté, il est inséré une section 2 rédigée comme suit : \" Section 2. Evaluation interne. Art.2/1. Le service Evaluation spéciale est aussi chargé des tâches suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">apporter un appui technique à la Direction générale de la Coopération au développement et de l'Aide humanitaire pour l'examen ex-ante des systèmes de suivi et d'évaluation dans le cadre des systèmes performants de maîtrise visés à l'article 26 de la loi du 19 mars 2013 relative à la Coopération belge au Développement afin d'assurer la conformité aux critères de qualité qu'elle détermine,</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">certifier les systèmes de suivi et d'évaluation des acteurs de la Coopération belge au Développement tels que visés à l'article 2, </span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"5°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"6°\">\n              <span class=\"provision-text\">de la même loi, conformément aux critères mentionnés à l'article 2, § 1er, 1° du même arrêté,</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">évaluer ex-post la qualité des systèmes de suivi et d'évaluation harmonisés des acteurs de la Coopération belge au Développement. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.165Z",
+  "tokenUsage": {
+    "prompt": 1997,
+    "completion": 483,
+    "total": 2480
+  }
+}

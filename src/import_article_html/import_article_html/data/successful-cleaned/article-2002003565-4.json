@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002003565",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Pour chacun des endroits où ils détiennent l'huile minérale imposable en vertu de l'article 1er, § 1er, les fabricants, les négociants en gros et demi-gros et les dépositaires doivent établir, au plus tard le jour qui suit l'augmentation du taux du droit d'accise une déclaration de stock en double exemplaire, datée et signée, mentionnant les quantités d'huile minérale dénommée à l'article 1er, § 1er, ayant fait l'objet d'une mise à la consommation dans le pays :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">qu'ils détenaient à 0 heure au jour de l'augmentation du taux;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">qui leur ont été expédiées avant le jour de l'augmentation du taux mais qui leur sont parvenues entre la date d'augmentation du taux et la date du dépôt de la déclaration de stock correspondante.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Ces déclarations de stock ne doivent pas être établies si le total des quantités visées au § 1er, 1° et 2°, ne dépasse pas 1.000 kg.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.811Z",
+  "tokenUsage": {
+    "prompt": 1978,
+    "completion": 467,
+    "total": 2445
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013022341",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les coefficients de 0,877537 et de 0,842835 visés à l'article 7, § 1er, 1° et 2°, de l'arrêté royal du 14 février 2003 portant détermination du montant minimum garanti de pension pour travailleurs salariés, abrogé par l'arrêté royal du 28 septembre 2006 portant exécution des articles 33, 33bis, 34 et 34bis de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, mais dont les dispositions restent d'application pour les pensions qui ont pris cours effectivement et pour la première fois avant le 1er octobre 2006, et le coefficient de 0,856296 visé à l'article 7, § 2, du même arrêté sont respectivement remplacés avec effet au 1er janvier 2014 par les coefficients de 0,899563, de 0,849578 et de 0,863146.</p>\n            <p class=\"closing-text\">(NOTE : par Arrêt du Conseil d'Etat n° 234638 du 3 mai 2016, le Conseil d'État annule l'article 5 de cet arrêté royal)</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:12.998Z",
+  "tokenUsage": {
+    "prompt": 1896,
+    "completion": 338,
+    "total": 2234
+  }
+}

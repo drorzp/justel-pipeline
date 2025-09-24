@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016200240",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 20, alinéa 1er, de l'arrêté du Gouvernement wallon du 6 mai 2004 portant exécution du décret du 11 mars 2004 relatif aux incitants régionaux en faveur des petites ou moyennes entreprises, modifié par les arrêtés du Gouvernent wallon des 9 février 2006, 6 décembre 2007, 12 décembre 2008 et 26 février 2015, les modifications suivantes sont apportées :</p>\n            <ol class=\"sub-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"provision-text\">le 2° est remplacé par ce qui suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">dont les activités ne relèvent pas de secteurs ou partie de secteurs exclus telles que précisées à l'article 4, 1° à 4°, 9° à 13°, 22°, 24° à 30° et 33° à 35° ainsi que des secteurs ou partie de secteurs repris aux divisions 70 à 74 du Code NACE-BEL;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"provision-text\">le 5° est abrogé.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.646Z",
+  "tokenUsage": {
+    "prompt": 1893,
+    "completion": 404,
+    "total": 2297
+  }
+}

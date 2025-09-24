@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1990016158",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">(Voir note sous TITRE) Sans préjudice des sanctions pénales contenues dans l'arrêté royal du 31 mai 1933, au sujet des déclarations à faire en ce qui concerne les subventions, indemnités ou allocations de toute nature, qui sont, en tout ou en partie, à charge de l'Etat, l'aide sera refusée aux demandeurs qui auront introduit une déclaration qui, après vérification, est reconnue fausse en tout ou en partie.</p>\n      <p class=\"intro-text\">Toutes les indemnités indûment versées, en suite d'une telle déclaration, sont immédiatement restituées et, à défaut, recouvrées judiciairement.</p>\n      <p class=\"intro-text\">Il en est de même des indemnités octroyées lorsque le bénéficiaire, lors du contrôle visé à l'article 5, alinéa 3, n'apporte pas la preuve lui incombant qu'il réunit chacune des conditions d'octroi requises à l'article 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2°</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">3°</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">4°</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">ou s'abstient de donner suite aux demandes de renseignements et de production de documents émanant du Ministère de l'Agriculture.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.727Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 465,
+    "total": 2362
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047309",
+  "articleNumber": "58",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-58\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 58</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Sans préjudice de l'indemnité de sortie visée à l'article 57, lors du départ du bien loué, une indemnité supplémentaire à concurrence du dommage subi est due au preneur des biens ruraux dont le bail a pris fin à la suite d'un congé donné en application de l'article 10, § 1er, 2° à 4° et 6° à 8°, §§ 2 et 3, et de l'article 11, 9° et 10°.\n      </p>\n      <p class=\"closing-text\">\n        L'indemnité visée à l'alinéa 1er est calculée en tenant compte notamment de la perte professionnelle en cheptel et en matériel, eu égard à la superficie des terrains soustraits à leur destination agricole, de la perte de jouissance pendant les années restant à courir avant l'expiration de la période de bail en cours, étant entendu qu'il n'est pas tenu compte de moins de deux ou de plus de quatre années, et de la perte pour dépréciation des bâtiments et terrains restants.\n      </p>\n      <p class=\"closing-text\">\n        A défaut d'accord sur le montant de cette indemnité et en attendant sa fixation judiciaire, le preneur reçoit du bailleur, avant de quitter le bien, une indemnité provisionnelle égale au montant du nombre d'années de bail restant à courir avant l'expiration du bail, étant toutefois entendu qu'au moins quatre années et au plus huit années de bail peuvent être prises en considération.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.486Z",
+  "tokenUsage": {
+    "prompt": 2051,
+    "completion": 413,
+    "total": 2464
+  }
+}

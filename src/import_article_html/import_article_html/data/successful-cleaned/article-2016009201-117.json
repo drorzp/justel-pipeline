@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016009201",
+  "articleNumber": "117",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-117\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 117</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 412, § 1er, alinéa 1er, du même Code, remplacé par la loi du 15 juillet 2013 modifiée par la loi du 28 mars 2014, les modifications suivantes sont apportées :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">dans le 1°, d), les mots \"en application des peines\" sont remplacés par les mots \"au tribunal de l'application des peines\";</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">l'alinéa 1er est complété par les 8° et 9° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">le président du Collège des cours et tribunaux à l'égard des membres et des membres du personnel du service d'appui auprès de ce Collège;</span>\n            </li>\n            <li class=\"provision\" data-number=\"9°\">\n              <span class=\"provision-text\">le président du Collège du ministère public et du Collège des procureurs généraux à l'égard des membres et des membres du personnel du service d'appui auprès de ces Collèges.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.237Z",
+  "tokenUsage": {
+    "prompt": 1883,
+    "completion": 405,
+    "total": 2288
+  }
+}

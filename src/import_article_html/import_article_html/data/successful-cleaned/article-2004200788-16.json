@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004200788",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article 6, alinéa 1er, le Gouvernement de la Communauté française peut recruter et nommer directement au rang B ou au rang C, après avis favorable du jury et sous réserve de respecter les conditions fixées à l'article 13,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et d'être porteur du diplôme de docteur obtenu à la suite de la défense publique d'une dissertation pour le rang B ou les conditions fixées à l'article 14,</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et sous réserve que le candidat compte douze années d'ancienneté scientifique, pour le rang C.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.706Z",
+  "tokenUsage": {
+    "prompt": 1719,
+    "completion": 319,
+    "total": 2038
+  }
+}

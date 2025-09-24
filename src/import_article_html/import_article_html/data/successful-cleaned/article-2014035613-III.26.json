@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035613",
+  "articleNumber": "III.26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-III-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article III.26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 268 du Code de l'Enseignement secondaire sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 1er, les points 1° à 3°, ainsi que le point 5° et le dernier alinéa du point 6° sont abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 1er, 4°, les mots \" en fonction de ses besoins éducatifs \" sont remplacés par les mots \" , sauf en cas d'absence justifiée \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au paragraphe 1er, les points 4° et 6° sont renumérotés 1° et 2° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">au paragraphe 2, les mots \" du présent arrêté \" sont remplacés par les mots \" de la présente section \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.339Z",
+  "tokenUsage": {
+    "prompt": 1825,
+    "completion": 379,
+    "total": 2204
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007201364",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 13, alinéa 2, de l'arrêté royal du 27 mars 1998 relatif à la politique du bien-être des travailleurs lors de l'exécution de leur travail, est complété comme suit :</p>\n      <div class=\"quoted-block\">\n        &quot;\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"8°\">\n            <span class=\"provision-text\">organiser l'accueil de chaque travailleur débutant et désigner un travailleur expérimenté chargé de l'accompagner. Le membre de la ligne hiérarchique désigné par l'employeur et chargé d'assurer l'accueil, signe de son nom un document démontrant que, dans le cadre de ses tâches visées aux points 6° et 7°, les informations et instructions nécessaires concernant le bien-être au travail ont été fournies.</span>\n          </li>\n        </ol>\n        &quot;\n      </div>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.980Z",
+  "tokenUsage": {
+    "prompt": 1702,
+    "completion": 286,
+    "total": 1988
+  }
+}

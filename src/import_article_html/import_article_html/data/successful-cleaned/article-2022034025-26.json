@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034025",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>La base de calcul de la cotisation visée à l'article 25, 2° et 3°, est constituée par les données de l'année civile précédant celle pour laquelle la cotisation est due.</p>\n        <p>Afin de permettre à l'agence de fixer le montant de la cotisation, les cotisants remettent à l'agence, à sa demande, par e-mail ou par courrier, et dans les trente jours suivant l'envoi du formulaire de déclaration, une déclaration relative au chiffre d'affaires.</p>\n        <p>A défaut de communiquer cette déclaration dans le délai prescrit, la cotisation est facturée sur base des données transmises l'année précédentes. En l'absence de données, la cotisation la plus élevée de la catégorie est due.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.774Z",
+  "tokenUsage": {
+    "prompt": 1713,
+    "completion": 270,
+    "total": 1983
+  }
+}

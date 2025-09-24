@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032546",
+  "articleNumber": "534/240",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-534/240\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 534/240</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-11-10/17\" data-law-type=\"AGF\" data-article-number=\"31\">\n        Un contrôle a posteriori de la conformité des données figurant dans la demande visée à l'article 534/237, 1° et 5°, est possible. La Commission des caisses d'assurance soins effectue ce contrôle à la demande de l'agence. Le ministre peut définir les modalités d'exécution de ce contrôle.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.413Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 196,
+    "total": 1866
+  }
+}

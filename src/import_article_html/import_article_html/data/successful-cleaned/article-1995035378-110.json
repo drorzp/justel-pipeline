@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995035378",
+  "articleNumber": "110",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-110\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 110</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 188 du décret du 13 juillet 1994 relatif aux instituts supérieurs en Communauté flamande, les mots \"et conception de produits\" sont supprimés en</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">3°</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">4° Groupe D : les formations des disciplines conception de produits, soins de santé et enseignement.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.005Z",
+  "tokenUsage": {
+    "prompt": 1609,
+    "completion": 218,
+    "total": 1827
+  }
+}

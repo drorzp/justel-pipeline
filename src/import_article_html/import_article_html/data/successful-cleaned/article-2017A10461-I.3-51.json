@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017A10461",
+  "articleNumber": "I.3-51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-I-3-51\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article I.3-51</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Sans préjudice des dispositions des articles I.2-16 à I.2-21, l'employeur prend les mesures nécessaires pour que les membres du Comité disposent de toutes les informations utiles relatives :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">à la demande d'analyse des risques visée à l'article I.3-4;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">aux procédures à appliquer lorsqu'un travailleur estime subir un dommage découlant des risques psychosociaux au travail;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">au droit pour le travailleur d'acter une déclaration dans le registre visé à l'article I.3-3;</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">aux services ou institutions spécialisés auxquels il est fait appel en application de l'article 32quinquies de la loi;</span></li>\n          <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">à l'obligation de s'abstenir de violence et de harcèlement moral ou sexuel au travail.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En outre, l'employeur veille à ce que les membres du Comité reçoivent la formation nécessaire pour qu'ils puissent appliquer de manière adéquate les mesures de prévention, les procédures, les droits et les obligations au sujet desquels ils reçoivent les informations visées au § 1er, 1°, 2°, 3° et 5°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.565Z",
+  "tokenUsage": {
+    "prompt": 2082,
+    "completion": 549,
+    "total": 2631
+  }
+}

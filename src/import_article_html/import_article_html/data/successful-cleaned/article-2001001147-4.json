@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001001147",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La procédure pour la candidature d'un commissaire de brigade à un emploi à attribuer par mandat s'effectue conformément à la Partie VII, Titre III PJPol, étant entendu que :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'article VII.III.20, alinéa 1er, </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"(1°,)\"></li>\n                        <li class=\"sub-provision\" data-marker=\"2°\"></li>\n                        <li class=\"sub-provision\" data-marker=\"et 6°,\">\n                            <span class=\"provision-text\"> PJPol n'est pas d'application;</span>\n                        </li>\n                    </ol>\n                    <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"Erratum, M.B. 28-12-2001\" data-law-type=\"Erratum\" data-article-number=\"45186\">Erratum, M.B. 28-12-2001, p. 45186</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">une sanction disciplinaire majeure, visée à l'article 283, 2°, de la nouvelle loi communale, et qui n'a pas été radiée, est considérée comme une sanction disciplinaire lourde visée à l'article VII.III.20, alinéa 1er, 4°, PJPol;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">l'appel aux candidatures, visé à l'article VII.III.36 PJPol, pour les mandats de catégories 1 et 2 est communiqué d'office au gouverneur.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.199Z",
+  "tokenUsage": {
+    "prompt": 1955,
+    "completion": 504,
+    "total": 2459
+  }
+}

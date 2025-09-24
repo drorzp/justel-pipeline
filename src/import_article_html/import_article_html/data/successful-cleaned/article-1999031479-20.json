@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999031479",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 20</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les montants repris à l'article 19, 1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">sont révisables et liés à l'indice-santé de référence de décembre 1998. Ils sont adaptés annuellement chaque premier janvier compte tenu de l'indice des prix à la consommation visé au chapitre II de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays, ci-avant dénommé indice-santé.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.177Z",
+  "tokenUsage": {
+    "prompt": 1651,
+    "completion": 265,
+    "total": 1916
+  }
+}

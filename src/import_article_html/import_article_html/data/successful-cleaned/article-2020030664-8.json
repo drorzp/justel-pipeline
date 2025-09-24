@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020030664",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté entre en vigueur le jour de sa publication, à l'exception de l'article 7, 2°,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">3° et 6° qui entrent en vigueur le 1er janvier 2021, sauf si le Ministre arrête une date antérieure en application de l'article 32,</span></li>\n            </ol>\n            <p class=\"closing-text\">2°, de l'arrêté du Gouvernement flamand du 24 mai 2019 modifiant l'arrêté du Gouvernement flamand du 16 septembre 1997 relatif à la composition et au fonctionnement de la commission locale d'avis en matière de la fourniture minimale d'électricité, de gaz et d'eau, en ce qui concerne la procédure de demande d'instaurer ou d'enlever la limitation de débit sur l'adduction d'eau, et modifiant l'arrêté du Gouvernement flamand du 8 avril 2011 portant définition des droits et obligations des exploitants des réseaux publics de distribution d'eau et de leurs clients relatifs à la fourniture d'eau destinée à la consommation humaine, la mise en oeuvre de l'obligation d'assainissement et au règlement général de la vente d'eau, entre autres en ce qui concerne la réforme de la procédure de la coupure d'eau, l'inspection de l'installation intérieure et de l'évacuation d'eau privée, et modifiant l'arrêté du Gouvernement flamand du 27 novembre 2015 portant exécution du décret du 25 avril 2014 relatif au permis d'environnement, en ce qui concerne un aspect procédural.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.259Z",
+  "tokenUsage": {
+    "prompt": 2042,
+    "completion": 440,
+    "total": 2482
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015022279",
+  "articleNumber": "46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 46</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">L'article 28, produit ses effets le 1er janvier 2014.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">L'article 28, produit ses effets le 1er janvier 2014.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Les articles 34, et 35 à 45 produisent leurs effets le 1er janvier 2015.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.172Z",
+  "tokenUsage": {
+    "prompt": 1576,
+    "completion": 233,
+    "total": 1809
+  }
+}

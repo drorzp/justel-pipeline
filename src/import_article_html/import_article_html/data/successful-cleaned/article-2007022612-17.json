@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007022612",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 17</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un article 2quinquies, rédigé comme suit, est inséré dans le même arrêté :</p>\n            <blockquote class=\"article-quote\">\n                <p class=\"quote-text\">\" Art. 2quinquies. Le versement de la cotisation visée aux articles 2, § 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">2bis, § 1er,</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">2ter,</span>\n                    </li>\n                </ol>\n                <p class=\"quote-text\">2°, n'est pas requis durant vingt-quatre mois au maximum pour l'ensemble de la carrière, pour les périodes pendant lesquelles l'agent ou son conjoint habitant sous le même toit a perçu des allocations familiales pour un enfant de moins de 6 ans. \"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.955Z",
+  "tokenUsage": {
+    "prompt": 1661,
+    "completion": 308,
+    "total": 1969
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022344",
+  "articleNumber": "46/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 46/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-03-11/02\" data-law-type=\"AR\" data-article-number=\"1\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          Les membres visés à l'article 18/1, alinéa 2, 1° à 5°, de la loi coordonnée, sont nommés parmi les candidats proposés par l'institution qu'ils représentent.  \n          Le membre visé à l'article 18/1, alinéa 2, 6°, de la loi coordonnée, est nommé parmi les candidats proposés par le Conseil supérieur de la Santé, tel que visé dans l'arrêté royal du 5 mars 2007 portant création du Conseil supérieur de la Santé.  \n          Les membres visés à l'article 18/1, alinéa 2, 7°, de la loi coordonnée, sont nommés parmi les candidats, proposés conjointement par le Conseil interuniversitaire flamand et le Conseil des rectrices et recteurs, en nombre double de celui des mandats à attribuer.  \n          Les membres visés à l'article 18/1, alinéa 2, 8° et 9°, de la loi coordonnée, sont nommés parmi les candidats proposés par le Comité de l'assurance.\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          Le président de la Commission visé à l'article 190bis de la loi coordonnée est proposé par le Ministre.\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.899Z",
+  "tokenUsage": {
+    "prompt": 2067,
+    "completion": 453,
+    "total": 2520
+  }
+}

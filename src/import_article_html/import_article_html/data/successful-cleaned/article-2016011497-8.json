@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011497",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article XV.89, alinéa 1er, du même Code, inséré par la loi du 19 avril 2014, est complété par un 22° et un 23 °, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"22°\">\n                    <span class=\"provision-text\">du Règlement (UE) n° 2015/751 du Parlement européen et du Conseil du 29 avril 2015 relatif aux commissions d'interchange pour les opérations de paiement liées à une carte, à l'exception de son article 7;</span>\n                </li>\n                <li class=\"provision\" data-number=\"23°\">\n                    <span class=\"provision-text\">de l'arrêté royal pris en exécution de l'article VII.63/1 et de l'article VII.63/2 de ce Code.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.244Z",
+  "tokenUsage": {
+    "prompt": 1704,
+    "completion": 289,
+    "total": 1993
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011029084",
+  "articleNumber": "39",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-39\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 39</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 57, paragraphe 2, alinéa 2, du décret du 31 janvier 2002 fixant le statut des membres du personnel technique subsidié des centres psycho-médico-sociaux libres subventionnés, tel que modifié par le décret du 2 février 2007 et par le décret du 8 juillet 2010, les termes \" la condition exigée à l'article 54, 1° \" sont remplacés par les termes \" les conditions exigées à l'article 54, 1 ° et 2° \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.205Z",
+  "tokenUsage": {
+    "prompt": 1673,
+    "completion": 205,
+    "total": 1878
+  }
+}

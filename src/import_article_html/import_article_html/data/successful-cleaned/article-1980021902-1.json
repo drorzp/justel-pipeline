@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1980021902",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'année 1979, le Fonds spécial de l'aide sociale est réparti entre les centres publics d'aide sociale de la Région bruxelloise au prorata des quotes-parts que les communes concernées ont obtenues, pour l'année 1978, dans les répartitions visées aux articles 2, alinéa 1er, 1° et 3°, 3, 4, 5, 6 et 7 de l'arrêté royal du 15 décembre 1978 fixant les règles de répartition de la part du Fonds des communes revenant aux communes de la Région bruxelloise.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.694Z",
+  "tokenUsage": {
+    "prompt": 1669,
+    "completion": 215,
+    "total": 1884
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014022247",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 59</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 12 de la loi du 9 juillet 1969 précitée, remplacé par la loi du 25 avril 2007, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le § 3 est complété par le 16°, rédigé comme suit : \"16° : les zones de secours visées à l'article 14 de la loi du 15 mai 2007 relative à la sécurité civile\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au § 4, alinéa premier, la deuxième phrase est remplacée comme suit : \"Il est uniquement tenu compte des pensions de retraite visées à l'article 1er qui sont gérées par le SdPSP ou qui sont à charge du Fonds de pensions solidarisé de l'ONSSAPL.\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au § 5, alinéa premier, le 3° est remplacé par ce qui suit : \"3° : deux pensions pour les secteurs visés au § 3, 2°, 5°, 6°, 9°, 10°, 11° et 16° ;\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.187Z",
+  "tokenUsage": {
+    "prompt": 1904,
+    "completion": 403,
+    "total": 2307
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1957073001",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 68</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'épouse divorcée qui n'était pas dans l'un des cas prévus a l'article 65,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, au jour du mariage, mais qui s'y trouvait au jour du divorce est censée avoir bénéficié des dispositions du présent chapitre pour toutes les années de vie commune comprises entre le mariage et le premier assujettissement postérieur à celui-ci, à la condition de demeurer assujettie à l'un ou l'autre des régimes de pension visés à l'article 65 pendant les dix années suivant le divorce ou jusqu'au jour de son soixantième anniversaire ou celui auquel elle obtient le paiement anticipé de la pension, s'il est antérieur à l'expiration de cette période de dix années.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.464Z",
+  "tokenUsage": {
+    "prompt": 1721,
+    "completion": 291,
+    "total": 2012
+  }
+}

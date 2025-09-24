@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016009064",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 347bis, § 4, 1°, du même Code, inséré par la loi du 2 juillet 1975 et remplacé par la loi du 28 novembre 2000, dans les articles 417ter, alinéa 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2° et 417quater, alinéa 2,</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, du même Code, insérés par la loi du 14 juin 2002, dans l'article 428, § 4, du même Code, remplacé par la loi du 28 novembre 2000 et modifié par la loi du 26 novembre 2011, dans l'article 433septies, alinéa 1er, 5°, du même Code, inséré par la loi du 10 août 2005, dans l'article 473, alinéa 1er, du même Code, remplacé par la loi du 2 juillet 1975 et modifié par la loi du 14 juin 2002 et dans l'article 477sexies, § 2, 1°, du même Code, inséré par la loi du 17 avril 1986, les mots \"incapacité permanente physique ou psychique\" sont chaque fois remplacés par les mots \"incapacité de travail personnel de plus de quatre mois\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.319Z",
+  "tokenUsage": {
+    "prompt": 1962,
+    "completion": 413,
+    "total": 2375
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036315",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La liste des affections et antécédents de personnes avec une indication de handicap à l'emploi et de l'information multidisciplinaire, visée à l'article 4, alinéa 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"closing-text\">2°, de l'arrêté du Gouvernement flamand du 18 juillet 2008 relatif à l'intégration professionnelle des personnes atteintes d'un handicap à l'emploi, est fixée dans l'annexe jointe au présent arrêté.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.649Z",
+  "tokenUsage": {
+    "prompt": 1596,
+    "completion": 228,
+    "total": 1824
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013003202",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 307bis du même Code, inséré par l'arrêté royal du 27 mars 2003, est complété par un § 3 rédigé comme suit :</p>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les contribuables soumis à l'impôt des sociétés ou à l'impôt des personnes morales, et les contribuables soumis à l'impôt des non-résidents conformément à l'article 227,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">doivent introduire leur déclaration par voie électronique.</span>\n          </li>\n        </ol>\n        <p>Les contribuables mentionnés à l'alinéa premier sont dispensés de l'obligation d'introduction par voie électronique aussi longtemps qu'eux-mêmes ou, le cas échéant, la personne qu'ils ont mandatée pour l'introduction d'une telle déclaration, ne disposent pas des moyens informatiques nécessaires pour remplir cette obligation. Dans ce cas, l'introduction de la déclaration s'effectue sur support papier.</p>\n        <p>Le Roi détermine les modalités relatives à son introduction.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.086Z",
+  "tokenUsage": {
+    "prompt": 1844,
+    "completion": 384,
+    "total": 2228
+  }
+}

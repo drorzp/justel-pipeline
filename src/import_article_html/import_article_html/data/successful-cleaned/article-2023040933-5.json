@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023040933",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 25 du même arrêté, remplacé par l'arrêté du Gouvernement flamand du 30 avril 2009 et modifié en dernier lieu par l'arrêté du Gouvernement flamand du 2 juillet 2021, est complété par un point 19° et un point 20°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"19°\">\n                    <span class=\"provision-text\">le décret du 28 mars 2014 relatif à la prévention, la surveillance et la lutte contre les maladies chez les animaux vivant à l'état sauvage ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"20°\">\n                    <span class=\"provision-text\">les limitations ou interdictions imposées par le gouverneur en vertu de l'article 29, § 1er, et de l'article 31, § 3, de l'arrêté du Gouvernement flamand du 7 mai 2021 portant exécution de diverses dispositions de la loi du 28 décembre 1967 relative aux cours d'eau non navigables et modifiant l'arrêté du Gouvernement flamand du 12 décembre 2008 portant exécution du titre XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, en ce qui concerne le contrôle du respect de la loi du 28 décembre 1967 relative aux cours d'eau non navigables, en ce qui concerne les cours d'eau non-navigables ou les fossés publics situés au sein d'un terrain pour lequel un plan de gestion de la nature a été établi, tel que visé à l'article 16bis du Décret sur la nature, au sein des zones vulnérables d'un point de vue spatial, visées à l'article 1.1.2, 10°, du Code flamand de l'Aménagement du Territoire du 15 mai 2009, ou au sein des zones de protection spéciale délimitées sur la base de l'article 36bis du Décret sur la nature.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.733Z",
+  "tokenUsage": {
+    "prompt": 2187,
+    "completion": 531,
+    "total": 2718
+  }
+}

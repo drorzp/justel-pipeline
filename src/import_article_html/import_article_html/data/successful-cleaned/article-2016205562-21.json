@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016205562",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans les limites budgétaires fixées annuellement, le Gouvernement peut octroyer à l'entreprise d'insertion mandatée de la gestion d'un S.I.E.G. une subvention destinée à une mission d'accompagnement social des travailleurs défavorisés ou gravement défavorisés dans l'entreprise. L'entreprise d'insertion doit apporter la preuve que la subvention respecte les dispositions du Règlement de minimis pour les S.I.E.G.</p>\n          <p>Cette subvention, d'un montant de 100.000 euros maximum, est notamment proportionnelle au nombre de travailleurs défavorisés ou gravement défavorisés.</p>\n          <p>Par dérogation à l'article 1er, 4° et 5°, pour le calcul de cette subvention, sont assimilés à des travailleurs défavorisés ou gravement défavorisés, les travailleurs occupés depuis douze mois maximum sous contrat de travail au sein de l'entreprise d'insertion, à la date d'introduction de la première demande d'agrément en tant qu'entreprise d'insertion, et qui, au moment de leur premier engagement au sein de l'entreprise d'insertion, répondaient à la définition de travailleurs défavorisés ou gravement défavorisés.</p>\n          <p>La subvention est octroyée conformément au Règlement de minimis applicable aux S.I.E.G.</p>\n          <p>Le Gouvernement est habilité à déterminer et préciser les modalités d'application liées aux alinéas 1er, 2, 3 et 4.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.775Z",
+  "tokenUsage": {
+    "prompt": 2011,
+    "completion": 443,
+    "total": 2454
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009014197",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 80, § 1er sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Dans la disposition du 2° les mots \" et multimoteur \" sont supprimés et les mots \" 500 heures \" sont remplacés par les mots \" 250 heures \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Entre la disposition du 2° et les dispositions du 3°, 4° et 5°, qui deviennent respectivement 4°, 5° et 6°, un nouveau 3° est inséré, rédigé comme suit :</span>\n          <blockquote>\n            <span class=\"provision-text\">\" 3° pour une qualification TRI(H) pour hélicoptères monopilotes multimoteurs avoir effectué au moins 500 heures comme pilote d'hélicoptère, comprenant au moins 100 heures comme commandant de bord sur des hélicoptères monopilotes multimoteurs. \"</span>\n          </blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.038Z",
+  "tokenUsage": {
+    "prompt": 1770,
+    "completion": 342,
+    "total": 2112
+  }
+}

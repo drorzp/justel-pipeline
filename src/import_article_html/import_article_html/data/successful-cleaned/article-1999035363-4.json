@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035363",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 3 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 24 janvier 1996, est remplacé par ce qui suit :</p>\n            <blockquote class=\"quoted-text\">\n                <p class=\"quoted-paragraph\">\" Art. 3. L'accès aux sentiers forestiers est indiqué à l'aide des panneaux G.01 à G.04 compris et V.01 à V.05 compris figurés dans l'annexe. Dans les communes visées aux articles 7 et 8,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">3°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"4°\">\n                        <span class=\"provision-text\">4°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"6°\">\n                        <span class=\"provision-text\">6°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"8°\">\n                        <span class=\"provision-text\">8°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"10°\">\n                        <span class=\"provision-text\">10°</span>\n                    </li>\n                </ol>\n                <p class=\"quoted-paragraph\">des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, les panneaux G.01bis à G.04bis compris et V.01bis à V.05bis compris figurés dans l'annexe, sont utilisés au lieu des panneaux G.01 à G.04 et V.01 à V.05.</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.187Z",
+  "tokenUsage": {
+    "prompt": 1770,
+    "completion": 456,
+    "total": 2226
+  }
+}

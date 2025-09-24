@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015087",
+  "articleNumber": "64",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-64\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 64</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le preneur peut mettre fin au bail dans les cas suivants :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">avant l'entrée en vigueur du bail ;</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">à la fin de ses études, moyennant présentation d'une pièce justificative de l'établissement d'enseignement ;</span></li>\n                    <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">en cas de décès d'un des parents ou d'une autre personne qui pourvoit à son entretien, moyennant présentation d'une pièce justificative.</span></li>\n                </ol>\n                <p>Dans le cas visé à l'alinéa 1er, 1°, une indemnité de congé de deux mois de loyer est due si le bail est résilié moins de trois mois avant l'entrée en vigueur du bail.</p>\n                <p>Dans les cas, visés à l'alinéa 1er, 2° et 3°, le délai de préavis est de deux mois. Le délai de préavis prend cours au premier jour du mois suivant le mois pendant lequel le congé est donné.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le bail est résilié de plein droit suite au décès du preneur, au premier jour du mois qui suit le décès.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.710Z",
+  "tokenUsage": {
+    "prompt": 1988,
+    "completion": 478,
+    "total": 2466
+  }
+}

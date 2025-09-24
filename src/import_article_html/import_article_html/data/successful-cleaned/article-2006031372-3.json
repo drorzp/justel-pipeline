@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006031372",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 65 de la même loi, modifié par la loi du 27 janvier 1999, est complété comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">ceux qui ont été condamnés pour des infractions visées par la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie ou sur la base de la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national-socialiste allemand pendant la seconde guerre mondiale;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">ceux qui sans préjudice de l'application des dispositions prévues aux 1° et 2°, sont ou ont été administrateurs d'une association condamnée, même avec sursis, pour l'une des infractions prévues par la loi du 30 juillet 1981 ou la loi du 23 mars 1995.</span>\n        </li>\n      </ol>\n      <p>L'inéligibilité visée aux 4° et 5° de l'alinéa 2 vaut pour les six ans qui suivent la condamnation encourue.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.681Z",
+  "tokenUsage": {
+    "prompt": 1892,
+    "completion": 386,
+    "total": 2278
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007029148",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 8 du même arrêté est remplacé par la disposition suivante :</p>\n            <blockquote class=\"quoted-text\">\n                <p>Concernant l'augmentation de capacité résultant de la mise en oeuvre des missions visées à l'article 2, 2e alinéa,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">et 4e alinéa, les dispositions de l'article 25, § 2 et § 3, de l'arrêté du 15 mars 1999 relatif aux conditions générales d'agrément et d'octroi des subventions pour les services visés à l'article 43 du décret du 4 mars 1991 relatif à l'aide à la jeunesse ne produisent leurs effets qu'après une période de deux ans pour les services agréés à la date du présent arrêté.</span>\n                    </li>\n                </ol>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.962Z",
+  "tokenUsage": {
+    "prompt": 1708,
+    "completion": 293,
+    "total": 2001
+  }
+}

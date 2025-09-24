@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1986015047",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le bénéficiaire auquel l'Office de sécurité sociale d'outre-mer liquide des prestations périodiques, peut, à sa demande recevoir des prestations sur un compte personnel ouvert auprès d'un des organismes financiers visés à l'alinéa 3, à la condition que celui-ci ait conclu avec l'Office précité une convention dont le modèle a été approuvé par le Secrétaire d'Etat aux Pensions. Cette convention déterminera notamment les responsabilités respectives de l'Office et de l'organisme financier pour assurer la régularité du virement des prestations et de leur inscription au crédit du compte du bénéficiaire. Elle déterminera également les garanties que l'organisme financier doit donner à l'Office concernant le remboursement des sommes virées indûment. Par organismes financiers, il y a lieu d'entendre :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les banques établies en Belgique;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les organismes et les entreprises visés respectivement à l'article 1er, alinéa 2, 1° et 3°, de l'arrêté royal n° 185 du 9 juillet 1935 sur le contrôle des banques et le régime des émissions de titres et valeurs;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-12-13/07\" data-law-type=\"L\" data-article-number=\"4\">bpost</span>. \n            <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1991-03-21/30\" data-law-type=\"L\" data-article-number=\"130\">&lt;L 1991-03-21/30, art. 130, 002;**En vigueur :**01-10-1992&gt;</span>\n          </span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.516Z",
+  "tokenUsage": {
+    "prompt": 2170,
+    "completion": 549,
+    "total": 2719
+  }
+}

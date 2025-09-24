@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1964060102",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Il est institué auprès du bureau régional d'Anvers de l'Office national de l'emploi:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">une commission consultative régionale spécialisée pour les dockers du port d'Anvers; dans cette commission, le nombre de membres prévu à l'article 22, § 1er, alinéa 1er, 2° et 3°, de l'arrêté royal du 20 décembre 1968 relatif à l'emploi et au chômage est porté à sept;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">une commission consultative régionale spécialisée pour réparateurs de navires;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">une commission consultative régionale spécialisée pour employés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">une commission consultative régionale spécialisée pour l'industrie hôtelière.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.525Z",
+  "tokenUsage": {
+    "prompt": 1766,
+    "completion": 350,
+    "total": 2116
+  }
+}

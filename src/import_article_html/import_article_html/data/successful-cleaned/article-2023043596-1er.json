@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023043596",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'intitulé et à l'article 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de l'arrêté du Collège réuni du 4 juin 2009 fixant les procédures de programmation et d'agrément des établissements d'accueil ou d'hébergement pour personnes âgées relevant de la Commission communautaire commune, les mots \"d'accueil ou d'hébergement pour personnes âgées relevant de la Commission communautaire commune\" sont remplacés par les mots \"pour aînés\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.850Z",
+  "tokenUsage": {
+    "prompt": 1609,
+    "completion": 253,
+    "total": 1862
+  }
+}

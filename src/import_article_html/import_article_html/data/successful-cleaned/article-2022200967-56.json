@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022200967",
+  "articleNumber": "56",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-56\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 56</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application de l'article 24, § 1er, du décret, pour toute éventuelle violation des règles antidopage, à l'exception de celles visées à l'article 8, 1° et 2°, du décret, la saisine de l'association faitière est effectuée par la transmission du dossier administratif, visé à l'article 54.</p>\n      <p class=\"intro-text\">Le dossier administratif visé à l'alinéa 1er se compose des éléments suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">une lettre de saisine reprenant les différents éléments, visés à l'article 36, alinéa 1er, 19°, b) à g), également notifiés au sportif ou à l'autre personne à l'encontre desquels une violation des règles antidopage est alléguée;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">si une enquête est ouverte, le dossier et les conclusions de l'enquête, dans le respect de l'article 36, alinéa 1er, 22°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">une copie de toute éventuelle pièce complémentaire notifiée au sportif ou à l'autre personne à l'encontre desquels une violation des règles antidopage est alléguée.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">La transmission visée à l'alinéa 1er intervient le plus rapidement possible et, en tout cas, le même jour où l'ONAD-CG effectue la notification au sportif ou à l'autre personne à l'encontre desquels une violation des règles antidopage est alléguée, conformément à l'article 20 du décret.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.825Z",
+  "tokenUsage": {
+    "prompt": 2105,
+    "completion": 512,
+    "total": 2617
+  }
+}

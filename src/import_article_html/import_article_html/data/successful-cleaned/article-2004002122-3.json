@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004002122",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Sont considérés comme consommateurs à faibles revenus au sens du présent arrêté, les personnes qui au moment de l'introduction de la demande relèvent d'une des deux catégories suivantes :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">les personnes qui bénéficient d'une intervention majorée de l'assurance visée à l'article 37, § § 1er et 19, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">les personnes qui ne relèvent pas de la catégorie visée au 1° et dont le montant annuel des revenus bruts de leur ménage ne dépasse pas 11.763,02 EUR, majoré de 2.177,65 EUR par personne à charge.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le calcul des revenus bruts visés au § 1, 2,° prend en compte le patrimoine immobilier du consommateur et de son ménage. Si le consommateur ou une personne de son ménage a la pleine propriété ou l'usufruit d'un bien immobilier ou plusieurs bien immobiliers, il est tenu compte du revenu cadastral global multiplié par 3, à l'exception des biens immeubles qui servent de logement individuel ou familial. Ce montant est additionné au montant des revenus bruts visé au § 1er, 2°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.654Z",
+  "tokenUsage": {
+    "prompt": 2056,
+    "completion": 503,
+    "total": 2559
+  }
+}

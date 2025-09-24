@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022344",
+  "articleNumber": "245octies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-245octies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 245octies</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"1997-11-24/43\" data-article-number=\"3\" data-law-type=\"AR\" data-effective-date=\"01-01-1997\">\n          &lt;Inséré par AR 1997-11-24/43, art. 3; En vigueur : 01-01-1997&gt;\n        </span>\n        Lorsqu'une décision de nature administrative constitue un refus des prestations, s'écarte de ce qui avait été demandé par le titulaire ou comporte une diminution des indemnités qui n'était pas d'application antérieurement, elle mentionne, outre les indications visées à l'article 14, 5° et 6°, de la loi précitée du 11 avril 1995, la faculté pour le titulaire de demander à sa mutualité une révision ou régularisation dans le délai de deux ans, conformément à l'article 174 de la loi coordonnée, ainsi que la faculté d'intenter un recours devant la juridiction compétente dans le même délai en cas de désaccord avec sa mutualité.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.910Z",
+  "tokenUsage": {
+    "prompt": 1828,
+    "completion": 336,
+    "total": 2164
+  }
+}

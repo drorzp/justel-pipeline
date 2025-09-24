@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013204992",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté produit ses effets le 1er janvier 2013, sauf les articles 5, 1°, 6, 1° et 7 qui produisent leurs effets le 1er janvier 2012 et l'article 8 qui produit ses effets le 1er avril 2012.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.169Z",
+  "tokenUsage": {
+    "prompt": 1486,
+    "completion": 148,
+    "total": 1634
+  }
+}

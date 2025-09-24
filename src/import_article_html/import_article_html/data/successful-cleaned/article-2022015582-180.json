@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022015582",
+  "articleNumber": "180",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-180\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 180</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les dispositions de l'article 210 de la loi du 25 avril 2014 sont applicables par analogie en ce qui concerne les compagnies holding d'investissement et les compagnies financière mixte visées à l'article 162, § 1er,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et incluses dans le contrôle sur base consolidée ou le contrôle du respect du test de capitalisation du groupe exercé par la Banque.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.691Z",
+  "tokenUsage": {
+    "prompt": 1609,
+    "completion": 245,
+    "total": 1854
+  }
+}

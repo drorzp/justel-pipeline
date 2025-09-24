@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045561",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Approuve l'utilisation des moyens du Fonds notarial pour la poursuite de l'élaboration par la Chambre nationale des notaires de ses missions d'autorité de contrôle visées à l'article 85, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">et 86, § 1er de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces en vue de l'application optimale et du contrôle des obligations du notaire en tant qu'entité assujettie à la loi susmentionnée.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.394Z",
+  "tokenUsage": {
+    "prompt": 1646,
+    "completion": 250,
+    "total": 1896
+  }
+}

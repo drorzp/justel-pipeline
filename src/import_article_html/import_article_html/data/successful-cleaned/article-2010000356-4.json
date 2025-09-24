@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010000356",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le programme du module I est composé de 3 parties :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">18 heures de théorie;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">18 heures d'exercices pratiques en piscine;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">24 heures d'exercices pratiques en eau extérieure, comprenant au minimum 8 plongées.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">La partie théorique comprend au moins les matières visées à l'article 25, § 2, alinéa 3, de l'arrêté royal du 23 décembre 2003 relatif à la protection des travailleurs contre les risques liés aux travaux en milieu hyperbare. Le candidat ne peut participer à la partie visée à l'alinéa 1er, 3°, qu'à condition qu'il ait réussi les parties visées à l'alinéa 1er,1° et 2°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.284Z",
+  "tokenUsage": {
+    "prompt": 1789,
+    "completion": 348,
+    "total": 2137
+  }
+}

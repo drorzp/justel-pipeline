@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011206209",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 4.8.16, § 1er, du Code flamand de l'Aménagement du Territoire sont apportées les modifications suivantes :</p>\n      <p>les points 5° et 6° sont remplacés par les dispositions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">le fonctionnaire dirigeant du département ou, en son absence, son mandataire, pour les autorisations délivrées selon la procédure régulière, sauf dans les cas visés à l'article 4.7.19, § 1er, alinéa trois;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">le fonctionnaire dirigeant ou, en son absence, son mandataire, du département ou de l'agence dont relève l'instance consultative, désignée en vertu de l'article 4.7.16, § 1er, alinéa premier, respectivement l'article 4.7.26, § 4, 2°, à condition que l'instance ait émis son avis en temps voulu ou que son avis n'ait, à tort, pas été sollicité.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.196Z",
+  "tokenUsage": {
+    "prompt": 1858,
+    "completion": 366,
+    "total": 2224
+  }
+}

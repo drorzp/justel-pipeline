@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009012278",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 20 du même arrêté, modifié par l'arrêté royal du 14 février 2006 est complété par les 7° et 8° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">pour les interruptions de travail visées à l'article 16, 20°, par l'employeur (pour les périodes d'adaptation temporaire de la durée du travail de crise prévues à l'article 353bis /3 de la loi-programme du 24 décembre 2002);</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">pour les interruptions de travail visées à l'article 16, 21°, par l'Office national de l'emploi (pour les périodes de réduction des prestations de travail d'un 1/5e ou d'un 1/2 visées à l'article 15 de la loi du 19 juin 2009 portant des dispositions diverses en matière d'emploi de crise).</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.032Z",
+  "tokenUsage": {
+    "prompt": 1787,
+    "completion": 328,
+    "total": 2115
+  }
+}

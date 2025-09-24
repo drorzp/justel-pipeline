@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011A35474",
+  "articleNumber": "357/44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-357/44\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 357/44</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-06-10/05\" data-law-type=\"DCFL\" data-article-number=\"13\">\n                    Pour les subdivisions structurelles de démarrage telles que visées à l'article 357/43, alinéa premier, 1° et 2°, la programmation d'une subdivision structurelle de démarrage découle de l'approbation de programmation d'une subdivision structurelle duale telle que visée à l'article 357/8. Les dispositions de l'article 176/1 s'appliquent également aux programmations visées au présent article.\n                </span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.350Z",
+  "tokenUsage": {
+    "prompt": 1669,
+    "completion": 230,
+    "total": 1899
+  }
+}

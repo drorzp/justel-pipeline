@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036948",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par application de l'article 99quinquies, § 2, du décret du 14 juillet 1998 contenant diverses mesures relatives à l'enseignement secondaire et modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental, un établissement d'enseignement secondaire ordinaire à temps plein n'appartenant pas à un centre d'enseignement a, chaque année, droit à une enveloppe de points destinée à la différenciation des tâches et des fonctions, qui se compose comme suit :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">la somme du nombre d'élèves réguliers au 1er février de l'année scolaire précédente, multipliée par 0,02316074;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">la somme du nombre de périodes-professeur de l'année scolaire concernée, multipliée par 0,01970700.</span>\n                    </li>\n                </ol>\n                <p>La somme des résultats des points 1° et 2° constitue le nombre de points que l'établissement n'appartenant pas à un centre d'enseignement reçoit pour l'année scolaire en question.</p>\n                <p>Si cette somme s'élève à moins de 3 points, l'établissement reçoit néanmoins 3 points.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.975Z",
+  "tokenUsage": {
+    "prompt": 1932,
+    "completion": 422,
+    "total": 2354
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035931",
+  "articleNumber": "IX.28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-IX-28\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article IX.28</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 22 du décret du 30 avril 2009 relatif à l'enseignement secondaire après secondaire et l'enseignement supérieur professionnel HBO 5, tel que modifié par le décret du 12 juillet 2013, les modifications suivantes sont apportées :</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">dans le paragraphe 1er, le syntagme \" , 1° et 2° \" est abrogé ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">le paragraphe 2 est remplacé par ce qui suit :\n                    <section class=\"paragraph\">\n                        <h3 class=\"paragraph-marker\">§ 2.</h3>\n                        <div class=\"paragraph-content\">\n                            <p>L'organisation d'accréditation fixe un cadre d'évaluation pour \" l'évaluation nouvelle formation HBO 5 \". Avant son application, ce cadre d'évaluation doit être approuvé par le Gouvernement flamand.</p>\n                        </div>\n                    </section>\n                </span>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.342Z",
+  "tokenUsage": {
+    "prompt": 1756,
+    "completion": 329,
+    "total": 2085
+  }
+}

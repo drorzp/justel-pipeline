@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002164",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 6 du même arrêté est complété par un alinéa rédigé comme suit : &quot; Pour l'application de l'alinéa 1er, 2°, a), les surfaces désignées comme &quot; zones sous statut de protection &quot; (UG temp 1) ou &quot; zones à gestion publique &quot; (UG temp 2) en vertu de l'article 2,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"14°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"15°\">\n                    <span class=\"provision-text\">respectivement de l'arrêté du Gouvernement wallon du 19 mai 2011 sont admissibles si elles sont situées hors forêt.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.437Z",
+  "tokenUsage": {
+    "prompt": 1667,
+    "completion": 277,
+    "total": 1944
+  }
+}

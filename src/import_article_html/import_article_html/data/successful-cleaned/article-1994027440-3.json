@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994027440",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 194,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">du Code est complété, après les mots \" à l'article 192 \" par les mots suivants : \" 1° à 5° et 7° \".</span>\n        </li>\n      </ol>\n      <p>Au même article du Code, il est ajouté un 8° rédigé comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">Les travaux de transformation intérieurs et les travaux d'aménagement de locaux en ce compris les équipements correspondants tels qu'installations sanitaires, d'électricité, de chauffage ou de ventilation, pourvu qu'ils ne portent pas atteinte aux structures portantes du bâtiment et qu'ils n'impliquent aucune modification ni de la destination de celui-ci, ni du volume construit, ni de l'aspect architectural.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.943Z",
+  "tokenUsage": {
+    "prompt": 1741,
+    "completion": 317,
+    "total": 2058
+  }
+}

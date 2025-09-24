@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011632",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'octroi de l'allocation de mobilité a pour conséquence la disparition totale pour le travailleur de l'avantage de la voiture de société restituée, et de tous les autres avantages y afférents. L'avantage de la voiture de société et tous les autres avantages y afférents cessent pour le travailleur à partir du premier jour du mois au cours duquel l'allocation de mobilité est octroyée.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Lorsque le travailleur dispose de plusieurs voitures de société auprès du même employeur, il suffit de restituer une seule voiture de société contre une allocation de mobilité. La restitution d'autres voitures de société ne peut donner droit à aucune allocation de mobilité supplémentaire.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour l'application du paragraphe 2, il faut que le travailleur dispose de toutes ses voitures de société durant les périodes minimales prévues à l'article 5, § 2, alinéa 1er, 1° et 2°. Si une seule des voitures de société ne satisfait pas aux périodes minimales requises, le travailleur doit restituer toutes ses voitures contre une allocation de mobilité.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.684Z",
+  "tokenUsage": {
+    "prompt": 1950,
+    "completion": 438,
+    "total": 2388
+  }
+}

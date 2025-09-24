@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019031167",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 199 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">Le 9° est remplacé comme suit : \" 9° décès d'un parent du quatrième degré, soit du fonctionnaire, soit du conjoint ou de la personne avec laquelle il vit en couple, n'habitant pas sous le même toit que le fonctionnaire : 1 demi jour ouvrable; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">Un 10° est ajouté, rédigé comme suit : \" 10° naissance d'un petit-enfant, soit du fonctionnaire, soit du conjoint ou de la personne avec laquelle il vit en couple : 1 jour ouvrable. \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">L'alinéa 3 est remplacé comme suit : \" Les congés prévus aux 7°, 8°, 9° et 10° peuvent être fractionnés en demi-jours.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.437Z",
+  "tokenUsage": {
+    "prompt": 1815,
+    "completion": 358,
+    "total": 2173
+  }
+}

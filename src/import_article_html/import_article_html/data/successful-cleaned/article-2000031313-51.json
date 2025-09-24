@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000031313",
+  "articleNumber": "51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-51\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 51</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La maison qui, en raison de la spécificité de son projet éducatif, et de son projet collectif, considère qu'il n'est pas nécessaire de disposer du personnel visé à l'article 39 du présent arrêté, peut introduire, une demande de dérogation auprès du Ministre compétent et sur base d'un dossier complet, afin d'affecter une partie de la subvention allouée à la rémunération du personnel au fonctionnement de la maison. La maison bénéficiant de cette mesure ne peut solliciter les subsides visés à l'article 46, 2° et 3°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.248Z",
+  "tokenUsage": {
+    "prompt": 1664,
+    "completion": 208,
+    "total": 1872
+  }
+}

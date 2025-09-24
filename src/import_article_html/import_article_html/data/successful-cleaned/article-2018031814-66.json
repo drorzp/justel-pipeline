@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018031814",
+  "articleNumber": "66",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-66\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 66</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 18bis, § 1er, de la même ordonnance, il est ajouté quatre nouveaux points 5°, 6°, 7° et 8°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">l'élaboration et la bonne exécution d'un plan d'adaptation du réseau en vue de la conversion du réseau de gaz ; cette mission comprend notamment les procédures et le planning de conversion ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">dans le cadre de la conversion visée au 5°, le financement des contrôles de compatibilité et, le cas échéant, des adaptations à réaliser indispensablement sur les appareils des utilisateurs de réseau se trouvant dans une situation précaire ou fragilisée telle que définie par le Gouvernement ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">la prise en charge de la différence entre le tarif social appliqué en vertu du chapitre Vbis à un client protégé au niveau régional et le tarif social appliqué en vertu de la législation fédérale, lorsque le premier est supérieur au second et que le client ne bénéficie pas de ce dernier ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">l'adoption et la mise en oeuvre des mesures techniques nécessaires pour que l'approvisionnement en gaz d'un point de recharge puisse faire l'objet d'un contrat distinct du contrat de fourniture de gaz relatif à l'habitation ou aux locaux où ce point de recharge est situé.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.370Z",
+  "tokenUsage": {
+    "prompt": 2016,
+    "completion": 472,
+    "total": 2488
+  }
+}

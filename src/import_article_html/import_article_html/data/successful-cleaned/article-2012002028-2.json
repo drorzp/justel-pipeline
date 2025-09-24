@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012002028",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 77, alinéa 1er, de la loi du 20 juillet 1991 portant des dispositions sociales et diverses est complété par un 3° rédigé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">aux membres du personnel visés au</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\"></span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">et au qui, par ou en vertu d'un décret, sont transférés d'une école supérieure à une université avec maintien de leur statut juridique, en ce compris toutes les modifications futures et pour autant qu'ils ne soient pas repris en application du statut juridique de l'université.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.350Z",
+  "tokenUsage": {
+    "prompt": 1694,
+    "completion": 300,
+    "total": 1994
+  }
+}

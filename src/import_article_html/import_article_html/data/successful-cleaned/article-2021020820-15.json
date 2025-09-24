@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021020820",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le bénéficiaire introduit la demande d'aide auprès de BEE sur un formulaire que BEE rend disponible sur son site internet aux entreprises qui répondent aux conditions visées aux articles 3, 1° et 2°, 9, 1°, 11 et 13, 1°, du présent arrêté et qui ne se trouve pas dans l'une des situations visées à l'article 41, alinéa 1er, 3°, de l'ordonnance du 3 mai 2018 relative aux aides pour le développement économique des entreprises. Le formulaire indique les pièces justificatives que le bénéficiaire joint à sa demande.</p>\n        <p>Le bénéficiaire ne peut introduire qu'une seule demande d'aide. Le bénéficiaire ne peut pas combiner les différentes primes visées aux chapitres 3, 4 et 5. Dans sa demande d'aide, le bénéficiaire choisit irrévocablement celle des trois primes qu'il demande.</p>\n        <p>BEE réceptionne la demande d'aide au plus tard le 19 mai 2021.</p>\n        <p>Le bénéficiaire déclare dans sa demande les autres aides relevant du règlement de minimis ou d'autres règlements de minimis que l'entreprise a reçues au cours des deux exercices fiscaux précédents et de l'exercice fiscal en cours.</p>\n        <p>BEE peut solliciter par courriel tout document ou information qu'il juge nécessaire pour l'instruction de la demande. Le bénéficiaire fournit les documents et informations complémentaires dans les vingt jours. A défaut de réponse dans ce délai, l'aide est refusée.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.253Z",
+  "tokenUsage": {
+    "prompt": 2039,
+    "completion": 443,
+    "total": 2482
+  }
+}

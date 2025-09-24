@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999031277",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>La SDRB peut être autorisée par le Gouvernement à poursuivre, en vue de la réalisation de ses missions, l'expropriation de biens immobiliers pour cause d'utilité publique, même par le biais du procédé de l'expropriation par zones.</p>\n                <p>L'utilité publique de l'expropriation ne peut être invoquée que pour les projets vises aux articles 4, 3ème alinéa, 1° et 5, § 1er.</p>\n                <p>La SDRB ne peut recourir à la procédure d'expropriation d'extrême urgence qu'en motivant expressément en quoi la prise de possession immédiate de l'immeuble ou des immeubles est indispensable pour cause d'utilité publique.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour le calcul de la valeur des immeubles expropriés en matière de rénovation urbaine, il n'est pas tenu compte de la plus-value ou de la moins-value qui résulte de la décision du Gouvernement arrêtant le plan pluriannuel d'investissement visé à l'article 20, § 3.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.178Z",
+  "tokenUsage": {
+    "prompt": 1875,
+    "completion": 382,
+    "total": 2257
+  }
+}

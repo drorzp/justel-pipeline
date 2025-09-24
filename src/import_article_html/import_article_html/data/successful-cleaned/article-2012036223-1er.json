@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012036223",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er de l'arrêté du Gouvernement du 9 décembre 2005 relatif à la modulation et aux réseaux de services d'aide à la jeunesse directement accessibles et d'aide à la jeunesse en situation de crise dans le cadre de l'aide intégrale à la jeunesse, les points 20° et 21° sont remplacés par ce qui suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"20°\">\n                    <span class=\"provision-text\">module type : une unité d'aide à la jeunesse délimitée, définie et concordée de manière intersectorielle, s'appliquant à un ou plusieurs secteurs et comprenant 1 fonction au maximum;</span>\n                </li>\n                <li class=\"provision\" data-number=\"21°\">\n                    <span class=\"provision-text\">fonction : un processus fondamental spécifique d'aide à la jeunesse représentant l'activité principale ou l'activité d'aide du module type;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.323Z",
+  "tokenUsage": {
+    "prompt": 1724,
+    "completion": 299,
+    "total": 2023
+  }
+}

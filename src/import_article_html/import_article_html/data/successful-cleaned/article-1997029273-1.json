@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997029273",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement de la Communauté française du 20 novembre 1995 fixant le montant du droit d'inscription de l'enseignement artistique à horaire réduit, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">au 1°, les mots \" 1 500 francs \" sont remplacés par les mots \" 2 000 francs \";</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">au 2°, les mots \" 4 500 francs \" sont remplacés par les mots \" 5 000 francs \";</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le 2° est complété par la phrase suivante : \" Ce montant est réduit à 2 000 francs lorsque l'élève prouve son inscription dans l'enseignement secondaire à horaire réduit ou dans l'enseignement de plein exercice ou dans l'enseignement de promotion sociale. \";</span></li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'article est complété par l'alinéa suivant : \" Les montants fixés aux 1° et 2° sont liés à l'indice des prix à la consommation au 1er mai 1997. Ils sont adaptés annuellement en fonction de l'évolution de l'indice des prix à la consommation, sur base de la formule suivante :</span>\n          <div class=\"formula\">\n            <p class=\"closing-text\">Montant au 01/09/97 x (indice des prix au 1er mai de l'année en cours)</p>\n            <p class=\"closing-text\">indice des prix au 1er mai 1997)</p>\n          </div>\n          <p>Les nouveaux montants ainsi calculés sont arrondis à la dizaine supérieure.</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.979Z",
+  "tokenUsage": {
+    "prompt": 2089,
+    "completion": 528,
+    "total": 2617
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009029278",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 23 du même arrêté, modifié par les arrêtés royaux des 14 septembre 1971 et 21 avril 1987 et par l'arrêté du Gouvernement du 11 avril 1995, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le 2° est abrogé;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le 3° ancien devient le 2°;</span></li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le 4° ancien devient le 3° nouveau rédigé comme suit : \" 3° contresigne et remet les diplômes de docteur honoris causa. A titre transitoire, contresigne les diplômes académiques, contresigne et remet les diplômes d'agrégé de l'enseignement supérieur, encore soumis à la législation antérieure au décret du 31 mars 2004 définissant l'enseignement supérieur, favorisant son intégration dans l'espace européen de l'enseignement supérieur et refinançant les universités; \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le 5° et le 6° anciens sont abrogés;</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">le 7° et le 8° anciens deviennent, respectivement, le 4° et le 5°;</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">le 9° ancien est abrogé.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.106Z",
+  "tokenUsage": {
+    "prompt": 2020,
+    "completion": 492,
+    "total": 2512
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007035043",
+  "articleNumber": "74",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-74\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 74</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>A titre transitoire, les approbations de demandes de projets délivrées par le \" Vlaams Fonds voor de Sociale Integratie van Personen met un Handicap \" restent en vigueur jusqu'à la date fixée dans lesdits agréments, et au plus tard jusqu'au 31 décembre 2008 inclus.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>A titre transitoire, les modèles fixés par le Vlaams Fonds, visés au § 1er, et les directives visées aux articles 4 § 2, 5, 3°, 5° et 6°, et 6 § 1, troisième alinéa, restent en vigueur jusqu'à leur remplacement par les modèles et directives fixés par le VDAB.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.119Z",
+  "tokenUsage": {
+    "prompt": 1807,
+    "completion": 309,
+    "total": 2116
+  }
+}

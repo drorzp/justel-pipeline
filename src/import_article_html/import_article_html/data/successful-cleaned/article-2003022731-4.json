@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003022731",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 9 du même arrêté sont apportées les modifications suivantes :</p>\n        <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n                <span class=\"provision-text\">le § 3 est remplacé par les dispositions suivantes :</span>\n                <section class=\"paragraph\" id=\"para-3\">\n                    <h3 class=\"paragraph-marker\">§ 3.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>Par dérogation à l'article 5, § 1er, 3°, la publicité par télécopieur, courrier électronique ou par publipostage est autorisée auprès des personnes habilitées à prescrire ou à délivrer des médicaments pour autant que ces personnes en aient fait la demande. Toutefois, les informations contenant des données médicales relatives à des patients, transmises par courrier électronique, ne peuvent en aucun cas être interrompues par une publicité concernant les médicaments.</p>\n                    </div>\n                </section>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n                <span class=\"provision-text\">le § 5 est remplacé par les dispositions suivantes :</span>\n                <section class=\"paragraph\" id=\"para-5\">\n                    <h3 class=\"paragraph-marker\">§ 5.</h3>\n                    <div class=\"paragraph-content\">\n                        <p>L'article 5, § 1er, 8° et 9° ne s'applique pas à la publicité destinée aux personnes habilitées à prescrire ou à délivrer des médicaments, sauf pour les programmes informatiques destinés au traitement des dossiers médicaux de patients.</p>\n                    </div>\n                </section>\n            </li>\n        </ol>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.820Z",
+  "tokenUsage": {
+    "prompt": 2003,
+    "completion": 436,
+    "total": 2439
+  }
+}

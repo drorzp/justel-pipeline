@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998000733",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le Roi détermine, par arrêtés délibérés en Conseil des Ministres, la date de l'entrée en vigueur des dispositions de la présente loi.<br>\n        (NOTE : Entrée en vigueur des articles 2, 1°, 3, 4, 6, 7, 18, 19 fixée le 01-03-1999 par AR 1991-01-26/30, art. 1)<br>\n        (NOTE : Entrée en vigueur des articles 8, 4°, 12, 17, 20 fixée le 01-03-1999 par AR 1999-02-01/30, art. 1)<br>\n        (NOTE : Entrée en vigueur en ce qui concerne la police aéronautique, des articles 1, 2, 3°, 5, 2°, 8, 3°, 9, 11, 16 fixée le 01-03-1999 par AR 1999-01-26/31, art. 1)<br>\n        (NOTE : Entrée en vigueur en ce qui concerne la police maritime, des articles 2, 2° et 3°, 5, 2°, 8, 1°, 2° et 5°, 9, 10, 13, 14, 15 fixée le 01-04-1999 par AR 1999-01-29/35, art. 1)<br>\n        (NOTE : Entrée en vigueur en ce qui concerne la police des chemins de fer, des articles 2, 2°, 5, 1° et 9 fixée le 01-06-1999 par AR 1999-02-01/30, art. 1)<br>\n        (NOTE : Entrée en vigueur de l'article 2, 2° en ce qui concerne la police aéronautique fixée au 01-03-1999 par AR 2002-08-02/46, art. 1)<br>\n        Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.<br>\n        Donné à Bruxelles, le 17 novembre 1998.<br>\n        ALBERT<br>\n        Par le Roi :<br>\n        Le Ministre de l'Intérieur,<br>\n        L. VAN DEN BOSSCHE<br>\n        Le Ministre des Transports,<br>\n        M. DAERDEN<br>\n        Le Ministre de la Fonction publique,<br>\n        A. FLAHAUT<br>\n        Le Ministre de la Justice,<br>\n        T. VAN PARYS<br>\n        Scellé du sceau de l'Etat :<br>\n        Le Ministre de la Justice,<br>\n        T. VAN PARYS</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.077Z",
+  "tokenUsage": {
+    "prompt": 2523,
+    "completion": 687,
+    "total": 3210
+  }
+}

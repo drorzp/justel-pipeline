@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036482",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 59</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-03-23/08\" data-law-type=\"DCFL\" data-article-number=\"11\">\n        <p>Un centre d'éducation de base en cours de création peut être agréé provisoirement lorsqu'il répond aux conditions visées à l'article 56, 1°, 2°, 3°, 4°, 7° et 8° et l'article 58.</p>\n        <p>Une autorité du centre désireuse d'obtenir l'agrément provisoire d'un centre présente à cette fin une demande à l'Agentschap voor Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen (Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes) au plus tard le 1er avril précédant la création. Ce délai vaut comme délai d'échéance.</p>\n        <p>Le Gouvernement flamand prend en conformité avec l'article 35, § 1er, du décret du 8 mai 2009 relatif à la qualité de l'enseignement la décision soit de délivrer un agrément provisoire pour une année scolaire, soit de refuser l'agrément provisoire.</p>\n        <p>L'article 56bis, alinéa 1er, est également d'application à un centre d'éducation de base agréé provisoirement.</p>\n        <p>Le Gouvernement flamand décide conformément à l'article 35, § 2, du décret du 8 mai 2009 relatif à la qualité de l'enseignement d'agréer ou de ne pas agréer le centre, à partir de l'année scolaire suivant l'année scolaire d'agrément provisoire.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.123Z",
+  "tokenUsage": {
+    "prompt": 2174,
+    "completion": 464,
+    "total": 2638
+  }
+}

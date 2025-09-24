@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031105",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les caisses d'allocations familiales transmettent, avant la fin du premier mois de chaque trimestre, aux Membres du Collège réuni compétents pour les prestations familiales l'état relatif à leur activité trimestrielle du trimestre précédant sous la forme d'un rapport trimestriel qui porte sur les opérations comptales et financières, les vérifications internes du droit aux prestations familiales ainsi que les ordres de paiement qu'elles effectuent.\n      </p>\n      <p class=\"closing-text\">\n        Les données visées à l'article 9, § 3, 6° et 7°, sont également communiquées annuellement auxdits Membres du Collège réuni, avant le 1er octobre de chaque année.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.743Z",
+  "tokenUsage": {
+    "prompt": 1661,
+    "completion": 240,
+    "total": 1901
+  }
+}

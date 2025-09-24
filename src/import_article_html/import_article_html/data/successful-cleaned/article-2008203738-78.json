@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008203738",
+  "articleNumber": "78",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-78\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 78</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas de suspension de la subvention ou de l'avance récupérable en vertu de l'article 79, 3° et 4°, ou en cas de retrait de la subvention ou de l'avance récupérable, ne sont prises en considération que les dépenses se rapportant à la période antérieure à la réception par le promoteur de la notification de la suspension ou du retrait non précédé de suspension.</p>\n        <p>En cas de renonciation à la subvention ou à l'avance récupérable de la part du promoteur, ne sont prises en considération que les dépenses se rapportant à la période antérieure à l'envoi par le promoteur de sa renonciation.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.063Z",
+  "tokenUsage": {
+    "prompt": 1641,
+    "completion": 257,
+    "total": 1898
+  }
+}

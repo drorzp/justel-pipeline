@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998014335",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 du même arrêté sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au § 2, 1°, le mot \" 23 \" est remplacé par les mots \" 23 jusqu'à 23undecies \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au § 2, 6°, les mots \" 23, § 3, 1° et 3° \" sont remplacés par les mots \" 23sexies, § 1er, 1° et 3° \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au § 2, 7° les mots \" camionnettes, camions, autobus et autocars \" sont remplacés par les mots \" autres véhicules \" et les mots \" 16, § 1er, alinéa premier, 23sexies, § 1er, 1° et 3°, \" sont insérés entre les mots \" articles \" et \" 45, § 1er, points 1° et 3° \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">au § 2, 9°, le mot \" 23 \" est remplacé par les mots \" 23 jusqu'à 23undecies \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">au § 2, 10°, le mot \" 23 \" est remplacé par les mots \" 23 jusqu'à 23undecies \" et les mots \" 24, § 1er à § 4 \" sont remplacés par les mots \" 24, §§ 1er à 3 \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">au § 4, les alinéas 3 et 4 sont remplacés par la disposition suivante :</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\" En ce qui concerne les masses et dimensions, les véhicules doivent satisfaire aux dispositions de l'article 32bis.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.170Z",
+  "tokenUsage": {
+    "prompt": 2243,
+    "completion": 616,
+    "total": 2859
+  }
+}

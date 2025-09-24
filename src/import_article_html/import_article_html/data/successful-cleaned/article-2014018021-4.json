@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014018021",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le producteur dont l'approvisionnement direct annuel par établissement de production est supérieur à 15 000 litres de lait cru de vache, 2 000 litres de lait cru des autres espèces animales ou 20 litres de colostrum respecte les exigences:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">de l'article 3, 1° et 2° ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de l'annexe III, section IX, chapitre Ier, partie III du Règlement (CE) n° 853/2004.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.183Z",
+  "tokenUsage": {
+    "prompt": 1619,
+    "completion": 244,
+    "total": 1863
+  }
+}

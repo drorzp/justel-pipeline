@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001000767",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 3 du même arrêté est modifié comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le 2°, les mots \" exclusivement pour les informations énumérées à l'article 2, alinéa 1er, 6° et 8° \" sont remplacés par les mots \" exclusivement pour les informations énumérées à l'article 2, alinéa 1er, 6° à 8°, et 14° \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le 4°, les mots \" à l'article 2, alinéa 1er, 7°, en ce qui concerne les recours introduits auprès du Conseil d'Etat \" sont remplacés par les mots \" à l'article 2, alinéa 1er, 7° et 14°, en ce qui concerne les recours introduits auprès du Conseil d'Etat \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">un 5°, rédigé comme suit, est ajouté : \" 5° ou les directeurs des centres d'accueil pour réfugiés et les membres du personnel administratif de niveau 1 qu'ils désignent nommément et par écrit, exclusivement pour l'information visée à l'article 2, alinéa 1er, 14°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.197Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 425,
+    "total": 2373
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022015582",
+  "articleNumber": "427",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-427\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 427</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour l'application de l'article 310, alinéa 3 de la loi du 11 juillet 2021 visant à assurer la transposition de la directive 2019/878 du Parlement européen et du Conseil du 20 mai 2019, de la directive 2019/879 du Parlement européen et du Conseil du 20 mai 2019, de la directive 2019/2034 du Parlement européen et du Conseil du 27 novembre 2019, de la directive 2019/2177 du Parlement européen et du Conseil du 19 décembre 2019, de la directive 2021/338 du Parlement européen et du Conseil du 16 février 2021 et portant dispositions diverses, la référence dans cet article aux dispositions du Livre XII de la loi du 25 avril 2014, doit être lue comme une référence à ces dispositions telles qu'elles étaient applicables avant leur abrogation par l'article 425 de la présente loi.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>En application de l'article 315, alinéa 2 de la loi précitée du 11 juillet 2021, les articles 16, 17, 18, 1°, 3°, 4°, 7°, 10° à 18°, 20° à 23°, 20, 21, 22, 27, 30, 1° et 3°, 31, 32, 34, 36 à 41, 43, 66, 67, 162, 165, 166, 218, 219, 220, 224, 228, 230 à 232, 259, 263, 266, 2° et 302 de la loi précitée du 11 juillet 2021 entrent en vigueur à la date visée à l'article 426, § 1er.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.694Z",
+  "tokenUsage": {
+    "prompt": 2222,
+    "completion": 552,
+    "total": 2774
+  }
+}

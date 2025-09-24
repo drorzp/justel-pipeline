@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020043545",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\">er</span></h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sont codifiées conformément au texte annexé au présent arrêté, compte tenu des modifications qu'elles ont subies, les dispositions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le chapitre II du décret du 25 juin 1992 contenant diverses dispositions d'accompagnement du budget 1992 ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la section 2 du chapitre VIII du décret du 22 décembre 1995 contenant diverses mesures d'accompagnement du budget 1996 ;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le décret du 15 juillet 1997 contenant le Code flamand du Logement ;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">l'article 1.2, premier alinéa, 1°, 3°, 4° /1, 5°, 6°, 7°, 10°, 12°, 14°, 14° /1, 15°, 16°, 20°, 20° /1, 21°, 24°, 26°, 27°, 28° et 29°, deuxième et troisième alinéas, les articles 2.2.6, 3.1.1 et 3.1.2, 3.2.1 à 3.2.4, 4.1.1 à 4.1.15, 4.2.1 à 4.2.10, 7.3.11 à 7.3.12/1 du décret du 27 mars 2009 relatif à la politique foncière et immobilière ;</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">le chapitre 9 du décret du 23 décembre 2011 contenant diverses mesures d'accompagnement du budget 2012 ;</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">le décret du 28 mars 2014 portant une subvention pour des investissements dans des terrains de campement résidentiel pour roulottes et des terrains de transit pour nomades.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.083Z",
+  "tokenUsage": {
+    "prompt": 2257,
+    "completion": 619,
+    "total": 2876
+  }
+}

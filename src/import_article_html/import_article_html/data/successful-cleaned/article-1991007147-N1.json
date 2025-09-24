@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991007147",
+  "articleNumber": "N1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article N1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Tableau I. Taux par jour de la solde.</p>\n      <p>Series Categories Grades et taux (en francs) (**)</p>\n      <p>Solde SDT CPL SGT ADJ SLT COR</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Les eleves de l'Ecole royale des Cadets A et les eleves non militaires des ecoles 50 58 67 - - de formation de sous-officiers. (Art. 1er, # 1er, 6°)</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Les miliciens qui a la suite d'un appel B se presentent au Centre de recrutement et de selection et ceux qui 125 137 150 220 270 accomplissent leur terme de service actif ou qui sont maintenus sous les armes a l'issue de ce terme ainsi que les miliciens candidats sous-lieutenant de reserve. (Art. 1er, # 1er, 1°, 2° et 3°)</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              <span class=\"provision-text\">Les militaires rappeles sous les C armes ou maintenus sous les armes a 150 162 175 225 270 l'issue d'un rappel. (Art. 1er, # 1er, 4°)</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              <span class=\"provision-text\">Les militaires d'un rang au-dessous de celui d'officier, volontaires pour la durée de la guerre. (Art. 1er, # 1er, 5°)</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n      <p>(*) Pour determiner le enieme jour, il n'est pas tenu compte des jours pendant lesquels le militaire n'a eu droit qu'a la solde diminuee. (Art. 3, # 2).</p>\n      <p>(**) SDT : Soldat ou eleve non-militaire; CPL : Caporal; SGT : Sergent; ADJ COR : Adjudant candidat sous-lieutenant de reserve; SLT : Sous-lieutenant.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.741Z",
+  "tokenUsage": {
+    "prompt": 2297,
+    "completion": 621,
+    "total": 2918
+  }
+}

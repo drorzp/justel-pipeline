@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999022463",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un article 3bis et un article 3ter, rédigés comme suit, sont insérés dans le même arrêté royal :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 3bis.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Les articles 3, alinéas 1<sup>er</sup>,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"a)\">\n                            <span class=\"provision-text\">et 2, 6 à 8, 15, § 1<sup>er</sup>,</span>\n                        </li>\n                    </ol>\n                    <p>6° et 7°, 15, § 2, 43bis, 44, 47, § 2, 69, 70, §§ 1<sup>er</sup> et 2, alinéa 2 et 71, de la loi du 6 août 1990 précitée ne sont pas applicables aux sociétés mutualistes visées à l'article 70, § 2, alinéa 1<sup>er</sup>, de la même loi.</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 3ter.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Les articles 3, alinéas 1,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"a)\">\n                            <span class=\"provision-text\">en 2, 5, 6 à 8, 14, § 1<sup>er</sup>,</span>\n                        </li>\n                    </ol>\n                    <p>15, § 1<sup>er</sup>, 47, § 2, 69, 70, §§ 1<sup>er</sup>, 2, alinéa 1<sup>er</sup>, et 5, et 71, de la loi du 6 août 1990 précitée ne sont pas applicables aux sociétés mutualistes visées à l'article 70, § 2, alinéa 2, de la même loi.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.284Z",
+  "tokenUsage": {
+    "prompt": 2001,
+    "completion": 592,
+    "total": 2593
+  }
+}

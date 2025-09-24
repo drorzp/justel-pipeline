@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004029170",
+  "articleNumber": "90",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-90\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 90</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Deux ou plusieurs universités peuvent s'associer pour former une académie universitaire. Chaque université ne peut appartenir qu'à une seule académie.</p>\n      <p>Une convention règle les relations au sein de l'académie, sans pouvoir déroger aux dispositions du présent chapitre.</p>\n      <p>Chaque académie doit compter au moins une des universités visées à l'article 10, <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\"></span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">.</span></li>\n      </ol></p>\n      <p>Le Gouvernement publie la liste des académies ainsi constituées et leur composition.</p>\n      <p>Une académie peut établir une relation de partenariat avec d'autres établissements d'enseignement supérieur. Chaque établissement ne peut être partenaire que d'une seule académie. Ce partenariat fait l'objet d'une convention.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.784Z",
+  "tokenUsage": {
+    "prompt": 1739,
+    "completion": 323,
+    "total": 2062
+  }
+}

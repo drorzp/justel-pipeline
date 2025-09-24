@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022597",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\" data-article-number=\"1\">.</span></h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Ministre ayant la Santé publique dans ses attributions peut accorder l'agrément de &quot;laboratoire de référence pour le syndrome de l'immunodéficience acquise&quot; à un laboratoire qui remplit les critères d'agrément visés à l'article 2 et qui effectue les missions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la confirmation ou l'exclusion de la présence de virus humain de l'immunodéficience acquise auprès des malades, des personnes saines et des donneurs de sang ainsi que le développement, l'adaptation et l'application des techniques qui s'y rapportent;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le développement, l'adaptation et l'application des techniques permettant d'établir le suivi et le pronostic de l'affection principale et des affections intercurrentes, sous ou en dehors d'un traitement;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'évaluation et la surveillance sélective de la qualité des tests de diagnostic de l'immunodéficience acquise, avant ou après leur mise sur le marché;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">la tenue à disposition des données mentionnées aux 1°, 2° et 3° sous une forme qui autorise, suivant le cas une exploitation scientifique ou épidémiologique.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.107Z",
+  "tokenUsage": {
+    "prompt": 2022,
+    "completion": 500,
+    "total": 2522
+  }
+}

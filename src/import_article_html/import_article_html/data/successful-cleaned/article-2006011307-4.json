@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006011307",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'intitulé de l'arrêté royal du 25 mars 1996 portant exécution des articles 9, 10, 2°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">et de l'article 11, §3, de la loi du 27 mars 1995 relative à l'intermédiation en assurances et à la distribution d'assurances, les termes &quot;</span></li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">&quot;</span></li>\n            </ol>\n            <p class=\"closing-text\">sont remplacés par les termes &quot;4°, 6° et 6°bis &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.824Z",
+  "tokenUsage": {
+    "prompt": 1702,
+    "completion": 326,
+    "total": 2028
+  }
+}

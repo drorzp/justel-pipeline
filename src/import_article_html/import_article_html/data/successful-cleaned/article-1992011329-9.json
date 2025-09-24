@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992011329",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A la demande du consommateur, il doit être délivré gratuitement lors de toute livraison à domicile de combustibles minéraux solides une note de livraison ou facture mentionnant au moins :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le nom et l'adresse du fournisseur et du destinataire;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">la date de la livraison;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le poids nominal;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">la dénomination;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le calibre;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">la teneur en cendres;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">la teneur en soufre volatil;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le prix au kg ou à la tonne;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">le prix global du combustible livré;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les modalités de livraison, telles que prévues à l'article 10, 1°, 2° et 4° du présent arrêté.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.085Z",
+  "tokenUsage": {
+    "prompt": 1844,
+    "completion": 424,
+    "total": 2268
+  }
+}

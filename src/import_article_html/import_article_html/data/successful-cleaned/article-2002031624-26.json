@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002031624",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <div class=\"paragraph-content\">\n        Le montant des primes visées à l'article 24, § 1er, 1° et 2°, hors l'intervention de l'employeur dans les frais de transport, est diminué de 5 %.\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <div class=\"paragraph-content\">\n        Le ministre peut accorder une dispense totale ou partielle de l'application de cette diminution de 5 % aux employeurs qui fournissent la preuve de leur impossibilité de prendre en charge ces 5 % de la rémunération des ACS qu'ils occupent.\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <div class=\"paragraph-content\">\n        Le montant des primes visées à l'article 24, § 1er, 1° et 2°, est augmenté (d'un montant de) 12,39 (euros) par mois destiné à couvrir les frais de secrétariat social. \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2005-06-30/39\" data-law-type=\"ARR\" data-article-number=\"14\">&lt;ARR 2005-06-30/39, art. 14, 002; En vigueur : 01-09-2005&gt;</span>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.754Z",
+  "tokenUsage": {
+    "prompt": 1872,
+    "completion": 362,
+    "total": 2234
+  }
+}

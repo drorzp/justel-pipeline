@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036249",
+  "articleNumber": "80",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-80\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 80</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 21 du même arrêté sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le § 2, alinéa deux, les mots \"de la Société flamande du Logement\" sont remplacés par les mots \"pour habitation sociales de location ou d'achat\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le § 3, 1° et 2°, les mots \"de la Société flamande du Logement\" sont remplacés par les mots \"pour habitations sociales de location ou d'achat\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le § 5, modifié par l'arrêté du Gouvernement flamand du 23 avril 2004, les mots \"Le Ministre ou le fonctionnaire désigné à cet effet par le Ministre paie une avance sur la subvention\" sont remplacés par les mots \"L'agence paie une avance sur la subvention\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le § 6, le point 2° est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.727Z",
+  "tokenUsage": {
+    "prompt": 1847,
+    "completion": 397,
+    "total": 2244
+  }
+}

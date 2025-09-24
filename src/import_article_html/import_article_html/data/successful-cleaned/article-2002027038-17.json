@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002027038",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 9 de l'arrêté du Gouvernement wallon du 9 novembre 1995 portant exécution du décret du 6 avril 1995 relatif à la gestion des hôpitaux psychiatriques de la Région wallonne et dans les articles 25, alinéa 1, 1° et 2°, les montants exprimés en franc et figurant à la deuxième colonne du tableau suivant sont remplacés par les montants exprimés en euro dans la troisième colonne du même tableau.</p>\n      <table>\n        <thead>\n          <tr>\n            <th>Article</th>\n            <th>Montant en francs</th>\n            <th>Montant en euros</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>Art. 9</td>\n            <td>1 250 000 francs</td>\n            <td>30 990 euros</td>\n          </tr>\n          <tr>\n            <td>Art. 9</td>\n            <td>25 000 000 francs</td>\n            <td>620 000 euros</td>\n          </tr>\n          <tr>\n            <td>Art. 25, alinéa 1er, 1°</td>\n            <td>1 500 francs</td>\n            <td>37 euros</td>\n          </tr>\n          <tr>\n            <td>Art. 25, alinéa 1er, 2°</td>\n            <td>1 000 francs</td>\n            <td>25 euros</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.691Z",
+  "tokenUsage": {
+    "prompt": 1776,
+    "completion": 436,
+    "total": 2212
+  }
+}

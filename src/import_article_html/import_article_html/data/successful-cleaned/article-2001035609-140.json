@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001035609",
+  "articleNumber": "140",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-140\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 140</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans la partie XIV, titre 3, chapitre 2, du même statut, la Section 10, formée par l'article XIV 42, est remplacée par ce qui suit :</p>\n    <p>Section 10. Congé pour mission.</p>\n    <p>Art. XIV 42.</p>\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'agent contractuel peut obtenir un conge pour mission pour l'exercice d'une fonction auprès d'un cabinet ministériel ou d'un groupe politique reconnu, suivant le régime qui s'applique au fonctionnaire, à condition qu'il n'exerce pas un emploi tel que visé à l'article XIV 5, § 1, § 2, 1° et 3°.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>En ce qui concerne le congé après l'exercice d'une fonction auprès d'un cabinet ministériel, l'agent contractuel est soumis à la même réglementation que celle qui s'applique au fonctionnaire.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.671Z",
+  "tokenUsage": {
+    "prompt": 1819,
+    "completion": 357,
+    "total": 2176
+  }
+}

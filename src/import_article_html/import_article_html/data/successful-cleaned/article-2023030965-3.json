@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030965",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation à l'article 1.4.4-6, § 5, 2°, 4° et 5°, du Code précité, la Commission chargée d'examiner les demandes de dérogation transmises par le Gouvernement relatives au référentiel des compétences terminales et savoirs requis en informatique sera représentée :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">pour le Service de l'Inspection, par trois membres issus du Service général de l'Inspection de l'enseignement secondaire de transition dont un membre de la discipline visée par la demande de dérogation. Ces membres seront désignés par le Gouvernement, sur proposition de l'Inspecteur général coordonnateur et sur l'avis de l'Inspecteur coordonnateur de l'enseignement secondaire de transition ;</span>\n        </li>\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">pour les Conseils généraux, par le président et le vice-président ou leur délégué respectif du Conseil général de l'enseignement secondaire, sauf si l'un de ceux-ci est déjà membre de la Commission à un autre titre auquel cas ledit Conseil général désigne un autre de ses membres.</span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.715Z",
+  "tokenUsage": {
+    "prompt": 1859,
+    "completion": 364,
+    "total": 2223
+  }
+}

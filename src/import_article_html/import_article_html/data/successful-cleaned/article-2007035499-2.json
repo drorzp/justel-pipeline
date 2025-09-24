@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007035499",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les articles 1,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">4°, 12, § 1er, 13, § 1er, 9°, 15, § 2, et 16 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 20 juillet 2006, les mots &quot; le Département &quot; sont remplacés par les mots &quot; l'Agence Economie &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.118Z",
+  "tokenUsage": {
+    "prompt": 1584,
+    "completion": 227,
+    "total": 1811
+  }
+}

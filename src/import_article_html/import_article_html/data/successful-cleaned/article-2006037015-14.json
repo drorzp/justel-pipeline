@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006037015",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le chef de l'agence peut retirer l'agrément, suspendre ou cesser le paiement des subventions au personnel et au fonctionnement ou entièrement ou partiellement réclamer les subventions déjà allouées, lorsqu'il n'est pas répondu aux règles de fonctionnement, mentionnées aux articles 3 et 4, et lorsqu'il n'est pas répondu à la condition de l'article 6, 3°,et aux engagements mentionnés à l'article 6, 5° et 6°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.900Z",
+  "tokenUsage": {
+    "prompt": 1560,
+    "completion": 185,
+    "total": 1745
+  }
+}

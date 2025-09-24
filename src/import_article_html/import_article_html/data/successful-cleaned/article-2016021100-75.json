@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016021100",
+  "articleNumber": "75",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-75\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 75</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 88, alinéa 2, du même Code, modifié en dernier lieu par la loi du 26 décembre 2015, les mots &quot;et 90, alinéa 1er, 6° et 9° et 13°, &quot; sont remplacés par les mots &quot;et 90, alinéa 1er, 6° et 9°, &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.249Z",
+  "tokenUsage": {
+    "prompt": 1690,
+    "completion": 177,
+    "total": 1867
+  }
+}

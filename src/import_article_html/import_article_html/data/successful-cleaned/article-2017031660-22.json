@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017031660",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 22</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 82 du même Code est remplacé par ce qui suit :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 82.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Le gestionnaire de l'infrastructure ferroviaire et les entreprises ferroviaires s'acquittent d'une redevance annuelle pour les frais liés aux tâches de certification des conducteurs de train et des accompagnateurs de train visées respectivement à l'article 74, § 1er,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"9°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"11°\">\n                            <span class=\"provision-text\">.</span>\n                        </li>\n                    </ol>\n                    <p>La redevance est fixée à 20 euros par membre du personnel qui dispose d'une licence ou d'un certificat à la date du 1er janvier de l'année courante.</p>\n                    <p>En cas de non-paiement, l'autorité de sécurité peut suspendre la validité de la licence ou du certificat des membres du personnel concernés.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.715Z",
+  "tokenUsage": {
+    "prompt": 1728,
+    "completion": 363,
+    "total": 2091
+  }
+}

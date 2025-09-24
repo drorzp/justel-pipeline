@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015167",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 5 mai 1993 fixant la liste des autres activités qui sont considérées comme activités absorbant une grande partie du temps d'un membre du personnel académique sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le préambule de l'article 1er et le point 1° sont remplacés par ce qui suit :</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">\" Article 1er. Les mandats politiques qui sont d'office considérés comme correspondant à plus de 20 % d'une charge à temps plein sont les suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la qualité de membre du Parlement européen ou belge, d'un conseil communautaire ou régional, de la Commission de l'Union européenne, d'un gouvernement au niveau national (fédéral), communautaire ou régional ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">la fonction de gouverneur, de vice-gouverneur, de député permanent, de bourgmestre, d'échevin ou de président du conseil de l'action sociale dans une commune de plus de 50.000 habitants ; \"</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les points 2° et 3° sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.710Z",
+  "tokenUsage": {
+    "prompt": 1975,
+    "completion": 472,
+    "total": 2447
+  }
+}

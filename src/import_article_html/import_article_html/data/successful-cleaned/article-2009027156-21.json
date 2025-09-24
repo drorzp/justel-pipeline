@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009027156",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Lorsque, sur la base d'une évaluation des risques environnementaux tenant compte en particulier, et selon leur applicabilité, des dispositions du Code de l'Eau, l'autorité compétente décide que la collecte et le traitement des lixiviats ne sont pas nécessaires, ou qu'il est établi que l'installation de gestion de déchets ne présente pas de danger pour le sol, les eaux souterraines ou les eaux de surface, les exigences visées à l'article 20,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">peuvent être assouplies ou il peut y être dérogé en conséquence.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.953Z",
+  "tokenUsage": {
+    "prompt": 1666,
+    "completion": 273,
+    "total": 1939
+  }
+}

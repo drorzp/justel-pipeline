@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007035899",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 9 du même arrêté modifié par les arrêtés du Gouvernement flamand du 3 mars 2000 et 23 septembre 2005 sont ajoutés au quatrième alinéa les points 9°, 10°, 11° et 12° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">les prestations fournies par les personnels en congé visés à l'article 166, § 1er, du décret relatif à l'enseignement fondamental du 25 février 1997;</span>\n        </li>\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">les prestations fournies par des membres du personnel en congé, tels que visés à l'article 53 du décret du 5 avril 1995 portant création de comités de négociation dans l'enseignement libre subventionné;</span>\n        </li>\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">les prestations fournies par les membres du personnel en congé tels que visés à l'article 156 du décret du 14 juillet 1998 contenant diverses mesures relatives à l'enseignement secondaire et modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental;</span>\n        </li>\n        <li class=\"provision\" data-number=\"12°\">\n          <span class=\"provision-text\">les prestations fournies par des membres du personnel exerçant des charges dans un institut supérieur telles que visées à l'article 2, 39° du décret du 13 juillet 1994 relatif aux instituts supérieurs en Communauté flamande.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.120Z",
+  "tokenUsage": {
+    "prompt": 2023,
+    "completion": 473,
+    "total": 2496
+  }
+}

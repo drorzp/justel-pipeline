@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017031388",
+  "articleNumber": "102",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-102\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 102</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Lors de l'exercice d'activités de gardiennage visées à l'article 3, 7°, 8° et 13° à l'entrée des lieux qu'ils surveillent, les agents de gardiennage peuvent contrôler des personnes avec le seul but de vérifier si celles-ci portent sur elles des armes, telles que visées au chapitre II de la loi sur les armes, ou des objets dangereux dont l'introduction dans le lieu peut perturber le bon déroulement de l'événement ou mettre en péril la sécurité des personnes présentes.</p>\n            <p class=\"closing-text\">A cet effet, ils peuvent contrôler visuellement le contenu des bagages que les personnes portent et contrôler si les personnes concernées ne portent pas de tels objets sur elles.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.712Z",
+  "tokenUsage": {
+    "prompt": 1731,
+    "completion": 241,
+    "total": 1972
+  }
+}

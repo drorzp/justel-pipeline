@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040266",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 2 de l'arrêté royal du 1er décembre 2013 relatif aux conditions de police sanitaire régissant les mouvements d'équidés, les importations d'équidés en provenance des pays tiers et le transit, les modifications suivantes sont apportées :</p>\n            <ol class=\"sub-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"provision-text\">les 8°, 9° , 10° et 18° sont abrogés;</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"provision-text\">le 16° est remplacé par ce qui suit : \" 16° règlement (CE) n° 2015/262 : règlement d'exécution (UE) 2015/262 de la Commission du 17 février 2015 établissant des règles conformément aux directives du Conseil 90/427/CEE et 2009/156/CE en ce qui concerne les méthodes d'identification des équidés (règlement sur le passeport équin); \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.442Z",
+  "tokenUsage": {
+    "prompt": 1785,
+    "completion": 332,
+    "total": 2117
+  }
+}

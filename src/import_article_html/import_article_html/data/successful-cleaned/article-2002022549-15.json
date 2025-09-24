@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002022549",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-12-31/31\" data-law-type=\"AR\" data-article-number=\"6\">&lt;AR 2003-12-31/31, art. 6, 003;<b>En vigueur :</b>01-01-2004&gt;</span> Pour l'application du présent chapitre, on entend par Fonds Maribel social sectoriels les fonds créés en application de l'article 35, § 5, C,\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">(et\n                            <ol class=\"numbered-provisions\">\n                                <li class=\"provision\" data-number=\"2°\">\n                                    <span class=\"provision-text\">a))</span>\n                                </li>\n                            </ol>\n                        ) de la loi du 29 juin 1981 précitée [...].</span>\n                    </li>\n                </ol>\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-09-01/44\" data-law-type=\"AR\" data-article-number=\"16\">&lt;AR 2006-09-01/44, art. 16, 1° et 2°, 008;<b>En vigueur :</b>01-01-2006&gt;</span>\n            </p>\n            <p class=\"closing-text\">\n                (Alinéa 2 abrogé) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-09-01/44\" data-law-type=\"AR\" data-article-number=\"16\">&lt;AR 2006-09-01/44, art. 16, 3°, 008;<b>En vigueur :</b>01-01-2006&gt;</span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.691Z",
+  "tokenUsage": {
+    "prompt": 1945,
+    "completion": 495,
+    "total": 2440
+  }
+}

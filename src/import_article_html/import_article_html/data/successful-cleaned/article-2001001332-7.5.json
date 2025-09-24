@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001001332",
+  "articleNumber": "7.5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7.5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les candidats à la promotion par accession à un cadre supérieur joignent à leur candidature un document prouvant qu'ils répondent aux exigences de diplôme visées aux articles VII.II.11 à VII.II.13 PJPol, ainsi qu'un certificat de leur chef de corps prouvant qu'ils répondent aux conditions visées à \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-07-11/06\" data-law-type=\"AM\" data-article-number=\"27\">\n          l'article 39, 1° et 3° à 6°, de la loi du 26 avril 2002\n        </span>.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.204Z",
+  "tokenUsage": {
+    "prompt": 1803,
+    "completion": 237,
+    "total": 2040
+  }
+}

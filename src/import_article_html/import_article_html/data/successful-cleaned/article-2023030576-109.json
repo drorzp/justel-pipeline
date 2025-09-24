@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030576",
+  "articleNumber": "109",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-109\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 109</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2, § 1er, du décret du 17 janvier 2019 relatif à la lutte contre la pollution atmosphérique liée à la circulation des véhicules, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à partir du 1er janvier 2025, la circulation d'un véhicule qui ne répond à aucune euronorme ou qui répond à l'euronorme 1, à l'euronorme 2 ou à l'euronorme 3;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.715Z",
+  "tokenUsage": {
+    "prompt": 1757,
+    "completion": 291,
+    "total": 2048
+  }
+}

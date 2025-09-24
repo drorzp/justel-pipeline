@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998022600",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 17ter, A, 5° et B, 2° de la même annexe, inséré par l'arrêté royal du 22 octobre 1992 et modifié par l'arrêté royal du 25 juillet 1994, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au A, 5° :</span>\n                    <p>la prestation suivante est insérée après la prestation n° 464295 - 464306 : \" (Modification non reprise pour des raisons techniques. Voir M.B. 24-09-1998, p. 31244). \";</p>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au B, 2° :</span>\n                    <ol class=\"sub-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">\n                            <span class=\"provision-text\">au littéra e) :</span>\n                            <p>les prestations n° 463691 - 463702 et 463713 - 463724 sont insérées avant la prestation n° 464074 - 464085;</p>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">\n                            <span class=\"provision-text\">au littéra k) :</span>\n                            <p>la prestation 464472 - 464483 est insérée après la prestation 464332 - 464343.</p>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.086Z",
+  "tokenUsage": {
+    "prompt": 1922,
+    "completion": 439,
+    "total": 2361
+  }
+}

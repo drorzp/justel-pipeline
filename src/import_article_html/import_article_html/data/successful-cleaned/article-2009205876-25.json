@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009205876",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 97ter, du même Code, inséré par le décret du 5 mars 2008, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 5°, les mots \"Cellule administrative transitoire pour la gestion de la fiscalité wallonne, créée par l'arrêté du Gouvernement wallon du 15 mai 2003\" sont remplacés par les mots \"Direction générale opérationnelle de la Fiscalité du Service public de Wallonie (en abrégé, DGO7)\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté un 6° et un 7°, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"6°\">\n              <span class=\"provision-text\">\"véhicule automobile neuf\" : véhicule automobile dont l'année de construction ne date pas de plus de deux ans, qui n'a pas plus de 300 km au compteur et qui n'a pas encore été immatriculé en Belgique ou ailleurs;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"7°\">\n              <span class=\"provision-text\">\"véhicule automobile usagé\" : véhicule automobile qui n'est pas un véhicule neuf;\".</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.315Z",
+  "tokenUsage": {
+    "prompt": 1899,
+    "completion": 422,
+    "total": 2321
+  }
+}

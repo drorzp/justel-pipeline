@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003196",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 5, § 1er, 9°, de l'arrêté royal n° 1, du 29 décembre 1992, relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée, remplacé par l'arrêté royal du 16 février 2004, les mots &quot;l'article 51, § 2, 1°, 2° et 5°, du Code&quot; sont remplacés par les mots &quot;l'article 51, § 2, 1°, 2°, 5° et 6°, du Code&quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.768Z",
+  "tokenUsage": {
+    "prompt": 1605,
+    "completion": 207,
+    "total": 1812
+  }
+}

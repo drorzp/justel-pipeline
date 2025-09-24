@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011465",
+  "articleNumber": "161",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-161\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 161</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Tous les agents ont droit aux congés pour interruption de carrière <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-02-09/07\" data-law-type=\"ARR\" data-article-number=\"15\">visés à l'article 160, § 2, 4°, 5° et 6°</span>.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Ont droit aux congés pour interruption de la carrière complète, pour interruption de la carrière partielle et pour interruption de la carrière dans le cadre de l'assistance médicale visés à l'article 160, § 2, 1° à 3°, les agents de rang 1.</p>\n        <p>Peuvent bénéficier de ces congés les agents titulaires d'un grade de promotion, moyennant l'autorisation du directeur général ou du directeur général adjoint.</p>\n        <p>En sont exclus les agents titulaires d'un mandat.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.683Z",
+  "tokenUsage": {
+    "prompt": 1847,
+    "completion": 350,
+    "total": 2197
+  }
+}

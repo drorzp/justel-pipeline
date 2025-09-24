@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035585",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article XIV 12 du même statut, modifié par les arrêtés du Gouvernement flamand des 28 avril 1998, 19 décembre 1998, 28 janvier 2000 et 14 avril 2000, les mots &quot;19° à 22° inclus et 24°&quot; sont remplacés par les mots &quot;19° à 22° inclus, 24° et 27°&quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.247Z",
+  "tokenUsage": {
+    "prompt": 1536,
+    "completion": 175,
+    "total": 1711
+  }
+}

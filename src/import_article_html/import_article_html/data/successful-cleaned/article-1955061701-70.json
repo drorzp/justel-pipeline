@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1955061701",
+  "articleNumber": "70",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-70\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 70</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'épouse divorcée qui n'était pas dans l'un des cas prévus à l'article 67, 1° et 2°, au jour du mariage, mais qui s'y trouvait au jour du divorce est censée avoir bénéficié des dispositions du présent chapitre pour toutes les années de vie commune comprises entre le mariage et le premier assujettissement postérieur à celui-ci, à la condition de demeurer assujettie à l'un ou l'autre des régimes de pension visés à l'article 67 pendant les dix années suivant le divorce ou jusqu'au jour (de son soixantième anniversaire) ou celui auquel elle obtient le paiement anticipé de la pension, s'il est antérieur à l'expiration de cette période de dix années. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"08-05-1958/1\" data-law-type=\"AR\" data-article-number=\"41\">&lt;AR 08-05-1958/1, art. 41&gt;</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.463Z",
+  "tokenUsage": {
+    "prompt": 1746,
+    "completion": 297,
+    "total": 2043
+  }
+}

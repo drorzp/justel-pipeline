@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996003007",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 27</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 6, § 1er, du même arrêté, les mots \"L'assujetti qui n'est pas établi en Belgique et qui n'est pas tenu de faire agréer un représentant responsable parce qu' il effectue en Belgique exclusivement des opérations pour lesquelles la taxe est due par le preneur de l'opération en vertu de l'article 51, § 2, du Code\" sont remplacés par les mots \"L'assujetti qui n'est pas établi en Belgique et qui est représenté par une personne visée à l'article 2, § 2, ou qui n'est pas tenu de faire agréer un représentant responsable parce qu'il effectue en Belgique exclusivement des opérations pour lesquelles la taxe est due par le preneur de l'opération en vertu de l'article 51, § 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">2°, du Code\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.050Z",
+  "tokenUsage": {
+    "prompt": 1772,
+    "completion": 317,
+    "total": 2089
+  }
+}

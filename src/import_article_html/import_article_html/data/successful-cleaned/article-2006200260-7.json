@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006200260",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 35, § 2, du même décret est remplacé par la disposition suivante :</p>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation, les radios indépendantes visées à l'article 53 ne sont pas soumises au § 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\"></span></li>\n                    <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n                    <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">.</span></li>\n                </ol>\n                <p>Les éditeurs de services de radiodiffusion sonore visés à l'article 58 ne sont pas soumis au § 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">.</span></li>\n                </ol>\n                <p>S'ils sont constitués en association sans but lucratif, ils ne sont pas soumis au § 1er,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n                    <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">\".</span></li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.903Z",
+  "tokenUsage": {
+    "prompt": 1832,
+    "completion": 431,
+    "total": 2263
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1983022493",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          Par dérogation aux dispositions de l'article 123, § 1er, alinéa premier, 2° et 3°, de la loi du 9 août 1963 précitée, le montant de la subvention pour 1979 en faveur du régime général d'assurance maladie-invalidité, secteur des soins de santé, fixé à l'article 2, § 1er, alinéa 2, de la loi de redressement du 10 février 1981 relative à la sécurité sociale et au bien-être en 1981 est réparti entre les organismes assureurs dans la même proportion que celle qui serait la résultant de la répartition de la subvention de l'Etat calculée conformément à l'article 121 de la loi du 9 août 1963 précitée.\n        </p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          Par dérogation aux dispositions de l'article 32, §§ 1er et 2, de l'arrêté royal du 30 juillet 1964 précité, le montant de la subvention de l'Etat pour 1979 en faveur du régime d'assurance maladie-invalidité pour les travailleurs indépendants, secteur des soins de santé, fixé par l'article 7 de la loi du 24 décembre 1980 relative aux mesures pour assurer l'exécution du budget 1980-1981 de la Prévoyance sociale, est réparti entre les organismes assureurs dans la même proportion que celle qui serait la résultante de la répartition de la subvention de l'Etat calculée conformément à l'article 32 de l'arrêté royal du 30 juillet 1964 précité.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.690Z",
+  "tokenUsage": {
+    "prompt": 2116,
+    "completion": 501,
+    "total": 2617
+  }
+}

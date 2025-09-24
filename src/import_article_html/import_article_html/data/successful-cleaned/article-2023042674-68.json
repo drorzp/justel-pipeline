@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042674",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 68</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 7 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 16 mai 2014, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 2, alinéa 1er, alinéa 4, 2° et 3°, et alinéa 5, paragraphe 3, alinéa 2, et paragraphe 4, alinéa 1er, les mots \" l'agence \" sont remplacés par les mots \" l'administration \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 4, alinéa 2, les mots \" L'agence \" sont remplacés par les mots \" L'administration \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.759Z",
+  "tokenUsage": {
+    "prompt": 1722,
+    "completion": 300,
+    "total": 2022
+  }
+}

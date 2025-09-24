@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996014010",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-12-15/18\" data-law-type=\"AR\" data-article-number=\"2\">Les conditions d'obtention\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2022-02-08/01\" data-law-type=\"AR\" data-article-number=\"2\">Les conditions d'obtention de la plaque essai sont les suivantes :\n          <ul class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"-\"><span class=\"sub-provision-text\">la demande peut être introduite entre le 1er janvier et le 31 décembre de chaque année ;</span></li>\n            <li class=\"sub-provision\" data-marker=\"-\"><span class=\"sub-provision-text\">en ce qui concerne la catégorie visée au point 1° de l'article 5, la demande doit être accompagnée de la reconnaissance, délivrée par l'autorité compétente en matière de réception (homologation), comme constructeur ;</span></li>\n            <li class=\"sub-provision\" data-marker=\"-\"><span class=\"sub-provision-text\">en ce qui concerne la catégorie visée au point 5° de l'article 5, la demande doit être accompagnée de la copie de l'agréation, délivrée par l'autorité compétente en matière de réception (homologation), en qualité de service technique de catégorie A.</span></li>\n          </ul>\n        </span>Par dérogation à l'alinéa précédent du présent article et à l'article 3, § 1er, alinéa 2, b) et c) de l'arrêté royal du 20 juillet 2001 relatif à l'immatriculation de véhicules, les catégories, visées sous les points 2°, 3° et 4° de l'article 5, ne doivent pas répondre aux conditions d'obtention visées au présent article</span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.901Z",
+  "tokenUsage": {
+    "prompt": 2178,
+    "completion": 508,
+    "total": 2686
+  }
+}

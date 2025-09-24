@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003003256",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 55, § 1er, alinéa 1er, du même Code, remplacé par la loi du 7 mars 2002, les mots &quot; et autre qu'une opération pour laquelle le régime spécial visé à l'article 58bis s'applique, &quot; sont insérés entre les mots &quot; en vertu de l'article 51, § 2, 1°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">&quot; l'assujetti qui n'est pas établi dans la Communauté &quot;.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.833Z",
+  "tokenUsage": {
+    "prompt": 1644,
+    "completion": 259,
+    "total": 1903
+  }
+}

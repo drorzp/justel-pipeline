@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1955061701",
+  "articleNumber": "69",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-69\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 69</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    Lorsque l'épouse divorcée n'était pas, au jour du divorce dans l'un des cas visés à l'article 67, 1° et 2°, mais que l'enlèvement visé par ces dispositions s'est produit dans les six mois qui ont suivi le divorce, l'épouse divorcée est autorisée, si elle en formule la demande, dans les formes et délais visés (à l'article 66, alinéa 2) a verser une cotisation de 175 francs par mois entier de de 6 francs par jour pour toute la période comprise entre le jour du divorce et le jour de l'assujettissement prévu par ces dispositions. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"08-05-1958\" data-law-type=\"AR\" data-article-number=\"39 et 40\">&lt;AR 08-05-1958, art. 39 et 40&gt;</span> Cette période et ces cotisations) ne sont, toutefois, pas prises en considération pour le calcul de la pension visée à l'article 68, à moins que l'année au cours de laquelle elle si situe ne soit pas prise en considération pour le calcul de la pension prévue par le régime auquel l'intéressée s'est trouvée assujettie cette même année. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"08-05-1958\" data-law-type=\"AR\" data-article-number=\"39 et 40\">&lt;AR 08-05-1958, art. 39 et 40&gt;</span>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.465Z",
+  "tokenUsage": {
+    "prompt": 1967,
+    "completion": 439,
+    "total": 2406
+  }
+}

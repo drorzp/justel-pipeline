@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014284",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 21</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article VII. 182, § 2, du même Code, inséré par la loi du 19 avril 2014, est complété par deux alinéas rédigés comme suit :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>\"Les prêteurs en crédit hypothécaire, les intermédiaires en crédit hypothécaire ainsi que les personnes visées aux articles VII. 180, § 2, alinéa 1er, 2°, et VII. 181, § 1er, alinéa 1er, 2° et § 2, 1° informent notamment la FSMA sans délai de tout fait ou élément qui implique une modification des informations fournies lors de la demande d'inscription et qui peut avoir une incidence sur l'aptitude ou l'honorabilité professionnelle nécessaire à l'exercice de la fonction concernée.\"</p>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    <p>\"Conformément aux articles VII. 181, § 1er, alinéa 1er, et XV. 18/1, lorsque la FSMA, dans le cadre de l'exercice de sa mission de contrôle, a connaissance d'un tel fait ou élément, obtenu ou non en application de l'alinéa 2, elle peut effectuer une réévaluation du respect des exigences visées aux articles 180, § 2, alinéa 1er, 2°, et 181, § 1er, alinéa 1er, 2° et § 2, 1°.\"</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.585Z",
+  "tokenUsage": {
+    "prompt": 1979,
+    "completion": 478,
+    "total": 2457
+  }
+}

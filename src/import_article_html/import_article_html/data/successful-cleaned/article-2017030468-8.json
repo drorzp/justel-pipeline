@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030468",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 6 du même arrêté les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive, les mots \"infrastructure culturelle sectorielle prioritaire\" sont remplacés par les mots \"priorités sectorielles\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 3° est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">au moins 40 % des frais d'achat ou des frais de construction sont supportés par des subventions d'une autre autorité, par un apport en nature d'autres autorités, ou par un apport de propres moyens. La subvention d'investissement du FoCI n'est jamais supérieure à 60% des frais d'achat ou de construction. Les promesses inconditionnelles de subventions qui dépendent du subventionnement par la Communauté flamande, sont prises en compte ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les points 5° et 6° sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.732Z",
+  "tokenUsage": {
+    "prompt": 1968,
+    "completion": 400,
+    "total": 2368
+  }
+}

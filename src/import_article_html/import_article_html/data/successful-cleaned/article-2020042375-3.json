@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020042375",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Afin d'obtenir un titre au sens de l'article 1er, 40° et 41°, et/ou une attestation au sens de l'article 1er, 42°, les gens de mer servant à bord d'un navire de mer visé à l'article 2 doivent avoir suivi une formation qui soit au moins conforme aux prescriptions de la convention STCW, telles qu'elles sont énoncées à l'annexe 1re du présent arrêté et aux dispositions du présent arrêté.</p>\n            <p><span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-03-21/60\" data-law-type=\"AR\" data-article-number=\"1\">Le Contrôle de la navigation peut reconnaître comme équivalents d'autres formations, y compris ceux relatifs au service en mer et à l'organisation à bord spécialement adaptés aux évolutions techniques et à des types particuliers de navires et d'utilisation professionnelle, à condition que le niveau de service en mer et de connaissances soit garanti. Le Contrôle de la navigation peut appliquer les restrictions nécessaires sur les brevets d'aptitude et les certificats d'aptitude.</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.159Z",
+  "tokenUsage": {
+    "prompt": 1865,
+    "completion": 325,
+    "total": 2190
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1986022287",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les dispositions des articles 3, 4, 5, alinéa 1er, 2°, 7, § 2, 3° et 4°, et 8 entrent en vigueur dans le chef des organismes visés respectivement à l'article 1, §§ 1, 2 et 4 à 6, le premier jour du mois qui suit celui au cours duquel les instructions visées respectivement à l'article 1, § 3, § 4, alinéa 3, § 5, alinéa 2 et § 6, alinéa 2, auront été publiées au Moniteur belge.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.515Z",
+  "tokenUsage": {
+    "prompt": 1683,
+    "completion": 223,
+    "total": 1906
+  }
+}

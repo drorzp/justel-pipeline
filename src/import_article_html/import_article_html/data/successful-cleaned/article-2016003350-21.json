@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003350",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté royal du 20 janvier 2014 fixant la date de l'entrée en vigueur et portant exécution de la loi du 11 décembre 2006 relative au statut des employés des conservateurs des hypothèques, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">les</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">sont abrogés</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">dans le 5°, les mots \" visé à au 3° \" sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.317Z",
+  "tokenUsage": {
+    "prompt": 1680,
+    "completion": 317,
+    "total": 1997
+  }
+}

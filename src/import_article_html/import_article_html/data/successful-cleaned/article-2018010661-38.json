@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018010661",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 38</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 92, alinéa 1er, du même arrêté, modifié par les arrêtés royaux des 18 novembre 2015, 9 mai 2016 et 8 octobre 2016, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la disposition sous 1° les mots \"et ne pas être suspendu par mesure disciplinaire\" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans la disposition sous 3°, les mots \"dans le même grade et/ou dans un grade supérieur\" sont insérés entre les mots \"ancienneté de grade\" et les mots \"d'au moins deux ans\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans les dispositions sous 5° et 6°, les mots \"la certification de module\" sont remplacés par les mots \"l'attestation\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'alinéa est complété par la disposition sous 7° rédigée comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">ne pas être sous le coup d'une sanction disciplinaire non radiée.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.767Z",
+  "tokenUsage": {
+    "prompt": 1930,
+    "completion": 449,
+    "total": 2379
+  }
+}

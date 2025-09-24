@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009029140",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 27ter du même décret, modifié par le décret du 19 juillet 2007, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Dans l'alinéa 1er, la première phrase commençant par les mots \" En télévision \" et finissant par les mots \" le respect des conditions suivantes : \" est remplacée par la phrase suivante : \" La publicité virtuelle est interdite sauf à l'occasion de la retransmission en direct ou en différé de compétitions sportives moyennant le respect des conditions suivantes : \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Dans le 1°, les mots \" l'événement \" sont remplacés par les mots \" la compétition sportive \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Le 7° et le 8° sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">Le mot \" service \" est chaque fois remplacé par le mot \" services \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">Dans le dernier alinéa, les mots \" des mentions de publicité virtuelle \" sont remplacés par les mots \" de la publicité virtuelle \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.105Z",
+  "tokenUsage": {
+    "prompt": 1917,
+    "completion": 436,
+    "total": 2353
+  }
+}

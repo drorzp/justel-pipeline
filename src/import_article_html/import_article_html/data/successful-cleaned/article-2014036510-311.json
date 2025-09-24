@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036510",
+  "articleNumber": "311",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-311\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 311</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 4.3.7 du même code, le passage<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"4.2.1\" data-law-type=\"L\" data-article-number=\"1\">\" L'autorisation urbanistique pour les actes visés à l'article 4.2.1, 1°, 6°, 7° et 8° n'est pas délivrée \"</span> est remplacé par le passage <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"4.2.1\" data-law-type=\"L\" data-article-number=\"1\">\" Le permis d'environnement pour les actes visés à l'article 4.2.1, 1°, 6°, 7° et 8° n'est pas délivré \"</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.343Z",
+  "tokenUsage": {
+    "prompt": 1554,
+    "completion": 254,
+    "total": 1808
+  }
+}

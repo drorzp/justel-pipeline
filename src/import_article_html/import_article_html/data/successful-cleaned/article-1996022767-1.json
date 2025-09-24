@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022767",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le montant des interventions forfaitaires de l'assurance visées ci-après, tel qu'il est fixé au 31 décembre 1996, est réduit de 2 %.</p>\n            <p>Les interventions forfaitaires de l'assurance visées au premier alinéa sont :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les interventions pour les prestations visées à l'article 34, 11°, 12° et 18° de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">les interventions visées à l'article 4 de la convention conclue entre les établissements hospitaliers et les organismes assureurs conclue le 24 janvier 1996 et dans l'arrêté royal du 28 octobre 1996 portant application de l'article 51, § 3, dernier alinéa, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, en ce qui concerne l'hémodialyse.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.106Z",
+  "tokenUsage": {
+    "prompt": 1832,
+    "completion": 337,
+    "total": 2169
+  }
+}

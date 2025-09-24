@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000003470",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\">.</span></h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les dispositions de l'arrêté royal du 6 juillet 1967 pris en exécution de l'article 6 de la loi du 30 juin 1967 portant extension de la mission du Fonds d'indemnisation des travailleurs en cas de fermeture d'entreprise, indiquées ci-dessous, les montants exprimés en franc et figurant à la deuxième colonne du tableau suivant sont remplacés par les montants exprimés en euro dans la troisième colonne du même tableau.</p>\n            <table>\n                <thead>\n                    <tr>\n                        <th>Article</th>\n                        <th>Montant en franc</th>\n                        <th>Montant en euro</th>\n                    </tr>\n                </thead>\n                <tbody>\n                    <tr>\n                        <td>ART. 7 alinea 1, 1°</td>\n                        <td>75 000</td>\n                        <td>1 859,20 EUR</td>\n                    </tr>\n                    <tr>\n                        <td>ART. 7 alinea 1, 6°</td>\n                        <td>900 000</td>\n                        <td>22 310,42 EUR</td>\n                    </tr>\n                </tbody>\n            </table>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.105Z",
+  "tokenUsage": {
+    "prompt": 1769,
+    "completion": 379,
+    "total": 2148
+  }
+}

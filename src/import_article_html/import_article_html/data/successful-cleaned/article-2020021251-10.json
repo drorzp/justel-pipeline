@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020021251",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les dates d'ouverture et de fermeture de la chasse à tir au petit gibier sont fixées comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">pour la bécasse des bois : du 15 octobre au 31 décembre ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">pour le faisan : du 1er octobre au 31 janvier ;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">pour la perdrix grise : du 1er septembre au 30 novembre ;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">pour le lièvre : du 1er octobre au 31 décembre.</span></li>\n            </ol>\n            <p class=\"intro-text\">La chasse à la perdrix grise et la chasse au lièvre sont uniquement autorisées sur les territoires associés en un conseil cynégétique agréé.</p>\n            <p class=\"intro-text\">Le règlement d'ordre intérieur d'un conseil cynégétique agréé peut interdire la chasse de la perdrix grise et du lièvre sur les territoires associés ou restreindre les périodes mentionnées à l'alinéa 1er, 3° et 4°.</p>\n            <p class=\"closing-text\">(NOTE : par son arrêt n° 253.411 du 30-03-2022 (<a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2022033003\" class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2022-03-30/03\" data-law-type=\"L\" data-article-number=\"3\">2022-03-30/03</a>), M.B. 02-05-2022, p. 40302), le Conseil d'Etat a annulé l'article 10, alinéa 1er, 3°, en ce qui concerne l'année cynégétique 2020-2021)</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.261Z",
+  "tokenUsage": {
+    "prompt": 2135,
+    "completion": 566,
+    "total": 2701
+  }
+}

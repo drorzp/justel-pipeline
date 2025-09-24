@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022020951",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Conformément à l'article 15/1, alinéa 2, du décret du 5 février 2016, le comité consultatif de l'hébergement touristique a pour tâche de rendre un avis, à la demande du ministre, sur les aspects suivants dans le délai fixé par le ministre :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les dispositions d'exécution du décret du 5 février 2016 et les adaptations envisagées de celles-ci ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les adaptations envisagées du décret précité ;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">l'application ou la mise en oeuvre pratique du décret précité.</span></li>\n            </ol>\n            <p class=\"intro-text\">Le ministre sollicite au moins l'avis du comité consultatif de l'hébergement touristique sur les aspects visés à l'alinéa 1er, 1° et 2°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.703Z",
+  "tokenUsage": {
+    "prompt": 1767,
+    "completion": 334,
+    "total": 2101
+  }
+}

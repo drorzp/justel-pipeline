@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016A05561",
+  "articleNumber": "D.IV.10.1_COMMUNAUTE_GERMANOPHONE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-D-IV-10-1_COMMUNAUTE_GERMANOPHONE\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article D.IV.10.1_COMMUNAUTE_GERMANOPHONE</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-11-21/08\" data-law-type=\"DCG\" data-article-number=\"68\">\n                <p class=\"intro-text\">Un permis ou un certificat d'urbanisme n° 2 peut être octroyé en dérogation à la destination d'une zone d'activité économique mixte, industrielle ou spécifique, dans la mesure où le projet concerne des actes et travaux conformes à la destination d'une zone d'activité économique mixte, industrielle ou spécifique et si :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le terrain est situé à front d'une voirie publique suffisamment équipée en eau, électricité et égouttage, pourvue d'un revêtement solide et d'une largeur suffisante, compte tenu de la situation des lieux;</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et que le projet est conciliable avec le voisinage.</span></li>\n                </ol>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.775Z",
+  "tokenUsage": {
+    "prompt": 1848,
+    "completion": 349,
+    "total": 2197
+  }
+}

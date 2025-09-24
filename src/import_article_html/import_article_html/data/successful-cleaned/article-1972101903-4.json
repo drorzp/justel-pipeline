@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1972101903",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'arrêté ministériel du 9 décembre 1968 relatif à l'exécution des articles 221, 223 et 227 du Code judiciaire et l'arrêté ministériel du 25 février 1969 relatif à l'exécution des articles 223 et 227 du Code judiciaire dans les communes visées à l'article 8,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">1°</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2°</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, sont abrogés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.603Z",
+  "tokenUsage": {
+    "prompt": 1611,
+    "completion": 267,
+    "total": 1878
+  }
+}

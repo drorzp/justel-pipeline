@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018204321",
+  "articleNumber": "153",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-153\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 153</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent décret entre en vigueur le 1er septembre 2018, à l'exception :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">de l'article 116, qui entre en vigueur le jour de l'adoption du décret;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">des articles 58 et 59, qui produisent leurs effets le 1er septembre 2010;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">des articles 15, 16, 27, 32, 96, 97, 107 et 125, qui produisent leurs effets le 1er septembre 2016;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">des articles 65, 5° et 6°, 148 et 149, qui produisent leurs effets le 1er septembre 2017;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">des articles 2, 2°, 3, 2°, 4, 1°, 5, 1°, 6 à 14, 19 à 25, 29, 30, 33, 35, 37, 54, 55, 56, 61, 2° à 4°, 62, 63, 83, 84, 88 à 95, 100 à 106, 108, 109, 111, 112, 114, 115, 119, 120, 123, 124, 126, 127, 142 et 143, 2°, qui entrent en vigueur le 1er juillet 2018;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">de l'article 34, qui entre en vigueur le 1er janvier 2019.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.322Z",
+  "tokenUsage": {
+    "prompt": 2178,
+    "completion": 579,
+    "total": 2757
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015585",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 2sexies de l'arrêté royal du 15 février 1999 fixant la liste des programmes de soins, visée à l'article 12 de la loi coordonnée le 10 juillet 2008 sur les hôpitaux et autres établissements de soins, et indiquant les articles de la loi coordonnée le 10 juillet 2008 relative aux hôpitaux et autres établissements de soins applicables à ceux-ci, inséré par l'arrêté du 19 avril 2014, le paragraphe 2 est remplacé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les articles 20, 36, 60, 66, 67, 72, 73, 74, 75, 76, 78 et 92 de la loi précitée sont applicables aux programmes de soins visés au § 1er, 1° et 2°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.463Z",
+  "tokenUsage": {
+    "prompt": 1769,
+    "completion": 305,
+    "total": 2074
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991003662",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le recours visé à l'article 12, § 3 de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers doit être formé dans les quinze jours:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">de la notification des décisions visées à l'article 12, § 1er, alinéa 1er, 1°, 4° et 5° de la même loi;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de l'expiration des délais visés à l'article 12, § 1er, alinéa 1er, 4° de la même loi, à l'article 19, alinéa 2, de l'arrêté royal du 18 septembre 1990 relatif aux Comités de la cote auprès des Bourses de valeurs mobilières du Royaume et à l'admission des valeurs mobilières à la cote, à l'article 37, alinéa 2 de l'arrêté royal du 18 janvier 1991 fixant le règlement de la bourse de valeurs mobilières de Bruxelles et à l'article 54 de l'arrêté royal du 14 octobre 1991 fixant le règlement de la Bourse de valeurs mobilières d'Anvers.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le recours est adressé au Ministre des Finances et notifié à la Commission de la Bourse par lettre recommandée à la poste ou par lettre avec accusé de réception.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.739Z",
+  "tokenUsage": {
+    "prompt": 1997,
+    "completion": 442,
+    "total": 2439
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019202430",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les listes tenues par les fournisseurs comprennent les éléments suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le nom de la variété ainsi que, le cas échéant, ses synonymes courants;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">des indications concernant la sélection conservatrice de la variété et le système de multiplication appliqué;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">la description de la variété, au moins sur la base de ses caractères et de leurs expressions, conformément aux dispositions relatives aux demandes à déposer pour la protection communautaire des obtentions végétales, lorsque celles-ci sont applicables;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">des indications, dans la mesure du possible, de la manière dont la variété diffère des autres variétés qui lui ressemblent le plus.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">L'alinéa 1er, 2° et 4°, ne s'applique pas aux fournisseurs dont l'activité se limite à la mise sur le marché de matériels de multiplication de plantes ornementales.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.420Z",
+  "tokenUsage": {
+    "prompt": 1894,
+    "completion": 390,
+    "total": 2284
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010027184",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 31</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'alinéa 1er de l'article 11 du Code wallon du Logement est remplacé par la disposition suivante : &quot; Le permis de location est délivré au bailleur dans les quinze jours du dépôt de sa déclaration de mise en location, à condition que cette déclaration soit accompagnée d'une attestation établissant qu'après enquête le logement faisant l'objet de la demande de permis de location réponde aux conditions fixées par l'article 10. Cette attestation :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">émane d'une personne agréée à cet effet par le Gouvernement pour les conditions visées aux 1°, 1°bis et 3° de l'article 10;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">émane de la commune pour les conditions visées aux 2° et 4° de l'article 10. &quot;</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.250Z",
+  "tokenUsage": {
+    "prompt": 1740,
+    "completion": 301,
+    "total": 2041
+  }
+}

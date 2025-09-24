@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042066",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 du décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes, remplacé par les décrets des 25 avril 2014 et 8 décembre 2017, il est ajouté un point 9° et un point 10°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">\" 9° titulaire du permis : le titulaire du permis, visé à l'article 105, § 2, alinéa 1er, 1°, du décret du 25 avril 2014 relatif au permis d'environnement ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">10° la personne qui a procédé à la notification : la personne qui a procédé à la notification, visée à l'article 105, § 2, alinéa 1er, 1°, du décret du 25 avril 2014 relatif au permis d'environnement.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.151Z",
+  "tokenUsage": {
+    "prompt": 1791,
+    "completion": 336,
+    "total": 2127
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018040309",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans la même loi, entrent en vigueur le 1er décembre 2018 :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">les articles 10, 4° et 11, 14° ;</li>\n        <li class=\"sub-provision\" data-marker=\"b)\">l'article 35 dans la mesure où, dans la section 7 de l'article 1er de l'annexe au Code judiciaire, il remplace le canton de Torhout, le premier canton d'Ypres et le second canton d'Ypres-Poperinge, les cantons de Menin, de Wervik, de Dixmude et de Furnes-Nieuport par la section 7, 8. à 10., 14. et 17 ;</li>\n        <li class=\"sub-provision\" data-marker=\"c)\">l'article 37 dans la mesure où, dans la section 9 de l'article 1er de l'annexe au Code judiciaire, il remplace les cantons d'Arlon-Messancy, de Marche-en-Famenne-Durbuy, de Vielsalm-La-Roche-en-Ardenne-Houffalize, de Bastogne-Neufchâteau et de Saint-Hubert-Bouillon-Paliseul par la section 9, 1. et 3. à 5.</li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.348Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 376,
+    "total": 2273
+  }
+}

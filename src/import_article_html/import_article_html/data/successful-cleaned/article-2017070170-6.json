@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017070170",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 6 du même arrêté est remplacé par la disposition suivante : \" Art. 6. Les prestataires de services sont, pour les chèques-conseil en création ou en reprise d'entreprise et jusqu'au 31 décembre 2017 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les prestataires de services agréés dans le cadre de l'article 32 du décret dont les compétences et expertises sont en adéquation avec les coûts admissibles et identifiés par la DGO6, les accompagnateurs agréés dans le cadre du décret visé à l'article 35 du décret et les agences-conseil agréés par la DGO6 pour les coûts admissibles visés à l'article 5, § 2, 1° et 4° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les prestataires de services visés à l'annexe 8 pour les coûts admissibles visés à l'article 5, § 2, 2° et 3° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les prestataires de services agréés par la SOWACCESS pour les coûts admissibles visés à l'article 5, § 2, 5°.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">A partir du 1er janvier 2018, seuls les prestataires agréés ou labellisés par la DGO6, après avis du centre de référence, pour les coûts admissibles du chèque-conseil en création ou reprise d'entreprise, conformément à l'article 10 du décret et aux articles 12 à 14 de l'arrêté, pourront réaliser les prestations. Pour les coûts admissibles visés à l'article 5, § 2, 5°, l'avis spécifique de la SOWACCESS sera également sollicité avant la labellisation.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.625Z",
+  "tokenUsage": {
+    "prompt": 2156,
+    "completion": 534,
+    "total": 2690
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999021025",
+  "articleNumber": "155",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-155\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 155</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La cotisation patronale destinée au régime des allocations familiales et la cotisation patronale destinée au régime des maladies professionnelles, visées respectivement à l'article 18 et 18bis de l'arrêté royal du 25 octobre 1985 portant exécution du Chapitre Ier, Section 1ère de la loi du 1er août 1985 portant des dispositions sociales sont assimilées aux cotisations patronales de sécurité sociale, visées à l'article 38, § 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, chaque fois qu'une exonération des cotisations visées à l'article 38, § 3,</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">5° et 6°, de la loi précitée est prévue par une mesure prise au moyen d'une loi ou d'un arrêté royal et qui est également applicable aux travailleurs occupés par les administrations affiliées à l'Office national de Sécurité sociale des administrations provinciales et locales.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.283Z",
+  "tokenUsage": {
+    "prompt": 1884,
+    "completion": 374,
+    "total": 2258
+  }
+}

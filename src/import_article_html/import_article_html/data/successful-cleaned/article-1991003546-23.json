@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991003546",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Seules les dispositions du chapitre 1er du présent arrêté (et l'article 16, §1, alinéa 1, 2° et 3°, alinéa 2 et §2) sont applicables aux émetteurs visés à l'article 3 de la loi précitée du 22 juillet 1991 et aux billets de trésorerie émis par ces émetteurs. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1998-12-17/35\" data-law-type=\"AR\" data-article-number=\"8\">&lt;AR 1998-12-17/35, art. 8, 007; En vigueur : 01-02-1999&gt;</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.739Z",
+  "tokenUsage": {
+    "prompt": 1704,
+    "completion": 244,
+    "total": 1948
+  }
+}

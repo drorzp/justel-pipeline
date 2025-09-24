@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1976020901",
+  "articleNumber": "27bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">(En Région wallonne, en ce qui concerne la protection du voisinage et de l'environnement ainsi que l'enlèvement, l'élimination ou la valorisation :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">par \" autorisation d'acquisition \" au sens de l'article 24, 2° et de l'article 25 du présent arrêté, il faut entendre \" agrément en qualité de collecteur \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la redevance visée au présent chapitre est versée ou tirée \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-07-13/32\" data-law-type=\"ARW\" data-article-number=\"1\">au Fonds pour la gestion des déchets crée par l'article 44 du décret fiscal du 22 mars 2007 favorisant la prévention et la valorisation des déchets en Région wallonne et portant modification du décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales directes.</span>\n          </span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">) \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1992-04-09/31\" data-law-type=\"ARW\" data-article-number=\"82\">&lt;ARW 1992-04-09/31, art. 82, ° 2, 012;**En vigueur :**23-06-1992&gt;</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.618Z",
+  "tokenUsage": {
+    "prompt": 2004,
+    "completion": 467,
+    "total": 2471
+  }
+}

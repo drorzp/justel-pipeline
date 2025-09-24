@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010011181",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 91, § 1er du même arrêté, remplacé par l'arrêté royal du 1er juillet 1992 et modifié par l'arrêté royal du 3 février 2003, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'alinéa 3, les mots &quot; ci-après: 1° les cotisations à payer dans le cadre de l'assurance continuée; 2° les cotisations à payer par les anciens colons. &quot;, sont remplacés par les mots &quot; à payer dans le cadre de l'assurance continuée. &quot;;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans l'alinéa 4, les mots &quot; au sens des 1° et 2° ci-dessus &quot; sont remplacés par &quot; à payer dans le cadre de l'assurance continuée &quot;;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">dans l'alinéa 5, les mots &quot; qui sont uniquement assujettis au régime de l'assurance obligatoire contre la maladie et l'invalidité, secteur des indemnités et assurance maternité &quot; sont insérés entre les mots &quot; article 7bis de l'arrêté royal n° 38 &quot; et les mots &quot; que pour autant &quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.243Z",
+  "tokenUsage": {
+    "prompt": 1963,
+    "completion": 448,
+    "total": 2411
+  }
+}

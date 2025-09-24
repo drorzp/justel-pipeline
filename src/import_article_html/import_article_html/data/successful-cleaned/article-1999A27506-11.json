@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A27506",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Conseil consultatif arrête son règlement d'ordre intérieur et le soumet à l'approbation des Gouvernements.</p>\n      <p class=\"intro-text\">Le Conseil consultatif adopte ses décisions par consensus ou, à défaut, à la majorité des deux tiers des membres présents. Seuls les membres visés à l'article 8, 2° et 3°, ont droit de vote.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.274Z",
+  "tokenUsage": {
+    "prompt": 1556,
+    "completion": 167,
+    "total": 1723
+  }
+}

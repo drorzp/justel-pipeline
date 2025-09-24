@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071454",
+  "articleNumber": "R2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article R2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Loi du 9 août 1963, article 2, remplacé par la loi du 15 février 1993, article 3; les mots \"la présente loi\" sont remplacés par les mots \"la présente loi coordonnée\"; les mots \"visés à l'article 10\" sont insérés à la fin au point a); les mots \"de la présente loi\" sont omis après la référence \"article 86, § 1er\"; le mot \"prestataire\" est remplacé par le mot \"dispensateur\"; dans le texte néerlandais, les mots \"Minister tot wiens bevoegdheid de Sociale voorzog behoort\" sont remplacés par les mots \"Minister die de Sociale voorzorg onder zijn bevoegdheid heeft\", les références \"l'article 21, 1° à 9° et 13°\", \"l'article 23\" et \"l'article 45\" sont remplacés par les références \"l'article 32, alinéa 1er, 1° à 12° et 16°\", \"l'article 34\" et \"l'article 86\".\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.950Z",
+  "tokenUsage": {
+    "prompt": 1965,
+    "completion": 317,
+    "total": 2282
+  }
+}

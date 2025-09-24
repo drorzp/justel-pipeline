@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005022567",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Roi fixe la date d'entrée en vigueur de la présente loi, au plus tard le premier jour du troisième mois qui suit sa publication au Moniteur belge.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation au § 1er, l'article 5, 3°, entre en vigueur à une date à fixer par le Roi, par un arrêté délibéré en Conseil des ministres.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 7 entre en vigueur à une date à fixer par le Roi, au plus tard un an après l'entrée en vigueur de la présente loi telle que visée au § 1er.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <div class=\"paragraph-content\">\n                <p>(NOTE : Entrée en vigueur fixée au 01-12-2005, à l'exception des art. 5, 3° et 7 par AR <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2005081003\">2005-08-10/03</a>, art. 10)</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <div class=\"paragraph-content\">\n                <p>(NOTE : Entrée en vigueur de l'art. 5,3° fixée au 01-09-2007 par AR <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2007042655\">2007-04-26/55</a>, art. 1)</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.886Z",
+  "tokenUsage": {
+    "prompt": 2113,
+    "completion": 552,
+    "total": 2665
+  }
+}

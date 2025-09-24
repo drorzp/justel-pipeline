@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991015058",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>A l'expiration de chaque période de service les coopérants O.N.G. agréés bénéficient durant une période transitoire de cinq jours par mois de séjour outre-mer pendant cette période de service :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"a)\">\n            <span class=\"provision-text\">du régime de sécurité sociale tel que défini à l'article 12, 4° à 6°;</span>\n          </li>\n          <li class=\"provision\" data-number=\"b)\">\n            <span class=\"provision-text\">des allocations prévues à l'article 11;</span>\n          </li>\n          <li class=\"provision\" data-number=\"c)\">\n            <span class=\"provision-text\">des primes et allocations prévues à l'article 12, 1° et 2°.</span>\n          </li>\n        </ol>\n        <p>Ces avantages ne peuvent pas être cumulés avec un revenu tel qu'un salaire, un traitement ou un revenu de remplacement.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Après au moins cinq années d'agrément conformément au présent arrêté les coopérants O.N.G. pourront bénéficier en outre des avantages prévus au § 1er durant une période unique de recyclage de maximum six mois en vue de se préparer à leur réinsertion dans le marché de l'emploi belge. Ce recyclage fera l'objet d'une demande. Cette demande et le déroulement du recyclage sont soumis au modalités déterminées par le Ministre.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.008Z",
+  "tokenUsage": {
+    "prompt": 1967,
+    "completion": 466,
+    "total": 2433
+  }
+}

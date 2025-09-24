@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035688",
+  "articleNumber": "F55",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-F55\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article F55</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article XIII 76 du même arrêté est modifié comme suit :</p>\n            <p class=\"intro-text\">\" Art. XIII 76. Sans préjudice de l'article XIII 75, 2°, 3° et 4°, et de l'article XIII 81, le montant du pécule de vacances et/ou de l'allocation de fin année :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"provision-text\">est fixé respectivement à un douzième ou un neuvième du montant mensuel pour chaque période de prestations couvrant un mois entier;</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"provision-text\">est adapté conformément à l'article XIII 21, § 4 et à l'article XIII 24, selon le cas, s'il n'a pas été fourni de prestations complètes au cours de l'année de référence entière ou de la période de référence.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.258Z",
+  "tokenUsage": {
+    "prompt": 1785,
+    "completion": 313,
+    "total": 2098
+  }
+}

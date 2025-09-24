@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018204321",
+  "articleNumber": "74",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-74\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 74</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans le même chapitre, il est inséré un article 93.88 rédigé comme suit :</p>\n            <p class=\"intro-text\">\" Art. 93.88 - Inscription des élèves\n            Les jeunes visés à l'article 93.83 peuvent être inscrits en tant qu'élèves réguliers dans la structure d'accrochage scolaire si, au moment de ladite inscription, ils remplissent les conditions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">ils sont soumis à l'obligation scolaire;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">ils sont âgés d'au moins douze ans;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">ils sont inscrits dans un établissement scolaire ou de formation dans les classes moyennes en Communauté germanophone ou ils ont leur domicile en Communauté germanophone;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">la décision de l'inspection scolaire mentionnée à l'article 93.91 préconise ladite inscription.</span>\n                </li>\n            </ol>\n            <p>En raison de circonstances exceptionnelles, l'inspection scolaire peut, dans certains cas, déroger aux dispositions mentionnées à l'alinéa 1er, 1° et 2°.</p>\n            <p>En outre, l'élève inscrit dans la structure d'accrochage scolaire reste inscrit dans l'école ou le ZAWM qu'il fréquentait au moment de l'inscription dans ladite structure.</p>\n            <p class=\"closing-text\">L'élève satisfait à l'obligation scolaire s'il fréquente une structure d'accrochage scolaire. \"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.320Z",
+  "tokenUsage": {
+    "prompt": 2046,
+    "completion": 500,
+    "total": 2546
+  }
+}

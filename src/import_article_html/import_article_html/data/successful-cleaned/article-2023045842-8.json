@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045842",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2, alinéa 1er, du même arrêté, modifié par les arrêtés du Gouvernement flamand des 13 janvier 2023 et 12 mai 2023, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les points 1° et 2° sont remplacés par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">une commission d'agrément pour les titres professionnels particuliers et les qualifications professionnelles particulières, ayant pour mission de fournir des avis motivés à l'administration concernant les demandes d'agrément autorisant le praticien de l'art infirmier à porter un titre professionnel particulier ou à se prévaloir d'une qualification particulière comme prévu à l'article 85 de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015 ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">une commission d'agrément pour l'agrément comme praticien de l'art infirmier, ayant pour mission de fournir des avis motivés à l'administration concernant les demandes d'agrément comme praticien de l'art infirmier comme prévu aux articles 45 et 46 de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé ;</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.480Z",
+  "tokenUsage": {
+    "prompt": 1969,
+    "completion": 442,
+    "total": 2411
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006029111",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Aux articles suivants du même décret, le terme \" spécial \" est remplacé par le terme \" spécialisé \" :</p>\n            <ol>\n                <li class=\"sub-provision\" data-marker=\"a)\">Article 6;</li>\n                <li class=\"sub-provision\" data-marker=\"b)\">Article 13 § 3;</li>\n                <li class=\"sub-provision\" data-marker=\"c)\">Article 179, 1° et 2°;</li>\n                <li class=\"sub-provision\" data-marker=\"d)\">Article 180, alinéa 3.</li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.680Z",
+  "tokenUsage": {
+    "prompt": 1548,
+    "completion": 207,
+    "total": 1755
+  }
+}

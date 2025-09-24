@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1965041207",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le paiement de la main à la main doit, sauf accord des parties, se faire au lieu du travail ou à proximité de celui-ci.</p>\n      <p class=\"intro-text\">Sauf pour les travailleurs qui y sont occupés, le paiement ne peut en aucun cas être effectué:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans une cantine, un local ou sont débités des boissons, des comestibles ou des marchandises quelconques</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans des lieux de divertissement</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans des locaux attenant aux endroits spécifiés sous 1° et 2° ou dans des dépendances de ceux-ci</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.564Z",
+  "tokenUsage": {
+    "prompt": 1696,
+    "completion": 302,
+    "total": 1998
+  }
+}

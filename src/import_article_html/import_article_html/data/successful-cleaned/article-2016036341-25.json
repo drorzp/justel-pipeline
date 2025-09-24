@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036341",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 8.2 du même arrêté, modifié par les arrêtés du Gouvernement flamand des 17 janvier 2014 et 27 février 2015, les points 4°, 7° et 8° sont abrogés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.636Z",
+  "tokenUsage": {
+    "prompt": 1464,
+    "completion": 137,
+    "total": 1601
+  }
+}

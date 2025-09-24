@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998027327",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 6 du même arrêté est complété comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">devant le 1er alinéa est porté l'indication \" 1° \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un 2° et 3° rédigés comme suit sont insérés à l'article 6 :</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">\" 2° A l'article 35 du règlement général, le 1er alinéa est remplacé par la phrase suivante : \" Le receveur du centre public d'aide sociale est responsable de l'encaisse.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">A l'article 53 du règlement général, les mots \" de l'article 270 de la nouvelle loi communale \" sont remplacés par les mots \" de l'article 115 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.095Z",
+  "tokenUsage": {
+    "prompt": 1809,
+    "completion": 371,
+    "total": 2180
+  }
+}

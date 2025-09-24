@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012029086",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La fédération de tir sportif reconnue est chargée d'organiser les épreuves visées à l'article 11, § 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">3°. Le Gouvernement en fixe le contenu, les modalités d'organisation ainsi que la méthode d'organisation.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.257Z",
+  "tokenUsage": {
+    "prompt": 1518,
+    "completion": 189,
+    "total": 1707
+  }
+}

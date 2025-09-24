@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011334",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3 du même arrêté sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au point 3°, le membre de phrase \" , intégrée dans la note actualisée d'examen des alternatives \" est ajouté ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les points 6°, 7° et 8° sont remplacés par les dispositions suivantes :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">de la fixation du projet de décision de préférence conformément à l'article 14 du décret précité ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">d'une enquête publique sur le projet de décision de préférence et sur le RIE du projet conformément à l'article 15 du décret précité et au chapitre 3, section 3, du présent arrêté ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">d'une décision du service compétent pour la rédaction de rapports d'incidences sur l'environnement, quant à l'approbation ou à la désapprobation du RIE, conformément à l'article 15/1 du décret précité et à l'article 36 du présent arrêté ;</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.759Z",
+  "tokenUsage": {
+    "prompt": 1920,
+    "completion": 444,
+    "total": 2364
+  }
+}

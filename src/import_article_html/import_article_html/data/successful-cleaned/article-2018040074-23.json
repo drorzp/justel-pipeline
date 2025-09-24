@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018040074",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 de l'arrêté du Gouvernement flamand du 27 novembre 2015 portant exécution du décret du 25 avril 2014 relatif au permis d'environnement, modifié par les arrêtés du Gouvernement flamand des 10 février 2017 et 24 février 2017, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, le point 28° est abrogé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 2 est complété par un point 4° et un point 5°, rédigés comme suit :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"4°\">\n              <span class=\"provision-text\">les définitions, visées à l'article 2 du décret du 15 juillet 2016 relatif à la politique d'implantation commerciale intégrale ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"5°\">\n              <span class=\"provision-text\">les définitions, visées à l'article 2 du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.349Z",
+  "tokenUsage": {
+    "prompt": 1876,
+    "completion": 407,
+    "total": 2283
+  }
+}

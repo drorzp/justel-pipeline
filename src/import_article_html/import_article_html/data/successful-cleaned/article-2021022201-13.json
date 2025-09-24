@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021022201",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er de l'arrêté du Gouvernement wallon du 8 novembre 2018 accordant la possibilité d'un défraiement pour l'évacuation et le transport vers le centre de collecte des sangliers abattus dans le cadre de la lutte contre la propagation de la peste porcine africaine, modifié par les arrêtés du Gouvernement wallon des 30 novembre 2018 et 25 janvier 2019, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le 4° est remplacé par ce qui suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"4°\">\n                            <span class=\"provision-text\">zone de surveillance : zone opérationnelle reprenant toutes les anciennes zones désignées comme zones infectées à un moment ou un autre depuis le début de la crise de la peste porcine africaine le 13 septembre 2018;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le 5° et le 6° sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.184Z",
+  "tokenUsage": {
+    "prompt": 1914,
+    "completion": 370,
+    "total": 2284
+  }
+}

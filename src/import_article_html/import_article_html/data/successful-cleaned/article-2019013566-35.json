@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019013566",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans la même sous-section 1re, il est inséré un article 61/29-6, rédigé comme suit :</p>\n      <p>\"Art.61/29-6. Le ministre ou son délégué notifie les décisions suivantes au ressortissant de pays tiers :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les décisions mettant fin à l'autorisation de travail prises par l'autorité compétente;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les décisions de refus de l'autorisation de séjour, de non-renouvellement ou mettant fin à l'autorisation de séjour prises en vertu de la présente section;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les décisions d'octroi ou de renouvellement de l'autorisation de travail et de l'autorisation de séjour sous la forme d'un acte administratif unique.</span></li>\n      </ol>\n      <p>Le ministre ou son délégué informe l'employeur des décisions visées à l'alinéa 1er, 1° et 3°, dans les cas et conditions prévues par l'accord de coopération du 2 février 2018.\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.333Z",
+  "tokenUsage": {
+    "prompt": 1853,
+    "completion": 374,
+    "total": 2227
+  }
+}

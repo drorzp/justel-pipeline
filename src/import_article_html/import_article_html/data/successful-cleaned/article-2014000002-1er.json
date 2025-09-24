@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014000002",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans les articles VI.4bis, c), 4°, inséré par l'arrêté ministériel du 5 septembre 2005, VI.8, 4°, et VI.11, 4°, AEPol, les mots \"VIII.IV.10, 1°, 4°, 5° et 6°, PJPol\" sont à chaque fois remplacés par les mots \"VIII.IV.10, 1°, 4° et 6°, PJPol\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.140Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 188,
+    "total": 1858
+  }
+}

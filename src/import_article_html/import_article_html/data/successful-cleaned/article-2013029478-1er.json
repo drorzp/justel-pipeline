@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013029478",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 4ter de la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire, tel que modifié par le décret du 12 juillet 2012, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">dans le paragraphe 2, l'alinéa 5 est remplacé par ce qui suit :</span>\n                    <blockquote>\n                        <p>\"Les élèves sportifs de haut niveau, espoirs sportifs ou partenaires d'entraînement, reconnus en application du décret du 8 décembre 2006 visant l'organisation et le subventionnement du sport en Communauté française, peuvent remplacer une ou plusieurs options de base simples ou une option de base groupée par un nombre équivalent de périodes d'entraînement sportif sans pouvoir déroger à l'alinéa 1er, 1° à 4°.\"</p>\n                    </blockquote>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">dans le paragraphe 3, l'alinéa 8 est remplacé par ce qui suit :</span>\n                    <blockquote>\n                        <p>\"Les élèves sportifs de haut niveau, espoirs sportifs ou partenaires d'entraînement, reconnus comme tels en application du décret du 8 décembre 2006 précité visant l'organisation et le subventionnement du sport en Communauté française, peuvent remplacer une ou plusieurs options de base simples ou une option de base groupée par un nombre équivalent de périodes d'entraînement sportif sans pouvoir déroger à l'alinéa 1er, 1° et 2°, et à l'alinéa 2.\"</p>\n                    </blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.048Z",
+  "tokenUsage": {
+    "prompt": 2075,
+    "completion": 484,
+    "total": 2559
+  }
+}

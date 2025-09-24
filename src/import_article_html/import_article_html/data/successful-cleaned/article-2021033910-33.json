@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021033910",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent chapitre entre en vigueur le 1er janvier 2022. Par dérogation à l'alinéa 1er, l'article 25, 2°, 5°, 7°, 8°, 10°, 11° et 15°, entre en vigueur le 1er janvier 2026.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.192Z",
+  "tokenUsage": {
+    "prompt": 1546,
+    "completion": 152,
+    "total": 1698
+  }
+}

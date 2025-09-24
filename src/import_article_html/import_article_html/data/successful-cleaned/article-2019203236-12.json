@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019203236",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 10, § 1er, du même arrêté, modifié par les arrêtés du Gouvernement des 20 décembre 2012 et 24 avril 2014, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, les </span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"1°\"><span class=\"provision-text\">1°</span></li>\n                        <li class=\"sub-provision\" data-marker=\"2°\"><span class=\"provision-text\">2° sont abrogés;</span></li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans l'alinéa 2, les mots \" et de l'enseignement moyen \" sont insérés entre les mots \" de l'enseignement secondaire supérieur \" et le mot \" reçoivent \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.426Z",
+  "tokenUsage": {
+    "prompt": 1718,
+    "completion": 331,
+    "total": 2049
+  }
+}

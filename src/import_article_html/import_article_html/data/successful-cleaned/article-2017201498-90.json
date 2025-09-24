@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017201498",
+  "articleNumber": "90",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-90\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 90</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 9, alinéa 3, 1°, de l'arrêté du Gouvernement wallon du 21 juillet 2016 portant exécution du chapitre II du Titre IV du Code wallon de l'Agriculture relatif aux activités de formation permanente au sens des articles D.99, § 2, 2° et D. 104, alinéa 1er, 1°, du Code wallon de l'Agriculture dans les secteurs agricole et sylvicole, les mots \"article 9\" sont remplacés par les mots \"article 8\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.631Z",
+  "tokenUsage": {
+    "prompt": 1658,
+    "completion": 207,
+    "total": 1865
+  }
+}

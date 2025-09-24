@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999012200",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 45, alinéa 3 de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage, modifié par l'arrêté royal du 31 décembre 1992, est remplacé par la disposition suivante :</p>\n      <blockquote>\n        <p>\" Le Ministre détermine, après avis du Comité de gestion :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">les conditions et les modalités qui doivent être remplies aussi bien par le chômeur que par le tiers afin qu'une activité bénévole pour le compte d'un tiers puisse être effectuée avec maintien du droit aux allocations;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">les cas dans lesquels une indemnité ou un avantage matériel qui est accordé à un chômeur dans le cadre des activités qu'il effectue au profit d'un particulier ou d'un service public, ou dans le cadre du bénévolat ou d'activités sportives comme sportif amateur, ne sont pas pris en considération pour l'application de l'alinéa 1er, 2° et de l'article 46.</span>\n          </li>\n        </ol>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.230Z",
+  "tokenUsage": {
+    "prompt": 1835,
+    "completion": 364,
+    "total": 2199
+  }
+}

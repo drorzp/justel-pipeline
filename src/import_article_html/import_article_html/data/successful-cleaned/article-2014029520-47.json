@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029520",
+  "articleNumber": "47",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-47\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 47</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les associations reconnues dans le cadre de l'axe 4, <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-05-02/54\" data-law-type=\"ACF\" data-article-number=\"50\">tel que visé à l'article 3, § 5, du décret</span>, du décret justifient au moins un équivalent temps plein affecté aux missions prévues par le présent arrêté pour cet axe.</p>\n            <p><span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2019-05-02/54\" data-law-type=\"ACF\" data-article-number=\"51\">Le nombre de points visé à l'article 9, alinéa 3, du décret, permet la concrétisation des missions visées à l'article 5/1, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li><li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5°</span></li></ol>, du décret. Il est déterminé par analogie au cumul des forfaits de l'axe 1, tel que visé à l'article 6, § 1er, et de l'axe 2, tel que visé à l'article 13, § 1er. Toutefois, il ne contraint pas les fédérations représentatives à réaliser leurs missions selon les exigences spécifiques à ces axes.</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.107Z",
+  "tokenUsage": {
+    "prompt": 2024,
+    "completion": 421,
+    "total": 2445
+  }
+}

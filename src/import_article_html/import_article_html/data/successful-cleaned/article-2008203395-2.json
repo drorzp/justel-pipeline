@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008203395",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>L'article 2 du même arrêté est remplacé par la disposition suivante : \" Art. 2.</p>\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Sont agents forestiers, les fonctionnaires de l'Administration forestière visés à l'article 1er, 1°, 2° et 3°.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Sont préposés forestiers, les fonctionnaires de l'Administration forestière visés à l'article 1er, 4°, 5° et 6°. Parmi les préposés forestiers :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">sont brigadiers forestiers, les fonctionnaires visés à l'article 1er, 5°, occupant un emploi d'encadrement de rang C1;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">sont gardes forestiers, les fonctionnaires visés à l'article 1er, 5° et 6°, affectés à un triage du Département de la Nature et des Forêts.\"</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.066Z",
+  "tokenUsage": {
+    "prompt": 1886,
+    "completion": 418,
+    "total": 2304
+  }
+}

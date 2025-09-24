@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034096",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La demande de subvention pour les projets visés à l'article 4, alinéa 1er, 2°, contient tous les éléments suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le formulaire de demande électronique, dûment rempli ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">une présentation de l'entreprise, de ses activités et de son plan d'entreprise ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">un plan d'exportation concis accompagné du plan d'exécution prévu sur une période maximale de neuf mois et l'estimation des coûts associés d'au moins le montant du forfait unique.</span></li>\n      </ol>\n      <p>Les éléments visés à l'alinéa 1er, 2° et 3°, font partie intégrante de la demande.</p>\n      <p class=\"closing-text\">Il incombe au demandeur de joindre à sa demande tous les éléments requis. Le demandeur indique sur le formulaire de demande électronique à quel moment le dossier est considéré comme complet pour lui. Le demandeur dispose de 10 jours au maximum suivant la date à laquelle il a déclaré le dossier comme étant complet pour éventuellement le compléter. A l'issue de ce délai, un dossier incomplet est déclaré irrecevable. L'administrateur dirigeant établit le formulaire de demande.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.775Z",
+  "tokenUsage": {
+    "prompt": 1923,
+    "completion": 414,
+    "total": 2337
+  }
+}

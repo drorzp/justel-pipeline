@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044502",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le présent chapitre entre en vigueur le 31 décembre 2020.</p>\n                <p>Les articles 7,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                </ol>\n                <p>8 sont applicables aux périodes imposables qui sont clôturées à partir du 31 décembre 2020.</p>\n                <p>L'article 9 s'applique aux dividendes visés à l'article 202, § 1er, 1° et 2°, du Code des impôts sur les revenus 1992, alloués ou attribués à partir du 1er janvier 2021.</p>\n                <p>L'article 10 s'applique aux paiements effectués à partir du 1er janvier 2021.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.079Z",
+  "tokenUsage": {
+    "prompt": 1672,
+    "completion": 301,
+    "total": 1973
+  }
+}

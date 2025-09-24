@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006012192",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 9 du même arrêté sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">le § 1er est complété comme suit : \" Il doit couvrir tous les employeurs du secteur public visés à l'article 1er, alinéa 1er, 2° et 3° et visés à l'article 1er, alinéa 2. \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">le § 2, a) est abrogé;</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">au § 2, f), les mots \" ; ce mécanisme peut consister en un rapport semestriel \" sont supprimés;</span>\n      </li>\n      <li class=\"provision\" data-number=\"4°\">\n        <span class=\"provision-text\">au § 2, le g) est abrogé;</span>\n      </li>\n      <li class=\"provision\" data-number=\"5°\">\n        <span class=\"provision-text\">le § 2, alinéa 2 est abrogé;</span>\n      </li>\n      <li class=\"provision\" data-number=\"6°\">\n        <span class=\"provision-text\">un § 3 rédigé comme suit est inséré :</span>\n        <section class=\"paragraph\" id=\"para-3\">\n          <h3 class=\"paragraph-marker\">§ 3.</h3>\n          <div class=\"paragraph-content\">\n            <p>L'accord-cadre ne peut en aucun cas déléguer au Fonds la détermination des éléments visés au § 2.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.826Z",
+  "tokenUsage": {
+    "prompt": 1973,
+    "completion": 490,
+    "total": 2463
+  }
+}

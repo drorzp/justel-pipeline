@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004C14121",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les rapports visés à l'article 11 et l'avis visé à l'article 13 sont transmis au Conseil d'Administration ou à son délégué.</p>\n            <p class=\"intro-text\">Le Conseil d'Administration ou son délégué est habilité à :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">nommer le stagiaire à la fin de son stage;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">décider de prolonger la période de stage;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">ou bien, licencier le stagiaire.</span></li>\n            </ol>\n            <p>Dans les cas prévus à l'alinéa 2, 2° et 3° le stagiaire peut introduire un recours auprès de la chambre de recours conformément aux articles 72 et suivants.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.734Z",
+  "tokenUsage": {
+    "prompt": 1710,
+    "completion": 313,
+    "total": 2023
+  }
+}

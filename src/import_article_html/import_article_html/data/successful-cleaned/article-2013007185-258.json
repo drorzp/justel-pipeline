@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013007185",
+  "articleNumber": "258",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-258\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 258</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 168 de la même loi est remplacé par ce qui suit :</p>\n            <p>\"Art. 168. La date à laquelle le militaire entame une nouvelle activité professionnelle, visée aux articles 166, alinéa 4, 1°, et 167, § 5, 1°, correspond, selon le cas, à la date à laquelle il :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">conclut en tant que salarié un contrat de travail à durée indéterminée, déterminée ou un contrat équivalent;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">prouve, par un document officiel, qu'il exerce une activité de travailleur indépendant à titre principal;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">est agréé comme fonctionnaire dans un service public, en stage ou non.</span>\n                </li>\n            </ol>\n            <p>La démission accompagnée d'une reconversion professionnelle prend effet à la date à laquelle la reconversion professionnelle prend fin dans les cas visés à l'article 166, alinéa 4, 1° et 4°, et à l'article 167, § 5, 1° à 3°.</p>\n            <p>La démission accompagnée d'une reconversion professionnelle est assimilée à une démission acceptée.\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.021Z",
+  "tokenUsage": {
+    "prompt": 1936,
+    "completion": 427,
+    "total": 2363
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004003033",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 30</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        (NOTE: par son arrêt n° 10/2008 du 23-01-2008 (M.B. 11-02-2008, p. 8933 -8940), la Cour Constitutionnelle a annulé les mots \" et 2ter \", à l'article 30, 2°)\n      </p>\n      <p class=\"intro-text\">\n        A l'article 18 de la même loi, modifié par la loi du 10 août 1998, sont apportées les modifications suivantes:\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er, est remplacé par la disposition suivante:</span>\n          <blockquote>\n            <p class=\"intro-text\">\n              \" La transmission d'informations visée aux articles 12 à 14ter, est effectuée normalement par la personne désignée au sein des organismes visés aux articles 2 et 2bis, 5°, conformément à l'article 10 ou par les personnes visées aux articles 2bis, 1° à 4° et 2ter. \"\n            </p>\n          </blockquote>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa 2, les mots \" aux articles 2 et 2bis, 5°, \" sont remplacés par les mots \" aux articles 2, 2bis et 2ter \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.654Z",
+  "tokenUsage": {
+    "prompt": 1963,
+    "completion": 427,
+    "total": 2390
+  }
+}

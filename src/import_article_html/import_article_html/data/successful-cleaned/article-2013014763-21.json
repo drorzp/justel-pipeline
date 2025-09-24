@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013014763",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 21</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'entreprise établie en Belgique qui emploie légalement un conducteur ou utilise légalement les services d'un conducteur qui n'est ni un ressortissant d'un Etat membre de l'Union européenne, de l'Espace économique européen ou de la Suisse, ni un résident de longue durée au sens de la directive 2003/109/CE du Conseil du 25 novembre 2003 relative au statut des ressortissants de pays tiers résidents de longue durée, peut exercer les activités visées à l'article 2, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1°</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2°, seulement si elle est titulaire d'une licence communautaire prévue à l'article 4 du Règlement (CE) n° 1072/2009 et de l'attestation de conducteur prévue à l'article 5 du même règlement.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le Roi peut décider de délivrer des attestations de conducteur électroniques à partir d'une date qu'Il détermine.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.125Z",
+  "tokenUsage": {
+    "prompt": 1794,
+    "completion": 357,
+    "total": 2151
+  }
+}

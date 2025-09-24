@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001029611",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2000-10-30\" data-law-type=\"AR\" data-article-number=\"8\">\n                    L'article 8 de l'arrêté du Gouvernement du 30 octobre 2000 réglant l'octroi de subventions aux fédérations ou associations sportives reconnues ci-après dénommé l'arrêté est complété comme suit :\n                </span>\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">\n                        pour les membres du cadre administratif exerçant des tâches de direction ou de gestion au sein d'une fédération ou association sportive dont question au chapitre IV, section I à IV du décret, les montants visés aux alinéas\n                    </span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">\n                        sont augmentés d'un pourcentage égal à celui des charges patronales incombant à la Communauté française en sa qualité d'employeur de personnel contractuel.\n                    </span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.154Z",
+  "tokenUsage": {
+    "prompt": 1757,
+    "completion": 388,
+    "total": 2145
+  }
+}

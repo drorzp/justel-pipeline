@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022092",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 4 de la loi du 5 avril 1994 régissant le cumul des pensions du secteur public avec des revenus provenant de l'exercice d'une activité professionnelle ou avec un revenu de remplacement, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans le § 1er, alinéa 1er, 1° et 4° le montant \"276 586\" est remplacé par le montant \"282.118\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le § 1er, alinéa 1er, 2° et dans le § 2 le montant \"221 268\" est remplacé par le montant \"225 693\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.969Z",
+  "tokenUsage": {
+    "prompt": 1810,
+    "completion": 288,
+    "total": 2098
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034447",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans le même Code, il est inséré un article 4.2.4.11, rédigé comme suit:</p>\n    <p>\"Article 4.2.4.11 Compétences du service Plateau continental</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les membres du personnel du service Plateau continental du Service public fédéral Economie, PME, Classes moyennes et Energie, désignés par le Roi, exercent la surveillance du respect de la loi du 11 décembre 2022 relative à la protection du milieu marin et à l'organisation de l'aménagement des espaces marins belges et ses arrêtés d'exécution. Les membres du personnel, visés au premier alinéa, sont chargés de rechercher et de constater les infractions aux dispositions, visées au premier alinéa.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les articles 4.2.1.2, § 2, 1°, 2°, 3° et 5°, 4.2.1.3, 4.2.1.4, 4.2.1.5, 4.2.1.6, 4.2.1.7, 4.2.1.8, 4.2.1.9, 4.2.1.10, 4.2.1.12, 4.2.1.13, 4.2.1.14, 4.2.1.15, 4.2.1.16, 4.2.1.17, 4.2.1.18, 4.2.1.19 et 4.2.1.20 s'appliquent aux membres du personnel, désignés au paragraphe 1er.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Un procès-verbal rédigé par un membre du personnel, désigné au paragraphe 1er, doit se conformer aux articles 4.2.1.22 à 4.2.1.26.\".</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.776Z",
+  "tokenUsage": {
+    "prompt": 2325,
+    "completion": 631,
+    "total": 2956
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005029334",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 36, du même arrêté, l'alinéa 2 est remplacé par l'alinéa suivant :</p>\n            <blockquote class=\"quote\">\n                <p class=\"quote-text\">\" La qualification de puériculteur(trice), visée à l'alinéa 1er, 1° et 2°, peut toutefois être remplacée par une autre qualification, conformément à l'article 42, § 1er, alinéa 2, sans pour autant que la proportion de puériculteurs(trices) puisse être inférieure à la moitié du personnel affecté à l'encadrement des enfants.\"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.883Z",
+  "tokenUsage": {
+    "prompt": 1650,
+    "completion": 224,
+    "total": 1874
+  }
+}

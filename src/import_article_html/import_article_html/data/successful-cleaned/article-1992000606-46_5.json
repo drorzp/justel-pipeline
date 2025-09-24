@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992000606",
+  "articleNumber": "46/5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46/5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 46/5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-03-21/21\" data-law-type=\"L\" data-article-number=\"49\">\n        <p>L'autorisation préalable visée à l'article 46/4 est demandée soit au commissaire général de la police fédérale ou au membre du comité de direction de la police fédérale qu'il désigne, lorsque le service demandeur appartient à la police fédérale, soit au chef de corps de la zone de police locale, lorsqu'il s'agit d'une zone de police locale.</p>\n        <p>Dans les cas visés à l'article 46/4, alinéa 1er, 1° et 3°, l'autorisation est donnée au cas par cas pour l'utilisation d'un type déterminé de caméras fixes temporaires ou mobiles, pour des finalités spécifiques, et pour une durée limitée. Si à cette occasion des finalités de police judiciaire sont également visées, l'avis préalable contraignant du procureur du Roi est exigé. L'autorisation peut être prolongée aux mêmes conditions.</p>\n        <p>Dans le cas visé à l'article 46/4, alinéa 1er, 2°, l'autorisation est donnée après avis préalable contraignant du procureur du Roi et de la Sûreté de l'Etat, concernant le risque que la mesure peut présenter pour toute enquête en cours. Cette autorisation est donnée au cas par cas, par écrit et de manière motivée dans le cadre de l'utilisation d'un type déterminé de caméra temporaire fixe ou mobile, à des fins spécifiques, et pour une durée n'excédant pas un mois. La décision reflète en particulier le respect des principes de proportionnalité et de subsidiarité. L'autorisation peut être prolongée aux mêmes conditions.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.016Z",
+  "tokenUsage": {
+    "prompt": 2158,
+    "completion": 475,
+    "total": 2633
+  }
+}

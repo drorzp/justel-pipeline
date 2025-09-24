@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023046990",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 30, § 6, les mots \"Les véhicules de transport protégé visés à l'article 11, § 1er, 3° et 12° sont munis :\" sont remplacés par les mots \"Les véhicules de transport protégé visés à l'article 11, § 1er, 3° et l'article 14 sont munis:\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.484Z",
+  "tokenUsage": {
+    "prompt": 1597,
+    "completion": 167,
+    "total": 1764
+  }
+}

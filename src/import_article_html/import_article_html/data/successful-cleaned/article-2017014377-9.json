@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014377",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 12 de la même loi, modifié par la loi du 25 juillet 2008, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er, 3° est complété par les mots \"et les chargeurs y afférents\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, 4°, dans le texte néerlandais, le mot \"op\" est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, 5°, les mots \"les particuliers\" sont remplacés par les mots \"aux particuliers\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans l'alinéa 2, les mots \", 1°, 2° et 3° \" sont abrogés et le mot \"légitimement\" est remplacé par le mot \"légalement\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">dans l'alinéa 3, les mots \"et des munitions visées\" sont remplacés par les mots \", des munitions et des chargeurs visés\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.592Z",
+  "tokenUsage": {
+    "prompt": 1938,
+    "completion": 448,
+    "total": 2386
+  }
+}

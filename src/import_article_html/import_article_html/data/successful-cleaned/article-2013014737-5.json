@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013014737",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-03-02/03\" data-law-type=\"AR\" data-article-number=\"18\">\n                La demande contient les documents et les pièces établissant que l'organisme satisfait à l'ensemble des exigences et conditions visées à l'article 205, § 1er, 1° et 2° du Code ferroviaire.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.125Z",
+  "tokenUsage": {
+    "prompt": 1634,
+    "completion": 172,
+    "total": 1806
+  }
+}

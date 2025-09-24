@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006201385",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un article 121bis, rédigé comme suit, est inséré au premier contrat de gestion de l'Office de la Naissance et de l'Enfance :</p>\n      <blockquote class=\"article-quote\">\n        <p class=\"intro-text\">\" Art. 121bis. Le Fonds Cigogne II de l'Office de la Naissance et de l'Enfance finance :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">le coût correspondant à la pérennisation du subventionnement des places du SAS subventionnées en application de l'article 40bis, § 2;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">le coût des nouvelles places subventionnées par le Fonds Plan Cigogne II, y compris celles créées les années précédant l'année concernée, conformément à l'annexe 1re;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">les coûts engendrés par l'application de l'article 98bis.</span>\n          </li>\n        </ol>\n        <p class=\"intro-text\">Le Gouvernement s'engage à augmenter la dotation de l'O.N.E. des moyens correspondant aux coûts visés aux 1°, 2° et 3° après prélèvement des moyens disponibles sur le Fonds Plan Cigogne II ainsi que sur la provision constituée à cet effet dans le budget de la Communauté française. \"</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.901Z",
+  "tokenUsage": {
+    "prompt": 1900,
+    "completion": 434,
+    "total": 2334
+  }
+}

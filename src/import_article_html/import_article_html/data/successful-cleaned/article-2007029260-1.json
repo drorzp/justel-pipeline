@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007029260",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 24, alinéa 1er, 3° et 4°, du décret sur la radiodiffusion du 27 février 2003 est remplacé par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'annonce de parrainage ne peut contenir que l'indication du nom du parrain, sa dénomination ou raison sociale ou commerciale, les marques des produits ou services qu'il commercialise, ainsi que les signes distinctifs sonores ou visuels associés aux mentions du parrain; elle ne peut faire référence explicitement aux produits ou services du parrain ou d'un tiers, que dans la mesure où une telle référence a exclusivement pour objet d'identifier le parrain ou d'expliciter le lien existant entre le programme et l'entreprise qui le parraine;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les signes distinctifs sonores ou visuels associés aux mentions du parrain pouvant apparaître dans le strict but de l'identification sont :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"-\"><span class=\"provision-text\">Son sigle, son logo;</span></li>\n            <li class=\"sub-provision\" data-marker=\"-\"><span class=\"provision-text\">Ses produits, dans la limite prévue à l'alinéa 1er, 3°;</span></li>\n            <li class=\"sub-provision\" data-marker=\"-\"><span class=\"provision-text\">Ses autres facteurs d'identification.</span></li>\n          </ul>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.963Z",
+  "tokenUsage": {
+    "prompt": 1969,
+    "completion": 457,
+    "total": 2426
+  }
+}

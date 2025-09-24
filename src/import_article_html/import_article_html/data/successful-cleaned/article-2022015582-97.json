@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022015582",
+  "articleNumber": "97",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-97\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 97</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La société de bourse qui projette d'acquérir ou de créer, directement ou par l'intermédiaire d'une compagnie financière ou d'une compagnie financière mixte, une filiale à l'étranger exerçant une activité visée à l'article 4 de la loi du 25 avril 2014 ou un service et/ou une activité d'investissement et un service auxiliaire visés à l'article 3, 2° et 3° notifie son intention à la Banque. Cette notification est assortie d'une information sur les activités, l'organisation, l'actionnariat et les dirigeants de l'entreprise concernée.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.692Z",
+  "tokenUsage": {
+    "prompt": 1684,
+    "completion": 213,
+    "total": 1897
+  }
+}

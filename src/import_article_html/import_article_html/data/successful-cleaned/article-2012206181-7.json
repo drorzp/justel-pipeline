@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012206181",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 9 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 22 février 2002, les points 1 et 2 sont remplacés par la disposition suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le pouvoir organisateur pour les membres du personnel, visés à l'article 1er, 1° et 2°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'inspecteur général pour l'inspecteur et l'inspecteur coordinateur;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le Ministre flamand chargé de l'enseignement, ou son délégué, pour l'inspecteur général et pour les membres du personnel, visés à l'article 1er, 4°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.171Z",
+  "tokenUsage": {
+    "prompt": 1729,
+    "completion": 314,
+    "total": 2043
+  }
+}

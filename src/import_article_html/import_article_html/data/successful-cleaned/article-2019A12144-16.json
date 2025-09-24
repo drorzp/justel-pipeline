@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019A12144",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'agrément est conféré conjointement, par arrêtés, par les ministres de tutelle; et ce, pour une durée maximale de cinq ans renouvelable.</p>\n      <p class=\"intro-text\">L'agrément porte exclusivement sur un ensemble de compétences pour lesquelles le centre a été audité favorablement. Cet agrément peut être étendu à d'autres ensembles de compétences, moyennant satisfaction aux conditions d'agrément prévues pour ces compétences.</p>\n      <p class=\"intro-text\">Un centre de validation agréé peut délocaliser une partie de son activité vers un site extérieur, au besoin sur la base d'une convention partenariale, moyennant le respect des conditions d'agrément du Centre.</p>\n      <p class=\"intro-text\">Un centre agréé est autorisé à nouer une convention avec une entreprise qui souhaite organiser elle-même des épreuves de validation des compétences en son sein, selon les modalités définies par le Comité directeur sur avis de la Commission consultative et d'agrément. Ces modalités intègrent notamment la gratuité visée à l'article 13 alinéa 4; la disponibilité d'un personnel qualifié et de ressources matérielles, visées à l'article 14, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et le respect de la méthodologie visée à l'article 19.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.230Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 434,
+    "total": 2375
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000663",
+  "articleNumber": "105",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-105\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 105</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/22\" data-law-type=\"L\" data-article-number=\"93\">personnel</span> administratif de la zone est composé d'agents statutaires ou contractuels.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.817Z",
+  "tokenUsage": {
+    "prompt": 1596,
+    "completion": 145,
+    "total": 1741
+  }
+}

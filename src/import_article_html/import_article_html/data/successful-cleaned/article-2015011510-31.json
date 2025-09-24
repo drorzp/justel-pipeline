@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015011510",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 31</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 410 du même Code, l'alinéa 2 est remplacé par ce qui suit:</p>\n            <blockquote class=\"quote-text\">\"Les comptes annuels, les rapports mentionnés à l'alinéa 1er, 4° et les informations qui sont déposées conformément à l'article 100, sont transmis aux associés conformément à l'article 381.\"</blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.170Z",
+  "tokenUsage": {
+    "prompt": 1550,
+    "completion": 166,
+    "total": 1716
+  }
+}

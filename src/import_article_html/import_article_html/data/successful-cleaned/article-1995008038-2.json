@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995008038",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un article 6, rédigé comme suit, est inséré dans le même arrêté :</p>\n      <p>\"Article 6. Le présent arrêté n'est pas applicable :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\"><span class=\"item-text\">aux agents visés à l'article 4, § 4, alinéa 2, de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique ;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">aux catégories d'agents visés à l'article 1er, alinéa 1er, 1°, 4°, 6° et 20°, de l'arrêté royal du 1er février 1993 déterminant les tâches auxiliaires ou spécifiques dans les administrations et autres services des ministères ainsi que dans certains organismes d'intérêt public ;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">aux agents visés à l'article 2 de l'arrêté royal du 10 juin 1994 autorisant l'Office national de l'Emploi à engager des contractuels en vue de répondre à des besoins exceptionnels et temporaires en personnel.\".</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.988Z",
+  "tokenUsage": {
+    "prompt": 1840,
+    "completion": 362,
+    "total": 2202
+  }
+}

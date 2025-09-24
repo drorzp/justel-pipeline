@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035346",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les participants à la GDI Vlaanderen ajoutent les sources de données géographiques, les services géographiques et les métadonnées, visés à l'article 12, premier alinéa,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">qu'ils gèrent, à la GDI conformément aux directives qui sont fixées par le groupe de pilotage.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'agence est autorisée à conclure des conventions avec des instances qui ne participent pas à la GDI-Vlaanderen et avec des tiers, afin de permettre l'addition à la GDI des sources de données géographiques, des services géographiques et des métadonnées qu'ils gèrent.</p>\n        <p>La conclusion de ces conventions par l'agence ne peut avoir lieu qu'après que le groupe de pilotage a constaté que l'addition des sources de données géographiques concernées, des services géographiques et des métadonnées est nécessaire pour l'exécution des missions d'intérêt général, ou pour l'exécution des responsabilités ou des fonctions ou pour assurer des services publics relatifs à l'environnement.</p>\n        <p>Les sources de données géographiques, les services géographiques et les métadonnées auxquels les conventions ont trait, sont ajoutées à la GDI par l'agence, conformément aux directives qui sont fixées par le groupe de pilotage.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.087Z",
+  "tokenUsage": {
+    "prompt": 1971,
+    "completion": 505,
+    "total": 2476
+  }
+}

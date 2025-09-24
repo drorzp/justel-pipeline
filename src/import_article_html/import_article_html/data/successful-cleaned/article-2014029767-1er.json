@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029767",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 14, alinéa 3, de l'arrêté du Gouvernement de la Communauté française du 20 septembre 2012 instaurant un régime de mandat pour les fonctionnaires généraux des services du Gouvernement de la Communauté française et des organismes d'intérêt public qui relèvent du Comité de Secteur XVII, sont ajoutés un 8° et 9° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">de la Directrice générale de la Direction générale des Maisons de Justice, transférée des services du Gouvernement de l'Etat fédéral vers les services du Gouvernement de la Communauté française en raison de la mise en oeuvre de la sixième réforme de l'Etat à la condition qu'au moment de son transfert, elle soit titulaire d'une mention d'évaluation lui permettant de poursuivre son mandat;</span>\n                </li>\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">des fonctionnaires généraux dirigeants de la Direction régional sud des Maisons de Justice et du Centre National de Surveillance Electronique de la Direction générale des Maisons de Justice transférés des services du Gouvernement de l'Etat fédéral vers les services du Gouvernement de la Communauté française en raison de la mise en oeuvre de la sixième réforme de l'Etat à la condition qu'au moment de leur transfert, ils ne soient pas titulaires d'une mention d'évaluation d'un niveau inférieur à favorable.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.106Z",
+  "tokenUsage": {
+    "prompt": 1959,
+    "completion": 418,
+    "total": 2377
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020042812",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 25 du même arrêté les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'alinéa deux le point 1° est abrogé ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'alinéa deux, 3°, est ajouté le membre de phrase \" , ou en l'octroi d'au moins neuf points dans chacun des trois piliers de l'échelle médico-sociale au sens du régime des allocations familiales \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">dans l'alinéa trois le membre de phrase \" 1° et \" est abrogé.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.169Z",
+  "tokenUsage": {
+    "prompt": 1684,
+    "completion": 294,
+    "total": 1978
+  }
+}

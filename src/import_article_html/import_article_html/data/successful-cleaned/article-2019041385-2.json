@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041385",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Aux:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">de l'article 1er du même arrêté, les termes &quot; décret du 17 juillet 2003 relatif au soutien de l'action associative dans le champ de l'éducation permanente &quot; sont remplacés par les termes &quot; décret du 17 juillet 2003 relatif au développement de l'action d'éducation permanente dans le champ de la vie associative &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.480Z",
+  "tokenUsage": {
+    "prompt": 1591,
+    "completion": 239,
+    "total": 1830
+  }
+}

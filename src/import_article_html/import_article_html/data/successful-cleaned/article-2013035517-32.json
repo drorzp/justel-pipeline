@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035517",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'établissement transmet <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-10-18/02\" data-law-type=\"AGF\" data-article-number=\"43\">de chaque bovin abattu qui a plus de huit mois,</span> les données disponibles suivantes au fournisseur :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les données, visées à l'article 27, alinéa premier, 1°, 3°, 4°, 5°, 9° et 10° ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le numéro d'agrément de l'établissement;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le poids de carcasse chaude;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le triplet du classement selon catégorie, état de chair et état d'engraissement, le cas échéant y compris les sous-classes;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">le code de la forme de présentation;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">la mention que le classement a été effectué à l'aide d'une méthode de classement automatique.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.088Z",
+  "tokenUsage": {
+    "prompt": 1924,
+    "completion": 428,
+    "total": 2352
+  }
+}

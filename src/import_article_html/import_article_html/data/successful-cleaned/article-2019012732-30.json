@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012732",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 30</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si la médiation aboutit à un accord, celui-ci est signé par les personnes concernées conformément à l'article 28, 4° et est joint au dossier de la procédure. Si l'accord ne remédie pas entièrement aux conséquences matérielles du fait qualifié infraction, il le mentionne expressément. L'accord est approuvé par le procureur du Roi qui ne peut modifier son contenu et ne peut refuser de l'approuver que s'il est contraire à l'ordre public.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le service désigné établit un rapport sur l'exécution de l'accord et l'adresse au procureur du Roi. Il est joint au dossier de la procédure. Lorsque le jeune a exécuté l'accord de médiation selon les modalités prévues, le procureur du Roi en dresse procès-verbal et en tient compte dans sa décision de classer ou non le dossier sans suite. Si le procureur du Roi décide néanmoins de mettre en oeuvre l'action publique, il motive expressément sa décision. Une copie du procès-verbal est remise aux personnes concernées, à l'avocat du jeune et au service désigné. Si la remise à l'une de ces personnes n'a pu avoir lieu, copie du procès-verbal est notifiée par pli judiciaire.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.306Z",
+  "tokenUsage": {
+    "prompt": 1960,
+    "completion": 419,
+    "total": 2379
+  }
+}

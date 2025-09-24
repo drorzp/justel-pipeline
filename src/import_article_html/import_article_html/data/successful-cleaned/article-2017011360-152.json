@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017011360",
+  "articleNumber": "152",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-152\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 152</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 8 mai 2009 relatif à la lutte contre l'érosion modifié par l'arrêté du Gouvernement flamand du 26 février 2010, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le point 3° est remplacé par ce qui suit : \" 3° administration : le Département de l'Environnement ; \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">aux points 6°, 7° et 8°, le membre de phrase \" la division compétente pour la protection du sol \" est chaque fois remplacé par le membre de phrase \" la sous-entité du Département de l'Environnement, compétente pour la protection du sol \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le point 12° est abrogé.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.756Z",
+  "tokenUsage": {
+    "prompt": 1775,
+    "completion": 339,
+    "total": 2114
+  }
+}

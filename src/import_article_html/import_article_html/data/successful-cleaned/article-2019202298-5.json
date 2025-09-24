@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019202298",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 13 du même arrêté, les mots &quot; l'article 8,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">&quot; sont remplacés par les mots &quot; l'article 8,</span></li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">à</span></li>\n                <li class=\"provision\" data-number=\"9°\"><span class=\"provision-text\">&quot;.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.419Z",
+  "tokenUsage": {
+    "prompt": 1575,
+    "completion": 256,
+    "total": 1831
+  }
+}

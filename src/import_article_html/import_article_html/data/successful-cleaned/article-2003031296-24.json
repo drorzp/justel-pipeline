@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003031296",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Outre les normes d'organisation prévues à l'annexe II B de l'arrêté royal du 2 décembre 1982 fixant les normes pour l'agrément spécial des maisons de repos et de soins, le centre doit tenir un dossier individuel par bénéficiaire comprenant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la convention fixant les conditions d'accueil, la participation financière, ainsi que les droits et obligations réciproques liés à l'accueil en centre de soins de jour;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la fiche individuelle comprenant l'identité du bénéficiaire, les coordonnées des personnes à avertir en cas de nécessité, les renseignements relatifs à la mutualité et toutes les dispositions prises par des tiers relatifs à la sécurité du bénéficiaire;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le dossier médical avec l'évaluation du degré de dépendance du bénéficiaire;</span></li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">en cas d'utilisation de bracelets anti-fugue, les documents prouvant que le droit au respect de la vie privée et à la dignité humaine est garanti et que la liberté et la dignité des résidents garanties par le règlement de l'Assemblée de la Commission communautaire française du 17 décembre 1993 fixant les normes auxquelles doivent répondre les maisons de repos des personnes âgées, en son article 5, § 2, 2° et § 3, 1° et 2°, sont respectés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.624Z",
+  "tokenUsage": {
+    "prompt": 2098,
+    "completion": 466,
+    "total": 2564
+  }
+}

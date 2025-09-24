@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011046",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 13bis, § 2, du même arrêté, modifié en dernier lieu par la loi du 18 décembre 2016, il est inséré entre le</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et le</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">bis, rédigé comme suit:</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">bis lorsqu'il appartient à la catégorie de cotisants visés à l'article 12, § 1erbis: les cotisations sont calculées comme suit:</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">20,50 p.c. sur un revenu de 3.666,15 EUR;\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.766Z",
+  "tokenUsage": {
+    "prompt": 1691,
+    "completion": 357,
+    "total": 2048
+  }
+}

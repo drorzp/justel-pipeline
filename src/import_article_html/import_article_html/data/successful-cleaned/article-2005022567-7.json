@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005022567",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même arrêté, il est inséré un article 4bis, rédigé comme suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 4bis.</h3>\n        <div class=\"paragraph-content\">\n          <p>Tous les montants, y compris les honoraires et les forfaits, que les patients ou des tiers paient pour les prestations qui sont réalisées dans un laboratoire, visé à l'article 3, § 1, 1°, 2°, 4°, 5° et 6°, sont perçus de façon centrale par le directeur du laboratoire.</p>\n          <p>Le directeur du laboratoire visé à l'alinéa 1er est désigné par l'exploitant parmi les dispensateurs et satisfait aux règles fixées par le Roi en exécution de l'article 63, alinéa 1er, 2°, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.</p>\n          <p>Les montants perçus de façon centrale en application du premier alinéa sont utilisés pour :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">la rémunération des dispensateurs;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">la couverture des frais ayant trait à l'exploitation du laboratoire de biologie clinique, y compris la rémunération de l'exploitant.</span>\n            </li>\n          </ol>\n          <p>La convention visée à l'article 3, § 3, fixe les modalités de la perception et de l'utilisation des montants visés, telles que visées dans le présent article.</p>\n          <p>Le Roi peut fixer règles spécifiques relatives à l'application du présent article, y compris la transparence vis-à-vis des dispensateurs.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.884Z",
+  "tokenUsage": {
+    "prompt": 2094,
+    "completion": 521,
+    "total": 2615
+  }
+}

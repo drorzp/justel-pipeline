@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005003037",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 107, § 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">et l'article 117, § 6 de l'AR/CIR 92, tels qu'ils existaient avant d'être modifiés par le présent arrêté, restent applicables aux revenus d'obligations belges faisant l'objet d'une inscription nominative chez l'émetteur émises avant la date de publication du présent arrête au Moniteur belge.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les systèmes centralisés de prêts d'actions ou parts agréés conformément à l'article 738, AR/CIR 92, tel qu'il existait avant d'être modifié par l'article 5 du présent arrêté, conservent l'agrément qui est en cours au moment de l'entrée en vigueur des articles 1er à 9 du présent arrêté pour autant qu'ils se conforment, endéans le délai de 12 mois à partir de cette date, aux conditions prévues par les articles 735, 736 et 738 à 7312, AR/CIR 92, tels que modifiés par le présent arrêté et sous réserve qu'ils aient respecté sans discontinuité les conditions prévues par l'article 737, AR/CIR 92, et par les articles 735, 736 et 738 à 7312, AR/CIR 92, tels que ceux-ci existaient avant d'être modifiés par le présent arrêté.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.747Z",
+  "tokenUsage": {
+    "prompt": 1949,
+    "completion": 419,
+    "total": 2368
+  }
+}

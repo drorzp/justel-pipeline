@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010031070",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les épreuves écrites de l'examen portent sur les matières visées sous les rubriques :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3° et</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5°,</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\"><span class=\"sub-provision-text\">à g) de l'annexe 2.</span></li>\n          </ol>\n        </li>\n      </ol>\n      <p>L'épreuve orale de l'examen porte sur quatre matières ou groupes de matières, déterminées par tirage au sort parmi celles qui n'ont pas fait l'objet des épreuves écrites visées à l'alinéa 1er.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.230Z",
+  "tokenUsage": {
+    "prompt": 1636,
+    "completion": 273,
+    "total": 1909
+  }
+}

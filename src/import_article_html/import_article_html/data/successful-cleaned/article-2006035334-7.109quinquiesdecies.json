@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006035334",
+  "articleNumber": "7.109quinquiesdecies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7-109quinquiesdecies\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7.109quinquiesdecies</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-02-03/17\" data-law-type=\"AGF\" data-article-number=\"1\">\n                <p class=\"intro-text\">Par dérogation à l'article VII 109quaterdecies, alinéa 1er, le membre du personnel n'a pas droit aux chèques sport et culture s'il prend une des formes de congé suivantes le 31 décembre 2022 :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">du congé non payé, tel que visé à l'article X 62, § 1er, alinéa 1er,</span>\n                        <ol class=\"numbered-provisions\">\n                            <li class=\"sub-provision\" data-marker=\"2°\">\n                                <span class=\"provision-text\">et</span>\n                            </li>\n                            <li class=\"sub-provision\" data-marker=\"3°\">\n                                <span class=\"provision-text\">, pendant un an ;</span>\n                            </li>\n                        </ol>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">du congé de faveur standardisé pendant un an ou plus, tel que visé à l'article X 81bis.</span>\n                    </li>\n                </ol>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.717Z",
+  "tokenUsage": {
+    "prompt": 1892,
+    "completion": 411,
+    "total": 2303
+  }
+}

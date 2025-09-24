@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017014203",
+  "articleNumber": "137",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-137\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 137</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 9 de la loi du 16 juin 2006 relative aux offres publiques d'instruments de placement et aux admissions d'instruments de placement à la négociation sur des marchés réglementés, les modifications suivantes sont apportées:</p>\n      <ol class=\"sub-provisions\">\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"sub-provision-text\">le 5° est remplacé par ce qui suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">\"marché réglementé\": tout marché réglementé, belge ou étranger, visé à l'article 3, 7°, 8° et 9°, de la loi du 21 novembre 2017 relative aux infrastructures des marchés d'instruments financiers et portant transposition de la Directive 2014/65/UE;\";</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"sub-provision-text\">le 6° est remplacé par ce qui suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">\"opérateur de marché\": l'entreprise visée à l'article 3, 3°, de la loi du 21 novembre 2017 précitée;\";</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"c)\">\n          <span class=\"sub-provision-text\">le 8°, inséré par l'arrêté royal du 27 avril 2007, est remplacé par ce qui suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">\"système multilatéral de négociation\": un MTF au sens de l'article 3, 10°, de la loi du 21 novembre 2017 précitée;\".</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.593Z",
+  "tokenUsage": {
+    "prompt": 2098,
+    "completion": 561,
+    "total": 2659
+  }
+}

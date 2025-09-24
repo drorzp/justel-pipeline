@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016024135",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le titre III, chapitre V, de la même loi, il est inséré une section XXIII intitulée : \"Section XXIII. Des obligations des firmes qui mettent des prestations pharmaceutiques visées à l'article 34, alinéa 1er, 5°, a), 19°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"20°\">\n                    <span class=\"provision-text\">20° et</span>\n                </li>\n            </ol>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"20°\">\n                    <span class=\"provision-text\">20° bis, sur le marché belge et demandent leur admission au remboursement\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.258Z",
+  "tokenUsage": {
+    "prompt": 1616,
+    "completion": 256,
+    "total": 1872
+  }
+}

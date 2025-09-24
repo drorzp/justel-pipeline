@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009011565",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 46, § 4, deuxième alinéa, de la même loi, les mots \" à l'article 45, 2° et 10° \" sont remplacés par les mots \" à l'article 45, § 1er, 2° et § 2.</p>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.027Z",
+  "tokenUsage": {
+    "prompt": 1468,
+    "completion": 131,
+    "total": 1599
+  }
+}

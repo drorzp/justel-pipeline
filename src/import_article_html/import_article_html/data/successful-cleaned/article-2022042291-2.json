@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042291",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 5, § 2, du même arrêté, modifié par l'arrêté royal du 11 janvier 2006, les mots \" les données relatives aux expéditions, mentionnées sous les littéra:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">de l'article 4, §</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">\" sont remplacés par les mots \", pour ces expéditions, les conditions de livraison et le moyen de transport utilisé \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.886Z",
+  "tokenUsage": {
+    "prompt": 1609,
+    "completion": 282,
+    "total": 1891
+  }
+}

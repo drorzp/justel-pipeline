@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004A27101",
+  "articleNumber": "D29-23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-D29-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article D29-23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2007-05-31/46\" data-law-type=\"DRW\" data-article-number=\"5\">\n        Lorsqu'un plan ou un programme fait l'objet d'une adoption ou d'un refus tacite en l'absence d'adoption ou de refus du Gouvernement dans les délais prescrits, est publié au Moniteur belge, à l'initiative du Gouvernement, soit l'avis par lequel l'autorité compétente constate l'approbation tacite du plan ou du programme, soit l'avis par lequel il est constaté que le plan est réputé refusé.  \n        Lorsque le projet est censé être refusé ou censé être octroyé en l'absence de décision expresse de l'autorité compétente dans les délais prescrits, l'avis prévu à l'article D.29-22 précise soit que la demande est refusée, soit que la décision est censée être octroyée en mentionnant le document tenant lieu de décision ainsi que les informations visées au paragraphe 2, 2°, 5°, 6° et 7°.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.712Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 326,
+    "total": 2267
+  }
+}

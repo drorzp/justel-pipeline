@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014015030",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 33 de la même loi, les mots \"article 2, 5°, 6° et 7°, \" sont remplacés par les mots \"article 2, 5° et 6°, \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.163Z",
+  "tokenUsage": {
+    "prompt": 1449,
+    "completion": 128,
+    "total": 1577
+  }
+}

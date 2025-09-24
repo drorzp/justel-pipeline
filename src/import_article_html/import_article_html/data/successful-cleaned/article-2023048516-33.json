@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048516",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La convention carbone type est un canevas général sur la base duquel sont élaborées les conventions carbone. La convention carbone type est élaborée selon les modalités suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le Gouvernement établit un projet de convention carbone type;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le projet de convention carbone type est soumis à consultation publique pendant un délai de trente jours sur les sites internet dédiés de l'administration ayant en charge l'Energie et de l'Agence;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le Gouvernement soumet le projet de convention carbone type à l'avis du Conseil économique, social et environnemental de Wallonie et éventuellement à d'autres instances qu'il détermine;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le Gouvernement examine les observations visées au 2° et les avis visés au 3°, et adopte, le cas échéant après modification, la convention carbone type;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">la convention carbone type est publiée sur les sites internet dédiés de l'administration ayant en charge l'Energie et de l'Agence.</span></li>\n      </ol>\n      <p class=\"closing-text\">Les instances visées à l'alinéa 2, 3°, rendent leur avis dans un délai de trente jours à dater du jour de la réception de la demande d'avis. A défaut d'avis dans ce délai, l'avis est réputé favorable.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.503Z",
+  "tokenUsage": {
+    "prompt": 1992,
+    "completion": 467,
+    "total": 2459
+  }
+}

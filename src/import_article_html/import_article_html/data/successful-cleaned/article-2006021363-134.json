@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006021363",
+  "articleNumber": "134",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-134\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 134</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Il est instauré une retenue de 3,5 % sur les indemnités d'invalidité visées à l'article 114, 6°.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Cette retenue est effectuée par le débiteur des indemnités d'invalidité visées à l'article 116, 5° et 6°, à chaque paiement de celles-ci. Ce débiteur est civilement responsable de cette retenue ainsi que de sa déclaration et de son paiement.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le calcul de la retenue visée au § 1er se fait sur base du montant journalier.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.833Z",
+  "tokenUsage": {
+    "prompt": 1790,
+    "completion": 332,
+    "total": 2122
+  }
+}

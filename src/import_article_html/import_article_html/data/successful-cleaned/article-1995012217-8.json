@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995012217",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 32, § 1er, de la même loi, le premier alinéa est remplacé par ce qui suit :</p>\n      <blockquote class=\"quote\">\n        <p>Outre le repos du dimanche, les jeunes travailleurs doivent se voir octroyer un jour de repos supplémentaire qui suit ou précède immédiatement le dimanche.</p>\n        <p>Les jeunes travailleurs ne peuvent travailler le dimanche, le jour de repos supplémentaire ou un jour férié ni effectuer un travail supplémentaire que dans les cas prévus respectivement par les articles 12,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">3°</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">4°</span>\n          </li>\n        </ol>\n        <p>et 26.</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.990Z",
+  "tokenUsage": {
+    "prompt": 1629,
+    "completion": 294,
+    "total": 1923
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018040161",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 20, § 1er, du même arrêté, remplacé par l'arrêté du Gouvernement flamand du 5 décembre 2003 et modifié par les arrêtés du Gouvernement flamand des 23 septembre 2005, 17 octobre 2008 et 28 mai 2010, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans les points 1° et 2°, les mots \" heures de cours \" sont chaque fois remplacés par les mots \" unités de prestation \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 3° est complété par la phrase suivante :</span>\n          <p class=\"closing-text\">\" Dans les centres d'encadrement des élèves, il est tenu compte de l'article 2, § 14 ; \".</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.348Z",
+  "tokenUsage": {
+    "prompt": 1733,
+    "completion": 310,
+    "total": 2043
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013200004",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 8 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">il est inséré un 1erbis rédigé comme suit :<br>\" 1erbis l'accord des communes et centres publics d'action sociale à mettre en oeuvre les conditions nécessaires à la viabilité de l'agence. Ces accords sont traduits, par des cotisations, contributions ou apports inscrits au budget de l'organisme \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est inséré un 1erter rédigé comme suit :<br>\" 1erter s'il échet, l'accord de la province à mettre en oeuvre les conditions nécessaires à la viabilité de l'agence. Ces accords sont traduits, par des cotisations, contributions ou apports inscrits au budget de l'organisme. \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le 2° est complété par les mots : \"dès lors que le champ territorial de l'agence comprend plus de dix communes ou plus de 100 000 habitants\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">il est inséré les 3° et 4° rédigés comme suit :<br>\" 3° les modalités d'affiliation des partenaires énoncées notamment par l'article 194 du Code wallon du Logement et de l'Habitat durable;<br>4° les modalités de représentation des Pouvoirs locaux au sein des organes de gestion telles qu'énoncées par l'article 194 du Code wallon du Logement et de l'Habitat durable. \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.199Z",
+  "tokenUsage": {
+    "prompt": 2095,
+    "completion": 515,
+    "total": 2610
+  }
+}

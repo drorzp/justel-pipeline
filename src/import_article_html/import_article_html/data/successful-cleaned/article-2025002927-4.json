@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025002927",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 8 du même arrêté, modifié en dernier lieu par l'arrêté du Gouvernement wallon du 19 avril 2024, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, les mots &quot; autres que ceux visés au 3° et au 6° de l'annexe &quot; sont insérés entre les mots &quot; investissements &quot; et les mots &quot; le demandeur &quot; ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le paragraphe 2/1 est complété par les mots : &quot; et au plus tard le 30 septembre 2026 &quot; ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 3, les mots &quot; paragraphe 2 &quot; sont remplacés par les mots &quot; paragraphe 2/1 &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.716Z",
+  "tokenUsage": {
+    "prompt": 1777,
+    "completion": 359,
+    "total": 2136
+  }
+}

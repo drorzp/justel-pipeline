@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023015264",
+  "articleNumber": "92",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-92\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 92</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 500 du même décret, modifié par les décrets des 21 décembre 2018 et 16 juillet 2021, le membre de phrase \" l'article 286, § 2, 5° \" est remplacé par le membre de phrase \" l'article 286, § 2, 5° et 6° \" et le membre de phrase \" , de l'article 488, § 1er, alinéas 1er et 2 \" est inséré entre le membre de phrase \" de l'article 485, troisième alinéa, \" et le membre de phrase \" , de l'article 489 \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.833Z",
+  "tokenUsage": {
+    "prompt": 1626,
+    "completion": 216,
+    "total": 1842
+  }
+}

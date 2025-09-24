@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994003442",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 6, alinéa 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">4°, de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit, les mots &quot; la Caisse générale d'Epargne et de Retraite-Holding et &quot; sont supprimés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.065Z",
+  "tokenUsage": {
+    "prompt": 1539,
+    "completion": 202,
+    "total": 1741
+  }
+}

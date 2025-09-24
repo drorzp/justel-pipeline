@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999035652",
+  "articleNumber": "173",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-173\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 173</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-03-27/61\" data-law-type=\"DCFL\" data-article-number=\"71\">\n        Pour la première application de la réglementation relative aux bénéfices résultant de la planification spatiale mentionnée dans l'article 87, vaut que tous les plans d'exécution spatiaux et les plans particuliers d'aménagement établis ou adoptés provisoirement à partir de l'entrée en vigueur du Décret complémentaire et modificatif peuvent faire naître des bénéfices résultant de la planification spatiale, et ce, quelle que soit la date à laquelle la procédure d'établissement a été démarrée.  \n        L'obligation incluse dans l'article 38, § 1er, premier alinéa, 7° et 8°, respectivement l'article 170, § 2, deuxième alinéa, d'inclure dans les plans d'exécution spatiaux, respectivement les plans particuliers d'aménagement, un registre des parcelles soumises à une modification de destination pouvant donner lieu à une indemnisation de dommages, à l'imposition d'une taxe sur les bénéfices visée à l'article 87, ainsi qu'à une compensation comme mentionnée dans le livre 6, titre 2 ou titre 3 du décret 27 mars 2009 du relatif à la politique foncière et immobilière ou à une compensation d'usager, vaut également pour les plans d'exécution spatiaux et les plans particuliers d'aménagement établis ou adoptés provisoirement à partir de l'entrée en vigueur du Décret complémentaire et modificatif.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.265Z",
+  "tokenUsage": {
+    "prompt": 2122,
+    "completion": 427,
+    "total": 2549
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996029179",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\">A l'article 2 de l'arrêté de l'Exécutif de la Communauté française du 31 août 1992 exécutant le décret du 29 juillet 1992 portant organisation de l'enseignement secondaire de plein exercice, modifié par l'arrêté du Gouvernement du 1er juin 1993, sont apportées les modifications suivantes :</span>\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au § 1er, alinéa 1er, 1°, les mots \"par 20, pour une troisième tranche de 200 élèves, par 22 pour les élèves suivants\" sont remplacés par les mots \"par 22, pour une troisième tranche de 40 élèves, par 24 pour les élèves suivants\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le § 1er, alinéa 1er, 2° est remplacé par la disposition suivante : \"2° le nombre de périodes-professeur pour les cours de la formation optionnelle est obtenu en multipliant le nombre total d'élèves de ces deux années par 6 et en divisant le résultat par 20;\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au § 1er, alinéa 1er, 3°, les mots \"par 18, pour une troisième tranche de 200 élèves, par 20 pour les élèves suivants\" sont remplacés par les mots \"par 20, pour une troisième tranche de 40 élèves, par 22 pour les élèves suivants\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le § 1er, alinéa 1er, 5° et alinéa 2, est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.108Z",
+  "tokenUsage": {
+    "prompt": 2138,
+    "completion": 546,
+    "total": 2684
+  }
+}

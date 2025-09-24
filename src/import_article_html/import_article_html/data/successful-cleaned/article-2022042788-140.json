@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042788",
+  "articleNumber": "140",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-140\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 140</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les textes réglementaires suivants entrent en vigueur le 1er janvier 2023 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les articles 1 à 5, 7, 8, les article 10 à 62 et les articles 65 à 68 décret du 3 juin 2022 portant diverses mesures relatives à la restructuration du domaine politique du Logement ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les articles 1 à 25, l'article 26, 1° à 4° et 6° à 21°, les articles 27 à 35, les articles 37 à 52, 56, 59, les articles 68 à 80, les articles 82 à 88, l'article 91, 2° et 3°, les articles 92 à 94, les articles 96 à 110, les articles 112, 114, 115, 117, 129, 131, 134 à 139 du présent arrêté.</span>\n        </li>\n      </ol>\n      <p>Les articles 111 et 118 du présent arrêté entrent en vigueur le 1er octobre 2023.</p>\n      <p>Le ministre se prononce sur l'entrée en vigueur de l'article 6 du décret du 3 juin 2022 portant diverses mesures relatives à la restructuration du domaine politique du Logement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.865Z",
+  "tokenUsage": {
+    "prompt": 1961,
+    "completion": 424,
+    "total": 2385
+  }
+}

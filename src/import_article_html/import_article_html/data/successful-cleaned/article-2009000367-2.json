@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009000367",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les dates d'entrée en vigueur des articles suivants de l'arrêté royal du 21 décembre 2006 relatif aux conditions en matière de formation et d'expérience professionnelles, aux conditions en matière d'examen psychotechnique pour l'exercice d'une fonction dirigeante ou d'exécution dans une entreprise de gardiennage ou un service interne de gardiennage et relatives à l'agrément des formations sont :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">en ce qui concerne l'article 74, 3°, le 20 février 2008;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">en ce qui concerne l'article 51, pour les branches fixées aux articles 9, 3°, 10, 2° et 12, 2°, le 1er mars 2008;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">en ce qui concerne les articles 52 et 53, le 1er mars 2008;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">en ce qui concerne l'article 3, 9°, le 1er juillet 2008;</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">en ce qui concerne l'article 2, 4°, le 1er septembre 2008;</span></li>\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">en ce qui concerne l'article 3, 8°, le 1er octobre 2008.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.073Z",
+  "tokenUsage": {
+    "prompt": 2000,
+    "completion": 478,
+    "total": 2478
+  }
+}

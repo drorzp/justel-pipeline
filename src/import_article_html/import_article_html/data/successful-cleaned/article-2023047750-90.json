@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047750",
+  "articleNumber": "90",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-90\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 90</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le promoteur introduit une justification financière de la subvention visée à l'article 75. La justification financière démontre les coûts qui ont été exposés pour réaliser les activités pour lesquelles la subvention a été octroyée, et les produits qui ont été dégagés, dans le cadre de ces activités, des activités proprement dites ou d'autres sources. La justification financière précitée contient tous les éléments suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">un état récapitulatif contenant un aperçu global de tous les coûts et produits se rapportant à la période subventionnée pour les activités subventionnées du promoteur et de chaque partenaire ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un compte de résultats du promoteur et de chaque partenaire reprenant tous les coûts et produits se rapportant à la période subventionnée pour les activités subventionnées. Les éventuelles subventions supplémentaires octroyées par l'Autorité flamande ou d'autres autorités pour les mêmes activités figurent également dans le compte de résultats précité ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les pièces justificatives du promoteur et de chaque partenaire.</span></li>\n      </ol>\n      <p class=\"intro-text\">Chaque partenaire transmet au promoteur toutes les pièces visées à l'alinéa 1er, 2° et 3°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.496Z",
+  "tokenUsage": {
+    "prompt": 1937,
+    "completion": 419,
+    "total": 2356
+  }
+}

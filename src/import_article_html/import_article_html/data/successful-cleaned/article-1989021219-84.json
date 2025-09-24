@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1989021219",
+  "articleNumber": "84",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-84\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 84</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"30-06-1971/01\" data-law-type=\"L\" data-article-number=\"1\">\n          dispositions modificatives des art. 1er, 17° et 1bis de L 30-06-1971/01\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.719Z",
+  "tokenUsage": {
+    "prompt": 1436,
+    "completion": 160,
+    "total": 1596
+  }
+}

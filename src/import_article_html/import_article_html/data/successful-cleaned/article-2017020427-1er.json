@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017020427",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 19 janvier 2007 fixant les rétributions dues pour l'inscription des variétés aux catalogues nationaux des variétés, pour l'exercice de certaines professions dans le secteur du matériel de multiplication végétale et pour le contrôle de ce matériel, modifié par les arrêtés du Gouvernement flamand des 21 janvier 2011 et 19 décembre 2014, il est ajouté un point 12° et un point 13°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"12°\">\n          <span class=\"provision-text\">variété assortie d'une description officielle : une variété de matériel de multiplication de plantes fruitières satisfaisant aux exigences visées à l'article 7, alinéa 1er, de l'arrêté ministériel du 25 juillet 2016 relatif à l'enregistrement des fournisseurs et des variétés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"13°\">\n          <span class=\"provision-text\">variété assortie d'une description officiellement reconnue : une variété de matériel de multiplication de plantes fruitières assortie d'une description reconnue par l'entité compétente, cumulant les caractéristiques spécifiques de la variété, rendant la variété identifiable et obtenue selon un mode autre que par le biais d'un examen de sa distinction, homogénéité et stabilité.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.732Z",
+  "tokenUsage": {
+    "prompt": 1934,
+    "completion": 407,
+    "total": 2341
+  }
+}

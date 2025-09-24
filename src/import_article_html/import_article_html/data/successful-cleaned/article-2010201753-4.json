@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010201753",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour l'application du présent arrêté, conformément aux articles 124, § 1er et 144, § 3 de la loi, lorsque les indemnités complémentaires visées à l'article 114, 2°, 3° et 5° qui sont versées ne couvrent pas un mois entier parce que la période d'indemnisation commence ou se termine au cours d'un mois ou que le bénéficiaire épuise les jours couverts par un pécule de vacances comme prévu à l'article 46 de l'arrêté royal du 25 novembre 1991 susmentionné, les cotisations et les retenues visées aux articles 117, 119, 121 et 126 de la loi sont calculées uniquement pour les jours couverts par l'indemnité complémentaire convertis dans un régime hebdomadaire de six jours où un mois complet est égal à vingt-six jours.</p>\n        <p>Dans ce cas, les cotisations ou retenues visées ci-dessus sont calculées pour un mois complet et le montant obtenu est ensuite multiplié par une fraction dont le numérateur est égal au nombre de jours couverts par l'indemnité complémentaire convertis en régime hebdomadaire de six jours et le dénominateur est égal à vingt-six. Le montant obtenu est arrondi conformément à l'article 2 du présent arrêté.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.337Z",
+  "tokenUsage": {
+    "prompt": 1907,
+    "completion": 387,
+    "total": 2294
+  }
+}

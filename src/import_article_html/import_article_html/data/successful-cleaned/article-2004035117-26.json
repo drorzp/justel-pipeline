@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004035117",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 88 du même décret, modifié par les décrets des 26 avril 2000, 13 juillet 2001 et 19 juillet 2002, est modifié comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au § 1er, les mots \" de bâtir conformément à l'article 99, § 1er, 1° \" sont remplacés par les mots \" de bâtir des habitations, immeubles d'entreprises ou infrastructures récréatives ou de réaliser une modification de fonction conformément à l'article 99, § 1er, premier alinéa, 1° ou 6° \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au § 2, les 2° et 3° sont supprimés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au § 4, les mots \" de bâtir ou le permis de lotir \" sont remplacés par les mots \" de construire des habitations, des immeubles d'entreprises ou des infrastructures récréatives ou de réaliser une modification de fonction, ou le permis de lotir \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.738Z",
+  "tokenUsage": {
+    "prompt": 2060,
+    "completion": 388,
+    "total": 2448
+  }
+}

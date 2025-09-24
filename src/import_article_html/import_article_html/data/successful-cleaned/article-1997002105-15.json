@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997002105",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A la même annexe, Secteur V - Agriculture et Classes Moyennes, les modifications suivantes sont apportées à la rubrique C :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 1°, les mots \" Le Ministère de l'Agriculture \" sont remplacés par les mots \" Le Ministère des Classes Moyennes et de l'Agriculture \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le 2°, le 4°, le 5° et le 7° sont supprimés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.117Z",
+  "tokenUsage": {
+    "prompt": 1607,
+    "completion": 242,
+    "total": 1849
+  }
+}

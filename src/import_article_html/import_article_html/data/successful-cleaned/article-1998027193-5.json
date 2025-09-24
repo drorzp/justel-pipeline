@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998027193",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge, à l'exception de l'article 2,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">qui produit ses effets le 1er mars 1998.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.091Z",
+  "tokenUsage": {
+    "prompt": 1506,
+    "completion": 186,
+    "total": 1692
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010A09589",
+  "articleNumber": "94",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-94\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 94</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La communication de la décision de l'administration compétente Les décisions administratives ou judiciaires infligeant les amendes administratives, déclarant la culpabilité ou par laquelle l'infraction est classée sans suite sont communiquées par l'administration compétente au service d'inspection qui a dressé le procès-verbal <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-05-15/19\" data-law-type=\"L\" data-article-number=\"41\">et au ministère public</span>.</p>\n      <p>Si la décision infligeant une amende administrative ou déclarant la culpabilité est relative à des faits visés aux articles 151, 152, 175, 181, 186, alinéa 1er, 1° à 3° et 7°, 188, 209 et 210, l'administration compétente en transmet une copie à la Commission instituée par l'article 13 de la loi du 20 mars 1991 organisant l'agréation d'entrepreneurs de travaux <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-11-07/02\" data-law-type=\"L\" data-article-number=\"20\">...</span>.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.339Z",
+  "tokenUsage": {
+    "prompt": 1950,
+    "completion": 355,
+    "total": 2305
+  }
+}

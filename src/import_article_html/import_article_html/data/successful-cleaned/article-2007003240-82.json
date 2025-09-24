@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003240",
+  "articleNumber": "82",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-82\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 82</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3 de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le § 1er est complété comme suit :</span>\n        </li>\n        <li class=\"provision\" data-number=\"14°\">\n          <span class=\"provision-text\">\" internalisateur systématique \" : un établissement de crédit qui, de façon organisée, fréquente et systématique, négocie pour compte propre en exécutant les ordres des clients en dehors d'un marché réglementé ou d'un MTF.</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le § 2 est completé par l'alinéa suivant : \" Lorsque l'alinéa 1er renvoie aux instruments financiers visés à l'article 2, alinéa 1er, 1°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, les services et activités mentionnés à l'article 46, 1° et 2°, de la loi du 6 avril 1995 relative au statut et au contrôle des entreprises d'investissement tombent dans le champ d'application du régime de reconnaissance mutuelle prévu par la présente loi.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.773Z",
+  "tokenUsage": {
+    "prompt": 1916,
+    "completion": 407,
+    "total": 2323
+  }
+}

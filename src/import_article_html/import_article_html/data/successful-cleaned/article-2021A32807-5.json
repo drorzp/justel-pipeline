@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021A32807",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La présente convention collective de travail vise également à prévoir, en dérogation de l'article 3, alinéa 2, un régime supplétif d'emploi de fin de carrière pour les travailleurs qui remplissent les conditions fixées à l'article 6, § 5, alinéa 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de l'arrêté royal du 12 décembre 2001 et qui ressortissent à une branche d'activité qui ne relève pas d'une commission paritaire instituée ou lorsque la commission paritaire instituée ne fonctionne pas.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Commentaire La présente disposition a pour objet de donner aux secteurs qui ne sont pas en mesure de prendre des initiatives sectorielles en raison du fait que leur branche d'activité ne relève pas d'une commission paritaire instituée ou lorsque la commission paritaire instituée ne fonctionne pas, la possibilité de mettre en oeuvre l'abaissement de la limite d'âge fixée à l'article 3, alinéa 1er de la présente convention en application de l'article 6, § 5, alinéa 4 de l'arrêté royal du 12 décembre 2001 pris en exécution du chapitre IV de la loi du 10 août 2001 relative à la conciliation entre l'emploi et la qualité de vie concernant le système du crédit-temps, la diminution de carrière et la réduction des prestations de travail à mi-temps, tel que modifié par l'article 4 de l'arrêté royal du 30 décembre 2014.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.802Z",
+  "tokenUsage": {
+    "prompt": 2058,
+    "completion": 472,
+    "total": 2530
+  }
+}

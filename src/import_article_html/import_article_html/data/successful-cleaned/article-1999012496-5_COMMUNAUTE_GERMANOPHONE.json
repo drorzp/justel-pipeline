@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999012496",
+  "articleNumber": "5_COMMUNAUTE_GERMANOPHONE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5_COMMUNAUTE_GERMANOPHONE\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5_COMMUNAUTE_GERMANOPHONE</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2015-07-02/26\" data-law-type=\"ARW\" data-article-number=\"2\">\n        Par dérogation à l'article 4, § 2, de la loi, l'autorisation peut être accordée à l'employeur pour l'occupation de ressortissants visés \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2018-06-07/15\" data-law-type=\"ACG\" data-article-number=\"3\">...</span> \n        à l'article 9, qui ont pénétré en Belgique avant que l'employeur ait obtenu l'autorisation d'occupation.\n      </span>\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"4\" data-dossier-number=\"2019-05-23/27\" data-law-type=\"ACG\" data-article-number=\"6\">\n        L'alinéa 1er ne s'applique pas aux permis pour les personnes mentionnées à l'article 9, 14°, et celles mentionnées à l'article 9, 21°, dans le cadre d'une demande d'autorisation de travail en vue d'un transfert temporaire intragroupe. \n        Aux fins d'application de l'alinéa 1er, le séjour doit être autorisé ou accordé pour une période de plus de nonante jours conformément au titre Ier, chapitre III, de la loi du 15 décembre 1980 au ressortissant d'un pays tiers pour les demandes mentionnées à l'article 9, 5° et 23°.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.231Z",
+  "tokenUsage": {
+    "prompt": 2211,
+    "completion": 452,
+    "total": 2663
+  }
+}

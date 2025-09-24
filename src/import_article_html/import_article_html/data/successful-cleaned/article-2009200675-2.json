@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009200675",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 20 de l'arrêté du Gouvernement wallon du 20 décembre 2001 portant exécution du décret du 18 juillet 2001 relatif à l'aide sociale aux justiciables, les 1°, 2° et 3° sont remplacées par les 1°, 2° et 3° suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">catégorie I : un psychologue à raison de 0,5 équivalent temps plein et un travailleur social à raison de 1 équivalent temps plein;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">catégorie II : un psychologue à raison de 0,5 équivalent temps plein, un porteur d'un grade académique de deuxième cycle dans le domaine des sciences humaines et sociales à raison de 0,5 équivalent temps plein, des travailleurs sociaux à raison de 1,25 équivalent temps plein et un travailleur social ou un agent administratif à raison de 0,25 équivalent temps plein;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">catégorie III : un psychologue équivalent temps plein, un porteur d'un grade académique de deuxième cycle dans le domaine des sciences humaines et sociales à raison de 0,5 équivalent temps plein, des travailleurs sociaux à raison de 1,50 équivalent temps plein et un travailleur social ou un agent administratif à raison de 0,5 équivalent temps plein.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.931Z",
+  "tokenUsage": {
+    "prompt": 1997,
+    "completion": 451,
+    "total": 2448
+  }
+}

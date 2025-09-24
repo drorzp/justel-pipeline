@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035133",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour être classé au niveau flamand, le musée ou l'organisme d'archivage culturel entreprend, en exécution de l'article 19, § 2, premier alinéa, 2°, 3°, 4° et 9° du décret, les actions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">il accomplit une tâche au niveau du patrimoine culturel en Flandre;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il joue un rôle dans l'implication de la population au patrimoine culturel;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">il joue un rôle vis-à-vis d'acteurs dans les autres domaines politiques, entre autres la jeunesse, l'enseignement, le tourisme, l'aide sociale, l'économie et l'environnement;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">il assume un rôle moteur et joue un rôle dans des réseaux, partenariats et projets locaux, régionaux, nationaux et internationaux;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">il met son savoir, son expertise et ses moyens sur le plan de l'exercice d'une ou plusieurs fonctions de base à la disposition du patrimoine culturel d'une manière active et réceptive, et tant sur le plan géographique, thématique que méthodique;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">il apporte une contribution au développement du domaine politique du patrimoine culturel en Flandre.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.080Z",
+  "tokenUsage": {
+    "prompt": 2022,
+    "completion": 501,
+    "total": 2523
+  }
+}

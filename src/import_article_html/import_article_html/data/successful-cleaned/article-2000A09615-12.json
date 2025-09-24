@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000A09615",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un comité d'accompagnement soumettra l'application du présent accord de coopération à une évaluation annuelle. Il sera composé de 12 membres dont 6 désignés par le Ministre de la Justice et 6 désignés par les Ministres bruxellois compétents. Pour chacun des membres, un ou deux suppléants seront également désignés.</p>\n            <p class=\"intro-text\">Ce comité rédigera un rapport à l'intention du Ministre de la Justice et des Ministres bruxellois compétents, dans un délai de trois mois maximum après réception des rapports et données visés à l'article 5, 9° et à l'article 9, 3°.</p>\n            <p class=\"closing-text\">Au moins une fois l'an, une réunion des différents comités d'accompagnement institués dans le cadre des accords de coopération entre l'Etat fédéral et les différentes Communautés/Régions concernant la guidance et le traitement des auteurs d'infractions à caractère sexuel, sera organisée au niveau national pour partager expériences et informations, coordonner leur action et formuler des recommandations à l'intention des Ministres cosignataires.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.259Z",
+  "tokenUsage": {
+    "prompt": 1853,
+    "completion": 326,
+    "total": 2179
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019014023",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les personnes suivantes peuvent affilier une personne désireuse de faire appel à une intervention :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'époux, l'épouse ou le partenaire cohabitant légal de la personne en question ;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">un parent au premier degré de la personne en question ;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le responsable de la structure de soins en question ;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le fournisseur d'aides à la mobilité en question.</span></li>\n            </ol>\n            <p class=\"closing-text\">Les personnes visées à l'alinéa 1er, 3° et 4°, ne peuvent affilier une personne qu'administrativement.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.337Z",
+  "tokenUsage": {
+    "prompt": 1702,
+    "completion": 313,
+    "total": 2015
+  }
+}

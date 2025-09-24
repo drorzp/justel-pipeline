@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017201499",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 17 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'alinéa 2 est remplacé par ce qui suit :\n                        \" Cette aide est réduite à 250 euros par hectare sur les surfaces pouvant bénéficier de l'indemnité Natura 2000 prévue par l'arrêté du Gouvernement wallon du 14 juillet 2016 pour les unités de gestion \" milieux ouverts prioritaires \", \" prairies habitats d'espèces \", \" zones sous statut de protection \" et \" zones à gestion publique \", visées par à l'article 2, 2°, 3°, 14° et 15° de l'arrêté du Gouvernement wallon 19 mai 2011 \";\n                    </span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'alinéa 3 est remplacé par ce qui suit :\n                        \" Cette aide n'est pas accordée pour les surfaces pouvant bénéficier de l'indemnité Natura 2000 prévue par l'arrêté du Gouvernement wallon du 14 juillet 2016 pour l'unité de gestion \" bandes extensives \" visée à l'article 2, 4°, de l'arrêté du Gouvernement wallon 19 mai 2011 \".\n                    </span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.632Z",
+  "tokenUsage": {
+    "prompt": 1906,
+    "completion": 397,
+    "total": 2303
+  }
+}

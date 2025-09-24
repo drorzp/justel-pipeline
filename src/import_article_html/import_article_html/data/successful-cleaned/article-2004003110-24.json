@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004003110",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5, du même arrêté, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les mots &quot;de l'article 53, alinéa 1er, 3°&quot; sont remplacés par les mots &quot;de l'article 53, § 1er, alinéa 1er, 2°&quot;;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le dernier alinéa est remplacé par l'alinéa suivant : &quot; Lorsque l'assujetti visé à l'alinéa 1er n'a pas rempli, en tout ou en partie, les obligations prescrites par l'article 53, § 1er, alinéa 1er, 2° et 3°, du Code, le formulaire nécessaire à l'établissement de cette déclaration n'est délivré qu'à la condition que soit produit à l'office visé à l'alinéa 1er la facture ou le document régulier que l'assujetti doit délivrer ou établir en vertu de l'article 53, § 2, du Code, et des articles 1er, 2 ou 3 de l'arrêté royal n° 1 relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.652Z",
+  "tokenUsage": {
+    "prompt": 1964,
+    "completion": 425,
+    "total": 2389
+  }
+}

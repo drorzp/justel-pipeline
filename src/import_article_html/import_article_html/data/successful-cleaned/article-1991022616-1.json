@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991022616",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">L'Institut national d'assurance maladie-invalidité percoit les recettes visées à l'article 24, 1°, 2°, 3°, 4° et 5° de la loi du 16 avril 1963 relative au reclassement social des handicapés.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>La perception visée au § 1er s'effectue conformément aux dispositions du chapitre XIV de l'arrêté royal du 5 juillet 1963 concernant le reclassement social des handicapés, modifié par les dispositions de l'article 2 du présent arrêté.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.013Z",
+  "tokenUsage": {
+    "prompt": 1733,
+    "completion": 280,
+    "total": 2013
+  }
+}

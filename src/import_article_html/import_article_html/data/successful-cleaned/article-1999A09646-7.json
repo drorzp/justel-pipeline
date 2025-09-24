@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A09646",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour la détermination du pouvoir de contrôle :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">le pouvoir détenu indirectement à l'intermédiaire d'une filiale est ajouté au pouvoir détenu directement;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">le pouvoir détenu par une personne servant d'intermédiaire à une autre personne est censé détenu exclusivement par cette dernière.</span>\n          </li>\n        </ol>\n        <p>Pour la détermination du pouvoir de contrôle, il n'est pas tenu compte des suspensions du droit de vote ni des limitations à l'exercice du pouvoir de vote prévues par le présent code ou par des dispositions légales ou statutaires d'effet analogue.</p>\n        <p>Pour l'application de l'article 5, § 2, 1° et 4°, les droits de vote afférents à l'ensemble des actions, parts et droits d'associés d'une filiale s'entendent déduction faite des droits de vote afférents aux actions, parts et droits d'associés de cette filiale détenus par elle-même ou par ses filiales. La même règle s'applique dans le cas visé à l'article 5, § 3, alinéa 2, en ce qui concerne les titres représentés aux deux dernières assemblées générales.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par \" personne servant d'intermédiaire \", il faut entendre toute personne agissant en vertu d'une convention de mandat, de commission, de portage, de prête-nom, de fiducie ou d'une convention d'effet équivalent, pour le compte d'une autre personne.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.267Z",
+  "tokenUsage": {
+    "prompt": 2106,
+    "completion": 539,
+    "total": 2645
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032706",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1 de l'arrêté du Gouvernement flamand du 4 mars 2011 fixant la subvention d'investissement et les normes techniques et physiques de la construction pour le secteur des établissements de soins destinés à des familles avec des enfants, modifié par les arrêtés du Gouvernement flamand des 5 septembre 2014, 30 octobre 2015 et 18 novembre 2016, il est inséré, entre les alinéas 2 et 3, un alinéa libellé comme suit :</p>\n      <p class=\"intro-text\">\" Les exigences visées à l'alinéa 2, 2° et 3°, ne s'appliquent pas aux emplacements d'accueil pour enfants concernés dans les cas suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'emplacement d'accueil pour enfants est situé dans la région bilingue de Bruxelles-Capitale et le demandeur dispose de places d'accueil pour enfants pour lesquelles un contractuel complémentaire subventionné a été attribué dans le cadre d'une extension de capacité, sur la base d'une convention visée à l'article 101bis de la loi-programme du 30 décembre 1988. Pour l'emplacement d'accueil d'enfants en question, le demandeur remet au Fonds la décision d'attribution du contingent de contractuels subventionnés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'emplacement d'accueil pour enfants est situé dans la région bilingue de Bruxelles-Capitale ou les métropoles d'Anvers ou de Gand et le demandeur dispose de places d'accueil pour lesquelles il reçoit une subvention de l'administration locale conformément à l'article 112/1, § 2 de l'Arrêté de procédure du 9 mai 2014. Pour l'emplacement d'accueil d'enfants en question, le demandeur remet au Fonds la décision d'attribution de la subvention.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.192Z",
+  "tokenUsage": {
+    "prompt": 2231,
+    "completion": 537,
+    "total": 2768
+  }
+}

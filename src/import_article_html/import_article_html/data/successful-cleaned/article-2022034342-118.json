@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034342",
+  "articleNumber": "118",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-118\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 118</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les modifications apportées par les articles 43, a), 48,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">3°, 53 à 76 et 81 à 110 aux dispositions relatives à la discipline des notaires et huissiers de justice, aux organes compétents pour la discipline et aux procédures disciplinaires s'appliquent uniquement pour toute accusation pour laquelle l'intéressé mis en cause n'a pas encore été cité à comparaître, selon le cas, devant la chambre des notaires, la commission de discipline, le tribunal de première instance ou la cour d'appel au moment de l'entrée en vigueur de la présente loi. Les procédures disciplinaires qui font l'objet d'une enquête par le rapporteur du comité de direction au moment de l'entrée en vigueur de la présente loi, sont immédiatement transférées par celui-ci à l'auditorat établi auprès de la Chambre nationale des huissiers de justice.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.773Z",
+  "tokenUsage": {
+    "prompt": 1778,
+    "completion": 319,
+    "total": 2097
+  }
+}

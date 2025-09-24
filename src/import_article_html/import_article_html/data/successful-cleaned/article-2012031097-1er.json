@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012031097",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\">1er</span></h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté de la Région de Bruxelles-Capitale du 27 juin 2002 portant le statut administratif et pécuniaire des agents du personnel opérationnel du SIAMU, un 10° et un 11° sont ajoutés :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">\" l'arrêté royal du 19 avril 1999 : l'arrêté royal du 19 avril 1999 établissant les critères d'aptitude et de capacité, ainsi que les conditions de nomination et de promotion des officiers des services publics d'incendie.</span>\n        </li>\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">l'A.R.P.G. : l'arrêté royal du 22 décembre 2000 fixant les principes généraux du statut administratif et pécuniaire des agents de l'Etat applicables au personnel des services des gouvernements de Communauté et de Région et des Collèges de la Commission communautaire française, ainsi que des personnes morales de droit public qui dépendent des Communautés, des Régions, de la Commission communautaire commune et de la Commission communautaire française. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.269Z",
+  "tokenUsage": {
+    "prompt": 1845,
+    "completion": 382,
+    "total": 2227
+  }
+}

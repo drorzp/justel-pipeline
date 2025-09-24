@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025001305",
+  "articleNumber": "51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-51\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 51</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 307, § 1er, alinéa 1er, de la même loi, renuméroté et modifié par la loi du 6 décembre 2018, les mots \"de la présente loi et de ses arrêtés et règlements d'exécution\" sont remplacés par les mots \"visées à l'article 297,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">,</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">\".</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.774Z",
+  "tokenUsage": {
+    "prompt": 1615,
+    "completion": 255,
+    "total": 1870
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001B00327",
+  "articleNumber": "VII.II.3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-VII-II-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article VII.II.3</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'autorité de nomination accorde la promotion et l'augmentation d'échelle de traitement visée à l'article VII.II.24,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"5°\">\n            <span class=\"provision-text\">.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>(A l'exception de l'augmentation d'échelle de traitement visée au § 1er, l'échelle de traitement supérieure dans la carrière barémique est octroyée par le commissaire général ou le directeur général qu'il désigne ou, selon le cas, le chef de corps ou le membre du personnel qu'il désigne. Toutefois, si l'évaluation d'un membre du personnel de la police locale comporte la mention finale \"insuffisant\", l'autorité compétente dans le cadre de la carrière barémique est le bourgmestre ou le collège de police. Le ministre fixe les modalités relatives à cet octroi.) \n          <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-03-02/35\" data-law-type=\"AR\" data-article-number=\"5\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007030235\">\n            &lt;AR 2007-03-02/35, art. 5, **En vigueur :**24-03-2007&gt;\n          </span>\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.685Z",
+  "tokenUsage": {
+    "prompt": 2044,
+    "completion": 522,
+    "total": 2566
+  }
+}

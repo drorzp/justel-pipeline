@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023A31427",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les sociétés de révision qui, à la date d'entrée en vigueur du présent règlement, possèdent un agrément de l'Office de contrôle pour exercer des missions visées par le présent règlement, sont, jusqu'à preuve du contraire, présumées satisfaire, à cette date, aux conditions visées à l'article 9, § 1er, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n      </ol>\n      <p class=\"closing-text\">La société de révision qui, à la date d'entrée en vigueur du présent règlement, ne satisfait pas à la condition visée à l'article 9, § 1er, alinéa 1er, 3°, doit remplir cette condition dans les 2 mois de cette entrée en vigueur, à peine de voir son agrément prendre fin de plein droit à l'issue de ce délai. Le cas échéant, l'Office de contrôle constate la fin de l'agrément et la notifie à la société de révision par lettre recommandée.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.509Z",
+  "tokenUsage": {
+    "prompt": 1814,
+    "completion": 387,
+    "total": 2201
+  }
+}

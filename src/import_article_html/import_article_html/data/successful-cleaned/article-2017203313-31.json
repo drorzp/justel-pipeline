@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017203313",
+  "articleNumber": "31",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-31\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 31</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'entité adjudicatrice qui entend passer un marché public pour des services sociaux et autres services spécifiques énumérés à l'annexe III de la loi, utilise comme moyen d'appel à la concurrence l'un des avis énumérés à l'article 160, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1°</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2°</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">3°</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">4°</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">de la loi. Les avis énumérés audit article contiennent les informations visées à l'annexe 8.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.555Z",
+  "tokenUsage": {
+    "prompt": 1599,
+    "completion": 319,
+    "total": 1918
+  }
+}

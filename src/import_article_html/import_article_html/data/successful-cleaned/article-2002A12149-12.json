@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002A12149",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le Fonds professionnel de la marine marchande dispose des cotisations :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\"><span class=\"item-text\">dues par les employeurs visés à l'article 5, 1° des présents statuts, ainsi que des intérêts des montants investis et des réserves éventuelles;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">dues par les pouvoirs publics pour régulariser l'indemnité complémentaire pour certains officiers, marins subalternes, officiers-radioélectriciens et shoregangers comme il est mentionné à l'article 3, 6° et 7°.</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.711Z",
+  "tokenUsage": {
+    "prompt": 1628,
+    "completion": 245,
+    "total": 1873
+  }
+}

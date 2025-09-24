@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011538",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article XI.235 du même Code, est remplacé comme suit :</p>\n      <p>\"Art. XI.235. Les auteurs ont droit à une rémunération pour la reproduction sur papier ou sur un support similaire de leurs oeuvres, lorsque cette reproduction est effectuée dans les conditions fixées par les articles XI.190, 5° et XI.191, § 1er, 1°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.246Z",
+  "tokenUsage": {
+    "prompt": 1519,
+    "completion": 164,
+    "total": 1683
+  }
+}

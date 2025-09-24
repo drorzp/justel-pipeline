@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994031504",
+  "articleNumber": "150/2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-150/2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 150/2</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-07-06/04\" data-law-type=\"ARR\" data-article-number=\"6\">\n      Un agent statutaire peut obtenir un congé de maximum quarante-cinq jours ouvrables par année civile en raison de :\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1.\">\n          <span class=\"provision-text\">l'hospitalisation d'une personne habitant sous le même toit que l'agent, ou d'un parent ou allié au premier degré n'habitant pas sous le même toit que l'agent;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2.\">\n          <span class=\"provision-text\">l'assistance à une personne alitée habitant sous le même toit que l'agent ou à un parent ou à un allié au premier degré n'habitant pas sous le même toit que l'agent, qui doit recevoir des soins particuliers en raison de son état de santé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3.\">\n          <span class=\"provision-text\">la garde d'un de ses enfants qui n'a pas atteint l'âge de 15 ans.</span>\n        </li>\n        <li class=\"provision\" data-number=\"4.\">\n          <span class=\"provision-text\">La garde d'un enfant handicapé sans limite d'âge.</span>\n        </li>\n      </ol>\n      <p>Si le congé pour des motifs impérieux d'ordre familial est pris au cours d'une période de travail à temps partiel, sa durée est réduite à due concurrence, étant entendu qu'un jour de congé correspond au nombre d'heures qui auraient dû être presté par l'agent le jour où il bénéficie du congé.</p>\n      <p>La demande visant un congé prévu au 3° et 4° doit être introduite un mois avant le début de ce congé ; ce délai peut être réduit de commun accord.</p>\n      <p>Ce congé peut être pris par jour entier ou par demi-jour pour autant que l'intérêt du service ne s'y oppose pas</p>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.124Z",
+  "tokenUsage": {
+    "prompt": 2197,
+    "completion": 558,
+    "total": 2755
+  }
+}

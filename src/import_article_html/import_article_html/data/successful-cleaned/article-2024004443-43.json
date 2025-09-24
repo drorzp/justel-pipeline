@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004443",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les aides à l'édition sont réservées aux éditeurs répondant aux conditions de l'article 6, §§ 2 et 4. Par dérogation à l'article 6, § 2, 3°, les revues éditées à l'étranger sont éligibles au soutien prévu à l'article 42, § 1er, 4° et 5°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.339Z",
+  "tokenUsage": {
+    "prompt": 1520,
+    "completion": 165,
+    "total": 1685
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005007190",
+  "articleNumber": "90",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-90\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 90</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La présente loi entre en vigueur le jour de sa publication au Moniteur belge, à l'exception de l'article 56, qui produit ses effets le 8 mai 1994, et à l'exception des articles 13, 3°, 49, 59, 66, 1° à 8°, 69, 71, 72, 73 et 74 qui entrent en vigueur à la date fixée par le Roi.</p>\n      <p>(NOTE : Entrée en vigueur des articles 49, 59, 69, 71, 72, 73 et 74 fixée au 01-06-2006 par AR <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006052332\">2006-05-23/32</a>, art. 93, 1°)</p>\n      <p>(NOTE : Entrée en vigueur des articles 13, 3° et 66, 1° à 8° fixée le 01-09-2006 par AR <a href=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2006052332\">2006-05-23/32</a>, art. 94, 1°)</p>\n      <p>Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.</p>\n      <p>Donné à Bruxelles, le 16 juillet 2005.</p>\n      <p>ALBERT</p>\n      <p>Par le Roi :</p>\n      <p>Le Ministre de la Défense,</p>\n      <p>A. FLAHAUT</p>\n      <p>Scellé du sceau de l'Etat :</p>\n      <p>Pour la Ministre de la Justice, absente,</p>\n      <p>Le Ministre de la Défense,</p>\n      <p>A. FLAHAUT</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.756Z",
+  "tokenUsage": {
+    "prompt": 2196,
+    "completion": 538,
+    "total": 2734
+  }
+}

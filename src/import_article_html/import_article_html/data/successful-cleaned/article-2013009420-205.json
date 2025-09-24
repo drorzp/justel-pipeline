@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013009420",
+  "articleNumber": "205",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-205\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 205</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1253sexies, § 1er, alinéa 1er, du même Code, inséré par la loi du 14 juillet 1976, le mot &quot;requêtes&quot; est remplacé par le mot &quot;demandes&quot; et les mots &quot;à l'article 4, § 1er, 1° et 2°, de la loi du 10 février 1908&quot; sont remplacés par les mots &quot;à l'article 272bis, § 2, 1° et 2°, du Code de commerce&quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.025Z",
+  "tokenUsage": {
+    "prompt": 1701,
+    "completion": 215,
+    "total": 1916
+  }
+}

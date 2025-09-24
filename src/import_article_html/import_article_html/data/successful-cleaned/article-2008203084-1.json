@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008203084",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le premier et le second alinéas de l'article 218 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine sont modifiés de manière à se lire comme suit :</p>\n            <p class=\"intro-text\">\"L'Institut du Patrimoine wallon a pour objet d'assister des propriétaires de biens classés en vue de réhabiliter ceux-ci, d'assurer la conservation des savoir-faire et le perfectionnement dans les métiers du patrimoine, de valoriser des propriétés ou parties de propriétés régionales classées n'ayant pas d'affectation administrative, et de sensibiliser le public à la protection et à la valorisation du patrimoine tel que défini à l'article 185 du présent Code ainsi qu'aux savoir-faire relatifs à ce patrimoine, en ce compris l'organisation des Journées du Patrimoine et des initiatives pour la jeunesse qui en découlent.</p>\n            <p class=\"intro-text\">La mission d'assistance aux propriétaires de biens classés s'exerce, d'une part, à l'égard des biens énumérés dans une liste arrêtée par le Gouvernement, laquelle ne peut comprendre que des biens situés sur le territoire de la Région wallonne, à l'exception du territoire de langue allemande; et, d'autre part, pour les actes visés à l'article 219,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">4°, à l'égard des biens classés à réaffecter dont les propriétaires en font la demande, dans les mêmes limites territoriales\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.922Z",
+  "tokenUsage": {
+    "prompt": 2005,
+    "completion": 455,
+    "total": 2460
+  }
+}

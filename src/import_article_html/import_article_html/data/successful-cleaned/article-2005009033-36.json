@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005009033",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'enquête sur la personne et la situation du condamné comporte une enquête sur les circonstances qu'il est nécessaire de connaître :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">pour personnaliser le principe de la limitation des effets préjudiciables formulé à l'article 6, § 2;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">pour personnaliser les objectifs de l'exécution de la peine privative de liberté, tels que prévus à l'article 9, § 2;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">pour, au besoin, moduler judicieusement la décision de placement, sur la base d'informations recueillies au cours de l'enquête visée aux points 1° et 2°.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le condamné a le droit de prendre connaissance des résultats de l'enquête.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p><span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-12-25/14\" data-law-type=\"L\" data-article-number=\"135\">...</span>.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.754Z",
+  "tokenUsage": {
+    "prompt": 2017,
+    "completion": 507,
+    "total": 2524
+  }
+}

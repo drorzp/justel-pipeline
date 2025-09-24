@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008202941",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le présent décret, on entend par :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">utilisateur : une personne physique qui, à partir d'un besoin déterminé, a recours, volontairement ou non à la délivrance d'aide et de soins délivrés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">délivrance d'aide et de soins : l'assistance ou les services visant à effectuer des activités de la vie journalière en lieu et place de l'utilisateur ou de personnes de son entourage qu'ils effectueraient eux-mêmes s'ils en étaient capables ou à soutenir l'utilisateur ou les personnes de son entourage lors de l'exécution de ces activités;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">établissement d'aide sociale : une organisation qui exerce des activités dans les matières, visées à l'article 5, § 1er, II, 1°, 2° et 4° à 7° de la loi spéciale de réformes institutionnelles du 8 août 1980 et qui est agréée par l'Autorité flamande ou est soumise à son contrôle.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.922Z",
+  "tokenUsage": {
+    "prompt": 1931,
+    "completion": 382,
+    "total": 2313
+  }
+}

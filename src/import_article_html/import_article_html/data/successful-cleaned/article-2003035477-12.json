@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003035477",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1erter\">\n      <h3 class=\"paragraph-marker\">§ 1erter.</h3>\n      <div class=\"paragraph-content\">\n        <p>La &quot;Mestbank&quot; revoit la teneur en éléments nutritionnels attribués à un élevage, lorsque la production de tous effluents d'élevage provenant de l'espèce animale &quot;III Volaille&quot; dans un élevage existant, a été arrêtée complètement et définitivement, conformément aux conditions et règles visées au décret du 9 mars 2001 réglant l'arrêt volontaire, complet et définitif de la production de tous les effluents d'élevage provenant d'une ou plusieurs espèces animales, et ses arrêtés d'exécution. La teneur en éléments nutritionnels revue s'applique immédiatement après l'arrêt.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.722Z",
+  "tokenUsage": {
+    "prompt": 1761,
+    "completion": 255,
+    "total": 2016
+  }
+}

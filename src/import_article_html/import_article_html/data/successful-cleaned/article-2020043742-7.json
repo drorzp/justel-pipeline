@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020043742",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 12 du même arrêté est remplacé par ce qui suit: &quot; Art. 12. Lors de l'évaluation du critère visé à l'article 9, alinéa 1er, 3°, il est tenu compte au moins des indicateurs suivants:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">il existe des besoins de soutien importants ou intensifs</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le soutien actuel est insuffisant ou inapproprié</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">aucun soutien n'est possible des services réguliers ou dans le cadre de l'aide directement accessible telle que visée à l'article 1er, 7° et 9° de l'arrêté du Gouvernement flamand du 22 février 2013 relatif à l'aide directement accessible pour les personnes handicapées</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">aucun budget n'a encore été mis à disposition pour les soins et le soutien non directement accessibles.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.080Z",
+  "tokenUsage": {
+    "prompt": 1873,
+    "completion": 364,
+    "total": 2237
+  }
+}

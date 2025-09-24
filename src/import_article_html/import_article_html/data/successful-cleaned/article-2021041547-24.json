@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021041547",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2 de l'arrêté du Gouvernement flamand du 2 octobre 2019 fixant les attributions des membres du Gouvernement flamand, modifié par l'arrêté du Gouvernement flamand du 11 septembre 2020, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 2, premier alinéa,</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">les mots \" la gestion facilitaire \" sont remplacés par les mots \" la gestion des infrastructures et les mots \" les TIC \" sont remplacés par les mots \" la gestion documentaire \"</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 2, deuxième alinéa les mots \" des TIC \" sont remplacés par les mots \" de la Numérisation \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 3, les points</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"9°\">\n              <span class=\"provision-text\">agentschap Digitaal Vlaanderen</span>\n            </li>\n            <li class=\"provision\" data-number=\"10°\">\n              <span class=\"provision-text\">Eigen Vermogen Informatie Vlaanderen.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.145Z",
+  "tokenUsage": {
+    "prompt": 2012,
+    "completion": 460,
+    "total": 2472
+  }
+}

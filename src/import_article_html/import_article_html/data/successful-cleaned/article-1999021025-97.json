@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999021025",
+  "articleNumber": "97",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-97\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 97</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>À larticle 37 de la même loi, modifié par la loi du 20 décembre 1995, les arrêtés royaux des 12 décembre 1996, 21 février 1997 et 16 avril 1997 et la loi du 22 février 1998, est inséré un § 14quinquies, libellé comme suit :</p>\n    <section class=\"paragraph\" id=\"para-14quinquies\">\n      <h3 class=\"paragraph-marker\">§ 14quinquies.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">\" Le Roi fixe, après avis du Comité de l'assurance, les conditions de remboursement pour les prestations visées à l'article 34,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"22°\"><span class=\"provision-text\">et</span></li>\n          <li class=\"provision\" data-number=\"23°\"><span class=\"provision-text\">.</span></li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.281Z",
+  "tokenUsage": {
+    "prompt": 1697,
+    "completion": 302,
+    "total": 1999
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011575",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 43 de la même loi, les mots \"articles 5, 6, 11, 14 à 20, alinéas 1er et 2, 22, alinéas 1er et 3, 23, 24, alinéas 1er à 3, 25, 1°, c, alinéa 1er, d, alinéa 1er, e, f et g, 2°, 3°, 4° et 5°, 27, 29, 31 à 34 et 36 à 40\" sont remplacés par les mots \"articles 5, 6, 11, 11/1, 11/2, 12, alinéa 4, 14 à 20, alinéas 1er et 2, 22, alinéas 1er et 3, 23, 24, alinéas 1er à 3, 25, 1°, c, alinéa 1er, d, alinéa 1er, e, f et g, 2°, 3°, 4° et 5°, 27, 29, 31 à 34, 36 à 40 et 49/1\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.456Z",
+  "tokenUsage": {
+    "prompt": 1907,
+    "completion": 357,
+    "total": 2264
+  }
+}

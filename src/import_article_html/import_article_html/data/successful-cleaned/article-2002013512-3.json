@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002013512",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 104 du Code judiciaire, modifié par les lois des 30 juin 1971 et 17 juin 2002 sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa suivant est inséré entre les alinéas 4 et 5 : \" Les chambres qui connaissent de l'appel d'un jugement rendu dans un litige portant sur la matière prévue à l'article 578, 12°, <ol class=\"sub-provisions\"><li class=\"sub-provision\" data-marker=\"b)\">, sont composées, outre les présidents, de deux conseillers sociaux nommés respectivement au titre d'employeur et au titre de travailleur indépendant \"</li></ol></span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 4 est remplacé par l'alinéa suivant : \" Les chambres qui connaissent de l'appel d'un jugement rendu dans un litige portant sur les matières prévues aux articles 578, 4°, 5°, 6°, 8°, 10° et 11 °, et 12°, <ol class=\"sub-provisions\"><li class=\"sub-provision\" data-marker=\"a)\">, 579, 580, 582, 3° et 4° ou concernant l'application aux employeurs de sanctions administratives prévues à l'article 583, sont composées, outre les présidents, de deux conseillers sociaux nommés respectivement au titre d'employeur et au titre de travailleur. \"</li></ol></span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.816Z",
+  "tokenUsage": {
+    "prompt": 2004,
+    "completion": 461,
+    "total": 2465
+  }
+}

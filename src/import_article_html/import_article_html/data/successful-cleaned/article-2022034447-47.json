@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034447",
+  "articleNumber": "47",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-47\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 47</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les délits prévus à l'article 44, § 1er, § 2,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">à 3° et 5° à 8°</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">et § 3, 1° à 4°</span>\n          </li>\n        </ol>\n        <p>les peines sont doublées lorsque les faits sont commis entre le coucher et le lever du soleil.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.773Z",
+  "tokenUsage": {
+    "prompt": 1496,
+    "completion": 255,
+    "total": 1751
+  }
+}

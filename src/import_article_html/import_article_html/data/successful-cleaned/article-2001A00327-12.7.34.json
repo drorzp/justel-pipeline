@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001A00327",
+  "articleNumber": "12.7.34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12-7-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12.7.34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Par dérogation aux articles VII.IV.22,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et VII.IV.23,</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, l'ancienneté d'échelle de traitement pour la carrière barémique exigée pour le passage respectivement vers l'échelle de traitement D2C et C2D, pour les membres du personnel qui en vertu respectivement des articles XII.II.36 et XII.II.42, obtiennent respectivement l'échelle de traitement D1C et C1D, est fixée à six ans.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.676Z",
+  "tokenUsage": {
+    "prompt": 1635,
+    "completion": 252,
+    "total": 1887
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013029038",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 54 du même arrêté, les mots \" par l'article 52, § 1er, alinéa 1er, 1°, b et c, 2°, 3°, 4° et 5° \" sont remplacés par les mots \" par l'article 52, § 1er, alinéa 1er, 1°, b et c, et 2° à 6° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.002Z",
+  "tokenUsage": {
+    "prompt": 1673,
+    "completion": 177,
+    "total": 1850
+  }
+}

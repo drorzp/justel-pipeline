@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016002038",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1er de l'arrêté royal du 17 février 2000 portant exécution de la loi du 20 juillet 1990 visant à promouvoir la présence équilibrée d'hommes et de femmes dans les organes possédant une compétence d'avis, modifié par l'arrêté royal du 7 septembre 2003, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase liminaire, les mots \" des ministères fédéraux, \" sont remplacés par les mots \" des services publics fédéraux, des services publics fédéraux de programmation et des services qui en dépendent, pour le ministère de la Défense ainsi que les services qui en dépendent, pour l'ensemble \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le 5°, les mots \" la Chambre de recours des fonctionnaires généraux\" sont remplacés par les mots \" la Chambre de recours en matière disciplinaire des titulaires d'une fonction de management ou d'encadrement\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le 6°, les mots \"la Chambre de recours des fonctionnaires dirigeants\" sont rempacés par les mots \"la Chambre de recours en matière disciplinaire des fonctionnaires dirigeants\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les dispositions sous 3°, 4° et 8° sont abrogées.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.310Z",
+  "tokenUsage": {
+    "prompt": 1977,
+    "completion": 462,
+    "total": 2439
+  }
+}

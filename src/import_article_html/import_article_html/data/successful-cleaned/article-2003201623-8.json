@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003201623",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Les sanctions prévues à l'article 7,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1°</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">2°</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3°</span>\n            </li>\n          </ol>\n          <p>sont prononcées par l'administrateur. Les sanctions, ainsi que la motivation qui les fonde, sont communiquées par écrit à l'élève et à ses parents s'il est mineur; l'administrateur s'assure du fait que les parents en ont pris connaissance.</p>\n          <p>Des tâches supplémentaires peuvent accompagner ces sanctions. Elles consistent, chaque fois que possible, en la réparation des torts causés à la victime ou en un travail d'intérêt général qui place l'élève dans une situation de responsabilisation par rapport à l'acte, au comportement ou à l'abstention répréhensibles qui sont à l'origine de la sanction. Elles peuvent aussi prendre la forme d'un travail pédagogique.</p>\n          <p>Elles font l'objet d'une évaluation par un membre du personnel.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.732Z",
+  "tokenUsage": {
+    "prompt": 1772,
+    "completion": 417,
+    "total": 2189
+  }
+}

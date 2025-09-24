@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015022562",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour pouvoir être agréé par le Comité, le candidat médecin-conseil doit remplir les conditions cumulatives suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">être Belge ou citoyen d'un autre Etat faisant partie de l'Espace économique européen ou de la Confédération suisse;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">être autorisé à pratiquer l'art de guérir en Belgique;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">n'avoir encouru aucune peine criminelle ou correctionnelle pour des faits qui sont de nature à faire douter de son intégrité morale;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">n'avoir pas fait l'objet d'une mesure prise en application des articles 73bis, 142, 143 et 144 de la Loi coordonnée;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">ne pas être l'objet d'une information ou d'une instruction judiciaire ou d'une enquête administrative susceptible d'entraîner le prononcé d' une peine ou mesure visée aux 3° et 4° ;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">ne pas être déchu de ses droits civils et politiques;</span></li>\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">n'avoir été l'objet d'aucune sanction disciplinaire de la part du Conseil de l'Ordre que le Comité considérerait comme grave; à cet effet, le candidat médecin-conseil produit la copie de la sentence disciplinaire qui lui a été notifiée par le Conseil de l'Ordre; il s'engage en outre à signaler au Comité toute sanction qui serait ultérieurement prise à son égard.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.178Z",
+  "tokenUsage": {
+    "prompt": 2097,
+    "completion": 538,
+    "total": 2635
+  }
+}

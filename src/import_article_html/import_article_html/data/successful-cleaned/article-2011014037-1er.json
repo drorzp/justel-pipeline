@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011014037",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté transpose :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la Directive 2010/22/UE de la Commission du 15 mars 2010 modifiant, aux fins de leur adaptation au progrès technique, les Directives du Conseil 80/720/CEE, 86/298/CEE, 86/415/CEE et 87/402/CEE et les Directives du Parlement européen et du Conseil 2000/25/CE et 2003/37/CE relatives à la réception par type des tracteurs agricoles ou forestiers;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">la Directive 2010/52/UE de la Commission du 11 août 2010 modifiant, aux fins de l'adaptation de leurs dispositions techniques, la Directive 76/763/CEE du Conseil concernant les sièges de convoyeur des tracteurs agricoles ou forestiers à roues et la Directive 2009/144/CE du Parlement européen et du Conseil concernant certains éléments et caractéristiques des tracteurs agricoles ou forestiers à roues;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">et la Directive 2010/62/UE de la Commission du 8 septembre 2010 modifiant, aux fins de leur adaptation au progrès technique, les Directives 80/720/CEE et 86/297/CEE du Conseil ainsi que les Directives 2003/37/CE, 2009/60/CE et 2009/144/CE du Parlement européen et du Conseil relatives à la réception par type des tracteurs agricoles ou forestiers.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.153Z",
+  "tokenUsage": {
+    "prompt": 2059,
+    "completion": 482,
+    "total": 2541
+  }
+}

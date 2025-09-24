@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020030863",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>En complément à l'article 91/6, alinéa 2, du décret, pour une période s'étendant du 1er janvier 2020 au 31 décembre 2020, et à l'exception de périodes financées sur la base de conventions visées à l'article 114, le total des périodes visées à l'article 91/6, alinéa 1er, peut, de manière cumulée, dépasser le plafond de dix pour cent de la dotation de périodes organique visée à l'article 82, sans toutefois dépasser un maximum de quinze pour cent et pour autant que le dépassement autorisé ait pour finalité de consacrer des moyens supplémentaires aux seules activités visées aux</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">, de l'alinéa 1er de cette disposition.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.259Z",
+  "tokenUsage": {
+    "prompt": 1779,
+    "completion": 334,
+    "total": 2113
+  }
+}

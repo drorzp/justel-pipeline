@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020030705",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'annexe III/3 de l'Arrêté relatif à l'énergie du 19 novembre 2010, telle que modifiée par l'article 6, 1° et 2° du présent arrêté, s'applique aux projets pour lesquels, avant la date d'entrée en vigueur du présent arrêté :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">un facteur de banding provisoire n'a pas encore été obtenu conformément à la procédure visée à l'article 6.2/1.7, § 1 de l'Arrêté relatif à l'énergie du 19 novembre 2010 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un facteur de banding définitif n'a pas encore été obtenu conformément à la procédure visée à l'article 6.2/1.7, § 2, alinéa cinq de l'Arrêté relatif à l'énergie du 19 novembre 2010.</span>\n        </li>\n      </ol>\n      <p>L'annexe III/3 de l'Arrêté relatif à l'énergie du 19 novembre 2010, telle que modifiée par l'article 6, 3° du présent arrêté, s'applique aux projets pour lesquels, au 1 juin 2020 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">un facteur de banding provisoire n'a pas encore été obtenu conformément à la procédure visée à l'article 6.2/1.7, § 1 de l'Arrêté relatif à l'énergie du 19 novembre 2010 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un facteur de banding définitif n'a pas encore été obtenu conformément à la procédure visée à l'article 6.2/1.7, § 2, alinéa cinq de l'Arrêté relatif à l'énergie du 19 novembre 2010.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.260Z",
+  "tokenUsage": {
+    "prompt": 2195,
+    "completion": 569,
+    "total": 2764
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004834",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Jusqu'à l'entrée en vigueur de l'arrêté pris conformément à l'article 7undecies, § 11/1, alinéa 1er de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, ci-après dénommée \"la loi du 29 avril 1999\", tel qu'inséré par l'article 24, 1°, les dispositions par rapport aux valeurs limites d'émission de CO2 et les dispositions par rapport aux engagements relatifs à la réduction des émissions de gaz à effet de serre établis dans les Règles de fonctionnement visées à l'article 7undecies, § 12, de la loi du 29 avril 1999, sont d'application.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 7undecies, § 11/1, alinéas 2 à 6, de la loi du 29 avril 1999, tel qu'inséré par l'article 24, 1°, s'applique aux contrats de capacité visés à l'article 7undecies, § 11, de la loi du 29 avril 1999, conclu après 29 mars 2021.</p>\n        <p>Les valeurs des limites d'émission de CO2 et les engagements relatives à la réduction des émissions de gaz à effet de serre visées à l'article 7undecies, § 11/1, alinéa 1er, 1° et 2°, de la loi du 29 avril 1999, tel qu'inséré par l'article 24, 1°, applicables aux contrats de capacité, visés à l'article 7undecies, § 11, de la loi du 29 avril 1999, qui ont été conclus avant l'entrée en vigueur de l'arrêté pris conformément l'article 7undecies, § 11/1, alinéa 1er, de la loi du 29 avril 1999, tel qu'inséré par l'article 24, 1°, sont ceux fixés dans les Règles d'exploitation visées à l'article 7undecies, § 12, de la loi du 29 avril 1999 et applicables au moment de la conclusion du contrat de capacité.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.423Z",
+  "tokenUsage": {
+    "prompt": 2392,
+    "completion": 640,
+    "total": 3032
+  }
+}

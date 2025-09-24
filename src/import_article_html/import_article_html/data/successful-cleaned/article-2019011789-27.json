@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011789",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 61sexies, § 1er du même décret, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les termes \" 4, 3° et à l'article 5, 1° et 2° \" sont remplacés par les termes \" 4 § 1er, 3° et 5, § 1er, 1° à 3° et 5° ainsi que 5, § 2, 1° et 2° \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">A l'alinéa 2, le terme \" Elle \" est remplacé par \" Il \".</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Un nouvel alinéa 3 est introduit comme suit:</span>\n          <p class=\"nested-paragraph\">\" A l'exception de la section Iter relative à la lettre de mission, ce chapitre est également applicable aux membres du personnel exerçant une fonction de sélection du personnel auxiliaire d'éducation, telle que visée à l'article 7, b), 9. et 10. et à l'article 7bis, 2°, a) et b) de l'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique et du personnel social des établissements d'enseignement préscolaire, primaire, spécialisé, moyen, technique, artistique, de promotion sociale et supérieur non universitaire de la Communauté française et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.\"</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.298Z",
+  "tokenUsage": {
+    "prompt": 2435,
+    "completion": 518,
+    "total": 2953
+  }
+}

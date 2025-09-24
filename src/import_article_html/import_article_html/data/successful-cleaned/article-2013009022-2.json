@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013009022",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Constituent un fait personnel grave :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">toute condamnation pénale menant à une peine d'emprisonnement ferme qui figure dans le casier judiciaire, à moins qu'une réhabilitation n'ait été obtenue;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">tout fait susceptible de donner lieu à une condamnation telle que visée au 1° et au sujet duquel une information a été ouverte par le parquet dans l'année qui précède la déclaration ou la demande et qui est toujours pendante;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">tout fait susceptible de donner lieu à une condamnation telle que visée au 1° et au sujet duquel une instruction judiciaire est toujours pendante;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">le fait de se livrer à toute activité qui menace ou pourrait menacer les intérêts fondamentaux de l'Etat telle qu'elle est définie par les articles 7 et 8 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">le fait, établi par décision judiciaire coulée en force de chose jugée, que la personne concernée a obtenu son titre de séjour légal sur la base d'un mariage de complaisance ou forcé ou d'une cohabitation de complaisance ou forcée.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.021Z",
+  "tokenUsage": {
+    "prompt": 2006,
+    "completion": 481,
+    "total": 2487
+  }
+}

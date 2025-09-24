@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011009098",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté royal du 11 juillet 2003 relatif aux règles de fonctionnement des jeux de hasard dont l'exploitation est autorisée dans les établissements de jeux de hasard de classe III, des nouveaux points 10° et 11° sont insérés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">l'appareil est muni d'un lecteur de cartes d'identité électroniques;</span>\n                </li>\n                <li class=\"provision\" data-number=\"11°\">\n                    <span class=\"provision-text\">l'appareil ne peut être mis en marche que lorsqu'une carte d'identité électronique d'un joueur majeur est introduite.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Si le joueur ne dispose pas d'une carte d'identité électronique, l'exploitant peut mettre l'appareil en marche au moyen d'une carte exploitant après vérification de l'âge du joueur potentiel.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.153Z",
+  "tokenUsage": {
+    "prompt": 1737,
+    "completion": 310,
+    "total": 2047
+  }
+}

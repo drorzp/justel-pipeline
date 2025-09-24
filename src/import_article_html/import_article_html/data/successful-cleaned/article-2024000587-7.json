@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024000587",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>En exécution de l'article 44, § 3, 2° et 3°, du décret du 21 novembre 2003, le ministre désigne les fonctionnaires-médecins et les fonctionnaires.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.508Z",
+  "tokenUsage": {
+    "prompt": 1446,
+    "completion": 126,
+    "total": 1572
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A21311",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un comité d'accompagnement soumettra l'application du présent protocole de coopération à une évaluation annuelle. Il sera composé de 8 membres dont 4 désignés par le Ministre de la Justice, 2 par le Ministre flamand compétent pour la Santé et 2 par le Ministre flamand compétent pour l'Aide aux Personnes. Pour chacun des membres, un ou deux suppléants seront également désignés. Ce comité rédigera un rapport à l'intention des ministres co-signataires, dans un délai de trois mois maximum après réception des rapports visés à l'article 5, 8° et à l'article 9, 4°.</p>\n            <p class=\"closing-text\">Au moins une fois l'an, une réunion des différents comités d'accompagnement institués dans le cadre des accords de coopération entre l'Etat fédéral et les différentes Communautés/Régions concernant la guidance et le traitement d'auteurs d'infractions à caractère sexuel, sera organisée au niveau national pour partager experiences et informations, coordonner leur action et formuler des recommandations à l'intention des ministres co-signataires.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.275Z",
+  "tokenUsage": {
+    "prompt": 1858,
+    "completion": 321,
+    "total": 2179
+  }
+}

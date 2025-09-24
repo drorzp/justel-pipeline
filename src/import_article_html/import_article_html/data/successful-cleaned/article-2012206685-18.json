@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012206685",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <section class=\"paragraph\" id=\"para-1er\">\n    <h3 class=\"paragraph-marker\">§ 1er.</h3>\n    <div class=\"paragraph-content\">\n      <p class=\"intro-text\">L'auditeur réalise personnellement toutes les tâches nécessaires à l'établissement de l'audit énergétique et à son rapport, notamment :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la visite du bâtiment, la collecte et le traitement des données et l'enregistrement sur la base de données;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les évaluations visées à l'article 4, § 2.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">L'auditeur n'utilise pas la base de données à d'autre fin que la réalisation de l'audit énergétique.</p>\n    </div>\n  </section>\n  <section class=\"paragraph\" id=\"para-2\">\n    <h3 class=\"paragraph-marker\">§ 2.</h3>\n    <div class=\"paragraph-content\">\n      <p class=\"intro-text\">Dans le cadre des évaluations visées à l'article 4, § 2, 1°, 3° et 4°, les auditeurs veillent à recueillir la volonté précise du demandeur en ce qui concerne les modifications projetées du volume protégé ou des secteurs énergétiques, et les améliorations envisagées. Le rapport d'audit est expliqué et commenté par l'auditeur en présence du demandeur, à l'aide de la brochure explicative visée à l'article 5, § 1er.</p>\n    </div>\n  </section>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.076Z",
+  "tokenUsage": {
+    "prompt": 1932,
+    "completion": 442,
+    "total": 2374
+  }
+}

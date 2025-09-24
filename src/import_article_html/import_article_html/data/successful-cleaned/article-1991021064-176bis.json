@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991021064",
+  "articleNumber": "176bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-176bis\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 176bis</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-insertion\" data-dossier-number=\"1998-07-17/31\" data-law-type=\"AR\" data-article-number=\"9\">&lt;Inséré par AR 1998-07-17/31, art. 9; En vigueur : 02-10-1998&gt;</span>\n        Le conseil d'administration de \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-04-13/20\" data-law-type=\"L\" data-article-number=\"2\">skeyes</span>\n        peut, dans le respect des principes de base et limites fixés dans le contrat de gestion et sans préjudice des dispositions de la loi du 27 juin 1937 portant révision de la loi du 16 novembre 1919 relative à la réglementation de la navigation aérienne, arrêter des règlements en vue de régler les matières visées aux articles 170, 1° et 2°, et 172.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.010Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 308,
+    "total": 2205
+  }
+}

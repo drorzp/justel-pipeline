@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012653",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Aux articles 3, § 2, 14, § 2, 15, § 4, 23, § 2, alinéa 2, 29, § 4, 30, § 1er, 44, § 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"7°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"closing-text\">9°, et § 4, de la loi du 25 décembre 2016 relative au traitement des données des passagers, les mots &quot; la Commission de la protection de la vie privée &quot; sont chaque fois remplacés par les mots &quot; l'autorité compétente de contrôle des traitements de données à caractère personnel &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.307Z",
+  "tokenUsage": {
+    "prompt": 1666,
+    "completion": 266,
+    "total": 1932
+  }
+}

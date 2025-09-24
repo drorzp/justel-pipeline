@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015205102",
+  "articleNumber": "29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-29\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 29</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 38, § 1er, alinéa 1er, du Code des impôts sur les revenus 1992, modifié en dernier lieu par la loi-programme du 19 décembre 2014, est complété par les 29° et 30°, rédigées comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"29°\">\n          <span class=\"provision-text\">le flexisalaire visé à l'article 3, 2°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale et le flexipécule de vacances visé à l'article 3, 6°, de la même loi;</span>\n        </li>\n        <li class=\"provision\" data-number=\"30°\">\n          <span class=\"provision-text\">les rémunérations relatives à 300 heures supplémentaires visées à l'article 3, 5°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale pour les travailleurs employés par des employeurs qui n'utilisent pas la caisse enregistreuse visée à l'arrêté royal du 30 décembre 2009 fixant la définition et les conditions auxquelles doit répondre un système de caisse enregistreuse dans le secteur horeca, et 360 heures supplémentaires pour les travailleurs employés par des employeurs qui utilisent dans chaque lieu d'exploitation la caisse enregistreuse et qui ont déclaré cette caisse enregistreuse auprès de l'administration fiscale conformément à l'arrêté susmentionné.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.201Z",
+  "tokenUsage": {
+    "prompt": 1963,
+    "completion": 418,
+    "total": 2381
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1962070402",
+  "articleNumber": "21quinquies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21quinquies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21quinquies</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"2008-12-22/33\" data-article-number=\"91\" data-law-type=\"L\" data-effective-date=\"08-01-2009\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2008122233\">&lt;Inséré par L 2008-12-22/33, art. 91; En vigueur : 08-01-2009&gt;</span> Les infractions visées à l'article 21bis,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">, sont poursuivies par voie d'amende administrative à moins que le ministère public ne juge, compte tenu de la gravité de l'infraction, qu'il y a lieu d'intenter des poursuites pénales notamment sur base de l'article 22,</span></li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">ou</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.476Z",
+  "tokenUsage": {
+    "prompt": 1843,
+    "completion": 424,
+    "total": 2267
+  }
+}

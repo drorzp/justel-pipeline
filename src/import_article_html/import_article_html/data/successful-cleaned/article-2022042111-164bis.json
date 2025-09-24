@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042111",
+  "articleNumber": "164bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-164bis\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 164bis</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Il est inséré dans le même arrêté un article 379quater rédigé comme suit : &quot; L'article 53, en ce qu'il insère un 2°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">à l'article 162, produit ses effets à partir du 1er janvier 2022.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.886Z",
+  "tokenUsage": {
+    "prompt": 1550,
+    "completion": 211,
+    "total": 1761
+  }
+}

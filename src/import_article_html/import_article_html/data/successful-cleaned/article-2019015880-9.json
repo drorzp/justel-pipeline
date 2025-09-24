@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019015880",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 17, § 2, du même Code est complété par un alinéa rédigé comme suit :</p>\n      <p class=\"intro-text\">\" Par dérogation à l'alinéa 1er, le même numéro d'article de rôle peut mentionner plusieurs des taxes visées à l'article 3,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">Le cas échéant, le montant de chaque taxe et le fait qui en justifie l'exigibilité doivent être mentionnés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.399Z",
+  "tokenUsage": {
+    "prompt": 1600,
+    "completion": 257,
+    "total": 1857
+  }
+}

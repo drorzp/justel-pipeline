@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008204208",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\">\n        A l'article 2 de l'arrêté du Gouvernement flamand du 6 septembre 2002 relatif à l'offre d'appui intégrée dans l'enseignement secondaire ordinaire, le point 1° est remplacé par ce qui suit :\n        \"\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">taux de concentration : le rapport, en pour cent, entre :\n              <ol class=\"numbered-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                  le nombre d'élèves du premier degré et de la subdivision structurelle des primo-arrivants allophones qui répondent à un ou plusieurs des indicateurs d'égalité des chances visés à l'article VI.2, § 1er, 1°, 2°, 3°, et 4° du décret, et le nombre d'élèves du deuxième et du troisième degré qui répondent à un ou plusieurs des indicateurs d'égalité des chances visés à l'article VI.11, § 1er, 1°, 2°, 3° et 4°, du décret, tout en multipliant d'un coefficient 0,4417 le nombre d'élèves répondant uniquement aux indicateurs d'égalité des chances mentionnés respectivement à l'article VI.2, § 1er, 1°, ou 1° et 5°, et à l'article VI.11, § 1er, 1°, ou 1° et 5° du décret, et\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                  le nombre total des élèves d'une école, calculé le 1er février de l'année scolaire précédente.\n                </li>\n              </ol>\n            </span>\n          </li>\n        </ol>\n        \"\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.065Z",
+  "tokenUsage": {
+    "prompt": 2068,
+    "completion": 492,
+    "total": 2560
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1993016098",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour permettre au responsable de l'association provinciale ou interprovinciale d'éleveurs et détenteurs de bétail bovin compétente de procéder à l'enregistrement ou à l'inscription au livre généalogique du veau obtenu par insémination artificielle ou par transfert d'embryon, les documents mentionnés à l'article 1er, 2°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">doivent lui être présentés à sa requête. Ces documents doivent également être présentés à toute requête du fonctionnaire du Service de l'Elevage compétent.</span></li>\n            </ol>\n            <p class=\"intro-text\">++++++++++ COMMUNAUTES ET REGIONS ========================= Art. 2. (AUTORITE FLAMANDE) Pour permettre au responsable de l'association provinciale ou interprovinciale d'éleveurs et détenteurs de bétail bovin compétente de procéder à l'enregistrement ou à l'inscription au livre généalogique du veau obtenu par insémination artificielle ou par transfert d'embryon, les documents mentionnés à l'article 1er, 2°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">5° doivent lui être présentés à sa requête. Ces documents doivent également être présentés à toute requête du fonctionnaire de (l'entité compétente).<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-05-19/47\" data-law-type=\"AM\" data-article-number=\"26\">&lt;AM 2006-05-19/47, art. 26, 002;**En vigueur :**01-04-2006&gt;</span>++++++++++</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.098Z",
+  "tokenUsage": {
+    "prompt": 2132,
+    "completion": 540,
+    "total": 2672
+  }
+}

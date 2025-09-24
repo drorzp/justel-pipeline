@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002826",
+  "articleNumber": "47",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-47\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 47</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1er de l'arrêté royal du 17 août 2007 portant des mesures en vue de la transposition dans l'ordre juridique interne de la Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, modifié par l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 6 juillet 2017, les mots \" , hormis l'article 13/2 applicable aux professions dont les conditions d'accès peuvent être réglementées en vertu de l'article 6, § 1er, VI, alinéa 1er, 6°, de la loi spéciale de réformes institutionnelles du 8 août 1980 \" sont abrogés ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'alinéa 3, inséré par l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 6 juillet 2017, les 7°, 8° et 9° sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.528Z",
+  "tokenUsage": {
+    "prompt": 1885,
+    "completion": 381,
+    "total": 2266
+  }
+}

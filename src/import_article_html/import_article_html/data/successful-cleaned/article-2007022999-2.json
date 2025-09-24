@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007022999",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 6 de l'arrêté royal du 15 juillet 2002 portant exécution du Chapitre IIIbis du Titre III de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, modifié par l'arrêté royal du 8 avril 2003, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les mots &quot; article 6, § 3, alinéa 1er, 3°, 4° et 5° de la loi du 27 février 1987 relative aux allocations de handicapés &quot; sont remplacés par les mots &quot; article 6, § 2, 3°, 4° et 5° de la loi du 27 février 1987 relative aux allocations aux personnes handicapées &quot;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les mots &quot; article 8, § 1er, alinéa 4 &quot; sont remplacés par les mots &quot; article 9ter, § 2 &quot;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">l'article est complété comme suit :</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">&quot;, sauf s'il bénéficie de l'intervention majorée de l'assurance sur la base de l'article 37, § 1er, alinéa 2 ou 3. &quot;</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.956Z",
+  "tokenUsage": {
+    "prompt": 1974,
+    "completion": 458,
+    "total": 2432
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021200012",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'arrêté royal n° 34 du 23 juin 2020 portant exécution de l'article 5, § 1er, 1°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">6°, de la loi du 27 mars 2020 accordant des pouvoirs au Roi afin de prendre des mesures dans la lutte contre la propagation du coronavirus COVID-19, en vue de l'assurance et de la bonne gestion des stocks de médicaments et la prolongation des autorisations des pharmacies, est confirmé.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.794Z",
+  "tokenUsage": {
+    "prompt": 1607,
+    "completion": 234,
+    "total": 1841
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002252",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Entrent en vigueur le 1er janvier 2025 :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'ordonnance du 13 octobre 2023 modifiant la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le présent arrêté, à l'exception des articles 9, 4° et 23 qui entrent en vigueur le 31 août 2024.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.444Z",
+  "tokenUsage": {
+    "prompt": 1627,
+    "completion": 238,
+    "total": 1865
+  }
+}

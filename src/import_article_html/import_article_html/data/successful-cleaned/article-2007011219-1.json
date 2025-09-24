@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007011219",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application du présent arrêté, il faut entendre par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la loi : la loi du 9 février 1994 relative à la sécurité des produits et des services;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">manquement ayant un impact sur la sécurité : manquement qui entraîne un risque incompatible avec le service ou l'utilisation du produit et jugé inacceptable compte tenu d'un niveau de protection élevé pour la santé et la sécurité des personnes;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">manquement ayant un impact important sur la sécurité : manquement ayant un impact sur la sécurité qui requiert une intervention rapide des pouvoirs publics, en tenant compte également de risques dont les conséquences ne se manifestent pas immédiatement;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">manquement sans impact significatif sur la sécurité : tout manquement autre que ceux visés aux 2° et 3°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">le ministre : le Ministre qui a la Protection de la sécurité des consommateurs dans ses attributions;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">le délégué du ministre : le délégué désigné en exécution de l'article 6 de la loi.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.781Z",
+  "tokenUsage": {
+    "prompt": 1952,
+    "completion": 467,
+    "total": 2419
+  }
+}

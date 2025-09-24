@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011203624",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 30</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les engagements comptables sont transmis mensuellement à l'Inspecteur des Finances. Les remarques de la Cour des comptes sont notifiées à l'Inspecteur des Finances pour information.</p>\n        <p>La liste des marchés publics pour lesquels, en application de l'article 29, premier alinéa, <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"29\" data-law-type=\"article\" data-article-number=\"3°\">3°</span> et <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"29\" data-law-type=\"article\" data-article-number=\"4°\">4°</span>, l'avis de l'Inspecteur des Finances n'est pas requis, est communiquée tous les trois mois à l'Inspecteur des Finances.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.225Z",
+  "tokenUsage": {
+    "prompt": 1553,
+    "completion": 283,
+    "total": 1836
+  }
+}

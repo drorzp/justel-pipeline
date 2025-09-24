@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030600",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les 1° et 2° du paragraphe 1er sont remplacés par ce qui suit:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">si la demande a trait à une personne physique: ses nom, prénoms, date et lieu de naissance, nationalité, domicile et numéro de registre national;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">si la demande a trait à une société avec personnalité juridique: sa dénomination sociale ou commerciale, son siège social et son numéro d'entreprise, ainsi que les nom, prénoms, lieu et date de naissance, nationalité et domicile de leurs gérants ou administrateurs ;</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Au paragraphe 4, a), de la version française les mots &quot;douanière et accisienne&quot; sont remplacés par les mots &quot;en matière de douane et d'accise&quot;.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Au paragraphe 5, de la version française le mot &quot;professionnalisme&quot; est remplacé par les mots &quot;compétence professionnelle&quot;.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.364Z",
+  "tokenUsage": {
+    "prompt": 1980,
+    "completion": 487,
+    "total": 2467
+  }
+}

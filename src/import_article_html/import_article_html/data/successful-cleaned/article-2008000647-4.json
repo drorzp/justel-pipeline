@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008000647",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 12 du même arrêté, les dispositions au 1°, 2° et 4° sont remplacées comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">organisation du secteur du gardiennage et de ses activités : 6 heures de cours;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">étude de la réglementation relative au gardiennage et étude approfondie des droits et des obligations des agents de gardiennage : 20 heures de cours;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">techniques de communication : 8 heures de cours.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.014Z",
+  "tokenUsage": {
+    "prompt": 1650,
+    "completion": 274,
+    "total": 1924
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025002226",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 13 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, remplacé par l'arrêté du Gouvernement wallon du 10 janvier 2024, le 2° est abrogé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 2, inséré par l'arrêté du Gouvernement wallon du 10 janvier 2024, les mots \" 2° et \" sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.714Z",
+  "tokenUsage": {
+    "prompt": 1623,
+    "completion": 250,
+    "total": 1873
+  }
+}

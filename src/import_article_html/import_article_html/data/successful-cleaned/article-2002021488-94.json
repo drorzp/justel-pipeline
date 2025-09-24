@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002021488",
+  "articleNumber": "94",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-94\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 94</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 56sexies , § 1er, des mêmes lois, modifié par la loi du 22 février 1998, est complété par l'alinéa suivant : &quot; La condition de résidence fixée à l'alinéa 1er n'est pas applicable au demandeur :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">qui tombe sous l'application du Règlement (CEE) n° 1408/71 du 14 juin 1971 du Conseil des Communautés européennes relatif à l'application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés, ainsi qu'aux membres de leur famille, qui se déplacent à l'intérieur de la Communauté</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">qui est apatride</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">qui est réfugié au sens de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">qui n'est pas visé au 1° et est ressortissant d'un Etat qui a ratifié la Charte sociale européenne. &quot;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.640Z",
+  "tokenUsage": {
+    "prompt": 1917,
+    "completion": 424,
+    "total": 2341
+  }
+}

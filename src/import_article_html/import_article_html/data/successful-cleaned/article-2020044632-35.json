@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044632",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 35</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les articles 14 à 18, 26 et 28 du présent arrêté entrent en vigueur à la date de leur publication au Moniteur belge.</p>\n            <p class=\"intro-text\">Les articles 20 et 29 du présent arrêté entrent en vigueur à la date de sa publication au Moniteur belge et au plus tard le 31 décembre 2020.</p>\n            <p class=\"intro-text\">Les articles 2 à 12, 19, 21, 22, 24, 27, 1°, 2° et 3°, 30 à 32, 1° et 2°, et 34 du présent arrêté entrent en vigueur le 1 janvier 2021.</p>\n            <p class=\"intro-text\">Les articles 23, 27, 4°, et 32, 3° du présent arrêté entrent en vigueur le 1 avril 2021.</p>\n            <p class=\"intro-text\">Les articles 6.4.1/1, 6.4.1/1/2 et 6.4.1/5, § 1 de l'Arrêté relatif à l'énergie du 19 novembre 2010, tel que modifié par les articles 7, 8 et 10 du présent décret, s'appliquent pour la première fois aux factures finales datées à partir du 1 janvier 2021.</p>\n            <p class=\"intro-text\">Le chapitre XV du titre VII de l'Arrêté relatif à l'énergie du 19 novembre 2010, inséré par l'article 24 du présent arrêté, s'applique pour la première fois aux demandes de crédits principaux à partir du 1 janvier 2021.</p>\n            <p class=\"closing-text\">L'article 7.12.1, § 4 de l'Arrêté relatif à l'énergie du 19 novembre 2010, dans sa lecture antérieure à la modification par l'article 22, 3° et 4°, reste applicable aux dossiers dont la demande de permis d'environnement pour actes urbanistiques a été introduite avant le 1 janvier 2021.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.090Z",
+  "tokenUsage": {
+    "prompt": 2214,
+    "completion": 539,
+    "total": 2753
+  }
+}

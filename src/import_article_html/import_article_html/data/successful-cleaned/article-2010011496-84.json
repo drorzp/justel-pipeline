@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010011496",
+  "articleNumber": "84",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-84\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 84</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les utilisateurs fournissent, aux points d'entrée, du gaz naturel qui satisfait aux exigences de qualité et de pression établis dans le contrat de transport, sans préjudice des articles </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">166, § 2,</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">198, § 2,</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">et 231, § 2,.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.242Z",
+  "tokenUsage": {
+    "prompt": 1573,
+    "completion": 232,
+    "total": 1805
+  }
+}

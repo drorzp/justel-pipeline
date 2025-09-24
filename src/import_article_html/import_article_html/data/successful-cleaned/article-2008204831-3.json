@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008204831",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'établissement ne peut être implanté :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">à moins de 10 mètres d'une eau de surface, d'un piézomètre, d'un point d'entrée d'égout public;</span>\n        </li>\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">dans une zone de prise d'eau telle que visée par les articles <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-05-16/75\" data-law-type=\"ARW\" data-article-number=\"11\">R. 146</span>, <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-05-16/75\" data-law-type=\"ARW\" data-article-number=\"11\">R. 153</span>, 159, § 1er, 1° et R.160 du Livre II du Code de l'Environnement, contenant le Code de l'Eau;</span>\n        </li>\n        <li class=\"hyphenated-item\">\n          <span class=\"item-text\">dans une zone de prévention telle que visée par les articles R.159, § 1er, 1° et R.160 du Livre II du Code de l'Environnement, contenant le Code de l'Eau.</span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.065Z",
+  "tokenUsage": {
+    "prompt": 1909,
+    "completion": 408,
+    "total": 2317
+  }
+}

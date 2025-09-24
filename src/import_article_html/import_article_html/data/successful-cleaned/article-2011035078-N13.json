@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011035078",
+  "articleNumber": "N13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article N13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-03-01/22\" data-law-type=\"AGF\" data-article-number=\"180\">\n        <p class=\"intro-text\">Annexe 13. - Condition particulière d'agrément, telle que visée à l'article 13/1,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et conditions d'admission à la formation aboutissant au certificat d'aptitude en matière de contrôle de systèmes de climatisation ayant une puissance frigorifique nominale qui est supérieure à 12 kW tels que visés à l'article 24/1,</span>\n          </li>\n        </ol>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">(Annexe non reprise pour des raisons techniques, voir M.B. 23-04-2013, p. 24640-24641)</span>\n          </li>\n        </ol>\n      </span>\n      <p class=\"closing-text\">Modifiée par: <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2019-05-03/56\" data-law-type=\"AGF\" data-article-number=\"275\" data-effective-date=\"01-10-2019\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2019050356\">&lt;AGF 2019-05-03/56, art. 275, 016; En vigueur : 01-10-2019&gt;</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.218Z",
+  "tokenUsage": {
+    "prompt": 2009,
+    "completion": 468,
+    "total": 2477
+  }
+}

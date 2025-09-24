@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013007330",
+  "articleNumber": "69",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-69\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 69</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A suivi avec succès la formation pour candidat adjudant-chef du niveau B visée à l'article 67, le stagiaire qui satisfait aux critères suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">a régulièrement suivi l'ensemble des modules et des modules partiels de la formation;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">a obtenu au moins cinquante pour cent sur le test écrit portant sur les matières enseignées dans le module \"management\".</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Le stagiaire sous-officier du niveau B visé à l'article 59, § 1er, alinéa 2, qui a régulièrement suivi l'ensemble des modules et des modules partiels de la formation pour candidat sous-officier supérieur visé à l'article 58, alinéa 1er, 1° et 2°, et qui a obtenu une note globale d'au moins cinquante pour cent pour le test écrit portant sur les matières enseignées dans le module \"management\" de la formation précitée visé à l'article 58, alinéa 1er, 2°, est également considéré avoir suivi avec succès la formation pour candidat adjudant-chef du niveau B.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.019Z",
+  "tokenUsage": {
+    "prompt": 1937,
+    "completion": 386,
+    "total": 2323
+  }
+}

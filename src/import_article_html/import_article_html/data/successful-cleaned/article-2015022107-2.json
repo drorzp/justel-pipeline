@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015022107",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 131ter, § 1er, de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions, inséré par la loi du 24 avril 2014, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">un alinéa est inséré entre l'alinéa 2 et l'alinéa 3, rédigé comme suit :</span>\n          <blockquote class=\"provision-text\">\"Au 1er avril 2015, les montants de 12.765,99 euros et 9.648,57 euros, visés à l'alinéa 1er, 1° et 3°, sont portés respectivement à :</blockquote>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">12.765,99 euros si l'intéressé remplit les conditions visées à l'article 9, § 1er, alinéa 1er, 1°, de l'arrêté royal n° 72;</span></li>\n            <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">9.739,51 euros si l'intéressé remplit les conditions visées à l'article 9, § 1er, alinéa 1er, 2°, de l'arrêté royal n° 72;</span></li>\n            <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">9.713,78 euros pour une pension de survie.</span></li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">dans le dernier alinéa, les mots \"l'alinéa 1er \" sont remplacés par les mots \"le présent paragraphe\".</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.174Z",
+  "tokenUsage": {
+    "prompt": 2100,
+    "completion": 535,
+    "total": 2635
+  }
+}

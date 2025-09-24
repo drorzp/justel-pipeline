@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023010167",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le conseiller de poursuite administrative répond aux conditions visées à l'article 3, paragraphe 1er, alinéa 1er. Ces conditions sont vérifiées avant toute désignation et le conseiller de poursuite administrative doit en tout temps y satisfaire. Le conseiller de poursuite administrative informe sans délai son supérieur hiérarchique s'il fait l'objet d'une des condamnations visées à l'article 3, § 1er, alinéa 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">ou d'une déchéance du droit de conduire.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le conseiller de poursuite administrative qui ne satisfait plus aux conditions fixées au paragraphe 1er perd sa qualité et exerce une autre fonction au sein de la direction. Lorsque les conditions sont remplies à nouveau, il peut recouvrer la qualité de conseiller de poursuite administrative.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.835Z",
+  "tokenUsage": {
+    "prompt": 1863,
+    "completion": 401,
+    "total": 2264
+  }
+}

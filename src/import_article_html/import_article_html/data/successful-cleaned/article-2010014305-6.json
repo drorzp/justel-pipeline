@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010014305",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 74bis, § 2, du même arrêté, inséré par l'arrêté royal du 21 août 2008 et modifié par les arrêtés royaux des 10 mai 2009 et 16 juillet 2009, les mots \" l'article 4, 4° et 5° \" sont remplacés par les mots \" l'article 4, 4°, 5° et 8° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.242Z",
+  "tokenUsage": {
+    "prompt": 1538,
+    "completion": 172,
+    "total": 1710
+  }
+}

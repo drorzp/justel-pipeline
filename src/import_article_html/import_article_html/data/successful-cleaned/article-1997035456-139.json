@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997035456",
+  "articleNumber": "139",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-139\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 139</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-07-07/61\" data-law-type=\"DCFL\" data-article-number=\"2.21\">&lt;DCFL 2006-07-07/61, art. 2.21, 024; En vigueur : 01-09-2005&gt;</span>\n        Le Gouvernement flamand précise les conditions pour l'obtention des périodes complémentaires visées à l'article 138 \n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2016-06-17/24\" data-law-type=\"DCFL\" data-article-number=\"II.27\">§ 1er</span>, 1°, 2°,\n      </p>\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-07-06/30\" data-law-type=\"DCFL\" data-article-number=\"27\">\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">bis,</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n        </ol>\n        <p class=\"closing-text\">7°, ainsi que le nombre et le mode de calcul.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.919Z",
+  "tokenUsage": {
+    "prompt": 1932,
+    "completion": 393,
+    "total": 2325
+  }
+}

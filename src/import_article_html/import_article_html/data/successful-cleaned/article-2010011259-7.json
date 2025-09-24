@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010011259",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>La propriété des bagages et marchandises visés à l'article 4,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">qui ne sont pas réclamés dans le délai de cinquante jours à dater de la date de prise en charge telle que visée à l'article 9</span>\n                    </li>\n                </ol>\n                <p>ainsi que la propriété des bagages et marchandises visées à l'article 4,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">est attribuée à des entreprises sélectionnées sur base d'un processus de sélection exempt de discrimination comprenant la publication de l'appel à candidature au Moniteur belge.</span>\n                    </li>\n                </ol>\n                <p>Chaque transporteur ferroviaire conclut avec chacune des entreprises ainsi sélectionnées une convention de recyclage.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.244Z",
+  "tokenUsage": {
+    "prompt": 1662,
+    "completion": 359,
+    "total": 2021
+  }
+}

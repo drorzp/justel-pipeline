@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1984012042",
+  "articleNumber": "3ter",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3ter\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3ter</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1985-04-11/31\" data-law-type=\"AR\" data-article-number=\"3\">&lt;AR 1985-04-11/31, art. 3, 002&gt;</span> \n                Par dérogation à l'article 3, alinéa 2, et à l'article 3bis, alinéa 2, l'employeur qui dispose d'un registre ou d'appareils appropriés, où sont enregistrées l'heure exacte à laquelle le travailleur commence sa journée de travail et celle à laquelle il la termine, et qui tient les renseignements qu'ils contiennent à la disposition des travailleurs et les conserve conformément au prescrit de l'article 4, n'est pas tenu de consigner journellement les renseignements visés à l'article 3, alinéa 1er,\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">3°, et à l'article 3bis, 2°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.678Z",
+  "tokenUsage": {
+    "prompt": 1780,
+    "completion": 349,
+    "total": 2129
+  }
+}

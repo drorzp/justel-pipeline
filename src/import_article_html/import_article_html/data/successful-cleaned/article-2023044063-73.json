@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044063",
+  "articleNumber": "73",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-73\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 73</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article II.62/8 du même décret, inséré par le décret du 2 juillet 2021, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive, les mots \" ne s'applique pas \" sont remplacés par les mots \" s'applique \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la phrase introductive est complétée par le membre de phrase \" instances publiques, visées à l'article II.53, § 1er, 1° à 4°, à l'exception des établissements d'enseignement, instituts de recherche et organisations de financement de la recherche. \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les points 1° et 2° sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.851Z",
+  "tokenUsage": {
+    "prompt": 1740,
+    "completion": 322,
+    "total": 2062
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029373",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 26 du même décret, les modifications suivantes sont apportées :</p>\n      <ol class=\"sub-provisions\">\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">au point 2°, les mots \" 3, 17 et 21 conformément aux stratégies et axes prioritaires adoptés dans le cadre du programme d'actions concerté \" sont remplacés par les mots \" 3 et 17 \";</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">au point 3°, les mots \" 3, 17 et 21, ainsi que les stratégies et axes prioritaires adoptés dans le cadre du programme d'actions concerté \" sont remplacés par les mots \" 3 et 17 \";</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"c)\">\n          <span class=\"provision-text\">les points 4° et 5° sont supprimés;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"d)\">\n          <span class=\"provision-text\">au point 7°, les mots \" 23 et suivants \" sont remplacés par les mots \" 23 et 24 \";</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"e)\">\n          <span class=\"provision-text\">au point 8°, les mots \" , sur base du rapport préalable transmis par la Commission de sélection et d'évaluation visé à l'article 30, § 3, \" sont supprimés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.213Z",
+  "tokenUsage": {
+    "prompt": 1926,
+    "completion": 441,
+    "total": 2367
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002003152",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En application de l'article 10, § 2, de la loi du 22 mai 2001 relative aux régimes de participation des travailleurs au capital et aux bénéfices des sociétés, constituent des critères objectifs servant à déterminer les clefs de répartition pouvant être appliqués aux différents travailleurs concernés en l'absence de convention collective de travail visée au § 1er du même article :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'ancienneté;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le grade;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">la fonction;</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le niveau barémique;</span></li>\n          <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">le niveau de rémunération;</span></li>\n          <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">le niveau de formation.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En aucun cas, les critères objectifs tels que visés à l'article 9, § 1er, 5° et définis au paragraphe premier du présent article ne peuvent entraîner une différenciation des avantages octroyés en vertu du plan de participation aux différents travailleurs supérieure à un rapport compris entre 1 et 10.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.799Z",
+  "tokenUsage": {
+    "prompt": 2029,
+    "completion": 515,
+    "total": 2544
+  }
+}

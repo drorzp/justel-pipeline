@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022909",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\">.</span></h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans toutes les clauses d'indexation qui sont ou qui seront d'application dans les conventions ou accords, visés aux articles 42 et 50 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, les honoraires sont liés à la valeur, applicable dans l'année civile précédente, de la moyenne arithmétique de l'indice santé du mois de juin et des indices des prix des trois mois précédents.</p>\n      <p class=\"closing-text\">Cette disposition ne s'applique pas aux conventions conclues avec les services et institutions visés à l'article 34, 11°, 12° et 18°, de la même loi coordonnée.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.970Z",
+  "tokenUsage": {
+    "prompt": 1704,
+    "completion": 251,
+    "total": 1955
+  }
+}

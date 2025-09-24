@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998A31266",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent accord de coopération a pour but :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">de transposer en droit interne et d'appliquer de façon harmonisée la directive 90/219/CEE réglementant l'utilisation confinée de micro-organismes génétiquement modifiés cette réglementation sera étendue aux organismes génétiquement modifiés (OGM) et aux organismes pathogènes pour l'homme. Les Régions s'engagent à harmoniser les critères techniques de biosécurité et la classification des OGM et des organismes pathogènes et leurs classes de risque;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de transposer en droit interne et d'appliquer de manière coordonnée la partie B de la directive 90/220/CEE relative à la dissémination volontaire d'OGM dans l'environnement à des fins de recherche ou de développement et à toute autre fin que la mise sur le marché;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de mettre en place un système commun d'évaluation scientifique de la biosécurité;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">de coordonner les dispositions réglementaires applicables à la gestion des déchets issus d'activités visées aux points 1° et 2°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.078Z",
+  "tokenUsage": {
+    "prompt": 1932,
+    "completion": 430,
+    "total": 2362
+  }
+}

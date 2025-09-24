@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014000409",
+  "articleNumber": "304",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-304\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 304</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La démission honorable est accordée d'office par le conseil :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au membre du personnel professionnel [au début] du mois au cours duquel il prend sa retraite; <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"Erratum, M.B. 22-01-2015\" data-law-type=\"Erratum\" data-article-number=\"p. 5311\">Erratum, M.B. 22-01-2015, p. 5311</span></span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au membre du personnel professionnel à la fin du mois au cours duquel il atteint l'âge de soixante-cinq ans;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au membre du personnel volontaire à la fin du mois au cours duquel il atteint l'âge de soixante-cinq ans.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Par dérogation à l'alinéa 1er, 2° et 3°, le conseil peut, à la demande du membre du personnel, et après avis du commandant, autoriser le membre du personnel à rester en service après avoir atteint la limite d'âge. Le conseil autorise la prolongation pour une durée maximale d'une année, prolongéable à chaque fois pour une période d'un an maximum. Le membre du personnel doit réussir un test cardiorespiratoire, réalisé par un spécialiste désigné par le médecin du travail.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.143Z",
+  "tokenUsage": {
+    "prompt": 1932,
+    "completion": 464,
+    "total": 2396
+  }
+}

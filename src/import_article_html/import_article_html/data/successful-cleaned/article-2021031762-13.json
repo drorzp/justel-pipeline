@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031762",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article IV.13 AEPol, inséré par l'arrêté ministériel du 28 juin 2010, est remplacé par ce qui suit :</p>\n      <p>\"Art. IV.13. Les candidats qui n'atteignent pas le seuil minimum pour l'épreuve d'aptitude physique et médicale visée à l'article IV.I.15, 3°, PJPol, et qui repassent celle-ci dans l'année à compter de la notification de leur échec, sont dispensés du volet physique visé à l'article IV.8, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">si le chef du service du recrutement et de la sélection de la police fédérale a émis une des appréciations visées à l'article IV.8ter, alinéa 1er, 1° et 2°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.136Z",
+  "tokenUsage": {
+    "prompt": 1741,
+    "completion": 300,
+    "total": 2041
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996007081",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 12, § 1er, de l'arrêté ministériel du 8 février 1994 relatif à la formation continuée des officiers subalternes du cadre actif des forces armées et aux épreuves professionnelles imposées aux officiers de carrière des forces armées en vue de l'avancement au grade de major ou à un grade équivalent est complété par l'alinéa suivant :</p>\n        <blockquote>\n          <p>\" Toutefois, lorsqu'une force n'a aucun candidat à examiner, les officiers de cette force visés à l'alinéa 1er,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">1°</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">2°, ne font pas partie du jury de l'examen de fin de stage.</span>\n            </li>\n          </ol>\n          <p>\"</p>\n        </blockquote>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.056Z",
+  "tokenUsage": {
+    "prompt": 1707,
+    "completion": 336,
+    "total": 2043
+  }
+}

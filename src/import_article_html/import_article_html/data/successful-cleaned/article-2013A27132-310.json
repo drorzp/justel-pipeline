@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A27132",
+  "articleNumber": "310",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-310\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 310</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-05-15/16\" data-law-type=\"ARW\" data-article-number=\"2\">\n        <p>La demande d'agrément est introduite par toute voie conférant date certaine à l'envoi.</p>\n        <p>Les éléments constitutifs qui concernent le plan des locaux et le règlement interne visés à l'article 218/3, deuxième alinéa, 4° et 5°, du Code décrétal qui ne peuvent pas être fournis au moment de l'introduction de la demande d'agrément, sont fournis, au plus tard, dans les six mois de l'octroi de l'agrément, sous peine de suspension de l'agrément.</p>\n        <p>Lorsque le dossier est incomplet, l'administration réclame les documents manquants.</p>\n        <p>L'administration accuse réception de la demande d'agrément dans un délai de dix jours à dater de la réception du dossier complet.</p>\n        <p>L'administration organise une inspection visant à évaluer de manière participative le projet de centre de planning familial dans un délai de trois mois à partir de l'introduction du dossier complet.</p>\n        <p>Les conclusions de l'inspection sont transmises dans le mois au pouvoir organisateur qui dispose d'un délai d'un mois pour y répondre.</p>\n        <p>Au terme de ce délai, l'administration transmet le dossier pour décision au ministre, accompagné des conclusions de l'inspection et, le cas échéant, de la réponse du pouvoir organisateur.</p>\n        <p>Le Ministre statue sur la demande d'agrément dans un délai de deux mois.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.119Z",
+  "tokenUsage": {
+    "prompt": 2098,
+    "completion": 450,
+    "total": 2548
+  }
+}

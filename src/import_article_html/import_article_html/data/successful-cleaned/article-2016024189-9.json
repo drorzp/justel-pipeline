@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016024189",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dès que l'infection par la maladie est confirmée dans une exploitation, le vétérinaire officiel la déclare comme foyer. Il notifie la déclaration du foyer au responsable.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En complément des mesures prévues par l'article 6, le vétérinaire officiel applique ou fait appliquer également les mesures suivantes :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">mise à mort immédiate et destruction de tous les animaux des espèces sensibles;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">destruction ou traitement de façon appropriée, conformément à ses instructions, de toute matière et déchet susceptibles d'être contaminés tels que les aliments, la litière, le fumier et le lisier;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">après exécution des opérations visées aux 1° et 2°, les bâtiments utilisés pour l'hébergement des animaux des espèces sensibles ainsi que leurs abords, les véhicules de transport et tout le matériel susceptible d'être contaminé sont nettoyés et désinfectés conformément à l'article 19.</span></li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.259Z",
+  "tokenUsage": {
+    "prompt": 1910,
+    "completion": 439,
+    "total": 2349
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999036093",
+  "articleNumber": "81",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-81\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 81</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 68 du même décret, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \" Conseil central \" sont remplacés par les mots \" le Conseil d'administration pour le Service d'Encadrement pédagogique et le centre de formation : l'administrateur délégué \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la phrase suivante est ajoutée :</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">\" Le droit à une désignation à durée ininterrompue peut à nouveau être obtenu lorsque le membre du personnel est désigné à nouveau par le même Conseil d'administration et après obtention de l'ancienneté telle que fixée à l'article 21bis, § 4, 1° et a l'article 21ter, § 5, 1°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.265Z",
+  "tokenUsage": {
+    "prompt": 1773,
+    "completion": 308,
+    "total": 2081
+  }
+}

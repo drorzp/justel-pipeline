@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009031384",
+  "articleNumber": "190",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-190\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 190</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le service d'aide aux personnes âgées maltraitées établit chaque année un rapport d'activités qui mentionne au moins les éléments suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le personnel du service;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le nombre de personnes aidées et nombre de nouveaux dossiers ouverts durant l'année;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">des données socio-économiques et socio-sanitaires, rendues anonymes, relatives aux bénéficiaires et aux situations de maltraitance rencontrées (age, sexe, situation de famille, degré d'autonomie, type de résidence, liens entre la victime et le responsable de la maltraitance.);</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les activités du service en matière de sensibilisation et de prévention;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">les partenariats et collaborations;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">une analyse des données visées aux points 2° et 3°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">les problèmes rencontrés, commentaires, projets et perspectives.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.080Z",
+  "tokenUsage": {
+    "prompt": 1913,
+    "completion": 460,
+    "total": 2373
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031677",
+  "articleNumber": "217",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-217\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 217</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 112/1 du même arrêté, inséré par l'arrêté du Gouvernement flamand du 8 septembre 2017, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive, les mots &quot; &quot; Kind en Gezin &quot; &quot; sont remplacés par les mots &quot; L'agence &quot; ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux points 1° et 4° les mots &quot; &quot; Kind en Gezin &quot; &quot; sont remplacés par les mots &quot; l'agence &quot;.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au point 5°, les mots &quot; &quot; Kind en Gezin &quot; &quot; sont chaque fois remplacés par les mots &quot; l'agence &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.135Z",
+  "tokenUsage": {
+    "prompt": 1745,
+    "completion": 343,
+    "total": 2088
+  }
+}

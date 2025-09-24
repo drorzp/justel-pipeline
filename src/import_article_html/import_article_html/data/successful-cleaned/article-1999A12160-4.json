@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A12160",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les ouvriers occupés au travail pendant les jours de repos visés à l'article 2 ont droit au repos compensatoire. Ces jours de repos compensatoire doivent être octroyés :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans les sept mois qui suivent le jour au cours duquel il a été travaillé, dans le cas où l'occupation au travail s'est faite en application de l'article 3, alinéa 2, 1°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans les six semaines qui suivent le jour au cours duquel il a été travaillé, dans les cas où l'occupation au travail s'est faite en application de l'article 3, alinéa 2, 2° et 3°.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Lorsque le contrat de travail prend fin, l'employeur doit mentionner sur le certificat de chômage complet C4 le nombre de jours de repos compensatoire qui n'ont pas été octroyés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.274Z",
+  "tokenUsage": {
+    "prompt": 1906,
+    "completion": 342,
+    "total": 2248
+  }
+}

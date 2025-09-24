@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047865",
+  "articleNumber": "81",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-81\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 81</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 43, alinéa 1er, du même décret, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le membre de phrase &quot; d'un emprisonnement de huit jours à un an et d'une amende de 125 à 1250 euros, ou de l'une de ces peines seulement &quot; est remplacé par le membre de phrase &quot; d'une amende pénale de 100 à 1000 euros &quot;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les points 1° et 2° sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.493Z",
+  "tokenUsage": {
+    "prompt": 1702,
+    "completion": 266,
+    "total": 1968
+  }
+}

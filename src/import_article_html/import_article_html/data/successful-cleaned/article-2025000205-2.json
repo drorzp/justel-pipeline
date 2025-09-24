@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025000205",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'agrément visé à l'article 1er, 1°, est octroyé à partir du 15 avril 2024.</p>\n            <p>L'agrément visé à l'article 1er, 2°, est octroyé à partir du 1er juin 2024.</p>\n            <p>L'agrément visé à l'article 1er, 3°, est octroyé à partir du 15 juillet 2024.</p>\n            <p>Les agréments visés à l'article 1er, 4° et 5°, sont octroyés à partir du 1er août 2024.</p>\n            <p>L'agrément visé à l'article 1er, 6°, est octroyé à partir du 15 septembre 2024.</p>\n            <p>Les agréments visés à l'article 1er, 7° et 8°, sont octroyés à partir du 1er octobre 2024.</p>\n            <p>L'agrément visé à l'article 1er, 9°, est octroyé à partir du 15 octobre 2024.</p>\n            <p>Les agréments visés à l'article 1er, 10° et 11°, sont octroyés à partir du 1er novembre 2024.</p>\n            <p>Les agréments visés à l'article 1er, 12° et 13°, sont octroyés à partir du 1er janvier 2025.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.767Z",
+  "tokenUsage": {
+    "prompt": 1979,
+    "completion": 410,
+    "total": 2389
+  }
+}

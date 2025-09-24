@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040486",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 4, alinéa premier, du même décret, modifié par le décret du 10 mars 2017, sont ajoutés un point 9° et un point 10°, libellés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"9°\">\n          <span class=\"provision-text\">l'hébergement touristique a été créé et est exploité conformément à la réglementation en matière d'aménagement du territoire et aux règles urbanistiques en vigueur</span>\n        </li>\n        <li class=\"provision\" data-number=\"10°\">\n          <span class=\"provision-text\">l'hébergement touristique a été déclaré conformément à l'article 5.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.782Z",
+  "tokenUsage": {
+    "prompt": 1623,
+    "completion": 248,
+    "total": 1871
+  }
+}

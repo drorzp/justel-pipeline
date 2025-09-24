@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019014855",
+  "articleNumber": "51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-51\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 51</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Après rencontre avec les représentants du pouvoir organisateur, le(s) parent(s) peut (peuvent) confirmer la demande d'accueil. Le pouvoir organisateur ne peut accepter une confirmation de demande d'accueil avant le 3ème mois révolu de grossesse.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le pouvoir organisateur met tout en oeuvre pour répondre le plus adéquatement possible à chaque demande d'accueil de parents en concertation avec ceux-ci.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le pouvoir organisateur statue, dans le respect de l'ordre chronologique, mensuellement et simultanément sur l'ensemble des demandes d'accueil confirmées par le(s) parent(s) au cours du moins précédent. Par dérogation à l'alinéa précédent, le pouvoir organisateur peut accepter immédiatement les demandes confirmées relevant des priorités visées à l'article 52, alinéa 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">et 3°.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.394Z",
+  "tokenUsage": {
+    "prompt": 1901,
+    "completion": 432,
+    "total": 2333
+  }
+}

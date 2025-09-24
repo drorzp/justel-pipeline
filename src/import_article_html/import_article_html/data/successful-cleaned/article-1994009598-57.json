@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994009598",
+  "articleNumber": "57",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-57\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 57</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Aux articles 269, 1,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et 269, 2,</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">1°, du Code des droits d'enregistrement, d'hypothèque et de greffe, modifiés par la loi du 10 octobre 1967, les mots &quot; et les tribunaux de police &quot; sont insérés chaque fois après les mots &quot; justices de paix &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.071Z",
+  "tokenUsage": {
+    "prompt": 1568,
+    "completion": 219,
+    "total": 1787
+  }
+}

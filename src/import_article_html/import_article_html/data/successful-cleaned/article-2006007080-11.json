@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006007080",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 4sexies, § 1er, du même arrêté, inséré par l'arrêté royal du 12 août 2003, est remplacé par la disposition suivante :</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les comités de coordination des cours visés à l'article 1er, alinéa 1er, 1° et 3°, sont présidés, selon le cas, par les directeurs de cours ou les coordinateurs de cours respectifs. En cas d'absence ou d'empêchement, la présidence est assurée par le représentant de département le plus ancien dans le grade le plus élevé.</p>\n        <p>Le comité de coordination de chaque cours comprend, selon le cas, le directeur ou le coordinateur de ce cours et un représentant de chaque département dont au moins un membre professe lors de ce cours.</p>\n        <p>Les directeurs des cours visés à l'article 1er, alinéa 1er, 1°, b) à d), et 3°, peuvent inviter un ou plusieurs représentants des officiers stagiaires à participer aux comités de coordination des cours qu'ils suivent.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.868Z",
+  "tokenUsage": {
+    "prompt": 1860,
+    "completion": 354,
+    "total": 2214
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016A29079",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les missions de la Chambre sont définies aux articles 16 § 6, 39,4° et 48 du décret, à savoir :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">Admettre momentanément, pour les fonctions en cause, d'autres titres selon des modalités arrêtées par le Gouvernement,</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">Proposer le cadre réglementaire destiné à prendre les décisions d'admission d'autres titres au-delà de ceux déterminés par le Gouvernement comme titres de capacité afin de faire face momentanément à une pénurie de tout titre,</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">Emettre les autorisations d'engagement en application des articles 16 § 6 et 39,4° à l'attention de l'enseignement organisé par la Communauté française et des Pouvoirs organisateurs de l'enseignement subventionné.</span></li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.780Z",
+  "tokenUsage": {
+    "prompt": 1739,
+    "completion": 310,
+    "total": 2049
+  }
+}

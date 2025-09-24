@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024008925",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour les subventions visées à l'article 5, alinéa 1er, 3°, 4°, 5° et 6°, du décret du 16 novembre 2023, le demandeur de la subvention notifie au soumissionnaire l'attribution du marché dans un délai de quarante jours à dater de la prise de connaissance de la décision d'approbation du dossier d'attribution visé à l'article 21.</p>\n        <p>Il communique, sans délai, à l'administration une copie de la notification d'attribution du marché et de l'ordre de commencer les travaux.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le demandeur communique à l'administration la date fixée pour la réception provisoire des travaux au minimum dix jours avant la tenue de celle-ci.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.460Z",
+  "tokenUsage": {
+    "prompt": 1808,
+    "completion": 325,
+    "total": 2133
+  }
+}

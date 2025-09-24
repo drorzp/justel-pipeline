@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998012284",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 38 de la même loi, les mots &quot; à l'article 35, 4°, 5° et 6° &quot; sont remplacés par les mots &quot; à l'article 35, 4° et 6°, et sans préjudice de l'article 37bis &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.161Z",
+  "tokenUsage": {
+    "prompt": 1595,
+    "completion": 154,
+    "total": 1749
+  }
+}

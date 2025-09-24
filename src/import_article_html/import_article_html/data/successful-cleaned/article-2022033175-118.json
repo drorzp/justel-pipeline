@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022033175",
+  "articleNumber": "118",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-118\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 118</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté produit ses effets à partir du 15 juin 2022 :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">en tenant compte du déploiement progressif de la modernisation de l'enseignement secondaire en ce qui concerne l'enseignement secondaire ordinaire à temps plein et l'enseignement secondaire spécial, formes d'enseignement 3 et 4 : tous les articles pour autant qu'ils ne sont pas mentionnés ci-après ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">articles 1, 2, 88, 89, 95, 96, 99, 100, 101, 103, 104, 107, 111 et 114.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Par dérogation à l'alinéa premier, entrent en vigueur :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le 1er septembre 2022 : article 16, 2°, article 61, alinéa 2, 1°, article 62, alinéa premier, 1°, et alinéa 2, 1°, article 65, 1°, articles 75, 90, 91, 92, 93, 94, 97, 98, 102, 105, 2°, articles 106, 110, 1°, article 113, 1°, article 116, 5° et article 117 ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le 1er septembre 2025 : article 105, 1°, 3° et 4°, articles 108, 109, 110, 2° et 3°, articles 112, 113, 2° à 4°, articles 115 et 116, 1° à 4°.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.814Z",
+  "tokenUsage": {
+    "prompt": 2872,
+    "completion": 570,
+    "total": 3442
+  }
+}

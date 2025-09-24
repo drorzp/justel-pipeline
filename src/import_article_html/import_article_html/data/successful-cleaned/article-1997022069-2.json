@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022069",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 du même arrêté royal sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1.\">\n          <span class=\"provision-text\">au § 1er, alinéa 1er, les termes \" article 23 \" sont remplacés par les termes \" article 34 \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2.\">\n          <span class=\"provision-text\">le 2ème alinéa du § 1er est remplacé par le texte suivant : \" Cependant, l'intervention de l'assurance reste inchangée pour les prestations visées à l'article 34, 5°, de la loi, de même que les frais d'hébergement liés aux prestations visées à l'article 34, 11° et 18° de la loi, ainsi que les interventions personnelles relatives aux admissions visées à l'article 34, 6° de la loi, à partir du 91ème jour d'hospitalisation dans un hôpital général et à partir du 366ème jour d'hospitalisation dans un hôpital psychiatrique; la totalisation du nombre de journées d'hospitalisation s'effectue par période d'hospitalisation ininterrompue au sens de l'article 2, §§ 2 et 3, de l'arrêté royal du 20 août 1980 fixant le montant de la réduction de l'intervention de l'assurance en cas d'hospitalisation ou de séjour dans un centre de rééducation. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3.\">\n          <span class=\"provision-text\">au § 2, 2°, les termes \" article 25, §§ 1er et 2 de la loi du 9 août 1963 précitée \" sont remplacés par les termes \" article 37, §§ 1er et 2 de la loi \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.970Z",
+  "tokenUsage": {
+    "prompt": 2115,
+    "completion": 516,
+    "total": 2631
+  }
+}

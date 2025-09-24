@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994A35962",
+  "articleNumber": "61quinquies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-61quinquies\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 61quinquies</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"1994-07-13/33\" data-article-number=\"3\" data-law-type=\"DCFL\" data-effective-date=\"12-09-1994\">&lt;Inséré par DCFL 1994-07-13/33, art. 3;<strong>En vigueur :</strong>12-09-1994&gt;</span>\n            <p class=\"intro-text\">Pour chacun des membres du conseil d'administration, visés à l'article 61ter, premier alinéa, 1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">3°, un suppléant est élu en même temps. Si le mandat d'un membre se termine prématurément ou s'il ne possède plus la qualité sur la base de laqelle le mandat a été conféré, le suppléant achève le mandat de son prédécesseur. Si le suppléant lui aussi ne peut achever le mandat, des élections partielles sont organisées.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.958Z",
+  "tokenUsage": {
+    "prompt": 1777,
+    "completion": 354,
+    "total": 2131
+  }
+}

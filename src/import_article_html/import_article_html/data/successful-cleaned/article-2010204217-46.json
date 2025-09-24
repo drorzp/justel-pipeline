@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010204217",
+  "articleNumber": "46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 46</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En ce qui concerne les métiers du conseil, dans l'article 309bis du Code, l'alinéa 1er est complété par les mots :</p>\n      <blockquote class=\"quote-text\">\n        <p class=\"quote-content\">\" Aussi longtemps que les premières épreuves prévues à l'article 53, § 2, 5° et 6°, ne sont pas clôturées, les conditions visées par l'article 53, § 2, 5° et 6°, ne sont pas requises pour les agents occupant un emploi d'encadrement à la date d'entré en vigueur du présent arrêté. \"</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.336Z",
+  "tokenUsage": {
+    "prompt": 1691,
+    "completion": 223,
+    "total": 1914
+  }
+}

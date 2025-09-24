@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042658",
+  "articleNumber": "189",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-189\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 189</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>La charge de travail normale d'un receveur régional est de 13 000 points par mois. Elle ne peut, en tous les cas, être inférieure à 12 000 points, ni supérieure à 14 000 points par mois.</p>\n        <p>Moyennant l'accord préalable du Ministre, le gouverneur peut, à l'égard d'un receveur régional, réduire le seuil minimal de 12 000 points ou augmenter le seuil maximal de 14 000 points prévus à l'alinéa 1er. Le gouverneur est tenu de justifier cette demande.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Le seuil maximal visé au paragraphe 1er peut être dépassé lorsque le receveur régional assume les missions suivantes :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">soit, une mission visée à l'article 26;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">soit, une ou plusieurs missions visées à l'article 27, à concurrence de maximum 52 000 points sur une année civile.</span>\n          </li>\n        </ol>\n        <p>Au cours d'une année civile, le receveur régional ne peut pas cumuler l'exercice de missions visées à l'alinéa 1er, 1° et de missions visées à l'alinéa 1er, 2°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.501Z",
+  "tokenUsage": {
+    "prompt": 2031,
+    "completion": 500,
+    "total": 2531
+  }
+}

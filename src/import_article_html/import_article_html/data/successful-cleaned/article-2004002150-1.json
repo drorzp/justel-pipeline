@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004002150",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Un article 2bis, rédigé comme suit, est inséré dans l'arrêté royal du 11 juillet 2002 portant règlement général en matière de droit à l'intégration sociale :</p>\n      <blockquote class=\"article-quote\">\n        <p class=\"quote-text\">\" Article 2bis. Pour pouvoir prétendre au revenu d'intégration fixé à l'article 14, § 1er, alinéa 1er, 3°, de la loi, le conjoint ou le partenaire de vie du demandeur doit remplir les conditions prévues à l'article 3, 1°, 2°, 4° et 6°, de la même loi.</p>\n        <p class=\"quote-text\">Par ailleurs, le conjoint ou partenaire de vie doit remplir les conditions prévues à l'article 3, 5°, de la loi lorsqu'il dispose de revenus inférieurs au montant fixé à l'article 14, § 1er, alinéa 1er, 1°, de la même loi. Ces revenus sont calculés conformément aux dispositions du titre II, chapitre II de la loi. \"</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.650Z",
+  "tokenUsage": {
+    "prompt": 1814,
+    "completion": 320,
+    "total": 2134
+  }
+}

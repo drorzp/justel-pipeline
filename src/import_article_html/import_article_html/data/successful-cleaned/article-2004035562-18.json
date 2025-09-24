@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004035562",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 61vicies ter du même décret spécial sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \"Le conseil départemental est chargé de :\" sont remplacés par les mots \"Tout en respectant les articles 61septies, premier alinéa, 8°, et 61ter decies, 6°, 7° et 8°, le conseil départemental est notamment chargé de :\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 1° est remplacé par la disposition suivante : \" 1° formuler des propositions quant à la désignation et la nomination du personnel enseignant; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le point 10° est remplacé par la disposition suivante : \" 10° formuler des propositions quant à la conclusion d'accords de collaboration; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le point 12° est remplacé par la disposition suivante : \" 12° formuler des propositions quant à l'octroi de changements de fonction et de promotions au personnel attribué au département; \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.841Z",
+  "tokenUsage": {
+    "prompt": 1891,
+    "completion": 410,
+    "total": 2301
+  }
+}

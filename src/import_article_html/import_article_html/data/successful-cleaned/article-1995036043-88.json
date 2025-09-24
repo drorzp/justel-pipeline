@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995036043",
+  "articleNumber": "88",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-88\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 88</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article XIII 93 du même arrêté est remplacé par ce qui suit :</p>\n            <p>\"Sans préjudice de l'article XIII 92, 2°, 3° et 4° et de l'article XIII 98, le montant du pécule de vacances et/ou de l'allocation de fin d'année :</p>\n            <ol>\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"sub-provision-text\">est fixé respectivement à un douzième ou un neuvième du montant mensuel pour chaque période de prestations couvrant un mois entier;</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"sub-provision-text\">est adapté conformément à l'article XIII 22, § 4 et à l'article XIII 25, selon le cas, s'il n'a pas été fourni de prestations complètes au cours de l'année de référence entière ou de la période de référence.\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.039Z",
+  "tokenUsage": {
+    "prompt": 1723,
+    "completion": 297,
+    "total": 2020
+  }
+}

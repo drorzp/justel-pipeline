@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1981001949",
+  "articleNumber": "70",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-70\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 70</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">(Les ressortissants luxembourgeois et néerlandais ne peuvent être refoulés que pour l'un des motifs énumérés à l'article 3, alinéa 1, 2°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">8°, de la loi.)<span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1996-11-22/31\" data-law-type=\"AR\" data-article-number=\"10\">&lt;AR 1996-11-22/31, art. 10, 018; <strong>En vigueur :</strong> 16-12-1996&gt;</span> La décision de refoulement leur est notifiée par la remise du document conforme au modèle figurant à l'annexe 11.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.677Z",
+  "tokenUsage": {
+    "prompt": 1696,
+    "completion": 293,
+    "total": 1989
+  }
+}

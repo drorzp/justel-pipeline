@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996027332",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 14 de l'arrêté de l'Exécutif de la Communauté française du 16 décembre 1988 réglant l'agrément des services d'aide aux familles et aux personnes âgées et l'octroi de subventions à ces services est remplacé par le texte suivant :</p>\n            <p>\"Les cours de perfectionnement organisés par les services en faveur des aides familiales et des aides seniors peuvent bénéficier des subventions prévues à l'article 10, 1er alinéa, 1°, 2° et 3°.</p>\n            <p>L'octroi des subventions est subordonné à la participation d'au moins 6 aides à ces cours et ils doivent se dérouler durant l'horaire normal de travail; le Ministre peut accorder une dérogation à ces deux conditions.</p>\n            <p>Le cours de perfectionnement doit avoir une durée minimale de deux heures.</p>\n            <p>Les informations relatives à l'organisation, au programme des cours et l'éventuelle demande de dérogation doivent être notifiées au Ministre au moins quinze jours avant leur début.</p>\n            <p>Les services doivent consacrer à l'organisation de cours de perfectionnement au moins 1,47 p.c. de leur activité totale prise en compte pour l'octroi des subventions. A défaut, une sanction équivalente au produit du nombre d'heures manquantes par la subvention horaire moyenne leur sera appliquée.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.107Z",
+  "tokenUsage": {
+    "prompt": 1951,
+    "completion": 390,
+    "total": 2341
+  }
+}

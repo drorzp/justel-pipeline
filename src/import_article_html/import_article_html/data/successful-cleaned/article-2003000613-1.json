@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003000613",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La Société de Développement pour la Région de Bruxelles-Capitale, en abrégé la &quot; S.D.R.B. &quot;, est autorisée à accéder aux informations visées à l'article 3, alinéa 1er, 1° à 6° et 8°, et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques.</p>\n            <p>L'accès aux informations visées à l'alinéa 1er est autorisé uniquement pour la réalisation des opérations de contrôle du respect des conditions d'accès et d'occupation imposées pour une durée déterminée par le Gouvernement de la Région Bruxelles-Capitale en vertu de l'article 20, § 2, 2°, de l'ordonnance du Conseil de la Région de Bruxelles-Capitale du 20 mai 1999 relative à la Société de Développement pour la Région de Bruxelles-Capitale aux acquéreurs de logements dont la production bénéficie de subsides de la Région de Bruxelles-Capitale.</p>\n            <p>L'accès à ces informations est réservé :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">au Directeur général de la Direction générale de la Rénovation urbaine de la S.D.R.B.;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">aux fonctionnaires de la Direction générale de la Rénovation urbaine précitée qui, compte tenu de leurs fonctions et dans les limites de leurs attributions respectives, ont été désignés nommément et par écrit à cette fin par le Conseil d'administration de la S.D.R.B.</span></li>\n            </ol>\n            <p class=\"closing-text\">L'accès aux modifications successives aux informations visées à l'alinéa 1er est limité à une période de 10 ans précédant la date de communication de ces informations.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.838Z",
+  "tokenUsage": {
+    "prompt": 2142,
+    "completion": 517,
+    "total": 2659
+  }
+}

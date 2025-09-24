@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006014119",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A L'article 82.1.4 du même arrêté sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Au 1°, les alinéas 1 et 2 sont remplacés par l'alinéa suivant : \" Les feux et catadioptres doivent être en tout temps parfaitement visibles et dégagés ainsi qu'en bon état d'entretien et de fonctionnement. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Le 2° est remplacé par la disposition suivante : \" En aucun cas, il ne peut être utilisé de feux ou catadioptres rouges à l'avant et de feux blancs ou jaunes ou de catadioptres blancs à l'arrière. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Aux 3° et 4°, le mot \" véhicule \" est chaque fois remplacé par \" cycle \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.826Z",
+  "tokenUsage": {
+    "prompt": 1773,
+    "completion": 338,
+    "total": 2111
+  }
+}

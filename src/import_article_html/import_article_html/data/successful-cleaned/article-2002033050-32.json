@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002033050",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 32</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation à l'article 16, le subside représente 80 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1° à 5°, et 7° à 9°, envisagés par des établissements d'enseignement.</p>\n                <p>Le subside représente 60 % du montant total des dépenses subsidiables pour le projet d'infrastructure mentionné à l'article 2, alinéa 1, 6°.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation au § 1er, le subside représente 100 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 5° et 6°, en ce qui concerne les bibliothèques et médiathèques scolaires dans l'enseignement secondaire et supérieur.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-3\">\n            <h3 class=\"paragraph-marker\">§ 3.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation au § 1er, le subside représente 100 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, envisagés par les établissements d'enseignement supérieur qui sont des personnes morales de droit public en vertu de l'article 5 de la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone et font l'objet d'un accord entre pouvoirs organisateurs d'établissements d'enseignement supérieur.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.755Z",
+  "tokenUsage": {
+    "prompt": 2088,
+    "completion": 514,
+    "total": 2602
+  }
+}

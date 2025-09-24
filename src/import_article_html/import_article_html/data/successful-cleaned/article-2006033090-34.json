@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006033090",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les articles 73, 2°, 87, § 1, 2° et § 2, 2°, et 102, § 1er, 2°, du même arrêté royal du 27 juillet 1979 sont remplacés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la durée des services rendus à titre de membre du personnel technique engagé à titre temporaire dans une fonction à prestations complètes ou incomplète est égale au nombre de jours comptés du début à la fin d'une période ininterrompue d'activité de service, y compris, s'ils sont englobés dans cette période, les congés de détente ainsi que les vacances de Noël et de Pâques, le congé de maternité, le congé d'accueil en vue de l'adoption ou de la tutelle officieuse ou les congés exceptionnels accordés conformément aux dispositions légales et réglementaires;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.716Z",
+  "tokenUsage": {
+    "prompt": 1773,
+    "completion": 310,
+    "total": 2083
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032714",
+  "articleNumber": "46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 46</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 8 de la même loi, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le 7° est retiré ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'article est complété par un 7° rédigé comme suit : \n                        <q>7° l'article est complété par un alinéa, rédigé comme suit : \n                            <q>Lorsque le véhicule visé à l'alinéa 1er, 8°, est mis à disposition pour l'utilisation à des fins personnelles d'un tiers, les frais visés à l'alinéa 1er, 8°, ne comprennent pas le montant qui correspond à l'avantage de toute nature imposé dans le chef dudit tiers et l'intervention personnelle dudit tiers pour l'utilisation à des fins personnelles de ce véhicule.</q>\n                        </q>\n                    </span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">l'article est complété par un 8° rédigé comme suit : \n                        <q>8° dans l'alinéa 3, inséré par le 7°, les mots \"alinéa 1er, 8° \" sont chaque fois remplacés par les mots \"alinéa 1er, 8° et 9°.\"</q>\n                    </span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.813Z",
+  "tokenUsage": {
+    "prompt": 1931,
+    "completion": 436,
+    "total": 2367
+  }
+}

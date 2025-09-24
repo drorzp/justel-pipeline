@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020044594",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 2 de l'arrêté du Président du Comité de direction du SPF Finances établissant les tâches dont l'Administration des Services patrimoniaux est chargée, et déterminant les compétences ainsi que le siège de ses services opérationnels, les 1° et 2° sont remplacés par ce qui suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le Service Soutien Stratégique et Opérationnel ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le Service Expertise Juridique et Support ;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.088Z",
+  "tokenUsage": {
+    "prompt": 1614,
+    "completion": 244,
+    "total": 1858
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014011635",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'arrêté royal du 21 juillet 2014 modifiant l'arrêté royal du 25 mars 1996 portant exécution de la loi du 27 mars 1995 relative à l'intermédiation en assurances et en réassurances et à la distribution d'assurances et l'arrêté royal du 1er juillet 2006 portant exécution de la loi du 22 mars 2006 relative à l'intermédiation en services bancaires et en services d'investissement et à la distribution d'instruments financiers, sont abrogés :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le chapitre Ier - Modifications de l'arrêté royal du 25 mars 1996 portant exécution de la loi du 27 mars 1995 relative à l'intermédiation en assurances et en réassurances et à la distribution d'assurances, comportant les articles 1er à 6 ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'article 10, alinéa 1er ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'article 11, 1° et 2°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.152Z",
+  "tokenUsage": {
+    "prompt": 1881,
+    "completion": 394,
+    "total": 2275
+  }
+}

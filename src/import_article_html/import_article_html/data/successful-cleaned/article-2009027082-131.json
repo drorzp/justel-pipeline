@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009027082",
+  "articleNumber": "131",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-131\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 131</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 309bis du même arrêté, inséré par l'arrêté du Gouvernement wallon du 15 février 2007, est remplacé par ce qui suit :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 309bis.</h3>\n                <div class=\"paragraph-content\">\n                    <p class=\"intro-text\">Aussi longtemps que la première épreuve de validation des compétences n'est pas clôturée, la condition relative au certificat de validation des compétences visée aux articles 53, § 2, 4°, et 56, § 1er, alinéa 2, 4°, n'est pas requise.</p>\n                    <p class=\"intro-text\">Pour les procédures en cours au 12 avril 2007, les conditions visées à l'article 53, § 2,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"5°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                    </ol>\n                    <p class=\"intro-text\">6°, ne sont pas requises. Les agents titulaires d'un grade visé à l'article 8 et non affectés à un emploi d'encadrement ne peuvent se voir attribuer un emploi d'encadrement s'ils ne remplissent les conditions visées aux articles 53, § 2,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"4°\">\n                            <span class=\"provision-text\">à</span>\n                        </li>\n                    </ol>\n                    <p class=\"intro-text\">6°.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.952Z",
+  "tokenUsage": {
+    "prompt": 1881,
+    "completion": 450,
+    "total": 2331
+  }
+}

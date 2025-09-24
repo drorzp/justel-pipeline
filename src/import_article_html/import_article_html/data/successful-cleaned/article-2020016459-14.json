@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016459",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 9, § 2, alinéa 1er de la loi du 16 mars 1803 contenant organisation du notariat, remplacé par la loi du 4 mai 1999 et modifié par la loi du 6 juillet 2017, les mots \", </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"> \" sont temporairement abrogés.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.218Z",
+  "tokenUsage": {
+    "prompt": 1570,
+    "completion": 220,
+    "total": 1790
+  }
+}

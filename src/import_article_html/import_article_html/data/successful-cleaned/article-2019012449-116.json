@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012449",
+  "articleNumber": "116",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-116\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 116</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 229, § 2, de la même loi, modifié par la loi du 30 juillet 2018, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er, 1°, est complété par les mots \"à des dispositions des mesures d'exécution de la directive 2009/110/CE ;\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 1er est complété par les 4° et 5°, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">il doit se conformer à une exigence imposée par la Banque en application de dispositions de la présente loi, d'un arrêté royal ou règlement pris pour son exécution ou des mesures d'exécution de la directive 2009/110/CE ; ou</span>\n            </li>\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">il doit se conformer aux exigences fixées par la Banque comme conditions à une décision prise en application de la présente loi, d'un arrêté royal ou règlement pris pour son exécution ou des mesures d'exécution de la directive 2009/110/CE, notamment l'octroi d'une autorisation ou d'une dérogation.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.307Z",
+  "tokenUsage": {
+    "prompt": 1949,
+    "completion": 452,
+    "total": 2401
+  }
+}

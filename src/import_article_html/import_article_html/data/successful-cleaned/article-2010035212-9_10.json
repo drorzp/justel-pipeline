@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035212",
+  "articleNumber": "9/10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9/10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9/10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-09-15/26\" data-law-type=\"AGF\" data-article-number=\"2\">\n        <p class=\"intro-text\">Si le Vlaams Steunpunt Vrijwilligerswerk n'affecte pas entièrement la subvention visée à l'article 9/1 pendant l'année pour laquelle la subvention est accordée, pour couvrir les frais visés à l'article 9/2, alinéa 1er, 1° et 2°, il est tenu d'affecter la partie non affectée à la constitution de réserves, jusqu'à maximum 20 % de l'enveloppe subventionnelle.</p>\n        <p class=\"closing-text\">Le Vlaams Steunpunt Vrijwilligerswerk utilise les réserves visées à l'alinéa 1er pour financer des dépenses qui contribuent à la réalisation des tâches du Vlaams Steunpunt Vrijwilligerswerk afin de mettre en oeuvre les objectifs mentionnés dans le décret et le présent arrêté. Les réserves visées à l'alinéa 1er qui, à la clôture de l'exercice, dépassent 50 % de l'enveloppe subventionnelle annuelle sont remboursées par le Vlaams Steunpunt Vrijwilligerswerk à l'Autorité flamande à raison du montant excédant 50 % de l'enveloppe subventionnelle annuelle.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.232Z",
+  "tokenUsage": {
+    "prompt": 2038,
+    "completion": 396,
+    "total": 2434
+  }
+}

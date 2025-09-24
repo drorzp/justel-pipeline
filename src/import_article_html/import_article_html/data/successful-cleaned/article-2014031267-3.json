@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014031267",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 29, alinéa 1er du même arrêté :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"sub-provision-text\">le 7° est remplacé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">de délivrer systématiquement, même sans demande du client, après chaque course, le ticket visé à l'article 41,5°, du présent arrêté; si, pour quelque motif que ce soit, ce ticket ne peut être remis au client, le chauffeur est tenu de lui remettre un ticket manuscrit comportant toutes les mentions visées à l'article 41,5° et de signaler immédiatement l'incident à l'exploitant; en ce cas, il est également tenu de faire réparer l'origine de cet incident au plus tard le premier jour ouvrable après l'incident.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"sub-provision-text\">il est ajouté un 9°, libellé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"9°\">\n              <span class=\"provision-text\">de remettre de façon imprimée ou via un support électronique, à toute réquisition des fonctionnaires et agents visés à l'article 37 de l'ordonnance, dans le cadre de l'exercice de leur fonction, un rapport comportant, les totalisateurs.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.329Z",
+  "tokenUsage": {
+    "prompt": 1951,
+    "completion": 450,
+    "total": 2401
+  }
+}

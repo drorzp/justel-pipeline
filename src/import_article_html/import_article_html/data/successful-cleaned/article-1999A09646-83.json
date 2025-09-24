@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999A09646",
+  "articleNumber": "83",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-83\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 83</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Toute société étrangère qui a établi en Belgique une succursale, est tenue de rendre publics les documents et indications suivants :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans les trente jours qui suivent la décision ou événement :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">toute modification aux documents et indications vises respectivement à l'article 81, 1°, 2°, 3°, 5° et 6°, ou à l'article 82, 1°, 2°, 3°, 4°, 6°, 7°, 8°, 9° et 10°;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">la dissolution de la société, la nomination, l'identité et les pouvoirs des liquidateurs, ainsi que la clôture de la liquidation;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">toute procédure de faillite, de concordat ou toute autre procédure analogue dont la société fait l'objet;</li>\n            <li class=\"sub-provision\" data-marker=\"d)\">la fermeture de la succursale;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">annuellement, dans le mois qui suit l'assemblée générale et au plus tard sept mois après la date de clôture de l'exercice les comptes annuels et les comptes consolidés, selon les dispositions de l'article 81, 7°, et de l'article 82, 11°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.266Z",
+  "tokenUsage": {
+    "prompt": 1968,
+    "completion": 453,
+    "total": 2421
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007002017",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'article 5, § 1er, du même arrêté royal est complété par le texte suivant :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"6°\">\n            <span class=\"provision-text\">un responsable de la politique de communication du service.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 5, § 4, du même arrêté est remplacée par la disposition suivante :</p>\n        <p>&quot; § 4. Au sein des services visés à l'article 1er, 1° et 2°, a) et b), et les membres visés au § 1er, 1° et 2°, exceptés, les membres de la cellule de développement durable sont désignés par le comité de direction du service. Au sein des services visés à l'article 1er, 2°, c) et 3°, et les membres visés au § 1er, 1° et 2°, excepté(s), les membres de la cellule de développement durable sont désignés par le fonctionnaire dirigeant. &quot;</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.820Z",
+  "tokenUsage": {
+    "prompt": 1894,
+    "completion": 408,
+    "total": 2302
+  }
+}

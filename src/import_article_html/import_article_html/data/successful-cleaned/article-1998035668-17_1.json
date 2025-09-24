@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998035668",
+  "articleNumber": "17/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-04-30/96\" data-law-type=\"DCFL\" data-article-number=\"10\">\n      <section class=\"paragraph\" id=\"para-1er\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p class=\"intro-text\">Le Gouvernement flamand agréé une organisation de participation agissant comme un forum d'organisations de personnes telles que visées à l'article 3, premier alinéa, 1° et 2°. L'organisation de participation a comme mission de promouvoir la participation à la société de personnes telles que visées à l'article 3, premier alinéa, 1° et 2°. A cet effet, elle accomplit au moins les missions générales suivantes :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">défendre des intérêts réalisés</span></li>\n            <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">représenter des personnes telles que visées à l'article 3, premier alinéa, 1° et 2°, vis-à-vis des autorités flamandes</span></li>\n            <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">promouvoir l'empowerment et l'émancipation des personnes visées à l'article 3, premier alinéa, 1° et 2°</span></li>\n            <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">émettre des recommandations politiques</span></li>\n            <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">poursuivre une image correcte de la société</span></li>\n            <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">concorder le propre fonctionnement avec le VLEMI par le biais d'un accord de coopération.</span></li>\n          </ol>\n        </div>\n      </section>\n    </span>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.062Z",
+  "tokenUsage": {
+    "prompt": 2117,
+    "completion": 543,
+    "total": 2660
+  }
+}

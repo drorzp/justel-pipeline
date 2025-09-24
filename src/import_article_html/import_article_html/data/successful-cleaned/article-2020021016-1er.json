@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020021016",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La version applicable des Règles d'York et d'Anvers visée à l'article 1.1.1.1, § 1er,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"49°\">\n                    <span class=\"provision-text\">et l'article 2.7.1.4, § 1er du Code belge de la Navigation, est la version de 2016.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.226Z",
+  "tokenUsage": {
+    "prompt": 1536,
+    "completion": 195,
+    "total": 1731
+  }
+}

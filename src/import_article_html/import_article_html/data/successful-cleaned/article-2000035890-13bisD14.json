@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000035890",
+  "articleNumber": "13bisD14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13bisD14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13bisD14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                (Voir NOTES sous l'intitulé) <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"2002-03-29/46\" data-article-number=\"68\" data-law-type=\"AGF\" data-effective-date=\"09-01-2001\">&lt;Inséré par AGF 2002-03-29/46, art. 68;**En vigueur :**09-01-2001&gt;</span> L'agent contractuel ayant un emploi hautement qualifié tel que visé à l'article XIV 2,:\n            </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">et une rémunération égale à A311 au minimum, est apprécié par le conseil d'administration.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.257Z",
+  "tokenUsage": {
+    "prompt": 1651,
+    "completion": 286,
+    "total": 1937
+  }
+}

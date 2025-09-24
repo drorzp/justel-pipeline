@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1986025394",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les membres du Conseil et les experts ont droit:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au remboursement des frais de parcours, aux conditions prévues par l'arrêté royal du 18 janvier 1965 portant réglementation générale en matière de frais de parcours</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au remboursement des frais de séjour aux conditions prévues par l'arrêté royal du 24 décembre 1964 fixant les indemnités pour frais de séjour des membres du personnel des ministères.</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">au jeton de présence, sauf pour les fonctionnaires, conformément aux dispositions de l'arrêté royal du 5 janvier 1960 modifiant l'arrêté du Régent du 15 juillet 1946 fixant le montant des jetons de présence et les frais alloués aux membres des commissions permanentes ressortissant au département de la Santé publique et de la Famille.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Pour l'application des dispositions des:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">du présent article, les membres du Conseil et les experts sont assimilés aux fonctionnaires titulaires d'un grade dans un des rangs 10 à 14.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.523Z",
+  "tokenUsage": {
+    "prompt": 1937,
+    "completion": 468,
+    "total": 2405
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036115",
+  "articleNumber": "270",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-270\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 270</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'annexe 10, chapitre 1er, 1° du même arrêté, inséré par l'arrêté du Gouvernement flamand du 1 mars 2013, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point d) est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"d)\">\n              <span class=\"provision-text\">les laboratoires participants sont informés par écrit, au plus tard à la date de la distribution des échantillons des épreuves de l'anneau de la manière dont les résultats des épreuves de l'anneau seront traités et évalués ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté un point e), rédigé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"e)\">\n              <span class=\"provision-text\">s'il est demandé aux laboratoires participants d'analyser des paramètres supplémentaires qui ne font pas partie d'un paquet, tel que visé à l'annexe 3, il n'est pas tenu compte du résultat rapporté de ces paramètres supplémentaires lors de l'évaluation des résultats des épreuves de l'anneau par paquet, visé aux 6°, 7° et 8°.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.220Z",
+  "tokenUsage": {
+    "prompt": 1935,
+    "completion": 444,
+    "total": 2379
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995003214",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 110 du même Code, modifié par l'article 18 de la loi du 18 juin 1993 et par l'article 85 de la loi du 6 juillet 1994, est remplacé par la disposition suivante :</p>\n            <p class=\"intro-text\">\"Art. 110. Le Roi détermine les conditions et les modalités d'agrément des associations et institutions visées à l'article 104, 3°, b, e, g,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">4°bis. Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge. Donné à Bruxelles, le 22 février 1995. ALBERT Par le Roi : Le Ministre des Finances, Ph. MAYSTADT Scellé du sceau de l'Etat : Le Ministre de la Justice, M. WATHELET</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.963Z",
+  "tokenUsage": {
+    "prompt": 1786,
+    "completion": 330,
+    "total": 2116
+  }
+}

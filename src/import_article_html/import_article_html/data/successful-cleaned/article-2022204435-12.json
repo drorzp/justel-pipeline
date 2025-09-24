@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022204435",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 133 de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage, les modifications suivantes sont apportées:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le § 1er est complété par un 16° et un 17°, rédigés comme suit: <br>\"16° le travailleur visé à l'article 27, 21°, qui, pour la première fois, sollicite le bénéfice de l'application du chapitre XII et chaque fois qu'il en demande le renouvellement ou qui sollicite le bénéfice de l'application du chapitre XII sur base de l'article 184, § 1er ou § 2; <br>17° le chômeur qui, pour la première fois, sollicite le bénéfice de l'allocation visée à l'article 114bis.\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le § 2 est complété par un 7°, rédigé comme suit: <br>\"7° le chômeur qui pour la première fois sollicite le bénéfice de l'allocation visée à l'article 114bis.\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.827Z",
+  "tokenUsage": {
+    "prompt": 1863,
+    "completion": 372,
+    "total": 2235
+  }
+}

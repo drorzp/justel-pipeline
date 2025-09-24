@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1993003537",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les articles 1 à 3 du présent arrêté entrent en vigueur à partir de l'exercice d'imposition 1992.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 4, 1° et 2°, b, du présent arrêté est applicable aux revenus payés ou attribués à partir du 8 octobre 1992.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 4, 2°, a, du présent arrêté est applicable aux revenus payés ou attribués à partir du 1er juillet 1992.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.096Z",
+  "tokenUsage": {
+    "prompt": 1700,
+    "completion": 313,
+    "total": 2013
+  }
+}

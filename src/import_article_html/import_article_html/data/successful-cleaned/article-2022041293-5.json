@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022041293",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 16 du même décret est remplacé par ce qui suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 16.</h3>\n        <div class=\"paragraph-content\">\n          <p>Si le Gouvernement flamand octroie une subvention telle que visée à l'article 12 aux administrations locales pendant le délai transitoire visé à l'article 17, alinéa 1er, la subvention existante visée à l'article 17, alinéa 1er, est incluse dans le calcul et les indicateurs visés à l'article 12, alinéa 1er, 3° et 4°, ne sont pas appliqués lors de la détermination du montant de la subvention, mais le pourcentage de précarité est pris en compte lors de la sélection des administrations locales pouvant bénéficier d'une subvention.</p>\n          <p>Le Gouvernement flamand arrête les modalités, au minimum la manière dont la comptabilisation est effectuée, ce qu'il convient d'entendre par pourcentage de précarité et la façon dont le pourcentage de précarité est pris en compte lors de la sélection des administrations locales.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.878Z",
+  "tokenUsage": {
+    "prompt": 1847,
+    "completion": 349,
+    "total": 2196
+  }
+}

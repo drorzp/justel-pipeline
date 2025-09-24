@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1969100904",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Sont abrogés le 1er janvier 1970, l'article 3, \n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n          <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">5°</span></li>\n        </ol>\n        , et l'article 4, \n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">3°</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">4°</span></li>\n        </ol>\n        , de l'arrêté royal du 6 janvier 1969, relatif à la mise en vigueur de certaines dispositions concernant la répartition des justices de paix et des tribunaux de police en deux classes de la loi du 10 octobre 1967, contenant le Code judiciaire.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.546Z",
+  "tokenUsage": {
+    "prompt": 1555,
+    "completion": 364,
+    "total": 1919
+  }
+}

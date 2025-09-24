@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007201590",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 6, alinéa 1er, de la loi spéciale du 26 juin 2004 exécutant et complétant la loi spéciale du 2 mai 1995 relative à l'obligation de déposer une liste de mandats, fonctions et professions et une déclaration de patrimoine, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 1° est complété par les mots \", et le gouverneur et le vice-gouverneur de l'arrondissement administratif de Bruxelles-Capitale\"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa est complété par un 6° et un 7° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"6°\">\n              <span class=\"provision-text\">le greffier de la province, pour le gouverneur, le gouverneur adjoint de la province du Brabant flamand et les membres de la députation permanente</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"7°\">\n              <span class=\"provision-text\">le secrétaire communal, pour le bourgmestre, les échevins et le président du centre public d'action sociale</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.016Z",
+  "tokenUsage": {
+    "prompt": 1887,
+    "completion": 414,
+    "total": 2301
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023015193",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>Toute personne physique ou morale ayant un intérêt justifiée qui habite ou est établie sur le territoire belge peut déposer une opposition contre la demande d'annulation visée à l'article 17, § 1, auprès de l'entité compétente. L'entité compétente décide de la recevabilité de l'opposition.</p>\n        <p>L'opposition est déposée, sous peine d'irrecevabilité, dans les soixante jours à compter du lendemain de la date de publication au Moniteur belge mentionnée à l'article 18.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'opposition mentionnée à l'alinéa 1 est motivée et contient, sous peine d'irrecevabilité, toutes les informations mentionnées à l'article 6, § 2,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1°</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">3°</span>\n          </li>\n          <li class=\"provision\" data-number=\"5°\">\n            <span class=\"provision-text\">5°</span>\n          </li>\n        </ol>\n        <p>Outre les éléments visés à l'alinéa 1, l'opposition démontre que l'auteur de l'opposition utilise commercialement la dénomination enregistrée conformément à l'article 12, paragraphe 3, du règlement (UE) 2021/1236.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.834Z",
+  "tokenUsage": {
+    "prompt": 1973,
+    "completion": 499,
+    "total": 2472
+  }
+}

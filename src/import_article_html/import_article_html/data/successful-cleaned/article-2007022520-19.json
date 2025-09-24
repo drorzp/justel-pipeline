@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007022520",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 37 de la même loi, modifié par la loi du 20 décembre 1995, les arrêtés royaux des 12 décembre 1996, 21 février 1997 et 16 avril 1997, les lois des 22 février 1998, 25 janvier 1999, 3 mai 1999, 24 décembre 1999, 26 juin 2000, 12 août 2000, 10 août 2001, 30 décembre 2001, 22 août 2002 et 24 décembre 2002, l'arrêté royal du 8 avril 2003, les lois des 22 décembre 2003 et 27 avril 2005, la loi-programme du 27 décembre 2005 et la loi du 27 décembre 2005 portant des dispositions diverses, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Au paragraphe 1er, alinéa 2, remplacé par l'arrêté royal du 16 avril 1997 et modifié par la loi du 24 décembre 1999, les mots \" alinéa 1er, 7° à 11°, 16° et 20° \" sont remplacés par les mots \" alinéa 1er, 7° à 11° ter, 16° et 20°, \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Au paragraphe 19, inséré par l'arrêté royal du 16 avril 1997 et modifié par les lois des 3 mai 1999, 24 décembre 1999 et 30 décembre 2001, l'arrêté royal du 8 avril 2003 et la loi du 9 juillet 2004, les mots \" aux articles 32 et 33 \" sont chaque fois remplacés par les mots \" à l'article 32 \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.864Z",
+  "tokenUsage": {
+    "prompt": 2198,
+    "completion": 538,
+    "total": 2736
+  }
+}

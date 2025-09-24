@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022031415",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 62</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 35/3 du même arrêté, il est apporté les modification suivantes :</p>\n            <ol>\n                <li class=\"sub-provision\" data-marker=\"a)\">les 1° et 2° sont supprimés ;</li>\n                <li class=\"sub-provision\" data-marker=\"a)\">au 3°, les mots \" durant la période nécessaire à l'exécution des travaux et ne dépassant pas la durée des travaux \" sont remplacés par les mots \" pour autant que le bien retrouve son état initial 30 jours maximum après la fin des actes et travaux relatifs aux chantiers \" ;</li>\n                <li class=\"sub-provision\" data-marker=\"b)\">le 3° devient le 1° ;</li>\n                <li class=\"sub-provision\" data-marker=\"c)\">il est ajouté un 2° libellé comme suit : \" le creusement, pour une durée inférieure à 1 mois, de fosses afin de tester la capacité d'infiltration des eaux pluviales dans le sol, pour autant que de tels creusements n'entrainent pas une modification du relief du sol supérieure à 50 cm et que le sol soit remis en pristin état au terme du test. \"</li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.746Z",
+  "tokenUsage": {
+    "prompt": 1831,
+    "completion": 352,
+    "total": 2183
+  }
+}

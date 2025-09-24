@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011967",
+  "articleNumber": "6:3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6:3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6:3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les définitions figurants à l'article 6:1 sont applicables par analogie.</p>\n      <p class=\"intro-text\">Une société mère est censée être active dans les industries extractives ou dans l'exploitation des forêts primaires si une ou plusieurs de ses filiales sont actives dans les industries extractives ou dans l'exploitation des forêts primaires.</p>\n      <p class=\"intro-text\">Le rapport consolidé sur les paiements aux gouvernements contient les informations visées à l'article 6:2 relatives aux paiements résultant d'activité dans les industries extractives ou dans l'exploitation des forêts primaires.</p>\n      <p class=\"intro-text\">Les paiements effectués par une société qui ne fait pas partie du périmètre de consolidation conformément à l'article 3:97, 2° et 3°, ne doivent pas être repris dans le rapport consolidé sur les paiements aux gouvernements.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.296Z",
+  "tokenUsage": {
+    "prompt": 1750,
+    "completion": 284,
+    "total": 2034
+  }
+}

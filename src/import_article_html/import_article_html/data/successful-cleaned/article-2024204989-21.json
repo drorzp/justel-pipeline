@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024204989",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sans préjudice de l'article 18, le centre de repos et de soins assure entre 21h00 et 7h00 pour l'ensemble de l'établissement un effectif minimal suivant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pour les centres de repos et de soins ayant une capacité de soutien de soixante places au maximum : un aide-soignant sur place et un infirmier au moins en permanence structurée ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour les centres de repos et de soins ayant une capacité de soutien de soixante et une à nonante places : deux soignants sur place ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">pour les centres de repos et de soins ayant une capacité de soutien de nonante et une places au moins : trois membres du personnel sur place, dont deux soignants ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans la mesure où le centre de repos et de soins propose, dans un bâtiment séparé, des résidences-services dont le nombre dépasse 20 de la capacité de soutien autorisée du centre de repos et de soins, un soignant supplémentaire doit être prévu.</span>\n        </li>\n      </ol>\n      <p>Pour l'application de l'alinéa 1er, 2° et 3°, la permanence structurée doit être assurée par un infirmier supplémentaire si le personnel présent ne comprend pas au moins un infirmier.</p>\n      <p>Sans préjudice de l'alinéa 1er, la présence permanente d'un aide-soignant doit être assurée pour l'ensemble de l'établissement la nuit de 21h00 à 7h00.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.762Z",
+  "tokenUsage": {
+    "prompt": 2073,
+    "completion": 515,
+    "total": 2588
+  }
+}

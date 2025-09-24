@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1963070503",
+  "articleNumber": "77",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-77\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 77</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les sommes dues aux handicapés en exécution des dispositions des articles 75 et 76, alinéas 1er et 2, leur sont payées directement par le Fonds national.</p>\n      <p class=\"intro-text\">Toutefois, lorsqu'il s'agit d'handicapés engagés dans les liens d'un contrat visé à l'article 57, alinéa 2, 2°, 3° et 4°, ces sommes leur sont payées par le centre qui les occupe. Ces prestations doivent être exécutées par le centre conformément aux instructions qui lui sont données par le Fonds national, tant au point de vue administratif que comptable.</p>\n      <p class=\"closing-text\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"1997-09-25/47\" data-law-type=\"ARR\" data-article-number=\"3\">\n          (NOTE 1 : art. 77 abrogé pour la Commission communautaire française de la Région de Bruxelles-Capitale par ARR 1997-09-25/47, art. 3; <strong>En vigueur :</strong> 01-07-1997)\n        </span>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"1998-11-05/35\" data-law-type=\"ARW\" data-article-number=\"89\">\n          (NOTE 2 : Abrogé pour la Région wallonne par <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1998-11-05/35\" data-law-type=\"ARW\" data-article-number=\"89\">&lt;ARW 1998-11-05/35, art. 89; <strong>En vigueur :</strong> 01-01-1999&gt;</span>)\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.477Z",
+  "tokenUsage": {
+    "prompt": 1908,
+    "completion": 486,
+    "total": 2394
+  }
+}

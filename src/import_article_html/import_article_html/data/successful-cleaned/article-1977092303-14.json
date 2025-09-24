@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1977092303",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1.</h3>\n            <div class=\"paragraph-content\">\n                <p>(La proposition d'avancement est établie) dans la langue de l'unité; toutefois, dans les unités bilingues, ces documents sont établis dans la langue de l'officier intéressé. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1995-07-28/33\" data-law-type=\"AM\" data-article-number=\"28\">&lt;AM 1995-07-28/33, art. 28, 1°, 003;**En vigueur :**01-07-1995&gt;</span></p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>(Le carnet de notes d'aviateur) et le carnet de marin sont établis dans la langue de l'intéressé telle qu'elle est définie à (l'article 3, § 3, de l'arrêté royal du [...].. relatif à la procédure d'appréciation des militaires du cadre actif et du cadre de réserve). Ils sont tenus à jour dans la langue de l'unité, à l'exception des unités bilingues, où la tenue à jour se fait dans la langue de l'officier intéressé. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1995-07-28/33\" data-law-type=\"AM\" data-article-number=\"28\">&lt;AM 1995-07-28/33, art. 28, 2° et 3°, 003;**En vigueur :**01-07-1995&gt;</span></p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.745Z",
+  "tokenUsage": {
+    "prompt": 1987,
+    "completion": 476,
+    "total": 2463
+  }
+}

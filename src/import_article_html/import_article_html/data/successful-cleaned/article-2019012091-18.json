@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012091",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 56bis, § 2, du même décret, inséré par le décret du 28 avril 2017, sont ajoutés un point 5° et un point 6°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">5° imposer dans cette commune un objectif de croissance lié à un délai aux agences immobilières sociales dont le nombre d'habitations louées au sein d'une commune n'augmente pas pendant deux ans, en raison du non-respect de la condition visée à l'article 56, § 4, 8° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">6° si l'agence immobilière sociale ne réalise pas l'objectif de croissance imposé, visé au point 5°, imposer l'interdiction de nouvelles prises en location dans la commune concernée et ajouter la commune au ressort d'une autre agence immobilière sociale.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.295Z",
+  "tokenUsage": {
+    "prompt": 1779,
+    "completion": 328,
+    "total": 2107
+  }
+}

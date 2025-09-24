@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1981001949",
+  "articleNumber": "105/100",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-105/100\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 105/100</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-11-27/08\" data-law-type=\"AR\" data-article-number=\"27\">\n        <p class=\"intro-text\">Outre les documents visés à l'article 61/13/23, § 1er, de la loi, une copie du permis pour stagiaire en cours de validité couvrant le séjour de l'intéressé est jointe à la demande de renouvellement visée à l'article 61/13/20 de la loi.</p>\n        <p class=\"intro-text\">La preuve de la condition relative à l'engagement de prise en charge, telle que visée à l'article 61/13/23, § 1er, 2° et 3°, de la loi, doit être conforme à l'article 105/94, § 2.</p>\n        <p class=\"intro-text\">La preuve de la condition d'hébergement approprié, visée à l'article 61/13/23, § 1er, 4°, de la loi, doit être conforme à l'article 105/94, § 3.</p>\n        <p class=\"closing-text\">La preuve de la condition d'engagement par écrit à assumer la responsabilité financière, visée à l'article 61/13/23, § 1er, 8°, de la loi, doit être conforme à l'article 105/94, § 5.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.677Z",
+  "tokenUsage": {
+    "prompt": 2009,
+    "completion": 403,
+    "total": 2412
+  }
+}

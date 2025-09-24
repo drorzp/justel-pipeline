@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012003105",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Entrent en vigueur le 1er avril 2012 :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les articles 202, 213, 234, 3°, 246 et 248 de l'arrêté royal du 3 mars 2011 mettant en oeuvre l'évolution des structures de contrôle du secteur financier;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les articles 1 à 8 du présent arrêté.</span>\n                </li>\n            </ol>\n            <p>Afin de pouvoir assister la FSMA dans ses tâches visées à l'article 2, 3° et article 4 de cet arrêté qu'elle reprend du Fonds des Rentes, entrent seulement en vigueur le 1er juillet 2012 :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'article 1er de l'arrêté royal du 3 mars 2011 mettant en oeuvre l'évolution des structures de contrôle du secteur financier;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'article 9 du présent arrêté.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.351Z",
+  "tokenUsage": {
+    "prompt": 1835,
+    "completion": 391,
+    "total": 2226
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015036643",
+  "articleNumber": "83",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-83\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 83</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l&apos;article 41bis, § 3, du même décret, inséré par le décret du 19 décembre 2008 et modifié par le décret du 23 décembre 2010, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au premier alinéa, la partie de phrase &quot;</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"60°\">60°</li>\n            <li class=\"sub-provision\" data-marker=\"61°\">61°</li>\n            <li class=\"sub-provision\" data-marker=\"62°\">62°</li>\n            <li class=\"sub-provision\" data-marker=\"63°\">63°</li>\n            <li class=\"sub-provision\" data-marker=\"64\">64</li>\n          </ol>\n          <span class=\"provision-text\">&quot; est remplacée par la partie de phrase &quot;</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"§ 6\">§ 6</li>\n            <li class=\"sub-provision\" data-marker=\"5°\">5°</li>\n            <li class=\"sub-provision\" data-marker=\"6°\">6°</li>\n            <li class=\"sub-provision\" data-marker=\"7°\">7°</li>\n            <li class=\"sub-provision\" data-marker=\"11°\">11°</li>\n            <li class=\"sub-provision\" data-marker=\"19\">19</li>\n          </ol>\n          <span class=\"provision-text\">&quot; ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au troisième alinéa, 2°, les mots &quot; l&apos;Agence de l&apos;Agriculture et de la Pêche &quot; sont remplacés par les mots &quot; le Département Agriculture et Pêche du Ministère flamand de l&apos;Agriculture et de la Pêche &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.193Z",
+  "tokenUsage": {
+    "prompt": 2009,
+    "completion": 569,
+    "total": 2578
+  }
+}

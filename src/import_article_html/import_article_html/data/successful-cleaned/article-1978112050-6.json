@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1978112050",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sont dispensés de répondre aux conditions fixées à l'article 2, 6° et 8°, les personnes qui, à la date d'entrée en vigueur du présent arrêté, exercent depuis trois ans au moins des fonctions effectives de directeur agréé ou non agréé d'un centre ou d'une section de centre depuis au moins trois années.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.694Z",
+  "tokenUsage": {
+    "prompt": 1497,
+    "completion": 179,
+    "total": 1676
+  }
+}

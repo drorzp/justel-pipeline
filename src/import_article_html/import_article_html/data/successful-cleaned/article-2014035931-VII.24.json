@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035931",
+  "articleNumber": "VII.24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-VII-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article VII.24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5 du même décret, modifié en dernier lieu par le décret du 19 juillet 2013, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 10° est remplacé par ce qui suit : \" 10° enseignant de religion : le maître et professeur de religion ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté des points 29°, 30° et 31° ainsi rédigés :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"29°\">\n              <span class=\"provision-text\">enseignant de cours philosophiques : le maître et professeur de religion, le maître de morale non confessionnelle et le professeur de morale non confessionnelle ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"30°\">\n              <span class=\"provision-text\">MEDEX : le Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement, Expertise médicale, cellule Pensions ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"31°\">\n              <span class=\"provision-text\">conseiller en prévention-médecin du travail : le conseiller en prévention expert en médecine du travail attaché au Service externe pour la Prévention et la Protection au travail, tel que prévu par l'arrêté royal du 27 mars 1998 relatif au service externe pour la prévention et la protection au travail.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.344Z",
+  "tokenUsage": {
+    "prompt": 1969,
+    "completion": 470,
+    "total": 2439
+  }
+}

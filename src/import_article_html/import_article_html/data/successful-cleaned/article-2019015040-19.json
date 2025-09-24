@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019015040",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 19</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Aux</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">de l'article 1er de l'arrêté royal du 3 juillet 2016 portant exécution de l'article 21 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, les mots &quot; loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel &quot; sont remplacés par les mots &quot; loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel &quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.394Z",
+  "tokenUsage": {
+    "prompt": 1671,
+    "completion": 283,
+    "total": 1954
+  }
+}

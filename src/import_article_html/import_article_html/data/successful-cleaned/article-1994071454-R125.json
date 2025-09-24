@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994071454",
+  "articleNumber": "R125",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-R125\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article R125</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Loi du 9 août 1963, article 70, remplacé par la loi du 30 décembre 1988, article 36; les mots &quot;Comité de gestion du Service des soins de santé&quot; sont remplacés par les mots &quot;Comité de l'assurance&quot;; la référence &quot;l'article 21, alinéa 1er, 7° et 9°&quot; est remplacée par la référence &quot;l'article 32, alinéa 1er, 7°, 11° et 12°&quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.949Z",
+  "tokenUsage": {
+    "prompt": 1588,
+    "completion": 203,
+    "total": 1791
+  }
+}

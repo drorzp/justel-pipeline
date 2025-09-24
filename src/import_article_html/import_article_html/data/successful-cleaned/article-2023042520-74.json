@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042520",
+  "articleNumber": "74",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-74\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 74</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 6.11, alinéa 1er, du même Code, modifié par le décret du 9 juillet 2021, le membre de phrase \" alinéa 1, 1°, 2° et 3° \" est remplacé par le membre de phrase \" alinéa 1er, 1°, 2°, 2° /1 et 3° \"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.758Z",
+  "tokenUsage": {
+    "prompt": 1509,
+    "completion": 166,
+    "total": 1675
+  }
+}

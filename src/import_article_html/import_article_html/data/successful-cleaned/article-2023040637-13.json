@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023040637",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 13</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 290, du même arrêté, modifié en dernier lieu par l'arrêté royal du 2 mai 2019, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">à la disposition sous A., 2., 17°, les modifications suivantes sont apportées :</span>\n          <ul class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">les mots \" article 32, alinéa premier, 12° à 15° et 22° de la loi coordonnée \" sont remplacés par les mots \" article 32, alinéa 1er, 12° à 15°, 22° et 24° \" ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">la première phrase est complétée par les mots \" et à l'égard des personnes ayant la qualité de titulaire visée à l'article 32, alinéa 1er, 24°, de la loi coordonnée, si elles sont belges ou ont été admises ou autorisées à séjourner plus de trois mois dans le Royaume \".</span>\n            </li>\n          </ul>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à la disposition sous B., § 3, alinéa 1er, les mots \" ou qui se situe avant la date à laquelle la qualité visée à l'article 32, alinéa 1er, 24° de la loi coordonnée est utilisée, \" sont insérés entre les mots \" sortit ses effets, \" et les mots \" il convient pour le calcul de la cotisation complémentaire \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.730Z",
+  "tokenUsage": {
+    "prompt": 2066,
+    "completion": 506,
+    "total": 2572
+  }
+}

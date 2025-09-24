@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015024189",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 3ter, 1°, de la même loi, inséré par la loi du 22 décembre 2003 et remplacé par la loi du 26 mars 2007, les mots \"dans le cas visé à l'article 3bis, alinéa 2, 1°, \" sont remplacés par les mots \"dans les cas visés à l'article 3bis, alinéa 2, 1° et 1° /1,\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.171Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 186,
+    "total": 1856
+  }
+}

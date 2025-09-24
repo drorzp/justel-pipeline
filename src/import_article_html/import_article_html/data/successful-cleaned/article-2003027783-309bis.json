@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003027783",
+  "articleNumber": "309bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-309bis\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 309bis</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-03-27/47\" data-law-type=\"ARW\" data-article-number=\"131\">\n                <p class=\"intro-text\">\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"6\" data-dossier-number=\"2016-04-21/11\" data-law-type=\"ARW\" data-article-number=\"16\">...</span>\n                    Pour les procédures en cours au 12 avril 2007, les conditions visées à l'article 53, § 2, 5° et 6°, ne sont pas requises.\n                </p>\n                <p class=\"closing-text\">\n                    Les agents titulaires d'un grade visé à l'article 8 et non affectés à un emploi d'encadrement ne peuvent se voir attribuer un emploi d'encadrement\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"6\" data-dossier-number=\"2016-04-21/11\" data-law-type=\"ARW\" data-article-number=\"16\">que s'ils sont classés en ordre utile suite à une procédure de promotion par avancement de grade à un grade d'encadrement</span>.\n                </p>\n            </span>\n            <p class=\"closing-text\">\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"6\" data-dossier-number=\"2016-04-21/11\" data-law-type=\"ARW\" data-article-number=\"16\">...</span>\n            </p>\n            <p class=\"closing-text\">\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"6\" data-dossier-number=\"2016-04-21/11\" data-law-type=\"ARW\" data-article-number=\"16\">...</span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.626Z",
+  "tokenUsage": {
+    "prompt": 2337,
+    "completion": 477,
+    "total": 2814
+  }
+}

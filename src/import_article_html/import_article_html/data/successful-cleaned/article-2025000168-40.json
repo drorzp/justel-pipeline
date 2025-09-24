@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025000168",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 40</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Peuvent être acceptés pour la délivrance d'une autorisation de type (AT) d'un ULM légalement fabriqué et/ou commercialisé dans un autre Etat membre de l'Union européenne ou dans un Etat de l'AELE qui est partie contractante à l'accord EEE :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les prescriptions de conception, de fabrication et de contrôle dans d'autres Etats membres de l'UE ou dans un Etat AELE qui est partie contractante à l'accord EEE, pour autant qu'elles assurent un niveau de sécurité au moins équivalent à celui requis par la réglementation belge;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les certificats délivrés par l'autorité compétente ou par des organismes agréés par cette autorité dans d'autres Etats membres de l'Union européenne ou dans un Etat de l'AELE qui est partie contractante à l'accord EEE, attestant la conformité à la réglementation belge ou à des prescriptions d'autres Etats membres et d'Etats de l'AELE dont le niveau de sécurité est au moins équivalent à celui requis par la réglementation belge;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les autorisations de type délivrées dans d'autres UE-Etats membres et Etats d'AELE, pour autant que l'obtention de ces autorisations résulte du respect des prescriptions et d'un contrôle effectué dans les conditions décrites aux 1° et 2°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.767Z",
+  "tokenUsage": {
+    "prompt": 1995,
+    "completion": 455,
+    "total": 2450
+  }
+}

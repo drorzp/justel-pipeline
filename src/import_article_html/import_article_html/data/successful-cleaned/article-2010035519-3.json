@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010035519",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 24 juillet 2009 relatif à la structure modulaire de l'enseignement secondaire des adultes pour la discipline 'talen richtgraad 1 en 2' (langues degrés-guides 1 et 2), sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">devant l'alinéa premier, il est inséré un alinéa, rédigé comme suit : \" Article 1er. En exécution de l'article 24, § 1er, du décret du 15 juin 2007 relatif à l'éducation des adultes, les profils de formation pour la structure modulaire de la discipline 'talen richtgraad 1 en 2', qui appartient à l'enseignement secondaire des adultes, sont fixés dans les annexes I et II, jointes au présent arrêté. \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'alinéa premier, qui devient l'alinéa deux, il est ajouté un point 4° et un point 5°, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"4°\">\n              <span class=\"provision-text\">la formation 'Frans richtgraad 1' peut s'élever pour les apprenants plus lents' à 300 périodes, étalées sur 2 modules Breakthrough A/B de 60 périodes chacun et 2 modules Waystage A/B de 90 périodes chacun;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"5°\">\n              <span class=\"provision-text\">la formation 'Engels richtgraad 1' peut s'élever pour les apprenants plus lents' à 300 périodes, étalées sur 2 modules Breakthrough A/B de 60 périodes chacun et 2 modules Waystage A/B de 90 périodes chacun\".</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.234Z",
+  "tokenUsage": {
+    "prompt": 2191,
+    "completion": 567,
+    "total": 2758
+  }
+}

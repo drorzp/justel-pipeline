@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021033701",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>L'activité professionnelle indépendante offre une valeur ajoutée économique pour la Flandre si le ressortissant étranger dispose d'un capital de départ de 18.600 euros qui est affecté au développement de l'activité professionnelle indépendante et si cette activité remplit toutes les conditions suivantes :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">elle crée des emplois ;</span></li>\n            <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">elle implique des investissements.</span></li>\n          </ol>\n          <p>Si l'activité professionnelle indépendante ne remplit pas les conditions visées au premier alinéa, 1° et 2°, le ressortissant étranger doit démontrer que l'activité professionnelle indépendante envisagée a un effet favorable sur le tissu économique existant en Flandre.</p>\n          <p>Le Gouvernement flamand peut préciser les conditions visées au premier alinéa, 1° et 2°, et au deuxième alinéa.</p>\n          <p>Le Gouvernement flamand peut modifier le montant du capital de départ visé à l'alinéa premier, sans que ce capital de départ ne puisse être inférieur à 18 600 euros.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.190Z",
+  "tokenUsage": {
+    "prompt": 1825,
+    "completion": 392,
+    "total": 2217
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016206532",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le bureau se compose :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">du président du Collège;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">du vice-président du Collège;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">des membres effectifs proposés par les institutions publiques de sécurité sociale mentionnées dans l'article 2, 1° à 4° et les administrations mentionnées dans l'article 2, 5° et 6°.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Le président du Collège et le vice-président du Collège visés à l'alinéa précédent assurent respectivement les fonctions de président et de vice-président du bureau.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.774Z",
+  "tokenUsage": {
+    "prompt": 1684,
+    "completion": 298,
+    "total": 1982
+  }
+}

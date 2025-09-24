@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012120",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté entre en vigueur dix jours après sa publication au Moniteur belge, excepté les articles 3,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et 17 qui entrent en vigueur six mois après la date de publication du présent arrêté.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.296Z",
+  "tokenUsage": {
+    "prompt": 1489,
+    "completion": 170,
+    "total": 1659
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999021025",
+  "articleNumber": "177",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-177\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 177</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 24 du même arrêté est remplacé par la disposition suivante :</p>\n    <p>\" Art. 24.</p>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Nul, en dehors des praticiens, visés à l'article 2, § 1er, et aux articles 3, 4 et 21bis, pour ce qui concerne les prestations liées à leur art respectif, ne peut accomplir des prestations precisées en exécution de l'article 23, § 1er, ou des actes visés à l'article 22, 2° et 3°, s'il n'est titulaire d'un agrément délivré par le Ministre qui a la Santé publique dans ses attributions.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le Roi fixe, sur avis du Conseil national des professions paramédicales, les conditions et les règles pour l'obtention, le maintien et le retrait de l'agrément visé au § 1er.</p>\n        <p> Cet agrément ne peut être accordé qu'aux personnes qui répondent aux conditions de qualification exigées, précisées en exécution de l'article 23, § 1er, ou des actes visés à l'article 22, 2° et 3°.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.282Z",
+  "tokenUsage": {
+    "prompt": 2060,
+    "completion": 402,
+    "total": 2462
+  }
+}

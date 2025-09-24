@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002702",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 1er du même arrêté, modifié en dernier lieu par l'arrêté royal du 6 septembre 2018, les modifications suivantes sont apportées :</p>\n            <ol class=\"sub-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    les mots \" ou bénéficiant d'une Vlaamse Ondersteuningspremie octroyée par le VDAB (VOP depuis 2008), au Service bruxellois francophone des Personnes handicapées \" sont remplacés par les mots \" au \"Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding\", au Service public francophone bruxellois \" ;\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    l'article est complété par les 7° et 8°, rédigés comme suit :\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"7°\">\n                            <span class=\"provision-text\">la personne en possession d'une carte de stationnement pour personnes handicapées délivrée par le Service public fédéral Sécurité sociale ;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"8°\">\n                            <span class=\"provision-text\">la personne en possession d'une \" European disability card \" délivrée par un service compétent.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.446Z",
+  "tokenUsage": {
+    "prompt": 1853,
+    "completion": 384,
+    "total": 2237
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021043030",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 218, § 1er, du Code, un nouveau point 4bis° est inséré entre les points 4° et 5°, libellé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4bis°\">\n                    <span class=\"provision-text\">le loyer de référence du bien visé ou l'intervalle de loyers autour du loyer de référence du bien visé tel que repris dans la grille indicative des loyers ;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.057Z",
+  "tokenUsage": {
+    "prompt": 1561,
+    "completion": 202,
+    "total": 1763
+  }
+}

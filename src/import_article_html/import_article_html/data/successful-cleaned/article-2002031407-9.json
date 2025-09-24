@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002031407",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 14 du règlement précité est remplacé par la disposition suivante : \" Les frais exposés pour l'enlèvement par \" Bruxelles Propreté \" des déchets décrits ci-dessous, sont fixés compte suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">enlèvement de sacs ou de conteneurs conformes aux articles 8 à 11 contenant des immondices ou déchets assimilables à l'exclusion des déchets énumérés à l'article 7, déposés en contravention à l'article 12 : euro 15 par sac et euro 25 par conteneur;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">enlèvement de sacs ou conteneurs non conformes aux articles 8 à 11 contenant des immondices ou déchets assimilables à l'exclusion des déchets énumérés à l'article 7, 1° et 2° :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">\n                            <span class=\"provision-text\">jusqu'au premier m3 : euro 150;</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">\n                            <span class=\"provision-text\">plus d'un m3 : euro 150 pour le premier m3 augmenté de euro 75 par m3 supplémentaire entamé;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">enlèvement de déchets énumérés à l'article 7, 1° et 2° le forfait déterminé au 2° augmenté des coûts particuliers d'élimination des déchets enlevés. \"</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.747Z",
+  "tokenUsage": {
+    "prompt": 2037,
+    "completion": 504,
+    "total": 2541
+  }
+}

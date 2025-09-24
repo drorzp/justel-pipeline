@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015205664",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les différents entrepreneurs ou sous-traitants qui font appel à un sous-traitant doivent rappeler contractuellement à leurs sous-traitants leur obligation d'enregistrer effectivement et correctement toutes les données relatives à leur présence et leur obligation de transmission desdites données vers la base de données et ce en leur rappelant le prescrit de l'article 16, § § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et 3 de la loi précitée du 8 décembre 1992 et en prenant eux-mêmes l'engagement d'enregistrer effectivement et correctement toutes les données relatives à leur présence et de transmettre celles-ci vers la base de données de l'Office national de Sécurité sociale.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.200Z",
+  "tokenUsage": {
+    "prompt": 1700,
+    "completion": 285,
+    "total": 1985
+  }
+}

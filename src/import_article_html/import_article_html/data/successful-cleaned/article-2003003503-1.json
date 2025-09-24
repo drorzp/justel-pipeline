@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003003503",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 63.3 de l'AR/CIR 92, remplacé par l'arrêté royal du 30 janvier 2001, est remplacé par la disposition suivante:</p>\n            <p class=\"intro-text\">\" Art. 63.3. Les sommes affectées à l'amortissement ou à la reconstitution d'un emprunt hypothécaire contracté en vue de construire, acquérir ou transformer une habitation située en Belgique ne sont prises en considération pour la réduction pour épargne à long terme, dans les limites prévues à l'article 145.6, alinéas 1er et 2, du Code des impôts sur les revenus 1992, que si le contribuable produit les attestations suivantes dont les modèles sont arrêtés par le Ministre des Finances ou son délégué, et qui sont délivrées par l'institution qui a octroyé l'emprunt:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">une attestation de base unique par laquelle l'institution certifie que le contrat d'emprunt décrit dans l'attestation réunit les conditions prévues aux articles 145.1, 3° et 145.5 du même Code;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">une attestation de paiement par laquelle l'institution communique le montant des paiements effectués par le contribuable pendant la période imposable, ainsi que les éléments jugés nécessaires pour vérifier si les conditions visées ci-avant sont toujours remplies.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.837Z",
+  "tokenUsage": {
+    "prompt": 2048,
+    "completion": 449,
+    "total": 2497
+  }
+}

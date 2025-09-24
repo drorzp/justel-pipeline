@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015022582",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté produit ses effets le 1er janvier 2015, à l'exception :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">de l'article 3,</span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"3°\">\n                            <span class=\"provision-text\">qui produit ses effets le 1er janvier 1991 ;</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">de l'article 1er,</span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"3°\">\n                            <span class=\"provision-text\">et de l'article 3,</span>\n                        </li>\n                        <li class=\"sub-provision\" data-marker=\"1°\">\n                            <span class=\"provision-text\">dans la mesure où cette disposition vise à remplacer les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1996-12-23\" data-law-type=\"AR\" data-article-number=\"7\">`de l'article 7, § 6, de l'arrêté royal du 23 décembre 1996`</span> par les mots <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1996-12-23\" data-law-type=\"AR\" data-article-number=\"7\">`de l'article 7, § 5, de l'arrêté royal du 23 décembre 1996`</span> qui produisent leurs effets le 1er juillet 2013.</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.178Z",
+  "tokenUsage": {
+    "prompt": 1813,
+    "completion": 475,
+    "total": 2288
+  }
+}

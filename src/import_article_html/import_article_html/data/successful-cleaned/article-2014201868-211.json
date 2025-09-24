@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014201868",
+  "articleNumber": "211",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-211\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 211</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans les articles 19, alinéa 2, 189, 383, alinéa 1er, 383, alinéa 2, 4°, 404, 1°, 439, § 2, 443, § 2, 631, § 2, 3° et 4°, 703, 706, § 2, alinéa 1er, 707, alinéa 1er, 708, § 2, alinéa 4, 710, §§ 1er et 3, 713, § 4, 714, 715, 717 et 719 du même Code, le \" L \" majuscule du mot \" Livre \" est remplacé par un \" l \" minuscule.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.372Z",
+  "tokenUsage": {
+    "prompt": 1690,
+    "completion": 248,
+    "total": 1938
+  }
+}

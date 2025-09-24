@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013036154",
+  "articleNumber": "3.23.2.0.2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3-23-2-0-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3.23.2.0.2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-19/45\" data-law-type=\"DCFL\" data-article-number=\"14\">\n        <p class=\"intro-text\">Dans le cadre du traitement des données visé à l'article 3.23.2.0.1, outre les catégories de données à caractère personnel visées à l'article 3.23.1.0.2, les catégories spécifiques suivantes de données à caractère personnel peuvent être traitées :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">les enregistrements visuels, à savoir plans, cartes et photographies de biens immobiliers ;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">les caractéristiques du bâtiment ou du logement ;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">les données relatives à la composition du ménage ;</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">les données de santé nécessaires à l'octroi de la réduction visée à l'article 2.1.5.0.1, § 1er, 2° et 3°, et à l'article 2.1.5.0.2, § 1er, 2°.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.199Z",
+  "tokenUsage": {
+    "prompt": 1978,
+    "completion": 446,
+    "total": 2424
+  }
+}

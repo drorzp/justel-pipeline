@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030772",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 40</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 6.44 du même arrêté sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le membre de phrase \" 6.8 \" est remplacé par le membre de phrase \" 6.5, § 2, troisième alinéa,\n            <ol class=\"numbered-provisions\">\n              <li class=\"sub-provision\" data-marker=\"1°\">\n                <span class=\"provision-text\">1°</span>\n              </li>\n              <li class=\"sub-provision\" data-marker=\"2°\">\n                <span class=\"provision-text\">2°</span>\n              </li>\n              <li class=\"sub-provision\" data-marker=\"3°\">\n                <span class=\"provision-text\">et 3°</span>\n              </li>\n            </ol>\n            \" ;\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le membre de phrase \" , entraînant la résiliation du contrat de location \" est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.842Z",
+  "tokenUsage": {
+    "prompt": 1710,
+    "completion": 347,
+    "total": 2057
+  }
+}

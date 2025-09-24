@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034338",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5 du même décret, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, les points</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">sont remplacés par ce qui suit :</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">des études, des plans de mesurage et l'accompagnement de parcours pour destination secondaire ou réaffectation</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">des investissements d'adaptation pour destination secondaire.</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">entre les alinéas 1er et 2, il est inséré un alinéa rédigé comme suit :</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">\" Le subventionnement pour des anciens bâtiments du culte peut être octroyé pour :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">des études, des plans de mesurage et l'accompagnement de parcours pour réaffectation</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">des investissements de base nécessaires, permettant une réaffectation jusqu'un montant de subvention maximal de 250 000 euros.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.775Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 547,
+    "total": 2523
+  }
+}

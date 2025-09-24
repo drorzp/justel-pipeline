@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024003550",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 11 du même arrêté, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">le paragraphe 1er, alinéa 1er, le 9° est abrogé ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">dans le paragraphe 1er, alinéa 4, les mots \" L'alinéa 1er, 4°, 5° et 9° \" sont remplacés par les mots \" L'alinéa 1er, 4° et 5° \" ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">il est inséré un paragraphe 1er/1 rédigé comme suit :</span>\n        <section class=\"paragraph\">\n          <h3 class=\"paragraph-marker\">§ 1er/1.</h3>\n          <div class=\"paragraph-content\">\n            <p>Le bénéficiaire de l'aide s'engage à respecter qu'un même membre ne puisse pas demander et bénéficier d'une aide à l'investissement sous le couvert de plusieurs agriculteurs ou de plusieurs entreprises dont les entreprises de transformation et de commercialisation dans le secteur agroalimentaire ou sylvicole.<br>\n              L'alinéa 1er n'est pas applicable lorsque la demande est faite par une CUMA ou une SCTC.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.535Z",
+  "tokenUsage": {
+    "prompt": 1930,
+    "completion": 429,
+    "total": 2359
+  }
+}

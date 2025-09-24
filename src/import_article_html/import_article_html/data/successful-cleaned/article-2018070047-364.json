@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018070047",
+  "articleNumber": "364",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-364\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 364</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'annexe du même Code, modifiée par le décret du 23 mars 2017, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la deuxième colonne correspondant au 9° de la première colonne est complétée par les catégories suivantes \" , 6°, 7° \";</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la deuxième colonne correspondant au 15° de la première colonne est complétée par la catégorie suivante \" 4° \";</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">dans la première colonne, un 25° est ajouté, auquel correspondent, dans la deuxième colonne, les catégories suivantes : \" 1°, 4°, 5° \";</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">dans la première colonne, un D.37, § 4, est ajouté, auquel correspondent, dans la deuxième colonne, les catégories suivantes : \" 1°, 4°, 5°, 6°, 7° et 8° ;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">dans la première colonne, un D.37, § 5, est ajouté, auquel correspondent, dans la deuxième colonne, les catégories suivantes : \" 1°, 2°, 4°, 5° \";</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">dans la première colonne, un D.37, § 6, est ajouté, auquel correspondent, dans la deuxième colonne, les catégories suivantes : \" ° 4°, 5° \"; \".</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.357Z",
+  "tokenUsage": {
+    "prompt": 2044,
+    "completion": 503,
+    "total": 2547
+  }
+}

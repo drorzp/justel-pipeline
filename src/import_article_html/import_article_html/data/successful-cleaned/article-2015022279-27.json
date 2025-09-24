@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015022279",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent titre produit ses effets le 1er janvier 2015, à l'exception des articles 12 à 20 et de l'article 21, 1° et 2°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.171Z",
+  "tokenUsage": {
+    "prompt": 1440,
+    "completion": 125,
+    "total": 1565
+  }
+}

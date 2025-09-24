@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012137",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les pictogrammes visés à l'article 25/2, § 2, 1°, de la loi, signalant l'utilisation de caméras fixes et fixes temporaires dans un lieu fermé accessible au public dans le cadre de l'article 25/3, § 1er, 1° et 2°, b), c) et d), de la loi, répondent aux prescriptions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">ils ont une dimension de 0,297 x 0,21 m ou 0,15 x 0,10 m ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">ils répondent au modèle et aux couleurs du modèle repris en annexe 1redu présent arrêté ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">ils sont composés d'une seule plaque en aluminium d'au moins 1,5 mm d'épaisseur ou d'un autocollant plastifié ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">ils sont placés à chaque entrée du lieu fermé de manière à garantir une visibilité certaine de l'information eu égard à la configuration de l'entrée et éventuellement au nombre d'exemplaires apposés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.294Z",
+  "tokenUsage": {
+    "prompt": 1909,
+    "completion": 420,
+    "total": 2329
+  }
+}

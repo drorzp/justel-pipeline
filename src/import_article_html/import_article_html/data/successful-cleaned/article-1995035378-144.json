@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995035378",
+  "articleNumber": "144",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-144\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 144</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 75, du même décret, est remplacé par la disposition suivante : \" Article 75.</p>\n    <section class=\"paragraph\" id=\"para-1\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les moyens du fonds d'investissement défini à l'article 74,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">contribuent uniquement à la couverture des dépenses pour la sauvegarde et l'entretien par le propriétaire des biens immobiliers disponibles ainsi que pour l'extension et les transformations nécessaires et les constructions neuves subsidiaires et à la couverture de charges financières résultant d'emprunts contractés au profit des dépenses d'investissement.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Les moyens du fonds d'investissement défini à l'article 74,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">contribuent uniquement à la couverture des dépenses affectées directement à l'acquisition de l'équipement scientifique et technique et du lourd appareillage médical.\"</span></li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.006Z",
+  "tokenUsage": {
+    "prompt": 1867,
+    "completion": 403,
+    "total": 2270
+  }
+}

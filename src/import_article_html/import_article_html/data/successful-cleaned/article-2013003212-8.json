@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013003212",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les agents visés à l'article 2, § 1er, alinéa 1er,:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"14°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"15°\">\n                    <span class=\"provision-text\">qui en tant que titulaires de l'échelle de traitement A22 sont ou seront lauréats d'une formation certifiée dont la durée de validité débute avant l'entrée en vigueur du présent arrêté conservent le bénéfice de leur réussite et sont promus dans l'échelle de traitement A32 au terme de la durée de validité de la formation certifiée aux conditions fixées pour les agents de l'Etat de la fonction publique fédérale.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.082Z",
+  "tokenUsage": {
+    "prompt": 1647,
+    "completion": 273,
+    "total": 1920
+  }
+}

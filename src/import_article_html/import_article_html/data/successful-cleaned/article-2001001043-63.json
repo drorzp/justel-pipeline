@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001001043",
+  "articleNumber": "63",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-63\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 63</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2007-12-20/63\" data-law-type=\"AR\" data-article-number=\"11\" data-citation-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2007122063\">&lt;AR 2007-12-20/63, art. 11, 007; En vigueur : 01-02-2007. Contenu de l'ancien art. 76&gt;</span>\n      <p class=\"intro-text\">A l'article 4.II.44 PJPol, les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">sont abrogés.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.196Z",
+  "tokenUsage": {
+    "prompt": 1693,
+    "completion": 293,
+    "total": 1986
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002009854",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 10, alinéa 1er, de la même loi est complété par un 3° et un 4°, libellés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">s'il occupe ou a occupé du personnel au cours des dix-huit derniers mois, le registre du personnel, les données relatives au secrétariat social et aux caisses sociales auxquels l'entreprise est affiliée ainsi que l'identité des membres du comité pour la prévention et la sécurité au travail et des membres de la délégation syndicale;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">la liste mentionnant le nom et l'adresse des clients et des fournisseurs.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.808Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 276,
+    "total": 1955
+  }
+}

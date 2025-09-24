@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003201930",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 36 de l'arrêté du Gouvernement de la Communauté française du 27 février 2003 portant réglementation générale des milieux d'accueil est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\" Art. 36. L'encadrement des enfants au sein de la maison communale d'accueil de l'enfance est assuré par le personnel minimum suivant :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">2,5 équivalents temps plein de puériculteurs(trices) pour douze enfants;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">0,5 équivalent temps plein de puériculteur(trice) par groupe de trois places supplémentaires pour les maisons dont la capacité est supérieure à douze places;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">0,25 équivalent temps plein d'infirmier(ère) gradué(e) social(e) ou spécialisé(e) en santé communautaire, ou d'assistant(e) social(e) par tranche de douze places.</span></li>\n      </ol>\n      <p class=\"intro-text\">Pour les enfants âgés de plus de dix-huit mois, la qualification de puériculteur(trices), visée à l'alinéa 1er, 1° et 2°, peut être remplacée par celle d'aspirant(e) en nursing ou d'instituteur(trice) de l'enseignement maternel ou d'une autre qualification reconnue par le Gouvernement, pris avis de l'Office, sans pour autant que la proportion de puériculteurs(trices) puisse être inférieure à la moitié du personnel affecté à l'encadrement des enfants de cet âge.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.732Z",
+  "tokenUsage": {
+    "prompt": 2112,
+    "completion": 490,
+    "total": 2602
+  }
+}

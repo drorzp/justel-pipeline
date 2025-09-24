@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1808111901",
+  "articleNumber": "216/11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-216/11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 216/11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-14/02\" data-law-type=\"L\" data-article-number=\"4\">\n        <p class=\"intro-text\">Si le ministère public estime que la personne visée à l'article 216/1 ne respecte pas ou n'a pas respecté les conditions contenues dans le mémorandum conformément à l'article 216/6 dans le délai qui est égal à la durée de la peine prononcée conformément à l'article 216/9, alinéa 2, il requiert auprès du tribunal ou de la cour l'application de la peine que le tribunal ou la cour avait prononcée. En cas de non-respect des conditions visées à l'article 216/6, 5° et 6°, ce délai est de cinq ans minimum.</p>\n        <p class=\"main-text\">Le procureur général près la cour d'appel requiert l'application de la peine qui est prononcée par la cour d'assises conformément à l'article 216/10. La cour, sans le jury, statue de manière motivée sur l'exécution de cette peine.</p>\n        <p class=\"main-text\">Le tribunal ou la cour entend la personne visée à l'article 216/1 et son avocat et le ministère public.</p>\n        <p class=\"main-text\">S'il s'agit des conditions imposées dans l'intérêt de la victime, la victime est entendue à ce propos. La victime peut formuler ses remarques.</p>\n        <p class=\"closing-text\">Le tribunal ou la cour se prononce de manière autonome et motivée sur l'application de cette peine.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.665Z",
+  "tokenUsage": {
+    "prompt": 2076,
+    "completion": 444,
+    "total": 2520
+  }
+}

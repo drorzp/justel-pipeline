@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047707",
+  "articleNumber": "40",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-40\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 40</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent décret produit ses effets à partir de l'année académique 2023-2024, à l'exception des articles 2, 16, 1° et 2°, 17, 18, 19, 1° à 3°, 20 et 21 qui produisent leurs effets à partir de l'année académique 2022-2023 et des articles 5, 6, 8, 15, 22, 37 et 39 qui entrent en vigueur à partir de l'année 2024-2025.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.494Z",
+  "tokenUsage": {
+    "prompt": 1655,
+    "completion": 202,
+    "total": 1857
+  }
+}

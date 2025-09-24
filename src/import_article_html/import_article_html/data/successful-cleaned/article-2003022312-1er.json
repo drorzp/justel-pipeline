@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003022312",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            Article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\" data-article-number=\"9ter\">1er</span>. Dans l'article 9ter, \n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"9°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"10°\">\n                            <span class=\"provision-text\">les mots \" logopèdes et orthoptistes \" sont remplacés par \" diététiciens, logopèdes, orthoptistes et podologues \";</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.765Z",
+  "tokenUsage": {
+    "prompt": 1472,
+    "completion": 285,
+    "total": 1757
+  }
+}

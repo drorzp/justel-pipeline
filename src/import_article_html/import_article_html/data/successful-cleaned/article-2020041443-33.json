@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020041443",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 33</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Par dérogation à l'article 11, 4° et 5° de l'arrête du Gouvernement flamand du 1 mars 2019 portant règles d'agrément et de subvention d'une organisation partenaire comme Institut flamand pour la première ligne, le VIVEL présente le rapport sur l'accomplissement des missions et le rapport financier de l'année d'activité 2019 à l'agence au plus tard le 31 août 2020.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.159Z",
+  "tokenUsage": {
+    "prompt": 1544,
+    "completion": 175,
+    "total": 1719
+  }
+}

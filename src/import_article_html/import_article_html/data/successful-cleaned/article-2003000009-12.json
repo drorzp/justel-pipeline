@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003000009",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Les frais de fonctionnement du Conseil sont pris en charge par l'Agence.</p>\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2011-08-28/01\" data-law-type=\"AR\" data-article-number=\"7\">Sur proposition du conseil d'administration de l'Agence, le ministre compétent fixe :\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">le montant des jetons de présence que reçoivent les membres visés à l'article 3, § 1er, 1° et 2° <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2020-11-19/07\" data-law-type=\"AR\" data-article-number=\"12\">, à l'article 3, § 2</span> et à l'article 8;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">le montant de l'indemnité forfaitaire que le président <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2020-11-19/07\" data-law-type=\"AR\" data-article-number=\"12\">reçoit en supplément des jetons de présence</span> reçoit en supplément des jetons de présence.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.713Z",
+  "tokenUsage": {
+    "prompt": 1945,
+    "completion": 407,
+    "total": 2352
+  }
+}

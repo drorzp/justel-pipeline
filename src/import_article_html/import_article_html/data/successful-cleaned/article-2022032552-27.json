@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032552",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 27</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Afin de déterminer, pour l'année 2022, les subventions de fonctionnement pour les centres d'accueil de jour visées aux articles 83 à 87 de l'annexe 2 à l'arrêté du Gouvernement flamand du 28 juin 2019 relatif à la programmation, aux conditions d'agrément et au régime de subventionnement de structures de soins résidentiels et d'associations d'intervenants de proximité et d'usagers, il est tenu compte du plus élevé des taux d'occupation suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le taux d'occupation moyen pour l'année 2019</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le taux d'occupation moyen pour l'année 2022.</span></li>\n            </ol>\n            <p class=\"closing-text\">Les taux d'occupation moyens visés au premier alinéa, 1° et 2°, sont calculés sur la base des données d'occupation transmises en application de l'article 2 de l'arrêté ministériel du 22 avril 2015 fixant le mode de subventionnement des centres de soins de jour.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.810Z",
+  "tokenUsage": {
+    "prompt": 1841,
+    "completion": 359,
+    "total": 2200
+  }
+}

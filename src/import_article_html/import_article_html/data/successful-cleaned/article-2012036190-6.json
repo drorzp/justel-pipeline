@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012036190",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>A l'article 27ter, inséré par le décret du 11 septembre 2009, le paragraphe 1er est remplacé par la disposition suivante :</p>\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Les réunions de la commission technique de la sécurité incendie ne sont valides que si au moins le président ou son suppléant, deux experts en sécurité incendie nommés, et deux experts nommés du secteur des résidences &quot; Toerisme voor Allen &quot; ou leurs suppléants, dont au moins un représentant du secteur auquel l'avis à émettre a trait, sont présents. Les avis sont émis par les experts présents, visés à l'article 27, § 1er, 2°, 3° et 4°.</p>\n                <p class=\"intro-text\">Les experts en sécurité incendie présents, visés à l'article 27, § 1er, 3°, et les représentants présents de &quot; Toerisme voor Allen &quot;, cités dans l'article 27, § 1er, 2° et 4°, ont chacun la moitié des voix. En raison du nombre de membres présents, la pondération des voix est fixée par expert.</p>\n                <p class=\"closing-text\">Les avis de la commission technique de la sécurité Incendie sont émis moyennant une majorité des voix. En cas de partage des voix, le président décide de l'avis.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.324Z",
+  "tokenUsage": {
+    "prompt": 2053,
+    "completion": 421,
+    "total": 2474
+  }
+}

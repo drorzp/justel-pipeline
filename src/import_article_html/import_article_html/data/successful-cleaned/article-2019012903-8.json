@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019012903",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les travaux d'entretien et de petite réparation des cours d'eau non navigables classés sont exécutés soit par Bruxelles Environnement, soit par la commune concernée en leur qualité de gestionnaire.</p>\n        <p>Les travaux d'entretien et de petite réparation des cours d'eau non navigables non classés sont exécutés par le propriétaire riverain dans le respect de la présente ordonnance et selon les modalités que le Gouvernement peut préciser sur proposition de Bruxelles Environnement.</p>\n        <p>Les travaux d'entretien et de petite réparation sur les étangs régionaux sont exécutés par Bruxelles Environnement.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les travaux urgents d'entretien et de petite réparation nécessaires à la sécurité immédiate des biens et des personnes ainsi que les mesures de précaution pour prévenir tout danger sont assurés par les communes concernées conformément aux articles 123,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"11°\">\n            <span class=\"provision-text\">et 135 de la Nouvelle loi communale.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les obligations spéciales imposées soit par l'usage, soit par des titres ou des conventions sont maintenues et sont exécutées sous la direction de Bruxelles Environnement pour ce qui concerne les cours d'eau non navigables classés.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.316Z",
+  "tokenUsage": {
+    "prompt": 1983,
+    "completion": 487,
+    "total": 2470
+  }
+}

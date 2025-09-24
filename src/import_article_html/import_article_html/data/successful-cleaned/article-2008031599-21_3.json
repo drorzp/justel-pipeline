@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008031599",
+  "articleNumber": "21/3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21/3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 21/3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2022-03-17/09\" data-law-type=\"ARR\" data-article-number=\"31\">\n        Pour autant qu'ils n'impliquent aucune dérogation à un plan d'affectation du sol, à un règlement d'urbanisme ou à un permis de lotir, le remplacement des châssis, vitrages, vitrines commerciales, portes d'entrée, portes cochères et portes de garage ne répondant pas aux conditions par les articles 21,\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"7°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"8°\">\n            <span class=\"provision-text\">du présent arrêté sont dispensés de l'avis de la Commission Royale des Monuments et Sites requis par l'article 237 du CoBAT, des mesures particulières de publicité, de l'avis du fonctionnaire délégué ou de la commune.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.051Z",
+  "tokenUsage": {
+    "prompt": 1796,
+    "completion": 325,
+    "total": 2121
+  }
+}

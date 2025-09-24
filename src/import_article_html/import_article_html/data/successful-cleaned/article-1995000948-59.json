@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995000948",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 59</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3, § 1, de l'arrêté royal du 8 janvier 1973 fixant le statut du personnel de certains organismes d'intérêt public, modifié par les arrêtés royaux des 20 août 1973, 4 mars 1974, 30 septembre 1974, 17 septembre 1975, 23 décembre 1975, 8 mars 1976, 15 mars 1976, 15 septembre 1976, 24 février 1977, 10 mai 1977, 6 juin 1978, 3 octobre 1978, 2 octobre 1979, 22 février 1980, 30 juillet 1981, 16 décembre 1981, 12 juillet 1982, 6 octobre 1983, 14 juin 1985, 19 août 1985, 16 novembre 1988, 6 mars 1989, 8 mai 1989, 9 juin 1989, 23 octobre 1989, 6 juin 1991, 25 novembre 1993 et 17 mars 1995, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les points 15°, 19°, 22°, 26° et 27° sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au point 37°, les mots \" à l'exception du Chapitre XIII intitulé \" Dispositions pécuniaires particulières \" \" sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le § 1 est complété comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"39°\">\n              <span class=\"provision-text\">Arrêté royal du 10 avril 1995 portant simplification de la carrière de certains agents des administrations de l'Etat appartenant aux niveau 1 et 2+.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.963Z",
+  "tokenUsage": {
+    "prompt": 2184,
+    "completion": 576,
+    "total": 2760
+  }
+}

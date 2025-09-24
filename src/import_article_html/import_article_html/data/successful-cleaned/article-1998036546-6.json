@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998036546",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 19 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au premier alinéa, 1°, les mots \" à condition que les bâtiments et/ou habitations aient été signalés, conformément à l'article 4 du présent arrêté \" sont remplacés par les mots \" pour chaque bâtiment et/ou habitation dont la commune a communiqué les données et indications correctes, visées à l'article 4 du présent arrêté, à la division de la province dans laquelle la commune est située, visée à l'article 2, § 1er \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un deuxième alinéa est inséré, libellé comme suit : \" Les indemnités, visées aux points 1° et 2° de l'alinéa précédent, sont accordées, quel que soit le moment auquel les données ont été communiquées, à condition que la redevance pour l'année à laquelle les données ont trait puissent être reprises dans le cahier en temps voulu.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.070Z",
+  "tokenUsage": {
+    "prompt": 1814,
+    "completion": 355,
+    "total": 2169
+  }
+}

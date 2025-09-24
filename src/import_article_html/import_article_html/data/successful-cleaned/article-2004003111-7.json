@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004003111",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 9 du même arrêté, modifié par l'arrêté royal du 25 février 1996, sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">le § 1er est remplacé par la disposition suivante :<br>\" § 1er. L'assujetti et la personne morale non assujettie qui sont redevables de la taxe conformément à l'article 51, § 1er, 2° et § 2, 1°, 2° et 5°, du Code, ou à l'article 20 ou 20bis, sont tenus d'établir un document au plus tard le cinquième jour ouvrable du mois qui suit celui au cours duquel la taxe devient exigible conformément aux articles 17, § 1er, 22, § 2 ou 25septies, § 2, alinéa 1er, du Code, lorsqu'ils ne sont pas encore en possession de la facture relative à l'opération. \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">le § 2, 3°, b) est remplacé par le texte suivant :<br>\" b) pour les opérations visées à l'article 51, § 2, 1°, 2° et 5°, du Code, ou à l'article 20 ou 20bis, la date de l'achèvement de l'opération ou, lorsque la taxe devient exigible par application de l'article 17, § 1er, alinéa 2 ou de l'article 22, § 2, alinéa 2, du Code, la date à laquelle elle est exigible; \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">le § 2, 5° est remplacé par le texte suivant :<br>\" 5° l'indication, par taux, de la base d'imposition et le montant total des taxes dues; \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"4°\">\n        <span class=\"provision-text\">le § 4 est remplacé par la disposition suivante :<br>\" § 4. Lors de la réception de la facture, les personnes visées au § 1er sont tenues d'inscrire sur celle-ci une référence au document visé au § 2, et sur ce dernier, une référence à la facture.</span>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.655Z",
+  "tokenUsage": {
+    "prompt": 2372,
+    "completion": 645,
+    "total": 3017
+  }
+}

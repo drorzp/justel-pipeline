@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014029467",
+  "articleNumber": "109",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-109\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 109</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 4 du même décret, modifié par le décret du 10 avril 1995, par le décret du 25 juillet 1996, par le décret du 2 juin 1998, par le décret du 8 février 1999, par le décret du 12 mai 2004 précité, par le décret du 30 avril 2009 concernant la comptabilité des écoles et l'accès à certaines fonctions de sélection et de promotion et par le décret du 12 juillet 2012, est complété par les points 7° et 8° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">dans l'enseignement fondamental et secondaire, y compris secondaire de promotion sociale, on entend par \" primo-recrutement \", le recrutement tel qu'il est défini à l'article 25 du décret du 11 avril 2014;</span>\n                </li>\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">dans l'enseignement fondamental et secondaire, y compris secondaire de promotion sociale, on entend par \" titre pédagogique \", le titre tel qu'il est défini aux articles 17 et 18 du décret du 11 avril 2014.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.107Z",
+  "tokenUsage": {
+    "prompt": 1882,
+    "completion": 378,
+    "total": 2260
+  }
+}

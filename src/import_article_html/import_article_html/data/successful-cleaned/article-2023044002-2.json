@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044002",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les personnes qui ont constitué une sûreté personnelle, le conjoint ou cohabitant légal du requérant ou le débiteur du requérant, ainsi que les tiers qui leur fournissent l'assistance judiciaire à titre professionnel, le représentant légal ou le mandataire judiciaire ont accès au registre,. Cet accès comprend :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">un droit de consultation, tel que prévu à l'annexe 1re du présent arrêté et à l'égard des données et pièces telles que définies dans ces annexes ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">un droit d'édition, y compris l'apposition d'une signature, tel que prévu à l'annexe 3 du présent arrêté et à l'égard des données et pièces telles que définies dans ces annexes ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">toutes les communications découlant des droits d'accès visés aux 1° et 2° qui se font par le biais du registre.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.851Z",
+  "tokenUsage": {
+    "prompt": 1885,
+    "completion": 361,
+    "total": 2246
+  }
+}

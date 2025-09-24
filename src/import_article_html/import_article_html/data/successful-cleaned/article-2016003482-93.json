@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003482",
+  "articleNumber": "93",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-93\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 93</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          A l'article 36bis, § 1er, alinéa 1er de la loi du 2 août 2002, les mots \n          \"l'article 26, alinéa 1er, 1°, 3° et 5° \" sont remplacés par les mots \n          \"l'article 26, alinéa 1er, 1°, 3°, 5° et 6° \".\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.317Z",
+  "tokenUsage": {
+    "prompt": 1530,
+    "completion": 203,
+    "total": 1733
+  }
+}

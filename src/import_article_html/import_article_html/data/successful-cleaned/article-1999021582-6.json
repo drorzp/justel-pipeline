@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999021582",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Par arrêté délibéré en Conseil des ministres, le Roi définit:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">la procédure applicable aux demandes d'aides visées à l'article 4 et à l'examen de ces demandes;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les modalités selon lesquelles les entreprises agricoles doivent établir les éléments visés à l'article 5,1° et 2°;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les modalités de calcul de l'équivalent-subvention des différentes formes d'aides publiques octroyées en raison de la crise de la dioxine et du dommage subi par les entreprises agricoles à cause de celle-ci.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le dommage subi à cause de la crise de la dioxine peut être déterminé sur une base forfaitaire à partir d'indicateurs objectifs, sauf dans le cas d'entreprises agricoles liées par des contrats comportant des prix d'achat garantis pour des animaux qu'elles élèvent ou engraissent ou pour des produits d'origine animale qu'elles produisent, pour autant que ces animaux ou ces produits relèvent du champ d'application de ces contrats.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.283Z",
+  "tokenUsage": {
+    "prompt": 1954,
+    "completion": 460,
+    "total": 2414
+  }
+}

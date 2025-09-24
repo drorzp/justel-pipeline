@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042537",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 16, § 1er, de l'arrêté royal n° 1, du 29 décembre 1992, relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée, remplacé par l'arrêté royal du 19 décembre 2012 et modifié par l'arrêté royal du 24 janvier 2015, est remplacé par ce qui suit :</p>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\"Art. 16. Les assujettis établis en Belgique qui effectuent des livraisons de biens visées à l'article 15, § 2, alinéa 2, du Code ou des prestations de services visées à l'article 21bis, § 2, 9°, alinéa 2, du Code communiquent à tout moment à la satisfaction des agents de l'administration en charge de la taxe sur la valeur ajoutée, le montant global, par année civile, de leurs livraisons de biens et de leurs prestations de services qui interviennent pour le calcul des seuils visés aux articles 15, § 2, alinéa 2, 3° et 21bis, § 2, 9°, alinéa 2, c), du Code.</p>\n        <p>Sauf dans l'hypothèse où elles font l'objet d'une facture, les opérations visées à l'alinéa 1er font l'objet d'une inscription distincte dans le journal de recettes visé à l'article 14, § 2, alinéa 1er, 3°, avec indication de la nature des biens ou des services vendus, de la base d'imposition, du montant de la taxe due et de l'Etat membre de l'arrivée de l'expédition ou du transport des biens ou dans lequel le preneur est établi ou a son domicile ou sa résidence habituelle.\"</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.156Z",
+  "tokenUsage": {
+    "prompt": 2159,
+    "completion": 499,
+    "total": 2658
+  }
+}

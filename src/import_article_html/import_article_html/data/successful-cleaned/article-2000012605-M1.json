@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000012605",
+  "articleNumber": "M1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-M1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article M1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Conseil national du Travail. Convention collective de travail conclue le 18/07/2000, déposée le 25/07/2000 et enregistrée le 31/07/2000.</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">champ d'application :</span>\n                </li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">employeurs et travailleurs qu'ils occupent en application des articles 22, 1° et 2°, 23 ainsi que 24 de la loi du 16 mars 1971 sur le travail;</span>\n                </li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">objet : convention collective de travail n° 76 portant exécution de l'article 27, § 4, alinéa 2, de la loi du 16 mars 1971 sur le travail;</span>\n                </li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">durée de validité : à partir du 18/07/2000, pour une durée indéterminée;</span>\n                </li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">force obligatoire demandée : oui;</span>\n                </li>\n                <li class=\"hyphenated-item\">\n                    <span class=\"item-text\">numéro d'enregistrement : 55400/CO/3000000.</span>\n                </li>\n            </ul>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.116Z",
+  "tokenUsage": {
+    "prompt": 1860,
+    "completion": 423,
+    "total": 2283
+  }
+}

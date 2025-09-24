@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036249",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er, § 1er de l'arrêté du Gouvernement flamand du 11 janvier 1995 portant les conditions relatives aux prêts sociaux avec garantie de la région pour la construction, l'achat ou la transformation d'habitations, modifié par l'arrêté du Gouvernement flamand du 29 novembre 2002, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">il est inséré entre les points 1° et 2° trois nouveaux points, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"1°bis\">\n              <span class=\"provision-text\">département : le Département de l'Aménagement du Territoire, de la Politique du Logement et du Patrimoine immobilier;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"1°ter\">\n              <span class=\"provision-text\">agence : l'agence \"Wonen-Vlaanderen\" du Ministère flamand de l'Aménagement du Territoire, de la Politique du Logement et du Patrimoine immobilier;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"1°quater\">\n              <span class=\"provision-text\">VMSW : la \"Vlaamse Maatschappij voor Sociaal Wonen\" (Société flamande du Logement social).</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le point 5° les mots \"la Société flamande du Logement ou par une société reconnue par elle\" sont remplacés par les mots \"la VMSW ou une société de logement social agréée par elle\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.727Z",
+  "tokenUsage": {
+    "prompt": 2154,
+    "completion": 508,
+    "total": 2662
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041224",
+  "articleNumber": "175",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-175\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 175</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 139 du même décret, il est ajouté un alinéa 2 rédigé comme suit :</p>\n      <blockquote class=\"quote\">\n        <p>Dans une initiative de coopération approuvée en 2019 ou 2020, mais non sélectionnée en raison d'un volume total insuffisant de points et de moyens de fonctionnement disponibles visés à l'article 140, paragraphes 1er et 2, une autorité scolaire peut désigner des membres du personnel pour un maximum de trois années scolaires à charge des moyens de fonctionnement ou des propres moyens, conformément à l'article 82. L'article 144 est applicable. Les dispositions visées à l'article 143, 1° et 2°, ne sont pas d'application.</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.387Z",
+  "tokenUsage": {
+    "prompt": 1698,
+    "completion": 245,
+    "total": 1943
+  }
+}

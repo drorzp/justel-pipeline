@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004033084",
+  "articleNumber": "10.16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10.16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2022-12-14/17\" data-law-type=\"DCG\" data-article-number=\"29\">Prise de contact avec les collectivités</span>\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2020-07-20/14\" data-law-type=\"DCG\" data-article-number=\"16\">\n        <p>S'il ressort de la prise de contact prévue à l'article 10.14 que les personnes infectées ou présumées l'être sont entrées en contact avec les collectivités mentionnées à l'article 10.11, 6°, le centre de contact recourt aux banques de données III ou IV mentionnées à l'article 2, § 3, de l'arrêté royal et, mutatis mutandis, aux données mentionnées à l'article 7, § 4, <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2020-10-12/03\" data-law-type=\"DCG\" data-article-number=\"8\">de l'accord de coopération</span> afin de prendre contact, par tout moyen de communication, en ce compris par téléphone, courriel sou, si c'est impossible, par une visite à domicile, avec les collectivités.</p>\n        <p>Dans le cadre de la prise de contact prévue à l'alinéa 1er, le centre de contact peut, selon le cas, enregistrer dans la banque de données Sciensano les données traitées conformément à l'article 10.13 et relatives aux collectivités.</p>\n        <p>La mise à disposition des données mentionnées à l'alinéa 1er sert à atteindre les objectifs mentionnés à l'article 10.10, 3° et 5°.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.739Z",
+  "tokenUsage": {
+    "prompt": 2226,
+    "completion": 486,
+    "total": 2712
+  }
+}

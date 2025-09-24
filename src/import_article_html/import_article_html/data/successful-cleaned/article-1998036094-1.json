@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998036094",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5 de l'arrêté du Gouvernement flamand du 19 décembre 1997 fixant les attributions des membres du Gouvernement est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\" Art. 5. M. Steve Stevaert, Ministre Vice-Président du Gouvernement flamand, est compétent pour :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les Travaux publics et les Transports, tels que visés à l'article 6, § 1er, X de la loi spéciale, ainsi que pour les mesures individuelles prises pour l'application de la réglementation relative à l'agrément des entrepreneurs de travaux publics</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'Aménagement du territoire, tel que visé à l'article 6, § 1er, 1°, 2°, 5° et 6° de la loi spéciale, ainsi que pour l'acquisition de terrains à l'usage de l'industrie, de l'artisanat et des services ou d'autres infrastructures d'accueil aux investisseurs, telle que visée à l'article 6, § 1er, I, 3° de la loi spéciale.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Du chef des attributions qui lui sont conférées, mentionnées au premier alinéa, il porte le titre de \" Ministre flamand des Travaux publics, des Transports et de l'Aménagement du territoire \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.070Z",
+  "tokenUsage": {
+    "prompt": 2005,
+    "completion": 437,
+    "total": 2442
+  }
+}

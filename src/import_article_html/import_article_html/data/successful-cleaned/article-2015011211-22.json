@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015011211",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sans préjudice de l'article XI.153, § 4, du Code de droit économique, les demandes de consultation des pièces visées à l'article XI.153, § 3, 1° et 2°, du même Code sont adressées par écrit à l'Office.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'Office délivre, sur demande, des copies de ces pièces.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sur demande, la consultation peut également prendre la forme de la communication par écrit d'informations extraites des pièces en question. L'Office peut inviter la personne intéressée à consulter personnellement les pièces intégrales s'il le juge approprié compte tenu de la quantité d'informations à fournir.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.270Z",
+  "tokenUsage": {
+    "prompt": 1764,
+    "completion": 347,
+    "total": 2111
+  }
+}

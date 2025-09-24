@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1983012193",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Ne sont pas soumis à l'obligation de tenir le registre du personnel visé à l'article 4, § 1er, 1°, de l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'Etat, les régions, les communautés, les provinces, les agglomérations, les fédérations de communes et les communes pour leurs travailleurs qui ne sont pas régis par un statut;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les établissements publics qui dépendent des personnes morales de droit public visées au 1° et les organismes d'intérêt public pour tous leurs travailleurs.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.679Z",
+  "tokenUsage": {
+    "prompt": 1670,
+    "completion": 271,
+    "total": 1941
+  }
+}

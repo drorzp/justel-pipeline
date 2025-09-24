@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024002118",
+  "articleNumber": "179",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-179\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 179</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 7 de la même loi est complété par les 5° et 6° rédigés comme suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">sont membres d'une association, organisation ou fédération représentant une activité économique ou défendant ses intérêts;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">sont collaborateurs d'une association ou fédération visée au 5°.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.436Z",
+  "tokenUsage": {
+    "prompt": 1548,
+    "completion": 206,
+    "total": 1754
+  }
+}

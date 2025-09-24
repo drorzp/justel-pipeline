@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007036962",
+  "articleNumber": "10/2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10/2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10/2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-07-13/16\" data-law-type=\"AGF\" data-article-number=\"5\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2017-02-10/19\" data-law-type=\"AGF\" data-article-number=\"7\">\n          <p class=\"intro-text\">Les services, visés à l'article 15, § 1er, alinéa 1er, 1° et 2°, communiquent l'information dès réception de celle-ci,</p>\n        </span>\n        <p class=\"closing-text\">pour veiller à ce que les informations sur l'heure réelle d'arrivée et l'heure réelle de départ de tout navire faisant escale dans port ressortant de leur compétence, ainsi qu'un code identifiant du port concerné, soient immédiatement transmis par voie électronique à l'instance, visée à l'article 2, § 1er, 1°.</p>\n        <p class=\"closing-text\">L'instance, visée à l'article 2, § 1er, 1°, prend les mesures appropriées pour veiller à ce que les informations sur l'heure réelle d'arrivée et l'heure réelle de départ de tout navire faisant escale dans un port ou mouillage, ainsi qu'un code identifiant du port concerné, soient transmis dans un délai raisonnable à la banque de données d'inspection européenne SafeSeaNet.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.976Z",
+  "tokenUsage": {
+    "prompt": 2079,
+    "completion": 414,
+    "total": 2493
+  }
+}

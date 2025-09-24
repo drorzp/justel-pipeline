@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011204110",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 39 du même arrêté sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \" qui procèdent à des interventions conformément aux dispositions du règlement, doivent \" sont remplacés par les mots \" qui, conformément aux dispositions du règlement, procèdent à des interventions telles que visées à l'article 76 du règlement d'application, à la récolte en vert ou à la non-récolte telle que visée à l'article 85 du règlement d'application, doivent \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le point 4°, les mots \" ainsi que le contrôle de la destination \" sont remplacés par les mots \" ainsi que le contrôle de la destination, de la récolte en vert ou de la non-récolte \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les points 5° et 6° sont abrogés.</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le point 7°, les mots \" produits retirés du marché \" sont remplacés par les mots \" produits retirés du marché, produits de la récolte en vert ou de la non-récolte \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">il est ajouté un point 9°, rédigé comme suit : \" 9° permettre à tout moment à l'autorité compétente le contrôle de leur comptabilité de la récolte en vert ou de la non-récolte et la comptabilité financière, l'accès aux parcelles concernées en question, le contrôle de la dénaturation des produits de la récolte en vert ou de la non-récolte.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.226Z",
+  "tokenUsage": {
+    "prompt": 2114,
+    "completion": 535,
+    "total": 2649
+  }
+}

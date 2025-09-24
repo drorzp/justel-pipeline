@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000003350",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 9</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 515bis, alinéas 2 et 4, du même Code, inséré par la loi du 28 décembre 1992, les mots \"l'article 81, 1° et 2°,\" sont chaque fois remplacés par les mots \"l'article 81, 1°,\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.101Z",
+  "tokenUsage": {
+    "prompt": 1490,
+    "completion": 148,
+    "total": 1638
+  }
+}

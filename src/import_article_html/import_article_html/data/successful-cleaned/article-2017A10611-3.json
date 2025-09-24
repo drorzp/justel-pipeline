@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017A10611",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>La crèche et le prégardiennat visés à l'article 2,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">de l'arrêté ont une capacité d'accueil de dix-huit places au moins et de quarante-huit places au plus.</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.579Z",
+  "tokenUsage": {
+    "prompt": 1456,
+    "completion": 227,
+    "total": 1683
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005082",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 124, de la même loi, modifié en dernier lieu par la loi du 28 juin 2023, les modifications suivantes sont apportées:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">dans le 1°, alinéa 1er, les mots \"tel que visé à l'article 46, § 1er, 2° et 3° \" sont remplacés par \"tel que visé à l'article 46, § 1er, 1° b), 2° et 3° \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">le 1° est complété par un alinéa rédigé comme suit: \"Elle n'est pas davantage d'application aux personnes exerçant une profession de soins de santé en vertu de la présente loi, qui sont en formation pour pouvoir exercer les prestations techniques visées à l'article 46, § 1er, 2°, dans le cadre de la délégation prévue à l'article 47/1, ou qui exercent les prestations visées à l'article 46, § 1er, 2°, dans le cadre de cette délégation.\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"c)\">\n                    <span class=\"provision-text\">le 4° est remplacé par ce qui suit: \"4° celui qui charge habituellement de l'exercice de l'art infirmier ou autorise habituellement à cette fin une personne qui n'est pas en possession de l'agrément visé à l'article 45, de l'enregistrement visé à l'article 65 ou de l'enregistrement visé à l'article 56 et d'un titre de qualification visé, ou qui n'a pas la qualité d'étudiant prévue au 1° du présent article, ou qui n'exerce pas dans le cadre de la délégation prévue à l'article 47/1;\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.430Z",
+  "tokenUsage": {
+    "prompt": 2188,
+    "completion": 537,
+    "total": 2725
+  }
+}

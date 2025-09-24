@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008035428",
+  "articleNumber": "55",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-55\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 55</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 69 du même arrêté sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans la phrase introductive, les mots &quot; § 1er &quot; sont supprimés;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au point 2° sont ajoutés les mots &quot; et de l'article 1er, 10°, 12°, 13° et 16° et de l'article 25, dans la mesure où ils portent sur le même chapitre III &quot;;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">il est ajouté un alinéa deux, rédige comme suit :</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">&quot; Pour l'application des dispositions non abrogées de l'arrêté, visé à l'alinéa 1er, 2°, on entend par coût actualisé : la somme de toutes les dépenses pour la construction ou l'acquisition d'une habitation ainsi que pour les travaux d'assainissement, d'amélioration et d'adaptation, ainsi que la valorisation des immeubles ou terrains acquis à titre gratuit ou emphytéotique. Avant que la somme ne soit calculée, les frais, en fonction de l'année de dépense, sont multipliés par le coefficient qui est fixé annuellement par le Ministre avant le 1er juillet. &quot;</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.042Z",
+  "tokenUsage": {
+    "prompt": 1959,
+    "completion": 441,
+    "total": 2400
+  }
+}

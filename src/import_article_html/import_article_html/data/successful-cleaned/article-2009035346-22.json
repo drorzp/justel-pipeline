@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035346",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Une source de données géographiques, telle que visée à l'article 12, alinéa premier, 1°, 2° et 4°, est agréée par le Gouvernement flamand en tant qu'une source authentique de données géographiques, sur la proposition du groupe de pilotage, pour autant qu'elle remplisse les conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">elle offre suffisamment de garanties de qualité relatives à l'actualité, à l'exactitude et la complétude;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">elle est décrite par des métadonnées qui correspondent aux règles qui ont été rédigées par le groupe de pilotage conformément à l'article 14;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">elle peut être consultée via un service de consultation;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">elle est transférable via un service de transfert;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">elle est harmonisée conformément aux prescriptions techniques, visées à l'article 25.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Sans préjudice de l'application du premier alinéa, le Gouvernement flamand peut arrêter des conditions supplémentaires auxquelles doit répondre une source de données géographiques en vue d'être agréée comme source authentique de données géographiques.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.088Z",
+  "tokenUsage": {
+    "prompt": 1965,
+    "completion": 464,
+    "total": 2429
+  }
+}

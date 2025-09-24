@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030496",
+  "articleNumber": "59",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-59\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 59</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 70 de l'annexe 11 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 18 décembre 2020, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive, les mots \" qui a un agrément spécial \" sont abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au point 2°, le membre de phrase \" catégorie de dépendance Cd ou B \" est remplacé par le membre de phrase \" catégorie de dépendance B, Cd ou D \" et le membre de phrase \" 3° et 5° \" est remplacé par le membre de phrase \" 3°, 5° et 6° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.715Z",
+  "tokenUsage": {
+    "prompt": 1702,
+    "completion": 290,
+    "total": 1992
+  }
+}

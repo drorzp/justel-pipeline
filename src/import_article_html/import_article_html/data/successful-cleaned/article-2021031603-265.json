@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031603",
+  "articleNumber": "265",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-265\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 265</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 73, § 2, de la même loi, modifié par la loi du 30 juillet 2018, la phrase \"Les articles 130 à 133/2, 134, §§ 1er, 2, 3 et 6, 135 à 140/1, 142 à 144, à l'exception de l'article 144, § 1er, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"intro-text\">8°, du Code des sociétés sont applicables \"est remplacée par la phrase \"Les articles 3:58 à 3:64, 3:65, §§ 1er, 2, 3 et 6, 3:66 à 3:71, 3:73 à 3:75, à l'exception de l'article 3:75, § 1er, alinéa 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"8°\"><span class=\"provision-text\">du Code des sociétés et des associations sont applicables\".</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.133Z",
+  "tokenUsage": {
+    "prompt": 1891,
+    "completion": 401,
+    "total": 2292
+  }
+}

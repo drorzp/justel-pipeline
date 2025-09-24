@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022282",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>\n      A l'article 37, § 2, de la même loi, les termes \n      \" de pensionnés, de veufs et de veuves, d'orphelins et de bénéficiaires d'indemnités d'invalidité visés, respectivement, aux articles 32, alinéa 1er, 7° à 12° et 16°, et 93, dont les revenus, tels qu'ils sont déterminés par le Roi, ne dépassent pas un montant annuel fixé par Lui, ainsi que les personnes à leur charge \" \n      sont remplacés par les termes \n      \" de bénéficiaires de l'intervention majorée de l'assurance visés au § 1er, alinéa 2 et au § 19.\"\n    </p>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.967Z",
+  "tokenUsage": {
+    "prompt": 1630,
+    "completion": 228,
+    "total": 1858
+  }
+}

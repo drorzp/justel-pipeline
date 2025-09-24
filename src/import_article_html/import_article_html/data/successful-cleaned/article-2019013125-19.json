@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019013125",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 44/11/3septies, 2°, de la même loi, inséré par la loi du 21 mars 2018, les mots \"2° à 5° \" sont remplacés par les mots \"2° à 5° et 7° \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.332Z",
+  "tokenUsage": {
+    "prompt": 1477,
+    "completion": 142,
+    "total": 1619
+  }
+}

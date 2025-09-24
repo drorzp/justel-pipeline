@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015031899",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-03-31/27\" data-law-type=\"ARR\" data-article-number=\"2\">\n        <p class=\"intro-text\">Les membres visés à l'article 2, premier alinéa,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">sont désignés par le ministre respectivement compétent pour l'Administration ou une direction de l'Administration.</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">à</span></li>\n          <li class=\"provision\" data-number=\"17°\"><span class=\"provision-text\">et deuxième alinéa sont désignés par le ministre ayant cette entité dans ses attributions ou par l'organe compétent au sein de cette entité.</span></li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.275Z",
+  "tokenUsage": {
+    "prompt": 1743,
+    "completion": 299,
+    "total": 2042
+  }
+}

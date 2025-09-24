@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006021362",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 494, § 6, du même Code, inséré par la loi du 8 avril 2003, est remplacé par la disposition suivante :</p>\n    <section class=\"paragraph\" id=\"para-6\">\n      <h3 class=\"paragraph-marker\">§ 6.</h3>\n      <div class=\"paragraph-content\">\n        <p>Pour l'application du présent Code, à l'exception des dispositions du titre VI, chapitre premier, section II, l'augmentation des revenus cadastraux résultant d'une réévaluation ne prend effet, par dérogation au § 5 :</p>\n        <ul class=\"hyphenated-items\">\n          <li class=\"hyphenated-item\"><span class=\"item-text\">qu'à partir du premier jour de la sixième année qui suit l'événement dont la déclaration est prescrite à l'article 473, en ce qui concerne les biens immobiliers situés intégralement dans une zone d'action positive des grandes villes au sens de l'article 145.25;</span></li>\n          <li class=\"hyphenated-item\"><span class=\"item-text\">qu'à partir du premier jour de la neuvième année qui suit l'événement dont la déclaration est prescrite à l'article 473, en ce qui concerne les biens immobiliers visés à l'article 145.30.</span></li>\n        </ul>\n        <p>L'alinéa 1er s'applique uniquement aux réévaluations visées au § 1er, 2° et 3°.</p>\n        <p>Les périodes de 6 et 9 ans prennent fin lors de la prochaine péréquation générale.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.826Z",
+  "tokenUsage": {
+    "prompt": 2007,
+    "completion": 428,
+    "total": 2435
+  }
+}

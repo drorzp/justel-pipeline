@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023043880",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3 du même décret, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 4° est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">la vente de matériel de transport et d'acheminement</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les points 5° et 6° sont ajoutés, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"5°\">\n              <span class=\"provision-text\">la vente de biens volumineux qui ne relèvent pas des catégories visées aux points 1° à 4°</span>\n            </li>\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">vente de biens non volumineux qui ne relèvent pas des catégories visées aux points 1° à 4°</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">il est ajouté un alinéa 2, rédigé comme suit :</span>\n          <p class=\"closing-text\">\" A l'alinéa 1er, on entend par biens volumineux : les biens dont la somme de la hauteur, de la largeur et de la profondeur est supérieure ou égale à 2,5 mètres.</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.853Z",
+  "tokenUsage": {
+    "prompt": 2173,
+    "completion": 488,
+    "total": 2661
+  }
+}

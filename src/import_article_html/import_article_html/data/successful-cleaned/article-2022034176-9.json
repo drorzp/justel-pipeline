@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034176",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la même loi, il est inséré un article 35septies/13 rédigé comme suit:</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 35septies/13.</h3>\n        <div class=\"paragraph-content\">\n          <p>Pour les finalités visées à l'article 35septies/8, alinéa 1er,:</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">le délai de conservation des données est fixé par le ministre compte tenu de la nature des données sans pouvoir excéder dix ans.</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">Pour les finalités visées dans l'article 35septies/8, alinéa 1er, 3° et 4°, la conservation des données enregistrées pseudonymisées est assurée, sauf obligation découlant d'une autre disposition légale ou réglementaire, durant la période pendant laquelle le remboursement de la prestation est lié à l'enregistrement et à la collecte des données, majorée de cinq années supplémentaires.</span>\n            </li>\n          </ol>\n          <p>Au-delà du délai de conservation visé aux alinéas 1er et 2, les données sont conservées sous une forme anonyme.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.775Z",
+  "tokenUsage": {
+    "prompt": 1847,
+    "completion": 402,
+    "total": 2249
+  }
+}

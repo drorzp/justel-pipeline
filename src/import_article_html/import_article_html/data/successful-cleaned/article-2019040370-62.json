@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040370",
+  "articleNumber": "62",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-62\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 62</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Il est d'office mis fin à la désignation à titre provisoire du membre du personnel lorsque celui-ci fait l'objet de l'une des sanctions disciplinaires visées à l'article 105, 4° à 7°.</p>\n        <p>Les sanctions disciplinaires visées à l'article 105, 6° et 7°, mettent fin, en outre, à tout lien statutaire, même dans la fonction d'origine du membre du personnel visé à l'alinéa précédent.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.441Z",
+  "tokenUsage": {
+    "prompt": 1560,
+    "completion": 214,
+    "total": 1774
+  }
+}

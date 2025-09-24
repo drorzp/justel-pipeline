@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011035608",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 17</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Au décret du 7 mai 2004 relatif aux sociétés d'investissement des autorités flamandes il est ajouté un article 6bis ainsi rédigé : \" Art. 6bis.</p>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Les fonctionnaires instrumentants flamands du service des Actes immobiliers sont compétents pour passer les actes relatifs à l'organisation et à l'administration interne de la VPM, pour autant que la Région flamande est directement ou indirectement le seul actionnaire de la VPM.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Les fonctionnaires instrumentants flamands sont également compétents pour passer les actes relatifs à l'organisation et à l'administration interne des filiales de la VPM, dans lesquelles :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">soit la VPM est seul actionnaire;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">soit la Région flamande et la VPM sont les seuls actionnaires;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">soit la VPM et une ou plusieurs de ses filiales, visées sous § 2, 1° et 2°, sont les seuls actionnaires. \"</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.218Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 457,
+    "total": 2398
+  }
+}

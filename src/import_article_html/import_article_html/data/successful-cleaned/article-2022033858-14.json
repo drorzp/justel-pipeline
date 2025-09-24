@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022033858",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1.</h3>\n            <div class=\"paragraph-content\">\n                <p>La procédure applicable à la demande initiale, visée à l'article 10, est applicable en cas de déménagement.</p>\n                <p>Lors de la vérification du respect des conditions, visées à l'article 3, § 2, 3° et § 3, 1° à 4° le paiement de l'allocation est maintenu.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-03-07/23\" data-law-type=\"ARR\" data-article-number=\"5\">\n                        ...\n                    </span>\n                </p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.818Z",
+  "tokenUsage": {
+    "prompt": 1864,
+    "completion": 295,
+    "total": 2159
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024006481",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 36</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 4.1.2.48/1, alinéa 1er, du même Code, inséré par la loi du 13 octobre 2022, les mots \"d'un port ou d'une installation portuaire visé à l'article 2.5.2.3, 4° et 5°, sans l'autorisation du gestionnaire du port ou de l'installation portuaire\" sont remplacés par les mots \"d'un port, d'une installation portuaire ou d'un terminal intérieur comme visé à l'article 2.5.2.3, 4°, 5° et 16°, sans l'autorisation du gestionnaire du port ou de l'exploitant de l'installation portuaire ou du terminal intérieur\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.542Z",
+  "tokenUsage": {
+    "prompt": 1755,
+    "completion": 243,
+    "total": 1998
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021030204",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Complémentairement à la condition visée à l'article 23, les agents de gardiennage et de sécurité ne peuvent fouiller à l'aide d'un chien pisteur les biens qu'une personne a sur elle ou avec elle que si les conditions suivantes sont remplies de manière cumulative:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'intéressé les soumet volontairement à la fouille;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les biens sont séparés de l'intéressé pendant la fouille ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">la fouille a lieu sous la vidéosurveillance ou dans la vue directe de l'intéressé ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">la fouille a lieu dans le cadre d`un contrôle d'accès ou s'il y a indication que la personne transporte ou a sur elle des objets ou substances visés à l'article 3, 9°, de la loi.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">En dérogation au premier alinéa, les conditions 1°, 3° et 4° ne sont pas applicables aux lieux visés à l'article 137 de la loi.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.125Z",
+  "tokenUsage": {
+    "prompt": 1905,
+    "completion": 422,
+    "total": 2327
+  }
+}

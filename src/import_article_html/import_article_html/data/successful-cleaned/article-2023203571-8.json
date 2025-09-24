@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023203571",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 3, § 1er, du décret du 12 février 2004 relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public, modifié en dernier lieu le décret du 17 juillet 2018, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"a)\">\n                    <span class=\"provision-text\">au 2° les mots \" société, visée à l'article 1er du décret du 19 octobre 2022 relatif aux sociétés régionales de développement économique et aux sociétés spécialisées \" sont remplacés par les mots \" Wallonie Entreprendre \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"b)\">\n                    <span class=\"provision-text\">les 32°, 33° et 42° sont abrogés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.403Z",
+  "tokenUsage": {
+    "prompt": 1701,
+    "completion": 288,
+    "total": 1989
+  }
+}

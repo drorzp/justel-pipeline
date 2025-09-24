@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1975052706",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">(Voir NOTES sous l'intitulé) La déclaration de créance dont il est question à l'article 5 doit être accompagnée des documents suivants:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">une copie certifiée conforme du certificat, brevet ou diplôme établissant que l'intéressé a terminé avec succès un des cycles de cours visés à l'article 2;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">une déclaration de l'administration communale établissant que l'intéressé travaillait en qualité de travailleur indépendant ou aidant dans l'agriculture pendant toute la durée des cours qu'il invoque pour l'obtention des indemnités.</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">pour les cours mentionnés sous les numéros 1°, 2°, 3° et 4° de l'article 2, une attestation du chef de l'établissement d'enseignement reprenant par année le nombre d'heures suivies effectivement et le nombre d'heures total du cycle complet)</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"21-08-79\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 21-08-79, art. 2&gt;</span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.618Z",
+  "tokenUsage": {
+    "prompt": 1903,
+    "completion": 428,
+    "total": 2331
+  }
+}

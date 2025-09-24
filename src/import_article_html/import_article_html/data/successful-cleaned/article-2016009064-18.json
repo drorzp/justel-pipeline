@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016009064",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 81 du même Code, remplacé par la loi du 23 janvier 2003, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er est complété par les mots \"et de quarante ans au plus.\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'alinéa 2 est remplacé par ce qui suit :</span>\n          <blockquote>\n            <p>\"La peine de la détention de trente ans à quarante ans par la détention de trente-huit ans ou pour un terme inférieur ou par un emprisonnement d'un an au moins et de trente-huit ans au plus.</p>\n            <p>La peine de la détention de vingt ans à trente ans par la détention de vingt-huit ans ou pour un terme inférieur ou par un emprisonnement d'un an au moins et de vingt-huit ans au plus.\"</p>\n          </blockquote>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'alinéa 3, qui devient l'alinéa 4, est complété par les mots \"et de quinze ans au plus.\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans l'alinéa 4, qui devient l'alinéa 5, la première phrase est complétée par les mots \"et de dix ans au plus.\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">la seconde phrase de l'alinéa 4 devient l'alinéa 6 et est complétée par les mots \"et de cinq ans au plus.\".</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">(NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé le 1° et le 2° du présent article)</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.319Z",
+  "tokenUsage": {
+    "prompt": 2273,
+    "completion": 599,
+    "total": 2872
+  }
+}

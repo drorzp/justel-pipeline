@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036341",
+  "articleNumber": "28",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-28\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 28</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 11.5 du même arrêté les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les points 1° et 2° sont remplacés par ce qui suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">remplacer entièrement ou partiellement au même endroit un pylône ou un mât autorisé par un nouveau pylône ou mât d'une même hauteur ou moins haut, et dont l'apparence ressemble manifestement à celle du pylône ou du mât autorisé ;</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">remplacer entièrement ou partiellement au même endroit une éolienne autorisée pour la production d'électricité autorisée par une nouvelle éolienne d'une même hauteur ou moins haute, ayant des ailes d'une même longueur ou plus courtes, et dont l'apparence ressemble manifestement à celle de l'éolienne autorisée ;</span>\n                        </li>\n                    </ol>\n                    <span class=\"provision-text\">\" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le point 3° le mot \" technique \" est chaque fois supprimé.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.639Z",
+  "tokenUsage": {
+    "prompt": 1875,
+    "completion": 415,
+    "total": 2290
+  }
+}

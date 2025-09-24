@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014009199",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 18</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 357, § 1er, du même Code, remplacé par la loi du 29 avril 1999 et modifié en dernier lieu par la loi du 17 mai 2006, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'alinéa 1er est complété par le 8° rédigé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">un supplément de traitement de 2.602,89 EUR aux juges visés au tableau \"Nombre de juges répressifs spécialisés en matière fiscale dans le tribunal de première instance\", annexé à la loi du 3 avril 1953 d'organisation judiciaire, qui exercent réellement les fonctions. Le cumul de ce supplément de traitement avec le traitement et les suppléments de traitement visés à l'article 360bis ne peuvent excéder 62 905,54 EUR.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 2 les mots \"l'alinéa 1er, 4°, \" sont remplacés par les mots \"l'alinéa 1er, 4° et 8° \" et les mots \"et les juges\" sont insérés entre le mot \"substituts\" et les mots \"y visés\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.068Z",
+  "tokenUsage": {
+    "prompt": 2055,
+    "completion": 446,
+    "total": 2501
+  }
+}

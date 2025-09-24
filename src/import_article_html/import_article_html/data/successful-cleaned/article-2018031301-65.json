@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018031301",
+  "articleNumber": "65",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-65\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 65</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le cadre de l'élaboration d'études et d'analyses sur la problématique du sans-abrisme, Bruss'Help est chargé de :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la mise en place de la concertation visée à l'article 89, 6° et 7° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">l'élaboration d'outils statistiques destinés à connaître le nombre et les caractéristiques des personnes sans abri présentes sur le territoire bilingue de la Région de Bruxelles-Capitale et à améliorer les dispositifs d'aide d'urgence et d'insertion, en y intégrant la dimension de genre ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'information des centres quant aux changements légaux et administratifs en matière de prise en charge du sans-abrisme ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">soutenir le développement d'initiatives de prospection de logements stables au profit des centres qui pourront proposer des solutions de logement aux personnes sans abri ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">mener des actions d'information et de sensibilisation sur la problématique du sans-abrisme.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.363Z",
+  "tokenUsage": {
+    "prompt": 1917,
+    "completion": 439,
+    "total": 2356
+  }
+}

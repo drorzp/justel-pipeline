@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023200114",
+  "articleNumber": "70",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-70\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 70</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 37 de la même loi, les mots \"l'article 3, § 3, 1° et 2°,\" sont remplacés par les mots \"l'article 2/1, § 2,\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.402Z",
+  "tokenUsage": {
+    "prompt": 1452,
+    "completion": 129,
+    "total": 1581
+  }
+}

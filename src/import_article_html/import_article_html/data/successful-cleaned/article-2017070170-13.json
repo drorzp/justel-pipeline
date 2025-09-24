@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017070170",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 19 du même arrêté est remplacé par la disposition suivante : &quot; Art. 19. Les prestataires de services sont, pour les chèques excellence opérationnelle et jusqu'au 31 décembre 2017 :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les prestataires de services agréés dans le cadre des articles 32 et 34 du décret dont les compétences et expertises sont en adéquation avec les coûts admissibles visés à l'article 18, § 2, 1° à 3° ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les prestataires de services agréés dans le cadre de l'articles 34 du décret dont les compétences et expertises sont en adéquation avec les coûts admissibles, les prestataires visés à l'annexe 11 et les prestataires de services agréés temporairement par la DGO6, selon les modalités qu'elle détermine, pour les coûts admissibles visés à l'article 18, § 2, 4° et 5°.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">A partir du 1er janvier 2018, seuls les prestataires labellisés pour les coûts admissibles du chèque excellence opérationnelle, conformément à l'article 10 du décret et aux articles 12 à 14 de l'arrêté, pourront réaliser les prestations. &quot;</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.623Z",
+  "tokenUsage": {
+    "prompt": 1954,
+    "completion": 422,
+    "total": 2376
+  }
+}

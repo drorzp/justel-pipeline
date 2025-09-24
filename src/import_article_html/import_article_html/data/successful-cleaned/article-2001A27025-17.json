@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001A27025",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour délibérer valablement, la présence d'au moins deux tiers des représentants des Gouvernements visés à l'article 5, alinéa 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, de l'accord de coopération est requise. Lorsque cette condition n'est pas remplie, le président en fait la constatation et lève la séance. Il convoque une nouvelle séance dans les cinq jours calendrier avec les mêmes points à l'ordre du jour. Au cours de cette nouvelle séance, quelles que soient les présences, le Comité de gestion peut délibérer valablement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.675Z",
+  "tokenUsage": {
+    "prompt": 1619,
+    "completion": 253,
+    "total": 1872
+  }
+}

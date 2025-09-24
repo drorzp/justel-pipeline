@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017010981",
+  "articleNumber": "124",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-124\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 124</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les dépositaires de chacun des organismes de placement collectif concernés par la restructuration vérifient la conformité des éléments d'information énoncés à l'article 120, § 1er, alinéa 2, 1°,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">et</span></li>\n      </ol>\n      <p class=\"closing-text\">7°, avec les exigences de la loi et du présent arrêté, ainsi qu'avec le règlement de gestion ou les statuts de leur organisme de placement collectif respectif.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.750Z",
+  "tokenUsage": {
+    "prompt": 1581,
+    "completion": 219,
+    "total": 1800
+  }
+}

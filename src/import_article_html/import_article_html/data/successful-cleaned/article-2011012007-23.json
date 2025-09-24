@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011012007",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La Commission est composée de :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">cinq membres effectifs et cinq membres suppléants proposés par les organisations représentatives des travailleurs qui siègent au Conseil National du travail;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">cinq membres effectifs et cinq membres suppléants proposés par les organisations représentatives des employeurs qui siègent au Conseil National du travail;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">trois membres possédant une connaissance et une expérience dans le domaine de la concertation sociale et au niveau des dispositions prévues par la présente loi.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Le Ministre qui a l'Emploi dans ses attributions nomme, par arrêté ministériel, les membres visés aux points 1°, 2° et 3°, ainsi que le président et le vice-président parmi les membres visés au point 3.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.153Z",
+  "tokenUsage": {
+    "prompt": 1774,
+    "completion": 344,
+    "total": 2118
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016229",
+  "articleNumber": "4.160/11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4-160/11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4.160/11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-12-17/61\" data-law-type=\"AGF\" data-article-number=\"125\">\n                        Chaque société de logement établit un rapport annuel concernant ses missions, visées à l'article 4.40, \n                        <ol class=\"numbered-provisions\">\n                            <li class=\"provision\" data-number=\"4°\">\n                                <span class=\"provision-text\">4°</span>\n                            </li>\n                            <li class=\"provision\" data-number=\"5°\">\n                                <span class=\"provision-text\">5°</span>\n                            </li>\n                            <li class=\"provision\" data-number=\"6°\">\n                                <span class=\"provision-text\">6°</span>\n                            </li>\n                        </ol>\n                        du Code flamand du Logement de 2021, conformément au modèle mis à disposition par l'agence.\n                    </span>\n                    <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2022-11-10/07\" data-law-type=\"AGF\" data-article-number=\"67\">\n                        Le rapport annuel est introduit annuellement au plus tard le 30 juin auprès de l'agence, pour la première fois au plus tard le 30 juin de l'année suivant l'année pendant laquelle la société de logement a été créée.\n                    </span>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.278Z",
+  "tokenUsage": {
+    "prompt": 1878,
+    "completion": 428,
+    "total": 2306
+  }
+}

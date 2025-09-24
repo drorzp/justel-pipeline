@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021021450",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté entre en vigueur à la date de sa publication au Moniteur belge, à l'exception des articles 11 et 12, qui entrent en vigueur le 19 juillet 2021.</p>\n            <p class=\"intro-text\">L'article 7.14.1, § 2, premier alinéa, et § 3, deuxième alinéa de l'Arrêté relatif à l'Energie du 19 novembre 2010, tels que modifiés respectivement par les articles 10,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">et 10,</span>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">du présent arrêté, s'applique pour la première fois aux demandes de primes introduites à partir du 1 avril 2021.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.177Z",
+  "tokenUsage": {
+    "prompt": 1701,
+    "completion": 299,
+    "total": 2000
+  }
+}

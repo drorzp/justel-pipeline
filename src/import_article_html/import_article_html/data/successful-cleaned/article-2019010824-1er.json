@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019010824",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 1er, de l'arrêté royal du 31 juillet 1952 déterminant les fonctions du ministère de la Défense nationale auxquelles est attaché le bénéfice de la gratuité du logement, les modifications suivantes sont apportées:</p>\n            <ol class=\"sub-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    les 1°, 5°, 6°, 7°, 8° et 10° sont abrogés;\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    au 2°, les mots \"et qu'ils ne soient pas utilisés dans les ministères ou dans les organismes d'intérêt public en application de l'arrêté royal n° 26 du 29 juin 1967 relatif à la mobilité des membres des forces armées\" sont abrogés;\n                </li>\n                <li class=\"sub-provision\" data-marker=\"c)\">\n                    au 3°, les mots \"et de la Gendarmerie\" sont abrogés.\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.447Z",
+  "tokenUsage": {
+    "prompt": 1746,
+    "completion": 308,
+    "total": 2054
+  }
+}

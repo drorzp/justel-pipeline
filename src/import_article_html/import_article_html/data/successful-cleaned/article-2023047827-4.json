@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023047827",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le chèque implémentation stratégique porte sur la concrétisation du projet de digitalisation, à savoir sur la réalisation des développements ou investissements, et qui constitue la troisième phase de la thématique de relance économique par le numérique, après le diagnostic réalisé dans le cadre du chèque diagnostic, et le plan d'actions stratégiques réalisé dans le cadre du chèque plan d'actions stratégiques, respectivement visés par l'article 3, alinéa 1er, 1° et 2°, de l'arrêté ministériel du 20 décembre 2021 portant exécution partielle, en matière de relance économique par le numérique dans le cadre de l'initiative REACT-EU, de l'arrêté du Gouvernement wallon du 23 février 2017 portant exécution des chapitres 1er, 3 et 4 du décret du 21 décembre 2016 portant octroi d'aides, au moyen d'un portefeuille intégré d'aides en Région wallonne, aux porteurs de projets et aux petites et moyennes entreprises pour rémunérer des services promouvant l'entrepreneuriat ou la croissance, et constituant une banque de données de sources authentiques liées à ce portefeuille intégré.</p>\n            <p>La prestation relative au chèque implémentation stratégique est effectuée sous la supervision du prestataire de services des chèques diagnostic ou plan d'actions stratégiques qui peut décider soit de prendre en charge lui-même la mise en oeuvre de la stratégie et le développement technique des outils, soit de recourir jusqu'à cent pour cent à un sous-traitant qui travaille sous son entière responsabilité.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.495Z",
+  "tokenUsage": {
+    "prompt": 2031,
+    "completion": 421,
+    "total": 2452
+  }
+}

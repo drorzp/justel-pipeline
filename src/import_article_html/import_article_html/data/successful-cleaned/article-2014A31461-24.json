@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014A31461",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 24</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'autorité compétente en matière de responsabilité environnementale peut à tout moment :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">obliger l'exploitant à fournir des informations chaque fois qu'une menace imminente de dommage environnemental est présente, ou dans le cas où une telle menace imminente est suspectée;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">obliger l'exploitant à prendre les mesures préventives nécessaires; ou</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">prendre elle-même les mesures préventives nécessaires.</span></li>\n            </ol>\n            <p>Si l'exploitant ne s'acquitte pas des obligations prévues à l'article 20 ou aux points 1° et 2° , s'il ne peut être identifié ou s'il n'est pas tenu de supporter les coûts en vertu de l'article 27, l'autorité compétente peut prendre les mesures préventives nécessaires.</p>\n            <p class=\"closing-text\">Les décisions prises sont notifiées sans délai à l'exploitant concerné, qui est en même temps informé des voies et délais de recours dont il dispose.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.207Z",
+  "tokenUsage": {
+    "prompt": 1843,
+    "completion": 375,
+    "total": 2218
+  }
+}

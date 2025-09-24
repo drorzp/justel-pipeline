@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015024224",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 4 du même arrêté les 2°, remplacé par l'arrêté royal du 29 mars 2012, 3° et 5°, remplacé par l'arrêté royal du 29 mars 2012, sont abrogés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.170Z",
+  "tokenUsage": {
+    "prompt": 1462,
+    "completion": 134,
+    "total": 1596
+  }
+}

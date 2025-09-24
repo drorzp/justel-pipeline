@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018031630",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 17</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour les aspirants qui n'ont pas été déclarés aptes, le jury donne, à la fin de la formation, un avis motivé concernant les possibilités visées à l'article IV.II.44, 3° et 4°, PJPol.</p>\n      <p class=\"closing-text\">Si l'aspirant peut recommencer la totalité ou une partie de la formation de base, il n'a droit qu'à une seule session.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.368Z",
+  "tokenUsage": {
+    "prompt": 1547,
+    "completion": 177,
+    "total": 1724
+  }
+}

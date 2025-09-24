@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029077",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'Administrateur général de l'Administration générale de l'Enseignement et de la Recherche scientifique ou son délégué se prononce sur:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les demandes de levée de filtrage, pour des raisons pédagogiques</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les réclamations concernant des sites ou des forums de discussion qui seraient inaccessibles de manière injustifiée</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les réclamations concernant des sites ou des forums de discussion accessibles qui ne devraient par l'être.</span></li>\n            </ol>\n            <p class=\"intro-text\">L'avis du Comité est requis pour les points 2° et 3°.</p>\n            <p class=\"closing-text\">Les demandes doivent être introduites auprès de l'Administrateur général de l'Administration générale de l'Enseignement et de la Recherche scientifique ou son délégué.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.699Z",
+  "tokenUsage": {
+    "prompt": 1797,
+    "completion": 335,
+    "total": 2132
+  }
+}

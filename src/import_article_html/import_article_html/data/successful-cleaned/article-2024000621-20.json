@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024000621",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Dans le cadre du traitement d'une demande d'intervention :</p>\n        <ol class=\"sub-provisions\">\n          <li class=\"sub-provision\" data-marker=\"a)\">\n            <span class=\"sub-provision-text\">les organismes assureurs peuvent solliciter l'obtention de pièces justificatives ou informations complémentaires, nécessaires ou utiles au traitement de la demande d'intervention conformément aux articles 11 et 12 de l'ordonnance du 21 décembre 2018 ;</span>\n          </li>\n          <li class=\"sub-provision\" data-marker=\"b)\">\n            <span class=\"sub-provision-text\">le Collège Multidisciplinaire peut solliciter l'obtention de pièces justificatives ou informations complémentaires, nécessaires ou utiles au traitement de la demande d'intervention conformément à l'article 12, §§ 4 et 5, de l'ordonnance du 21 décembre 2018 et 41/1, § 3, 2° et 3°, de l'ordonnance du 23 mars 2017 ;</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sans préjudice du paragraphe 1er, les organismes assureurs et le Collège Multidisciplinaire, peuvent réclamer au demandeur de présenter, un ou plusieurs devis ou offres de prix émanant de prestataires, ainsi qu'une explication sur l'efficacité et les caractéristiques particulières de l'aide individuelle demandée.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.512Z",
+  "tokenUsage": {
+    "prompt": 1977,
+    "completion": 466,
+    "total": 2443
+  }
+}

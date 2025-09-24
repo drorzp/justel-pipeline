@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009201944",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"18°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"32°\">\n          <span class=\"provision-text\">de la loi du 30 juin 1971, relative aux amendes administratives applicables en cas d'infraction à certaines lois sociales est abrogé en ce qui concerne les compétences de la Région wallonne et dans le cadre du placement des travailleurs.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.306Z",
+  "tokenUsage": {
+    "prompt": 1539,
+    "completion": 217,
+    "total": 1756
+  }
+}

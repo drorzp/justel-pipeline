@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004022949",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application du présent arrêté, il faut entendre par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la loi : la loi du 10 avril 1971 sur les accidents du travail;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\"><span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-24/04\" data-law-type=\"AR\" data-article-number=\"30\">Fedris : l'Agence fédérale des risques professionnels;</span></span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">l'entreprise d'assurances : l'entreprise d'assurances visée à l'article 49 de la loi et <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-04-24/04\" data-law-type=\"AR\" data-article-number=\"30\">Fedris</span> lorsqu'il accomplit les tâches prévues à l'article 58, § 1er, 1° et 3°.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.778Z",
+  "tokenUsage": {
+    "prompt": 1819,
+    "completion": 370,
+    "total": 2189
+  }
+}

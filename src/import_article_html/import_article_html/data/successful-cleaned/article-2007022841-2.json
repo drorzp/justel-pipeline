@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007022841",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 9, alinéa 1er, de la loi du 5 avril 1994 précitée, modifié par la loi du 19 juin 1996 et par les arrêtés royaux des 7 février 1997, 24 avril 1998, 22 septembre 2000, 11 décembre 2001, 23 décembre 2002 et 31 juillet 2004, est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\" Lorsque dans le courant d'une année déterminée, le bénéficiaire ou son conjoint perçoit des allocations familiales ou des allocations qui en tiennent lieu pour au moins un enfant :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\" data-marker=\"-\">\n          <span class=\"item-text\">les montants de 13.556,68 EUR prévus à l'article 4, § 1er, alinéa 1er, 1° et 4° et de 7.421,57 EUR prévus à l'article 4, § 5, alinéa 1er, 1° et 4°, sont, pour cette même année, augmentés de 3.710,80 EUR;</span>\n        </li>\n        <li class=\"hyphenated-item\" data-marker=\"-\">\n          <span class=\"item-text\">les montants de 10.845,34 EUR prévus à l'article 4, § 1er, alinéa 1er, 2° et alinéa 2 et de 5.937,26 EUR prévus à l'article 4, § 5, alinéa 1er, 2°, et alinéa 2 sont, pour cette même année, augmentés de 2.968,63 EUR;</span>\n        </li>\n        <li class=\"hyphenated-item\" data-marker=\"-\">\n          <span class=\"item-text\">le montant de 16.000,00 EUR prévu à l'article 7, § 1er, alinéa 1er, 1° et 4°, est, pour cette même année, augmenté de 4.000 EUR;</span>\n        </li>\n        <li class=\"hyphenated-item\" data-marker=\"-\">\n          <span class=\"item-text\">le montant de 12.800,00 EUR prévu à l'article 7, § 1er, alinéa 1er, 2°, et alinéa 2 est pour cette même année, augmenté de 3.200,00 EUR.</span>\n        </li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.968Z",
+  "tokenUsage": {
+    "prompt": 2343,
+    "completion": 644,
+    "total": 2987
+  }
+}

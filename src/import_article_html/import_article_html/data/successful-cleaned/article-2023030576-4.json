@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030576",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En vertu de l'article 2, 8°, du décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes, le terme &quot; comptable &quot; figurant dans tous les actes individuels de nomination ou de désignation pris en application des lois sur la comptabilité de l'Etat coordonnées le 17 juillet 1991, de leurs arrêtés d'application ou d'autres dispositions légales, décrétales ou réglementaires est remplacé à partir du 1er janvier 2013 par le terme &quot; trésorier &quot;.</p>\n      <p class=\"intro-text\">Sans préjudice des dispositions visées à l'alinéa 1er, en vertu des articles 2, 7° et 20 du même décret du 15 décembre 2011, le terme &quot; comptable ordinaire &quot; figurant dans tous les actes individuels de nomination ou de désignation pris en application des lois sur la comptabilité de l'Etat coordonnées le 17 juillet 1991, de leurs arrêtés d'application ou d'autres dispositions légales, décrétales ou réglementaires est remplacé à partir du 1er janvier 2013 par les termes &quot; receveur-trésorier &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.712Z",
+  "tokenUsage": {
+    "prompt": 1917,
+    "completion": 362,
+    "total": 2279
+  }
+}

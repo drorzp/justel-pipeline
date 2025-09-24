@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032546",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les instances visées à l'article 18, alinéa 1er, 1° et 3°, du décret du 18 mai 2018, sont actives sur l'ensemble du territoire de la région de langue néerlandaise et de la région bilingue de Bruxelles-Capitale lorsqu'elles répondent à toutes les conditions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">elles comptent au moins 140.000 membres ou assurés, dont à chaque fois au moins 8.000 dans chaque province de la région de langue néerlandaise et dans la région bilingue de Bruxelles-Capitale ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">elles sont non seulement joignables par téléphone et par voie numérique pour leurs membres ou assurés, mais elles possèdent également au moins une agence dans chaque province de la région de langue néerlandaise et dans la région bilingue de Bruxelles-Capitale et y assurent un service accessible physiquement pour leurs membres en vue de fournir des informations et conseils dans le cadre de la protection sociale flamande.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.409Z",
+  "tokenUsage": {
+    "prompt": 1892,
+    "completion": 359,
+    "total": 2251
+  }
+}

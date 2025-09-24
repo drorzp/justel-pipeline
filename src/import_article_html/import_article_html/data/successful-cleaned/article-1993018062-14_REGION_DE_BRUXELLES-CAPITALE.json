@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1993018062",
+  "articleNumber": "14_REGION_DE_BRUXELLES-CAPITALE",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14_REGION_DE_BRUXELLES-CAPITALE\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14_REGION_DE_BRUXELLES-CAPITALE</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-12-14/18\" data-law-type=\"ORD\" data-article-number=\"10\">\n                <p class=\"intro-text\">Le fonctionnaire désigné par le Gouvernement de la Région de Bruxelles-Capitale peut retirer l'autorisation d'activités ambulantes au domicile du consommateur dans les cas suivants:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">si l'autorisation a été délivrée à tort;</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">si l'autorisation a été obtenue frauduleusement;</span></li>\n                    <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">si l'entreprise ou les personnes physiques qui exercent pour son compte une activité ambulante au domicile du consommateur ne respectent pas les dispositions de la présente loi et de ses arrêtés d'exécution.</span></li>\n                </ol>\n                <p class=\"closing-text\">Dans les cas visés à l'alinéa 1er, 2° et 3°, le fonctionnaire visé à l'alinéa 1er peut exclure l'entreprise et la personne physique chargée de sa gestion journalière d'une nouvelle autorisation pour une période d'un an au maximum, en fonction de la gravité des faits. Le Gouvernement de la Région de Bruxelles-Capitale détermine la procédure de retrait.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.097Z",
+  "tokenUsage": {
+    "prompt": 2010,
+    "completion": 446,
+    "total": 2456
+  }
+}

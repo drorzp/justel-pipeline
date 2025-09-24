@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001007282",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Un article 96, rédigé comme suit, est inséré à la place de l'ancien article 96, annulé par l'arrêt n° 91.392 du Conseil d'Etat dans le même arrêté :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 96.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Sur la présentation préalable à son supérieur fonctionnel d'un mandat émanant d'un dirigeant responsable, un membre du personnel agréé en vertu de l'article 95, obtient, si, selon l'avis du supérieur fonctionnel, les nécessités de service le permettent et pour la durée nécessaire à cet effet, une dispense de service pour l'exercice d'une ou plusieurs des prérogatives énumérées aux articles :</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">13, 1° et 2°</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">14, 1°, 2° et 3°</span>\n                        </li>\n                    </ol>\n                    <p>de la loi. La durée de cette dispense de service n'entre en ligne de compte pour le calcul des prestations de service qu'à concurrence d'un jour maximum par trimestre et par corps ou par unité équivalente repris sur la liste visée à l'article 95.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.215Z",
+  "tokenUsage": {
+    "prompt": 1862,
+    "completion": 415,
+    "total": 2277
+  }
+}

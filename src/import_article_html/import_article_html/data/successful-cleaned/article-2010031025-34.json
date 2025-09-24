@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010031025",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 34</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">En cas d'absence de candidat remplissant les conditions d'accès à une fonction de sélection, le pouvoir organisateur peut différer la nomination jusqu'à ce qu'un candidat remplisse les conditions exigées.</p>\n            <p class=\"intro-text\">En cas d'application de l'article 32, § 3, il sera réputé remplir la condition exigée à l'article 30, alinéa 1er, 1° et 2°, à l'expiration de la période de six années.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.230Z",
+  "tokenUsage": {
+    "prompt": 1596,
+    "completion": 189,
+    "total": 1785
+  }
+}

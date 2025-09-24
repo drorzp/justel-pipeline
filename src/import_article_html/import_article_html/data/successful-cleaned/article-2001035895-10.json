@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001035895",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 20 du même décret, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au § 1er, les premier et deuxième alinéas sont remplacés par ce qui suit :<br>\" Le pouvoir organisateur ou le directeur de l'école d'ancrage désigne le candidat attribué tel que visé à l'article 18, § 1er, 1° et 2°, à une fonction telle que visée à l'article 19, conformément aux dispositions de l'article 17, § 1er, 3°, et ce pour une période prenant cours au plus tôt le cinquième jour de classe du mois d'octobre et se terminant le 30 juin de la même année scolaire.<br>Le pouvoir organisateur ou le directeur de l'école d'ancrage qui accepte le candidat attribué tel que visé à l'article 18, § 1er, 3°, le désigne à une fonction telle que visée à l'article 19, conformément aux dispositions de l'article 17, § 1er, 3°, et ce pour une période prenant cours au plus tôt le cinquième jour de classe du mois d'octobre et se terminant le 30 juin de la même année scolaire.<br>Cette désignation s'effectue sur la base de l'attribution conformément à l'article 18. Le pouvoir organisateur ou le directeur de l'école d'ancrage communique la désignation au Département de l'Enseignement. \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le § 2, premier alinéa, les mots \" , à l'exception de l'article 17, § 1er, 7° du décret relatif à certains membres du personnel de l'enseignement communautaire, \" sont insérés entre les mots \" pour les désignations temporaires \" et \" et souscrire en plus \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.670Z",
+  "tokenUsage": {
+    "prompt": 2201,
+    "completion": 541,
+    "total": 2742
+  }
+}

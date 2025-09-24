@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035346",
+  "articleNumber": "198",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-198\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 198</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour les personnes agréées de plein droit conformément à l'article 32, § 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">du VLAREL, l'article 129 du présent arrêté entre en vigueur le 1er septembre 2013.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.087Z",
+  "tokenUsage": {
+    "prompt": 1505,
+    "completion": 202,
+    "total": 1707
+  }
+}

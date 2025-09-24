@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019040806",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 5.6.1, alinéa 1er de l'Arrêté relatif au Patrimoine immobilier du 16 mai 2014, modifié par l'arrêté du Gouvernement flamand du 14 décembre 2018,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">la prise d'acte de la note archéologique, l'absence de prise d'acte de celle-ci ou le fait d'y associer des conditions</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">la prise d'acte de la note, l'absence de prise d'acte de celle-ci ou le fait d'y associer des conditions</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.378Z",
+  "tokenUsage": {
+    "prompt": 1754,
+    "completion": 265,
+    "total": 2019
+  }
+}

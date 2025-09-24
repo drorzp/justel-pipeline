@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015035617",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 133 du même décret, le paragraphe 1er est remplacé par les dispositions suivantes :</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le service désigné par le Gouvernement flamand examine si le dossier de demande recevable répond à chacune des conditions d'octroi, visées à l'article 17, § 1er. Par dérogation à l'article 11, 1° et 2°, les activités se situant dans le domaine d'activités du \"Vlaams Fonds voor de Letteren\" ou du \"Vlaams Audiovisueel Fonds\" sont également éligibles à une allocation de résidence.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.274Z",
+  "tokenUsage": {
+    "prompt": 1707,
+    "completion": 246,
+    "total": 1953
+  }
+}

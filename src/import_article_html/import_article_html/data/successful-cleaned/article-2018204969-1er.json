@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018204969",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 8, § 1er, de l'arrêté ministériel du 10 septembre 2015 exécutant l'arrêté du Gouvernement wallon du 10 septembre 2015 relatif aux aides au développement et à l'investissement dans le secteur agricole, modifié en dernier lieu par l'arrêté ministériel du 2 février 2017, un alinéa rédigé comme suit est inséré entre les alinéas 4 et 5:</p>\n            <p class=\"quote-text\">\" En cas d'application de l'article 92, alinéa 1er, de l'arrêté du Gouvernement wallon du 10 septembre 2015, le nombre de points attribués en vertu de l'alinéa 2,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2°</span></li>\n            </ol>\n            <p class=\"closing-text\">est le nombre maximum possible.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.320Z",
+  "tokenUsage": {
+    "prompt": 1733,
+    "completion": 332,
+    "total": 2065
+  }
+}

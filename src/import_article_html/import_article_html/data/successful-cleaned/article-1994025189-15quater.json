@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994025189",
+  "articleNumber": "15quater",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15quater\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15quater</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-12-02/29\" data-law-type=\"L\" data-article-number=\"3\">\n                <p class=\"intro-text\">L'Agence rend un avis à l'Organisme national des Déchets radioactifs et des Matières fissiles enrichies (ONDRAF) sur la proposition de règles générales établies conformément à l'article 179, § 2, 4° et 8°, de la loi du 8 août 1980 concernant les propositions budgétaires pour 1979-1980, dans un délai de soixante jours calendrier à compter du jour suivant la réception de la proposition.  \n                L'avis de l'Agence est contraignant pour ce qui concerne la vérification de la conformité entre les règles générales et les dispositions de la présente loi et de ses arrêtés d'exécution.</p>\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.942Z",
+  "tokenUsage": {
+    "prompt": 1813,
+    "completion": 278,
+    "total": 2091
+  }
+}

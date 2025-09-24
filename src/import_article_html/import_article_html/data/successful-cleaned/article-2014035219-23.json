@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035219",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 23</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sous réserve de l'application de l'article 20, deuxième alinéa, 3° et 4°, du décret du 12 juillet 2013, une notification de la demande n'est recevable que si le document de demande contient les données suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les données d'identification et les données de clarification relatives au mineur, à ses parents, et, le cas échéant, aux responsables de son éducation, qui sont nécessaires pour pouvoir entamer l'indication ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'indication que le mineur, ses parents et, le cas échéant, les responsables de son éducation, sont d'accord avec la notification de la demande ou la raison pour laquelle que l'accord n'a pas été obtenu ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les données d'identification du notifiant.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Si le notifiant est une équipe multidisciplinaire agréée ou une structure mandatée, le document de demande contient également les données diagnostiques pertinentes et une proposition d'indication relative au mineur, pour être recevable.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.335Z",
+  "tokenUsage": {
+    "prompt": 1879,
+    "completion": 396,
+    "total": 2275
+  }
+}

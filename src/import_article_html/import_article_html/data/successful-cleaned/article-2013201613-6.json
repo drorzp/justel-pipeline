@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013201613",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    A l'article 2 du même décret, modifié par le décret du 13 février 2012, les modifications suivantes sont apportées :\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">l'article est complété par le § 1.1 rédigé comme suit : \n          <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1.1.</h3>\n            <div class=\"paragraph-content\">En vue de l'autorisation ou de l'agréation, les offres de soins mentionnées au § 1er, 2°, 4°, 5° et 6°, doivent être implantées dans une maison de repos pour personnes âgées ou dans une maison de repos et de soins.</div>\n          </section>\n        </span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">l'article est complété par le § 1.2 rédigé comme suit : \n          <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1.2.</h3>\n            <div class=\"paragraph-content\">La capacité d'accueil totale des offres de soins mentionnées au § 1er, 1° et 6°, ne dépasse pas 150 places par implantation.</div>\n          </section>\n        </span>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.199Z",
+  "tokenUsage": {
+    "prompt": 1767,
+    "completion": 378,
+    "total": 2145
+  }
+}

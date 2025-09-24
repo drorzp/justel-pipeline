@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1985013313",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"\" data-law-type=\"\" data-article-number=\"\">&lt;Voir note sous TITRE&gt;</span>\n      <p class=\"intro-text\">Par dérogation aux conditions fixées à l'article 7, 2° et 5°, e, de l'arrêté royal du 3 août 1976 portant le règlement général relatif aux déversements des eaux usées dans les eaux de surface ordinaires, dans les égouts publics et dans les voies artificielles d'écoulement des eaux pluviales:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le pH des eaux déversées ne peut être supérieur à 9,5 ou inférieur à 6,5;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">la condition relative aux détergents n'est pas applicable.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.517Z",
+  "tokenUsage": {
+    "prompt": 1699,
+    "completion": 311,
+    "total": 2010
+  }
+}

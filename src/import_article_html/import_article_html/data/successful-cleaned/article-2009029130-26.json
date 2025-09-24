@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009029130",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 26</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans le même décret, il est inséré un article 5bis rédigé comme suit :</p>\n      <p>\" Art. 5bis. Lorsque plusieurs moyens de transport en commun public sont combinés et qu'un seul titre de transport est fourni pour la totalité de la distance parcourue, l'intervention est fixée à 100% de ce prix pour :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">Les membres du personnel d'enseignement maternel, primaire, fondamental, secondaire, de promotion sociale organisés par la Communauté française visés à l'article 1er, § 1er, 1° et 5°;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">Les membres du personnel subsidiés des établissements d'enseignement maternel, primaire, fondamental, secondaire, secondaire artistique à horaire réduit et de promotion sociale visés à l'article 1er, § 1er, 2°;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"c)\">\n          <span class=\"provision-text\">Les membres du personnel visés à l'article 1er, § 1er, 3° et 4° et 6° à 11.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.105Z",
+  "tokenUsage": {
+    "prompt": 1863,
+    "completion": 382,
+    "total": 2245
+  }
+}

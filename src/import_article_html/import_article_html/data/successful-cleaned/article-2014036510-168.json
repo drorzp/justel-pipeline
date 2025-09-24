@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036510",
+  "articleNumber": "168",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-168\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 168</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 4.5.5, § 3, du même décret, inséré par le décret du 18 décembre 2002, le passage <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2002-12-18\" data-law-type=\"L\" data-article-number=\"4.5.3\">\" le cas échéant respecter les instructions écrites particulières et complémentaires de l'administration qui constituent un complément au contenu délimité, visé à l'article 4.5.3, § 1er, 1° et 2° \"</span> est remplacée par le passage <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"4.5.2\" data-law-type=\"L\" data-article-number=\"4\">\" l'avis, visé à l'article 4.5.2, § 4 \"</span>.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.342Z",
+  "tokenUsage": {
+    "prompt": 1648,
+    "completion": 283,
+    "total": 1931
+  }
+}

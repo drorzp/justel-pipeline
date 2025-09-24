@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014204159",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté produit ses effets :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\"><span class=\"item-text\">le 1er janvier 2012 en ce qui concerne l'article 1er, 1° et les articles 2, 3 et 6 ;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">le 1er septembre 2012 en ce qui concerne l'article 1er, 2° ;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">le 1er février 2014 en ce qui concerne les articles 4, 5 et 7 ;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">le 1er décembre 2013 en ce qui concerne les articles 8 et 9.</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.206Z",
+  "tokenUsage": {
+    "prompt": 1673,
+    "completion": 286,
+    "total": 1959
+  }
+}

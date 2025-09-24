@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995000225",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 173 du même Code, renuméroté par la loi du 16 juillet 1993, les alinéas 2 et 3 sont remplacés par les alinéas suivants :</p>\n            <p class=\"intro-text\">\"Préalablement à leur désignation, le bureau principal procède à l'attribution individuelle aux candidats suppléants du nombre des bulletins favorables à l'ordre de présentation de ces candidats. Par bulletins favorables à l'ordre de présentation des candidats suppléants, il y a lieu d'entendre l'addition du nombre des bulletins de chacune des sous-catégories :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1° et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2° visées à l'article 156, § 1er, alinéa 2.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">L'attribution du nombre de ces bulletins se fait suivant un mode dévolutif. Ce nombre est ajouté au total des suffrages nominatifs obtenus par le premier candidat suppléant à concurrence de ce qui est nécessaire pour atteindre le chiffre d'éligibilité visé à l'article 172, alinéa 2. L'excédent, s'il y en a, est attribué dans une mesure semblable au deuxième candidat, puis au troisième et ainsi de suite, dans l'ordre de présentation, jusqu'à ce que le nombre de ces bulletins soit réduit à zéro.\"</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.960Z",
+  "tokenUsage": {
+    "prompt": 1976,
+    "completion": 446,
+    "total": 2422
+  }
+}

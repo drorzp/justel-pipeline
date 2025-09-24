@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013014466",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le préambule de l'arrêté royal du 22 juin 2011 fixant les règles relatives aux examens médicaux et aux examens psychologiques sur le plan professionnel pour les conducteurs de train et les accompagnateurs de train ainsi que les critères de reconnaissance des personnes et des centres responsables de ces examens, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les mots \" l'article 6, § 2, alinéa 3, remplacé par la loi du 26 janvier 2010, et \" sont insérés après les mots \" vu la loi du 19 décembre 2006 relative à la sécurité d'exploitation ferroviaire, \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les mots \" l'article 37/27, §§ 1er, 2° et 3° et 5, 3°, inséré par la loi du 26 janvier 2010 [...] \" sont remplacés par les mots \" l'article 37/27, § 1er, 2° et 3°, inséré par la loi du 26 janvier 2010, et l'article 37/27, § 5, 5° et 6°, inséré par la loi du 2 décembre 2011 \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.126Z",
+  "tokenUsage": {
+    "prompt": 1931,
+    "completion": 406,
+    "total": 2337
+  }
+}

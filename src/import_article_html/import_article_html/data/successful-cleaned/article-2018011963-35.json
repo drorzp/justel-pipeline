@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018011963",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        L'autorité scolaire détermine l'âge minimum pour les orientations d'études de courte durée en tenant compte des conditions d'admission prévues à l'article 29. \n        Sans préjudice de l'application des conditions d'admission\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-04-05/42\" data-law-type=\"DCFL\" data-article-number=\"157\">\n          visées aux articles 29 et 33\n        </span>, \n        le directeur décide, sur la base des modalités établies par le Gouvernement flamand visées à l'article 34, après avis des enseignants concernés, si l'étudiant est admis à l'une des orientations d'études de courte durée - spécialisation, visées à l'article 13, § 1er, 2°, 15, § 1er, 2°, 17, § 1er, 3°, et 19, § 1er, 3°, en fonction de la motivation, des compétences et du potentiel de l'élève par rapport à la finalité de la spécialisation, telle que visée aux articles 3, 57° et 21. Le directeur motive sa décision par écrit à chaque élève.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.684Z",
+  "tokenUsage": {
+    "prompt": 1939,
+    "completion": 355,
+    "total": 2294
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996033121",
+  "articleNumber": "23",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-23\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 23</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 81, § 1er, 2° et 3°, doit se lire comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">six assesseurs formant la délégation de l'autorité dont un relève de l'organisme concerné;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">six assesseurs formant la délégation des organisations syndicales.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.105Z",
+  "tokenUsage": {
+    "prompt": 1558,
+    "completion": 215,
+    "total": 1773
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1867060850",
+  "articleNumber": "546/1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-546/1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 546/1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-05-20/04\" data-law-type=\"L\" data-article-number=\"3\">\n          Sera puni d'un emprisonnement de huit jours à six mois et d'une amende de vingt-six euros à cinq cents euros ou d'une de ces peines seulement, quiconque sera entré ou aura fait intrusion, sans y avoir été habilité ni autorisé, dans une installation portuaire visée \n          <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2019-05-08/14\" data-law-type=\"L\" data-article-number=\"10\">\n            à \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2022-10-13/10\" data-law-type=\"L\" data-article-number=\"3\">l'article 2.5.2.3, 4° et 5° du Code belge de la Navigation</span> \n            ou dans un bien immobilier ou mobilier situé à l'intérieur du périmètre du port au sens de \n            <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2022-10-13/10\" data-law-type=\"L\" data-article-number=\"3\">l'article 2.5.2.4, § 2, du Code belge de la Navigation</span>\n          </span> \n          <span class=\"footnote footnote-reference\" data-footnote-id=\"4\" data-dossier-number=\"2024-05-16/55\" data-law-type=\"L\" data-article-number=\"4\"> ou dans un terminal intérieur visé à l'article 2.5.2.3, 16° du Code belge de la Navigation</span>.\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.666Z",
+  "tokenUsage": {
+    "prompt": 2215,
+    "completion": 494,
+    "total": 2709
+  }
+}

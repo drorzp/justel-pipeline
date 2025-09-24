@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006000611",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le jury décide de :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'admission à la formation de promotion CDP <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-10-09/07\" data-law-type=\"AR\" data-article-number=\"5\">des candidats qui répondent aux conditions visées à l'article 5, alinéa 1er,\n                        <ol class=\"numbered-sub-provisions\">\n                            <li class=\"sub-provision\" data-marker=\"1°\">1°,</li>\n                            <li class=\"sub-provision\" data-marker=\"2°\">2° et</li>\n                            <li class=\"sub-provision\" data-marker=\"3°\">3°</li>\n                        </ol>\n                    </span>;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">la réussite ou de l'échec à la formation de promotion CDP.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le jury décide à la majorité des voix. En cas de partage des voix, celle du président est prépondérante.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.802Z",
+  "tokenUsage": {
+    "prompt": 1809,
+    "completion": 368,
+    "total": 2177
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024204417",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 2 du même décret, modifié en dernier lieu par le décret du 23 janvier 2020, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les émissions : le rejet de gaz à effet de serre, à partir de sources situées dans une installation, ou le rejet, à partir d'un aéronef effectuant une activité aérienne déterminée par le Gouvernement;</span>\n        </li>\n        <li class=\"provision\" data-number=\"25°\">\n          <span class=\"provision-text\">est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"26°\">\n          <span class=\"provision-text\">les effets hors CO2 de l'aviation : les effets sur le climat du rejet, lors de la combustion de carburant, d'oxydes d'azote, de particules de suie et d'espèces de soufre oxydées, ainsi que les effets de la vapeur d'eau et des traînées de condensation, provenant d'un aéronef effectuant une activité aérienne déterminée par le Gouvernement;</span>\n        </li>\n        <li class=\"provision\" data-number=\"27°\">\n          <span class=\"provision-text\">CORSIA : le système de compensation et de réduction du carbone pour l'aviation internationale telle que décidé par l'Organisation de l'aviation civile internationale.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.755Z",
+  "tokenUsage": {
+    "prompt": 2029,
+    "completion": 419,
+    "total": 2448
+  }
+}

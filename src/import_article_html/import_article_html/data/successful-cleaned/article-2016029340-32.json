@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016029340",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 32</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans la sous-section 3, insérée par l'article 30, est inséré un article 293terdecies rédigé comme suit :</p>\n            <p>&quot; Art. 293terdecies. Les membres du personnel visés aux 1°, 2°, 3° et 4°, de l'article 293duodecies, voient leurs anciennetés de fonction acquise auprès du Pouvoir organisateur en qualité de maîtres de religion et de morale non confessionnelle, réputées comme ancienneté de fonction acquise, au sens de l'article 29bis du décret du 1er février 1993 précité, en qualité de maître de philosophie et de citoyenneté. Toutefois, ils ne peuvent se prévaloir de cette valorisation que pour prétendre à la même fonction.&quot;</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.291Z",
+  "tokenUsage": {
+    "prompt": 1698,
+    "completion": 257,
+    "total": 1955
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000011237",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 5 du même arrêté est remplacé par la disposition suivante : \" Art. 5.</p>\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">L'article 5, alinéa 2,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°bis\">\n            <span class=\"provision-text\">de la loi n'est pas applicable aux institutions de prévoyance.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 5, alinéa 2, 6°, de la loi doit se lire comme suit: \" la preuve que l'institution de prévoyance dispose de la marge de solvabilité visée à l'article 15.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.113Z",
+  "tokenUsage": {
+    "prompt": 1715,
+    "completion": 345,
+    "total": 2060
+  }
+}

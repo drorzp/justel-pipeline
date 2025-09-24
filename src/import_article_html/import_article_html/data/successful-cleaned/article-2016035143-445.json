@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016035143",
+  "articleNumber": "445",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-445\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 445</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 5.30.0.1, § 2, points </p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">, du même arrêté, le membre de phrase \" qui ne tombent pas sous le coup du Titre I du VLAREM \" est remplacé par le membre de phrase \" qui n'ont pas été classés dans la liste de classification \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.226Z",
+  "tokenUsage": {
+    "prompt": 1567,
+    "completion": 221,
+    "total": 1788
+  }
+}

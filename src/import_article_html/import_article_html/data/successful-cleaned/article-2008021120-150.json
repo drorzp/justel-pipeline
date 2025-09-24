@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008021120",
+  "articleNumber": "150",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-150\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 150</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 37novies de la même loi, inséré par la loi du 5 juin 2002 et modifié par l'arrêté royal du 3 juin 2007, les mots &quot; appartenant aux catégories 3, 4 ou 5, visées à l'article 6, § 2, 3°, 4° et 5° &quot; sont remplacés par les mots &quot; visée à l'article 6, § 2 &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.004Z",
+  "tokenUsage": {
+    "prompt": 1622,
+    "completion": 191,
+    "total": 1813
+  }
+}

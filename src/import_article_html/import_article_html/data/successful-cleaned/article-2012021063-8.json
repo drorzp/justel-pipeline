@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012021063",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 37novies de la même loi, inséré par la loi du 5 juin 2002, remplacé par l'arrêté royal du 3 juin 2007 et modifié par la loi du 22 décembre 2008, les mots \" les bénéficiaires de l'intervention majorée, visés à l'article 37, §§ 1er et 19, et les titulaires visés à l'article 32, alinéa 1er, 13° et 15°, bénéficiant de l'intervention majorée, sauf si le droit à l'intervention majorée est octroyé uniquement sur la base de la situation visée à l'article 37, § 19, 5°, \" sont remplacés par les mots \" les bénéficiaires de l'intervention majorée de l'assurance visés à l'article 37, § 19, sauf si le droit à l'intervention majorée de l'assurance est octroyé uniquement sur la base de l'incapacité physique ou mentale d'au moins 66 p.c. d'un enfant \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.187Z",
+  "tokenUsage": {
+    "prompt": 1848,
+    "completion": 307,
+    "total": 2155
+  }
+}

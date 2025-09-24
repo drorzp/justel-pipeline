@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013007199",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 30</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pendant la période de fin de carrière visée à l'article 26, alinéa 1er, 1° et 2°, <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-07-19/20\" data-law-type=\"L\" data-article-number=\"12\">et alinéa 3, 1° et 2°,</span> le militaire BDL peut bénéficier selon les modalités et procédure fixées par le Roi :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">d'un congé de formation de maximum cent-vingt heures;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">d'un crédit de formation de maximum 1 850 euros.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">L'exercice d'une activité professionnelle est autorisé pendant le congé de formation visé à l'alinéa 1er, 1°. Le montant fixé à l'alinéa 1er, 2°, est adapté conformément à la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public. Ce montant correspond à l'indice-pivot 138,01 (base 1981=100).</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.019Z",
+  "tokenUsage": {
+    "prompt": 1955,
+    "completion": 407,
+    "total": 2362
+  }
+}

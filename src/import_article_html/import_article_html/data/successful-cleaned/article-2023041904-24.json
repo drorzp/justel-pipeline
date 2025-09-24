@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023041904",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La Chambre exécutive compétente peut rappeler à l'ordre chaque personne inscrite à l'Ordre en tant que membre, pour les infractions suivantes:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">lorsque l'intéressé reste en défaut, dans le délai déterminé par la Chambre exécutive, de payer tout ou partie des cotisations visées à l'article 20;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">lorsque l'intéressé a omis de faire parvenir la preuve de sa couverture en responsabilité civile professionnelle par un contrat d'assurance ou de le faire approuver par l'Ordre;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">lorsque l'intéressé n'a pas rapporté la preuve de sa participation à la formation permanente obligatoire visée à l'article 31, § 2.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Le membre peut contester le rappel à l'ordre dans les trente jours suivant sa notification en vue d'un débat contradictoire devant la Chambre d'appel. Le recours est suspensif. La Chambre exécutive peut retirer la qualité de membre lorsque le membre reste en défaut de s'exécuter trente jours après le rappel à l'ordre devenu définitif. Le retrait de la qualité de membre entraîne de plein droit l'omission du tableau. Lorsque le membre fournit les preuves visées à l'alinéa 1er, 2° et 3°, la chambre compétente du Conseil national procède à sa réinscription au tableau. Tout rappel à l'ordre devenu définitif est mentionné dans le dossier du membre pendant cinq ans. A l'issue de cette période de cinq ans, le rappel à l'ordre est effacé automatiquement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.733Z",
+  "tokenUsage": {
+    "prompt": 2099,
+    "completion": 508,
+    "total": 2607
+  }
+}

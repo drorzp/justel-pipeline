@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001981",
+  "articleNumber": "211",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-211\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 211</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article D.VIII.28 du même Code, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">entre les 2° et 3°, il est inséré un 2° /1 rédigé comme suit : \" 2° /1 de participer à l'optimisation spatiale; \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le 4° est remplacé par ce qui suit : \" 4° d'assurer un niveau élevé de protection de l'environnement et de contribuer à l'intégration de considérations environnementales dans l'élaboration et l'adoption des plans, des schémas, guides, périmètres ou procédures conjointes susceptibles d'avoir des incidences non négligeables sur l'environnement en vue de promouvoir un développement durable.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.436Z",
+  "tokenUsage": {
+    "prompt": 1723,
+    "completion": 303,
+    "total": 2026
+  }
+}

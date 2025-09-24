@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003201478",
+  "articleNumber": "52",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-52\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 52</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 36, § 1er, du même décret, modifié par les décrets des 21 décembre 1994, 8 juillet 1996, 18 mai 1999 et 14 février 2003, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au point 1°, les mots \"l'enseignement fondamental et\" sont insérés entre le mot \"dans\" et les mots \"l'enseignement secondaire ordinaire\";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est ajouté un nouvel alinéa, rédigé ainsi qu'il suit :</span>\n                    <blockquote class=\"provision-quote\">\n                        <p>&quot;Pour ce qui est des écoles de l'enseignement fondamental, les dispositions portant sur les centres d'enseignement telles que visées au point 1° et aux deuxième et troisième alinéas du point 4° ne s'appliquent pas pendant les années scolaires 2003-2004 et 2004-2005.&quot;</p>\n                    </blockquote>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.733Z",
+  "tokenUsage": {
+    "prompt": 1877,
+    "completion": 358,
+    "total": 2235
+  }
+}

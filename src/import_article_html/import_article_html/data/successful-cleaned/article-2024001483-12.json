@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024001483",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 88 du même décret, remplacé par le décret-programme du 3 février 2005, est complété par un alinéa rédigé comme suit :</p>\n      <p>\" Par dérogation à l'alinéa 1er, la demande est irrecevable et la procédure n'est pas poursuivie si la demande ne contient pas les documents visés à l'article 85, alinéa 2, 6° et 7°.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.518Z",
+  "tokenUsage": {
+    "prompt": 1560,
+    "completion": 187,
+    "total": 1747
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005007062",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 6 du même arrêté est remplacé par la disposition suivante : \"Article 6. Par mesure transitoire, le militaire visé à l'article 1er, alinéa 1er, 2°, qui a satisfait, du 1er juillet 2004 au 31 décembre 2004 inclus, aux conditions fixées à l'article 2, § 1er, 1° et 2° :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">introduit sa demande au plus tard le 30 avril 2005;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">obtient l'allocation au plus tard le 30 juin 2005.\"</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.753Z",
+  "tokenUsage": {
+    "prompt": 1673,
+    "completion": 270,
+    "total": 1943
+  }
+}

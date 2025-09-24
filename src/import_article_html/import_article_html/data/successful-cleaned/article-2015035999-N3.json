@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015035999",
+  "articleNumber": "N3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article N3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Annexe 3 - Liste des cultures fixant l'azote telles que visées à l'article 13</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">Cultures éligibles comme cultures fixant l'azote :</span>\n              <div class=\"missing-table-placeholder\">[TABLE_PLACEHOLDER_0004]</div>\n            </li>\n          </ol>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 2.</h3>\n        <div class=\"paragraph-content\">\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">Par dérogation au point 1er, la condition pour la récolte sèche de poins ou de féveroles n'est pas d'application pour les mélanges de pois ou de féveroles visés au point 1er, 1° et 2°, avec une autre culture telle que visée au point 1er, 3° à 6° inclus.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.284Z",
+  "tokenUsage": {
+    "prompt": 1613,
+    "completion": 382,
+    "total": 1995
+  }
+}

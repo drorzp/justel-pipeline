@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012031071",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le ministre qui a l'énergie dans ses attributions et le Ministre qui a les primes à la rénovation dans ses attributions veillent à la complémentarité entre les primes octroyées en vertu du présent arrêté et les primes octroyées en vertu des articles 91 § 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et 127 de l'ordonnance du 17 juillet 2003 portant le Code Bruxellois du logement.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.268Z",
+  "tokenUsage": {
+    "prompt": 1570,
+    "completion": 211,
+    "total": 1781
+  }
+}

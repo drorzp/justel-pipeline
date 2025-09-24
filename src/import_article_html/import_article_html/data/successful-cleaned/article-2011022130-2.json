@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011022130",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 2, 2°, du même arrêté, modifié par les arrêtés royaux des 11 mars 2008 et 9 juillet 2010, les mots &quot; et 7° &quot; sont remplacés par les mots &quot; , 7° et 8° &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.163Z",
+  "tokenUsage": {
+    "prompt": 1482,
+    "completion": 148,
+    "total": 1630
+  }
+}

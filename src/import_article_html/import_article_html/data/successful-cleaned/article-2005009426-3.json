@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005009426",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 2 de la même loi est complété par un:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">\" greffe \", le greffier du Comité permanent R</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">\" autorité \", les autorités visées aux articles 15 et 22ter et l'autorité de sécurité visée à l'article 22quinquies de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.754Z",
+  "tokenUsage": {
+    "prompt": 1693,
+    "completion": 241,
+    "total": 1934
+  }
+}

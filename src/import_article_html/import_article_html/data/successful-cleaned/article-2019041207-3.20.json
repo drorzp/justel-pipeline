@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041207",
+  "articleNumber": "3.20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3.20</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En ce qui concerne les émissions gazeuses, pour les produits visés à l'article 3.2, alinéa 1er, points 4° et 5°, le constructeur du moteur applique les procédures ci-après, énoncées à l'annexe II de la décision n° 768/2008/CE :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">lorsque les essais sont effectués à l'aide de la norme harmonisée, l'un quelconque des modules suivants :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">module B (examen UE de type) complété par le module C, D, E ou F;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">module G (conformité sur la base de la vérification à l'unité);</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">module H (conformité sur la base de l'assurance complète de la qualité).</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">lorsque les essais ne sont pas effectués à l'aide de la norme harmonisée, l'un quelconque des modules suivants :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">module B (examen UE de type) complété par le module C1;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">module G (conformité sur la base de la vérification à l'unité).</li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.377Z",
+  "tokenUsage": {
+    "prompt": 1988,
+    "completion": 481,
+    "total": 2469
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011A27223",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2015-12-03/18\" data-law-type=\"DRW\" data-article-number=\"39\">\n        Au sein de l'Agence, il est institué :\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">\n              une branche \"\n              <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2023-10-12/14\" data-law-type=\"DRW\" data-article-number=\"15\">...</span>\n              Santé\", compétente pour les matières visées à l'article 2/2, 1°, 2° et 4°;\n            </span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">\n              une branche \"Handicap\", compétente pour les matières visées à l'article 2/2, 3°;\n            </span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">\n              une branche \"Familles\", compétente pour les matières visées à l'article 2/2, 5°\n            </span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.197Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 377,
+    "total": 2274
+  }
+}

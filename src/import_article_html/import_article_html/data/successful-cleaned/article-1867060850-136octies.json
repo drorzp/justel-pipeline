@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1867060850",
+  "articleNumber": "136octies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-136octies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 136octies</h2>\n    <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2003-08-05/32\" data-law-type=\"L\" data-article-number=\"12\">inséré par L 2003-08-05/32, art. 12;<strong>En vigueur :</strong>07-08-2003</span>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sans préjudice des exceptions énoncées aux points 18°, 22° et 23° de l'article 136quater, § 1er, aucun intérêt, aucune nécessité de nature politique, militaire ou nationale ne peut justifier les infractions définies aux articles 136bis, 136ter, 136quater, 136sexies et 136septies, même si celles-ci sont commises à titre de représailles.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le fait que l'accusé ait agi sur ordre de son gouvernement ou d'un supérieur ne l'exempt pas de sa responsabilité si, dans les circonstances données, l'ordre pouvait clairement entraîner la commission d'une des infractions visées aux articles 136bis, 136ter et 136quater.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.664Z",
+  "tokenUsage": {
+    "prompt": 1941,
+    "completion": 402,
+    "total": 2343
+  }
+}

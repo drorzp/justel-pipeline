@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019030854",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 1.7.2-2, § 1er, n'est pas applicable aux élèves de la troisième année de l'enseignement maternel ordinaire durant l'année scolaire 2020-2021.</p>\n                <p>Par dérogation à l'article 1.7.2-2, § 1er, alinéa 2,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">et</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"3°\">\n                        <span class=\"provision-text\">dans l'enseignement maternel, ordinaire et spécialisé, si un pouvoir organisateur démontre s'être contractuellement engagé avant le 14 mars 2019 dans le cadre de l'organisation d'une activité culturelle ou sportive, ou d'un séjour pédagogique prévu lors des années scolaires 2020-2021 ou 2021-2022, il n'est pas tenu d'observer les montants maximaux fixés par le Gouvernement pour l'organisation de cette activité ou ce séjour.</span>\n                    </li>\n                </ol>\n                <p>Les Services du Gouvernement sont habilités à contrôler le respect de la condition prévue à l'alinéa précédent.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.434Z",
+  "tokenUsage": {
+    "prompt": 1809,
+    "completion": 386,
+    "total": 2195
+  }
+}

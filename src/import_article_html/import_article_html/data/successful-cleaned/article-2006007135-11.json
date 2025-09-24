@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006007135",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 14bis de la même loi, inséré par la loi du 21 avril 1994 et modifié par la loi du 16 janvier 2003, est remplacé par la disposition suivante: &quot; Article 14bis. Sauf décision contraire de l'autorité exerçant les attributions de chef de corps, l'exercice des prérogatives fixées aux articles 13, 1&deg; et 2&deg;, et 14, 2&deg; à 4&deg;, est suspendu de plein droit pour les militaires qui :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1&deg;\">\n                    <span class=\"provision-text\">soit sont mis en oeuvre ou sont mis sur préavis;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2&deg;\">\n                    <span class=\"provision-text\">soit sont en service intensif.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Toutefois, les syndicats agréés conservent en permanence le droit de communiquer aux autorités militaires des problèmes relatifs aux intérêts du personnel. &quot;</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.868Z",
+  "tokenUsage": {
+    "prompt": 1784,
+    "completion": 342,
+    "total": 2126
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004033061",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les articles 9 et 10, 2° et 6°, produisent leurs effets le 1er septembre 2000.</p>\n            <p>L'article 10, 3° et 4°, produit ses effets le 1er janvier 2002.</p>\n            <p>Les articles 7, 1°, 8, 10, 1°, 11 et 13 produisent leurs effets le 1er décembre 2002.</p>\n            <p>Les articles 7, 2°, 10, 5°, et 12 produisent leurs effets le 1er décembre 2003.</p>\n            <p>Les articles 7, 3° et 10, 7° entrent en vigueur le 1er décembre 2004.</p>\n            <p>Les articles 1 à 6 entrent en vigueur le 1er septembre 2005.</p>\n            <p>Eupen, le 10 juin 2004.</p>\n            <p>Pour le Gouvernement de la Communauté germanophone :</p>\n            <p>Le Ministre-Président, Ministre de l'Emploi, de la Politique des Handicapés, des Médias et des Sports,</p>\n            <p>K.-H. LAMBERTZ</p>\n            <p>Le Ministre de l'Enseignement et de la Formation, du Tourisme et de la Culture,</p>\n            <p>B. GENTGES</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.737Z",
+  "tokenUsage": {
+    "prompt": 1931,
+    "completion": 396,
+    "total": 2327
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032356",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 7.2.25, § 1, du même arrêté, inséré par l'arrêté du Gouvernement flamand du 17 mai 2019 et modifié par l'arrêté du Gouvernement flamand du 11 décembre 2020, les points 1°, 4°, 5°, 6° et 7° sont abrogés.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.188Z",
+  "tokenUsage": {
+    "prompt": 1573,
+    "completion": 161,
+    "total": 1734
+  }
+}

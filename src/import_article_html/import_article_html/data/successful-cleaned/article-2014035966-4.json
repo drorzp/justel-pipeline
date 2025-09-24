@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035966",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5 du même arrêté, modifié par l'arrêté du Gouvernement flamand du 26 janvier 2007, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, 1°, le membre de phrase \" conformément à l'article 3, § 1er, 1°, deuxième alinéa \" est supprimé ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, 3° et 4°, les mots \" le pouvoir organisateur \" sont remplacés par les mots \" l'autorité scolaire \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 2, le membre de phrase \" à chaque école faisant office de point de contact, tel que visé à l'article 3, § 1er, 3°, \" sont remplacés par les mots \" à chaque école de contact \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.344Z",
+  "tokenUsage": {
+    "prompt": 1805,
+    "completion": 355,
+    "total": 2160
+  }
+}

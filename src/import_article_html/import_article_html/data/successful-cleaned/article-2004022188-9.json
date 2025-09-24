@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004022188",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les cas où un foyer a été confirmé dans un laboratoire, un zoo, une réserve naturelle ou une aire clôturée où les porcs sont détenus à des fins scientifiques ou liées à la conservation d'espèces ou de races rares, le Ministre peut décider de déroger à l'article 6,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">pour autant que cela ne porte pas atteinte aux intérêts fondamentaux de la Communauté. Cette décision est immédiatement notifiée à la Commission européenne.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.773Z",
+  "tokenUsage": {
+    "prompt": 1612,
+    "completion": 241,
+    "total": 1853
+  }
+}

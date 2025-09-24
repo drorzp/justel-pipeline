@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016A36660",
+  "articleNumber": "V.32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-V-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article V.32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2018-12-21/18\" data-law-type=\"DCFL\" data-article-number=\"6\">\n          Pour l'application de l'article V.30, alinéa premier, 1° et 2°, le nombre d'habitants est déterminé conformément aux dispositions du décret du 22 décembre 2017 sur l'administration locale.\n        </span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.780Z",
+  "tokenUsage": {
+    "prompt": 1576,
+    "completion": 183,
+    "total": 1759
+  }
+}

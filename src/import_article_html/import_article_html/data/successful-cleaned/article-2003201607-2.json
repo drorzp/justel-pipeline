@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003201607",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-05-12/38\" data-law-type=\"AGF\" data-article-number=\"1\" data-effective-date=\"01-01-2005\">&lt;AGF 2006-05-12/38, art. 1, 005; En vigueur : 01-01-2005&gt;</span> L'emploi, le chiffre d'affaires annuel et le total du bilan de l'entreprise, mentionnés à l'article 3, 2° et 3° du décret, sont calculés conformément à la définition fixée par la Commission européenne des petites et moyennes entreprises à l'annexe I du Règlement (CE) n° 364/2004 de la Commission du 25 février 2004 portant modification d'exécution du Règlement (CEE) N° 70/2001 de la Commission en ce qui concerne l'extension de son champs d'application aux aides à la recherche et au développement. Les données pour le calcul de l'emploi, du chiffre d'affaires annuel et du total du bilan sont établies sur la base d'une déclaration sur l'honneur de l'entreprise et sur la base des articles 3 et 4.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.731Z",
+  "tokenUsage": {
+    "prompt": 1894,
+    "completion": 347,
+    "total": 2241
+  }
+}

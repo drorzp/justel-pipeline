@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016036580",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 38</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 86, alinéa premier, du même décret, remplacé par le décret du 25 mai 2007 et modifié par les décrets des 29 février 2008, 31 mai 2013 et 31 janvier 2014, sont ajoutés les points 5° et 6°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">le \" Vlaams Woningfonds \"</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">les offices de location sociale.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.636Z",
+  "tokenUsage": {
+    "prompt": 1607,
+    "completion": 236,
+    "total": 1843
+  }
+}

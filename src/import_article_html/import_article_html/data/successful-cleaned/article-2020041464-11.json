@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020041464",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'année scolaire 2019-2020, les académies de l'enseignement artistique à temps partiel peuvent déroger aux dispositions qu'elles ont reprises dans leur règlement d'académie en vertu de l'article 58, 2°, 3°, 4°, 7°, 10°, 11° et 13°, et l'article 60 du décret du 9 mars 2018 relatif à l'enseignement artistique à temps partiel.</p>\n            <p class=\"closing-text\">Si ces mesures d'évaluation modifiées ont des implications pour le personnel, une concertation préalable est organisée avec la représentation locale du personnel. Les parents ou les élèves majeurs sont informés des mesures par écrit ou par voie électronique.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.159Z",
+  "tokenUsage": {
+    "prompt": 1687,
+    "completion": 235,
+    "total": 1922
+  }
+}

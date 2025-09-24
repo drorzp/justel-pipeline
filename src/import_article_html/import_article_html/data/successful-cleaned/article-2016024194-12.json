@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016024194",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 11 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, les modifications suivantes sont apportées :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">les mots \" visée à l'article 16, § 1er, alinéa 1er, de la loi du 21 décembre 1998 \" sont insérés entre les mots \" L'agent chargé du contrôle qui effectue la saisie temporaire \" et les mots \" établit un procès-verbal de saisie temporaire. \"</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">dans la version néerlandophone, le mot \" beslag \" est chaque fois remplacé par le mot \" bezit \"</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">les 2° et 7° sont abrogés</li>\n            <li class=\"sub-provision\" data-marker=\"d)\">le 8° est complété par les mots \" et sa signature \"</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans la version néerlandophone des paragraphes 1er et 2, le mot \" inbeslagneming \" est chaque fois remplacé par le mot \" inbezitneming \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 2, le mot \" dix \" est remplacé par le mot \" quinze \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.259Z",
+  "tokenUsage": {
+    "prompt": 1998,
+    "completion": 483,
+    "total": 2481
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023A46510",
+  "articleNumber": "VII.60",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-VII-60\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article VII.60</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Il est institué au sein de chaque arrondissement judiciaire trois Commissions thématiques des Partenariats réparties comme suit :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">une Commission organisée autour des thématiques centrées sur l'auteur</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">une Commission organisée autour des thématiques centrées sur la victime</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">une Commission organisée autour des thématiques centrées sur les justiciables non visés sous 1° et 2°.</span></li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Chaque Commission thématique est chargée de :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">récolter à la demande de la Commission d'arrondissement les informations relatives à la mise en oeuvre et au suivi des missions dans le cadre de la thématique qui lui est attribuée à l'alinéa 1er</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">donner des avis à la Commission d'arrondissement sur l'adéquation entre les offres de services prévues par le livre VII et les besoins dans le cadre de la thématique qui lui est attribuée à l'alinéa 1er.</span></li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.510Z",
+  "tokenUsage": {
+    "prompt": 1997,
+    "completion": 514,
+    "total": 2511
+  }
+}

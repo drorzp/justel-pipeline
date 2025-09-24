@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006010048",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 3 du même arrêté est remplacé comme suit : &quot; Art. 3. La Sûreté de l'Etat, le Service de Politique criminelle et l'Institut national de Criminalistique et de Criminologie, placées sous l'autorité directe de la cellule stratégique, sont principalement chargées des missions respectives reprises à l'article 2, § 1er, 7°, 8°, 9° et 10°. &quot;</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.823Z",
+  "tokenUsage": {
+    "prompt": 1546,
+    "completion": 177,
+    "total": 1723
+  }
+}

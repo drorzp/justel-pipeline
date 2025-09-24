@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022030981",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Les documents suivants sont joints au formulaire de demande visé à l'article 3 :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">une copie du diplôme de master du demandeur;</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">au moins deux lettres de recommandation d'experts dans le domaine d'expertise du demandeur, dont une lettre de recommandation d'un chargé de cours de l'institution d'enseignement supérieur flamand où le demandeur a suivi sa formation de master ;</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">un essai dans lequel le demandeur démontre son potentiel de leadership et son sens de la responsabilité sociale ;</span></li>\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">si le néerlandais n'est pas la langue maternelle du demandeur, une preuve de la connaissance du néerlandais, niveau C1, à l'oral et à l'écrit ;</span></li>\n                <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">une lettre d'admission ou une preuve d'inscription dans l'institution d'enseignement supérieur étranger ;</span></li>\n            </ol>\n            <p>Pour le document visé au premier alinéa, 3°, on utilise le formulaire qui est disponible sur le site web à cet effet.</p>\n            <p>La demande peut également être présentée par des étudiants en dernière année ou par des étudiants qui ont présenté une demande d'admission dans une institution d'enseignement supérieur étranger mais n'ont pas encore reçu de certificat d'admission auprès de cette institution. Dans ce cas, les documents visés au premier alinéa, 1° et 5°, sont joints à la demande dès qu'ils sont disponibles.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.747Z",
+  "tokenUsage": {
+    "prompt": 2072,
+    "completion": 508,
+    "total": 2580
+  }
+}

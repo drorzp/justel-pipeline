@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002003170",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les adjudicataires de marchés publics, ainsi que les concessionnaires de travaux publics ont la faculté d'user d'un cautionnement collectif par l'intermédiaire d'un des garants suivants;</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">soit d'établissements de crédit satisfaisant, selon le cas, au prescrit des articles 7, 65, 66 et 79 de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">soit d'entreprises d'assurances satisfaisant, selon le cas, au prescrit des articles 3 et 64 de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">soit de sociétés autres que celle mentionnées au 1° et 2° qui</span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"a)\">en vertu de leur agréation exerçaient déjà cette activité en Belgique avant l'entrée en vigueur du présent arrêté, ou,</li>\n                        <li class=\"sub-provision\" data-marker=\"b)\">exercent légalement cette activité dans un autre Etat membres de l'Union européenne.</li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.799Z",
+  "tokenUsage": {
+    "prompt": 1953,
+    "completion": 424,
+    "total": 2377
+  }
+}

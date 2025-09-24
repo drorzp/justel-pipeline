@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020010149",
+  "articleNumber": "57",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-57\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 57</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1.6.2-2 du décret du 3 mai 2019 portant les livres 1er et 2 du Code de l'enseignement fondamental et de l'enseignement secondaire, et mettant en place le tronc commun, il est inséré un nouvel alinéa entre les alinéas 4 et 5, rédigé comme suit :</p>\n      <blockquote class=\"inserted-text\">\n        <p>\" Les membres visés à l'alinéa 2,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n        </ol>\n        <p>5°, sont remboursés de leurs frais de déplacement selon les modalités établies par le Gouvernement.</p>\n      </blockquote>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.270Z",
+  "tokenUsage": {
+    "prompt": 1646,
+    "completion": 267,
+    "total": 1913
+  }
+}

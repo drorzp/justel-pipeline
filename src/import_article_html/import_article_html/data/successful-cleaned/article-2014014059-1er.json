@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014014059",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans les articles 6.7.1.1°, 9.9.2° et 12.9.1.10° de l'arrêté ministériel du 11 octobre 1976 fixant les dimensions minimales et les conditions particulières de placement de la signalisation routière, les mots \" F1 et F3 \" sont remplacés par les mots \" F1a, F1b et F3a, F3b \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.155Z",
+  "tokenUsage": {
+    "prompt": 1592,
+    "completion": 181,
+    "total": 1773
+  }
+}

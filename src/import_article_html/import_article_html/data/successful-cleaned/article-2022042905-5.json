@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042905",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>L'article 5, alinéa 1er, du même décret, est complété par un point 11° et un point 12°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"11°\">\n                    <span class=\"provision-text\">\" Lors de l'examen du droit aux allocations dans le cadre de la politique familiale locale et du paiement de celles-ci pour les communes ou les centres publics d'action sociale, mettre à disposition le moteur de paiement et les services de l'agence dans le cadre d'un accord de coopération tel que mentionné à l'article 6, alinéa 2, du présent décret ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"12°\">\n                    <span class=\"provision-text\">soutenir les initiatives dans le cadre de la politique familiale, en tenant compte des tâches et du rôle coordinateur de l'agence Grandir régie, énoncés à l'article 5, § 1er, alinéa 1er, 1°, c), et § 2, 1°, et aux articles 7/1 et 10/2 du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir regie.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.864Z",
+  "tokenUsage": {
+    "prompt": 1869,
+    "completion": 371,
+    "total": 2240
+  }
+}

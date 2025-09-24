@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005649",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 25</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Les associations environnementales non agréées peuvent, après appel par le Gouvernement flamand, demander une subvention de démarrage pour développer un fonctionnement qui leur permettra de participer à la procédure d'agrément et de subventionnement d'une des catégories d'associations environnementales, visées à l'article 5, alinéa 1er, 1° et 2°, à partir d'une période d'agrément ultérieure.\n      </p>\n      <p class=\"closing-text\">\n        La subvention de démarrage ne peut être accordée qu'une seule fois par association environnementale et est valable pour une période maximale de trois ans.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.556Z",
+  "tokenUsage": {
+    "prompt": 1619,
+    "completion": 219,
+    "total": 1838
+  }
+}

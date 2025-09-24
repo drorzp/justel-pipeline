@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1967101054",
+  "articleNumber": "633decies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-633decies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 633decies</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-24/95\" data-law-type=\"L\" data-article-number=\"34\">\n        <p class=\"intro-text\">Le tribunal de première instance d'Anvers, division d'Anvers, est seul compétent pour connaître des appels visés à l'article 39 de la loi du 30 juillet 1926 instituant un conseil d'enquête maritime, introduit par les membres des équipage visés à l'article 2 de la loi du 30 juillet 1926 instituant un conseil d'enquête maritime des navires de mer visés à l'article 1er, 1° et 3°, de la loi du 30 juillet 1926 instituant un conseil d'enquête maritime.</p>\n        <p class=\"closing-text\">Le tribunal de première instance de Flandre occidental, division de Bruges, est seul compétent pour connaître des appels visés à l'article 39 de la loi du 30 juillet 1926 instituant un conseil d'enquête maritime, introduit par les membres des équipage visés à l'article 2 de la loi du 30 juillet 1926 instituant un conseil d'enquête maritime des navires de mer visés à l'article 1er, 2°, de la loi du 30 juillet 1926 instituant un conseil d'enquête maritime.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.645Z",
+  "tokenUsage": {
+    "prompt": 2023,
+    "completion": 389,
+    "total": 2412
+  }
+}

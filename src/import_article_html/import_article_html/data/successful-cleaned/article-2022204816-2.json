@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022204816",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application du présent décret, l'on entend par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le stagiaire : la personne visée à l'article 5;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le programme de formation : ensemble d'unités d'acquis d'apprentissage qui vise l'acquisition de connaissances et le développement de compétences dans le domaine du numérique, décliné sous la forme d'objectifs, et précisant les méthodes et outils pédagogiques utilisés dans le cadre du parcours de formation;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">le DigComp : le cadre européen des compétences numériques pour les citoyens;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">le référentiel de formation : le référentiel de formation qui décline DigComp;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">le référentiel d'évaluation : le référentiel d'évaluation qui décline DigComp;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">l'Office : l'Office wallon de la formation professionnelle et de l'emploi tel qu'institué par le décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi.</span></li>\n      </ol>\n      <p>Le Gouvernement peut identifier les référentiels de formation et d'évaluation visés à l'alinéa 1er, 4° et 5°.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.828Z",
+  "tokenUsage": {
+    "prompt": 1991,
+    "completion": 476,
+    "total": 2467
+  }
+}

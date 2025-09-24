@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002021495",
+  "articleNumber": "26",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-26\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 26</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 174 de la même loi, modifié par la loi du 20 décembre 1995, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'alinéa 1er, le 10° est remplacé comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"10°\">\n                            <span class=\"provision-text\">\" 10° Pour l'application de l'article 141, §§ 2, 3 et 5, les constatations doivent, à peine de nullité, intervenir dans les deux ans à compter du jour où les documents relatifs aux faits litigieux sont reçus par les organismes assureurs. \";</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'alinéa 3 est remplacé comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"5°\">\n                            <span class=\"provision-text\">\" Les prescriptions prévues aux 5°, 6° et 7° ne sont pas applicables dans le cas où l'octroi indu de prestations aurait été provoqué par des manoeuvres frauduleuses dont est responsable celui qui en a profité. Dans ce cas, le délai de prescription est de 5 ans. Pour les faits soumis au Comité du Service d'évaluation et de contrôle medicaux et à la Chambre de recours visée à l'article 155, § 6, la prescription prévue au 6° court à partir de la date où intervient une décision definitive du Comité ou de la Chambre de recours. \"</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.641Z",
+  "tokenUsage": {
+    "prompt": 2104,
+    "completion": 497,
+    "total": 2601
+  }
+}

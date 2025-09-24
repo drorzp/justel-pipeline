@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045853",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\">1er</span>.</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2 de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, remplacé par l'arrêté du Gouvernement flamand du 2 octobre 2019 et modifié par l'arrêté du Gouvernement flamand du 11 septembre 2020, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les points 4°, 8° et 9° sont abrogés ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">il est ajouté un point 12°, rédigé comme suit :<br>\" 12° Emploi, Economie, Sciences, Innovation, Agriculture et Economie sociale.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.481Z",
+  "tokenUsage": {
+    "prompt": 1702,
+    "completion": 297,
+    "total": 1999
+  }
+}

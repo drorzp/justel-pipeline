@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003239",
+  "articleNumber": "104",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-104\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 104</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'article 535, alinéa 1er, du même Code, inséré par la loi du 28 décembre 2011 et remplacé par la loi du 21 décembre 2013, est complété par ce qui suit :</p>\n      <p>\", étant entendu que :</p>\n      <ul class=\"hyphenated-items\">\n        <li class=\"hyphenated-item\"><span class=\"item-text\">lorsqu'une imposition commune est établie, la réduction d'impôt est répartie proportionnellement en fonction du revenu imposé conformément à l'article 130 de chaque conjoint dans l'ensemble des revenus imposés conformément à l'article 130 des deux conjoints;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">la réduction d'impôt est prise en considération pour déterminer les taux moyens visés à l'article 171, 5° et 6° ;</span></li>\n        <li class=\"hyphenated-item\"><span class=\"item-text\">la réduction d'impôt est imputée conformément à l'article 178/1, après la réduction d'impôt visée à l'article 14524, § 1er.\".</span></li>\n      </ul>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.062Z",
+  "tokenUsage": {
+    "prompt": 1798,
+    "completion": 339,
+    "total": 2137
+  }
+}

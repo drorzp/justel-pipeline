@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018032457",
+  "articleNumber": "III.41",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-III-41\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article III.41</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Le conseil d'administration détermine les exigences auxquelles les candidats au mandat d'administrateur indépendant doivent répondre en matière de compétences, de connaissances et d'expérience.</p>\n                    <p>Le conseil d'administration lance un appel ouvert aux candidatures pour un mandat d'administrateur indépendant. L'appel spécifie les exigences auxquelles les candidats doivent répondre et règle le mode de présentation des candidatures, qui doivent comprendre au moins un curriculum vitæ.</p>\n                    <p>Le conseil d'administration compare les mérites respectifs des candidats.</p>\n                    <p>Les administrateurs indépendants sont désignés par le Gouvernement flamand parmi des listes de deux candidats par mandat vacant, sur proposition du conseil d'administration.</p>\n                    <p>Si les instances publiques, visées à l'article III.36, § 1er, 2°, 3° et 4°, relèvent de dispositions légales qui rendent l'assemblée générale compétente pour la désignation des administrateurs, les administrateurs indépendants sont désignés par l'assemblée générale, sur proposition du conseil d'administration.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.407Z",
+  "tokenUsage": {
+    "prompt": 1824,
+    "completion": 352,
+    "total": 2176
+  }
+}

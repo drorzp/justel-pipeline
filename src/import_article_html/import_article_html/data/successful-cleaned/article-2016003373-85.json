@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003373",
+  "articleNumber": "85",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-85\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 85</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-11-21/08\" data-law-type=\"L\" data-article-number=\"245\">\n        <p class=\"intro-text\">Les succursales visées dans la présente section satisfont aux dispositions suivantes, sous la surveillance de la FSMA, ainsi qu'aux arrêtés et règlements pris pour leur exécution:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">\n              <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2021-06-02/03\" data-law-type=\"L\" data-article-number=\"34\">les articles 25, §§ 1er, 9° et 1er/1, et 26 à 26/2 de la présente loi ;</span>\n            </span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">les articles 26, alinéas 7 à 9, 27, 27bis, 27ter, §§ 1 à 3 et 5 à 8, 27quater, § 1er, et 28 de la loi du 2 août 2002;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">les articles 46, 48, 50, 51 et 52 de la loi du 21 novembre 2017;</span>\n          </li>\n          <li class=\"provision\" data-number=\"4°\">\n            <span class=\"provision-text\">les articles 3 à 26 du Règlement (UE) n° 600/2014.</span>\n          </li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.317Z",
+  "tokenUsage": {
+    "prompt": 2108,
+    "completion": 496,
+    "total": 2604
+  }
+}

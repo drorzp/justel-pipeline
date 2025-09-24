@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022032537",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 3, alinéa 1er, du même arrêté, modifié par l'arrêté du Gouvernement de la Communauté française du 23 novembre 2007, les:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les formations générales prises à l'initiative du membre du personnel parmi celles figurant dans une liste établie annuellement pour chaque entité administrative par le Fonctionnaire dirigeant concerné, sur base de programmes retenus par son service de formation comme répondant au critère de plus-value que les compétences sont estimées pouvoir procurer à l'entité administrative concernée, globalement considérée</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les formations spécifiques proposées au membre du personnel par sa hiérarchie, soit d'initiative, soit sur suggestion du membre du personnel, qui sont reconnues par le service de formation après analyse de la proposition comme répondant à des besoins de compétences particulières fixés par un Fonctionnaire général quant à l'adéquation entre le programme de formation envisagée et le besoin tel que défini par l'entité administrative concernée</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.813Z",
+  "tokenUsage": {
+    "prompt": 1899,
+    "completion": 362,
+    "total": 2261
+  }
+}

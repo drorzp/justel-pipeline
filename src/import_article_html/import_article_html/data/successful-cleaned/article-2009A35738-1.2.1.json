@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009A35738",
+  "articleNumber": "1.2.1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1-2-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1.2.1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-05-17/29\" data-law-type=\"DCFL\" data-article-number=\"52\">exposés des politiques et du budget</span> concernant le champ politique de l'aménagement du territoire à introduire auprès du Parlement flamand comprennent, entre autres :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les objectifs concernant le démarrage et le traitement des processus régionaux de planification au cours de l'année civile concernée;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les objectifs globaux concernant le démarrage et le traitement des processus provinciaux et communaux de planification au cours de l'année civile concernée;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">un rapportage concernant l'évolution des processus de planification et de l'exécution <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-12-08/06\" data-law-type=\"DCFL\" data-article-number=\"18\">du schéma de structure d'aménagement de la Flandre ou du Plan de politique spatiale pour la Flandre</span>, et ce, au niveau régional, provincial et communal.</span></li>\n      </ol>\n      <p class=\"closing-text\">Le Gouvernement flamand peut fixer d'autres règles par rapport à la fourniture de données provinciales et communales dans le cadre des obligations de rapportage mentionnées dans le premier alinéa, 2° et 3°. Ces données sont d'abord transmises au Gouvernement flamand, après que le Conseil provincial, respectivement le Conseil communal, en a pris acte.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.315Z",
+  "tokenUsage": {
+    "prompt": 2146,
+    "completion": 501,
+    "total": 2647
+  }
+}

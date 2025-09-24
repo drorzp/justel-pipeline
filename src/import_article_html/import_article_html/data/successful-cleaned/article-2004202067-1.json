@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004202067",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er du décret du 22 janvier 1998, des points 17° et 18°, rédigés comme suit, sont ajoutés :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"17°\">\n          <span class=\"provision-text\">Centre wallon de Recherches agronomiques;</span>\n        </li>\n        <li class=\"provision\" data-number=\"18°\">\n          <span class=\"provision-text\">Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.706Z",
+  "tokenUsage": {
+    "prompt": 1554,
+    "completion": 221,
+    "total": 1775
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998012606",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Sur la proposition, selon le cas, de la commission compétente ou du Conseil, le Ministre fixe le nombre des membres de chaque comité et du comité du Conseil, visés à l'article 2, alinéa 1er, 4° et 5°, en mentionnant le nombre de mandats par organisation représentée, selon le cas, dans cette commission ou dans le Conseil. Il y a autant de membres suppléants que de membres effectifs.</p>\n      <p class=\"intro-text\">Par dérogation à l'article 2, alinéa 1er, 4° et 5°, le Ministre peut fixer, sur la proposition du Conseil, pour les membres du comité du Conseil, visés à l'article 2, alinéa 1er, 4° et 5°, un nombre supérieur à six.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.159Z",
+  "tokenUsage": {
+    "prompt": 1791,
+    "completion": 260,
+    "total": 2051
+  }
+}

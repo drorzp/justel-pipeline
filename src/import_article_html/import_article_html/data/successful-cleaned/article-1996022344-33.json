@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022344",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-04-23/02\" data-law-type=\"AR\" data-article-number=\"1\">\n        <p class=\"intro-text\">Lorsqu'il s'agit de l'avis visé à l'article 52, § 1er, alinéa 3, de la loi coordonnée ou de l'application de la réglementation concernant le paiement forfaitaire de certaines prestations, la Commission se réunit valablement lorsqu'au moins 6 membres, visés à l'article 32, § 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et 6 membres, visés à l'article 32, § 1er,</span>\n          </li>\n        </ol>\n        <p class=\"closing-text\">2°, sont présents. La Commission se réunit sur convocation du président. La convocation mentionne le sujet de la réunion.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.897Z",
+  "tokenUsage": {
+    "prompt": 1778,
+    "completion": 308,
+    "total": 2086
+  }
+}

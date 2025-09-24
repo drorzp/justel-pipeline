@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016029013",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 36</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L'alinéa 7 du paragraphe 3 de l'article 12 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement est remplacé comme suit :</p>\n      <p>\" A partir du 1er septembre 2016, les montants fixés à l'alinéa 2, 1° et 2°, sont liés à l'indice des prix à la consommation. Ils sont adaptés annuellement en fonction de l'évolution de cet indice tel qu'il est fixé dans le courant du mois de janvier de la même année civile, pour autant que l'indice des prix à la consommation de l'année N+1 soit supérieur à l'indice des prix à la consommation de l'année N.</p>\n      <p>Les montants de la partie fixe et du tarif par période dans l'enseignement de promotion sociale sont liés à l'indice des prix à la consommation selon la formule suivante :</p>\n      <div class=\"missing-table-placeholder\">\n        <table border=\"1\" class=\"legal-table\">\n          <tr>\n            <td valign=\"top\">DI (2015+N) =</td>\n            <td valign=\"top\">DI (2015) X Indice des prix à la consommation (2015+N) / Indice des prix à la consommation (2015)</td>\n          </tr>\n          <tr>\n            <td valign=\"top\">&nbsp;</td>\n          </tr>\n        </table>\n      </div>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.290Z",
+  "tokenUsage": {
+    "prompt": 1824,
+    "completion": 394,
+    "total": 2218
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015035617",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 45, § 5, l'alinéa premier est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\" Un demandeur d'une subvention de fonctionnement peut introduire un recours contre l'un des avis repris dans la proposition de décision provisoire, visée au § 4,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">2°, si cet avis est négatif.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.274Z",
+  "tokenUsage": {
+    "prompt": 1560,
+    "completion": 219,
+    "total": 1779
+  }
+}

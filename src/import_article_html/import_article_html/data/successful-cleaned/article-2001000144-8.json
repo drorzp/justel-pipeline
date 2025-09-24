@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001000144",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La formation, en ce compris les stages qui en font partie, est réputée être en cours pour le membre du personnel de la police judiciaire près les parquets qui a effectivement entamé avant le 1er avril 2001 un cycle de cours visé aux articles \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"12.1\" data-law-type=\"AR\" data-article-number=\"12.1\">12.1°</span>, \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"12.2\" data-law-type=\"AR\" data-article-number=\"12.2\">12.2°</span>, \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"13.1\" data-law-type=\"AR\" data-article-number=\"13.1\">13.1°</span> et \n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"13.2\" data-law-type=\"AR\" data-article-number=\"13.2\">13.2°</span>, de l'arrêté royal du 23 décembre 1998 précité.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.196Z",
+  "tokenUsage": {
+    "prompt": 1536,
+    "completion": 333,
+    "total": 1869
+  }
+}

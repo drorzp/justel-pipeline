@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014036539",
+  "articleNumber": "8.3.4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8-3-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8.3.4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-07-14/21\" data-law-type=\"AGF\" data-article-number=\"52\">\n        <p class=\"intro-text\">Le plan de gestion intégré comprend au moins les éléments tels que visés à l'article 8.1.4, <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2018-12-14/05\" data-law-type=\"AGF\" data-article-number=\"85\">...</span> ainsi que les parties visées à l'article 3, alinéa 1er, 2°, 3°, 4° et 5°, de l'arrêté du Gouvernement flamand du 14 juillet 2017 relatif aux plans de gestion de la nature et à l'agrément de réserves naturelles. La vision concernant la gestion, les objectifs de gestion et les directives, les mesures et les travaux doivent, le cas échéant, être conformes à la réglementation en vigueur.</p>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.363Z",
+  "tokenUsage": {
+    "prompt": 1915,
+    "completion": 315,
+    "total": 2230
+  }
+}

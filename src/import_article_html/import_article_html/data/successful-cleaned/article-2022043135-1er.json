@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043135",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté du Gouvernement flamand du 21 janvier 2022 relatif à l'octroi d'un prêt relais aux entreprises, modifié par l'arrêté du Gouvernement flamand du 15 juillet 2022, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">il est inséré un point 2° /1, rédigé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"2° /1\">\n              <span class=\"provision-text\">LRM : la société anonyme &quot; Limburgse Reconversiemaatschappij &quot;, constituée par acte notarié du 1er février 1994, publié par extrait au Moniteur belge du 24 février 1994 sous le numéro 940224-318, y compris toutes les modifications ultérieures des statuts ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'article 1er, 6°, le membre de phrase &quot; l'article 3, 1°, 2° et 3°, , &quot; est remplacé par le membre de phrase &quot; l'article 3, 1° à 4°, &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.873Z",
+  "tokenUsage": {
+    "prompt": 1897,
+    "completion": 416,
+    "total": 2313
+  }
+}

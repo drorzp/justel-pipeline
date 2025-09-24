@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999033023",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 56 du même arrêté, modifié par l'arrêté du Gouvernement du 18 janvier 1995, est remplacé par la disposition suivante : \" Art. 56. Le Ministre ou son délégué peut, en raison de circonstances particulières et exceptionnelles, et pour des cas individuels, déroger :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux limites de temps fixées pour :</span>\n          <ol class=\"sub-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">les changements de forme d'enseignement et de subdivision par les articles 9, 20, § 1, 1° et 2°b et c;</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">les passages de cinquième année technique en cinquième année professionnelle;</li>\n            <li class=\"sub-provision\" data-marker=\"c)\">les changements de forme d'enseignement et de subdivision par l'article 20, § 1, 2° a et § 3 s'il ressort d'un certificat médical que l'élève n'est plus à même de fréquenter la subdivision choisie par lui;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">à l'obligation de participer à toutes les activités d'enseignement.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.178Z",
+  "tokenUsage": {
+    "prompt": 1891,
+    "completion": 409,
+    "total": 2300
+  }
+}

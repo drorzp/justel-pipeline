@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991014096",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-06-17/18\" data-law-type=\"L\" data-article-number=\"68\">Les sociétés momentanées</span> d'entrepreneurs sont admises à exécuter des travaux, pour autant que l'un des associés au moins soit agréé en la classe et catégorie ou sous-catégorie requises pour ces travaux ou ait fourni les preuves prévues par l'article 3, § 1er, 2°, et pour autant que les autres associés répondent aux conditions visées à l'article 4, § 1er, 1°, 2°, 3°, 4° et 7°. Les associés ne peuvent en aucun cas faire l'objet d'une exclusion, ou suspension ou d'un retrait d'agréation au sens de l'article 19.\n        </p>\n      </div>\n    </section>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-06-17/18\" data-law-type=\"L\" data-article-number=\"68\">Les sociétés momentanées</span> dont deux associés au moins sont agréés dans la même classe et catégorie ou sous-catégorie ou établissent conformément à l'article 3, § 1er, 2°, qu'ils répondent aux conditions de cette agréation, sont réputées posséder l'agréation requise pour les travaux rangés dans la classe immédiatement supérieure de cette catégorie ou sous-catégorie.\n        </p>\n        <p>\n          La disposition de l'alinéa précédent n'est pas d'application lorsque les associés de <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-06-17/18\" data-law-type=\"L\" data-article-number=\"68\">la société momentanée</span> ne sont agréés que dans la classe la moins élevée.\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.499Z",
+  "tokenUsage": {
+    "prompt": 2171,
+    "completion": 563,
+    "total": 2734
+  }
+}

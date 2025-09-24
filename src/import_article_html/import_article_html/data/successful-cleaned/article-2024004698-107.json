@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024004698",
+  "articleNumber": "107",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-107\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 107</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 158, un paragraphe 3/1 est inséré rédigé comme suit:</p>\n    <section class=\"paragraph\" id=\"para-3-1\">\n      <h3 class=\"paragraph-marker\">§ 3/1.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">En cas d'annulation d'une décision prise conformément à l'article 118, § 3/1, alinéa 1 ou § 7, alinéa 4, d'une décision de placement ou transfèrement visées aux articles 17 et 18 ou d'une décision d'attribution d'un espace de séjour prise à l'égard d'un détenu placé sous un tel régime de sécurité particulier individuel, si la Commission des plaintes ou d'appel estime que le recours est fondé, elle ne peut appliquer que le paragraphe 3, 1° et 3°.</p>\n        <p class=\"closing-text\">Elle mentionne les raisons spécifiques pour lesquelles elle annule complètement ou partiellement la décision attaquée et elle motive également comment sa décision peut être conciliée avec les risques de sécurité mis en avant. Le cas échéant, elle motive sa décision avec les raisons particulières pour lesquelles elle s'écarte de l'avis du procureur fédéral ou des services de renseignement et de sécurité.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.358Z",
+  "tokenUsage": {
+    "prompt": 1871,
+    "completion": 361,
+    "total": 2232
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048600",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 129/1, alinéa 1er, du même Code, inséré par la loi du 25 décembre 2017 et modifié en dernier lieu par la loi programme du 26 décembre 2022, les mots &quot;38, § 1er, alinéa 1er, 9°, c, 14°, a, et 17°, &quot; sont remplacés par les mots &quot;38, § 1er, alinéa 1er, 9°, c, 14°, a, 17° et 29°, &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.501Z",
+  "tokenUsage": {
+    "prompt": 1607,
+    "completion": 213,
+    "total": 1820
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007000663",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>La sécurité civile comprend l'ensemble des mesures et des moyens civils nécessaires pour accomplir les missions visées par la <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-12-21/22\" data-law-type=\"L\" data-article-number=\"65\">loi afin de secourir et de protéger en tous temps les personnes, leurs biens et leur espace de vie.</span></p>\n      <p><span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2021-08-14/01\" data-law-type=\"L\" data-article-number=\"12\">Dès l'entrée en vigueur des dispositions de la loi du 14 auût 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique, les dispositions de la présente loi relatives à la police administrative ne s'appliquent pas aux situations d'urgence épidémiques.</span></p>\n      <p>Les services de la sécurité civile, à l'exception de ce qui concerne les missions des secours médicaux, sanitaires et psychosociaux, sont organisés et structurés conformément aux articles 4 à 6.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.814Z",
+  "tokenUsage": {
+    "prompt": 1979,
+    "completion": 335,
+    "total": 2314
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1976071209",
+  "articleNumber": "76",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-76\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 76</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans le but de contribuer a l'amélioration des structures agraires, la Société nationale terrienne peut acquérir le droit de propriété ou d'occupation de biens ruraux situés dans les communes dans lesquelles des terres font l'objet d'un remembrement simplifié ou d'un échange d'exploitation.</p>\n            <p>Un droit de préemption est attribué à la Société nationale terrienne lors de la vente de biens ruraux visés au premier alinéa sauf dans les cas visés à l'article 56, par. 2, 1, <ol class=\"numbered-provisions\"><li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\"></span></li><li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li><li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\"></span></li><li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li></ol>, de la loi du 22 juillet 1970.</p>\n            <p>En outre, à cet effet, les dispositions des articles 56, par. 2, 2, 3, 4, 5 et 6 et de l'article 57 de la loi du 22 juillet 1970 sont d'application. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"Err. MB. 23-11-1976\" data-law-type=\"Err\" data-article-number=\"MB. 23-11-1976\">&lt;Err. MB. 23-11-1976&gt;</span></p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.756Z",
+  "tokenUsage": {
+    "prompt": 1876,
+    "completion": 438,
+    "total": 2314
+  }
+}

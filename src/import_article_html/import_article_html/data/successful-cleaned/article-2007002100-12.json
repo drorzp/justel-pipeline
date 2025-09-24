@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007002100",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 12</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 588 du même Code, modifié par les lois des 24 juin 1970, 14 juillet 1971, 5 décembre 1984, 11 avril 1989, 4 décembre 1990, 25 février 2003 et 27 décembre 2004, est complété par un 15° et un 16°, libellés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"15°\">\n                    <span class=\"provision-text\">15° les demandes en cessation formées en vertu de l'article 18 de la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie;</span>\n                </li>\n                <li class=\"provision\" data-number=\"16°\">\n                    <span class=\"provision-text\">16° les demandes en cessation formées en vertu de l'article 25 de la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.774Z",
+  "tokenUsage": {
+    "prompt": 1770,
+    "completion": 322,
+    "total": 2092
+  }
+}

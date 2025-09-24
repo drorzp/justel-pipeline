@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042818",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 39, § 1er, de l'arrêté du Gouvernement wallon du 8 juin 2017 portant organisation des contrôle et audit internes budgétaires et comptables ainsi que du contrôle administratif et budgétaire des Services du Gouvernement wallon, des services administratifs à comptabilité autonome, des entreprises régionales, des organismes et du Service du Médiateur et la Commission wallonne pour l'Energie en Région wallonne, aux</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">les mots &quot;, pour lesquelles l'avis préalable de l'inspecteur des Finances est requis conformément aux articles 49 et 50, &quot; sont chaque fois insérés après les mots &quot; qui concernent les subventions facultatives &quot;.</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">les mots &quot;, pour lesquelles l'avis préalable de l'inspecteur des Finances est requis conformément aux articles 49 et 50, &quot; sont chaque fois insérés après les mots &quot; qui concernent les subventions facultatives &quot;.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.766Z",
+  "tokenUsage": {
+    "prompt": 1712,
+    "completion": 362,
+    "total": 2074
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042393",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Si les agriculteurs actifs, visés à l'article 28, premier alinéa,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">demandent des droits au paiement issus de la réserve alors qu'ils n'ont aucun droit au paiement en propriété ou en usage, ils reçoivent un nombre de droits au paiement égal au nombre d'hectares éligibles dont ils disposent à la date limite fixée pour l'introduction de la demande d'attribution.</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">Toutefois, si les agriculteurs actifs, visés à l'article 28, alinéa 1, points:</span>\n            <ol>\n              <li class=\"sub-provision\" data-marker=\"1°\">\n                <span class=\"provision-text\">ont déjà des droits au paiement en propriété ou en usage, ils reçoivent en outre un nombre de droits au paiement égal au nombre d'hectares éligibles qu'ils détiennent à la date limite fixée pour l'introduction de la demande d'attribution et pour lesquels ils n'ont pas de droits au paiement en propriété ou en usage.</span>\n              </li>\n              <li class=\"sub-provision\" data-marker=\"2°\">\n                <span class=\"provision-text\">Si les droits au paiement en propriété et en usage par l'agriculteur actif, mentionné au premier alinéa, ont une valeur inférieure à la moyenne, la valeur unitaire annuelle de ces droits au paiement est augmentée à la moyenne pour cette année.</span>\n              </li>\n            </ol>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.760Z",
+  "tokenUsage": {
+    "prompt": 1963,
+    "completion": 489,
+    "total": 2452
+  }
+}

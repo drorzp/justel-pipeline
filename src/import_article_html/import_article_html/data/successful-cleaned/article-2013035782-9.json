@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035782",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 5, § 1er, deuxième alinéa,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">6°, du même décret, modifié par le décret du 10 décembre 2010, le mot \"principal\" est abrogé. Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge. Bruxelles, le 12 juillet 2013. Le Ministre-Président du Gouvernement flamand, Ministre flamand de l'Economie, de la Politique extérieure, de l'Agriculture et de la Ruralité, K. PEETERS</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.089Z",
+  "tokenUsage": {
+    "prompt": 1625,
+    "completion": 255,
+    "total": 1880
+  }
+}

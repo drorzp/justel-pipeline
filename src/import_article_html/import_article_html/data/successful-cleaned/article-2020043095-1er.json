@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020043095",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'agrément pour exercer les activités d'assurance visées dans l'arrêté royal du 14 novembre 2003 concernant l'octroi d'avantages extra-légaux aux travailleurs salariés visés par l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés et aux personnes visées à l'article 32, alinéa 1er, 1° et 2° du Code des Impôts sur les Revenus 1992, occupées en dehors d'un contrat de travail du Service fédéral des Pensions, sis à l'Esplanade de l'Europe, 1, Tour du Midi, à 1060 Bruxelles, est retiré.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.167Z",
+  "tokenUsage": {
+    "prompt": 1733,
+    "completion": 239,
+    "total": 1972
+  }
+}

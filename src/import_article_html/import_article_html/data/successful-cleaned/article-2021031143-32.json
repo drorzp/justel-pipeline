@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031143",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>L' \" Eigen Vermogen Digitaal Vlaanderen \" est subrogé dans les droits et obligations du SGS ICT, créé par l'article 79 du décret du 22 décembre 2006 contenant diverses mesures d'accompagnement du budget 2007, tel qu'en vigueur au 31 décembre 2020, pour les compétences TIC visées à l'article 6, 4°, et à l'article 12, 2° et 3°, qui y sont transférées.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.122Z",
+  "tokenUsage": {
+    "prompt": 1547,
+    "completion": 176,
+    "total": 1723
+  }
+}

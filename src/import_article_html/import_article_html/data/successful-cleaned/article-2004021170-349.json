@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004021170",
+  "articleNumber": "349",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-349\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 349</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1261 du même Code, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le 2°, inséré par la loi du 30 mars 1994 et modifié par l'arrêté royal du 18 novembre 1996, est remplacé par la disposition suivante : \" 2° les opérations faites pour son propre compte par un intermédiaire visé à l'article 2, 9° et 10°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, par une entreprise d'assurances visée à l'article 2, § 1er, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances, par une institution de prévoyance visée à l'article 2, § 3, 6°, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances, par un organisme de placement collectif ou par un non-résident; \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le 3°, inséré par la loi du 4 décembre 1990 et modifié par l'arrêté royal du 18 novembre 1996, est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le 10°, inséré par la loi du 6 août 1993 et modifié par l'arrêté royal du 18 novembre 1996, est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">le 11°, inséré par la loi du 6 août 1993, est abrogé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">le 12°, inséré par la loi du 24 décembre 1993, est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.777Z",
+  "tokenUsage": {
+    "prompt": 2176,
+    "completion": 565,
+    "total": 2741
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043127",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 42</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la même section 5, il est inséré un article 137/4 rédigé comme suit:</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 137/4.</h3>\n        <div class=\"paragraph-content\">\n          <p>L'obligation d'enregistrement des présences des travailleurs et d'autres personnes physiques sur les lieux de travail où des activités de nettoyage et/ou d'entretien sont effectuées.</p>\n          <p>Est puni d'une sanction de niveau 1:</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">le travailleur, visé à l'article 23, 1° de la loi-programme du 26 décembre 2022 qui, en contravention à l'article 38, alinéa 1er, de la même loi-programme du 26 décembre 2022, se présente sur un lieu de travail et n'effectue pas les enregistrements de débuts et de fins d'activités sur le lieu de travail, ainsi que les enregistrements des intervalles de repos au moment où celles-ci débutent et se terminent;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">l'employeur, l'entrepreneur, le sous-traitant, visés à l'article 23, 2° et 3° de la loi-programme du 26 décembre 2022 qui, en contravention à l'article 38, alinéa 2, de la même loi-programme du 26 décembre 2022, se présente sur un lieu de travail et n'effectue pas les enregistrements de son arrivée et son départ au moment où il arrive et quitte le lieu de travail.</span>\n            </li>\n          </ol>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.867Z",
+  "tokenUsage": {
+    "prompt": 2088,
+    "completion": 498,
+    "total": 2586
+  }
+}

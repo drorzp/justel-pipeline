@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014011395",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour l'application du présent arrêté, on entend par :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">Exploitation agricole : toute entreprise produisant à titre d'activité principale ou secondaire des produits agricoles et/ou horticoles en vue de les vendre ou toute entreprise dont les terres ne sont pas exploitées, mais maintenues dans de bonnes conditions agricoles et environnementales;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">Exploitant : la personne physique, le groupe de personnes physiques ou la personne morale qui assume la responsabilité juridique et économique de l'exploitation agricole;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">Enquête agricole : enquête effectuée auprès des exploitations agricoles qui répondent à la définition 1° et qui introduisent une déclaration de superficie auprès des administrations régionales dans le cadre du Système Intégré de Gestion et de Contrôle et dont l'adresse qui y est enregistrée est située en Belgique.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Lorsque l'enquête touche toutes les exploitations agricoles, il s'agit d'un recensement agricole.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.153Z",
+  "tokenUsage": {
+    "prompt": 1835,
+    "completion": 374,
+    "total": 2209
+  }
+}

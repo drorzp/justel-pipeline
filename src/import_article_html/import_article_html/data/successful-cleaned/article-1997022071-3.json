@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022071",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-10-15/39\" data-law-type=\"AR\" data-article-number=\"2\">&lt;AR 2004-10-15/39, art. 2, 002;<strong>En vigueur :</strong>06-01-2005&gt;</span> La communication de données visée à l'article 2, § 1er, 1° et 3°, ne se fait pas à l'intervention de la Banque-carrefour.\n            </p>\n            <p>\n                La communication de données visée à l'article 2, § 1er, 2°, ne se fait pas à l'intervention de la Banque-carrefour, sauf si la Banque-carrefour intervient elle-même comme institution de gestion du réseau secondaire concerné.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.966Z",
+  "tokenUsage": {
+    "prompt": 1658,
+    "completion": 260,
+    "total": 1918
+  }
+}

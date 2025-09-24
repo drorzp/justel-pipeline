@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999021550",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>La société est soumise aux dispositions légales et réglementaires du droit commercial qui sont applicables aux sociétés anonymes pour autant qu'il n'y soit pas expressément dérogé par ou en vertu de la présente loi ou d'une loi particulière quelconque.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les actes de la société sont réputés commerciaux.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Les articles 13ter, alinéa 1er, 4°, 75, deuxième alinéa, 76, 104bis, § 1er, deuxième alinéa et § 2, 164bis, § 1er, 4°, 7° et 8° et 164ter des lois coordonnées sur les sociétés commerciales, ne sont pas applicables à la société.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>La société n'est pas soumise aux dispositions de la loi du 17 juillet 1997 relative au concordat judiciaire et de la loi du 8 août 1997 sur les faillites.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-5\">\n      <h3 class=\"paragraph-marker\">§ 5.</h3>\n      <div class=\"paragraph-content\">\n        <p>La société bénéficie de l'immunité d'exécution pour les biens entièrement ou partiellement affectés à la mise en oeuvre de ses tâches de service public.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.284Z",
+  "tokenUsage": {
+    "prompt": 2120,
+    "completion": 538,
+    "total": 2658
+  }
+}

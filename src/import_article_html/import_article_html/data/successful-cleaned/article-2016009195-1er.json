@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016009195",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Le service d'appui commun auprès du Collège des procureurs généraux et du Collège du ministère public - ci-après dénommé \" le service d'appui \" - visé à l'article 185 du Code judiciaire comprend divers départements ou services.</p>\n                    <p>Ces Collèges, sur proposition du directeur du service d'appui, définissent l'organisation de ces départements et services et y répartissent les tâches liées à l'accomplissement des missions du service d'appui dans le cadre de piliers dédiés aux compétences visées à l'article 143bis du Code judiciaire et à celles visées à l'article 184, § 1er,:</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"3°\">\n                            <span class=\"provision-text\">du même Code.</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 2.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Un département d'audit interne est organisé de façon à assurer son fonctionnement indépendant, objectif, et méthodologique.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.326Z",
+  "tokenUsage": {
+    "prompt": 1773,
+    "completion": 410,
+    "total": 2183
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019203004",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>L'article 3 du même arrêté royal, modifié par l'arrêté royal du 6 février 2003, est complété par un alinéa rédigé comme suit :</p>\n        <blockquote>\n          <p>\" Par dérogation à l'alinéa 1er, 2°, et à l'exception de l'autorisation de travail délivrée aux employés stagiaires ICT en vue d'un transfert temporaire intragroupe, l'autorisation de travail délivrée aux travailleurs mentionnés à l'article 9,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">4°</span>\n            </li>\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">6°</span>\n            </li>\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">7°</span>\n            </li>\n            <li class=\"provision\" data-number=\"21°\">\n              <span class=\"provision-text\">21°</span>\n            </li>\n            <li class=\"provision\" data-number=\"22°\">\n              <span class=\"provision-text\">22°</span>\n            </li>\n          </ol>\n          <p>est valable pour une période de trois années ou, selon le cas, pour une période égale à la durée d'occupation prévue dans le contrat de travail ou la lettre de mission, si cette durée est inférieure à trois années. \"</p>\n        </blockquote>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.428Z",
+  "tokenUsage": {
+    "prompt": 1948,
+    "completion": 451,
+    "total": 2399
+  }
+}

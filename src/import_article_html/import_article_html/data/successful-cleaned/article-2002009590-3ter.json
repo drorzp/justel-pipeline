@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002009590",
+  "articleNumber": "3ter",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3ter\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3ter</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-03-28/60\" data-law-type=\"L\" data-article-number=\"134\">Le médecin ou le psychologue qui remet un avis dans le cadre de l'application de l'article 3, § 2, 3° et 7°, de l'article 3, § 3, 1° ou de l'article 4, § 2, alinéa 2, 1°, ne peut être puni pour ce seul fait comme auteur ou participant aux infractions visées à l'article 13/3.</span>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.809Z",
+  "tokenUsage": {
+    "prompt": 1662,
+    "completion": 222,
+    "total": 1884
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031888",
+  "articleNumber": "42",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-42\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 42</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 3 du décret du 1er février 2008 réglant l'organisation et le fonctionnement des instances chargées de la coordination et de la gestion des Fonds structurels que l'Union européenne met à la disposition de l'enseignement secondaire, les modifications suivantes sont apportées :</p>\n            <ol class=\"sub-provisions\">\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"sub-provision-text\">le 4° est remplacé par ce qui suit :</span>\n                    <p>\" 4° \" Les opérateurs de la formation professionnelle continue \" : les opérateurs de formation professionnelle continue visés au Livre 6, Titre Ier, du Code de l'enseignement fondamental et de l'enseignement secondaire. \"</p>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"sub-provision-text\">dans les 5° et 8°, les mots \" les opérateurs de formation en cours de carrière \" sont chaque fois remplacés par les mots \" les opérateurs de la formation professionnelle continue \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.209Z",
+  "tokenUsage": {
+    "prompt": 1759,
+    "completion": 318,
+    "total": 2077
+  }
+}

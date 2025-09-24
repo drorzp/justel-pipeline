@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001000818",
+  "articleNumber": "75",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-75\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 75</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsqu'il existe, au regard des articles 40, <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"40\" data-law-type=\"L\" data-article-number=\"1\">1°</span> et <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"40\" data-law-type=\"L\" data-article-number=\"2\">2°</span>, 44, <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"44\" data-law-type=\"L\" data-article-number=\"2\">2°</span> et <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"44\" data-law-type=\"L\" data-article-number=\"4\">4°</span>, ou 53, <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"53\" data-law-type=\"L\" data-article-number=\"2\">2°</span> et <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"53\" data-law-type=\"L\" data-article-number=\"4\">4°</span>, et des missions confiées à l'inspection générale, des motifs graves pour ce faire, l'inspecteur général peut, en tout temps, proposer au Ministre de l'Intérieur de renvoyer un membre du personnel dans un service de la police fédérale. Le renvoi des officiers se fait par Nous.</p>\n        <p>L'inspecteur général en communique les motifs au membre du personnel concerné. Ce dernier dispose d'un délai de quinze jours, débutant le lendemain de la notification, pour introduire un mémoire.</p>\n        <p>Sur base du mémoire précité, l'inspecteur général decide de poursuivre ou d'abandonner la procédure.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.199Z",
+  "tokenUsage": {
+    "prompt": 1705,
+    "completion": 492,
+    "total": 2197
+  }
+}

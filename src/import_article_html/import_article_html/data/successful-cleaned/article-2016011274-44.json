@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016011274",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 44</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article XV.85 du même Code, inséré par la loi du 21 décembre 2013, est complété par les dispositions sous 3° et 4°, rédigées comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">\"3° les entreprises qui ne font pas exécuter l'analyse ou le contrôle par un laboratoire indépendant visé à l'article XV.16/1;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">4° les entreprises qui ne respectent pas une mesure prise en exécution de l'article XV.16/2.\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.237Z",
+  "tokenUsage": {
+    "prompt": 1630,
+    "completion": 255,
+    "total": 1885
+  }
+}

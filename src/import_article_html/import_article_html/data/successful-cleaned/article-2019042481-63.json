@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019042481",
+  "articleNumber": "63",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-63\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 63</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 54, alinéa 2, du même arrêté, est complété par un point 3° et un point 4°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">l'établissement a cessé de classer les bovins abattus ou les porcs abattus ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">l'établissement a fait savoir qu'un classificateur agréé n'est plus actif comme classificateur dans l'établissement.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.499Z",
+  "tokenUsage": {
+    "prompt": 1603,
+    "completion": 239,
+    "total": 1842
+  }
+}

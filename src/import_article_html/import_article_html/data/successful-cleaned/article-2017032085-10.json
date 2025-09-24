@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017032085",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er de l'arrêté du Gouvernement flamand du 21 avril 2006 désignant les membres du personnel chargés de l'établissement, de l'exequatur, du contrôle, de la perception et du recouvrement des redevances GRB, modifié par l'arrêté du Gouvernement flamand du 21 avril 2006, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">il est inséré un point 1° /1 rédigé comme suit : \" 1° /1 agence : l'agence autonomisée interne Flandre Information, visée à l'article 2 de l'arrêté du Gouvernement flamand du 18 mars 2016 portant création de l'agence autonomisée interne Flandre Information, détermination de diverses mesures pour la dissolution sans liquidation de l'AGIV, règlement du transfert des activités et des actifs de l'AGIV à l'agence Flandre Information et détermination du fonctionnement, de la gestion et de la comptabilité des Fonds propres Flandre Information ; \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au point 2°, le membre de phrase \", mentionné à l'article 10 du décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public \"Agentschap voor Geografische Informatie Vlaanderen\" est remplacé par les mots \"de l'agence\" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">aux points 3° et 4°, les mots \" Agentschap voor Geografische Informatie Vlaanderen \" sont remplacés par le mot \" agence \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.714Z",
+  "tokenUsage": {
+    "prompt": 2078,
+    "completion": 491,
+    "total": 2569
+  }
+}

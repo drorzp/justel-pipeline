@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012206527",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 3, C, de l'annexe II du même arrêté, modifié par l'arrêté du Gouvernement flamand du 25 février 2011, il est ajouté un point 15° et un point 16°, rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"15°\">\n          <span class=\"provision-text\">\" le service enregistre la date et la durée de chaque réunion de travail. Ces données sont conservées et centralisées au service;</span>\n        </li>\n        <li class=\"provision\" data-number=\"16°\">\n          <span class=\"provision-text\">\" le service enregistre la date et la durée de chaque réunion de travail de quartier. Ces données sont conservées et centralisées au service.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.170Z",
+  "tokenUsage": {
+    "prompt": 1655,
+    "completion": 262,
+    "total": 1917
+  }
+}

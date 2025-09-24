@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013011500",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">La subvention visée à l'article 1er, § 1er, est imputée au crédit inscrit au budget général des dépenses pour l'année 2013, section 44, division organique 55, et:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">concernant le lauréat visé à l'article 1er, § 1er, 1° allocation de base 14.33.00.05;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">concernant le lauréat visé à l'article 1er, § 1er, 2° et 3° allocation de base 14.43.52.06.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.025Z",
+  "tokenUsage": {
+    "prompt": 1762,
+    "completion": 314,
+    "total": 2076
+  }
+}

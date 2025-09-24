@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009200324",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 9</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté entre en vigueur pour la période en cours, le jour suivant sa publication, pour les articles 1er, 1°, 2°, 3°, 4°, 6° et 7°; 2; 4, 1°, 2° et 4°; 6 et 8.</p>\n      <p class=\"closing-text\">Pour les autres articles, soit les articles 1er, 5°; 3; 4, 3°; 5 et 7, il entre en vigueur au 1er avril 2009.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.926Z",
+  "tokenUsage": {
+    "prompt": 1678,
+    "completion": 207,
+    "total": 1885
+  }
+}

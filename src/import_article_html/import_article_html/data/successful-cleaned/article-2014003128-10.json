@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014003128",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    Sous la pellicule opaque visée à l'article 4 peuvent figurer des indications de contrôle sous toute forme jugée utile par la Loterie Nationale. Lorsque les indications de contrôle reposent sur l'utilisation de chiffres ou de lettres, ceux-ci sont imprimés sous un format et/ou graphisme autre que celui des chiffres ou des lettres éventuellement utilisés comme symboles de jeu. Ces indications ne sont attributives d'aucun lot.\n                </div>\n            </section>\n            <section class=\"paragraph\">\n                <div class=\"paragraph-content\">\n                    A des fins de contrôle, seule la Loterie Nationale est habilitée à gratter les pellicules opaques visées à l'alinéa 1er et à l'article 9, alinéa 1er,\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\"></span></li>\n                        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et 3°.</span></li>\n                    </ol>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.148Z",
+  "tokenUsage": {
+    "prompt": 1752,
+    "completion": 330,
+    "total": 2082
+  }
+}

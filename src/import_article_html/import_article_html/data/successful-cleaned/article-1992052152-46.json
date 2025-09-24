@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992052152",
+  "articleNumber": "46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 46</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Conformément à l'article 71 de la loi de base, lors de la constitution du comité de direction, consécutive à la formation de la société :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le président, le vice-président et les membres de ce comité sont nommés par les membres du conseil d'administration visés à l'article 20, alinéa 2, 2° et 3°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">leur nomination est subordonnée à ratification par arrêté royal délibéré en Conseil des Ministres.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les décisions prises et les actes posés par les membres du comité de direction jusqu'à la notification à la société de la décision intervenue en matière de ratification de leur nomination sont valablement accomplis à l'égard de la société et des tiers.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.096Z",
+  "tokenUsage": {
+    "prompt": 1751,
+    "completion": 318,
+    "total": 2069
+  }
+}

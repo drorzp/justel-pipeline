@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1983004493",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas d'infraction à l'article 5, § 2, la fermeture du débit est prononcée; elle cesse ses effets lorsque l'objet du délit a été enlevé.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas d'infraction à l'article 10 ou aux arrêtés pris pour l'exécution de cet article, la fermeture du débit est prononcée jusqu'au moment ou les conditions prescrites par ces dispositions ou en vertu de celles-ci sont réalisées.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>(abrogé) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-05-17/36\" data-law-type=\"L\" data-article-number=\"15\">&lt;L 2004-05-17/36, art. 15, 007; En vigueur : 14-06-2004&gt;</span></p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas d'infraction à l'article 11, § 1er, 2° à 9°, et en cas d'infraction punie par les articles 24, alinéa 2, et 26, § 1er, 3° et 4°, la fermeture du débit est prononcée.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-5\">\n      <h3 class=\"paragraph-marker\">§ 5.</h3>\n      <div class=\"paragraph-content\">\n        <p>En cas d'infraction à l'article 12, la fermeture du débit est prononcée; elle cesse ses effets lorsque les personnes exclues ne participent plus à l'exploitation du débit.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.678Z",
+  "tokenUsage": {
+    "prompt": 2129,
+    "completion": 595,
+    "total": 2724
+  }
+}

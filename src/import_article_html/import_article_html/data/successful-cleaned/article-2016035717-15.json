@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016035717",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le demandeur démontre qu'il exerce le contrôle sur le bureau de prospection. Le bureau de prospection fait partie du demandeur au point de vue juridique.</p>\n      <p>L'établissement d'un bureau de prospection a surtout comme objectif d'examiner les opportunités d'écouler les biens ou services du demandeur au travers de contacts avec des clients, distributeurs, agents, potentiels. La création d'une unité de production ou une vente dans le commerce de détail ne relève pas du champ d'application de l'établissement d'un bureau de prospection.</p>\n      <p>Le frais de déplacement et de séjour visés à l'article 14, alinéa 1er, 3° et 4°, sont fixés forfaitairement conformément à l'article 8.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.235Z",
+  "tokenUsage": {
+    "prompt": 1673,
+    "completion": 244,
+    "total": 1917
+  }
+}

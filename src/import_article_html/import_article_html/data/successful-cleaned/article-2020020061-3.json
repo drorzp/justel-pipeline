@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020020061",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 10.2.2.1 du même arrêté, l'alinéa deux est remplacé par ce qui suit :</p>\n            <p class=\"intro-text\">\" La restriction, visée à l'alinéa premier, 2° et 3°, ne s'applique pas au transport à partir d'une exploitation vers la même exploitation ou vers une autre exploitation qui fait partie de la même entreprise.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.218Z",
+  "tokenUsage": {
+    "prompt": 1566,
+    "completion": 173,
+    "total": 1739
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014031461",
+  "articleNumber": "143",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-143\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 143</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 49 de la même ordonnance, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive, les modifications suivantes sont apportées :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">dans la phrase introductive, les mots \" d'un emprisonnement de un à vingt-quatre mois et d'une amende de 125 à 25.000 euros, ou d'une de ces peines seulement \" sont remplacés par les mots \" de la peine prévue à l'article 31, § 1er, du Code de l'inspection, la prévention, la constatation et la répression des infractions en matière d'environnement et de la responsabilité environnementale \";</li>\n            <li class=\"sub-provision\" data-marker=\"b)\">les points 7° et 8° sont abrogés;</li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">un alinéa 2 est ajouté, rédigé comme suit :</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\" Le montant minimum de l'amende est doublé lorsque les déchets sont des déchets dangereux.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.328Z",
+  "tokenUsage": {
+    "prompt": 1846,
+    "completion": 383,
+    "total": 2229
+  }
+}

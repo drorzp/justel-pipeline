@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1978080401",
+  "articleNumber": "142",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-142\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 142</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>(Voir note sous titre V.) Pour les infractions prévues à l'article 141, 1°, 2°, 3°, 4° et 5°, l'amende sera multipliée par le nombre de personnes pour lesquelles ces dispositions ont été violées sans que cette amende puisse excéder 50 000 francs.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.694Z",
+  "tokenUsage": {
+    "prompt": 1491,
+    "completion": 148,
+    "total": 1639
+  }
+}

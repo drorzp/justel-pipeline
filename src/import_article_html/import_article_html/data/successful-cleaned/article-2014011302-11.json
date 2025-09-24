@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014011302",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 11</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 34 du même arrêté, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au 1°, le mot \" bureaux \" est remplacé par les mots \" bureaux de poste \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au 2°,</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"a)\">\n                            <span class=\"provision-text\">les mots \" 90 % \" sont remplacés par les mots \" 93 % \";</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les dispositions des points 4° et 5° sont abrogées.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.152Z",
+  "tokenUsage": {
+    "prompt": 1664,
+    "completion": 305,
+    "total": 1969
+  }
+}

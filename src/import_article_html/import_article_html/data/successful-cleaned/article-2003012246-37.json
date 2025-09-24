@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003012246",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le salaire du marin pêcheur doit être payé en monnaie ayant cours légal en Belgique, sauf convention contraire entre les parties. Aucune partie du salaire ne peut être payée en nature.</p>\n        <p>Le contrat d'engagement ne peut comporter aucune clause permettant à l'armateur d'imposer au marin pêcheur des conditions l'empêchant de disposer librement de son salaire.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Lorsque le paiement est effectué en espèces, celui-ci ne peut avoir lieu :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">ni dans une cantine, dans un local où sont vendues des boissons, des denrées alimentaires ou d'autres marchandises;</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">ni dans un lieu de divertissement;</span>\n          </li>\n          <li class=\"provision\" data-number=\"3°\">\n            <span class=\"provision-text\">ni dans des locaux attenant aux établissements visés aux points 1° et 2° ou dans des annexes de ceux-ci.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.847Z",
+  "tokenUsage": {
+    "prompt": 1859,
+    "completion": 430,
+    "total": 2289
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999024090",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 43, § 2,2°, a), 1°, 2° et 3° de l'arrêté ministériel du 2 août 1986 précité, les mots (\"50 %\" \"50 %\" \"25 %\" et \"25 %\") sont respectivement remplacés par (\"40 %\", \"60 %\" \"30 %\" et \"30 %\".) <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"M.B.\" data-law-type=\"M.B.\">Erratum, voir M.B. 30.03.2000, p. 10003</span></p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.280Z",
+  "tokenUsage": {
+    "prompt": 1574,
+    "completion": 208,
+    "total": 1782
+  }
+}

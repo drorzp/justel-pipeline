@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1968092752",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La compétence judiciaire prévue à l'article 6,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et à l'article 10, pour la demande en garantie ou la demande en intervention, ne peut être invoquée dans la République Fédérale d'Allemagne. Dans cet Etat, toute personne domiciliée sur le territoire d'un autre Etat contractant peut être appelée devant les tribunaux en application des articles 68 et 72, 73 et 74 du Code de procédure civile concernant la litis denunciatio.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">Les décisions rendues dans les autres Etats contractants en vertu de l'article 6,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et de l'article 10 sont reconnues et exécutées dans la République Fédérale d'Allemagne, conformément au titre III. Les effets produits à l'égard des tiers, en application des articles 68 et 72, 73 et 74 du Code de procédure civile, par des jugements rendus dans cet Etat, sont également reconnus dans les autres Etats contractants.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.547Z",
+  "tokenUsage": {
+    "prompt": 1849,
+    "completion": 375,
+    "total": 2224
+  }
+}

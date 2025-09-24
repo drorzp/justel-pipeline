@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023030390",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article premier de l'Arrêté royal du 17 octobre 2011 relatif à la protection physique des matières nucléaires et des installations nucléaires, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">la définition de l'agression est complétée par les mots : \" et tous autres actes incriminés aux articles 331bis, 1° et 2°, 477, 477bis à 477sexies, 488bis, 488quater et 488quinquies du Code pénal, pour autant qu'ils concernent des matières, des installations ou des entreprises de transports nucléaires; \"</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les définitions suivantes, rédigées comme suit, sont ajoutées :</span>\n          <ul>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">services de police: les services de police visés par la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"-\">\n              <span class=\"sub-provision-text\">culture de sécurité nucléaire : l'ensemble des caractéristiques, des attitudes et des comportements qui contribuent ou renforcent les mesures visant à empêcher, à détecter et à intervenir en cas d'agression.</span>\n            </li>\n          </ul>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.713Z",
+  "tokenUsage": {
+    "prompt": 1938,
+    "completion": 439,
+    "total": 2377
+  }
+}

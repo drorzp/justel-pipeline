@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036221",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 13, § 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">4°, et § 3 du même décret, les mots &quot;autorité administrative&quot; sont chaque fois remplacés par les mots &quot;instance administrative&quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.726Z",
+  "tokenUsage": {
+    "prompt": 1504,
+    "completion": 186,
+    "total": 1690
+  }
+}

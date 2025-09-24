@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035450",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Sans préjudice des tâches de l'<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-03-18/17\" data-law-type=\"AGF\" data-article-number=\"19\">Agence</span>, fixées par ou en vertu d'autres décrets, l'<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-03-18/17\" data-law-type=\"AGF\" data-article-number=\"19\">Agence</span> est également chargée des tâches suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le développement, la libération, la gestion, la fourniture de services et l'établissement des conditions d'utilisation de la GIPOD ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le contrôle de l'enregistrement d'une personne physique ou morale pour l'accès à la GIPOD, ainsi que, le cas échéant, la modification, la suspension ou l'abrogation de l'enregistrement.</span>\n                </li>\n            </ol>\n            <p class=\"intro-text\">Le Gouvernement flamand peut arrêter des modalités pour les tâches, visées à l'alinéa premier, 1° et 2°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.333Z",
+  "tokenUsage": {
+    "prompt": 1885,
+    "completion": 394,
+    "total": 2279
+  }
+}

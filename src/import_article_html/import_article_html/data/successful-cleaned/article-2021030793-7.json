@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021030793",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 36 de la même loi est complété par les 21° et 22°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"21°\">\n                    <span class=\"provision-text\">contrevient à l'article 11bis de la présente loi ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"22°\">\n                    <span class=\"provision-text\">utilise des pièges à colle destinés aux vertébrés.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.123Z",
+  "tokenUsage": {
+    "prompt": 1547,
+    "completion": 212,
+    "total": 1759
+  }
+}

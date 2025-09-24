@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994927595",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 12, § 6, alinéa 2, a), du même arrêté, y inséré par l'arrêté de l'Exécutif régional wallon du 3 décembre 1992 et modifié par l'arrêté du Gouvernement wallon du 3 février 1994, les mots &quot; dans le cas visé à l'alinéa 1er, 1°, &quot; sont remplacés par les mots &quot; dans les cas visés à l'alinéa 1er, 1° et 5° &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.958Z",
+  "tokenUsage": {
+    "prompt": 1599,
+    "completion": 209,
+    "total": 1808
+  }
+}

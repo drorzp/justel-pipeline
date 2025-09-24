@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1985022014",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Il est accordé aux mineurs, qui, au 1er janvier 1985 bénéficient d'un pension d'invalidité à charge du régime des pensions d'invalidité pour mineurs, une prime de rattrapage. Cette prime est égale à :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"a)\">\n            <span class=\"provision-text\">3 000 F s'il s'agit d'un bénéficiaire qui bénéficie d'une pension d'invalidité fixée en application de l'article 4, § 1er, 1° et 2° de l'arrêté royal du 19 novembre 1970 concernant les pensions d'invalidité pour mineurs.</span>\n          </li>\n          <li class=\"provision\" data-number=\"b)\">\n            <span class=\"provision-text\">2 000 F s'il s'agit d'un autre bénéficiaire.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Toutefois, le montant de cette prime ne peut être supérieur à 12 p.c. de la pension d'invalidité du mois de mars 1985 et ne peut en outre être supérieur à la différence entre le montant de 306 000 F pour le titulaire visé au § 1er, a, et de 204 000 F pour le titulaire visé au § 1er, b, et le montant annuel de la pension d'invalidité au 1er janvier 1985.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>Sans porter préjudice aux dispositions des paragraphes précédents, la prime est fixée à 1 000 F pour les époux séparés de fait ou de corps qui perçoivent un tiers de la pension accordée aux bénéficiaires visés au § 1er, a.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.515Z",
+  "tokenUsage": {
+    "prompt": 2155,
+    "completion": 585,
+    "total": 2740
+  }
+}

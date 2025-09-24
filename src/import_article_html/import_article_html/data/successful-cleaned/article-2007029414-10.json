@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007029414",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Seuls les membres titulaires et ordinaires visés à l'article 4,:</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">et</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">ont le droit de vote. Ce droit est réservé aux seuls membres titulaires lorsque l'Académie réunie en comité secret, traite de toute question concernant des personnes, notamment pour l'élection de nouveaux membres titulaires, portant sur l'avenir et la gestion de l'Académie ou visant toute modification des statuts et/ou règlement d'ordre intérieur.</span>\n          </li>\n        </ol>\n        <p>Les membres titulaires et ordinaires accédant à l'honorariat peuvent, dans les trois mois solliciter le maintien de leur droit de vote, pour autant qu'ils s'engagent à participer activement et régulièrement aux activités de l'Académie.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.963Z",
+  "tokenUsage": {
+    "prompt": 1704,
+    "completion": 329,
+    "total": 2033
+  }
+}

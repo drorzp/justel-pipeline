@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019201479",
+  "articleNumber": "25",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-25\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 25</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans même Titre VI, il est inséré un article 410/4, rédigé comme suit : \" Art. 410/4. Le prix de location de la chambre visé à l'article 410/3 est composé de trois parties calculées de façon forfaitaire :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le prix à la construction qui vise le financement théorique des charges liées aux constructions, aux reconstructions, aux extensions, transformations, reconditionnements et reconversions;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le prix du matériel et des équipements qui vise le financement théorique des charges liées à l'achat des équipements;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le prix des coûts liés à la pré-exploitation et aux charges financières engendrés par les différentes parties du prix qui doivent être préfinancées selon des cycles de vies différents en fonction des parties visées aux 1° et 2°.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.419Z",
+  "tokenUsage": {
+    "prompt": 1799,
+    "completion": 350,
+    "total": 2149
+  }
+}

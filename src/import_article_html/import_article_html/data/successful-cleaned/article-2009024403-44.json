@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009024403",
+  "articleNumber": "44",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-44\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 44</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 2, § 2, de l'arrêté royal du 16 janvier 2006 fixant les modalités des agréments, des autorisations et des enregistrements préalables délivrés par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire, est complété par les dispostions sous 8° et 9°, rédigé comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"8°\">\n                    <span class=\"provision-text\">aux installations fermées détenant des animaux aquatiques ornementaux;</span>\n                </li>\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">aux aquariums de type non commercial élevant des animaux aquatiques ornementaux.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.941Z",
+  "tokenUsage": {
+    "prompt": 1665,
+    "completion": 268,
+    "total": 1933
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007003050",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 10</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>L'agent obtient les augmentations de traitement ainsi que, jusqu'à la classe A3, les promotions, \n                        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-05-31/05\" data-law-type=\"AR\" data-article-number=\"8\">...</span>\n                        les changements de grade ou les mutations auxquels il peut prétendre, au moment où il les obtiendrait ou les aurait obtenus s'il était resté dans son service.\n                    </p>\n                    <p>L'agent qui a obtenu une promotion, \n                        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-05-31/05\" data-law-type=\"AR\" data-article-number=\"8\">...</span>\n                        un changement de grade, ou une mutation est maintenu à disposition du procureur du Roi ou de l'auditeur du travail, sans préjudice toutefois de l'application de l'article 16, § 1er, alinéa 1er, 1° et alinéa 2.\n                    </p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.770Z",
+  "tokenUsage": {
+    "prompt": 1826,
+    "completion": 358,
+    "total": 2184
+  }
+}

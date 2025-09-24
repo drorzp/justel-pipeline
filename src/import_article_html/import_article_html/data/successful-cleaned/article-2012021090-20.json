@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012021090",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 20</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>L'article 60 du même arrêté, dont le texte actuel formera le paragraphe 1er, est complété comme suit :</p>\n    <p>\" Pour les procédures de sélection et de recrutement visées à l'alinéa précédent, au moment de l'entrée en service de l'agent concerné, le jury se prononce sur la durée de l'activité scientifique antérieure au recrutement de l'intéressé qui pourrait entrer en ligne de compte pour le calcul de l'ancienneté scientifique conformément à l'article 7, § 2, 2° et 3°.</p>\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Par dérogation à l'article 30 du présent arrêté, le candidat recruté comme stagiaire dans le cadre d'une procédure visée au § 1er et qui, au moment de sa confirmation, est titulaire du titre de docteur et compte au moins quatre ans d'ancienneté scientifique, peut être confirmé directement dans la classe SW2 de la carrière du personnel scientifique de l'Etat, moyennant l'avis favorable et motivé du jury. Il porte le titre de chef de travaux et obtient l'échelle de traitement liée à ce titre. \"</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.188Z",
+  "tokenUsage": {
+    "prompt": 1864,
+    "completion": 348,
+    "total": 2212
+  }
+}

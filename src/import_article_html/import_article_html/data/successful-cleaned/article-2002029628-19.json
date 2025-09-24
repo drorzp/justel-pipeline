@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002029628",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Un 10° et un 11°, rédigés comme suit, sont insérés dans l'article 19, § 1er, du même décret :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"10°\">\n            <span class=\"provision-text\">la concertation préalable à l'adoption de dispositions réglementaires ou au dépôt de projets de décret par le Gouvernement ayant trait à des questions relatives au personnel de l'entreprise;</span>\n          </li>\n          <li class=\"provision\" data-number=\"11°\">\n            <span class=\"provision-text\">l'examen de tout dossier relatif à l'accomplissement des dispositions du contrat de gestion.</span>\n          </li>\n        </ol>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.746Z",
+  "tokenUsage": {
+    "prompt": 1637,
+    "completion": 266,
+    "total": 1903
+  }
+}

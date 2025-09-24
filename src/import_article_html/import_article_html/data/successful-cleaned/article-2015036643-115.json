@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015036643",
+  "articleNumber": "115",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-115\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 115</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>A l'article 5.1.2, § 1er, deuxième alinéa, du même code, modifié par le décret du 25 avril 2014, les points 9° et 10° sont remplacés par les dispositions suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"9°\">\n                    <span class=\"provision-text\">la mention de chaque sommation écrite, de chaque procès-verbal et de chaque rapport de constat qui est rédigé relativement à des délits et à des infractions en matière d'aménagement du territoire, ainsi que tout procès-verbal subséquent dans lequel le rétablissement volontaire ou la régularisation est constaté(e), la suite qui est donnée aux procès-verbaux et aux rapports de constat, tout jugement, et toute décision administrative, ainsi que tout règlement amiable en la matière et l'exécution des mesures de réparation, ainsi que toute attestation de réparation ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"10°\">\n                    <span class=\"provision-text\">la mention de toute voie de droit qui excipe des jugements et des décisions administratives, mentionnées au point 9°, des jugements et décisions ultérieures, ainsi que de la suite qui y est donnée ;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.191Z",
+  "tokenUsage": {
+    "prompt": 1870,
+    "completion": 370,
+    "total": 2240
+  }
+}

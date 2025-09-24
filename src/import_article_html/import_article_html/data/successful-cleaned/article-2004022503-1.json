@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004022503",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">L'article 1er, 9°, de l'arrêté royal du 4 avril 2003 portant exécution de l'article 37quater de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, pour les dispensateurs de soins visés à l'article 34, alinéa 1er, 11° et 12°, de la même loi, est remplacé par la disposition suivante:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"9°\">\n                        <span class=\"provision-text\">&quot; arrêté ministériel du 6 novembre 2003 &quot;: l'arrêté ministériel du 6 novembre 2003 fixant le montant et les conditions d'octroi de l'intervention visée à l'article 37, § 12, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, dans les maisons de repos et de soins et dans les maisons de repos pour personnes âgées.</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>L'article 1er, 10°, du même arrêté est abrogé.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.774Z",
+  "tokenUsage": {
+    "prompt": 1967,
+    "completion": 424,
+    "total": 2391
+  }
+}

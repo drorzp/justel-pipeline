@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004014133",
+  "articleNumber": "21",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-21\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 21</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les chartes établies en vertu de l'article 7, 4° et 5°, fixent des normes de qualité pour les usagers et les passagers de l'aéroport de Bruxelles-National, au moins en ce qui concerne les aspects suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la disponibilité, la propreté et la qualité des équipements essentiels aux passagers au sein des installations aéroportuaires;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">la disponibilité et la qualité des services de transport mis à disposition des passagers (entre les étages, entre les terminaux, pour le transport des bagages, etc.);</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">la disponibilité et la qualité des informations nécessaires et utiles aux passagers (entre autres, les informations sur les vols ou les objets perdus);</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">le temps d'attente à l'enregistrement et au contrôle de sûreté des passagers et de leurs bagages;</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">le temps d'attente à la réception des bagages;</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">le taux de satisfaction d'accostage des avions pour passagers.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.661Z",
+  "tokenUsage": {
+    "prompt": 1946,
+    "completion": 464,
+    "total": 2410
+  }
+}

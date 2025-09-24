@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019202187",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 27 de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage, sont insérés un 19° et un 20°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"19°\">\n                    <span class=\"provision-text\">demandeur d'emploi non mobilisable : le demandeur d'emploi que le service de l'emploi compétent identifie au moyen de l'outil de screening internationalement reconnu ICF - International Classification of Functioning, Disability and Health - et reconnaît comme étant confronté à une combinaison de facteurs psycho-médico-sociaux qui affectent durablement sa santé et/ou son intégration sociale ou professionnelle, avec comme conséquence qu'il n'est pas en mesure de travailler dans le circuit économique normal ou dans le cadre d'un travail adapté ou encadré, rémunéré ou non. Le statut de demandeur d'emploi non mobilisable est accordé pour une période de deux ans et est renouvelable moyennant une nouvelle évaluation au moyen de l'outil de screening ICF. L'outil de screening ICF, cité ci-dessus, concerne l'outil qui est utilisé par les services régionaux compétents de l'emploi, et qui vise à identifier les demandeurs d'emploi non mobilisable;</span>\n                </li>\n                <li class=\"provision\" data-number=\"20°\">\n                    <span class=\"provision-text\">allocation de sauvegarde : l'allocation qui est octroyée au demandeur d'emploi non mobilisable visé au 19° à l'expiration du droit aux allocations d'insertion.</span>\n                </li>\n            </ol>\n            <p>Pour l'application du présent arrêté, l'allocation de sauvegarde est assimilée à une allocation de chômage complet.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.419Z",
+  "tokenUsage": {
+    "prompt": 2053,
+    "completion": 465,
+    "total": 2518
+  }
+}

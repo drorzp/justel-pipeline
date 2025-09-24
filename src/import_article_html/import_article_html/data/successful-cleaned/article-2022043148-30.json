@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022043148",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 30</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 7.1.11, § 2, alinéa 1er, du même décret, remplacé par le décret du 13 juillet 2012 et modifié par le décret du 22 décembre 2017, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le point 14° est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"14°\">\n              <span class=\"provision-text\">0,112 si l'année n est égale à 2019 à 2025</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il est ajouté les points 15° et 16°, rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"15°\">\n              <span class=\"provision-text\">0,129 si l'année n est égale à 2026 à 2031</span>\n            </li>\n            <li class=\"provision\" data-number=\"16°\">\n              <span class=\"provision-text\">0,112 si l'année n est égale à 2032 et au-delà</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.874Z",
+  "tokenUsage": {
+    "prompt": 1877,
+    "completion": 416,
+    "total": 2293
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021034093",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 16</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 63 du même arrêté, modifié par les arrêtés du Gouvernement flamand des 2 octobre 2015 et 21 avril 2017, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'alinéa premier, 1° est complété par la phrase suivante : \" Cette séance a lieu dans un délai d'ordre de vingt jours, qui commence à courir le lendemain de la mise en état du dossier ; \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le troisième alinéa, 1° et 2°, les mots \" éventuellement \" et \" éventuelles \", respectivement, sont abrogés ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">dans le troisième alinéa, 2°, les mots \" la requête en intervention \" sont remplacés par les mots \" l'exposé écrit sur la suspension requise \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.201Z",
+  "tokenUsage": {
+    "prompt": 1786,
+    "completion": 345,
+    "total": 2131
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007033073",
+  "articleNumber": "73",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-73\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 73</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le présent chapitre s'applique :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux membres du personnel de la catégorie du personnel directeur et enseignant, du personnel éducatif et du personnel paramédical des <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2010-06-28/08\" data-law-type=\"DCG\" data-article-number=\"105\">écoles fondamentales et secondaires, ordinaires et spécialisées</span>, de l'enseignement organisé ou subventionne par la Communauté germanophone, à l'exception des membres du personnel directeur et enseignant qui exercent une fonction de sélection ou de promotion dans une école fondamentale d'application;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au personnel technique des centres PMS organisés ou subventionnés par la Communauté germanophone;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\"><span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2015-06-29/19\" data-law-type=\"DCG\" data-article-number=\"111\">aux membres du personnel du centre pour le développement sain des enfants et des jeunes;</span></span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\"><span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2015-06-29/19\" data-law-type=\"DCG\" data-article-number=\"111\">aux pouvoirs organisateurs des établissements d'enseignement ou centres PMS où sont occupés les membres du personnel visés aux 1° à 3° et où des étudiants sont encadrés conformément au présent chapitre.</span></span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.120Z",
+  "tokenUsage": {
+    "prompt": 2117,
+    "completion": 517,
+    "total": 2634
+  }
+}

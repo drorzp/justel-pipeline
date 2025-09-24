@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021034423",
+  "articleNumber": "24",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-24\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 24</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 13, alinéa 1er du même arrêté royal, les mots \" Les dispositions de l'article 12, § 1er, alinéa 1er, 1° et 2°, et § 4 \" sont remplacés par les mots \" Les dispositions de l'article 12, § 1er, alinéa 1er, 1° et 2°, §§ 2 à 4 et de l'article 12/2 \" et les mots \" du CDE, et les dispositions de l'article 12, § 1er, alinéa 1er, 2°, et § 4 \" sont remplacés par les mots \" du CDE, et les dispositions des articles 12/1 et 12/2 \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.204Z",
+  "tokenUsage": {
+    "prompt": 1781,
+    "completion": 249,
+    "total": 2030
+  }
+}

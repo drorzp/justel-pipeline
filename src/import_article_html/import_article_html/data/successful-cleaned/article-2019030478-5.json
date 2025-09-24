@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019030478",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 2, § 1er, alinéa unique, de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé, modifié par la loi du 11 mars 2018, est complété par les dispositions 21° et 22°, libellées comme suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"21°\"><span class=\"provision-text\">\"PME\": une petite ou moyenne entreprise telle que visée à l'article 2/1;</span></li>\n        <li class=\"provision\" data-number=\"22°\"><span class=\"provision-text\">\"grande entreprise\": toute personne physique ou morale à l'exception des PME.\"</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.432Z",
+  "tokenUsage": {
+    "prompt": 1661,
+    "completion": 264,
+    "total": 1925
+  }
+}

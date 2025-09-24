@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009A35738",
+  "articleNumber": "7.6.1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7-6-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7.6.1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2024-05-17/29\" data-law-type=\"DCFL\" data-article-number=\"107\">Une copie du premier registre des plans est envoyée au département.</span>. Dans l'année qui suit, <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-04/05\" data-law-type=\"DCFL\" data-article-number=\"73\">le département</span> prend une décision motivée concernant la déclaration de conformité du registre des plans et il communique cette décision au Collège des bourgmestre et échevins, à la Députation permanente et au Gouvernement flamand dans les dix jours suivant la décision.\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <div class=\"paragraph-content\">\n          En dérogation au premier alinéa, combiné avec l'article 5.1.1, la commune peut établir un projet de registre des plans n'incluant pas encore les données de l'article 5.1.1, § 1er, premier alinéa,\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">et l'envoyer <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-04/05\" data-law-type=\"DCFL\" data-article-number=\"73\">au département</span></span>\n            </li>\n          </ol>\n          . La commune indique dans ce cas dans quel délai ces données seront complétées.\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.284Z",
+  "tokenUsage": {
+    "prompt": 2106,
+    "completion": 472,
+    "total": 2578
+  }
+}

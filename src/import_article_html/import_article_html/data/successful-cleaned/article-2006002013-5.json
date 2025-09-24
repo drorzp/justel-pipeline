@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006002013",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        L'article 70bis, § 2, alinéa 4, du même arrêté, remplacé par l'arrêté royal du 10 août 2005, est remplacé par la disposition suivante:\n      </p>\n      <p class=\"intro-text\">\n        \" Le titulaire de la fonction de management -1 auprès de l'Institut ou son délégué délivre les certificats sanctionnant la validation des acquis. Dans les cas visés à l'alinéa 2, 2° et 3°, il se base sur les documents produits par les formateurs à l'issue de la formation certifiée.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.867Z",
+  "tokenUsage": {
+    "prompt": 1617,
+    "completion": 217,
+    "total": 1834
+  }
+}

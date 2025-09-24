@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013007185",
+  "articleNumber": "281",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-281\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 281</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 190 de la même loi est complété par les 5° et 6° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">\"en service intensif\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">\"en appui militaire\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.019Z",
+  "tokenUsage": {
+    "prompt": 1520,
+    "completion": 196,
+    "total": 1716
+  }
+}

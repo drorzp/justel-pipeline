@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003003379",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour pouvoir participer au concours de recrutement, les candidats doivent :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">satisfaire aux conditions de l'article 3, 1°, 2°, 3° et 4° au plus tard le jour où les inscriptions au concours de recrutement sont clôturées;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-05-03/23\" data-law-type=\"AR\" data-article-number=\"9\">être porteur d'un diplôme ou d'un certificat d'études correspondant au niveau A de l'annexe de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat</span>\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">justifier d'au moins 2 ans d'expérience professionnelle utile.</span>\n        </li>\n      </ol>\n      <p class=\"intro-text\">La condition visée au 3° est vérifiée par le Conseil.</p>\n      <p class=\"closing-text\">\n        <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-05-03/23\" data-law-type=\"AR\" data-article-number=\"9\">Le directeur général de la Direction générale Recrutement et Développement du SPF BOSA</span> vérifie si les autres conditions sont remplies.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.837Z",
+  "tokenUsage": {
+    "prompt": 1964,
+    "completion": 455,
+    "total": 2419
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1992012105",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Selon la catégorie de groupes à risque à laquelle appartiennent les intéressés, les attestations visées à l'article 4, c), du présent arrêté sont délivrées par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">le Bureau régional du chômage de l'Office national de l'Emploi, en ce qui concerne les demandeurs d'emploi et les périodes visés à l'article 155 de la loi et à l'article 1er, § 1er, 1° et 5°, et § 2, 1°, 4°, 5°, 6° et 7°, de l'arrêté royal;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le fonds communautaire concerné chargé de l'intégration sociale des handicapés, en ce qui concerne les demandeurs d'emploi au sens de l'article 1er, § 1er, 2°, de l'arrêté royal. Est fournie une copie de la notification de l'enregistrement de l'intéressé à ce fonds ou, à défaut, de la carte de cet enregistrement;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le Centre public d'aide sociale, en ce qui concerne les personnes et les périodes visées à l'article 1er, 3°, et § 2, 2° et 3°, de l'arrêté royal;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les demandeurs d'emploi visés à l'article 1er, § 1er, 4°, de l'arrêté royal. Ils produisent une déclaration sur l'honneur dont le modèle figure en annexe 3.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.086Z",
+  "tokenUsage": {
+    "prompt": 2076,
+    "completion": 510,
+    "total": 2586
+  }
+}

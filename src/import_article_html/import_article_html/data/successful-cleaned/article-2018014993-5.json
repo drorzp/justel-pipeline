@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018014993",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Dans l'article XI.191/1, § 1er, du même Code, inséré par la loi du 22 décembre 2016, les mots <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-12-22\" data-law-type=\"L\" data-article-number=\"1\">\"XI.190, 2°, 2/1°, 10°, 12°, 13°, 15°, 16° et 17°\"</span> sont remplacés par les mots <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2016-12-22\" data-law-type=\"L\" data-article-number=\"2\">\"XI.190, 2°, 2/1°, 10°, 12°, 13°, 15°, 16°, 17°, 18° et 19°\"</span>.\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.707Z",
+  "tokenUsage": {
+    "prompt": 1667,
+    "completion": 305,
+    "total": 1972
+  }
+}

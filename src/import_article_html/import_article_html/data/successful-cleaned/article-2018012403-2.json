@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012403",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\"><span class=\"footnote footnote-reference\" data-footnote-id=\"2\">Art.</span>. L'article 1er, 1° et 2°, du même arrêté est remplacé par ce qui suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le fonctionnaire dirigeant : la personne qui est à la tête du Département des Affaires étrangères ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">l'arrêté du 9 décembre 2016 : l'arrêté du Gouvernement flamand du 9 décembre 2016 relatif au subventionnement de stages auprès des organisations internationales ;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.692Z",
+  "tokenUsage": {
+    "prompt": 1623,
+    "completion": 259,
+    "total": 1882
+  }
+}

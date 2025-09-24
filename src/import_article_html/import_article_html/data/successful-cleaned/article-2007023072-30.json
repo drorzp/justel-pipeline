@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007023072",
+  "articleNumber": "30",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-30\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 30</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er juillet 2007, sauf l'article 6 qui produit ses effets le 1er janvier 2007, l'article 25 qui produit ses effets le 1er décembre 2005, l'article 26,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">qui produit ses effets le 1er janvier 2006 et l'article 27 qui produit ses effets le 1er février 2004.</span></li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.954Z",
+  "tokenUsage": {
+    "prompt": 1602,
+    "completion": 236,
+    "total": 1838
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003035546",
+  "articleNumber": "9",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-9\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\"><strong>ARTICLE</strong>[Art.] [9].</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Le Ministre élabore une procédure de convocation pour les membres visés à l'article 8, § 1er, 1° et 2°, et décide qui siégera dans le Conseil. Les membres du Conseil ne peuvent avoir un lien de parenté du premier degré, ni quelque lien juridique ou économique avec une instance de certification.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.720Z",
+  "tokenUsage": {
+    "prompt": 1504,
+    "completion": 159,
+    "total": 1663
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023020122",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 29bis, § 1er, de la même loi, inséré par la loi du 27 mai 2005 et modifié en dernier lieu par la loi du 13 juillet 2017, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au 2°, les mots \"à l'exception des décisions visées à l'article 29ter\" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le paragraphe 1er est complété par les 12° et 13° rédigés comme suit:</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"12°\">\n              <span class=\"provision-text\">les décisions de la commission prises en application de l'article 30 de la loi du 23 octobre 2022 modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et portant transposition de la directive (UE) 2019/944 du Parlement européen et du Conseil du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité et modifiant la directive 2012/27/UE;</span>\n            </li>\n            <li class=\"provision\" data-number=\"13°\">\n              <span class=\"provision-text\">les décisions prises en application du code de bonne conduite et celles prises en application de l'article 23, § 2, alinéa 2, </span>\n              <ol class=\"numbered-provisions\">\n                <li class=\"sub-provision\" data-marker=\"9° bis\">\n                  <span class=\"provision-text\">relatives au contrôle du code de bonne conduite, à l'exception des décisions visées à l'article 29ter.\".</span>\n                </li>\n              </ol>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.836Z",
+  "tokenUsage": {
+    "prompt": 2079,
+    "completion": 531,
+    "total": 2610
+  }
+}

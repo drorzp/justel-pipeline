@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023046601",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Pour le domaine des arts plastiques, visuels et de l'espace, les critères fixés aux articles 4, § 3, 1°, 2°, 8, § 1er, 1° et 3°, et 9 du décret du 2 juin 1998 précité sont définis à l'annexe 1redu présent arrêté.</p>\n      <p>Pour le domaine de la musique, les critères fixés aux articles 4, § 3, 1°, 2°, 8, § 1er, 1° et 3°, et 9 du décret du 2 juin 1998 précité sont définis à l'annexe 2 du présent arrêté.</p>\n      <p>Pour le domaine des arts de la parole et du théâtre, les critères fixés aux articles 4, § 3, 1°, 2°, 8, § 1er, 1° et 3°, et 9 du décret du 2 juin 1998 précité sont définis à l'annexe 3 du présent arrêté.</p>\n      <p>Pour le domaine de la danse, les critères fixés aux articles 4, § 3, 1°, 2°, 8, § 1er, 1° et 3°, et 9 du décret du 2 juin 1998 précité sont définis à l'annexe 4 du présent arrêté.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.481Z",
+  "tokenUsage": {
+    "prompt": 1945,
+    "completion": 383,
+    "total": 2328
+  }
+}

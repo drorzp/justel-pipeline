@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995027014",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 17</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">En complément à l'article 20 du décret du 7 octobre 1985 sur la protection des eaux de surface contre la pollution, les études et travaux connexes à une infrastructure appartenant à une personne de droit public dont la propriété, eu égard à son affectation, ne peut être acquise par l'organisme d'épuration, peuvent être subventionnés par la Région, pour autant que ces travaux soient nécessaires à l'établissement d'ouvrages d'épuration visés à l'article 18, 1° et 4°, du même décret.</p>\n            <p class=\"closing-text\">Une convention passée entre la personne de droit public propriétaire de l'infrastructure et l'organisme d'épuration et approuvée par le Gouvernement wallon définit les droits et obligations des parties ainsi que les modalités pratiques de réalisation des études et travaux.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.997Z",
+  "tokenUsage": {
+    "prompt": 1732,
+    "completion": 257,
+    "total": 1989
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021031474",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 13/1 de l'ordonnance susmentionnée, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">dans le paragraphe 1er, 1°, les mots \" son médecin traitant \" sont remplacés par les mots \" un médecin \" ;</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">le paragraphe 2 est remplacé par ce qui suit :</span>\n        <section class=\"paragraph\">\n          <h3 class=\"paragraph-marker\">§ 2.</h3>\n          <div class=\"paragraph-content\">\n            <p>Les obligations visées au paragraphe 1er, 1° et 2°, cessent après la publication de l'arrêté du Collège réuni constatant la fin de l'état d'épidémie du coronavirus COVID-19 dans la Région bilingue de Bruxelles-Capitale.</p>\n          </div>\n        </section>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">dans le paragraphe 3, les mots \" en raison des circonstances de leur déplacement \" sont abrogés.</span>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.134Z",
+  "tokenUsage": {
+    "prompt": 1772,
+    "completion": 366,
+    "total": 2138
+  }
+}

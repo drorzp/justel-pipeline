@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001002040",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 20 du même arrêté, modifié par les arrêtés royaux des 2 août 1990, 18 novembre 1991, 10 avril 1995, 16 septembre 1997 et 27 mai 1999 sont apportées les modifications suivantes:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">au § 1er, alinéa 1er, 4° et 5°, texte néerlandais, le mot \" beheerraad \" est remplacé par les mots \" raad van bestuur \";</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">le § 1er, alinéa 1er, est complété comme suit :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"9°\">\n                            <span class=\"provision-text\">dans chaque régie provinciale autonome, pour son personnel, auprès du président du conseil d'administration, qui est également président du comité particulier.</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le § 3 est complété par les alinéas suivants:</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">La présidence du comité particulier distinct institué auprès de la Commission communautaire française est déterminée par le Collège de la Commission communautaire française. Le comité particulier distinct institué auprès du pouvoir organisateur de la Haute Ecole Lucia de Brouckère est également compétent pour les membres du personnel non rémunérés par des subventions-traitements. Ce comité est présidé par le président du conseil d'administration de cette Haute Ecole.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.205Z",
+  "tokenUsage": {
+    "prompt": 2034,
+    "completion": 491,
+    "total": 2525
+  }
+}

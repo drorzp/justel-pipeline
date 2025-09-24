@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003059",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-06-28/04\" data-law-type=\"L\" data-article-number=\"31\">1er</span></h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 9 de l'arrêté royal du 3 avril 2006 relatif au Conseil supérieur des Finances, le § 1er est remplacé par ce qui suit :</p>\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>La section permanente <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"Besoins de financement des pouvoirs publics\" data-law-type=\"\" data-article-number=\"\">`Besoins de financement des pouvoirs publics`</span> est composée de douze membres dont un président, nommés par Nous sur proposition des Ministres des Finances et du Budget.</p>\n                <p>Les douze membres visés au présent paragraphe sont les membres visés à l'article 5,</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">1°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"2°\">\n                        <span class=\"provision-text\">La moitié des membres visés au présent paragraphe est d'expression française, l'autre moitié d'expression néerlandaise. Le président est proposé conjointement par le Ministre des Finances et le Ministre du Budget, après avis des Ministres communautaires et régionaux du Budget et des Finances, parmi les membres du Conseil Supérieur des Finances issus de la Banque Nationale de Belgique.</span>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.312Z",
+  "tokenUsage": {
+    "prompt": 1888,
+    "completion": 469,
+    "total": 2357
+  }
+}

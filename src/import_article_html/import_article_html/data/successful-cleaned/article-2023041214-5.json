@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023041214",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 555/1, § 1er du même Code, remplacé par la loi du 7 janvier 2014 et modifié en dernier lieu par la loi du 26 décembre 2022, les modifications suivantes sont apportées:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, il est inséré un</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"27°\">\n              <span class=\"provision-text\">rédigé comme suit:</span>\n              <blockquote>\n                <span class=\"provision-text\">\"27° de jouer le rôle d'organisme central, tel que visé à l'article 4 du règlement (UE) 2020/1784 du Parlement européen et du Conseil du 25 novembre 2020 relatif à la signification et à la notification dans les Etats membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale.\"</span>\n              </blockquote>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 2, les mots \"et 25° \" sont remplacés par les mots \", 25° et 27° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.732Z",
+  "tokenUsage": {
+    "prompt": 1912,
+    "completion": 400,
+    "total": 2312
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003029337",
+  "articleNumber": "95",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-95\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 95</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Au chapitre III, section 2, du même décret est inséré un article 24bis rédigé comme suit :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">Art. 24bis.</h3>\n                <div class=\"paragraph-content\">\n                    <p>Conformément à l'article 1er,</p>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"1°\">\n                            <span class=\"provision-text\">et</span>\n                        </li>\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">le membre du personnel en congé de maternité, malade ou en incapacité de travail causée par un accident du travail est désigné en qualité de temporaire prioritaire en application de l'article 24.</span>\n                        </li>\n                    </ol>\n                    <p>Le nombre de jours visé à l'article 19 du décret du 5 juillet 2000 fixant le régime des congés et de disponibilité pour maladie ou infirmité est accorde au membre du personnel à partir de la première prise de fonction qui suit sa désignation et est calculé à compter de cette prise de fonction effective.</p>\n                    <p>Les absences pour maladie d'un membre du personnel désigné conformément à l'alinéa 1er sont imputées au nombre de jours dont il peut bénéficier en application de l'article 20 du même décret.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.625Z",
+  "tokenUsage": {
+    "prompt": 1830,
+    "completion": 410,
+    "total": 2240
+  }
+}

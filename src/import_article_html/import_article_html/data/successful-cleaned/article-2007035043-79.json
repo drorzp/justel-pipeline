@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007035043",
+  "articleNumber": "79",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-79\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 79</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 1 de l'arrêté du Gouvernement flamand du 10 juillet 2001 réglant l'octroi d'interventions dans la rémunération et les charges sociales des travailleurs employés dans le secteur des handicapes et dont les frais d'emploi étaient supportés auparavant par les pouvoirs publics dans le cadre du régime du troisième circuit de travail, il est ajouté 4° et un point 5°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">le VDAB : le \" Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding \" (Office flamand de l'Emploi et de la Formation professionnelle);</span>\n                </li>\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">la \" Subsidieagentschap \" : la \" Vlaams Subsidieagentschap voor Werk en Sociale Economie \" (Agence flamande de Subventionnement Emploi et Economie sociale).</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.120Z",
+  "tokenUsage": {
+    "prompt": 1764,
+    "completion": 319,
+    "total": 2083
+  }
+}

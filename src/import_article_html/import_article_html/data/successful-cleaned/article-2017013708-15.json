@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017013708",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 1261 du Code des droits et taxes divers, le 8°, abrogé par la loi du 22 juillet 1993, est rétabli dans la rédaction suivante :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"8°\">\n          <span class=\"provision-text\">les opérations qui, en vue de favoriser la liquidité de ses actions, résultent d'une décision préalable de l'assemblée générale d'un émetteur telle que prévue à l'article 620, § 1er, 1°, du Code des sociétés et qui seront exécutées pour le compte de l'émetteur qui est coté en bourse sur un marché réglementé comme visé à l'article 2, 5° de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, par un intermédiaire visé à l'article 2, 9° et 10°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, avec lequel l'émetteur a conclu un contrat en vue d'apporter de la liquidité;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.589Z",
+  "tokenUsage": {
+    "prompt": 1832,
+    "completion": 340,
+    "total": 2172
+  }
+}

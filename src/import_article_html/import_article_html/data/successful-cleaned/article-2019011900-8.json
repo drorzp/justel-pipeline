@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011900",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 59, § 2, alinéa 2 du même arrêté, inséré par l'arrêté du Gouvernement flamand du 4 avril 2014 et remplacé par l'arrêté du Gouvernement flamand du 24 avril 2015, les points 2° et 3° sont remplacés par ce qui suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">phase 2 : le montant, visé à l'alinéa 1er, 1°, est majoré de 416,47 euros et le montant, visé à l'alinéa 1er, 2°, de 7,28 euros. Cette phase produit ses effets le 1er décembre 2018 ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">phase 3 : le montant, visé à l'alinéa 1er, 1°, est majoré de 630,78 euros et le montant, visé à l'alinéa 1er, 2°, de 11,04 euros. Cette phase produit ses effets le 1er décembre 2018 ;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.296Z",
+  "tokenUsage": {
+    "prompt": 1871,
+    "completion": 372,
+    "total": 2243
+  }
+}

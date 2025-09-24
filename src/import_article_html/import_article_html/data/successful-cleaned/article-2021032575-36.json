@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021032575",
+  "articleNumber": "36",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-36\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 36</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 2.3.2.14 du même code, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans l'intitulé, le mot \" navires \" est remplacé par les mots \" navires de mer \" ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans les paragraphes 1er, alinéas 1er et 2, paragraphe 2, alinéas 1er et 2, paragraphe 3, alinéas 1er et 2, paragraphe 4, la phrase introductive et 1° et 2°, le mot \" navire \" est remplacé neuf fois par les mots \" navire de mer \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.189Z",
+  "tokenUsage": {
+    "prompt": 1775,
+    "completion": 293,
+    "total": 2068
+  }
+}

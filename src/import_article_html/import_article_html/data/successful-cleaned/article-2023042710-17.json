@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023042710",
+  "articleNumber": "17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-17\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 17</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Par dérogation à l'article 15, alinéa 1er, pour les sociétés dont la constitution est antérieure à l'entrée en vigueur du Code des sociétés et des associations conformément à l'article 38, alinéa 1er, de la loi du 23 mars 2019 introduisant le Code des sociétés et des associations et portant des dispositions diverses, les articles:</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\">\n                        <span class=\"provision-text\">4,</span>\n                        <ol>\n                            <li class=\"sub-provision\" data-marker=\"a)\">a)</li>\n                            <li class=\"sub-provision\" data-marker=\"ii)\">ii)</li>\n                            <li class=\"sub-provision\" data-marker=\"b)\">b)</li>\n                        </ol>\n                    </li>\n                </ol>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.758Z",
+  "tokenUsage": {
+    "prompt": 2392,
+    "completion": 296,
+    "total": 2688
+  }
+}

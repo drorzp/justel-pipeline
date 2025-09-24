@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008022703",
+  "articleNumber": "52",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-52\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 52</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 192, alinéa 4, 1°, j), de la même loi, remplacé par la loi du 22 décembre 2003, les mots \"et 28°\" sont remplacés par les mots \"28° et 29°\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.004Z",
+  "tokenUsage": {
+    "prompt": 1468,
+    "completion": 137,
+    "total": 1605
+  }
+}

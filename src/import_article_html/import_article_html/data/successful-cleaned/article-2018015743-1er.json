@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018015743",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 2 de l'arrêté royal du 20 mars 2007 pris en exécution du Chapitre 8 du Titre IV de la loi-programme (I) du 27 décembre 2006 instaurant une déclaration préalable pour les travailleurs salariés et indépendants détachés, modifié par l'arrêté royal du 31 août 2007, les 5°, 6° et 7° sont abrogés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.468Z",
+  "tokenUsage": {
+    "prompt": 1612,
+    "completion": 178,
+    "total": 1790
+  }
+}

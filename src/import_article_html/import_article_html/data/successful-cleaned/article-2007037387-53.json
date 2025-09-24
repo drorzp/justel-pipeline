@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007037387",
+  "articleNumber": "53",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-53\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 53</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 9,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">et l'article 18,</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">du même décret, modifié par le décret du 15 juillet 2005, les mots \"la GOM\" sont remplacés par les mots \"la POM\".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.971Z",
+  "tokenUsage": {
+    "prompt": 1529,
+    "completion": 202,
+    "total": 1731
+  }
+}

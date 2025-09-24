@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030869",
+  "articleNumber": "79",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-79\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 79</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En application de l'article 138 du décret, les frais de fonctionnement, de promotion, de formation ou de personnel supplémentaire au cadre minimum visé à l'article 63 du décret et qui sont liées aux missions visées à l'article 31, § 2,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">s'élèvent respectivement à 50.200 euros. \"</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.738Z",
+  "tokenUsage": {
+    "prompt": 1568,
+    "completion": 219,
+    "total": 1787
+  }
+}

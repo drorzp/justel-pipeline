@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003420",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 27</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'article 14 du même arrêté royal, modifié par l'arrêté royal du 1er juin 2011, les modifications suivantes sont apportées :</p>\n            <ol>\n                <li class=\"sub-provision\" data-marker=\"a)\">\n                    <span class=\"provision-text\">les mots &quot;,d'une société de bourse ou d'une entreprise d'investissement visés à l'article 2, 3° et 4°&quot; sont remplacés par les mots &quot;ou d'une entreprise visée l'article 2, 2° à 4°&quot;;</span>\n                </li>\n                <li class=\"sub-provision\" data-marker=\"b)\">\n                    <span class=\"provision-text\">la phrase &quot;Le Fonds publie également la décision de l'autorité en charge du contrôle prudentiel, de prolonger le délai de paiement des interventions, au Moniteur belge et la diffuse sur son site web.&quot; est abrogée.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.318Z",
+  "tokenUsage": {
+    "prompt": 1719,
+    "completion": 298,
+    "total": 2017
+  }
+}

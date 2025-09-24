@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998035422",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les dispositions suivantes du décret du 15 juillet 1997 portant création d'un Conseil de la Famille et de l'Aide sociale et d'une commission consultative d'appel pour les questions de la famille et de l'aide sociale, produisent leurs effets le 27 janvier 1998 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">l'article 17, à l'exception du point 5°;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">l'article 18;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">l'article 19, à l'exception des points 2° et 3°;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">les articles 21 et 23.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.060Z",
+  "tokenUsage": {
+    "prompt": 1696,
+    "completion": 304,
+    "total": 2000
+  }
+}

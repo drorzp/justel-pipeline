@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022042409",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour l'application du présent décret, on entend par :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">opérateur culturel : toute personne morale dont les activités s'inscrivent dans le cadre des politiques culturelles</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">politiques culturelles : les politiques menées par la Communauté française dans les matières culturelles visées par l'article 4, 1°, 3° à 5°, 8°, 10° et 13°, de la loi spéciale de réformes institutionnelles du 8 août 1980.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.866Z",
+  "tokenUsage": {
+    "prompt": 1639,
+    "completion": 256,
+    "total": 1895
+  }
+}

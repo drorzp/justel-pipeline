@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1967062604",
+  "articleNumber": "11",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-11\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 11</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Seront punies d'un emprisonnement de huit jours à un mois et d'une amende de vingt-six francs à mille francs, ou d'une de ces peines seulement :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">les infractions aux arrêtés d'exécution de l'article 2 de la présente loi;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">les infractions à l'article 3;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les infractions aux arrêtés d'exécution de l'article 10, 2°, 3° et 4°.</span></li>\n      </ol>\n      <p class=\"closing-text\">Les personnes civilement responsables aux termes de l'article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-02-07/18\" data-law-type=\"L\" data-article-number=\"22\">6.14</span> du Code civil sont tenues au paiement de l'amende. Toutes les dispositions du Livre premier du Code pénal, sans exception du Chapitre VII, et de l'article 85, sont applicables à ces infractions.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.565Z",
+  "tokenUsage": {
+    "prompt": 1887,
+    "completion": 380,
+    "total": 2267
+  }
+}

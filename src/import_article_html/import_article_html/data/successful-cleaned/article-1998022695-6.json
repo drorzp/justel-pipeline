@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998022695",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 5, § 2, 2° et 3° du même arrêté est remplacé par les dispositions suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              <span class=\"provision-text\">En cas d'impossibilité pratique, les indications visées au § 1er, 3°, à défaut d'être reprises sur le récipient, doivent figurer, soit sur l'emballage de chaque récipient, dans lequel cas, une indication abrégée faisant renvoi à celles visées à la présente disposition doit figurer sur le récipient, soit sur une notice, une étiquette, une bande, ou une carte jointe au produit cosmétique dans lequel cas, une indication abrégée faisant renvoi à celles visées à la présente disposition doit figurer sur le récipient et la face externe de l'emballage. Le symbole inscrit à l'annexe, chapitre VIII, 1° a la même signification que cette indication abrégée.</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              <span class=\"provision-text\">En cas d'impossibilité pratique, les indications visées au § 1er, 6°, à défaut d'être reprises sur l'emballage, doivent figurer sur une notice, une étiquette, une bande, ou une carte jointe au produit cosmétique, dans lequel cas, une indication abrégée faisant renvoi à celles visées à la présente disposition doit figurer sur l'emballage. Le symbole inscrit à l'annexe, chapitre VIII, 1° a la même signification que cette indication abrégée.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">En cas d'impossibilité pratique, les indications visées au § 1er, 4° ne doivent figurer que sur l'emballage.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.085Z",
+  "tokenUsage": {
+    "prompt": 2152,
+    "completion": 540,
+    "total": 2692
+  }
+}

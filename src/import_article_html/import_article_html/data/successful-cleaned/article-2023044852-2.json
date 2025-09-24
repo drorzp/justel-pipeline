@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023044852",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        A l'article R. 230, § 1er, de la partie réglementaire du livre II du Code de l'Environnement contenant le Code de l'Eau, modifié par l'arrêté du Gouvernement wallon du 13 juin 2014, aux:\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les mots &quot; 31 mars &quot; sont remplacés par les mots &quot; 31 janvier &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.365Z",
+  "tokenUsage": {
+    "prompt": 1562,
+    "completion": 244,
+    "total": 1806
+  }
+}

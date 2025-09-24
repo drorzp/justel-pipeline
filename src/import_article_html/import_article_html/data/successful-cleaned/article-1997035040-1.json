@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997035040",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1<span class=\"footnote footnote-reference\" data-footnote-id=\"1\">.</span></h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1er de l'arrêté du Gouvernement flamand du 3 mai 1995 réglant l'exonération de droits de succession afférents aux parts de sociétés créées dans le cadre de la réalisation et/ou financement de programmes d'investissement de résidences-services, les points 1°, 2° et 3° sont remplacés par ce qui suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">projets : projets de création de résidences-services tels que visés à l'article 2, 5°, des décrets relatifs aux structures destinées aux personnes âgées, coordonnées le 18 décembre 1991;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">plan de projets : l'ensemble de projets prévus, à réaliser à l'aide de capitaux recueillis auprès des investisseurs, tant au moment de la création de la SICAF que lors de chaque tranche d'émission ultérieure;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">plan de projets agréé : le plan de projets qui a été approuvé par le Ministre flamand ayant l'assistance aux personnes dans ses attributions, sur la base des dispositions de l'article 3, § 3, du présent arrêté et qui s'inscrit également dans le cadre de la programmation relative aux structures destinées aux personnes âgées.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.920Z",
+  "tokenUsage": {
+    "prompt": 2018,
+    "completion": 444,
+    "total": 2462
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005011238",
+  "articleNumber": "155",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-155\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 155</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques, les dispositions suivantes sont abrogées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">les articles 68 à 70bis, à l'exception de l'article 68, 5° et 5°bis et 68, 19°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les articles 82 à 96, à l'exception de l'article 86ter ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les articles 105bis à 109ter F;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">les articles 113 et 114, à l'exception de l'article 114, § 1er, 1° et 2° et l'article 114, §§ 3 à 6;</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">les articles 117 à 119;</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">les articles 121 à 125;</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">les articles 128 et 128bis.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.754Z",
+  "tokenUsage": {
+    "prompt": 1915,
+    "completion": 461,
+    "total": 2376
+  }
+}

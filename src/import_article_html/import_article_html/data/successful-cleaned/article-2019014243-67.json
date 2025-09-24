@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019014243",
+  "articleNumber": "67",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-67\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 67</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 5.2.3bis.1.26 du même arrêté, inséré par l'arrêté du Gouvernement flamand du 1er décembre 2003 et modifié par les arrêtés du Gouvernement flamand des 12 mai 2006, 7 juin 2013 et 27 novembre 2015, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au paragraphe 1er, 3° et 4°, la phrase suivante est ajoutée : \" L'application du programme de mesures de contrôle, visé à l'annexe 4.4.4, ne permet pas de déroger à cette fréquence ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">au paragraphe 5, les mots \" In dit dat geval \" sont remplacés par les mots \" In dat geval \" dans la version néerlandaise ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">aux paragraphes 5 et 7, la phrase suivante est ajoutée : \" L'application du programme de mesures de contrôle, visé à l'annexe 4.4.4, ne permet pas de déroger à cette fréquence ; \" ;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.343Z",
+  "tokenUsage": {
+    "prompt": 1909,
+    "completion": 406,
+    "total": 2315
+  }
+}

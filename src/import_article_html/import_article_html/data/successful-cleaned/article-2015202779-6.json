@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015202779",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Pour chaque cours organisé conformément au présent décret, l'établissement d'enseignement reçoit une subvention. Pour pouvoir l'obtenir, l'établissement d'enseignement doit fournir au Gouvernement les documents suivants :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">la liste de présence des élèves par unité didactique;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">la facture de l'école de conduite dans le cas où elle dispense les cours mentionnés à l'article 2, alinéa 1er;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">la facture pour le cours de secourisme;</span>\n                </li>\n                <li class=\"provision\" data-number=\"4°\">\n                    <span class=\"provision-text\">la facture pour le matériel didactique, au cas où il ne serait pas déjà pris en compte dans les 2° et 3°.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Le Gouvernement fixe un montant maximal pour la subvention sur la base des coûts normaux du marché.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.194Z",
+  "tokenUsage": {
+    "prompt": 1789,
+    "completion": 363,
+    "total": 2152
+  }
+}

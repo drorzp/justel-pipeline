@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001016051",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>A l'article 3, § 1er, de la même loi, remplacé par la loi du 28 juin 1984, les mots \"caractère lucratif\" sont supprimés.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Aux articles 5, § 1er, et 7, alinéa 1er, 3° et 5°, de la même loi, le mot \" lucratif \" est supprimé.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-3\">\n      <h3 class=\"paragraph-marker\">§ 3.</h3>\n      <div class=\"paragraph-content\">\n        <p>A l'article13, alinéa 1er, 1° et 2°, de la même loi, dans le texte néerlandais, le mot \" winstgevende \" est supprimé.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-4\">\n      <h3 class=\"paragraph-marker\">§ 4.</h3>\n      <div class=\"paragraph-content\">\n        <p>A l'article 13, alinéa 1er, 1° et 2°, de la même loi, dans le texte français, les mots \" activité de caractère lucratif et indépendant \" sont remplacés par les mots \" activité indépendante \".</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.224Z",
+  "tokenUsage": {
+    "prompt": 2005,
+    "completion": 443,
+    "total": 2448
+  }
+}

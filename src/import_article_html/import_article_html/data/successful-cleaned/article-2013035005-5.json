@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013035005",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">En exécution de l'article 10, alinéa premier,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">3°, de l'arrêté du Gouvernement flamand du 9 novembre 2012, les demandes doivent être introduites selon la procédure qui est consultable dans le manuel sur le site web de Screen Flanders. La demande doit être introduite auprès de l'Agence de l'Entrepreneuriat au plus tard le 28 février 2013, à 12 heures. Pour déterminer la date d'introduction, il est tenu compte de la date et de l'heure du récépissé. Une demande ne peut être déclarée recevable que lorsqu'elle est dûment remplie et entièrement en possession de l'Agence de l'Entrepreneuriat avant la date limite d'introduction.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.047Z",
+  "tokenUsage": {
+    "prompt": 1701,
+    "completion": 295,
+    "total": 1996
+  }
+}

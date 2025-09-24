@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003000298",
+  "articleNumber": "18",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-18\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 18</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">La présente loi entre en vigueur le jour de sa publication au Moniteur belge, à l'exception :</p>\n            <ul class=\"hyphenated-items\">\n                <li class=\"hyphenated-item\"><span class=\"item-text\">de l'article 2, 1° et 2°, qui produit ses effets le 1er janvier 2003;</span></li>\n                <li class=\"hyphenated-item\"><span class=\"item-text\">de l'article 2, 4°, qui produit ses effets le 20 janvier 2003.</span></li>\n            </ul>\n            <div class=\"closing-text\">\n                <p>Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge. Donné à Bruxelles, le 2 avril 2003. ALBERT Par le Roi : Le Ministre de l'Intérieur, A. DUQUESNE Scellé du sceau de l'Etat, Le Ministre de la Justice, M. VERWILGHEN.</p>\n            </div>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.714Z",
+  "tokenUsage": {
+    "prompt": 1755,
+    "completion": 312,
+    "total": 2067
+  }
+}

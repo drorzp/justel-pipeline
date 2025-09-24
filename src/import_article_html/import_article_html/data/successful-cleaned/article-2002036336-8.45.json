@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002036336",
+  "articleNumber": "8.45",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8-45\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8.45</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>(Voir NOTES sous l'intitulé)</p>\n        <section class=\"paragraph\" id=\"para-1\">\n            <h3 class=\"paragraph-marker\">§ 1.</h3>\n            <div class=\"paragraph-content\">\n                <p>Entrent uniquement en considération pour la désignation dans une fonction de chargé de mission, les fonctionnaires du rang A1. Le collège des secrétaires généraux peut décider que, pour l'accomplissement de missions génériques interdépartementales, visées à l'article VIII 44, 1°, des fonctionnaires du rang A2 entrent également en considération.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le fonctionnaire dirigeant de l'Administration du Développement des Ressources humaines établit :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"a)\">\n                        <span class=\"provision-text\">la liste des compétences génériques pour la fonction de chargé de mission;</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"b)\">\n                        <span class=\"provision-text\">la liste des compétences spécifiques de la fonction pour les fonctions de chargé de mission visées à l'article VIII 44, 1°.</span>\n                    </li>\n                </ol>\n                <p>La liste des compétences spécifiques de la fonction pour les fonctions de chargé de mission visées à l'article VIII 44, 2° et 3°, est établie par les départements concernés.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.705Z",
+  "tokenUsage": {
+    "prompt": 1927,
+    "completion": 437,
+    "total": 2364
+  }
+}

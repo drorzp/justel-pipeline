@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030652",
+  "articleNumber": "279",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-279\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 279</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 42 de la même loi, les modifications suivantes sont apportées :</p>\n      <ol>\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">dans l'alinéa 2, 1°, les mots \"et § 3, alinéa 2, 2e tiret\" sont abrogés;</span>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">l'alinéa 2 est complété par un 7°, un 8° et un 9° rédigés comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"7°\">\n              <span class=\"provision-text\">de veiller au respect des obligations du stage et au bon déroulement de celui-ci;</span>\n            </li>\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">d'assister les maîtres de stage de leurs conseils;</span>\n            </li>\n            <li class=\"provision\" data-number=\"9°\">\n              <span class=\"provision-text\">de conseiller la direction de l'Institut relativement à l'organisation de la formation dispensée par celui-ci aux stagiaires judiciaires conformément à l'article 259octies, § 2, du Code judiciaire.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.738Z",
+  "tokenUsage": {
+    "prompt": 1855,
+    "completion": 407,
+    "total": 2262
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003007119",
+  "articleNumber": "64",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-64\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 64</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 7 de la même loi, remplacé par la loi du 25 août 1920 et modifié par les lois du 16 mars 1994 et 22 mars 2001, les dispositions reprises sous 1°,\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de la rubrique &quot; Enseignement &quot; sont remplacées par la (disposition) suivante :</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"Erratum\" data-law-type=\"voir\" data-article-number=\"M.B.\">\n          &lt;Erratum, voir M.B. 04-07-2003, p. 36013&gt;\n        </span>\n        &quot; L'enseignement est confié au personnel enseignant, dont le statut est fixé par la loi.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.836Z",
+  "tokenUsage": {
+    "prompt": 1661,
+    "completion": 337,
+    "total": 1998
+  }
+}

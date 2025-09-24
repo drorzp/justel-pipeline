@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020041109",
+  "articleNumber": "32",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-32\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 32</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans l'article 7:91, alinéa 4, du même Code, les mots &quot;article 3:6, &sect; 3, alinéa 2, 6&deg; et 7&deg; &quot; sont remplacés par les mots &quot;article 3:6, &sect; 3, alinéa 3, 1&deg; &quot;.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.158Z",
+  "tokenUsage": {
+    "prompt": 1517,
+    "completion": 171,
+    "total": 1688
+  }
+}

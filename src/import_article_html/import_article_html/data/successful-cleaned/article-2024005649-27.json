@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024005649",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'entité compétente vérifie si l'association environnementale qui demande une subvention de démarrage, visée à l'article 25, satisfait aux conditions suivantes pour l'obtention d'une subvention de démarrage :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">elle donne la priorité à la promotion de la qualité de l'environnement dans la Région flamande en tant qu'objectif social principal ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">elle démontre un fonctionnement autonome et indépendant ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">elle développe un fonctionnement visant à satisfaire aux descriptions de l'une des catégories d'associations environnementales, visées à l'article 5, alinéa 1er, 1° et 2°, pour une période d'agrément ultérieure.</span></li>\n      </ol>\n      <p class=\"closing-text\">Le Gouvernement flamand élabore les conditions d'attribution de la subvention de démarrage visée à l'alinéa 1er.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.557Z",
+  "tokenUsage": {
+    "prompt": 1830,
+    "completion": 347,
+    "total": 2177
+  }
+}

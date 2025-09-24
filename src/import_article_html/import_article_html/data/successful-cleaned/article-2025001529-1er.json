@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025001529",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\" data-footnote-id=\"1\">1er</span>.</h2>\n    </header>\n    <div class=\"article-content\">\n        <p>Dans l'article 28 de l'arrêté du Gouvernement flamand du 24 juillet 1991 relatif à l'introduction et au traitement de la demande de soutien auprès de l'Agence flamande pour les Personnes handicapées, remplacé par l'arrêté du Gouvernement flamand du 12 novembre 2010 et modifié en dernier lieu par l'arrêté du Gouvernement flamand du 7 juin 2024, un paragraphe 5/1 est inséré rédigé comme suit :</p>\n        <section class=\"paragraph\" id=\"para-5-1\">\n            <h3 class=\"paragraph-marker\">§ 5/1.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">L'agence paie les compensations visées au paragraphe 1er, au paragraphe 2, alinéa 1er, 1° et 2°, et aux paragraphes 3 et 4, à condition que l'équipe multidisciplinaire réponde aux exigences de qualité minimales pour le rapport visées à l'article 24, § 1er, 2°, § 2, 3°, et § 3, 3°.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.715Z",
+  "tokenUsage": {
+    "prompt": 1885,
+    "completion": 350,
+    "total": 2235
+  }
+}

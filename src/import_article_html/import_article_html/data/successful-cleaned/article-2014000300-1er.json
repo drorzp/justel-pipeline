@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014000300",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Au sein de l'arrondissement judiciaire du Hainaut, le siège et le ressort des directions judiciaires déconcentrées de la police fédérale, visées à l'article 93, § 1er, alinéa 2, 2°, de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, sont ceux des subdivisions de cet arrondissement sur le territoire desquelles le procureur du Roi de Charleroi et le procureur du Roi de Mons exercent les fonctions du ministère public en application, respectivement, du</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">2° de l'article 150, § 4, alinéa 1er, du Code judiciaire.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.141Z",
+  "tokenUsage": {
+    "prompt": 1717,
+    "completion": 297,
+    "total": 2014
+  }
+}

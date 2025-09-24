@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023045247",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans la section 1re, insérée par l'article 3, il est inséré un article L1219-1 rédigé comme suit : \" Art. L1219-1. Le présent chapitre transpose la directive (UE) 2019/1937 du Parlement européen et du Conseil du 23 octobre 2019 sur la protection des personnes qui signalent des violations du droit de l'Union, en ce qui concerne les services et organes des autorités locales au sens de l'article L3111-1, § 1er, à l'exception de celles visées à l'article L3111-1, § 1er, 4°, 7°, 8°, 9° et 10°.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.366Z",
+  "tokenUsage": {
+    "prompt": 1663,
+    "completion": 236,
+    "total": 1899
+  }
+}

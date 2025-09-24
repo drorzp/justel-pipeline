@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024007074",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans la liste partie I, titre 1, chapitre II, section 5 de l'arrêté royal du 23 novembre 2021 fixant les procédures, délais et conditions dans lesquelles l'assurance obligatoire soins de santé et indemnités intervient dans le coût des prestations pharmaceutiques visées à l'article 34, alinéa 1er, 5° a), 19°, 20° et 20bis de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, les moyens suivants sont ajoutés :</p>\n      <p class=\"closing-text\">(Image non reprise pour des raisons techniques, voir M.B. du 18-07-2024, p. 86450)</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.550Z",
+  "tokenUsage": {
+    "prompt": 1656,
+    "completion": 237,
+    "total": 1893
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015011518",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article premier de la loi du 4 juillet 1962 relative à la statistique publique, insérée par la loi du 22 mars 2006, est complété par les 17° et 18°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"17°\">\n                    <span class=\"provision-text\">Autorité statistique : l'Institut national de Statistique, en abrégé l'INS, et les autres autorités statistiques chargées par une loi, un décret ou une ordonnance, de la collecte et du traitement des données aux fins de réaliser des statistiques publiques. Les conditions auxquelles doivent répondre les autorités statistiques sont mentionnées au chapitre V de l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune de Bruxelles-Capitale et la Commission communautaire française concernant les modalités de fonctionnement de l'Institut intérfédéral de statistique, du conseil d'administration et des Comités scientifiques de l'Institut des comptes nationaux, daté du 15 juillet 2014 et publié au Moniteur belge le 20 octobre 2014</span>\n                </li>\n                <li class=\"provision\" data-number=\"18°\">\n                    <span class=\"provision-text\">Statistiques publiques : les statistiques produites et diffusées par les autorités statistiques ou d'autres instances publiques qui sont accessibles au public et qui servent à assurer l'élaboration, l'exécution, le suivi et l'évaluation des politiques publiques.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.174Z",
+  "tokenUsage": {
+    "prompt": 2015,
+    "completion": 445,
+    "total": 2460
+  }
+}

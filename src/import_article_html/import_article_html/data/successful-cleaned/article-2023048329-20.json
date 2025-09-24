@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023048329",
+  "articleNumber": "20",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-20\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 20</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 3, alinéa 2, du même arrêté, modifié en dernier lieu par l'arrêté royal du 14 avril 1993, les mots \"article 2, § 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">\" sont remplacés par les mots \"article 57, § 1er, alinéa 3,</span></li>\n            </ol>\n            <p class=\"closing-text\">2°, du Code\".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.494Z",
+  "tokenUsage": {
+    "prompt": 1638,
+    "completion": 237,
+    "total": 1875
+  }
+}

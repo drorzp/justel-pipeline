@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008021119",
+  "articleNumber": "196",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-196\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 196</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les définitions prévues à l'article 2, § 1er, alinéa 1er, 7° et 8°, alinéa 2 et alinéa 3, de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, telle que d'application avant l'entrée en vigueur de la présente section, restent d'application aux contrats titres-services aussi longtemps que ceux-ci peuvent, en vertu des dispositions transitoires prévues à l'article 190 de la présente loi, être régis par la loi du 20 juillet 2001 susmentionnée applicable avant l'entrée en vigueur du présent chapitre.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.002Z",
+  "tokenUsage": {
+    "prompt": 1689,
+    "completion": 224,
+    "total": 1913
+  }
+}

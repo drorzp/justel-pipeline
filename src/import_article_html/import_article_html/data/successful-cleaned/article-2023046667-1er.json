@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023046667",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1er</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 1er/1 de l'arrêté royal du 23 décembre 1994 portant détermination des conditions d'agrément et des règles du contrôle administratif et des organismes chargés du contrôle des véhicules en circulation, inséré par l'arrêté du Gouvernement wallon du 30 mars 2017, est complété par les 5°, 6° et 7° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"5°\">\n                    <span class=\"provision-text\">l'Administration : le Service public de Wallonie Mobilité et Infrastructures ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"6°\">\n                    <span class=\"provision-text\">le Département : le Département de la Réglementation et de la Régulation des Transports ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"7°\">\n                    <span class=\"provision-text\">la Commission IT : la commission composée de représentants de l'Administration et des organismes.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">Concernant le 7°, le fonctionnement de cette commission est régi par un règlement d'ordre intérieur approuvé par le Ministre ou son délégué.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.478Z",
+  "tokenUsage": {
+    "prompt": 1822,
+    "completion": 368,
+    "total": 2190
+  }
+}

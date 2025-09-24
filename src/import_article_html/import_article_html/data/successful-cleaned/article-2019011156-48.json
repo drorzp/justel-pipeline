@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011156",
+  "articleNumber": "48",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-48\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 48</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 6 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le point 2°, le membre de phrase \" si l'aide demandée prend la forme d'une subvention d'intérêt ou d'une garantie \" est ajouté ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">les points 3° et 4° sont remplacés par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"sub-provision\" data-marker=\"3°\">\n              <span class=\"provision-text\">deux ans après la clôture de la période bloc au cours de laquelle la demande a été enregistrée, en ce qui concerne le permis d'environnement nécessaire ;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"4°\">\n              <span class=\"provision-text\">trois ans après la clôture de la période bloc au cours de laquelle la demande d'aides aux investissements ou au démarrage a été enregistrée, en ce qui concerne l'établissement en tant qu'agriculteur ;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le point 5°, le membre de phrase \" la dimension économique minimale requise et l'obtention d'un permis d'environnement adapté \" est remplacé par les mots \" et la dimension économique minimale requise \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le point 13°, les mots \" trois ans \" sont remplacés par les mots \" deux ans et demi \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.453Z",
+  "tokenUsage": {
+    "prompt": 2009,
+    "completion": 504,
+    "total": 2513
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040472",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1 de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations, modifié en dernier lieu par la loi du 4 juin 2021, est complété par les 84° et 85°, rédigé comme suit:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"84°\">\n          <span class=\"provision-text\">\"redevance fixe\": un forfait fixe pour couvrir les coûts administratif ou droit d'abonnement qui peut être prélevé par les fournisseurs ou les intermédiaires sur les clients finals;</span>\n        </li>\n        <li class=\"provision\" data-number=\"85°\">\n          <span class=\"provision-text\">\"entreprise de chaleur\": toute personne physique ou morale qui fournit du chaleur par le biais de réseaux de distribution de chaleur à distance.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.782Z",
+  "tokenUsage": {
+    "prompt": 1691,
+    "completion": 283,
+    "total": 1974
+  }
+}

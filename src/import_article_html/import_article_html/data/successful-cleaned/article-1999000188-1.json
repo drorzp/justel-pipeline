@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999000188",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le cadre de leur activité de recherche sur le pluralisme religieux et éthique en Europe, l'Université Catholique de Louvain et la &quot; Katholieke Universiteit Leuven &quot; sont autorisées à recevoir communication des informations visées à l'article 3, alinéa 1er,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">1°</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">(limité à la date de naissance),</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">de la loi du 8 août 1983 organisant un Registre national des personnes physiques, et ce, en vue de la constitution d'un échantillon représentatif, composé de 6.500 personnes âgées de 18 ans et plus, qui seront interrogées pour les besoins du projet de recherche précité.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.122Z",
+  "tokenUsage": {
+    "prompt": 1734,
+    "completion": 341,
+    "total": 2075
+  }
+}

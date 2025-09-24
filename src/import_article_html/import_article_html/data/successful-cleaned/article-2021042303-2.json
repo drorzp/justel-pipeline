@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021042303",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 1er de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations, modifié en dernier lieu par la loi du 12 juin 2020, est complété par les 80° et 81°, rédigés comme suit:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"80°\">\n                    <span class=\"provision-text\">\"produit actif\" : l'offre d'un contrat pour la fourniture d'énergie aux clients résidentiels et/ ou aux PME, qui peut être souscrite par ceux-ci sur le site web ou l'application du fournisseur et/ou via des comparateurs de prix, et aussi éventuellement par d'autres canaux publics;</span>\n                </li>\n                <li class=\"provision\" data-number=\"81°\">\n                    <span class=\"provision-text\">\"produit équivalent le moins cher\" : l'offre de contrat standard pour la fourniture de gaz naturel aux clients résidentiels et/ou aux PME la moins chère de la gamme du fournisseur et ayant les mêmes caractéristiques que le contrat en cours du client, notamment en ce qui concerne les critères suivants : prix fixe ou variable, durée du contrat en cas de durée déterminée, services compris dans le contrat, contrat exclusivement en ligne ou non, énergie verte ou grise.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.151Z",
+  "tokenUsage": {
+    "prompt": 1879,
+    "completion": 377,
+    "total": 2256
+  }
+}

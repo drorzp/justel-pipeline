@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1963070503",
+  "articleNumber": "99",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-99\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 99</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Chaque chambre est composée:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">d'un président et de deux présidents suppléants;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">de deux docteurs en médecine choisis parmi les personnes reconnues pour leur compétence dans le domaine de la médecine et de la chirurgie orthopédique;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">d'un conseiller d'orientation professionnelle choisi en raison de sa compétence dans l'orientation professionnelle des handicapés;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">d'un technicien du marché de l'emploi choisi en raison de sa connaissance approfondie du marché de l'emploi des personnes handicapées;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">de deux représentants des organisations représentatives des handicapés;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">d'un greffier et d'un greffier adjoint.</span></li>\n      </ol>\n      <p>Il y a autant de membres suppléants que de membres effectifs, visés à l'alinéa 1er, 2°, 3°, 4° et 5°.</p>\n      <p>Un commissaire du gouvernement est désigné auprès de chaque chambre.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.477Z",
+  "tokenUsage": {
+    "prompt": 1905,
+    "completion": 436,
+    "total": 2341
+  }
+}

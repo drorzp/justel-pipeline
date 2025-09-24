@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015203736",
+  "articleNumber": "74",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-74\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 74</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 77 du même Code, modifié en dernier lieu par la loi du 25 avril 2007, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">deux alinéas rédigés comme suit sont insérés avant le texte actuel :\n            \" Le Roi détermine, par arrêté royal délibéré en Conseil des ministres :\n            <ul class=\"hyphenated-items\">\n              <li class=\"sub-provision\" data-marker=\"-\"><span class=\"provision-text\">la nature des immobilisations qui entrent en ligne de compte pour la déduction majorée conformément à l'article 69, § 1er, alinéa 1er, 2°, f);</span></li>\n              <li class=\"sub-provision\" data-marker=\"-\"><span class=\"provision-text\">les critères auxquels les immobilisations visées au premier tiret doivent répondre pour donner droit à la déduction majorée conformément à l'article 69, § 1er, alinéa 1er, 2°, f).</span></li>\n            </ul>\n            Le Roi saisira la Chambre des représentants immédiatement si elle est réunie, sinon dès l'ouverture de sa plus prochaine session, d'un projet de loi de confirmation des arrêtés pris en exécution de l'alinéa 1er, premier tiret. Les arrêtés sont censés ne pas avoir produit leurs effets s'ils n'ont pas été confirmés par la loi dans les douze mois de la date de leur publication au Moniteur belge. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le texte actuel, qui est devenu l'alinéa 3, les mots \"conformément à l'article 69, § 1er, alinéa 1er, 2° et 3°\" sont remplacés par les mots \"conformément à l'article 69, § 1er, alinéa 1er, 2°, a) à e) et 3°\".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.201Z",
+  "tokenUsage": {
+    "prompt": 2188,
+    "completion": 563,
+    "total": 2751
+  }
+}

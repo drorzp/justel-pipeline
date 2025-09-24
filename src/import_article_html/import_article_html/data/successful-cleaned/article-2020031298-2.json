@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020031298",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>En cas de démission d'un membre effectif visé <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2023-05-25/08\" data-law-type=\"ACF\" data-article-number=\"3\">à l'article 8, § 3, 1° et 2°</span>, du décret, et faute de suppléant pour le remplacer, le Ministre lance un appel d'offres précisément pour pallier le poste vacant effectif. En pareil cas, le nouveau mandat se termine à la date à laquelle le mandat de la personne remplacée se terminait.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.256Z",
+  "tokenUsage": {
+    "prompt": 1646,
+    "completion": 213,
+    "total": 1859
+  }
+}

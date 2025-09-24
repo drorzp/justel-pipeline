@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023041021",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 93 du même arrêté, remplacé par l'arrêté royal du 3 juin 2007 et modifié par l'arrêté royal du 7 décembre 2007, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, les mots &quot;et le relevé récapitulatif&quot; et les mots &quot;et ce relevé récapitulatif&quot; sont abrogés ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le paragraphe 1er, alinéa 1er, les mots &quot;l'article 270, 1° à 3° et 6° &quot; sont remplacés par les mots &quot;l'article 270, alinéa 1er, 1° à 3° et 6&quot; ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le paragraphe 2, alinéa unique, les mots &quot;l'article 270, 4°, &quot; sont remplacés par les mots &quot;l'article 270, alinéa 1er, 4°, &quot;.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.730Z",
+  "tokenUsage": {
+    "prompt": 1902,
+    "completion": 412,
+    "total": 2314
+  }
+}

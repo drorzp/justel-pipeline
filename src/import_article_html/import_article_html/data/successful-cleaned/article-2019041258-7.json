@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019041258",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 19 du même arrêté sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Au paragraphe 1er la phrase \" La VMSW traite les données des rapports visés à l'article 18, § 1er, 3° dans des bases de données \" est remplacée par la phrase \" La VMSW traite les données des rapports visés à l'article 18, § 1er, 3° et 8° à 16° dans des bases de données. \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Au paragraphe 1er la phrase \" La VMSW met immédiatement à disposition les rapports non traités et traite les rapports visés à l'article 18, § 1er, 3° au plus tard le 31 août de l'année civile suivant l'exercice clos. \" est remplacée par la phrase \" La VMSW met immédiatement à disposition les rapports non traités et traite les rapports visés à l'article 18, § 1er, 3° et 8° à 16° au plus tard le 31 août de l'année civile suivant l'exercice clos. \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au paragraphe 3, alinéa quatre le membre de phrase \" l'article 18, § 1er, 3° \" est chaque fois remplacée par le membre de phrase \" l'article 18, § 1er, 3° et 8° à 16° \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.387Z",
+  "tokenUsage": {
+    "prompt": 2061,
+    "completion": 483,
+    "total": 2544
+  }
+}

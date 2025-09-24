@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016205142",
+  "articleNumber": "19",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-19\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 19</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le même chapitre du même arrêté royal est complété par un article 91triciesquater rédigé comme suit : \" Art. 91triciesquater - Conditions d'admission Une personne peut exercer la fonction de chef d'atelier si elle :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">remplit les conditions mentionnées à l'article 91quater, à l'exception de l'alinéa 1er, 2°;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">occupe, en tant que membre du personnel désigné à titre temporaire ou nommé ou engagé à titre définitif, une des fonctions de recrutement suivantes, dans l'enseignement secondaire inférieur ou supérieur organisé ou subventionné par la Communauté germanophone :</span>\n          <ol>\n            <li class=\"sub-provision\" data-marker=\"a)\">\n              <span class=\"provision-text\">professeur de cours techniques;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"b)\">\n              <span class=\"provision-text\">professeur de pratique professionnelle;</span>\n            </li>\n            <li class=\"sub-provision\" data-marker=\"c)\">\n              <span class=\"provision-text\">professeur de cours techniques et de pratique professionnelle;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">remplit les conditions énoncées à l'article 17, alinéa 1er, 1° et 3° à 5°, pour la fonction mentionnée au 2° du présent article.\"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.660Z",
+  "tokenUsage": {
+    "prompt": 1978,
+    "completion": 483,
+    "total": 2461
+  }
+}

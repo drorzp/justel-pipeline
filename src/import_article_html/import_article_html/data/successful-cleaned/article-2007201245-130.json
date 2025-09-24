@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007201245",
+  "articleNumber": "130",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-130\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 130</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les membres du personnel nommés ou engagés à titre définitif en qualité de directeur au sens de l'article 2, § 1er,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">du présent décret, ou dans une fonction de sélection ou de promotion telle que visée à l'article 4,</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">et à l'article 5,</span>\n        </li>\n      </ol>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">du décret du 4 janvier 1999 précité ainsi qu'à l'article 7, c),</span>\n        </li>\n        <li class=\"provision\" data-number=\"12°\">\n          <span class=\"provision-text\">de l'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 précité, avant la date d'entrée en vigueur du présent décret, sont réputés nommés ou engagés à titre définitif en vertu des dispositions contenues dans le présent décret.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.983Z",
+  "tokenUsage": {
+    "prompt": 1817,
+    "completion": 405,
+    "total": 2222
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017030652",
+  "articleNumber": "200",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-200\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 200</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 26 de la même loi, modifié par la loi du 29 décembre 2010, est remplacé comme suit : \"Art. 26. A l'exception de l'article 18, ce chapitre entre en vigueur comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">les articles 19, 1° et 2°, 20, 1°, et 24 produisent leurs effets le 1er janvier 2017 ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">les articles 19, 3°, 20, 3°, 21, 22, 23 et 25, 2°, entrent en vigueur à une date à fixer par le Roi ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">les articles 20, 2° et 25, 1°, entrent en vigueur à une date à fixer par le Roi et au plus tard le 1er janvier 2020.</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">L'application des dispositions reprises à l'article 20 n'est obligatoire que pour les actes reçus à partir de la date visée à l'alinéa 1er, 2°.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.732Z",
+  "tokenUsage": {
+    "prompt": 1898,
+    "completion": 405,
+    "total": 2303
+  }
+}

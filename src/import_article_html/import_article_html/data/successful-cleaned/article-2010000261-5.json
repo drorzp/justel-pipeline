@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010000261",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article IV.7 AEPol, est complété par les 15° et 16°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"15°\">\n                    <span class=\"provision-text\">la présence ou la dépendance à la consommation de psychotropes et de médicaments;</span>\n                </li>\n                <li class=\"provision\" data-number=\"16°\">\n                    <span class=\"provision-text\">la présence ou la dépendance à la consommation d'alcool.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.282Z",
+  "tokenUsage": {
+    "prompt": 1553,
+    "completion": 212,
+    "total": 1765
+  }
+}

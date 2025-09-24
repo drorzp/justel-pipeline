@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008A24327",
+  "articleNumber": "143/5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-143/5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 143/5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2019-02-28/07\" data-law-type=\"L\" data-article-number=\"34\">\n                En ce qui concerne les matières visées à l'article 137, 16° et 18°, ainsi que d'autres matières que soumet la gestion du réseau hospitalier clinique locorégional au conseil médical du réseau hospitalier clinique locorégional, le conseil médical soumet l'avis endéans un mois, à moins que la gestion et le conseil médical n'en aient convenu autrement. Si, à l'expiration du délai, aucun avis n'a été rendu, la gestion du réseau hospitalier clinique locorégional peut prendre une décision.  \n                Les demandes d'avis et les avis sont formulés par écrit.  \n                Le résultat du vote est joint à l'avis. La minorité peut ajouter à l'avis majoritaire, à sa demande, une note exposant sa position.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.065Z",
+  "tokenUsage": {
+    "prompt": 1854,
+    "completion": 291,
+    "total": 2145
+  }
+}

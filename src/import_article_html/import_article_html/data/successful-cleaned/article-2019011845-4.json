@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2019011845",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Obligation d'enregistrement<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-07-14/04\" data-law-type=\"AR\" data-article-number=\"3\" data-referenced-text=\"En application de l'article 3, alinéa 1er, 2°,\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024071404#Art.3\">En application de l'article 3, alinéa 1er, 2°,</span> un enregistrement est demandé auprès du service compétent, avant la mise à disposition du produit biocide sur le marché belge, pour chaque produit biocide contenant les substances actives suivantes:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\"><span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2024-07-14/04\" data-law-type=\"AR\" data-article-number=\"3\" data-referenced-text=\"une ou plusieurs substances actives existantes qui ont été ou sont évaluées\" data-direct-article-url=\"https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&lg_txt=f&cn_search=2024071404#Art.3\">une ou plusieurs substances actives existantes qui ont été ou sont évaluées</span> dans le cadre du programme de travail aux fins de l'examen systématique de toutes les substances actives existantes tel que visé à l'article 89, paragraphe 1er, du Règlement Biocides, mais qui n'ont pas encore été approuvées pour ce type de produit ; ou</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">une combinaison de toute substance active visée au 1° et de substances actives approuvées conformément au Règlement Biocides.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.296Z",
+  "tokenUsage": {
+    "prompt": 2071,
+    "completion": 545,
+    "total": 2616
+  }
+}

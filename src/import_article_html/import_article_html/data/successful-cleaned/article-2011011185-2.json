@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011011185",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 1er de l'arrêté royal du 4 août 1992 relatif aux coûts, aux taux, à la durée et aux modalités de remboursement du crédit à la consommation, modifié par l'arrêté royal du 19 octobre 2006, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"provision-text\">le 1° est remplacé par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">la loi, la loi du 12 juin 1991 relative au crédit à la consommation;</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"provision-text\">les 4° et 6° sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.149Z",
+  "tokenUsage": {
+    "prompt": 1751,
+    "completion": 304,
+    "total": 2055
+  }
+}

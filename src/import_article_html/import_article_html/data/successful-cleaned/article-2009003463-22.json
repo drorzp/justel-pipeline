@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009003463",
+  "articleNumber": "22",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 22</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">A l'article 1er, § 1er, de l'arrêté royal n° 31, du 2 avril 2002, relatif aux modalités d'application de la taxe sur la valeur ajoutée en ce qui concerne les opérations effectuées par les assujettis qui ne sont pas établis en Belgique, modifié par l'arrêté royal du 21 avril 2007, les modifications suivantes sont apportées :\n            <ol class=\"sub-provisions\">\n              <li class=\"sub-provision\" data-marker=\"a)\">dans l'alinéa 1er, premier tiret, les mots \"article 51, § 2, 1°, 2°, 5° et 6°\" sont remplacés par les mots \"article 51, § 2, alinéa 1er, 1°, 2°, 5° et 6°\";</li>\n              <li class=\"sub-provision\" data-marker=\"b)\">dans l'alinéa 1er, deuxième tiret, les mots \"article 51, § 2, 3° et 4°\" sont remplacés par les mots \"article 51, § 2, alinéa 1er, 3° et 4°\";</li>\n              <li class=\"sub-provision\" data-marker=\"c)\">dans l'alinéa 2, dans le texte néerlandais, le mot \"ontheven\" est remplacé par le mot \"ontslagen\".</li>\n            </ol>\n          </span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.032Z",
+  "tokenUsage": {
+    "prompt": 1986,
+    "completion": 443,
+    "total": 2429
+  }
+}

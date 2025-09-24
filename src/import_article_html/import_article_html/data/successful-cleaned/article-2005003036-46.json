@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2005003036",
+  "articleNumber": "46",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-46\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 46</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 221, 2°, du même Code, modifié par les lois du 22 décembre 1998 et du 26 mars 1999, les mots \"article 90, 5° à 7°\" sont remplacés par les mots \"article 90, 5° à 7° et 11°\".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.744Z",
+  "tokenUsage": {
+    "prompt": 1503,
+    "completion": 157,
+    "total": 1660
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012999",
+  "articleNumber": "199",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-199\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 199</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er septembre 2019, à l'exception des articles 11, 12, 13, 14, 15, 25, 26, 27, 28, 29, 30, 1°,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">et</span>\n                </li>\n            </ol>\n            <p class=\"closing-text\">4°, des articles 31, 171, 172, 173, 174, 176, 177, 189 et 190, qui entrent en vigueur le 1er janvier 2019, et de l'article 120, qui entre en vigueur le lendemain de sa publication au Moniteur belge.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.665Z",
+  "tokenUsage": {
+    "prompt": 1665,
+    "completion": 263,
+    "total": 1928
+  }
+}

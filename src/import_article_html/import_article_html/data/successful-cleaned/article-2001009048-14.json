@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001009048",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>A l'article 380bis du même Code, remplacé par la loi du 13 avril 1995, qui devint l'article 380, sont apportées les modifications suivantes :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">aux §§ 3, 4 et 5, les mots \" des travaux forcés \" sont remplacés par les mots \" de la réclusion \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">au § 4, 1° et 4°, les mots \" âgé de moins de seize ans \" sont supprimés;</span>\n      </li>\n      <li class=\"provision\" data-number=\"3°\">\n        <span class=\"provision-text\">le § 4 est complété par un 5°, libellé comme suit :</span>\n        <ol>\n          <li class=\"sub-provision\" data-marker=\"5°\">\n            <span class=\"provision-text\">quiconque aura obtenu par la remise, l'offre ou la promesse d'un avantage matériel ou financier, la débauche ou la prostitution d'un mineur.</span>\n          </li>\n        </ol>\n      </li>\n      <li class=\"provision\" data-number=\"4°\">\n        <span class=\"provision-text\">au § 5, les mots \" de moins de dix ans \" sont remplacés par les mots \" de moins de seize ans \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"5°\">\n        <span class=\"provision-text\">il est inséré un § 6, rédigé comme suit :</span>\n        <section class=\"paragraph\">\n          <h3 class=\"paragraph-marker\">§ 6.</h3>\n          <div class=\"paragraph-content\">\n            <p>Quiconque aura assisté à la débauche ou à la prostitution d'un mineur sera puni d'un emprisonnement de un mois à deux ans et d'une amende de cent francs à deux mille francs.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.216Z",
+  "tokenUsage": {
+    "prompt": 2082,
+    "completion": 546,
+    "total": 2628
+  }
+}

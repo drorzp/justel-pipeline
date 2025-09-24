@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007022612",
+  "articleNumber": "68",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-68\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 68</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La modification apportée par l'article 7, 2°, à l'article 2, § 3, de la loi du 16 juin 1970 peut, à la demande de l'intéressé, être appliquée aux pensions en cours à la date de la publication de la présente loi au Moniteur belge. La révision suite à la modification apportée par l'article 7, 2°, est opérée selon les modalités définies ci-après :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">pour les pensions qui ont pris cours à partir du 1er janvier 1990, le montant nominal de la pension en vigueur à la date à laquelle la révision doit être effectuee est multiplié par le rapport existant entre le montant nominal que la pension aurait atteint initialement si elle avait été établie compte tenu des dispositions de l'article 7, 2° et le montant nominal initial;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">pour les pensions ayant pris cours avant le 1er janvier 1990, le montant nominal de la pension en vigueur à la date à laquelle la révision doit être effectuée est multiplié par le rapport existant entre le montant nominal que la pension aurait atteint initialement si elle avait été établie compte tenu des dispositions de l'article 7, 2° et le montant nominal initial, ces deux derniers montants étant dument transposés à l'indice-pivot 138,01. Pour cette transposition, il est fait application des dispositions de l'article 10, § 1er, alinéa 2, de la loi du 2 janvier 1990 accordant temporairement un complément de pension à certains pensionnés du secteur public.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">La révision produit ses effets le 1er janvier 1999.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.957Z",
+  "tokenUsage": {
+    "prompt": 2152,
+    "completion": 518,
+    "total": 2670
+  }
+}

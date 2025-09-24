@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2011018203",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <p>Dans l'article 7 du même arrêté, les modifications suivantes sont apportées :</p>\n    <ol class=\"numbered-provisions\">\n      <li class=\"provision\" data-number=\"1°\">\n        <span class=\"provision-text\">au § 1er, les mots \" et des organismes nuisibles visés à l'article 2, 3° et 4°, \" sont insérés entre les mots \" énumérés à l'annexe Ire, partie A, \" et les mots \" est interdite \";</span>\n      </li>\n      <li class=\"provision\" data-number=\"2°\">\n        <span class=\"provision-text\">un paragraphe 6 est ajouté, formulé comme suit :</span>\n        <section class=\"paragraph\" id=\"para-6\">\n          <h3 class=\"paragraph-marker\">§ 6.</h3>\n          <div class=\"paragraph-content\">\n            <p>L'introduction et la dissémination sur le territoire de la Belgique de végétaux, produits végétaux ou autres objets contaminés par les organismes nuisibles visés à l'article 2, 3° et 4°, est interdite.</p>\n          </div>\n        </section>\n      </li>\n    </ol>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.163Z",
+  "tokenUsage": {
+    "prompt": 1759,
+    "completion": 331,
+    "total": 2090
+  }
+}

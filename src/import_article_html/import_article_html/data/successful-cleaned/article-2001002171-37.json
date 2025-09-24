@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001002171",
+  "articleNumber": "37",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-37\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 37</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 7 du même arrêté est remplacé par la disposition suivante :</p>\n      <p class=\"intro-text\">\" Art. 7. Le Comité de gestion peut déléguer les attributions visées à l'article 6, 4°, g,</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"7°\">\n          <span class=\"provision-text\">du présent arrêté à l'administrateur délégué de SELOR - Bureau de sélection de l'Administration fédérale. Celui-ci peut déléguer tout ou partie de ses attributions à un titulaire d'une fonction de management -2 auprès dudit Bureau.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.206Z",
+  "tokenUsage": {
+    "prompt": 1637,
+    "completion": 267,
+    "total": 1904
+  }
+}

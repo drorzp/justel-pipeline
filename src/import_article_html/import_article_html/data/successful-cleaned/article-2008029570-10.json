@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008029570",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Pour bénéficier de la subvention visée à l'article 4, l'association :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Doit engager les travailleurs dans les liens d'un contrat de travail. Pour les travailleurs visés à l'article 9, 1° et 2°, il doit s'agir d'un contrat de travail d'employé;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Pour l'emploi visé à l'article 9, 1°, ne peut pas bénéficier, d'une ou de plusieurs autre(s) subvention(s) structurelle(s) à l'emploi émanant de pouvoirs publics, de fonds ou de dispositif(s) de subventionnement à l'emploi;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Pour l'emploi autre que celui visé à l'article 9, 1°, ne peut pas bénéficier, d'une ou de plusieurs autre(s) subvention(s) structurelle(s) à l'emploi émanant de pouvoirs publics, de fonds ou de dispositif(s)de subventionnement à l'emploi qui, additionnée(s) à la subvention visée par le présent décret, dépasse(nt) les charges admissibles telles que définies à l'article 20.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.053Z",
+  "tokenUsage": {
+    "prompt": 1908,
+    "completion": 405,
+    "total": 2313
+  }
+}

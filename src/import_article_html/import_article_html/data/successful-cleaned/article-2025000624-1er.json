@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2025000624",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 4, § 2, de l'arrêté du Gouvernement flamand du 10 mars 2023 portant création et composition du comité de contrôle pour la mise en oeuvre du plan stratégique flamand relevant de la PAC pour la période 2023-2027, modifié par l'arrêté du Gouvernement flamand du 26 janvier 2024, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">entre les points 4° et 5°, il est inséré un point 4° /1, rédigé comme suit : \" 4° /1 un représentant proposé par le ministre flamand qui a la politique rurale dans ses attributions ; \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 13° est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.767Z",
+  "tokenUsage": {
+    "prompt": 1724,
+    "completion": 306,
+    "total": 2030
+  }
+}

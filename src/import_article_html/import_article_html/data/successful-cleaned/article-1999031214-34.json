@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999031214",
+  "articleNumber": "34",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 34</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le stage est suspendu dès que le stagiaire compte, (en dehors des congés visés à l'article 31, alinéa 3, 1° à 3° et 7°)<span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-06-04/15\" data-law-type=\"ARR\" data-article-number=\"7\"> et 8°, plus de 15 jours</span> d'absence dûment justifiés. <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2002-09-26/51\" data-law-type=\"ARR\" data-article-number=\"10\">&lt;ARR 2002-09-26/51, art. 10, 003;**En vigueur :**22-12-2000&gt;</span></p>\n      <p>Pendant la suspension du stage, l'intéressé conserve sa qualité de stagiaire. Il conserve également celle-ci jusqu'à la date où une décision définitive de nomination ou de licenciement est prise.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.177Z",
+  "tokenUsage": {
+    "prompt": 1789,
+    "completion": 308,
+    "total": 2097
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006022405",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <p>A l'article 22, § 1er, de l'arrêté royal du 3 novembre 1969 déterminant pour le personnel navigant de l'aviation civile les règles spéciales pour l'ouverture du droit à la pension et les modalités spéciales d'application de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés, modifié en dernier lieu par l'arrêté royal du 27 juillet 1997, les nombres 6,12 et 10,38, mentionnés sous</p>\n                    <ol class=\"sub-provisions\">\n                        <li class=\"sub-provision\" data-marker=\"b)\">\n                            <span class=\"sub-provision-text\">b)</span>\n                            <ol class=\"numbered-provisions\">\n                                <li class=\"provision\" data-number=\"1°\">\n                                    <span class=\"provision-text\">6,12</span>\n                                </li>\n                                <li class=\"provision\" data-number=\"2°\">\n                                    <span class=\"provision-text\">10,38</span>\n                                </li>\n                            </ol>\n                        </li>\n                    </ol>\n                    <p>sont respectivement remplacés par les nombres :</p>\n                    <p>2,04 et 3,46 pour la période du 1er juillet 2007 au 30 juin 2008;</p>\n                    <p>4,08 et 6,92 pour la période du 1er juillet 2008 au 30 juin 2009;</p>\n                    <p>6,12 et 10,38 pour la période à partir du 1er juillet 2009.</p>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.669Z",
+  "tokenUsage": {
+    "prompt": 1979,
+    "completion": 472,
+    "total": 2451
+  }
+}

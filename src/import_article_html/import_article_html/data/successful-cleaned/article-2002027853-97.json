@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002027853",
+  "articleNumber": "97",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-97\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 97</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrête produit ses effets au 1er janvier 2002 à l'exception :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">de l'article 92, 2°, qui produit ses effets au 1er janvier 2000;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">des articles 90, 4°, et 92, 1° et 3°, qui produisent leurs effets au 1er octobre 2000;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">des articles 46, 47, 2e alinéa, 49, 53, 2e alinéa, et du point 1 b) de l'annexe IV en ce qui concerne les bénéficiaires visés à l'article 53, 2e alinéa, qui produisent leurs effets au 3 février 2001;</span></li>\n        <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">des articles 1er, 10, 11, 20, 21, 23, 25 à 32, 65, 72, 73, 75, 80 à 82, 85, 88, 89, 90, 2°, 94 et 96 à 98 qui entrent en vigueur le jour de la publication du présent arrêté au Moniteur belge ;</span></li>\n        <li class=\"provision\" data-number=\"5°\"><span class=\"provision-text\">des articles 2, 13, 33, 34, 36, 66, 67, 71, 74 et 86 qui entrent en vigueur au 1er janvier 2003;</span></li>\n        <li class=\"provision\" data-number=\"6°\"><span class=\"provision-text\">de l'article 56, qui entre en vigueur au 1er janvier 2004.</span></li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.699Z",
+  "tokenUsage": {
+    "prompt": 2141,
+    "completion": 549,
+    "total": 2690
+  }
+}

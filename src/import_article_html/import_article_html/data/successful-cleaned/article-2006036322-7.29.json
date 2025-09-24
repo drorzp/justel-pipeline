@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2006036322",
+  "articleNumber": "7.29",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7-29\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7.29</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 5 du même décret, modifié par les décrets des 21 décembre 1994, 1er décembre 1998, 14 février 2003, 10 juillet 2003 et 15 juillet 2005, sont ajoutés un point 21° et un point 22°, rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"21°\">\n                    <span class=\"provision-text\">l'instance compétente de la religion ou du culte concerné : l'instance ou les personnes ayant la compétence sur la base de leur propre réglementation interne, ou l'instance ou les personnes auxquelles la compétence a été conférée par l'organe représentatif du culte ou par le chef du culte;</span>\n                </li>\n                <li class=\"provision\" data-number=\"22°\">\n                    <span class=\"provision-text\">l'instance compétente de la morale non confessionnelle : l'association agréée de la communauté non confessionnelle, visée au décret du 1er décembre 1993 relatif à l'inspection et à l'encadrement des cours philosophiques.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.730Z",
+  "tokenUsage": {
+    "prompt": 1825,
+    "completion": 350,
+    "total": 2175
+  }
+}

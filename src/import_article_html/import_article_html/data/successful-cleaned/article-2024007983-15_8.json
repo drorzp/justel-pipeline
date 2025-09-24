@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024007983",
+  "articleNumber": "15/8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15/8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 15/8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'agence subventionne les points de personnel pour lesquels les unités, visées à l'article 15/2, alinéa 1er, ont été agréées, le cas échéant, diminués des points de personnel convertis en moyens de fonctionnement conformément à l'article 15/10. L'agence accorde une subvention de fonctionnement supplémentaire de 89 euros par point de personnel pour lequel l'unité, visée à l'article 15/2, alinéa 1er, est agréée. L'agence subventionne les moyens de fonctionnement, visés à l'article 15/10, alinéa 1er, si toutes les conditions suivantes sont remplies :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">il y a eu une concertation préalable relative à l'affectation du montant avec l'organe de concertation collectif, visé à l'article 27 de l'arrêté du 4 février 2011, ou il y a eu un droit d'expression collectif tel que visé à l'article 30 de l'arrêté précité ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">il y a eu une concertation avec la représentation des travailleurs ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">de la transparence a été offerte à ces filières de concertation, visées aux points 1° et 2°, en matière de l'affectation.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">A la demande de l'agence, l'unité visée à l'article 15/2, alinéa 1er, prouve le résultat de la concertation avec l'organe de concertation collectif ou la participation collective et l'accord écrit avec la représentation des travailleurs.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.454Z",
+  "tokenUsage": {
+    "prompt": 2129,
+    "completion": 521,
+    "total": 2650
+  }
+}

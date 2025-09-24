@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021022839",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 2</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 991, alinéa 1er, du Code réglementaire wallon de l'Action sociale et de la Santé est complété par les points 11° et 12° rédigés comme suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"11°\">\n          <span class=\"provision-text\">Coût d'administration : les frais de téléphonie, les frais informatiques, les frais de mission et de déplacement ainsi que les frais de fournitures de bureau ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"12°\">\n          <span class=\"provision-text\">Coordinateur socioprofessionnel : personne qui coordonne et développe le projet d'insertion socioprofessionnelle du travailleur de production en collaboration avec les partenaires internes et externes.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.123Z",
+  "tokenUsage": {
+    "prompt": 1677,
+    "completion": 276,
+    "total": 1953
+  }
+}

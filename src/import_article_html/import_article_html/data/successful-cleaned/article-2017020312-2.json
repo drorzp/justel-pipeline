@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017020312",
+  "articleNumber": "2",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-2\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 2</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 1.1.3 du décret sur l'Energie du 8 mai 2009, modifié en dernier lieu par le décret du 24 février 2017, les points:</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">et</span></li>\n                <li class=\"provision\" data-number=\"96°\"><span class=\"provision-text\">sont abrogés.</span></li>\n            </ol>\n            <p class=\"closing-text\">(NOTE: Entrée en vigueur de l'article 2 fixée au 05-06-2017 par <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2017-04-28/09\" data-law-type=\"AGF\" data-article-number=\"2\">AGF[2017-04-28/09](https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&amp;lg_txt=f&amp;cn_search=2017042809), art. 2</span>)</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.598Z",
+  "tokenUsage": {
+    "prompt": 1679,
+    "completion": 323,
+    "total": 2002
+  }
+}

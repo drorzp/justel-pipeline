@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2008009861",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">L'article 4 de l'arrêté royal du 20 septembre 1991 relatif aux armes à feu d'intérêt historique, folklorique ou décoratif et aux armes à feu rendues inaptes au tir, modifié par l'arrêté royal du 29 décembre 2006, est complété par la phrase suivante :</p>\n            <p class=\"intro-text\">\" En outre, lors de la cession d'une arme visée à l'article 1er,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">et</span></li>\n            </ol>\n            <p class=\"closing-text\">6°, la procédure prévue à l'article 25 de l'arrêté royal du 20 septembre 1991 exécutant la loi sur les armes est appliquée et un document modèle n° 9 est établi.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.993Z",
+  "tokenUsage": {
+    "prompt": 1674,
+    "completion": 275,
+    "total": 1949
+  }
+}

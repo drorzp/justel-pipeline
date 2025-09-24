@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023040424",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'accompagnement orienté coaching et solutions est initié par le FOREm dès l'inscription du chercheur d'emploi. Le FOREm, sur base des données visées à l'article 4/1, § 1er, alinéa 1er, 2°, 4°, 6°, 7° à 12°, 14° et 17° à 19°, du décret du 6 mai 1999 dont il dispose, objective :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le degré de robustesse du positionnement métier du chercheur d'emploi ;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">son degré d'autonomie numérique ;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">son degré de proximité du marché du travail.</span></li>\n      </ol>\n      <p class=\"intro-text\">Dès l'inscription du chercheur d'emploi, le FOREm peut prévoir des actions génériques visant à renforcer l'objectivation des éléments visés à l'alinéa 1er, 1° à 3°.</p>\n      <p class=\"closing-text\">Dès l'inscription du chercheur d'emploi et tout au long de son accompagnement, le FOREm lui transmet des offres d'emploi adaptées à son profil et son positionnement métier.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.721Z",
+  "tokenUsage": {
+    "prompt": 1903,
+    "completion": 407,
+    "total": 2310
+  }
+}

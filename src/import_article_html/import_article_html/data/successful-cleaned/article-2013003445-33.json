@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013003445",
+  "articleNumber": "33",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-33\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 33</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 42, § 3, alinéa 1er, du même Code, remplacé par la loi du 29 décembre 2010, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"a)\">\n          <span class=\"provision-text\">dans les 1° à 3° et 5° à 8°, les mots \", les acquisitions intracommunautaires\" sont abrogés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"b)\">\n          <span class=\"provision-text\">le 4° est remplacé par ce qui suit : \n            <ol class=\"nested-provisions\">\n              <li class=\"sub-provision\" data-marker=\"4°\">\n                <span class=\"provision-text\">les livraisons, les importations de biens et les prestations de services destinées aux organismes internationaux, autres que ceux visés au 3° et aux fonctionnaires appartenant à ces organismes, dans la mesure où l'exemption est prévue par une convention à laquelle la Belgique fait partie;</span>\n              </li>\n            </ol>\n          </span>\n        </li>\n        <li class=\"provision\" data-number=\"c)\">\n          <span class=\"provision-text\">dans le texte néerlandais du 6°, les mots \"en de intracommunautaire verwervingen\" sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.082Z",
+  "tokenUsage": {
+    "prompt": 1818,
+    "completion": 397,
+    "total": 2215
+  }
+}

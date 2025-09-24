@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030573",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Des membres proposés visés à l'article 2, le Ministre désigne la moitié comme membres effectifs et la moitié comme membres suppléants.\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">et</span>\n        </li>\n        <li class=\"provision\" data-number=\"6°\">\n          <span class=\"provision-text\">se trouvent dans l'impossibilité de désigner des représentants au moment de la demande, le ministre peut, dans l'attente d'une proposition par ces organisations, désigner lui-même des représentants pour ces organisations.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">\n        Le Ministre communique les noms des membres effectifs et suppléants désignés au Gouvernement flamand.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.474Z",
+  "tokenUsage": {
+    "prompt": 1629,
+    "completion": 269,
+    "total": 1898
+  }
+}

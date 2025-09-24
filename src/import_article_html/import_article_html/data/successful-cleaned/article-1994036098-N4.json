@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1994036098",
+  "articleNumber": "N4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-N4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article N4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Annexe 4. Liste des informations minimales à fournir à la population en cas d'apparition de niveaux élevés d'ozone dans l'air.</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">Date, heure et lieu d'apparition de concentrations supérieures aux seuils définis aux points 3° et 4° de l'annexe I</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">Référence au(x) type(s) de valeurs communautaires dépassées (information ou alerte).</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">Prévision :</span>\n          <ul class=\"hyphenated-items\">\n            <li class=\"hyphenated-item\" data-marker=\"-\">\n              <span class=\"item-text\">évolution des concentrations (amélioration, stabilisation ou détérioration);</span>\n            </li>\n            <li class=\"hyphenated-item\" data-marker=\"-\">\n              <span class=\"item-text\">aire géographique concernée;</span>\n            </li>\n            <li class=\"hyphenated-item\" data-marker=\"-\">\n              <span class=\"item-text\">durée.</span>\n            </li>\n          </ul>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">Population concernée.</span>\n        </li>\n        <li class=\"provision\" data-number=\"5°\">\n          <span class=\"provision-text\">Précautions à prendre par la population concernée.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Vu pour être annexé à l'arrêté du Gouvernement flamand du 20 juillet 1994 concernant la pollution de l'air par l'ozone.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.124Z",
+  "tokenUsage": {
+    "prompt": 1961,
+    "completion": 510,
+    "total": 2471
+  }
+}

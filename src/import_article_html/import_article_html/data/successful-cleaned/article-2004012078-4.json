@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004012078",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2006-01-12/45\" data-law-type=\"L\" data-article-number=\"60\">&lt;L 2006-01-12/45, art. 60, 002 ;<strong>En vigueur :</strong>01-01-2006&gt;</span> Les avantages complémentaires prévus à l'article 3, § 1er et qui sont accordés aux personnes visées à l'article 2, 1°, 2° et 4°, sont payées par le <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2016-03-18/03\" data-law-type=\"L\" data-article-number=\"155\">Service fédéral des Pensions</span>.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.662Z",
+  "tokenUsage": {
+    "prompt": 1689,
+    "completion": 259,
+    "total": 1948
+  }
+}

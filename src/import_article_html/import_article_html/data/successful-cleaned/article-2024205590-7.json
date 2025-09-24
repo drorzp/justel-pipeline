@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024205590",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 7</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 8 du même décret, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, 3°, les mots \" , du programme et du budget \" sont remplacés par les mots \" et du programme \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans l'alinéa 1er, 4°, le mot \" désignation \" est remplacé par le mot \" sélection \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2, qui devient l'alinéa 3 :<br>\" S'il considère que cela est nécessaire, le conseil citoyen peut déléguer tout ou partie des tâches énoncées à l'alinéa 1er, 3°, 5° et 6°, à l'assemblée citoyenne. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">l'alinéa 2, qui devient l'alinéa 3, est complété par une phrase rédigée comme suit :<br>\" Si les décisions prises, visées aux alinéas 1er et 2, donnent lieu à des obligations juridiquement contraignantes, le Parlement assume ces dernières. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:55.754Z",
+  "tokenUsage": {
+    "prompt": 1977,
+    "completion": 455,
+    "total": 2432
+  }
+}

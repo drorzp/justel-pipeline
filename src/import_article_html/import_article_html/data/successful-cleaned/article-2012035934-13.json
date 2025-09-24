@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012035934",
+  "articleNumber": "13",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-13\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 13</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Gouvernement flamand subventionne les services autorisés de placement familial sur la base des modules types réellement déployés et du nombre d'accompagnements tels que visés à l'article 7, § 2.</p>\n                <p>Le Gouvernement flamand peut arrêter des conditions de subventionnement supplémentaires, étant entendu qu'un déploiement subventionnable maximal de modules types et de modules, tel que visé à l'article 3, peut uniquement être fixé pour le placement familial à traitement.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le Gouvernement flamand peut accorder une subvention d'investissement et une garantie d'investissement, telles que visées à l'article 2, 5° et 6°, du décret du 23 février 1994 relatives à l'infrastructure affectée aux matières personnalisables, à un service autorisé de placement familial.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.323Z",
+  "tokenUsage": {
+    "prompt": 1787,
+    "completion": 337,
+    "total": 2124
+  }
+}

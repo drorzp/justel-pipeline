@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015011392",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 4</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le même arrêté, il est inséré un article 3/1 rédigé comme suit:</p>\n            <blockquote class=\"article-quote\">\n                <p class=\"quoted-text\">\" Art. 3/1. Le président excepté, le comité compte autant de membres effectifs d'expression française que néerlandaise, ainsi qu'autant de membres suppléants d'expression française que néerlandaise.</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"14°\">\n                        <span class=\"provision-text\">Les membres effectifs, visés à l'article 2,14°</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"17°\">\n                        <span class=\"provision-text\">ne peuvent appartenir au même groupe linguistique. Il en est de même pour les membres suppléants.</span>\n                    </li>\n                    <li class=\"provision\" data-number=\"19°\">\n                        <span class=\"provision-text\">Les membres effectifs, visés à l'article 2,19°, ne peuvent appartenir au même groupe linguistique. Il en est de même pour les membres suppléants.</span>\n                    </li>\n                </ol>\n                <p class=\"closing-text\">\"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.269Z",
+  "tokenUsage": {
+    "prompt": 1715,
+    "completion": 364,
+    "total": 2079
+  }
+}

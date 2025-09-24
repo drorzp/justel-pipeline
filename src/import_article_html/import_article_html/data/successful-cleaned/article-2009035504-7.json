@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2009035504",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">A l'article 5 du même décret sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">dans la première phrase du § 1er, les mots \" la politique des minorités \" sont remplacés par les mots \" la politique de l'intégration \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">au § 1er, le point 4° est remplacé par la disposition suivante : \" 4° l'émission d'avis par et la concertation avec les organisations des personnes, visées à l'article 3, premier alinéa, 1° et 2°. \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                    <span class=\"provision-text\">le paragraphe 2 est abrogé.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:47.092Z",
+  "tokenUsage": {
+    "prompt": 1695,
+    "completion": 304,
+    "total": 1999
+  }
+}

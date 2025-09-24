@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996022344",
+  "articleNumber": "245quinquies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-245quinquies\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 245quinquies</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>\n        <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"1997-11-24/43\" data-article-number=\"3\" data-law-type=\"AR\" data-effective-date=\"01-01-1997\">\n          &lt;Inséré par AR 1997-11-24/43, art. 3;<strong>En vigueur :</strong>01-01-1997&gt;\n        </span>\n        Toute décision de nature administrative sur le droit aux indemnités est communiquée au titulaire ou à son représentant par lettre ordinaire, dans le délai de sept jours civils suivant la date à laquelle la décision a été prise, et comporte les mentions visées à l'article 14, 5° et 6°, de la loi précitée du 11 avril 1995.\n      </p>\n      <p>\n        La communication d'une décision conformément à la présente section ne constitue pas une notification au sens de l'article 7 de la loi précitée du 11 avril 1995.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.910Z",
+  "tokenUsage": {
+    "prompt": 1726,
+    "completion": 314,
+    "total": 2040
+  }
+}

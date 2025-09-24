@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016031783",
+  "articleNumber": "38",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-38\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 38</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">§ 1er.</h3>\n        <div class=\"paragraph-content\">\n          <p>Pour les opérations et actions visées aux articles 21, alinéa 1er, 4° à 7° de l'ordonnance, le bénéficiaire fournit annuellement et au plus tard pour le 31 mai de chaque année les documents suivants à l'administration :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">un décompte complet introduit en une seule fois, reprenant les états de dépenses éligibles des projets sur lesquels porte la demande de paiement ainsi que toutes les pièces justificatives relatives aux opérations subventionnées</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">un rapport financier relatif aux opérations concernées</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">un rapport d'activités relatif aux opérations concernées</span>\n            </li>\n          </ol>\n          <p>Le Ministre peut préciser le contenu des rapports visés à l'alinéa 1er, 2° et 3°.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.226Z",
+  "tokenUsage": {
+    "prompt": 1913,
+    "completion": 376,
+    "total": 2289
+  }
+}

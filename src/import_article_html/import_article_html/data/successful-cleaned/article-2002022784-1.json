@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2002022784",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Les maisons de repos et de soins, les centres de soins de jour et les maisons de repos pour personnes âgées peuvent recevoir un financement supplémentaire pour les prestations visées à l'article 34, alinéa 1er, 11° et 12°, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, lorsqu'elles appliquent au moins, pour les membres de leur personnel dont le coût est couvert par l'intervention visée à l'article 37, § 12, de la même loi, l'ensemble des dispositions reprises dans le présent arrêté.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.689Z",
+  "tokenUsage": {
+    "prompt": 1659,
+    "completion": 210,
+    "total": 1869
+  }
+}

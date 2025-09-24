@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010000288",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 6</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article VII.II.17, alinéa 1er, PJPol, modifié par l'arrêté royal du 2 avril 2004, les mots &quot; Les articles IV.I.15, alinéa 1er, IV.I.16 &quot; sont remplacés par les mots &quot; Les articles IV.I.15, alinéa 1er, 1°, 2° et 4°, IV.I.16 &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.282Z",
+  "tokenUsage": {
+    "prompt": 1598,
+    "completion": 185,
+    "total": 1783
+  }
+}

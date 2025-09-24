@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1894041255",
+  "articleNumber": "164",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-164\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 164</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-01-06/62\" data-law-type=\"L\" data-article-number=\"72\">Le président du bureau principal de circonscription électorale</span> ouvre les plis contenant les tableaux de recensement en présence du bureau et des témoins, et le bureau procède aussitôt au recensement des voix. \n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1976-07-05\" data-law-type=\"L\" data-article-number=\"61\">L 05-07-1976, art. 61, 1° et 2°</span> \n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1993-07-16/31\" data-law-type=\"L\" data-article-number=\"79\">L 1993-07-16/31, art. 79, 1°</span>\n            </p>\n            <p>\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2023-03-28/02\" data-law-type=\"L\" data-article-number=\"60\">A la demande du président de ces bureaux, le collège des bourgmestre et échevins de la commune sur le territoire de laquelle les dits bureaux sont établis met à la disposition de ceux-ci le personnel dont le nombre est fixé par le Roi, les locaux et le matériel nécessaire à l'accomplissement de leur mission. Les frais faisant suite à cette mise à disposition sont répartis conformément à l'article 130, alinéa 5</span>. \n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"1993-07-16/31\" data-law-type=\"L\" data-article-number=\"79\">L 1993-07-16/31, art. 79, 2°</span>\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.672Z",
+  "tokenUsage": {
+    "prompt": 2136,
+    "completion": 511,
+    "total": 2647
+  }
+}

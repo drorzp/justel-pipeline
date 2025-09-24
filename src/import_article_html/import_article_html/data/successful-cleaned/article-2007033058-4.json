@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007033058",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Quiconque remplit manifestement les conditions mentionnées à l'article 7, 1° à 5° et 7°, ou à l'article 14, alinéa 1er, du décret est admis à l'épreuve théorique.</p>\n      <p>L'épreuve théorique peut être organisée de manière commune pour toutes les catégories d'armes visées à l'article 2. Réussit celui qui répond correctement à deux tiers des questions de l'épreuve théorique.</p>\n      <p>Lors de l'épreuve théorique sont testées les connaissances des candidats relatives</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">à la loi sur les armes;</span></li>\n        <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">au décret;</span></li>\n        <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">aux articles 416 et 417 du code pénal.</span></li>\n      </ol>\n      <p>L'épreuve théorique est écrite et consiste en questions qui peuvent être posées sous différentes formes et à l'aide de différents médias. Les questions sont évaluées d'après leur contenu et l'importance de celui-ci, les questions relatives aux articles 416 et 417 du code pénal étant éliminatoires. La pondération de chaque question est mentionnée dans le catalogue des questions.</p>\n      <p class=\"closing-text\">L'utilisation d'aides est interdite. En cas de tricherie, l'épreuve théorique est considérée comme non réussie. Les surveillants de l'épreuve veillent à son bon déroulement et au calme et à l'ordre dans la salle d'examen.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.970Z",
+  "tokenUsage": {
+    "prompt": 2033,
+    "completion": 473,
+    "total": 2506
+  }
+}

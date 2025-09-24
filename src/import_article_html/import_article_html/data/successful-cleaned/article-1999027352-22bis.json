@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999027352",
+  "articleNumber": "22bis",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-22bis\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 22bis</h2>\n    </header>\n    <div class=\"article-content\">\n        <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-02-12/52\" data-law-type=\"DRW\" data-article-number=\"7\">Inséré par DRW 2004-02-12/52, art. 7;<strong>En vigueur :</strong>29-03-2004</span>\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p class=\"intro-text\">Sont soumis à l'approbation du gouverneur les actes des autorités zonales portant sur les objets suivants :</p>\n                <ol class=\"numbered-provisions\">\n                    <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">le budget zonal et les modifications budgétaires;</span></li>\n                    <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">le cadre du personnel opérationnel et le cadre du personnel administratif et logistique de la zone de police;</span></li>\n                    <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">les comptes annuels zonaux.</span></li>\n                </ol>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Pour les actes visés au paragraphe 1er, 1° et 2°, l'approbation peut être refusée pour violation de la loi et lésion de l'intérêt général et régional.</p>\n                <p>Sont considérés comme tels les actes violant les principes d'une bonne administration ou qui sont contraires à l'intérêt de toute autorité supérieure.</p>\n                <p>Pour les actes visés au paragraphe 1er, 3°, l'approbation ne peut être refusée que pour violation de la loi.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.290Z",
+  "tokenUsage": {
+    "prompt": 2012,
+    "completion": 516,
+    "total": 2528
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001009447",
+  "articleNumber": "16",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-16\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 16</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 475sexies du même Code, inséré par la loi du 21 mars 1969 et modifié par la loi du 31 mars 1987, est remplacé par la disposition suivante :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Art. 475sexies.</h3>\n        <div class=\"paragraph-content\">\n          <p>Il peut être mis fin à la tutelle officieuse par le tribunal de la jeunesse à la requête :</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">soit du tuteur officieux;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">soit des personnes qui ont donné leur accord à la tutelle officieuse conformément à l'article 475bis, ou de celles qui auront reconnu ou légitimé l'enfant après l'établissement de la tutelle officieuse;</span>\n            </li>\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">soit du procureur du Roi.</span>\n            </li>\n          </ol>\n          <p>Le tribunal de la jeunesse instruit la demande dans les formes prévues à l'article 475ter, alinéa 3.</p>\n          <p>S'il met fin à la tutelle officieuse, il peut, sur la demande qui lui en est faite, après avoir recueilli l'avis des personnes énumérées à l'alinéa 1er, 1° et 2°, ci-dessus et entendu le procureur du Roi, supprimer ou réduire l'obligation du tuteur officieux d'entretenir l'enfant et de le mettre en état de gagner sa vie.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.215Z",
+  "tokenUsage": {
+    "prompt": 1962,
+    "completion": 486,
+    "total": 2448
+  }
+}

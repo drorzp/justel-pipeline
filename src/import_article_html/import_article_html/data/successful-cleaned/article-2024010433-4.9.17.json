@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2024010433",
+  "articleNumber": "4.9.17",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4-9-17\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4.9.17</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p class=\"intro-text\">Le demandeur d'enregistrement emploie une ou plusieurs personnes physiques remplissant ensemble les conditions suivantes :</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\"><span class=\"provision-text\">avoir une connaissance approfondie des disciplines de la pédologie, géologie, chimie, biologie et microbiologie ;</span></li>\n          <li class=\"provision\" data-number=\"2°\"><span class=\"provision-text\">avoir une connaissance approfondie des Codes de bonnes pratiques et de la législation environnementale de la Région de Bruxelles-Capitale, en particulier de la législation relative aux permis d'environnement et à la gestion des sols et des déchets ;</span></li>\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">avoir une expérience professionnelle d'au moins trois ans, acquise au cours des six années précédant la date de la demande d'enregistrement, en lien avec les études ou le traitement de la pollution du sol.</span></li>\n        </ol>\n        <p>Les connaissances, mentionnées aux points 1° et 2° sont démontrées par des diplômes universitaires ou des diplômes de l'enseignement supérieur de type long ou équivalents y compris des diplômes étrangers reconnus comme équivalents.</p>\n        <p>L'expérience professionnelle mentionnée au point 3° est attestée par un curriculum vitae, un certificat, une liste de références ou une description de l'expérience pertinente acquise, par exemple dans le cadre d'un enregistrement similaire accordé par les autorités compétentes d'une autre région ou un autre pays.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.470Z",
+  "tokenUsage": {
+    "prompt": 2022,
+    "completion": 477,
+    "total": 2499
+  }
+}

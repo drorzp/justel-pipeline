@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022040486",
+  "articleNumber": "10",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-10\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 10</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 12, § 1er, du même décret, le point 1° est remplacé par ce qui suit :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">l'exploitant d'un hébergement touristique en Région flamande qui ne répond pas aux conditions visées à l'article 4, alinéa premier, 1° à 8° et 10° ;</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.783Z",
+  "tokenUsage": {
+    "prompt": 1547,
+    "completion": 195,
+    "total": 1742
+  }
+}

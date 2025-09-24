@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012003296",
+  "articleNumber": "15",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-15\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 15</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Une société d'investissement à capital variable, dénommée \" sicav \", est constituée sous la forme d'une société anonyme.</p>\n            <p class=\"intro-text\">Son capital varie, sans modification des statuts, en raison de l'émission de parts nouvelles ou du rachat de ses parts.</p>\n            <p class=\"intro-text\">Une sicav ne peut exercer d'autres activités que celle prévue à l'article 3,</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">1°</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">2°,</span>\n                    <ol>\n                        <li class=\"sub-provision\" data-marker=\"a)\">\n                            <span class=\"provision-text\">a)</span>\n                        </li>\n                    </ol>\n                </li>\n            </ol>\n            <p class=\"closing-text\">ni détenir d'autres actifs que ceux nécessaires à la réalisation de son <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2021-06-27/09\" data-law-type=\"L\" data-article-number=\"25\">objet</span>.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.351Z",
+  "tokenUsage": {
+    "prompt": 1731,
+    "completion": 368,
+    "total": 2099
+  }
+}

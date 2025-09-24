@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2021034394",
+  "articleNumber": "77",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-77\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 77</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article D.138 du Livre Ier du Code de l'Environnement, modifié en dernier lieu par le décret du 17 janvier 2019, l'alinéa 1er est complété par les 21° et 22° rédigés comme suit :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"21°\">\n                    <span class=\"provision-text\">le décret du 2 mai 2019 relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes ;</span>\n                </li>\n                <li class=\"provision\" data-number=\"22°\">\n                    <span class=\"provision-text\">le décret du 20 mai 2020 relatif à l'accès aux ressources génétiques et au partage juste et équitable des avantages découlant de leur utilisation.</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.204Z",
+  "tokenUsage": {
+    "prompt": 1691,
+    "completion": 283,
+    "total": 1974
+  }
+}

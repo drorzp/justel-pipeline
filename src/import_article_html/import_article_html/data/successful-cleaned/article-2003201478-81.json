@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003201478",
+  "articleNumber": "81",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-81\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 81</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article X.55 du décret du 14 février 2003 relatif à l'enseignement XIV sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le premier alinéa sont insérés, entre les mots \"du personnel d'appui,\" et \"du personnel administratif\", les mots \"du personnel de gestion et d'appui,\";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 4° est remplacé par la disposition suivante :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">pour les emplois créés dans une fonction du personnel enseignant, du personnel directeur ou du personnel de gestion et d'appui, le Gouvernement flamand fixe le nombre de points devant être porté en compte pour un membre du personnel qui est désigné à cette fonction.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les points 5° et 6° sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">il est ajouté un troisième alinéa, rédigé ainsi qu'il suit :</span>\n          <p class=\"closing-text\">\"Par dérogation aux dispositions du deuxième alinéa, les membres du personnel de gestion et d'appui de l'enseignement fondamental sont soumis à toutes les dispositions du décret relatif au statut des membres du personnel de l'enseignement communautaire et du décret relatif au statut des membres du personnel de l'enseignement subventionné.\"</p>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.733Z",
+  "tokenUsage": {
+    "prompt": 2098,
+    "completion": 498,
+    "total": 2596
+  }
+}

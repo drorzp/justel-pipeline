@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2010014111",
+  "articleNumber": "35",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-35\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 35</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2013-02-27/03\" data-law-type=\"AR\" data-article-number=\"21\">\n        Les agents qualifiés visés à l'article 3, \n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"1°\">\n            <span class=\"provision-text\">1°</span>\n          </li>\n          <li class=\"provision\" data-number=\"2°\">\n            <span class=\"provision-text\">2°</span>\n          </li>\n          <li class=\"provision\" data-number=\"7°\">\n            <span class=\"provision-text\">7°</span>\n          </li>\n        </ol>\n        , du Code de la route sont chargés de veiller au respect des dispositions du présent arrêté.\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.243Z",
+  "tokenUsage": {
+    "prompt": 1607,
+    "completion": 268,
+    "total": 1875
+  }
+}

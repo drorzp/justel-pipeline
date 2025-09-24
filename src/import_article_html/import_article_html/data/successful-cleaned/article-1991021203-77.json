@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1991021203",
+  "articleNumber": "77",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-77\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 77</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">La présente section s'applique :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">aux membres du personnel de l'enseignement communautaire non universitaire nommés à titre définitif ou y assimilés, à l'exclusion du personnel de maîtrise, gens de métier et de service;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">aux membres du personnel de l'enseignement non universitaire nommés à titre définitif ou y assimilés, et admis en cette qualité aux subventions-traitements.</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2012-04-22/24\" data-law-type=\"L\" data-article-number=\"2\">\n            <span class=\"provision-text\">aux membres du personnel visés au 1° et au 2° qui, par ou en vertu d'un décret, sont transférés d'une école supérieure à une université avec maintien de leur statut juridique, en ce compris toutes les modifications futures et pour autant qu'ils ne soient pas repris en application du statut juridique de l'université.</span>\n          </span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Pour l'application de l'alinéa 1er, est assimilée à une nomination à titre définitif, celle considérée comme telle en vertu d'une décision de l'Exécutif communautaire compétent. Les assimilations effectuées avant le 1er janvier 1992 par le Ministre de l'Education nationale restent valables pour autant que l'Exécutif communautaire compétent n'en décide pas autrement.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.009Z",
+  "tokenUsage": {
+    "prompt": 2092,
+    "completion": 483,
+    "total": 2575
+  }
+}

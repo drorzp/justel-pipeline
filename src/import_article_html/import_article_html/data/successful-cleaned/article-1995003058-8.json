@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995003058",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 8</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 16 du même arrêté :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">le § 1 est complété par un 4° rédigé comme suit :\n                    \" 4° en cas d'application de l'article 6bis, les établissements repris à l'article 1, § 2, b et c, de l'arrêté royal du 14 juin 1994 fixant les règles applicables au maintien en compte de titres dématérialisés libellés en monnaies étrangères ou en unités de compte autres que l'écu délivrent au(x) gestionnaire(s) un relevé nominatif de leurs sous-participants établis en Belgique à qui des revenus ont été versés ainsi que pour chacun d'eux, le montant total des revenus qui leur a été octroyé. \"</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans le § 3, alinéa 2, 1°, les mots \" conformément au § 1, 2° et 3° \" sont remplacés par les mots \" conformément au § 1, 2° à 4° \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.962Z",
+  "tokenUsage": {
+    "prompt": 1861,
+    "completion": 369,
+    "total": 2230
+  }
+}

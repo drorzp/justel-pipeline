@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2001036030",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Dans l'art. 12 § 1er, les mots &quot; conformément à l'article 7, 1° et 2° &quot; sont remplacés par les mots &quot; conformément à l'article 7, 1° a et b et 2° a et b &quot;.</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.668Z",
+  "tokenUsage": {
+    "prompt": 1477,
+    "completion": 146,
+    "total": 1623
+  }
+}

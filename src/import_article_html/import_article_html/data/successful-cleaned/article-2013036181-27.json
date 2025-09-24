@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013036181",
+  "articleNumber": "27",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-27\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 27</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>\n          L'agriculteur ou l'horticulteur qui, en application des arrêtés, visés à l'article 26, \n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">a reçu une subvention a jusqu'au 31 décembre 2014 pour satisfaire aux conditions telles que visées à l'article 5, alinéa premier,</span>\n              <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                  <span class=\"provision-text\">,</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                  <span class=\"provision-text\">et</span>\n                </li>\n                <li class=\"provision\" data-number=\"3°\">\n                  <span class=\"provision-text\">.</span>\n                </li>\n              </ol>\n            </li>\n          </ol>\n        </p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.198Z",
+  "tokenUsage": {
+    "prompt": 1509,
+    "completion": 353,
+    "total": 1862
+  }
+}

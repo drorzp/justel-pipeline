@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2000036309",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 28quater, § 1er du décret du 24 janvier 1984 portant des mesures en matière de gestion des eaux souterraines, inséré par le décret du 20 décembre 1996 et modifié par les décrets des 19 décembre 1997 et 22 décembre 1999, le dernier alinéa est remplacé par la disposition suivante :</p>\n            <section class=\"paragraph\">\n                <h3 class=\"paragraph-marker\">§ 1er.</h3>\n                <div class=\"paragraph-content\">\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"2°\">\n                            <span class=\"provision-text\">et au § 3, CSE est un facteur correcteur socio-économique qui, à partir de l'année d'imposition 2001 à la valeur indiquée dans l'annexe au présent décret en relation avec l'activité principale à laquelle l'eau souterraine pompée est affectée.</span>\n                        </li>\n                    </ol>\n                </div>\n            </section>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.259Z",
+  "tokenUsage": {
+    "prompt": 1712,
+    "completion": 309,
+    "total": 2021
+  }
+}

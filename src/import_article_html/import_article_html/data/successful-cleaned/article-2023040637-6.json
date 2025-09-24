@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023040637",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Dans le même arrêté, l'intitulé de la section IV du chapitre III du titre II est remplacé par ce qui suit : \" Section IV. - Cotisation personnelle des titulaires visés à l'article 32, alinéa 1er, \n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"12°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"14°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"15°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"21°\"><span class=\"provision-text\"></span></li>\n          <li class=\"provision\" data-number=\"22°\"><span class=\"provision-text\">et </span></li>\n          <li class=\"provision\" data-number=\"24°\"><span class=\"provision-text\">, de la loi coordonnée \".</span></li>\n        </ol>\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.730Z",
+  "tokenUsage": {
+    "prompt": 1663,
+    "completion": 310,
+    "total": 1973
+  }
+}

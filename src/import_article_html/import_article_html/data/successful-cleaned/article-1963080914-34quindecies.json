@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1963080914",
+  "articleNumber": "34quindecies",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-34quindecies\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 34quindecies</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-insertion\" data-citation-type=\"insertion\" data-dossier-number=\"1990-12-29/30\" data-article-number=\"38\" data-law-type=\"L\" data-effective-date=\"01-01-1991\">&lt;inséré par L 1990-12-29/30, art. 38, 020; En vigueur : 01-01-1991&gt;</span> Le Roi peut, après avis du Comité de gestion du Service des soins de santé, arrêter les conditions générales auxquelles sont soumises les conventions de rééducation fonctionnelle visées à l'article 12, 7°.\n            </p>\n            <p class=\"intro-text\">\n                Le Roi fixe selon les modalités et conditions qu'Il précise, par arrêté délibéré en Conseil des Ministres et apres avis du Comité de gestion des soins de santé, l'objectif budgétaire annuel pour les prestations de rééducation visées à l'article 23, 8° et 9°.\n            </p>\n            <p class=\"closing-text\">\n                Lorsque suivant les modalités fixées par le Roi, il est établi que l'objectif budgétaire risque d'être dépassé, le Comité précité dispose d'un délai de deux mois pour prendre des mesures correctrices.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.476Z",
+  "tokenUsage": {
+    "prompt": 1865,
+    "completion": 372,
+    "total": 2237
+  }
+}

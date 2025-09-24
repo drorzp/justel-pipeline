@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2015003456",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le présent arrêté entre en vigueur le 1er janvier 2016 à l'exception des articles 5,:</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">et 6 à 10 qui entrent en vigueur le 1er juillet 2016.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.261Z",
+  "tokenUsage": {
+    "prompt": 1491,
+    "completion": 171,
+    "total": 1662
+  }
+}

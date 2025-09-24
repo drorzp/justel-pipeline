@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003027783",
+  "articleNumber": "51",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-51\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 51</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2009-03-27/47\" data-law-type=\"ARW\" data-article-number=\"25\">\n                <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2014-05-15/49\" data-law-type=\"ARW\" data-article-number=\"8\">Le directeur peut être</span> nommé à sa demande au grade de conseiller pourvu qu'il compte une ancienneté de rang de quinze ans et qu'il remplisse les conditions fixées à <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2016-04-21/11\" data-law-type=\"ARW\" data-article-number=\"3\">l'article 50, § 1er, 2° et 3°</span>. La condition d'ancienneté de rang n'est toutefois plus exigée dans le chef du directeur âgé de cinquante-cinq ans au moins.\n            </span>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.622Z",
+  "tokenUsage": {
+    "prompt": 1877,
+    "completion": 304,
+    "total": 2181
+  }
+}

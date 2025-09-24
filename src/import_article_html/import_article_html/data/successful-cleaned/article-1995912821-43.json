@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1995912821",
+  "articleNumber": "43",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-43\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 43</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 137, du même arrêté, modifié par les arrêtés royaux des 11 janvier 1993 et 25 mai 1993, sont apportées les modifications suivantes :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"A)\">\n          <span class=\"provision-text\">dans le § 1er, 2°, les mots &quot;ainsi qu'au travailleur participant à une grève, qui est victime d'un lock-out ou dont le chomage est la conséquence directe ou indirecte d'une greve ou d'un lock-out &quot;sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"B)\">\n          <span class=\"provision-text\">dans le § 2, 1°, les mots &quot;au travailleur à temps partiel involontaire et&quot; sont supprimés;</span>\n        </li>\n        <li class=\"provision\" data-number=\"C)\">\n          <span class=\"provision-text\">dans le § 2, un 3° est à nouveau inséré, rédigé comme suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3° un &quot;certificat de chômage temporaire&quot; au travailleur qui est victime d'un lock-out ou dont le chômage est la conséquence directe ou indirecte d'une grève ou d'un lock-out; ce certificat est délivré en double exemplaire dans les cas visés à l'article 133, § 1er, 4° et 5°.</span>\n            </li>\n          </ol>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.047Z",
+  "tokenUsage": {
+    "prompt": 1966,
+    "completion": 457,
+    "total": 2423
+  }
+}

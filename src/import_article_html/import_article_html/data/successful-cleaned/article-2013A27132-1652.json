@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013A27132",
+  "articleNumber": "1652",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1652\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1652</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Le compte de résultats est formé :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">de comptes d'exploitation de chaque secteur d'activités du centre;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">de comptes de résultats d'exploitation de chaque secteur d'activités du centre;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">d'un compte de profits et pertes.</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">Les comptes visés à l'alinéa 1er, 1° et 2°, peuvent être fusionnés.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:13.119Z",
+  "tokenUsage": {
+    "prompt": 1622,
+    "completion": 267,
+    "total": 1889
+  }
+}

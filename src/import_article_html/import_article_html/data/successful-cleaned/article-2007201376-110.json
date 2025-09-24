@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007201376",
+  "articleNumber": "110",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-110\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 110</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans l'article 47, § 1er, alinéa 1er, du même Code, modifié par l'arrêté royal du 20 décembre 1996 et par les lois des 22 décembre 1998 et 14 janvier 2003, les mots \" en vertu des article s 44, § 1, 2° et § 2 et 44bis \" sont remplacés par les mots \"en vertu des article s 44, § 1er, 2° et § 2, 44bis et 44ter \".</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:46.981Z",
+  "tokenUsage": {
+    "prompt": 1685,
+    "completion": 203,
+    "total": 1888
+  }
+}

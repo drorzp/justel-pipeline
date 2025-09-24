@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2013022480",
+  "articleNumber": "4",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-4\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 4</h2>\n  </header>\n  <div class=\"article-content\">\n    <section class=\"paragraph\" id=\"para-1er\">\n      <h3 class=\"paragraph-marker\">§ 1er.</h3>\n      <div class=\"paragraph-content\">\n        <p>Lorsque le conseiller en prévention-médecin du travail constate que le travailleur répond aux conditions visées à l'article 3, 1° et 2° du présent arrêté, il établit une déclaration d'exposition au moyen d'un formulaire dont le modèle est approuvé par le <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2017-11-23/22\" data-law-type=\"AR\" data-article-number=\"94\">comité de gestion des maladies professionnelles</span>.\n        Il adresse ce formulaire <span class=\"footnote footnote-reference\" data-footnote-id=\"2\" data-dossier-number=\"2017-11-23/22\" data-law-type=\"AR\" data-article-number=\"95\">à Fedris</span> par voie électronique ou par poste.</p>\n      </div>\n    </section>\n    <section class=\"paragraph\" id=\"para-2\">\n      <h3 class=\"paragraph-marker\">§ 2.</h3>\n      <div class=\"paragraph-content\">\n        <p>Le conseiller en prévention-médecin du travail informe le travailleur du type, des modalités et des conditions d'intervention <span class=\"footnote footnote-reference\" data-footnote-id=\"3\" data-dossier-number=\"2017-11-23/22\" data-law-type=\"AR\" data-article-number=\"96\">de Fedris</span> ainsi que des différents symptômes suite à l'apparition desquels la réalisation d'un examen de dépistage est conseillé.</p>\n      </div>\n    </section>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:12.999Z",
+  "tokenUsage": {
+    "prompt": 2069,
+    "completion": 441,
+    "total": 2510
+  }
+}

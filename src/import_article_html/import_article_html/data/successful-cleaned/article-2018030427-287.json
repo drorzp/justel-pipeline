@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018030427",
+  "articleNumber": "287",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-287\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 287</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        La publication de la liste des arrêtés mentionnés à l'article 285 ainsi que des arrêtés mentionnés à l'article 286 a lieu dans les dix jours après qu'ils ont été pris, avec mention de la date à laquelle ils sont publiés sur l'application web.\n      </p>\n      <p class=\"intro-text\">\n        Pour les arrêtés mentionnés aux articles 286, § 1er, 1° et 2°, et 286, § 2, 1° et 2°, la publication inclut également la date à laquelle ils ont été adoptés.\n      </p>\n      <p class=\"closing-text\">\n        L'application web de la commune mentionne la manière dont le public peut consulter les arrêtés repris dans la liste, et mentionne également la possibilité de porter plainte auprès de l'autorité de tutelle prévue à l'article 326. Si l'autorité de tutelle a annulé un arrêté, l'annulation est également mentionnée.\n      </p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:33.475Z",
+  "tokenUsage": {
+    "prompt": 1775,
+    "completion": 290,
+    "total": 2065
+  }
+}

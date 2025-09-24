@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2003031240",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p>Aux articles 6 3°, 10 2°, 13 2°, 15 3°, 17 3°, 19 3°, 22 2°, 28 3° et 31 3°, la virgule est supprimée après les termes \" personnel de bâtir et \".</p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.620Z",
+  "tokenUsage": {
+    "prompt": 1483,
+    "completion": 145,
+    "total": 1628
+  }
+}

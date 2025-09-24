@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020016459",
+  "articleNumber": "66",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-66\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 66</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>La décision d'octroi de l'interruption de l'exécution de la peine \"COVID-19\" est exécutoire à la date déterminée par le directeur et au plus tard quatorze jours après la décision d'octroi.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Si le ministre juge que cela reste nécessaire pour atteindre le but visé à l'article 63, alinéa 2, le directeur peut, à condition que le condamné soit d'accord, prolonger la décision d'octroi de l'interruption de l'exécution de la peine pour une période de maximum deux mois, après avoir examiné les critères visés à l'article 64, alinéa 1er, 2° et 3°.</p>\n                <p>La date et le moyen par lequel l'accord du condamné est donné sont consignés par écrit dans le dossier du condamné.</p>\n                <p>En cas de prolongation, le condamné en est informé par le directeur.</p>\n                <p>L'article 65 s'applique par analogie à la décision de prolongation.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.219Z",
+  "tokenUsage": {
+    "prompt": 1915,
+    "completion": 390,
+    "total": 2305
+  }
+}

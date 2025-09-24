@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014206948",
+  "articleNumber": "7",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-7\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 7</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans le chapitre X du même arrêté, rétabli par l'article 4, il est inséré un article 37/2, rédigé comme suit :</p>\n            <blockquote class=\"article-quote\">\n                <p class=\"quote-text\">\" Art. 37/2. Les montants de rémunération visés à l'article 2, alinéa 1er, 33°, à l'article 9, alinéa 1er, 6°, 7° et 15°, et à l'article 15/1 du présent arrêté doivent constituer la contrepartie des prestations de travail effectuées et être connus, avec certitude, avant le début de l'occupation des travailleurs en Belgique. \"</p>\n            </blockquote>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.206Z",
+  "tokenUsage": {
+    "prompt": 1675,
+    "completion": 241,
+    "total": 1916
+  }
+}

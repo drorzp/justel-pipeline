@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1999D36289",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 14</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">\n                <span class=\"legal-citation legal-citation-standard\" data-dossier-number=\"2004-01-09/38\" data-law-type=\"AGF\" data-article-number=\"28\">&lt;Ajouté par AGF 2004-01-09/38, art. 28; En vigueur : 09-02-2004&gt;</span> Les garages inoccupés qui à l'origine étaient destinés à la location, et qui sont vendus séparément - c'est-à-dire ne pas en même temps qu'une habitation sociale - doivent être publiquement vendus.\n            </p>\n            <p class=\"intro-text\">\n                Les garages susmentionnés peuvent, sauf dans les cas visés à l'article 34; § 3, 1°, 3° et 4° du Code flamand du Logement, uniquement être vendus de gré à gré aux propriétaires visés au deuxième alinéa de l'article 13 et sur la base de l'ordre y mentionné.\n            </p>\n            <p class=\"closing-text\">\n                Le prix de vente des garages visés au premier alinéa est approuvé par la VHM. En cas de vente de gré à gré, le prix de vente est égal, soit à l'estimation du percepteur de l'enregistrement ou du commissaire du comité d'achat. Les estimations faites par le percepteur ou commissaire précité restent valables pendant au maximum un an.\n            </p>\n            <p class=\"closing-text\">\n                En cas de vente publique des garages visés au premier alinéa, le prix de vente finalement obtenu doit au moins être égal à l'estimation mentionnée au deuxième alinéa.\n            </p>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.105Z",
+  "tokenUsage": {
+    "prompt": 2443,
+    "completion": 442,
+    "total": 2885
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2014035694",
+  "articleNumber": "54",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-54\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 54</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Les modifications suivantes sont apportées à l'article 4 du même décret, modifié pour la dernière fois par le décret du 20 avril 2012 :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">au point 4°, la phrase suivante est ajoutée : \" et qui est arrêté en application du présent décret ou en application de l'article 16octies, § 2, du décret concernant la conservation de la nature \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le point 8° est remplacé par ce qui suit : \" 8° groupement forestier : un groupement forestier tel que visé à l'article 54bis du décret concernant la conservation de la nature \" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">les points 9° et 22° sont abrogés.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.342Z",
+  "tokenUsage": {
+    "prompt": 1751,
+    "completion": 327,
+    "total": 2078
+  }
+}

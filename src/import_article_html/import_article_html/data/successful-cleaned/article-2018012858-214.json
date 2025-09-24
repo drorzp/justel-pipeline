@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2018012858",
+  "articleNumber": "214",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-214\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 214</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">L'article 1724 du même Code, inséré par la loi du 21 février 2005, est remplacé par ce qui suit :</p>\n      <p class=\"intro-text\">\"Art. 1724. Tout différend de nature patrimoniale, transfrontalier ou non, y compris les différends impliquant une personne morale de droit public, peut faire l'objet d'une médiation. Les différends de nature non patrimoniale susceptibles d'être réglés par transaction ainsi que les différends visés à l'article 572bis, 3°, 4°, 6° à 10° et 12 à 15° et les différends découlant de la cohabitation de fait peuvent aussi faire l'objet d'une médiation.\"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.664Z",
+  "tokenUsage": {
+    "prompt": 1744,
+    "completion": 244,
+    "total": 1988
+  }
+}

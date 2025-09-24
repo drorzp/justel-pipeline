@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1996035340",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 5</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">Dans le même arrêté, un chapitre Vbis est inséré comprenant un article 15bis, rédigé comme suit :</p>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Chapitre Vbis.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dispositions particulières relatives aux communes périphériques et aux communes situées sur la frontière linguistique.</p>\n        </div>\n      </section>\n      <section class=\"paragraph\">\n        <h3 class=\"paragraph-marker\">Article 15bis.</h3>\n        <div class=\"paragraph-content\">\n          <p>Dans les communes visées aux articles 7 et 8,</p>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"3°\">\n              <span class=\"provision-text\">3°</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">4°</span>\n            </li>\n            <li class=\"provision\" data-number=\"6°\">\n              <span class=\"provision-text\">6°</span>\n            </li>\n            <li class=\"provision\" data-number=\"8°\">\n              <span class=\"provision-text\">8°</span>\n            </li>\n            <li class=\"provision\" data-number=\"10°\">\n              <span class=\"provision-text\">10°</span>\n            </li>\n          </ol>\n          <p>des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, les panneaux G.01ter à G.03ter et V.01ter à V.05ter figurés dans l'annexe sont utilisés au lieu des panneaux G.01 à G.03 et V.01 à V.05, et les panneaux G.01quater à G.03quater et V.01quater à V.05quater figurés dans l'annexe, sont utilisés au lieu des panneaux G.01bis à G.03bis et V.01bis à V.05bis.</p>\n        </div>\n      </section>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:11.111Z",
+  "tokenUsage": {
+    "prompt": 1839,
+    "completion": 543,
+    "total": 2382
+  }
+}

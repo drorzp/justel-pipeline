@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1987022099",
+  "articleNumber": "8",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-8\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 8</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>Le contractuel subventionné ne peut bénéficier des assimilations prévues à l'article 5, 11° et 12°, que s'il présente au pouvoir local un document justificatif émanant du secrétariat de l'organisme, de l'institution, de la juridiction ou du syndicat intéressé.</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:02.520Z",
+  "tokenUsage": {
+    "prompt": 1486,
+    "completion": 146,
+    "total": 1632
+  }
+}

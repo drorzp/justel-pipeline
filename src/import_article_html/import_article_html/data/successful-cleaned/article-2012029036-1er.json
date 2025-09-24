@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2012029036",
+  "articleNumber": "1er",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1er\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 1er</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">\n        Dans l'article 1er de l'arrêté du Gouvernement de la Communauté française du 9 mai 1995 fixant les conditions dans lesquelles un membre du personnel en disponibilité pour convenances personnelles précédant la pension de retraite peut être autorisé à exercer une occupation lucrative, tel que modifié par l'arrêté du Gouvernement de la Communauté française du 8 novembre 2001, sont apportées les modifications suivantes :\n      </p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans les points</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">et</span>\n            </li>\n            <li class=\"provision\" data-number=\"4°\">\n              <span class=\"provision-text\">du § 1er, les termes \" 6.857 EUROS \" sont remplacés par les termes \" 7.421,57 EUROS \"</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le point</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">du § 1er, les termes \" 5.493 EUROS \" sont remplacés par les termes \" 5.937,26 EUROS \"</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">au § 2, les termes \" 5.493 EUROS \" sont remplacés par les termes \" 5.937,26 EUROS \".</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:00.259Z",
+  "tokenUsage": {
+    "prompt": 1918,
+    "completion": 497,
+    "total": 2415
+  }
+}

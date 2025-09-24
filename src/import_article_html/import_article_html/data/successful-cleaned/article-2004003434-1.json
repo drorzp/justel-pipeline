@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2004003434",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 1</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'arrêté royal du 31 mars 2003 relatif à la déclaration des transactions portant sur des instruments financiers et à la conservation des données, sont :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">abrogés l'article 1er, 7° et les articles du Chapitre IV</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">supprimés dans l'article 4, 1er alinéa, 1ère phrase, les mots \" ou sur Nasdaq Europe \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:31.651Z",
+  "tokenUsage": {
+    "prompt": 1641,
+    "completion": 238,
+    "total": 1879
+  }
+}

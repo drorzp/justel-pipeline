@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2016003362",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 3</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 9 du même arrêté, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">\" 1° auprès des points de vente physiques avec lesquels la Loterie Nationale a conclu un contrat afin de les agréer comme vendeurs officiels des jeux de la Loterie Nationale, excepté pour les lots mentionnés au 2° ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">2° exclusivement au siège de la Loterie Nationale ou, si celle-ci l'estime opportun, auprès de ses bureaux régionaux, pour les lots mentionnés dans la première ligne du tableau de l'article 3. \"</span>\n        </li>\n      </ol>\n      <p class=\"closing-text\">b) l'alinéa 2 est abrogé ;</p>\n      <p class=\"closing-text\">c) la disposition est complétée par deux alinéas rédigés comme suit :</p>\n      <p class=\"closing-text\">\" Les coordonnées des bureaux régionaux sont consultables sur le site internet de la Loterie Nationale ou peuvent être obtenues auprès de celle-ci. Au moment de l'acquisition d'un billet, tous les billets attributifs de certains lots peuvent déjà avoir été vendus ou certains lots peuvent déjà avoir été gagnés. \"</p>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:20.317Z",
+  "tokenUsage": {
+    "prompt": 1928,
+    "completion": 400,
+    "total": 2328
+  }
+}

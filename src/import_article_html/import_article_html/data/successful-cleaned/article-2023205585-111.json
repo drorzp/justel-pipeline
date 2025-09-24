@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2023205585",
+  "articleNumber": "111",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-111\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 111</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 4 du même décret, modifié en dernier lieu par le décret du 29 juin 2015, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans la phrase introductive du § 1er, alinéa 3, les mots \" écoles fondamentales ordinaires \" sont remplacés par les mots \" écoles ordinaires \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">dans le § 1er, alinéa 3, 2°, le point en fin de phrase est remplacé par un point-virgule;</span>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">dans le § 1er, l'alinéa 3 est complété par un 3° rédigé comme suit : \" 3° enseignement secondaire : 100 euros par élève. \";</span>\n        </li>\n        <li class=\"provision\" data-number=\"4°\">\n          <span class=\"provision-text\">dans le § 5, l'alinéa 2 est remplacé par ce qui suit : \" C'est l'indice du mois de septembre 2002 qui sert d'indice de base, sauf en ce qui concerne les montants mentionnés au § 1er, alinéa 3. Pour les montants mentionnés au § 1er, alinéa 3, 1° et 2°, c'est l'indice du mois de septembre 2014 qui sert d'indice de base. Pour les montants mentionnés au § 1er, alinéa 3, 3°, c'est l'indice du mois de septembre 2023 qui sert d'indice de base. Pour calculer l'adaptation, l'on tient chaque fois compte de l'indice du mois de septembre de l'année en cours. \"</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:53.415Z",
+  "tokenUsage": {
+    "prompt": 2154,
+    "completion": 540,
+    "total": 2694
+  }
+}

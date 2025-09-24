@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2022034128",
+  "articleNumber": "5",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-5\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 5</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 212ter du même Code, inséré par l'ordonnance du 10 février 2006 et modifié par l'ordonnance du 12 décembre 2016, les modifications suivantes sont apportées :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">à l'alinéa 1er, les mots &quot; la réduction de la base imposable visée à l'article 46bis n'aurait pas été demandée ou n'aurait pas été obtenue &quot; sont remplacés par les mots &quot; les réductions de la base imposable visées aux articles 46bis ou 46ter n'auraient pas été demandées ou n'auraient pas été obtenues &quot;</span>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">à l'alinéa 2, la première phrase est complétée par les mots &quot;, et, le cas échéant, les mentions, déclarations et documents imposés par l'article 46ter, alinéa 4, 2° et 3° &quot;</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:46.773Z",
+  "tokenUsage": {
+    "prompt": 1901,
+    "completion": 360,
+    "total": 2261
+  }
+}

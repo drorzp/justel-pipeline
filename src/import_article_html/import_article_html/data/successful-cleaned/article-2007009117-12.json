@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2007009117",
+  "articleNumber": "12",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-12\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 12</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <span class=\"footnote footnote-reference\" data-footnote-id=\"1\" data-dossier-number=\"2014-04-25/23\" data-law-type=\"L\" data-article-number=\"48\">\n        <p class=\"intro-text\">La direction est chargée de la gestion journalière de l'Institut. Elle est composée d'un directeur de la formation judiciaire, assisté d'un directeur adjoint. Le directeur est un magistrat. Le directeur et le directeur adjoint sont d'un rôle linguistique différent. En cas d'absence de longue durée tant du directeur que du directeur adjoint, le conseil d'administration peut proposer au ministre de la Justice de désigner un membre de la direction ad interim. Dans ce cas, le membre de la direction ad interim est désigné par arrêté royal, sur la proposition du ministre de la Justice. En cas d'absence de longue durée d'un seul des deux membres de la direction, le membre de la direction présent soumet pour accord aux commissaires du gouvernement toutes les décisions importantes visées à l'article 13, alinéa 1er,</p>\n        <ol class=\"numbered-provisions\">\n          <li class=\"provision\" data-number=\"3°\"><span class=\"provision-text\">et</span></li>\n          <li class=\"provision\" data-number=\"4°\"><span class=\"provision-text\">.</span></li>\n        </ol>\n      </span>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:38.788Z",
+  "tokenUsage": {
+    "prompt": 1909,
+    "completion": 376,
+    "total": 2285
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2020021216",
+  "articleNumber": "14",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-14\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 14</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p class=\"intro-text\">A l'article 194ter/3 du même Code, modifié en dernier lieu par la loi du 29 mars 2019, les modifications suivantes sont apportées :</p>\n      <ol class=\"numbered-provisions\">\n        <li class=\"provision\" data-number=\"1°\">\n          <span class=\"provision-text\">dans le paragraphe 2, 1°, deuxième tiret, les mots \"dans un délai se terminant maximum 24 mois après la date de signature de la convention-cadre pour l'obtention de l'attestation Tax Shelter pour la production de cette oeuvre visée à l'article 194ter, § 1er, alinéa 1er, 5° \" sont remplacés par les mots \"dans un délai prenant cours au plus tôt 6 mois avant la date de signature de la convention-cadre pour l'obtention de l'attestation Tax Shelter pour la production de cette oeuvre visée à l'article 194ter, § 1er, alinéa 1er, 5° et terminant au plus tard 18 mois après la signature de la convention-cadre précitée\" ;</span>\n        </li>\n        <li class=\"provision\" data-number=\"2°\">\n          <span class=\"provision-text\">le paragraphe 2, 1°, deuxième tiret est complété par un alinéa rédigé comme suit :</span>\n          <blockquote class=\"provision-quote\">\"Les dépenses de production et d'exploitation visées à l'alinéa 1er, effectuées dans la période avant la date de la signature de la convention-cadre ne peuvent être supérieures à 50 p.c. du total de ces dépenses de production et d'exploitation.\" ;</blockquote>\n        </li>\n        <li class=\"provision\" data-number=\"3°\">\n          <span class=\"provision-text\">le paragraphe 4 est abrogé.</span>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:40.259Z",
+  "tokenUsage": {
+    "prompt": 2075,
+    "completion": 500,
+    "total": 2575
+  }
+}

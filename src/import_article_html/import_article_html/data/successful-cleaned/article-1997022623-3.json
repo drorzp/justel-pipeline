@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1997022623",
+  "articleNumber": "3",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-3\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article 3</h2>\n    </header>\n    <div class=\"article-content\">\n        <section class=\"paragraph\" id=\"para-1er\">\n            <h3 class=\"paragraph-marker\">§ 1er.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le président, les deux vice-présidents, les membres effectifs et les membres suppléants sont nommés par Nous pour une période de six ans, renouvelable une fois. La nomination des membres visés à l'article 2, § 1er, 1°, 2° et 3°, s'effectue à partir d'une liste double de candidats présentés par les organisations et associations professionnelles représentatives des personnes concernées.</p>\n                <p>Le président et les deux vice-présidents sont nommés parmi les membres effectifs.</p>\n            </div>\n        </section>\n        <section class=\"paragraph\" id=\"para-2\">\n            <h3 class=\"paragraph-marker\">§ 2.</h3>\n            <div class=\"paragraph-content\">\n                <p>Le président doit être une accoucheuse.</p>\n            </div>\n        </section>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:10.969Z",
+  "tokenUsage": {
+    "prompt": 1685,
+    "completion": 289,
+    "total": 1974
+  }
+}

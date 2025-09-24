@@ -1,0 +1,11 @@
+{
+  "documentNumber": "1998029170",
+  "articleNumber": "1",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-1\">\n    <header class=\"article-header\">\n        <h2 class=\"article-number\">Article <span class=\"footnote footnote-reference\"></span>.</h2>\n    </header>\n    <div class=\"article-content\">\n        <div class=\"article-text\">\n            <p class=\"intro-text\">Dans l'article 7 de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire, sont apportées les modifications suivantes :</p>\n            <ol class=\"numbered-provisions\">\n                <li class=\"provision\" data-number=\"1°\">\n                    <span class=\"provision-text\">l'alinéa 1er est complété par la disposition suivante :</span>\n                    <ol class=\"numbered-provisions\">\n                        <li class=\"provision\" data-number=\"3°\">\n                            <span class=\"provision-text\">l'expression \" Conseil de recours \" désigne le Conseil de recours visé à l'article 97 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.</span>\n                        </li>\n                    </ol>\n                </li>\n                <li class=\"provision\" data-number=\"2°\">\n                    <span class=\"provision-text\">dans l'alinéa 2, les termes \" Les conseils \" sont remplacés par les termes : \" Les conseils visés à l'alinéa 1er, 1° et 2° \".</span>\n                </li>\n            </ol>\n        </div>\n    </div>\n</article>",
+  "processedAt": "2025-09-20T13:21:22.094Z",
+  "tokenUsage": {
+    "prompt": 1881,
+    "completion": 362,
+    "total": 2243
+  }
+}

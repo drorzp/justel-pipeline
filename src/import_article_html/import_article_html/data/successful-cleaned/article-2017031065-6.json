@@ -1,0 +1,11 @@
+{
+  "documentNumber": "2017031065",
+  "articleNumber": "6",
+  "transformedHtml": "<article class=\"legal-article\" id=\"art-6\">\n  <header class=\"article-header\">\n    <h2 class=\"article-number\">Article 6</h2>\n  </header>\n  <div class=\"article-content\">\n    <div class=\"article-text\">\n      <p>A l'article 9 du même arrêté les modifications suivantes sont apportées:</p>\n      <ol class=\"sub-provisions\">\n        <li class=\"sub-provision\" data-marker=\"a)\">\n          <span class=\"sub-provision-text\">à l'alinéa 1er, les 1° et 2° sont remplacés par ce qui suit :</span>\n          <ol class=\"numbered-provisions\">\n            <li class=\"provision\" data-number=\"1°\">\n              <span class=\"provision-text\">auprès des points de vente physiques avec lesquels la Loterie Nationale a conclu un contrat afin de les agréer comme vendeurs officiels des jeux de la Loterie Nationale, excepté pour les lots mentionnés au 2° ;</span>\n            </li>\n            <li class=\"provision\" data-number=\"2°\">\n              <span class=\"provision-text\">exclusivement au siège de la Loterie Nationale ou, si celle-ci l'estime opportun, auprès de ses bureaux régionaux, pour les lots de 250.000 euros.</span>\n            </li>\n          </ol>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"b)\">\n          <span class=\"sub-provision-text\">l'alinéa 2, modifié par l'arrêté royal du 25 mars 2016, est remplacé par ce qui suit :</span>\n          <blockquote>\n            <p>Les coordonnées des bureaux régionaux sont consultables sur le site internet de la Loterie Nationale ou peuvent être obtenues auprès de celle-ci.</p>\n          </blockquote>\n        </li>\n        <li class=\"sub-provision\" data-marker=\"c)\">\n          <span class=\"sub-provision-text\">la disposition est complétée par l'alinéa suivant :</span>\n          <blockquote>\n            <p>Au moment de l'acquisition d'un billet, tous les billets attributifs de certains lots peuvent déjà avoir été vendus ou certains lots peuvent déjà avoir été gagnés.</p>\n          </blockquote>\n        </li>\n      </ol>\n    </div>\n  </div>\n</article>",
+  "processedAt": "2025-09-20T13:22:26.740Z",
+  "tokenUsage": {
+    "prompt": 2031,
+    "completion": 519,
+    "total": 2550
+  }
+}
