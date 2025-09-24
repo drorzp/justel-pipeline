@@ -141,88 +141,90 @@ async function downloadFromS3(
       throw error;
     }
   }
-  async function cleanupTempFiles(tempZipPath: string): Promise<void> {
-    try {
-      await fs.unlink(tempZipPath);
-      console.log(`Cleaned up temporary file: ${tempZipPath}`);
-    } catch (error) {
-      console.error('Error cleaning up temp files:', error);
-      // Don't throw - cleanup errors shouldn't stop the process
-    }
-  }
 
-  async function unzipFile(
-    zipFilePath: string,
-    extractToPath: string
-  ): Promise<void> {
-    console.log(`Unzipping ${zipFilePath} to ${extractToPath}...`);
-    
-    try {
-      // Ensure extraction directory exists
-      await fs.mkdir(extractToPath, { recursive: true });
-      
-      // Read zip file
-      const zip = new AdmZip(zipFilePath);
-      
-      // Extract all files
-      zip.extractAllTo(extractToPath, true); // true = overwrite existing files
-      
-      console.log(`Successfully unzipped to ${extractToPath}`);
-    } catch (error) {
-      console.error('Error unzipping file:', error);
-      throw error;
-    }
+async function cleanupTempFiles(tempZipPath: string): Promise<void> {
+  try {
+    await fs.unlink(tempZipPath);
+    console.log(`Cleaned up temporary file: ${tempZipPath}`);
+  } catch (error) {
+    console.error('Error cleaning up temp files:', error);
+    // Don't throw - cleanup errors shouldn't stop the process
   }
-  export async function processS3HtmlUpdate(
-    pool: Pool,
-    bucketName: string,
-    s3Key: string,
-    cleanupAfter: boolean = true
-  ): Promise<void> {
-    // Define paths
-    const tempDir = path.join(__dirname, 'temp');
-    const tempZipPath = path.join(tempDir, 'downloaded.zip');
-    const extractPath = path.join(__dirname, process.env.HTML_FOLDER_PATH!);
-    
-    try {
-      // Step 1: Download zip from S3
-      // await downloadFromS3(bucketName, s3Key, tempZipPath);
-      
-      // // Step 2: Unzip the file
-      // await unzipFile(tempZipPath, extractPath);
-      
-      // Step 3: Process the unzipped HTML files
-      console.log('Processing HTML files...');
-      await updateHtml(pool, extractPath);
-      
-      // Step 4: Cleanup (optional)
-      if (cleanupAfter) {
-        await cleanupTempFiles(tempZipPath);
-      }
-      
-      console.log('Process completed successfully!');
-    } catch (error) {
-      console.error('Process failed:', error);
-      throw error;
-    }
-  }
+}
 
-  export async function downloadAndUnzip(
-    pool:Pool,
-    bucketName: string,
-    s3Key: string
-  ): Promise<string> {
-    const tempDir = path.join(__dirname, 'temp');
-    const tempZipPath = path.join(tempDir, 'downloaded.zip');
-    const extractPath = path.join(__dirname, process.env.HTML_FOLDER_PATH!);
+async function unzipFile(
+  zipFilePath: string,
+  extractToPath: string
+): Promise<void> {
+  console.log(`Unzipping ${zipFilePath} to ${extractToPath}...`);
+  
+  try {
+    // Ensure extraction directory exists
+    await fs.mkdir(extractToPath, { recursive: true });
     
-    // Download from S3
+    // Read zip file
+    const zip = new AdmZip(zipFilePath);
+    
+    // Extract all files
+    zip.extractAllTo(extractToPath, true); // true = overwrite existing files
+    
+    console.log(`Successfully unzipped to ${extractToPath}`);
+  } catch (error) {
+    console.error('Error unzipping file:', error);
+    throw error;
+  }
+}
+
+export async function processS3HtmlUpdate(
+  pool: Pool,
+  bucketName: string,
+  s3Key: string,
+  cleanupAfter: boolean = true
+): Promise<void> {
+  // Define paths
+  const tempDir = path.join(__dirname, 'temp');
+  const tempZipPath = path.join(tempDir, 'downloaded.zip');
+  const extractPath = path.join(__dirname, process.env.HTML_FOLDER_PATH!);
+  
+  try {
+    // Step 1: Download zip from S3
     await downloadFromS3(bucketName, s3Key, tempZipPath);
     
-    // Unzip the file
+    // // Step 2: Unzip the file
     await unzipFile(tempZipPath, extractPath);
     
-    return extractPath;
+    // Step 3: Process the unzipped HTML files
+    console.log('Processing HTML files...');
+    await updateHtml(pool, extractPath);
+    
+    // Step 4: Cleanup (optional)
+    if (cleanupAfter) {
+      await cleanupTempFiles(tempZipPath);
+    }
+    
+    console.log('Process completed successfully!');
+  } catch (error) {
+    console.error('Process failed:', error);
+    throw error;
   }
+}
+
+export async function downloadAndUnzip(
+  pool:Pool,
+  bucketName: string,
+  s3Key: string
+): Promise<string> {
+  const tempDir = path.join(__dirname, 'temp');
+  const tempZipPath = path.join(tempDir, 'downloaded.zip');
+  const extractPath = path.join(__dirname, process.env.HTML_FOLDER_PATH!);
+  
+  // Download from S3
+  await downloadFromS3(bucketName, s3Key, tempZipPath);
+  
+  // Unzip the file
+  await unzipFile(tempZipPath, extractPath);
+  
+  return extractPath;
+}
 
  

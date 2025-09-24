@@ -14,6 +14,7 @@ import { runPythonDataPipeline } from './utils/pythonRunner';
 import { updateGet } from './import-to-pg/upgete_gen_on_articles';
 import { clearS3ZipFiles } from './utils/s3';
 import './logger';
+import { processS3HtmlUpdate } from './import_article_html/import_article_html';
 export const llmConfig: LLMConfig = {
     openaiApiKey: process.env.OPENAI_API_KEY || '',
     model: 'gpt-4o-mini',
@@ -84,10 +85,11 @@ const pool = new Pool(dbConfig);
     // console.log('moveArticlesToMongo started')
     // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
     // console.log('moveArticlesToMongo completed')
-    console.log('updateArticleVector started')
-    await updateArticleVector(pool);
+    // console.log('updateArticleVector started')
+    // await updateArticleVector(pool);
     // console.log('updateArticleVector completed');
     // console.log('process completed');
+    processS3HtmlUpdate(pool, 'article-zip', 'htmls');
   } catch (err:unknown) {
     const message = err instanceof Error ? err.message : 'Unknown error';
     console.error('Error running batch task:', message);
@@ -100,4 +102,5 @@ const pool = new Pool(dbConfig);
 if (require.main === module) {
   main();
 }
+
 
