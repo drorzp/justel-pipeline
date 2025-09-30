@@ -10,8 +10,8 @@ async function getArticlesList(pool:Pool) {
     console.info('Connecting to PostgreSQL...');
     client = await pool.connect();
 
-    const query = 'SELECT id, document_number, article_number FROM public.article_contents';
-    const result = await client.query(query);
+    const query = 'SELECT id, document_number, article_number FROM public.article_contents ';
+    const result = await client.query(query, []);
 
     const articles = result.rows;
     console.info(`Found ${articles.length} articles to process`);
@@ -74,7 +74,7 @@ export async function moveArticlesToMongo(pool:Pool) {
           console.info(`⚠️  No data for ${article.document_number} ${article.article_number}`);
           continue;
         }
-          await Article.findOneAndReplace(
+      const saved =   await Article.findOneAndReplace(
             { 
             document_number: article.document_number, article_number: article.article_number },
             result,  // Mongoose will handle $set automatically
@@ -85,7 +85,6 @@ export async function moveArticlesToMongo(pool:Pool) {
               overwrite: true  // Makes it behave like replace
             }
           ).lean();
-          console.log(`Created new article: ${article.document_number}-${article.article_number}`);
         }
          catch (error) {
         console.error(`❌ Error processing ${article.document_number}:`, error);

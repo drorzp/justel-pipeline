@@ -49,7 +49,7 @@ const pool = new Pool(dbConfig);
     // console.log('truncate article_conten_saver and copy article_content into it started');
     // await saveContentArticle(pool); 
     // console.log('truncate article_conten_saver and copy article_content into it completed');
-    // console.log('sync_document_title started')
+    // console.log('sync_document_title  add all documents that  does not exsit in documents started')
     // await sync_document_title(pool);  
     // console.log('sync_document_title completed')
     // console.log('truncate tables started');
@@ -83,13 +83,13 @@ const pool = new Pool(dbConfig);
     // await moveLawsToMongo(pool);
     // console.log('Move to mongo document collection completed');
     // console.log('moveArticlesToMongo started')
-    // await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+    await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
     // console.log('moveArticlesToMongo completed')
     // console.log('updateArticleVector started')
-    // await updateArticleVector(pool);
-    // console.log('updateArticleVector completed');
+    // // await updateArticleVector(pool);
+    // // console.log('updateArticleVector completed');
     // console.log('process completed');
-    await processS3HtmlUpdate(pool, 'article-zip', 'htmls.zip');
+
   } catch (err:unknown) {
     const message = err instanceof Error ? err.message : 'Unknown error';
     console.error('Error running batch task:', message);

@@ -30,23 +30,24 @@ const DecisionForArticleSchema = new Schema({
   summary_id: { type: String, required: true },
   edge: { type: String, required: true },
   legal_act_type: { type: String, required: true },
-  url_text: { type: String, required: true },
-  url_justel: { type: String, required: true },
+  url_text: { type: String },               
+  url_justel: { type: String },
   law_document_id: { type: String, required: true },
   article_link_number: { type: String, required: true },
   decision_article_created_at: { type: Date, required: true },
-  decision_details: { type: DecisionForArticleDetailSchema, required: true }
+  decision_details: { type: DecisionForArticleDetailSchema, required: true },
+  language_metadata: { type: String },
 }, { _id: false });
 
 // Main Article schema
 export const ArticleSchema = new Schema<IArticle>({
-  id: { type: Number, required: true, unique: true },
-  hierarchy_element_id: { type: Number, required: true },
+  id: { type: Number, required: true, unique: false },                      
+  hierarchy_element_id: { type: Number, required: true },                    
   article_number: { type: String, required: true },
-  document_number: { type: String, required: true },
+  document_number: { type: String, required: true },                        
   anchor_id: { type: String, required: true },
   main_text: { type: String, required: true },
-  gen_1:{type: String},
+  gen_1:{type: String}, 
   gen_2:{type: String},
   gen_3:{type: String}, 
   created_at: { type: Date, required: true },
@@ -61,5 +62,5 @@ export const ArticleSchema = new Schema<IArticle>({
 // Create compound unique index for article_number and document_number
 ArticleSchema.index({ article_number: 1, document_number: 1 }, { unique: true });
 
-const Article = mongoose.model<IArticle>('articles', ArticleSchema);
+const Article = mongoose.model<IArticle>('article', ArticleSchema);
 export { Article };

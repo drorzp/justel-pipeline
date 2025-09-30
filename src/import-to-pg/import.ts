@@ -267,6 +267,7 @@ class DatabaseOperations {
 
   // Insert main document - returns the auto-generated SERIAL id
   static async insertDocument(client: PoolClient, metadata: DocumentMetadata): Promise<number> {
+    try {
     const query = `
       INSERT INTO documents (
         document_number, title, publication_date, source, page_number,
@@ -294,6 +295,10 @@ class DatabaseOperations {
 
     const result = await client.query(query, values);
     return result.rows[0].id;
+    } catch (error) {
+      console.error(`Error inserting document: ${ metadata.document_number}`, error);
+      return -1;
+    }
   }
 
   // Insert version information

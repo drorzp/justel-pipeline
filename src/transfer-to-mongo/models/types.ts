@@ -28,6 +28,7 @@ export interface IDecisionForArticle {
   law_document_id: string;
   article_link_number: string;
   decision_article_created_at: Date;
+  language_metadata: string;
   decision_details: IDecisionForArticleDetail;
 }
 
@@ -42,8 +43,6 @@ export interface IArticle extends Document {
   gen_2: string;
   gen_3: string;
   created_at: Date;
-  // footnotes:IFootNotes[];
-  // footnote_references:IFootNotesRef[];
   decisions: IDecisionForArticle[];
 }
 
