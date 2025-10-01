@@ -123,7 +123,7 @@ class LegalHtmlGenerator:
                 try:
                     config = TableGenerationConfig(
                         api_key=api_key,
-                        enable_generation=True,
+                        enable_generation=False,
                         log_generation_results=False  # Keep logs quiet for HTML generation
                     )
                     self.table_service = TableGenerationService(config)

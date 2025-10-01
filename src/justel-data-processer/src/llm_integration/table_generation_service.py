@@ -320,7 +320,7 @@ def generate_table_html_quick(table_text: str, api_key: str) -> Optional[str]:
     """
     config = TableGenerationConfig(
         api_key=api_key,
-        enable_generation=True,
+        enable_generation=False,
         log_generation_results=False
     )
     

@@ -272,8 +272,8 @@ class DatabaseOperations {
       INSERT INTO documents (
         document_number, title, publication_date, source, page_number,
         dossier_number, effective_date, language, document_type, status,
-        official_justel_url, official_publication_pdf_url, consolidated_pdf_url
-      ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13)
+        official_justel_url, official_publication_pdf_url, consolidated_pdf_url, created_at,updated_at
+      ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)
       RETURNING id
     `;
     
@@ -290,7 +290,9 @@ class DatabaseOperations {
       metadata.status,
       metadata.official_justel_url || null,
       metadata.official_publication_pdf_url || null,
-      metadata.consolidated_pdf_url || null
+      metadata.consolidated_pdf_url || null,
+      new Date().toISOString() ,
+     new Date().toISOString() 
     ];
 
     const result = await client.query(query, values);
@@ -669,7 +671,6 @@ export class DocumentProcessor {
       // Begin transaction
       const client = await pool.connect();
       try {
-        await client.query('BEGIN');
 
         // Insert document - now returns number (SERIAL id)
         let documentId: number;
@@ -729,12 +730,10 @@ export class DocumentProcessor {
           throw new Error(`[extraction_metadata] insert failed for document_id=${documentId}: ${formatPgError(e)}`);
         }
 
-        await client.query('COMMIT');
         this.results.addSuccess(filename);
         console.log(`Successfully imported document: ${data.document_metadata.document_number}`);
 
       } catch (dbError: any) {
-        await client.query('ROLLBACK');
         throw dbError;
       } finally {
         client.release();
