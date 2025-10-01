@@ -98,7 +98,6 @@ export async function runPythonDataPipeline(): Promise<void> {
        args: [
          '--concurrent', '35',  // 35 concurrent requests
          '--delay', '0.02',     // 0.02s delay between batches
-         '--resume'             // Resume from checkpoint if exists
        ],
         cwd: pythonScriptsDir,
        showOutput: true
