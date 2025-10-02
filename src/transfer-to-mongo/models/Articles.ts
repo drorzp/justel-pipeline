@@ -41,7 +41,7 @@ const DecisionForArticleSchema = new Schema({
 
 // Main Article schema
 export const ArticleSchema = new Schema<IArticle>({
-  id: { type: Number, required: true, unique: false },                      
+  id: { type: Number, required: true },                      
   hierarchy_element_id: { type: Number, required: true },                    
   article_number: { type: String, required: true },
   document_number: { type: String, required: true },                        
