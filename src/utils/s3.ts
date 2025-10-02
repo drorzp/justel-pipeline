@@ -10,7 +10,18 @@ import {
 
 function getS3Client() {
   const region = process.env.AWS_REGION || 'us-east-1';
-  return new S3Client({ region });
+  
+  // Add explicit credentials if they exist in environment
+  const config: any = { region };
+  
+  if (process.env.AWS_ACCESS_KEY_ID && process.env.AWS_SECRET_ACCESS_KEY) {
+    config.credentials = {
+      accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+      secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
+    };
+  }
+  
+  return new S3Client(config);
 }
 
 function getBucket(): string {
