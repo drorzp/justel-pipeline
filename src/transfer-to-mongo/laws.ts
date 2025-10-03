@@ -1,7 +1,6 @@
 import { connectMongoDB, getDB, closeMongoDB } from '../mongodb/mongoConnect';
 import { Pool, PoolClient} from 'pg';
-import { Law } from './models/Law';
-import { LawRoot } from './models/RootLaw';
+import { Law } from './models/Laws';
 
 
 
@@ -76,7 +75,7 @@ export async function moveLawsToMongo(pool:Pool, ) {
           console.info(`⚠️  No data for ${law.document_number}`);
           continue;
         }
-        await LawRoot.findOneAndReplace(
+        await Law.findOneAndReplace(
           { 
             document_number: result.document_number},
             result,  // Mongoose will handle $set automatically
@@ -87,31 +86,12 @@ export async function moveLawsToMongo(pool:Pool, ) {
               overwrite: true  // Makes it behave like replace
             }
           ).lean();
-
-          const existingLaw = await Law.findOne({document_number: result.document_number});
-
-          if(existingLaw){
-            await Law.findOneAndReplace(
-              { 
-                document_number: result.document_number},
-                result,  // Mongoose will handle $set automatically
-                { 
-                  upsert: true, 
-                  new: true,
-                  timestamps: true,
-                  overwrite: true  // Makes it behave like replace
-                }
-              ).lean();
-          }
-
         
       } catch (error) {
         errorCount++;
         console.error(`❌ Error processing ${law.document_number}:`, error);
       }
     }
-    
-    // Final report
     
   } catch (error) {
     console.error('Fatal error in conservative migration:', error);

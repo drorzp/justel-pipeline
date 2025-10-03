@@ -104,7 +104,7 @@ const RootLawSchema = new Schema<ILaw>(
 
 RootLawSchema.index({ 'document.document_number': 1 }, { unique: false });
 
-const LawRoot = mongoose.model<ILaw>('lawroots', RootLawSchema);
+const Law = mongoose.model<ILaw>('law', RootLawSchema);
 
-export { LawRoot };
+export { Law };
 export type { ILaw };
