@@ -21,6 +21,7 @@ package-lock.json
 
 src/justel-data-processer/input
 src/justel-data-processer/output
+src/justel-data-processer/data/csv_data/full-list.csv
 src/import-to-pg/documents/incoming3    
 src/import-to-pg/documents/incoming_no_articles3
 src/import-to-pg/zipped
@@ -30,4 +31,4 @@ logs/
 src/html-transformer/output
 src/html-transformer/test-results/
 src/justel-data-processer/input
-src/import_article_html/import_article_html/data
+src/import_article_html/import_article_html
