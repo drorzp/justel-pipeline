@@ -1,5 +1,5 @@
 import { Pool, PoolClient, PoolConfig } from 'pg';
-import OpenAI from 'openai';
+import { AzureOpenAI } from 'openai';
 import * as dotenv from 'dotenv';
 
 // Load env variables
@@ -7,7 +7,9 @@ dotenv.config();
 
 // Types
 export interface LLMConfig {
-    openaiApiKey: string;
+    azureEndpoint: string;
+    azureApiKey: string;
+    azureApiVersion: string;
     model: string;
     maxRetries: number;
     retryDelay: number;
@@ -43,7 +45,7 @@ export async function getAllDocumentTitles(client: PoolClient, startFromId?: num
     }
 }
 
-export async function generateNewTitle(openai: OpenAI, config: LLMConfig, oldTitle: string, documentNumber: string): Promise<string> {
+export async function generateNewTitle(azureOpenAI: AzureOpenAI, config: LLMConfig, oldTitle: string, documentNumber: string): Promise<string> {
     const prompt = `
 You are transforming Belgian legal document titles for web UI display. Create clean, consistent titles optimized for user interfaces.
 
@@ -88,7 +90,7 @@ Respond with only the transformed title, no additional text or explanation.
     let retries = 0;
     while (retries < config.maxRetries) {
         try {
-            const completion = await openai.chat.completions.create({
+            const completion = await azureOpenAI.chat.completions.create({
                 model: config.model,
                 messages: [
                     {
@@ -115,7 +117,7 @@ Respond with only the transformed title, no additional text or explanation.
             // Second pass for overly long titles
             if (newTitle.length > 80) {
                 console.info(`Title too long (${newTitle.length} chars), applying second pass refinement...`);
-                const refinedTitle = await refineLongTitle(openai, config, newTitle);
+                const refinedTitle = await refineLongTitle(azureOpenAI, config, newTitle);
                 newTitle = refinedTitle || newTitle; // Fallback to original if refinement fails
             }
 
@@ -136,7 +138,7 @@ Respond with only the transformed title, no additional text or explanation.
     throw new Error('Unexpected error in generateNewTitle');
 }
 
-export async function refineLongTitle(openai: OpenAI, config: LLMConfig, longTitle: string): Promise<string | null> {
+export async function refineLongTitle(azureOpenAI: AzureOpenAI, config: LLMConfig, longTitle: string): Promise<string | null> {
     const refinementPrompt = `
 Make this Belgian legal document title more concise while preserving all essential legal information:
 
@@ -153,7 +155,7 @@ Respond with only the shortened title, no explanation.
     `.trim();
 
     try {
-        const completion = await openai.chat.completions.create({
+        const completion = await azureOpenAI.chat.completions.create({
             model: config.model,
             messages: [
                 {
@@ -248,7 +250,13 @@ export async function applyNewTitlesToDocuments(client: PoolClient): Promise<num
 
 export async function processAllDocumentTitles(pool:Pool, config: LLMConfig): Promise<void> {
     const client = await pool.connect();
-    const openai = new OpenAI({ apiKey: config.openaiApiKey });
+    const azureOpenAI = new AzureOpenAI({
+        apiKey: config.azureApiKey,
+        endpoint: config.azureEndpoint,
+        apiVersion: config.azureApiVersion,
+        defaultQuery: { 'api-version': config.azureApiVersion },
+        defaultHeaders: { 'api-key': config.azureApiKey }
+    });
 
     try {
         console.info('Starting document title processing...');
@@ -276,7 +284,7 @@ export async function processAllDocumentTitles(pool:Pool, config: LLMConfig): Pr
                 console.info(`Original title: "${doc.old_title}"`);
 
                 // Generate new title using LLM
-                const newTitle = await generateNewTitle(openai, config, doc.old_title, doc.document_number);
+                const newTitle = await generateNewTitle(azureOpenAI, config, doc.old_title, doc.document_number);
                 console.info(`Generated title: "${newTitle}"`);
 
                 // Update database
