@@ -239,32 +239,49 @@ Follow this structure precisely. Use the specified tags and CSS classes as seen 
         return hasDegreeEtPattern || hasFootnoteRef || hasSectionSymbol || hasProvisionList;
     }
 
+    private isModelRefusal(response: string): boolean {
+        const trimmed = response.trim();
+
+        // Must start with < (any refusal is plain text)
+        if (!trimmed.startsWith('<')) return true;
+
+        // Must start with expected root tags
+        if (!trimmed.startsWith('<article') && !trimmed.startsWith('<div')) {
+            return true;
+        }
+
+        // Must contain the required class
+        if (!trimmed.includes('class="legal-article"')) return true;
+
+        return false;
+    }
+
     private validateTransformation(original: string, transformed: string, articleNumber: string): {
         isValid: boolean;
         errors: string[];
     } {
         const errors: string[] = [];
-        
+
         // Basic structure checks - accept both div and article tags
         if (!transformed.includes('class="legal-article"')) {
             errors.push('Missing legal-article class');
         }
-        
+
         if (!transformed.includes('class="article-number"') &&
             !transformed.includes('Article ' + articleNumber) &&
             !transformed.includes('id="article-' + articleNumber + '"')) {
             errors.push('Missing article number in output');
         }
-        
+
         // Preserve footnotes if they exist
         const originalFootnotes = this.extractFootnoteIds(original);
         const transformedFootnotes = this.extractFootnoteIds(transformed);
-        
+
         const missingFootnotes = originalFootnotes.filter(id => !transformedFootnotes.includes(id));
         if (missingFootnotes.length > 0) {
             errors.push(`Missing footnotes: ${missingFootnotes.join(', ')}`);
         }
-        
+
         return {
             isValid: errors.length === 0,
             errors
@@ -312,9 +329,9 @@ Follow this structure precisely. Use the specified tags and CSS classes as seen 
             }
             cleanedResponse = cleanedResponse.trim();
 
-            // Basic validation
-            if (!cleanedResponse.includes('class="legal-article"')) {
-                throw new Error('Invalid HTML structure in response - missing legal-article class');
+            // Check for model refusal
+            if (this.isModelRefusal(cleanedResponse)) {
+                throw new Error('Model returned refusal or invalid response instead of HTML');
             }
 
             if (attempt > 1) {
@@ -362,17 +379,17 @@ Follow this structure precisely. Use the specified tags and CSS classes as seen 
             });
             
             const response = result.response.candidates?.[0]?.content?.parts?.[0]?.text || '';
-            
+
             if (!response || response.trim().length === 0) {
                 throw new Error('Empty response from Gemini');
             }
-            
+
             // The prompt instructs to return raw HTML only, so we just trim
             let cleanedResponse = response.trim();
-            
-            // Basic validation
-            if (!cleanedResponse.includes('class="legal-article"')) {
-                throw new Error('Invalid HTML structure in response - missing legal-article class');
+
+            // Check for model refusal
+            if (this.isModelRefusal(cleanedResponse)) {
+                throw new Error('Model returned refusal or invalid response instead of HTML');
             }
             
             if (attempt > 1) {

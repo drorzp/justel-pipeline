@@ -15,14 +15,17 @@ import { updateGet } from './import-to-pg/upgete_gen_on_articles';
 import { clearS3ZipFiles } from './utils/s3';
 import './logger';
 import { processS3HtmlUpdate } from './import_article_html/import_article_html';
+
 export const llmConfig: LLMConfig = {
-    openaiApiKey: process.env.OPENAI_API_KEY || '',
-    model: 'gpt-4o-mini',
-    maxRetries: 2, // Reduced retries for faster failure recovery
-    retryDelay: 200, // Minimal retry delay
-    requestDelay: 0, // No delay between requests (GPT-4o-mini has very high rate limits)
-    concurrentRequests: 300, // EXTREME concurrency - GPT-4o-mini can handle this!
-    batchSize: 2000, // Even larger batches for maximum throughput
+    azureEndpoint: process.env.AZURE_OPENAI_ENDPOINT || '',
+    azureApiKey: process.env.AZURE_OPENAI_API_KEY || '',
+    azureApiVersion: process.env.AZURE_API_VERSION || '2024-10-01-preview',
+    model: 'gpt-4o',
+    maxRetries: 2,
+    retryDelay: 200,
+    requestDelay: 0,
+    concurrentRequests: 300,
+    batchSize: 2000,
 };
 
 // Pool configuration for DocumentTitleProcessor
