@@ -474,5 +474,6 @@ export interface ICiting_decisions {
   court_order: string | null;
   outcome: string | null;
   keywords: string[];
+  cited_articles: string[];
   sorted_court: number;
 }

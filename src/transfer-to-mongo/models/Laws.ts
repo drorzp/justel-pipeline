@@ -37,6 +37,8 @@ const document_citing_decisions = new Schema<ICiting_decisions>({
   outcome: { type: String, default: null },
   keywords: { type: [String], default: [] },
   sorted_court: { type: Number,  default: null},
+  cited_articles: { type: [String] },
+
 }, { _id: false });
 
 
