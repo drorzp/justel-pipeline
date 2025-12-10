@@ -49,52 +49,53 @@ async function getArticleFromPostgres(client:PoolClient,document_number: string,
   } 
 }
 
-export async function moveArticlesToMongo(pool:Pool) {
-  
+async function processArticle(pool: Pool, article: { document_number: string; article_number: string }) {
+  let client: PoolClient | null = null;
   try {
-    console.info('Starting conservative migration...');
+    client = await pool.connect();
+    const result = await getArticleFromPostgres(client, article.document_number, article.article_number);
     
-    // Connect to databases
-    const client: PoolClient = await pool.connect();
-    await connectMongoDB();
-    
-    const db = getDB();
-    // const collection = db.collection('article_roots');
-    const articleList: any[] | null = await getArticlesList(pool);
-    
-    // Use for...of loop to properly handle async operations
-    for (const article of articleList!) {
-
-      
-      try {
-        
-        const result = await getArticleFromPostgres(client,article.document_number,article.article_number);
-        
-        if (!result) {
-          console.info(`⚠️  No data for ${article.document_number} ${article.article_number}`);
-          continue;
-        }
-      const saved =   await Article.findOneAndReplace(
-            { 
-            document_number: article.document_number, article_number: article.article_number },
-            result,  // Mongoose will handle $set automatically
-            { 
-              upsert: true, 
-              new: true,
-              timestamps: true,
-              overwrite: true  // Makes it behave like replace
-            }
-          ).lean();
-        }
-         catch (error) {
-        console.error(`❌ Error processing ${article.document_number}:`, error);
-      }
+    if (!result) {
+      console.info(`⚠️  No data for ${article.document_number} ${article.article_number}`);
+      return;
     }
     
-    // Final report
-    
+    await Article.findOneAndReplace(
+      { document_number: article.document_number, article_number: article.article_number },
+      result,
+      { upsert: true, new: true, timestamps: true, overwrite: true }
+    ).lean();
   } catch (error) {
-    console.error('Fatal error in conservative migration:', error);
+    console.error(`❌ Error processing ${article.document_number} ${article.article_number}:`, error);
+  } finally {
+    client?.release();
+  }
+}
+
+export async function moveArticlesToMongo(pool: Pool, batchSize = 50) {
+  try {
+    console.info('Starting concurrent migration...');
+    
+    await connectMongoDB();
+    
+    const articleList = await getArticlesList(pool);
+    if (!articleList || articleList.length === 0) {
+      console.info('No articles to process');
+      return;
+    }
+    
+    console.info(`Processing ${articleList.length} articles in batches of ${batchSize}...`);
+    
+    // Process in batches
+    for (let i = 0; i < articleList.length; i += batchSize) {
+      const batch = articleList.slice(i, i + batchSize);
+      await Promise.all(batch.map(article => processArticle(pool, article)));
+      console.info(`✓ Completed batch ${Math.floor(i / batchSize) + 1}/${Math.ceil(articleList.length / batchSize)}`);
+    }
+    
+    console.info('Migration complete');
+  } catch (error) {
+    console.error('Fatal error in concurrent migration:', error);
     process.exit(1);
   } finally {
     await closeMongoDB();

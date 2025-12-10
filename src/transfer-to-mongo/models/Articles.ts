@@ -1,9 +1,23 @@
 import mongoose, { Document, Schema } from 'mongoose';
 import { IArticle } from './types';
 
-// Schema for decision details within articles
-const DecisionForArticleDetailSchema = new Schema({
-  file_name: { type: String, required: true },
+// Schema for decisions within articles
+const DecisionForArticleSchema = new Schema({
+  decision_article_id: { type: Number, required: true },
+  decision_id: { type: String, required: true },
+  decision_date:{type:String},
+  keywords:{type:[String]},
+  court:{type:String},
+  sorted_court:{type:Number},
+  block_ids:{type:[String]},
+  relevant_snippet:{type:[String]},
+  relevant_factual_context:{type:String},
+  rol_number:{type:String}, 
+  provision_interpretation:{type:String},
+  legal_act_type: { type: String, required: true },
+  law_document_id: { type: String, required: true },
+  article_link_number: { type: String, required: true },
+  decision_article_created_at: { type: Date, required: true },
   url_official_publication: { type: String, required: true },
   ecli_alias: { type: String, default: null },
   language_metadata: { type: String, required: true },
@@ -12,7 +26,6 @@ const DecisionForArticleDetailSchema = new Schema({
   court_category: { type: String, required: true },
   decision_type_fr: { type: String, required: true },
   decision_type_ecli_code: { type: String, required: true },
-  decision_date: { type: String, required: true },
   decision_year: { type: String, required: true },
   versions: {
     type: [String],
@@ -20,23 +33,7 @@ const DecisionForArticleDetailSchema = new Schema({
     required: false
 },
   url_pdf: { type: String, default: null },
-  ecli: { type: String, default: null }
-}, { _id: false });
-
-// Schema for decisions within articles
-const DecisionForArticleSchema = new Schema({
-  decision_article_id: { type: Number, required: true },
-  decision_id: { type: String, required: true },
-  summary_id: { type: String, required: true },
-  edge: { type: String, required: true },
-  legal_act_type: { type: String, required: true },
-  url_text: { type: String },               
-  url_justel: { type: String },
-  law_document_id: { type: String, required: true },
-  article_link_number: { type: String, required: true },
-  decision_article_created_at: { type: Date, required: true },
-  decision_details: { type: DecisionForArticleDetailSchema, required: true },
-  language_metadata: { type: String },
+  ecli: { type: String, default: null },
 }, { _id: false });
 
 // Main Article schema
