@@ -1,5 +1,6 @@
 import mongoose, { Schema } from 'mongoose';
 import {
+  ICiting_decisions,
   IDocument_modifies,
   IDocument_version,
   IExternal_link,
@@ -8,6 +9,37 @@ import {
   ILaw,
 } from './types';
 import { ArticleSchema } from './Articles.js';
+
+const document_citing_decisions = new Schema<ICiting_decisions>({
+  decision_id: { type: Number},
+  file_name: { type: String ,default: null},
+  url_official_publication: { type: String  ,default: null},
+  language_metadata: { type: String  ,default: null},
+  court_ecli_code: { type: String  ,default: null},
+  decision_type_ecli_code: { type: String ,default: null },
+  decision_date: { type: String  ,default: null},
+  url_pdf: { type: String, default: null },
+  rol_number: { type: String, default: null },
+  case: { type: String, default: null },
+  chamber: { type: String, default: null },
+  field_of_law: { type: String, default: null },
+  opinion_public_attorney: { type: String, default: null },
+  source: { type: String  ,default: null},
+  court_fr: { type: String ,default: null },
+  court_nl: { type: String  ,default: null},
+  court_category: { type: String  ,default: null},
+  decision_type_fr: { type: String  ,default: null},
+  decision_type_nl: { type: String  ,default: null},
+  micro_summary: { type: String, default: null },
+  citation_reference: { type: String, default: null },
+  facts: { type: String, default: null },
+  court_order: { type: String, default: null },
+  outcome: { type: String, default: null },
+  keywords: { type: [String], default: [] },
+  sorted_court: { type: Number,  default: null},
+}, { _id: false });
+
+
 
 const document_versionsSchema = new Schema<IDocument_version>({
   id: { type: Number, required: true },
@@ -92,6 +124,7 @@ const RootLawSchema = new Schema<ILaw>(
       external_links: { type: [external_linksSchema], default: [] },
       hierarchy_elements: { type: [hierarchy_elementsSchema], default: [] },
       extraction_metadata: { type: extraction_metadataSchema },
+      citing_decisions: {type:[document_citing_decisions],default:[]}
       // selectedArticle?:{type: ArticleSchema}
   },
   {

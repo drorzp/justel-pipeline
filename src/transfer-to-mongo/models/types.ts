@@ -442,7 +442,37 @@ export interface ILaw extends Document {
   external_links: IExternal_link[];
   hierarchy_elements: IHierarchy_element[];
   extraction_metadata: IExtraction_metadata;
+  citing_decisions: ICiting_decisions[];
   selectedArticle?: IArticle;
   created_at: Date;
   updated_at: Date;
+}
+
+export interface ICiting_decisions {
+  decision_id: number;
+  file_name: string;
+  url_official_publication: string;
+  language_metadata: string;
+  court_ecli_code: string;
+  decision_type_ecli_code: string;
+  decision_date: string;
+  url_pdf: string | null;
+  rol_number: string | null;
+  case: string | null;
+  chamber: string | null;
+  field_of_law: string | null;
+  opinion_public_attorney: string | null;
+  source: string;
+  court_fr: string;
+  court_nl: string;
+  court_category: string;
+  decision_type_fr: string;
+  decision_type_nl: string;
+  micro_summary: string | null;
+  citation_reference: string | null;
+  facts: string | null;
+  court_order: string | null;
+  outcome: string | null;
+  keywords: string[];
+  sorted_court: number;
 }

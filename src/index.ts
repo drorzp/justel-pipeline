@@ -36,7 +36,7 @@ const dbConfig: PoolConfig = {
   password: process.env.POSTGRES_PASSWORD,
   database: process.env.POSTGRES_DB,
   ssl: false,
-   max: 50
+   max: 80
 };
 
 async function main() {
