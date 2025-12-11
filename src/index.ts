@@ -86,7 +86,7 @@ const pool = new Pool(dbConfig);
 // //    await updateGet(pool);
 //     console.log('update gen completed');
 
-//   //  await moveLawsToMongo(pool);
+  // await moveLawsToMongo(pool);
 //     console.log('Move to mongo document collection completed');
 //     console.log('moveArticlesToMongo started')
  await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 

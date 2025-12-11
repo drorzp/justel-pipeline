@@ -44,6 +44,7 @@ export interface IArticle extends Document {
   gen_3: string;
   created_at: Date;
   decisions: IDecisionForArticle[];
+  cited_provision_count:number;
 }
 
 // Note interface
@@ -450,6 +451,7 @@ export interface ILaw extends Document {
 
 export interface ICiting_decisions {
   decision_id: number;
+  ecli:string,
   file_name: string;
   url_official_publication: string;
   language_metadata: string;

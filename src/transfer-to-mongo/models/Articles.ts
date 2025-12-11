@@ -48,6 +48,7 @@ export const ArticleSchema = new Schema<IArticle>({
   gen_2:{type: String},
   gen_3:{type: String}, 
   created_at: { type: Date, required: true },
+  cited_provision_count:{type:Number},
   decisions: { type: [DecisionForArticleSchema], default: [] }
 }, {
   timestamps: true,

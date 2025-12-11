@@ -49,52 +49,75 @@ async function getLawFromPostgres(client:PoolClient,document_number: string): Pr
 }
 
 
-export async function moveLawsToMongo(pool:Pool, ) {
-  let processedCount = 0;
-  let errorCount = 0;
-  
+async function processLaw(pool: Pool, law: { id: number; document_number: string }): Promise<{ success: boolean; document_number: string }> {
+  const client = await pool.connect();
   try {
-    console.info('Starting conservative migration...');
+    const result = await getLawFromPostgres(client, law.document_number);
     
-    // Connect to databases
+    if (!result) {
+      console.info(`⚠️  No data for ${law.document_number}`);
+      return { success: false, document_number: law.document_number };
+    }
+    
+    await Law.findOneAndReplace(
+      { document_number: result.document_number },
+      result,
+      { 
+        upsert: true, 
+        new: true,
+        timestamps: true,
+        overwrite: true
+      }
+    ).lean();
+    
+    return { success: true, document_number: law.document_number };
+  } catch (error) {
+    console.error(`❌ Error processing ${law.document_number}:`, error);
+    return { success: false, document_number: law.document_number };
+  } finally {
+    client.release();
+  }
+}
+
+export async function moveLawsToMongo(pool: Pool, batchSize = 80) {
+  try {
+    console.info('Starting concurrent migration...');
+    
     const client: PoolClient = await pool.connect();
     await connectMongoDB();
     
-    const db = getDB();
     const LawsList: any[] | null = await getLawsList(client);
+    client.release();
     
-    // Use for...of loop to properly handle async operations
-    for (const law of LawsList!) {
-      processedCount++;
-      
-      try {
-        
-        const result = await getLawFromPostgres(client,law.document_number);
-        
-        if (!result) {
-          console.info(`⚠️  No data for ${law.document_number}`);
-          continue;
-        }
-        await Law.findOneAndReplace(
-          { 
-            document_number: result.document_number},
-            result,  // Mongoose will handle $set automatically
-            { 
-              upsert: true, 
-              new: true,
-              timestamps: true,
-              overwrite: true  // Makes it behave like replace
-            }
-          ).lean();
-        
-      } catch (error) {
-        errorCount++;
-        console.error(`❌ Error processing ${law.document_number}:`, error);
-      }
+    if (!LawsList || LawsList.length === 0) {
+      console.info('No laws to process');
+      return;
     }
     
+    let processedCount = 0;
+    let errorCount = 0;
+    const totalLaws = LawsList.length;
+    
+    // Process in parallel batches
+    for (let i = 0; i < totalLaws; i += batchSize) {
+      const batch = LawsList.slice(i, i + batchSize);
+      
+      const results = await Promise.all(
+        batch.map(law => processLaw(pool, law))
+      );
+      
+      results.forEach(result => {
+        processedCount++;
+        if (!result.success) errorCount++;
+      });
+      
+      console.info(`Progress: ${processedCount}/${totalLaws} (${errorCount} errors)`);
+    }
+    
+    console.info(`✓ Migration complete: ${processedCount} processed, ${errorCount} errors`);
+    
   } catch (error) {
-    console.error('Fatal error in conservative migration:', error);
+    console.error('Fatal error in concurrent migration:', error);
     process.exit(1);
   } finally {
     await closeMongoDB();
