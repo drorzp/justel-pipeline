@@ -36,6 +36,15 @@ const DecisionForArticleSchema = new Schema({
   ecli: { type: String, default: null },
 }, { _id: false });
 
+
+
+const related_provisionsSchema = new Schema({
+  article_name: { type: String },
+  document_title: { type: String },
+  shared_decision_count: { type: String }
+}, { _id: false });
+
+
 // Main Article schema
 export const ArticleSchema = new Schema<IArticle>({
   id: { type: Number, required: true },                      
@@ -49,6 +58,7 @@ export const ArticleSchema = new Schema<IArticle>({
   gen_3:{type: String}, 
   created_at: { type: Date, required: true },
   cited_provision_count:{type:Number},
+  related_provisions:{type:[related_provisionsSchema], default: []},
   decisions: { type: [DecisionForArticleSchema], default: [] }
 }, {
   timestamps: true,

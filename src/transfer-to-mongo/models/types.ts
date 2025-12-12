@@ -45,6 +45,7 @@ export interface IArticle extends Document {
   created_at: Date;
   decisions: IDecisionForArticle[];
   cited_provision_count:number;
+  related_provisions: IRelatedProvision[];
 }
 
 // Note interface
@@ -478,4 +479,9 @@ export interface ICiting_decisions {
   keywords: string[];
   cited_articles: string[];
   sorted_court: number;
+}
+export interface IRelatedProvision {
+   article_name:string;
+   document_title: string;
+   shared_decision_count: string;
 }
