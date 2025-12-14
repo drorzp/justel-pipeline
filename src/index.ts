@@ -86,10 +86,10 @@ const pool = new Pool(dbConfig);
 // //    await updateGet(pool);
 //     console.log('update gen completed');
 
-   await moveLawsToMongo(pool, 20);
+ //  await moveLawsToMongo(pool, 20);
 //     console.log('Move to mongo document collection completed');
 //     console.log('moveArticlesToMongo started')
-//  await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
+ await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
 //     console.log('moveArticlesToMongo completed')
 //     console.log('updateArticleVector started')
 //     // await updateArticleVector(pool);
