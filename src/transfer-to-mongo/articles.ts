@@ -73,7 +73,7 @@ async function processArticle(pool: Pool, article: { document_number: string; ar
   }
 }
 
-export async function moveArticlesToMongo(pool: Pool, batchSize = 80) {
+export async function moveArticlesToMongo(pool: Pool, batchSize = 20) {
   try {
     console.info('Starting concurrent migration...');
     
