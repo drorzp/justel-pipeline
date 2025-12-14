@@ -59,7 +59,7 @@ async function processLaw(pool: Pool, law: { id: number; document_number: string
       return { success: false, document_number: law.document_number };
     }
     
-    await Law.findOneAndReplace(
+   const lawData = await Law.findOneAndReplace(
       { document_number: result.document_number },
       result,
       { 
@@ -69,7 +69,7 @@ async function processLaw(pool: Pool, law: { id: number; document_number: string
         overwrite: true
       }
     ).lean();
-    
+    console.log(`✓ Successfully processed ${law.document_number}`);
     return { success: true, document_number: law.document_number };
   } catch (error) {
     console.error(`❌ Error processing ${law.document_number}:`, error);
@@ -79,7 +79,7 @@ async function processLaw(pool: Pool, law: { id: number; document_number: string
   }
 }
 
-export async function moveLawsToMongo(pool: Pool, batchSize = 80) {
+export async function moveLawsToMongo(pool: Pool, batchSize = 30) {
   try {
     console.info('Starting concurrent migration...');
     

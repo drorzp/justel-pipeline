@@ -12,6 +12,7 @@ import { ArticleSchema } from './Articles.js';
 
 const document_citing_decisions = new Schema<ICiting_decisions>({
   decision_id: { type: Number},
+  pg_id:{type:Number},
   ecli: {type:String},
   file_name: { type: String ,default: null},
   url_official_publication: { type: String  ,default: null},

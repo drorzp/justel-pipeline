@@ -10,7 +10,7 @@ async function getArticlesList(pool:Pool) {
     console.info('Connecting to PostgreSQL...');
     client = await pool.connect();
 
-    const query = 'SELECT id, document_number, article_number FROM public.article_contents ';
+    const query = `SELECT id, document_number, article_number FROM public.article_contents`;
     const result = await client.query(query, []);
 
     const articles = result.rows;
@@ -18,7 +18,7 @@ async function getArticlesList(pool:Pool) {
     return articles;
 
   } catch (error) {
-    console.error('Error getting laws list:', error);
+    console.error('Error getting articles list:', error);
     return null;
   } finally {
     try { client?.release(); } catch {}
@@ -60,11 +60,12 @@ async function processArticle(pool: Pool, article: { document_number: string; ar
       return;
     }
     
-    await Article.findOneAndReplace(
+  const articleData = await Article.findOneAndReplace(
       { document_number: article.document_number, article_number: article.article_number },
       result,
       { upsert: true, new: true, timestamps: true, overwrite: true }
     ).lean();
+    console.info(`✓ Successfully processed ${article.document_number} ${article.article_number}`);
   } catch (error) {
     console.error(`❌ Error processing ${article.document_number} ${article.article_number}:`, error);
   } finally {

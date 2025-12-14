@@ -5,6 +5,7 @@ import { IArticle } from './types';
 const DecisionForArticleSchema = new Schema({
   decision_article_id: { type: Number, required: true },
   decision_id: { type: String, required: true },
+  pg_id:{type:Number},
   decision_date:{type:String},
   keywords:{type:[String]},
   court:{type:String},
@@ -40,6 +41,7 @@ const DecisionForArticleSchema = new Schema({
 
 const related_provisionsSchema = new Schema({
   article_name: { type: String },
+  document_number:{ type: String },
   document_title: { type: String },
   shared_decision_count: { type: String }
 }, { _id: false });

@@ -452,6 +452,7 @@ export interface ILaw extends Document {
 
 export interface ICiting_decisions {
   decision_id: number;
+  pg_id:number,
   ecli:string,
   file_name: string;
   url_official_publication: string;
@@ -482,6 +483,7 @@ export interface ICiting_decisions {
 }
 export interface IRelatedProvision {
    article_name:string;
+   document_number:string;
    document_title: string;
    shared_decision_count: string;
 }
