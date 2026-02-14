@@ -7,7 +7,7 @@ Comprehensive Belgian Legal Document Processing Pipeline
 This script orchestrates the complete processing pipeline:
 1. Environment preparation (cleanup output directory)
 2. Document processing (first 1000 files through 000_Master.py)
-3. Quality filtering and S3 upload (JSON files with document_hierarchy)
+3. Quality filtering and local folder write (JSON files to data/step1/)
 
 Features:
 - Comprehensive logging and error handling
@@ -21,15 +21,13 @@ import os
 import sys
 import json
 import shutil
-import zipfile
 import logging
 import argparse
 import subprocess
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict, Tuple, Optional
+from typing import List, Tuple, Optional
 import glob
-import tempfile
 
 
 class ComprehensivePipeline:
@@ -362,83 +360,6 @@ class ComprehensivePipeline:
         
         return valid_files, invalid_files
 
-    def create_zip_archive(self, valid_files: List[Path]) -> Optional[Path]:
-        """Create ZIP archive with valid JSON files."""
-        if not valid_files:
-            self.logger.warning("No valid files to archive")
-            return None
-
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        zip_filename = f"belgian_legal_docs_{timestamp}_{len(valid_files)}_files.zip"
-        zip_path = self.script_dir / zip_filename
-
-        self.logger.info(f"📦 Creating ZIP archive: {zip_filename}")
-
-        if self.dry_run:
-            self.logger.info(f"DRY RUN: Would create ZIP with {len(valid_files):,} files")
-            return zip_path
-
-        try:
-            with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as zipf:
-                for i, json_file in enumerate(valid_files, 1):
-                    if i % 100 == 0:
-                        self.logger.info(f"  Added {i}/{len(valid_files)} files to ZIP")
-
-                    # Use relative path in ZIP
-                    arcname = json_file.relative_to(self.output_dir)
-                    zipf.write(json_file, arcname)
-
-            # Get ZIP file size
-            zip_size_mb = zip_path.stat().st_size / (1024 * 1024)
-            self.logger.info(f"✅ ZIP archive created: {zip_size_mb:.1f} MB")
-
-            return zip_path
-
-        except Exception as e:
-            self.logger.error(f"❌ Error creating ZIP archive: {e}")
-            return None
-
-    def upload_to_s3(self, zip_path: Path) -> bool:
-        """Upload ZIP file to S3."""
-        self.logger.info("☁️  Uploading to S3...")
-
-        if self.dry_run:
-            self.logger.info("DRY RUN: Would upload ZIP file to S3")
-            return True
-
-        try:
-            # Check if ZIP upload script exists
-            upload_script = self.script_dir / "aws-s3" / "upload_zip_to_s3.py"
-            if not upload_script.exists():
-                self.logger.error(f"ZIP upload script not found: {upload_script}")
-                return False
-
-            # Execute ZIP upload script
-            result = subprocess.run(
-                [sys.executable, str(upload_script), str(zip_path)],
-                capture_output=True,
-                text=True,
-                timeout=1800  # 30 minute timeout
-            )
-
-            if result.returncode == 0:
-                self.logger.info("✅ Successfully uploaded to S3")
-                if result.stdout:
-                    self.logger.info(f"Upload output: {result.stdout}")
-                return True
-            else:
-                self.logger.error(f"❌ S3 upload failed with return code {result.returncode}")
-                if result.stderr:
-                    self.logger.error(f"Error output: {result.stderr}")
-                return False
-
-        except subprocess.TimeoutExpired:
-            self.logger.error("❌ S3 upload timed out after 30 minutes")
-            return False
-        except Exception as e:
-            self.logger.error(f"❌ Error during S3 upload: {e}")
-            return False
-
     def cleanup_temporary_files(self, zip_path: Optional[Path] = None):
         """Clean up temporary files after processing."""
         self.logger.info("🧹 Cleaning up temporary files...")
@@ -466,18 +387,50 @@ class ComprehensivePipeline:
         except Exception as e:
             self.logger.error(f"❌ Error during cleanup: {e}")
 
-    def phase3_quality_filtering_and_upload(self) -> bool:
-        """Phase 3: Filter JSON files, create batches, and upload to S3."""
+    def write_files_to_folder(self, valid_files: List[Path], invalid_files: List[Path], batch_number: int) -> bool:
+        """Copy JSON files directly to data/step1 folder structure."""
+        project_root = self.script_dir.parent.parent
+        valid_output_dir = project_root / "data" / "step1" / "valid"
+        invalid_output_dir = project_root / "data" / "step1" / "invalid"
+
+        valid_output_dir.mkdir(parents=True, exist_ok=True)
+        invalid_output_dir.mkdir(parents=True, exist_ok=True)
+
+        self.logger.info(f"📁 Writing {len(valid_files)} valid files to {valid_output_dir}")
+        self.logger.info(f"📁 Writing {len(invalid_files)} invalid files to {invalid_output_dir}")
+
+        success = True
+        for json_file in valid_files:
+            try:
+                shutil.copy2(json_file, valid_output_dir / json_file.name)
+                self.stats['valid_files_written'] = self.stats.get('valid_files_written', 0) + 1
+            except Exception as e:
+                self.logger.error(f"Failed to copy {json_file.name}: {e}")
+                success = False
+
+        for json_file in invalid_files:
+            try:
+                shutil.copy2(json_file, invalid_output_dir / json_file.name)
+                self.stats['invalid_files_written'] = self.stats.get('invalid_files_written', 0) + 1
+            except Exception as e:
+                self.logger.error(f"Failed to copy {json_file.name}: {e}")
+                success = False
+
+        self.logger.info(f"✅ Batch {batch_number} files written: {self.stats.get('valid_files_written', 0)} valid, {self.stats.get('invalid_files_written', 0)} invalid")
+        return success
+
+    def phase3_quality_filtering_and_write(self) -> bool:
+        """Phase 3: Filter JSON files and write to local folder."""
         self.logger.info("\n" + "="*60)
-        self.logger.info("PHASE 3: QUALITY FILTERING AND BATCH S3 UPLOAD")
+        self.logger.info("PHASE 3: QUALITY FILTERING AND LOCAL FOLDER WRITE")
         self.logger.info("="*60)
 
         try:
             # Scan for JSON files
             valid_files, invalid_files = self.scan_json_files()
 
-            if not valid_files:
-                self.logger.warning("No valid JSON files found - nothing to upload")
+            if not valid_files and not invalid_files:
+                self.logger.warning("No JSON files found - nothing to write")
                 return False
 
             # Log invalid files for audit
@@ -493,260 +446,15 @@ class ComprehensivePipeline:
                             f.write(f"{invalid_file.relative_to(self.output_dir)}\n")
                     self.logger.info(f"✅ Invalid files logged to: {invalid_log}")
 
-            # Create category-based ZIP files and upload
-            batch_success = self.create_batches_and_upload(valid_files, invalid_files, self.stats['current_batch'])
+            # Write files to local folder
+            batch_success = self.write_files_to_folder(valid_files, invalid_files, self.stats['current_batch'])
             self.stats['upload_success'] = batch_success
 
             return batch_success
 
         except Exception as e:
-            self.logger.error(f"❌ Error in quality filtering and upload phase: {e}")
+            self.logger.error(f"❌ Error in quality filtering and write phase: {e}")
             return False
-
-    def create_batches(self, files: List[Path], batch_size: int = 100) -> List[List[Path]]:
-        """Organize files into batches of specified size."""
-        batches = []
-        for i in range(0, len(files), batch_size):
-            batch = files[i:i + batch_size]
-            batches.append(batch)
-        return batches
-
-    def create_batch_zip(self, files: List[Path], batch_number: int) -> Optional[Path]:
-        """Create a ZIP file for a batch of JSON files."""
-        if not files:
-            return None
-
-        try:
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            zip_filename = f"belgian_legal_batch_{batch_number:03d}_{timestamp}_{len(files)}_files.zip"
-            zip_path = self.script_dir / zip_filename
-
-            self.logger.info(f"📦 Creating batch {batch_number} ZIP: {zip_filename}")
-
-            if self.dry_run:
-                self.logger.info(f"DRY RUN: Would create ZIP with {len(files)} files")
-                return zip_path
-
-            total_size = 0
-            with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as zipf:
-                for file_path in files:
-                    if file_path.exists():
-                        # Add file to zip with just the filename (no directory structure)
-                        arcname = file_path.name
-                        zipf.write(file_path, arcname)
-                        total_size += file_path.stat().st_size
-
-            zip_size = zip_path.stat().st_size
-            compression_ratio = (total_size - zip_size) / total_size if total_size > 0 else 0
-
-            self.logger.info(
-                f"✅ Created batch {batch_number}: {len(files)} files, "
-                f"{total_size / (1024*1024):.1f}MB → {zip_size / (1024*1024):.1f}MB "
-                f"({compression_ratio*100:.1f}% compression)"
-            )
-
-            return zip_path
-
-        except Exception as e:
-            self.logger.error(f"❌ Error creating batch {batch_number} ZIP: {e}")
-            return None
-
-    def upload_batch_to_s3(self, zip_path: Path, batch_number: int) -> bool:
-        """Upload a batch ZIP file to S3."""
-        self.logger.info(f"☁️  Uploading batch {batch_number} to S3...")
-
-        if self.dry_run:
-            self.logger.info(f"DRY RUN: Would upload batch {batch_number} ZIP file to S3")
-            return True
-
-        try:
-            # Check if upload script exists
-            upload_script = self.script_dir / "aws-s3" / "upload_zip_to_s3.py"
-            if not upload_script.exists():
-                self.logger.error(f"ZIP upload script not found: {upload_script}")
-                return False
-
-            # Execute ZIP upload script
-            result = subprocess.run(
-                [sys.executable, str(upload_script), str(zip_path)],
-                capture_output=True,
-                text=True,
-                timeout=1800  # 30 minute timeout
-            )
-
-            if result.returncode == 0:
-                self.logger.info(f"✅ Batch {batch_number} uploaded successfully to S3")
-                if result.stdout:
-                    # Log only the S3 location line for brevity
-                    for line in result.stdout.split('\n'):
-                        if 'S3 location:' in line:
-                            self.logger.info(f"  {line.strip()}")
-                return True
-            else:
-                self.logger.error(f"❌ Batch {batch_number} S3 upload failed with return code {result.returncode}")
-                if result.stderr:
-                    self.logger.error(f"Error output: {result.stderr}")
-                return False
-
-        except subprocess.TimeoutExpired:
-            self.logger.error(f"❌ Batch {batch_number} S3 upload timed out after 30 minutes")
-            return False
-        except Exception as e:
-            self.logger.error(f"❌ Error during batch {batch_number} S3 upload: {e}")
-            return False
-
-    def create_category_zip(self, files: List[Path], category: str, batch_number: int) -> Optional[Path]:
-        """Create a ZIP file for a specific category (valid/invalid) of JSON files."""
-        if not files:
-            self.logger.info(f"No {category} files to archive for batch {batch_number}")
-            return None
-
-        try:
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            zip_filename = f"belgian_legal_batch_{batch_number:03d}_{category}_{timestamp}_{len(files)}_files.zip"
-            zip_path = self.script_dir / zip_filename
-
-            self.logger.info(f"📦 Creating {category} ZIP for batch {batch_number}: {zip_filename}")
-
-            if self.dry_run:
-                self.logger.info(f"DRY RUN: Would create {category} ZIP with {len(files)} files")
-                return zip_path
-
-            total_size = 0
-            with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED, compresslevel=6) as zipf:
-                for file_path in files:
-                    if file_path.exists():
-                        # Add file to zip with just the filename (no directory structure)
-                        arcname = file_path.name
-                        zipf.write(file_path, arcname)
-                        total_size += file_path.stat().st_size
-
-            zip_size = zip_path.stat().st_size
-            compression_ratio = (total_size - zip_size) / total_size if total_size > 0 else 0
-
-            self.logger.info(
-                f"✅ Created {category} ZIP for batch {batch_number}: {len(files)} files, "
-                f"{total_size / (1024*1024):.1f}MB → {zip_size / (1024*1024):.1f}MB "
-                f"({compression_ratio*100:.1f}% compression)"
-            )
-
-            return zip_path
-
-        except Exception as e:
-            self.logger.error(f"❌ Error creating {category} ZIP for batch {batch_number}: {e}")
-            return None
-
-    def upload_category_zip_to_s3(self, zip_path: Path, category: str, batch_number: int) -> bool:
-        """Upload a category ZIP file to S3 with appropriate prefix."""
-        if category == "valid":
-            s3_prefix = "incoming3"
-        elif category == "invalid":
-            s3_prefix = "incoming_no_articles3"
-        else:
-            self.logger.error(f"Unknown category: {category}")
-            return False
-
-        self.logger.info(f"☁️  Uploading {category} batch {batch_number} to S3 prefix: {s3_prefix}/")
-
-        if self.dry_run:
-            self.logger.info(f"DRY RUN: Would upload {category} ZIP to S3 prefix {s3_prefix}/")
-            return True
-
-        try:
-            # Use the new upload script with custom prefix support
-            upload_script = self.script_dir / "aws-s3" / "upload_zip_to_s3_with_prefix.py"
-            if not upload_script.exists():
-                self.logger.error(f"ZIP upload script not found: {upload_script}")
-                return False
-
-            # Execute upload script with custom prefix
-            # Use the same Python interpreter that's currently running
-            python_executable = sys.executable
-            result = subprocess.run(
-                [python_executable, str(upload_script), str(zip_path), "--prefix", s3_prefix],
-                capture_output=True,
-                text=True,
-                timeout=1800  # 30 minute timeout
-            )
-
-            if result.returncode == 0:
-                self.logger.info(f"✅ {category.title()} batch {batch_number} uploaded successfully to S3")
-                if result.stdout:
-                    # Log only the S3 location line for brevity
-                    for line in result.stdout.split('\n'):
-                        if 'S3 location:' in line:
-                            self.logger.info(f"  {line.strip()}")
-                return True
-            else:
-                self.logger.error(f"❌ {category.title()} batch {batch_number} S3 upload failed with return code {result.returncode}")
-                if result.stderr:
-                    self.logger.error(f"Error output: {result.stderr}")
-                if result.stdout:
-                    self.logger.error(f"Stdout output: {result.stdout}")
-                self.logger.error(f"Command executed: {[python_executable, str(upload_script), str(zip_path), '--prefix', s3_prefix]}")
-                return False
-
-        except subprocess.TimeoutExpired:
-            self.logger.error(f"❌ {category.title()} batch {batch_number} S3 upload timed out after 30 minutes")
-            return False
-        except Exception as e:
-            self.logger.error(f"❌ Error during {category} batch {batch_number} S3 upload: {e}")
-            return False
-
-    def create_batches_and_upload(self, valid_files: List[Path], invalid_files: List[Path], batch_number: int) -> bool:
-        """Create category-based ZIP files and upload to S3 with appropriate prefixes."""
-
-        self.logger.info(f"📊 Batch {batch_number} file distribution:")
-        self.logger.info(f"  Valid files (non-empty document_hierarchy): {len(valid_files)}")
-        self.logger.info(f"  Invalid files (empty document_hierarchy): {len(invalid_files)}")
-
-        successful_uploads = 0
-        failed_uploads = 0
-
-        # Create and upload valid files ZIP
-        if valid_files:
-            self.logger.info(f"\n🔄 Processing valid files for batch {batch_number}")
-            valid_zip_path = self.create_category_zip(valid_files, "valid", batch_number)
-            if valid_zip_path:
-                upload_success = self.upload_category_zip_to_s3(valid_zip_path, "valid", batch_number)
-                if upload_success:
-                    successful_uploads += 1
-                    self.stats['valid_zips_uploaded'] += 1
-
-                    # Clean up ZIP file after successful upload
-                    if not self.dry_run and valid_zip_path.exists():
-                        valid_zip_path.unlink()
-                        self.logger.info(f"🧹 Cleaned up valid ZIP file for batch {batch_number}")
-                else:
-                    failed_uploads += 1
-            else:
-                failed_uploads += 1
-
-        # Create and upload invalid files ZIP
-        if invalid_files:
-            self.logger.info(f"\n🔄 Processing invalid files for batch {batch_number}")
-            invalid_zip_path = self.create_category_zip(invalid_files, "invalid", batch_number)
-            if invalid_zip_path:
-                upload_success = self.upload_category_zip_to_s3(invalid_zip_path, "invalid", batch_number)
-                if upload_success:
-                    successful_uploads += 1
-                    self.stats['invalid_zips_uploaded'] += 1
-
-                    # Clean up ZIP file after successful upload
-                    if not self.dry_run and invalid_zip_path.exists():
-                        invalid_zip_path.unlink()
-                        self.logger.info(f"🧹 Cleaned up invalid ZIP file for batch {batch_number}")
-                else:
-                    failed_uploads += 1
-            else:
-                failed_uploads += 1
-
-        # Batch summary
-        self.logger.info(f"\n📊 BATCH {batch_number} UPLOAD SUMMARY:")
-        self.logger.info(f"  Successful uploads: {successful_uploads}")
-        self.logger.info(f"  Failed uploads: {failed_uploads}")
-
-        return failed_uploads == 0
 
     def cleanup_batch_files(self) -> bool:
         """Clean up all intermediate files after batch processing."""
@@ -814,7 +522,7 @@ class ComprehensivePipeline:
             batch_success = (
                 self.phase1_environment_preparation() and
                 self.phase2_document_processing() and
-                self.phase3_quality_filtering_and_upload()
+                self.phase3_quality_filtering_and_write()
             )
 
             if batch_success:
@@ -880,7 +588,7 @@ class ComprehensivePipeline:
                 success = (
                     self.phase1_environment_preparation() and
                     self.phase2_document_processing() and
-                    self.phase3_quality_filtering_and_upload()
+                    self.phase3_quality_filtering_and_write()
                 )
 
             if success:
