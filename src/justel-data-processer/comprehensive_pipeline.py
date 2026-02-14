@@ -68,9 +68,9 @@ class ComprehensivePipeline:
             'json_files_created': 0,
             'valid_json_files': 0,
             'invalid_json_files': 0,
-            'valid_zips_uploaded': 0,
-            'invalid_zips_uploaded': 0,
-            'upload_success': False,
+            'valid_files_written': 0,
+            'invalid_files_written': 0,
+            'write_success': False,
             'cleanup_performed': False
         }
 
@@ -376,14 +376,6 @@ class ComprehensivePipeline:
                         temp_file.unlink()
                     self.logger.info("✅ Cleaned up temporary input files")
 
-            # Optionally remove ZIP file after successful upload
-            # if zip_path and zip_path.exists() and self.stats.get('upload_success', False):
-            #     if not self.dry_run:
-            #         response = input(f"\nRemove local ZIP file {zip_path.name} after successful upload? (y/N): ")
-            #         if response.lower() == 'y':
-            #             zip_path.unlink()
-            #             self.logger.info(f"✅ Removed local ZIP file: {zip_path.name}")
-
         except Exception as e:
             self.logger.error(f"❌ Error during cleanup: {e}")
 
@@ -448,7 +440,7 @@ class ComprehensivePipeline:
 
             # Write files to local folder
             batch_success = self.write_files_to_folder(valid_files, invalid_files, self.stats['current_batch'])
-            self.stats['upload_success'] = batch_success
+            self.stats['write_success'] = batch_success
 
             return batch_success
 
@@ -556,12 +548,12 @@ class ComprehensivePipeline:
         # Batch statistics
         if 'batches_created' in self.stats:
             self.logger.info(f"Batches created: {self.stats['batches_created']:,}")
-            self.logger.info(f"Successful batch uploads: {self.stats.get('successful_batch_uploads', 0):,}")
-            self.logger.info(f"Failed batch uploads: {self.stats.get('failed_batch_uploads', 0):,}")
-            self.logger.info(f"Total files uploaded: {self.stats.get('total_files_uploaded', 0):,}")
+            self.logger.info(f"Successful batch writes: {self.stats.get('successful_batch_writes', 0):,}")
+            self.logger.info(f"Failed batch writes: {self.stats.get('failed_batch_writes', 0):,}")
+            self.logger.info(f"Total files written: {self.stats.get('total_files_written', 0):,}")
 
         self.logger.info(f"Environment cleanup: {'Yes' if self.stats['cleanup_performed'] else 'No'}")
-        self.logger.info(f"S3 upload: {'Success' if self.stats['upload_success'] else 'Failed/Skipped'}")
+        self.logger.info(f"Local write: {'Success' if self.stats['write_success'] else 'Failed/Skipped'}")
 
         if self.stats['valid_json_files'] > 0:
             success_rate = (self.stats['valid_json_files'] / self.stats['json_files_created']) * 100

@@ -37,6 +37,14 @@ python 000_Master.py
 
 ## Architecture
 
+### Python Scraping Pipeline (runPythonDataPipeline)
+
+Scrapes Belgian legal documents from `https://www.ejustice.just.fgov.be`:
+
+1. **populate_full_list.py** - Discover new document URLs since last run, append to `data/csv_data/full-list.csv`
+2. **run_comprehensive_html_scraping.py** - Download HTML for each URL (35 concurrent, ~23 URLs/sec) → `input/*.txt`
+3. **comprehensive_pipeline.py** - Parse HTML → JSON, validate, output to `data/step1/valid/` and `data/step1/invalid/`
+
 ### Pipeline Stages (executed sequentially in src/index.ts)
 
 1. **Clear Local Folder** - Remove old files from `data/step1/`
@@ -88,3 +96,10 @@ The pipeline uses a file-based logging system (src/logger.ts) that:
 - Intercepts all console methods
 - Captures uncaught exceptions
 - Supports scoped loggers per module
+
+## LLM Configuration
+
+Title generation uses Azure OpenAI (configured in `src/index.ts`):
+- Model: `gpt-4o`
+- Concurrent requests: 300
+- Batch size: 2000

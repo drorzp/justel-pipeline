@@ -57,13 +57,18 @@ class JustelScraper:
         """
         self.input_excel = input_excel
         self.output_dir = Path(output_dir)
+        self.output_dir_new = self.output_dir / "new"
+        self.output_dir_current = self.output_dir / "current"
         self.delay = delay
         self.concurrent_requests = concurrent_requests
         self.test_mode = test_mode
         self.test_limit = test_limit
+        self.cutoff_date = self.load_cutoff_date()
 
-        # Create output directory
+        # Create output directories
         self.output_dir.mkdir(exist_ok=True, parents=True)
+        self.output_dir_new.mkdir(exist_ok=True, parents=True)
+        self.output_dir_current.mkdir(exist_ok=True, parents=True)
 
         # Setup checkpoint file for resume capability
         self.checkpoint_file = self.output_dir / "scraping_checkpoint.json"
@@ -117,7 +122,45 @@ class JustelScraper:
             ]
         )
         self.logger = logging.getLogger(__name__)
-    
+
+    def load_cutoff_date(self) -> Optional[datetime]:
+        """Load cutoff date from file created by populate_full_list.py."""
+        cutoff_file = Path('./data/csv_data/cutoff_date.txt')
+        if cutoff_file.exists():
+            date_str = cutoff_file.read_text().strip()
+            try:
+                return datetime.strptime(date_str, '%Y-%m-%d')
+            except ValueError:
+                return None
+        return None
+
+    def extract_date_from_url(self, url: str) -> Optional[datetime]:
+        """Extract date from a Justel URL."""
+        if not url:
+            return None
+        # Try to extract from pd_search parameter
+        if 'pd_search=' in url:
+            match = re.search(r'pd_search=(\d{4}-\d{1,2}-\d{1,2})', url)
+            if match:
+                return datetime.strptime(match.group(1), '%Y-%m-%d')
+        # Try to extract from pdd parameter (start date)
+        if 'pdd=' in url:
+            match = re.search(r'pdd=(\d{4}-\d{1,2}-\d{1,2})', url)
+            if match:
+                return datetime.strptime(match.group(1), '%Y-%m-%d')
+        return None
+
+    def is_new_document(self, url: str) -> bool:
+        """Determine if document is new based on URL date vs cutoff date."""
+        if not self.cutoff_date:
+            return True  # If no cutoff, treat all as new
+
+        doc_date = self.extract_date_from_url(url)
+        if not doc_date:
+            return True  # If can't parse date, treat as new
+
+        return doc_date > self.cutoff_date
+
     def extract_legislation_id(self, url: str) -> Optional[str]:
         """
         Extract 10-digit legislation ID from JUSTEL URL.
@@ -252,11 +295,13 @@ class JustelScraper:
             return None
 
     def file_exists(self, legislation_id: str) -> bool:
-        """Check if TXT file already exists for given legislation ID."""
-        file_path = self.output_dir / f"{legislation_id}.txt"
-        return file_path.exists()
+        """Check if TXT file already exists for given legislation ID in any subdirectory."""
+        # Check in both new/ and current/ subdirectories
+        new_path = self.output_dir_new / f"{legislation_id}.txt"
+        current_path = self.output_dir_current / f"{legislation_id}.txt"
+        return new_path.exists() or current_path.exists()
 
-    async def fetch_url_content(self, session: httpx.AsyncClient, url: str, legislation_id: str) -> bool:
+    async def fetch_url_content(self, session: httpx.AsyncClient, url: str, legislation_id: str, is_new: bool = True) -> bool:
         """
         Fetch content from URL with French validation and save as TXT file.
 
@@ -264,6 +309,7 @@ class JustelScraper:
             session: HTTP client session
             url: URL to fetch
             legislation_id: Document ID for filename
+            is_new: Whether this is a new document (routes to new/ or current/ subfolder)
 
         Returns:
             True if successful, False otherwise
@@ -312,11 +358,14 @@ class JustelScraper:
                 return False
 
             # Save as TXT file (HTML content with .txt extension)
-            file_path = self.output_dir / f"{legislation_id}.txt"
+            # Route to new/ or current/ subfolder based on document date
+            target_dir = self.output_dir_new if is_new else self.output_dir_current
+            file_path = target_dir / f"{legislation_id}.txt"
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(html_content)
 
-            self.logger.info(f"✅ Successfully saved {legislation_id}.txt")
+            folder_label = "new" if is_new else "current"
+            self.logger.info(f"✅ Successfully saved {legislation_id}.txt to {folder_label}/")
             return True
 
         except Exception as e:
@@ -339,17 +388,17 @@ class JustelScraper:
 
 
     
-    async def process_url_batch(self, session: httpx.AsyncClient, url_batch: List[Tuple[str, str]]) -> None:
+    async def process_url_batch(self, session: httpx.AsyncClient, url_batch: List[Tuple[str, str, bool]]) -> None:
         """
         Process a batch of URLs concurrently.
 
         Args:
             session: httpx async client session
-            url_batch: List of (url, legislation_id) tuples
+            url_batch: List of (url, legislation_id, is_new) tuples
         """
         tasks = []
-        for url, legislation_id in url_batch:
-            task = self.fetch_url_content(session, url, legislation_id)
+        for url, legislation_id, is_new in url_batch:
+            task = self.fetch_url_content(session, url, legislation_id, is_new)
             tasks.append(task)
 
         # Execute all tasks concurrently
@@ -402,26 +451,35 @@ class JustelScraper:
             self.stats['duplicates_removed'] = 0
             self.stats['original_rows'] = len(url_numac_pairs)
 
-            # Load checkpoint and existing files for resume capability
+            # Load checkpoint for resume capability
             processed_ids = self.load_checkpoint()
-            existing_files = self.get_existing_files()
-            all_existing = processed_ids.union(existing_files)
 
-            self.logger.info(f"Resume capability: {len(processed_ids)} from checkpoint, {len(existing_files)} existing files")
+            self.logger.info(f"Resume capability: {len(processed_ids)} documents from checkpoint")
+            if self.cutoff_date:
+                self.logger.info(f"Cutoff date: {self.cutoff_date.strftime('%Y-%m-%d')} (new docs = after cutoff)")
+            else:
+                self.logger.info("No cutoff date found - all documents will be treated as new")
 
-            # Now check which files already exist and build final URL list
+            # Build URL list with date-based routing (no skip logic - always process)
             url_list = []
+            new_count = 0
+            current_count = 0
             for url, numac_search in url_numac_pairs:
-                # Check if file already exists or was processed
-                if numac_search in all_existing or self.file_exists(numac_search):
-                    if numac_search in processed_ids:
-                        self.logger.debug(f"⚠ Document {numac_search} already processed (from checkpoint), skipping")
-                    else:
-                        self.logger.debug(f"⚠ File {numac_search}.txt already exists, skipping")
+                # Skip if already processed (checkpoint only)
+                if numac_search in processed_ids:
+                    self.logger.debug(f"⚠ Document {numac_search} already processed (from checkpoint), skipping")
                     self.stats['skipped'] += 1
                     continue
 
-                url_list.append((url, numac_search))
+                # Determine if document is new based on date
+                is_new = self.is_new_document(url)
+                url_list.append((url, numac_search, is_new))
+                if is_new:
+                    new_count += 1
+                else:
+                    current_count += 1
+
+            self.logger.info(f"URL routing: {new_count} new documents, {current_count} current documents")
 
             self.stats['total'] = len(url_list)
             self.logger.info(f"Processing {len(url_list)} URLs (after filtering)")
@@ -443,7 +501,7 @@ class JustelScraper:
                     await self.process_url_batch(session, batch)
 
                     # Add processed document IDs to checkpoint
-                    for url, document_id in batch:
+                    for url, document_id, is_new in batch:
                         processed_document_ids.add(document_id)
 
                     # Save checkpoint every 10 batches or at the end
@@ -533,13 +591,14 @@ class JustelScraper:
             self.logger.warning(f"Could not save checkpoint: {e}")
 
     def get_existing_files(self) -> set:
-        """Get set of document IDs that already have HTML files."""
+        """Get set of document IDs that already have TXT files in any subdirectory."""
         existing_ids = set()
-        if self.output_dir.exists():
-            for html_file in self.output_dir.glob("*.html"):
-                # Extract document ID from filename (remove .html extension)
-                doc_id = html_file.stem
-                existing_ids.add(doc_id)
+        # Check both new/ and current/ subdirectories
+        for subdir in [self.output_dir_new, self.output_dir_current]:
+            if subdir.exists():
+                for txt_file in subdir.glob("*.txt"):
+                    doc_id = txt_file.stem
+                    existing_ids.add(doc_id)
         return existing_ids
 
 

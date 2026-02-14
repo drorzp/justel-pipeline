@@ -181,7 +181,14 @@ def main():
     
     # Calculate next day after last date
     start_date = last_date + timedelta(days=1)
-    
+
+    # Save the cutoff date (last_date) to a file for Step 2 to use
+    from pathlib import Path
+    cutoff_file = Path('./data/csv_data/cutoff_date.txt')
+    cutoff_file.parent.mkdir(exist_ok=True, parents=True)
+    cutoff_file.write_text(last_date.strftime('%Y-%m-%d'))
+    print(f"Saved cutoff date to {cutoff_file}: {last_date.strftime('%Y-%m-%d')}")
+
     # Use today as end date
     end_date = datetime.now()
     
