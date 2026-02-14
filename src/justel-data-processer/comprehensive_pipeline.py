@@ -45,15 +45,21 @@ class ComprehensivePipeline:
 
         # Directory paths
         self.input_dir = self.script_dir / "input"
+        self.input_dir_new = self.input_dir / "new"
+        self.input_dir_current = self.input_dir / "current"
         self.output_dir = self.script_dir / "output"
+
+        # Track which input source we're currently processing ("new" or "current")
+        self.current_input_source = None
         self.logs_dir = self.script_dir / "logs"
         self.master_script = self.script_dir / "000_Master.py"
 
         # Calculate total batches
         if self.process_all:
-            # Get actual file count from input directory
-            all_files = list(self.input_dir.glob("*.txt"))
-            self.total_files = len(all_files)
+            # Get actual file count from both input subdirectories
+            new_files = list(self.input_dir_new.glob("*.txt")) if self.input_dir_new.exists() else []
+            current_files = list(self.input_dir_current.glob("*.txt")) if self.input_dir_current.exists() else []
+            self.total_files = len(new_files) + len(current_files)
             self.total_batches = (self.total_files + self.batch_size - 1) // self.batch_size
         else:
             self.total_files = self.max_files
@@ -110,18 +116,22 @@ class ComprehensivePipeline:
             self.logger.error(f"Master script not found: {self.master_script}")
             return False
             
-        # Check if input directory exists and has files
+        # Check if input directory exists
         if not self.input_dir.exists():
             self.logger.error(f"Input directory not found: {self.input_dir}")
             return False
-            
-        # Count available input files
-        input_files = list(self.input_dir.glob("*.txt"))
+
+        # Count available input files from both subdirectories
+        new_files = list(self.input_dir_new.glob("*.txt")) if self.input_dir_new.exists() else []
+        current_files = list(self.input_dir_current.glob("*.txt")) if self.input_dir_current.exists() else []
+        input_files = new_files + current_files
+
         if len(input_files) == 0:
-            self.logger.error("No .txt files found in input directory")
+            self.logger.error("No .txt files found in input/new/ or input/current/")
             return False
-            
-        self.logger.info(f"✅ Found {len(input_files):,} .txt files in input directory")
+
+        self.logger.info(f"✅ Found {len(new_files):,} files in input/new/")
+        self.logger.info(f"✅ Found {len(current_files):,} files in input/current/")
         
         # Check disk space (require at least 5GB free)
         try:
@@ -133,9 +143,29 @@ class ComprehensivePipeline:
                 self.logger.info(f"✅ Sufficient disk space: {free_space_gb:.1f}GB free")
         except Exception as e:
             self.logger.warning(f"Could not check disk space: {e}")
-            
+
         return True
-        
+
+    def get_all_input_files(self) -> List[Path]:
+        """Get all input files: new/ first, then current/."""
+        all_files = []
+
+        # First add files from new/ directory
+        if self.input_dir_new.exists():
+            new_files = list(self.input_dir_new.glob("*.txt"))
+            new_files.sort(key=lambda x: x.name)
+            all_files.extend(new_files)
+            self.logger.info(f"Found {len(new_files):,} files in input/new/")
+
+        # Then add files from current/ directory
+        if self.input_dir_current.exists():
+            current_files = list(self.input_dir_current.glob("*.txt"))
+            current_files.sort(key=lambda x: x.name)
+            all_files.extend(current_files)
+            self.logger.info(f"Found {len(current_files):,} files in input/current/")
+
+        return all_files
+
     def phase1_environment_preparation(self) -> bool:
         """Phase 1: Clean output directory and prepare environment."""
         self.logger.info("\n" + "="*60)
@@ -184,9 +214,8 @@ class ComprehensivePipeline:
             return False
             
     def get_first_n_files(self, n: int) -> List[Path]:
-        """Get first N files from input directory in alphabetical order."""
-        all_files = list(self.input_dir.glob("*.txt"))
-        all_files.sort(key=lambda x: x.name)
+        """Get first N files from input directories (new/ first, then current/)."""
+        all_files = self.get_all_input_files()
         return all_files[:n]
 
     def get_batch_files(self, batch_number: int) -> List[Path]:
@@ -382,8 +411,11 @@ class ComprehensivePipeline:
     def write_files_to_folder(self, valid_files: List[Path], invalid_files: List[Path], batch_number: int) -> bool:
         """Copy JSON files directly to data/step1 folder structure."""
         project_root = self.script_dir.parent.parent
-        valid_output_dir = project_root / "data" / "step1" / "valid"
-        invalid_output_dir = project_root / "data" / "step1" / "invalid"
+
+        # Route output based on current input source (new or current)
+        source_subdir = self.current_input_source or "new"
+        valid_output_dir = project_root / "data" / "step1" / source_subdir / "valid"
+        invalid_output_dir = project_root / "data" / "step1" / source_subdir / "invalid"
 
         valid_output_dir.mkdir(parents=True, exist_ok=True)
         invalid_output_dir.mkdir(parents=True, exist_ok=True)
@@ -532,6 +564,54 @@ class ComprehensivePipeline:
 
         return overall_success
 
+    def process_input_source(self, source_name: str, source_dir: Path) -> bool:
+        """Process all files from a single input source (new or current)."""
+        if not source_dir.exists():
+            self.logger.info(f"Skipping {source_name}/ - directory does not exist")
+            return True
+
+        source_files = list(source_dir.glob("*.txt"))
+        if not source_files:
+            self.logger.info(f"Skipping {source_name}/ - no files found")
+            return True
+
+        self.logger.info(f"\n" + "="*80)
+        self.logger.info(f"PROCESSING INPUT SOURCE: {source_name}/")
+        self.logger.info("="*80)
+        self.logger.info(f"Files to process: {len(source_files):,}")
+
+        # Set current input source for output routing
+        self.current_input_source = source_name
+
+        # Calculate batches for this source
+        source_files.sort(key=lambda x: x.name)
+        num_batches = (len(source_files) + self.batch_size - 1) // self.batch_size
+
+        overall_success = True
+        for batch_num in range(1, num_batches + 1):
+            start_idx = (batch_num - 1) * self.batch_size
+            end_idx = start_idx + self.batch_size
+            batch_files = source_files[start_idx:end_idx]
+
+            self.logger.info(f"\n--- {source_name}/ Batch {batch_num}/{num_batches} ({len(batch_files)} files) ---")
+
+            if not self.copy_batch_to_processing(batch_files):
+                overall_success = False
+                continue
+
+            batch_success = (
+                self.phase1_environment_preparation() and
+                self.phase2_document_processing() and
+                self.phase3_quality_filtering_and_write()
+            )
+
+            if not batch_success:
+                overall_success = False
+
+            self.cleanup_batch_files()
+
+        return overall_success
+
     def print_final_summary(self):
         """Print comprehensive final summary."""
         self.logger.info("\n" + "="*80)
@@ -571,22 +651,15 @@ class ComprehensivePipeline:
                 self.logger.error("❌ Prerequisites check failed")
                 return False
 
-            # Choose processing mode based on configuration
-            if self.process_all or self.total_batches > 1:
-                # Large-batch processing mode
-                success = self.process_large_batches()
-            else:
-                # Single-batch processing mode (original behavior)
-                success = (
-                    self.phase1_environment_preparation() and
-                    self.phase2_document_processing() and
-                    self.phase3_quality_filtering_and_write()
-                )
+            # Process new/ first, then current/
+            success = True
+            success = self.process_input_source("new", self.input_dir_new) and success
+            success = self.process_input_source("current", self.input_dir_current) and success
 
             if success:
                 self.logger.info("🎉 Pipeline completed successfully!")
             else:
-                self.logger.error("❌ Pipeline failed")
+                self.logger.error("❌ Pipeline had failures")
 
             return success
 
