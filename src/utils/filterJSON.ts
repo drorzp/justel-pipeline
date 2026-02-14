@@ -1,43 +1,61 @@
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { compare } from 'fast-json-patch';
+import pLimit from 'p-limit';
+
+interface CompareResult {
+  changed: boolean;
+  notFound: boolean;
+}
+
+async function compareAndCopyFile(
+  filename: string,
+  currentValidDir: string,
+  olderDir: string,
+  readyDir: string
+): Promise<CompareResult> {
+  const currentPath = path.join(currentValidDir, filename);
+  const olderPath = path.join(olderDir, filename);
+
+  try {
+    await fs.access(olderPath);
+  } catch {
+    return { changed: false, notFound: true };
+  }
+
+  const [currentData, olderData] = await Promise.all([
+    fs.readFile(currentPath, 'utf-8').then(JSON.parse),
+    fs.readFile(olderPath, 'utf-8').then(JSON.parse),
+  ]);
+
+  const patches = compare(olderData, currentData);
+
+  if (patches.length > 0) {
+    await fs.copyFile(currentPath, path.join(readyDir, filename));
+    return { changed: true, notFound: false };
+  }
+
+  return { changed: false, notFound: false };
+}
 
 export async function filterJSON(): Promise<void> {
   const currentValidDir = path.join(process.cwd(), 'data/step1/current/valid');
   const olderDir = path.join(process.cwd(), 'data/older');
   const readyDir = path.join(process.cwd(), 'data/step1/current/ready');
 
-  // Ensure ready directory exists
   await fs.mkdir(readyDir, { recursive: true });
 
   const files = await fs.readdir(currentValidDir);
   const jsonFiles = files.filter(f => f.endsWith('.json'));
 
-  let changed = 0;
-  let notFound = 0;
+  const limit = pLimit(50);
 
-  for (const filename of jsonFiles) {
-    const currentPath = path.join(currentValidDir, filename);
-    const olderPath = path.join(olderDir, filename);
+  const results = await Promise.all(
+    jsonFiles.map(file => limit(() => compareAndCopyFile(file, currentValidDir, olderDir, readyDir)))
+  );
 
-    try {
-      await fs.access(olderPath);
-    } catch {
-      // File not in older, skip
-      notFound++;
-      continue;
-    }
-
-    const currentData = JSON.parse(await fs.readFile(currentPath, 'utf-8'));
-    const olderData = JSON.parse(await fs.readFile(olderPath, 'utf-8'));
-
-    const patches = compare(olderData, currentData);
-
-    if (patches.length > 0) {
-      await fs.copyFile(currentPath, path.join(readyDir, filename));
-      changed++;
-    }
-  }
+  const changed = results.filter(r => r.changed).length;
+  const notFound = results.filter(r => r.notFound).length;
 
   console.log(`filterJSON: ${jsonFiles.length} total, ${changed} changed, ${notFound} not in older`);
 }
