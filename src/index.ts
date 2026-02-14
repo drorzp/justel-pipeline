@@ -13,7 +13,6 @@ import { processAllDocumentTitles, LLMConfig } from './import-to-pg/llm_title';
 import { runPythonDataPipeline } from './utils/pythonRunner';
 import { updateGet } from './import-to-pg/upgete_gen_on_articles';
 import './logger';
-import { processS3HtmlUpdate } from './import_article_html/import_article_html';
 import { rimraf } from 'rimraf';
 import * as fs from 'fs/promises';
 import * as path from 'path';
