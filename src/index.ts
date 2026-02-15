@@ -61,17 +61,24 @@ async function main() {
 const pool = new Pool(dbConfig);
 
   try {
-    console.log('Clearing valid folders before running pipeline...');
-    await clearValidFolders();
-    console.log('Collect data and store as json in data/step1');
-    await runPythonDataPipeline();
-    console.log('Complete Collect data');
-    console.log('Filtering JSON files with changes...');
-    await filterJSON();
+    // console.log('Clearing valid folders before running pipeline...');
+    // await clearValidFolders();
+    // console.log('Collect data and store as json in data/step1');
+    // await runPythonDataPipeline();
+    // console.log('Complete Collect data');
+    // console.log('Filtering JSON files with changes...');
+    // await filterJSON();
     console.log('filterJSON completed');
     console.log('runLocalFolderBatch new/valid started');
-    await runLocalFolderBatch(pool, 'new/valid');
-    console.log('runLocalFolderBatch new/valid completed');
+    await runLocalFolderBatch(pool, 'new/valid',true);
+    await runLocalFolderBatch(pool, 'new/invalid',true);
+    await runLocalFolderBatch(pool, 'update/valid',false);
+    await runLocalFolderBatch(pool, 'update/invalid',false);
+    // await updateGet(pool);
+    // await moveLawsToMongo(pool, 20);
+    // await moveArticlesToMongo(pool)
+    // await updateArticleVector(pool);
+    // await updateOlderFolder();
 //  console.log('truncate article_conten_saver and copy article_content into it started');
 //     await saveContentArticle(pool);
 //     console.log('truncate article_conten_saver and copy article_content into it completed');

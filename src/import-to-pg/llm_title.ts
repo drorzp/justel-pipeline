@@ -18,6 +18,16 @@ export interface LLMConfig {
     batchSize: number;
 }
 
+export function createAzureOpenAIClient(config: LLMConfig): AzureOpenAI {
+    return new AzureOpenAI({
+        apiKey: config.azureApiKey,
+        endpoint: config.azureEndpoint,
+        apiVersion: config.azureApiVersion,
+        defaultQuery: { 'api-version': config.azureApiVersion },
+        defaultHeaders: { 'api-key': config.azureApiKey }
+    });
+}
+
 export interface DocumentTitleRecord {
     id: number;
     document_number: string;
@@ -250,13 +260,7 @@ export async function applyNewTitlesToDocuments(client: PoolClient): Promise<num
 
 export async function processAllDocumentTitles(pool:Pool, config: LLMConfig): Promise<void> {
     const client = await pool.connect();
-    const azureOpenAI = new AzureOpenAI({
-        apiKey: config.azureApiKey,
-        endpoint: config.azureEndpoint,
-        apiVersion: config.azureApiVersion,
-        defaultQuery: { 'api-version': config.azureApiVersion },
-        defaultHeaders: { 'api-key': config.azureApiKey }
-    });
+    const azureOpenAI = createAzureOpenAIClient(config);
 
     try {
         console.info('Starting document title processing...');

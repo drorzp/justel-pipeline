@@ -29,6 +29,9 @@ npm run sync:titles
 # Run vector hashing utility
 npm run qdrant:hash
 
+# Compare documents
+npm run compare
+
 # Python scraper (in src/justel-data-processer/)
 cd src/justel-data-processer
 pip install -r requirements.txt
@@ -47,34 +50,55 @@ Scrapes Belgian legal documents from `https://www.ejustice.just.fgov.be`:
 
 ### Pipeline Stages (executed sequentially in src/index.ts)
 
-1. **Clear Local Folder** - Remove old files from `data/step1/`
+1. **Clear Valid Folders** - Remove old files from `data/step1/current/valid` and `data/step1/new/valid`
 2. **Python Data Collection** - Run scraper via `runPythonDataPipeline()`, outputs JSON to `data/step1/`
-3. **Save Content Snapshot** - Backup original HTML to `article_contents_saver` table
-4. **Title Sync** - Synchronize existing titles via `sync_document_title()`
-5. **Truncate Import Tables** - Clear staging tables
-6. **Local Folder Import** - Load JSON files from `data/step1/valid/` and `data/step1/invalid/`
-7. **Flag Unchanged** - Mark documents with unchanged content via `titles_not_changed()`
-8. **LLM Title Generation** - Generate clean titles via Azure OpenAI gpt-4o (300 concurrent, batch 2000)
-9. **HTML Restoration** - Restore original HTML for unchanged articles, diff-based for changed
-10. **Update Gen** - Update generation metadata via `updateGet()`
-11. **MongoDB Transfer** - Move laws (batch 20) and articles to MongoDB
-12. **Vector Embeddings** - Generate embeddings for Qdrant
+3. **Filter JSON** - `filterJSON()` processes files, separating new vs update documents
+4. **Local Folder Import** - Load JSON files via `runLocalFolderBatch()`:
+   - `new/valid` and `new/invalid` (new documents, insert mode)
+   - `update/valid` and `update/invalid` (existing documents, update mode)
+5. **Update Older Folder** - Copy processed files to `data/older` via `updateOlderFolder()`
+
+**Additional stages (currently commented out in index.ts):**
+- **Save Content Snapshot** - Backup original HTML to `article_contents_saver` table
+- **Title Sync** - Synchronize existing titles via `sync_document_title()`
+- **Flag Unchanged** - Mark documents with unchanged content via `titles_not_changed()`
+- **LLM Title Generation** - Generate clean titles via Azure OpenAI gpt-4o (300 concurrent, batch 2000)
+- **HTML Restoration** - Restore original HTML for unchanged articles, diff-based for changed
+- **Update Gen** - Update generation metadata via `updateGet()`
+- **MongoDB Transfer** - Move laws (batch 20) and articles to MongoDB
+- **Vector Embeddings** - Generate embeddings for Qdrant
 
 ### Key Modules
 
 - **src/import-to-pg/** - Local folder processing, document validation, PostgreSQL import, LLM title generation
+  - `import.ts` - `DatabaseOperations` class with insert/update/delete methods for all tables
+  - `process.ts` - `runLocalFolderBatch()` orchestrates document processing
+  - `llm_title.ts` - Azure OpenAI title generation with concurrency control
 - **src/add-to-vector/** - Vector embedding generation with Qdrant, token management with tiktoken
 - **src/transfer-to-mongo/** - MongoDB transfer with Mongoose models
 - **src/html-transformer/** - HTML content normalization
+- **src/utils/** - Utilities including `filterJSON.ts` for new/update document separation
 - **src/justel-data-processer/** - Python scraper and preprocessor
 
 ### Data Flow
 
 ```
-Python Scraper → data/step1/ (JSON files) → PostgreSQL (staging/enrichment) → MongoDB (final storage)
+Python Scraper → data/step1/ (JSON files) → filterJSON (new/update separation)
                                                       ↓
-                                            Qdrant (vector embeddings)
+                              data/step1/new/valid    data/step1/update/valid
+                                        ↓                      ↓
+                              PostgreSQL (insert)    PostgreSQL (update)
+                                        ↓                      ↓
+                              MongoDB (final storage) ← Qdrant (vector embeddings)
 ```
+
+### Folder Structure
+
+- `data/step1/new/valid/` - New documents to insert
+- `data/step1/new/invalid/` - New documents that failed validation
+- `data/step1/update/valid/` - Existing documents to update
+- `data/step1/update/invalid/` - Existing documents that failed validation
+- `data/older/` - Archive of previously processed files
 
 ### Database Functions
 

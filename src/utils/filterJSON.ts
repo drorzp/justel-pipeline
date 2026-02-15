@@ -8,6 +8,27 @@ interface CompareResult {
   notFound: boolean;
 }
 
+// Fields to ignore when comparing (timestamps that change every run)
+const IGNORE_FIELDS = ['extraction_date', 'generation_timestamp'];
+
+function stripTimestamps(obj: any): any {
+  if (obj === null || typeof obj !== 'object') {
+    return obj;
+  }
+
+  if (Array.isArray(obj)) {
+    return obj.map(stripTimestamps);
+  }
+
+  const result: any = {};
+  for (const key of Object.keys(obj)) {
+    if (!IGNORE_FIELDS.includes(key)) {
+      result[key] = stripTimestamps(obj[key]);
+    }
+  }
+  return result;
+}
+
 async function compareAndCopyFile(
   filename: string,
   currentValidDir: string,
@@ -28,7 +49,11 @@ async function compareAndCopyFile(
     fs.readFile(olderPath, 'utf-8').then(JSON.parse),
   ]);
 
-  const patches = compare(olderData, currentData);
+  // Strip timestamps before comparing to ignore false positives
+  const currentStripped = stripTimestamps(currentData);
+  const olderStripped = stripTimestamps(olderData);
+
+  const patches = compare(olderStripped, currentStripped);
 
   if (patches.length > 0) {
     await fs.copyFile(currentPath, path.join(readyDir, filename));

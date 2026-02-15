@@ -103,3 +103,42 @@ WHERE t2.document_number IS NULL  -- t2 doesn't exist
     client.release();
   }
 }
+
+/**
+ * Transform a single article's HTML content.
+ * Extracts the core transformation logic from updateArticleContentsFromSaverV2Diff into a reusable function.
+ *
+ * @param document_number - The document number
+ * @param article_number - The article number
+ * @param main_text - The main text HTML to transform
+ * @param raw_markdown - The raw markdown content
+ * @returns The transformed HTML string, or null if transformation fails or is skipped
+ */
+export async function updateArticleContentsFromSaverV2Single(
+  document_number: string,
+  article_number: string,
+  main_text: string,
+  raw_markdown: string
+): Promise<string | null> {
+  const transformationInput: TransformationInput = {
+    document_number,
+    article_number,
+    main_text,
+    raw_markdown
+  };
+
+  const result = await transformArticleHtml(transformationInput);
+
+  if (result.skipped) {
+    console.log(`[SKIPPED] Article ${document_number}:${article_number} - ${result.skipReason}`);
+    return null;
+  }
+
+  if (result.success && result.transformedHtml) {
+    return result.transformedHtml;
+  }
+
+  const errorMsg = result.error || (result.validationErrors ? result.validationErrors.join(', ') : 'Unknown error');
+  console.error(`[ERROR] Failed to transform article ${document_number}:${article_number}: ${errorMsg}`);
+  return null;
+}

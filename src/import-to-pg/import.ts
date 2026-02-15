@@ -6,7 +6,7 @@ import { generateNewTitle, LLMConfig, createAzureOpenAIClient } from './llm_titl
 import Ajv, { ValidateFunction } from 'ajv';
 import addFormats from 'ajv-formats';
 import * as dotenv from 'dotenv';
-
+import { updateArticleContentsFromSaverV2Single } from '../import-to-pg/updateFromSaverV2';
 import { createHash } from 'crypto';
 
 // Load environment variables
@@ -519,6 +519,16 @@ class DatabaseOperations {
     return elementId;
   }
 
+  // Get all hierarchy element IDs for a document
+  static async getHierarchyElementIds(
+    client: PoolClient,
+    documentId: number,
+  ): Promise<number[]> {
+    const query = `SELECT id FROM hierarchy_elements WHERE document_id = $1`;
+    const result = await client.query(query, [documentId]);
+    return result.rows.map((row: { id: number }) => row.id);
+  }
+
   // Delete hierarchy elements for a document
   static async deleteHierarchyElements(
     client: PoolClient,
@@ -536,6 +546,8 @@ class DatabaseOperations {
     document_number: string,
   ): Promise<void> {
     try {
+
+     const html= updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text,content.content.main_text_raw )
       await client.query('BEGIN');
       const query = `
       INSERT INTO article_contents (
@@ -544,9 +556,9 @@ class DatabaseOperations {
       RETURNING id
     `;
 
-      const mainTextHash = createHash('md5')
-        .update(content.content.main_text_raw || '')
-        .digest('hex');
+      // const mainTextHash = createHash('md5')
+      //   .update(content.content.main_text_raw || '')
+      //   .digest('hex');
 
       const values = [
         hierarchyElementId,
@@ -555,7 +567,7 @@ class DatabaseOperations {
         content.content.main_text,
         content.content.main_text_raw,
         document_number,
-        mainTextHash,
+        html,
         content.content.raw_markdown,
       ];
 
@@ -778,10 +790,11 @@ class DatabaseOperations {
   // Delete article contents for a document
   static async deleteArticleContents(
     client: PoolClient,
-    documentNumber: string,
+    hierarchyElementIds: number[],
   ): Promise<void> {
-    const query = `DELETE FROM article_contents WHERE document_number = $1`;
-    await client.query(query, [documentNumber]);
+    if (hierarchyElementIds.length === 0) return;
+    const query = `DELETE FROM article_contents WHERE hierarchy_element_id = ANY($1)`;
+    await client.query(query, [hierarchyElementIds]);
   }
 
   // Delete document modifies records for a document
@@ -973,10 +986,13 @@ export class DocumentProcessor {
         for (const element of data.document_hierarchy) {
           try {
             if (action === 'update') {
+              const ids = await DatabaseOperations.getHierarchyElementIds(client,documentId)
               await DatabaseOperations.deleteHierarchyElements(
                 client,
                 documentId,
               );
+             await DatabaseOperations.deleteArticleContents(client,ids)
+              
             }
             await DatabaseOperations.insertHierarchyElement(
               client,
