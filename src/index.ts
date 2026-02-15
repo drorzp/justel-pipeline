@@ -41,11 +41,19 @@ const dbConfig: PoolConfig = {
    max: Number(process.env.POSTGRES_POOL_MAX) || 20
 };
 
-async function clearLocalFolder(folderPath: string): Promise<void> {
-  const fullPath = path.join(process.cwd(), folderPath);
-  await rimraf(fullPath);
-  await fs.mkdir(fullPath, { recursive: true });
-  console.log(`Cleared and recreated local folder: ${fullPath}`);
+async function clearValidFolders(): Promise<void> {
+  const folders = [
+    'data/step1/current/valid',
+    'data/step1/new/valid',
+  ];
+
+  await Promise.all(folders.map(async (folderPath) => {
+    const fullPath = path.join(process.cwd(), folderPath);
+    await rimraf(fullPath);
+    await fs.mkdir(fullPath, { recursive: true });
+  }));
+
+  console.log('Cleared valid folders: current/valid, new/valid');
 }
 
 async function main() {
@@ -53,16 +61,18 @@ async function main() {
 const pool = new Pool(dbConfig);
 
   try {
-    console.log('Clear local data/step1 folder before running pipeline');
-    await clearLocalFolder('data/step1');
-    console.log('Cleared local folder data/step1');
+    console.log('Clearing valid folders before running pipeline...');
+    await clearValidFolders();
     console.log('Collect data and store as json in data/step1');
     await runPythonDataPipeline();
     console.log('Complete Collect data');
     console.log('Filtering JSON files with changes...');
     await filterJSON();
     console.log('filterJSON completed');
-    console.log('truncate article_conten_saver and copy article_content into it started');
+    console.log('runLocalFolderBatch new/valid started');
+    await runLocalFolderBatch(pool, 'new/valid');
+    console.log('runLocalFolderBatch new/valid completed');
+//  console.log('truncate article_conten_saver and copy article_content into it started');
 //     await saveContentArticle(pool);
 //     console.log('truncate article_conten_saver and copy article_content into it completed');
 //     console.log('sync_document_title add all documents that does not exist in documents started');

@@ -1,6 +1,8 @@
 import * as fs from 'fs/promises';
 import * as path from 'path';
 import { Pool, PoolClient } from 'pg';
+import { AzureOpenAI } from 'openai';
+import { generateNewTitle, LLMConfig, createAzureOpenAIClient } from './llm_title';
 import Ajv, { ValidateFunction } from 'ajv';
 import addFormats from 'ajv-formats';
 import * as dotenv from 'dotenv';
@@ -33,8 +35,8 @@ interface DocumentMetadata {
   dossier_number?: string;
   effective_date?: string;
   language: string;
-  document_type: string
-  status: string
+  document_type: string;
+  status: string;
   official_justel_url?: string;
   official_publication_pdf_url?: string;
   consolidated_pdf_url?: string;
@@ -49,7 +51,7 @@ interface VersionInfo {
 }
 
 interface HierarchyElement {
-  type:string
+  type: string;
   label: string;
   metadata?: {
     title_type?: string;
@@ -70,7 +72,6 @@ interface ArticleContent {
     raw_markdown: string;
   };
 }
-
 
 interface DocumentModification {
   modification_type: string;
@@ -138,32 +139,38 @@ const documentSchema = {
   properties: {
     document_metadata: {
       type: 'object',
-      required: ['document_number', 'title', 'publication_date', 'language', 'document_type', 'status'],
+      required: [
+        'document_number',
+        'title',
+        'publication_date',
+        'language',
+        'document_type',
+        'status',
+      ],
       properties: {
         document_number: { type: 'string' },
         title: { type: 'string' },
-        publication_date: { 
+        publication_date: {
           anyOf: [
             { type: 'string', format: 'date' },
-            { type: 'string', enum: [''] }
-          ]
+            { type: 'string', enum: [''] },
+          ],
         },
         language: { type: 'string' },
         document_type: { type: 'string' },
-        status: { type: 'string' }
-      }
+        status: { type: 'string' },
+      },
     },
     document_hierarchy: { type: 'array' },
     references: {
       type: 'object',
       properties: {
         modifies: { type: 'array' },
-        modified_by: { type: 'array' }
-      }
-    }
-  }
+        modified_by: { type: 'array' },
+      },
+    },
+  },
 };
-
 
 class ValidationResults {
   private processed: number = 0;
@@ -191,120 +198,221 @@ class ValidationResults {
       successful: this.successful,
       failed: this.failed.length,
       failures: this.failed,
-      warnings: this.warnings
+      warnings: this.warnings,
     };
   }
 }
 
 class DatabaseOperations {
   // Helper function to convert date format from DD-MM-YYYY to YYYY-MM-DD
-  private static convertDateFormat(dateString: string | null | undefined): string | null {
+  private static convertDateFormat(
+    dateString: string | null | undefined,
+  ): string | null {
     if (!dateString) return null;
-    
+
     // Check if already in ISO format
     if (/^\d{4}-\d{2}-\d{2}$/.test(dateString)) {
       return dateString;
     }
-    
+
     // Handle basic DD-MM-YYYY format at start of string (most common case)
     const basicMatch = dateString.match(/^(\d{2})-(\d{2})-(\d{4})/);
     if (basicMatch) {
       return `${basicMatch[3]}-${basicMatch[2]}-${basicMatch[1]}`;
     }
-    
+
     // Handle French date format: "indeterminee et au plus tard le DD-MM-YYYY"
-    const frenchDateMatch = dateString.match(/au plus tard le (\d{2})-(\d{2})-(\d{4})/);
+    const frenchDateMatch = dateString.match(
+      /au plus tard le (\d{2})-(\d{2})-(\d{4})/,
+    );
     if (frenchDateMatch) {
       return `${frenchDateMatch[3]}-${frenchDateMatch[2]}-${frenchDateMatch[1]}`;
     }
-    
+
     // Handle "En vigueur : DD-MM-YYYY" format
-    const enVigueurMatch = dateString.match(/En vigueur : (\d{2})-(\d{2})-(\d{4})/);
+    const enVigueurMatch = dateString.match(
+      /En vigueur : (\d{2})-(\d{2})-(\d{4})/,
+    );
     if (enVigueurMatch) {
       return `${enVigueurMatch[3]}-${enVigueurMatch[2]}-${enVigueurMatch[1]}`;
     }
-    
+
     // Handle "**En vigueur :**DD-MM-YYYY" format (with markdown formatting)
-    const enVigueurMarkdownMatch = dateString.match(/\*\*En vigueur :\*\*(\d{2})-(\d{2})-(\d{4})/);
+    const enVigueurMarkdownMatch = dateString.match(
+      /\*\*En vigueur :\*\*(\d{2})-(\d{2})-(\d{4})/,
+    );
     if (enVigueurMarkdownMatch) {
       return `${enVigueurMarkdownMatch[3]}-${enVigueurMarkdownMatch[2]}-${enVigueurMarkdownMatch[1]}`;
     }
-    
+
     // Handle "indeterminee" as a special case
     if (dateString.toLowerCase().includes('indeterminee')) {
       // For indeterminate dates, we'll use a conventional placeholder or null
       // Using null is better than an arbitrary date that might be misleading
       return null;
     }
-    
+
     // Handle Belgian legal conditional dates (Moniteur belge references)
-    if (dateString.toLowerCase().includes('moniteur belge') || 
-        dateString.toLowerCase().includes('condition que') ||
-        dateString.toLowerCase().includes('à la date de la dernière')) {
+    if (
+      dateString.toLowerCase().includes('moniteur belge') ||
+      dateString.toLowerCase().includes('condition que') ||
+      dateString.toLowerCase().includes('à la date de la dernière')
+    ) {
       // These are conditional effective dates that depend on future publications
       // Return null as the actual date is indeterminate
       return null;
     }
-    
+
     // Handle other complex legal date expressions
-    if (dateString.toLowerCase().includes('entre en vigueur') && 
-        !dateString.match(/\d{2}-\d{2}-\d{4}/)) {
+    if (
+      dateString.toLowerCase().includes('entre en vigueur') &&
+      !dateString.match(/\d{2}-\d{2}-\d{4}/)
+    ) {
       // Complex effective date clauses without specific dates
       return null;
     }
-    
+
     // Handle "à déterminer" or similar indeterminate expressions
-    if (dateString.toLowerCase().includes('déterminer') ||
-        dateString.toLowerCase().includes('à fixer') ||
-        dateString.toLowerCase().includes('ultérieurement')) {
+    if (
+      dateString.toLowerCase().includes('déterminer') ||
+      dateString.toLowerCase().includes('à fixer') ||
+      dateString.toLowerCase().includes('ultérieurement')
+    ) {
       return null;
     }
-    
+
     // Return null if format is unrecognized
     console.log(`Unrecognized date format: ${dateString}`);
     return null;
   }
 
   // Insert main document - returns the auto-generated SERIAL id
-  static async insertDocument(client: PoolClient, metadata: DocumentMetadata): Promise<number> {
+  static async insertDocument(
+    client: PoolClient,
+    metadata: DocumentMetadata,
+    azureOpenAI: AzureOpenAI,
+    config: LLMConfig,
+  ): Promise<number> {
     try {
-    const query = `
+      const title = await generateNewTitle(azureOpenAI, config, metadata.document_number, metadata.title);
+
+      const query = `
       INSERT INTO documents (
         document_number, title, publication_date, source, page_number,
         dossier_number, effective_date, language, document_type, status,
         official_justel_url, official_publication_pdf_url, consolidated_pdf_url, created_at,updated_at
       ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)
-      RETURNING id
-    `;
-    
-    const values = [
-      metadata.document_number,
-      metadata.title,
-      metadata.publication_date || null,
-      metadata.source || null,
-      metadata.page_number || 0,
-      metadata.dossier_number || null,
-      metadata.effective_date || null,
-      metadata.language,
-      metadata.document_type,
-      metadata.status,
-      metadata.official_justel_url || null,
-      metadata.official_publication_pdf_url || null,
-      metadata.consolidated_pdf_url || null,
-      new Date().toISOString() ,
-     new Date().toISOString() 
-    ];
+      RETURNING id`;
 
-    const result = await client.query(query, values);
-    return result.rows[0].id;
+      const values = [
+        metadata.document_number,
+        title,
+        metadata.publication_date || null,
+        metadata.source || null,
+        metadata.page_number || 0,
+        metadata.dossier_number || null,
+        metadata.effective_date || null,
+        metadata.language,
+        metadata.document_type,
+        metadata.status,
+        metadata.official_justel_url || null,
+        metadata.official_publication_pdf_url || null,
+        metadata.consolidated_pdf_url || null,
+        new Date().toISOString(),
+        new Date().toISOString(),
+      ];
+
+      const result = await client.query(query, values);
+      return result.rows[0].id;
     } catch (error) {
-      console.error(`Error inserting document: ${ metadata.document_number}`, error);
+      console.error(
+        `Error inserting document: ${metadata.document_number}`,
+        error,
+      );
+      return -1;
+    }
+  }
+
+  // Update existing document - returns the document id or -1 on error
+  static async updateDocument(
+    client: PoolClient,
+    metadata: DocumentMetadata,
+    azureOpenAI: AzureOpenAI,
+    config: LLMConfig,
+  ): Promise<number> {
+    try {
+      // Fetch existing title to check if it changed
+      const existingResult = await client.query(
+        'SELECT title FROM documents WHERE document_number = $1',
+        [metadata.document_number]
+      );
+
+      let title = metadata.title;
+
+      // If title changed, generate new LLM title
+      if (existingResult.rows.length > 0 && existingResult.rows[0].title !== metadata.title) {
+        title = await generateNewTitle(azureOpenAI, config, metadata.document_number, metadata.title);
+      }
+
+      const query = `
+        UPDATE documents SET
+          title = $2,
+          publication_date = $3,
+          source = $4,
+          page_number = $5,
+          dossier_number = $6,
+          effective_date = $7,
+          language = $8,
+          document_type = $9,
+          status = $10,
+          official_justel_url = $11,
+          official_publication_pdf_url = $12,
+          consolidated_pdf_url = $13,
+          updated_at = $14
+        WHERE document_number = $1
+        RETURNING id
+      `;
+
+      const values = [
+        metadata.document_number,
+        title,
+        metadata.publication_date || null,
+        metadata.source || null,
+        metadata.page_number || 0,
+        metadata.dossier_number || null,
+        metadata.effective_date || null,
+        metadata.language,
+        metadata.document_type,
+        metadata.status,
+        metadata.official_justel_url || null,
+        metadata.official_publication_pdf_url || null,
+        metadata.consolidated_pdf_url || null,
+        new Date().toISOString(),
+      ];
+
+      const result = await client.query(query, values);
+      if (result.rows.length === 0) {
+        console.error(
+          `Document not found for update: ${metadata.document_number}`,
+        );
+        return -1;
+      }
+      return result.rows[0].id;
+    } catch (error) {
+      console.error(
+        `Error updating document: ${metadata.document_number}`,
+        error,
+      );
       return -1;
     }
   }
 
   // Insert version information
-  static async insertVersionInfo(client: PoolClient, documentId: number, versionInfo?: VersionInfo): Promise<void> {
+  static async insertVersionInfo(
+    client: PoolClient,
+    documentId: number,
+    versionInfo?: VersionInfo,
+  ): Promise<void> {
     if (!versionInfo) return;
 
     const query = `
@@ -319,20 +427,29 @@ class DatabaseOperations {
       versionInfo.archived_versions_count || 0,
       versionInfo.archived_versions_url || null,
       versionInfo.execution_orders_count || 0,
-      versionInfo.execution_orders_url || null
+      versionInfo.execution_orders_url || null,
     ];
 
     await client.query(query, values);
   }
 
+  // Delete version information for a document
+  static async deleteVersionInfo(
+    client: PoolClient,
+    documentId: number,
+  ): Promise<void> {
+    const query = `DELETE FROM document_versions WHERE document_id = $1`;
+    await client.query(query, [documentId]);
+  }
+
   // Insert hierarchy elements recursively - returns SERIAL id
   static async insertHierarchyElement(
-    client: PoolClient, 
-    documentId: number, 
-    element: HierarchyElement, 
+    client: PoolClient,
+    documentId: number,
+    element: HierarchyElement,
     document_number: string,
-    parentId: number | null = null, 
-    rank: number = 1
+    parentId: number | null = null,
+    rank: number = 1,
   ): Promise<number> {
     const query = `
       INSERT INTO hierarchy_elements (
@@ -345,15 +462,16 @@ class DatabaseOperations {
     // Calculate level based on parent
     let level = 1;
     let path = rank.toString().padStart(3, '0');
-    
+
     if (parentId) {
       const parentResult = await client.query(
         'SELECT level, path FROM hierarchy_elements WHERE id = $1',
-        [parentId]
+        [parentId],
       );
       if (parentResult.rows.length > 0) {
         level = parentResult.rows[0].level + 1;
-        path = parentResult.rows[0].path + '.' + rank.toString().padStart(3, '0');
+        path =
+          parentResult.rows[0].path + '.' + rank.toString().padStart(3, '0');
       }
     }
 
@@ -367,7 +485,7 @@ class DatabaseOperations {
       element.metadata?.article_range || null,
       rank,
       level,
-      path
+      path,
     ];
 
     const result = await client.query(query, values);
@@ -375,64 +493,88 @@ class DatabaseOperations {
 
     // Insert article content if this is an article
     if (element.type === 'article' && element.article_content) {
-      await this.insertArticleContent(client, elementId, element.article_content, document_number);
+      await this.insertArticleContent(
+        client,
+        elementId,
+        element.article_content,
+        document_number,
+      );
     }
-
-
-
 
     // Recursively insert children
     if (element.children && element.children.length > 0) {
       let childRank = 1;
       for (const child of element.children) {
-        await this.insertHierarchyElement(client, documentId, child, document_number, elementId, childRank++);
+        await this.insertHierarchyElement(
+          client,
+          documentId,
+          child,
+          document_number,
+          elementId,
+          childRank++,
+        );
       }
     }
 
     return elementId;
   }
 
-  // Insert article content
-  static async insertArticleContent(client: PoolClient, hierarchyElementId: number, content: ArticleContent, document_number: string): Promise<void> {
+  // Delete hierarchy elements for a document
+  static async deleteHierarchyElements(
+    client: PoolClient,
+    documentId: number,
+  ): Promise<void> {
+    const query = `DELETE FROM hierarchy_elements WHERE document_id = $1`;
+    await client.query(query, [documentId]);
+  }
 
+  // Insert article content
+  static async insertArticleContent(
+    client: PoolClient,
+    hierarchyElementId: number,
+    content: ArticleContent,
+    document_number: string,
+  ): Promise<void> {
     try {
       await client.query('BEGIN');
-    const query = `
+      const query = `
       INSERT INTO article_contents (
         hierarchy_element_id, article_number, anchor_id, main_text, main_text_raw, document_number,main_text_hash,raw_markdown
       ) VALUES ($1, $2, $3, $4, $5, $6,$7,$8)
       RETURNING id
     `;
 
-    const mainTextHash = createHash('md5')
-      .update(content.content.main_text_raw || '')
-      .digest('hex');
+      const mainTextHash = createHash('md5')
+        .update(content.content.main_text_raw || '')
+        .digest('hex');
 
-    const values = [
-      hierarchyElementId,
-      content.article_number,
-      content.anchor_id || null,
-      content.content.main_text,
-      content.content.main_text_raw,
-      document_number,
-      mainTextHash,
-      content.content.raw_markdown
-    ];
+      const values = [
+        hierarchyElementId,
+        content.article_number,
+        content.anchor_id || null,
+        content.content.main_text,
+        content.content.main_text_raw,
+        document_number,
+        mainTextHash,
+        content.content.raw_markdown,
+      ];
 
-    await client.query(query, values);
-    await client.query('COMMIT');
+      await client.query(query, values);
+      await client.query('COMMIT');
+    } catch (err) {
+      console.log(
+        '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
+        err,
+      );
+    }
   }
-  catch(err){
-    console.log('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',err)
-  }
-
-  }
-
-
-
 
   // Insert modifications
-  static async insertModifications(client: PoolClient, documentId: number, references?: References): Promise<void> {
+  static async insertModifications(
+    client: PoolClient,
+    documentId: number,
+    references?: References,
+  ): Promise<void> {
     if (!references) return;
 
     // Insert documents this one modifies
@@ -451,7 +593,11 @@ class DatabaseOperations {
   }
 
   // Insert document modifies record
-  static async insertDocumentModifies(client: PoolClient, documentId: number, modification: any): Promise<void> {
+  static async insertDocumentModifies(
+    client: PoolClient,
+    documentId: number,
+    modification: any,
+  ): Promise<void> {
     const query = `
       INSERT INTO document_modifies (
         document_id, modified_document_number, modified_document_title,
@@ -464,15 +610,15 @@ class DatabaseOperations {
       modification.document_number || null,
       modification.document_title || null,
       modification.modification_type || null,
-      this.convertDateFormat(modification.modification_date) || null
+      this.convertDateFormat(modification.modification_date) || null,
     ]);
   }
 
   // Insert document modified by record
   static async insertDocumentModifiedBy(
-    client: PoolClient, 
-    documentId: number, 
-    modification: DocumentModification
+    client: PoolClient,
+    documentId: number,
+    modification: DocumentModification,
   ): Promise<void> {
     const query = `
       INSERT INTO document_modified_by (
@@ -488,13 +634,16 @@ class DatabaseOperations {
       this.convertDateFormat(modification.modification_date),
       this.convertDateFormat(modification.publication_date),
       modification.source_url || null,
-      modification.full_title
+      modification.full_title,
     ]);
 
     const modificationId = result.rows[0].id;
 
     // Insert modified articles
-    if (modification.modified_articles && modification.modified_articles.length > 0) {
+    if (
+      modification.modified_articles &&
+      modification.modified_articles.length > 0
+    ) {
       for (const article of modification.modified_articles) {
         await this.insertModifiedArticle(client, modificationId, article);
       }
@@ -502,11 +651,15 @@ class DatabaseOperations {
   }
 
   // Insert modified article
-  static async insertModifiedArticle(client: PoolClient, modificationId: number, articleNumber: string): Promise<void> {
+  static async insertModifiedArticle(
+    client: PoolClient,
+    modificationId: number,
+    articleNumber: string,
+  ): Promise<void> {
     // Check if article number contains special note
     let number = articleNumber;
     let note: string | null = null;
-    
+
     if (articleNumber.includes(' ')) {
       const parts = articleNumber.split(' ');
       number = parts[0];
@@ -523,33 +676,55 @@ class DatabaseOperations {
   }
 
   // Insert external links
-  static async insertExternalLinks(client: PoolClient, documentId: number, externalLinks?: ExternalLinks): Promise<void> {
+  static async insertExternalLinks(
+    client: PoolClient,
+    documentId: number,
+    externalLinks?: ExternalLinks,
+  ): Promise<void> {
     if (!externalLinks) return;
 
     let orderIndex = 0;
 
     // Insert official links
-    if (externalLinks.official_links && externalLinks.official_links.length > 0) {
+    if (
+      externalLinks.official_links &&
+      externalLinks.official_links.length > 0
+    ) {
       for (const link of externalLinks.official_links) {
-        await this.insertExternalLink(client, documentId, 'official', link, orderIndex++);
+        await this.insertExternalLink(
+          client,
+          documentId,
+          'official',
+          link,
+          orderIndex++,
+        );
       }
     }
 
     // Insert parliamentary work links
-    if (externalLinks.parliamentary_work && externalLinks.parliamentary_work.length > 0) {
+    if (
+      externalLinks.parliamentary_work &&
+      externalLinks.parliamentary_work.length > 0
+    ) {
       for (const link of externalLinks.parliamentary_work) {
-        await this.insertExternalLink(client, documentId, 'parliamentary_work', link, orderIndex++);
+        await this.insertExternalLink(
+          client,
+          documentId,
+          'parliamentary_work',
+          link,
+          orderIndex++,
+        );
       }
     }
   }
 
   // Insert external link
   static async insertExternalLink(
-    client: PoolClient, 
-    documentId: number, 
-    linkType: string, 
-    link: any, 
-    orderIndex: number
+    client: PoolClient,
+    documentId: number,
+    linkType: string,
+    link: any,
+    orderIndex: number,
   ): Promise<void> {
     const query = `
       INSERT INTO external_links (
@@ -562,17 +737,17 @@ class DatabaseOperations {
       documentId,
       linkType,
       typeof link === 'string' ? link : link.url,
-      typeof link === 'object' ? (link.title || null) : null,
-      typeof link === 'object' ? (link.description || null) : null,
-      orderIndex
+      typeof link === 'object' ? link.title || null : null,
+      typeof link === 'object' ? link.description || null : null,
+      orderIndex,
     ]);
   }
 
   // Insert extraction metadata
   static async insertExtractionMetadata(
-    client: PoolClient, 
-    documentId: number, 
-    metadata?: ExtractionMetadata
+    client: PoolClient,
+    documentId: number,
+    metadata?: ExtractionMetadata,
   ): Promise<void> {
     if (!metadata) return;
 
@@ -596,8 +771,62 @@ class DatabaseOperations {
       metadata.completeness_flags?.footnotes_linked || false,
       metadata.completeness_flags?.hierarchical_structure_complete || false,
       metadata.completeness_flags?.metadata_complete || false,
-      metadata.completeness_flags?.is_minimal_document || false
+      metadata.completeness_flags?.is_minimal_document || false,
     ]);
+  }
+
+  // Delete article contents for a document
+  static async deleteArticleContents(
+    client: PoolClient,
+    documentNumber: string,
+  ): Promise<void> {
+    const query = `DELETE FROM article_contents WHERE document_number = $1`;
+    await client.query(query, [documentNumber]);
+  }
+
+  // Delete document modifies records for a document
+  static async deleteDocumentModifies(
+    client: PoolClient,
+    documentId: number,
+  ): Promise<void> {
+    const query = `DELETE FROM document_modifies WHERE document_id = $1`;
+    await client.query(query, [documentId]);
+  }
+
+  // Delete document modified by records for a document
+  static async deleteDocumentModifiedBy(
+    client: PoolClient,
+    documentId: number,
+  ): Promise<void> {
+    const query = `DELETE FROM document_modified_by WHERE document_id = $1`;
+    await client.query(query, [documentId]);
+  }
+
+  // Delete modified articles for a modification
+  static async deleteModifiedArticles(
+    client: PoolClient,
+    modificationId: number,
+  ): Promise<void> {
+    const query = `DELETE FROM modified_articles WHERE modification_id = $1`;
+    await client.query(query, [modificationId]);
+  }
+
+  // Delete external links for a document
+  static async deleteExternalLinks(
+    client: PoolClient,
+    documentId: number,
+  ): Promise<void> {
+    const query = `DELETE FROM external_links WHERE document_id = $1`;
+    await client.query(query, [documentId]);
+  }
+
+  // Delete extraction metadata for a document
+  static async deleteExtractionMetadata(
+    client: PoolClient,
+    documentId: number,
+  ): Promise<void> {
+    const query = `DELETE FROM extraction_metadata WHERE document_id = $1`;
+    await client.query(query, [documentId]);
   }
 }
 
@@ -607,7 +836,7 @@ export class DocumentProcessor {
 
   constructor() {
     this.results = new ValidationResults();
-    
+
     // Initialize AJV for JSON validation
     const ajv = new Ajv({ allErrors: true });
     addFormats(ajv);
@@ -617,9 +846,12 @@ export class DocumentProcessor {
   // Validate document structure
   private validateDocument(data: any, filename: string): data is LegalDocument {
     const valid = this.validator(data);
-    
+
     if (!valid) {
-      const errors = this.validator.errors?.map(err => `${err.instancePath}: ${err.message}`).join(', ') || 'Unknown validation error';
+      const errors =
+        this.validator.errors
+          ?.map((err) => `${err.instancePath}: ${err.message}`)
+          .join(', ') || 'Unknown validation error';
       this.results.addFailure(filename, `Schema validation failed: ${errors}`);
       return false;
     }
@@ -638,7 +870,13 @@ export class DocumentProcessor {
   }
 
   // Process a single document
-  async processDocument(pool:Pool,filePath: string): Promise<void> {
+  async processDocument(
+    pool: Pool,
+    filePath: string,
+    isNew: boolean,
+    azureOpenAI: AzureOpenAI,
+    config: LLMConfig,
+  ): Promise<void> {
     const filename = path.basename(filePath);
     console.info(`Processing file: ${filename}`);
 
@@ -650,7 +888,10 @@ export class DocumentProcessor {
       try {
         data = JSON.parse(fileContent);
       } catch (parseError: any) {
-        this.results.addFailure(filename, `JSON parse error: ${parseError.message}`);
+        this.results.addFailure(
+          filename,
+          `JSON parse error: ${parseError.message}`,
+        );
         return;
       }
 
@@ -661,49 +902,96 @@ export class DocumentProcessor {
 
       // Check if document already exists
       const existsQuery = 'SELECT id FROM documents WHERE document_number = $1';
-      const existsResult = await pool.query(existsQuery, [data.document_metadata.document_number]);
+      const existsResult = await pool.query(existsQuery, [
+        data.document_metadata.document_number,
+      ]);
+      let action: 'insert' | 'update' = isNew ? 'insert' : 'update';
 
-      if (existsResult.rows.length > 0) {
-        this.results.addWarning(filename, `Document ${data.document_metadata.document_number} already exists in database`);
+      if (existsResult.rows.length > 0 && isNew) {
+        this.results.addWarning(
+          filename,
+          `Document ${data.document_metadata.document_number} already exists in database`,
+        );
+        action = 'update';
+        return;
+      }
+      if (existsResult.rows.length === 0 && !isNew) {
+        action = 'insert';
+        this.results.addWarning(
+          filename,
+          `Document ${data.document_metadata.document_number} does not  exists in database`,
+        );
         return;
       }
 
       // Begin transaction
       const client = await pool.connect();
       try {
-
         // Insert document - now returns number (SERIAL id)
         let documentId: number;
         try {
-          documentId = await DatabaseOperations.insertDocument(client, data.document_metadata);
+          if (action === 'insert') {
+            documentId = await DatabaseOperations.insertDocument(
+              client,
+              data.document_metadata,
+              azureOpenAI,
+              config,
+            );
+          } else {
+            documentId = await DatabaseOperations.updateDocument(
+              client,
+              data.document_metadata,
+              azureOpenAI,
+              config,
+            );
+          }
           console.info(`Inserted document with ID: ${documentId}`);
         } catch (e: any) {
-          throw new Error(`[documents] insert failed for document_number=${data.document_metadata.document_number}: ${formatPgError(e)}`);
+          throw new Error(
+            `[documents] insert/update failed for document_number=${data.document_metadata.document_number}: ${formatPgError(e)}`,
+          );
         }
 
         // Insert version info
         try {
-          await DatabaseOperations.insertVersionInfo(client, documentId, data.document_metadata.version_info);
+          if (action === 'update') {
+            await DatabaseOperations.deleteVersionInfo(client, documentId);
+          }
+          await DatabaseOperations.insertVersionInfo(
+            client,
+            documentId,
+            data.document_metadata.version_info,
+          );
         } catch (e: any) {
-          throw new Error(`[document_versions] insert failed for document_id=${documentId}: ${formatPgError(e)}`);
+          throw new Error(
+            `[document_versions] insert failed for document_id=${documentId}: ${formatPgError(e)}`,
+          );
         }
 
         // Insert hierarchy elements
         let elementRank = 1;
         for (const element of data.document_hierarchy) {
           try {
+            if (action === 'update') {
+              await DatabaseOperations.deleteHierarchyElements(
+                client,
+                documentId,
+              );
+            }
             await DatabaseOperations.insertHierarchyElement(
               client,
               documentId,
               element,
               data.document_metadata.document_number,
               null,
-              elementRank
+              elementRank,
             );
           } catch (e: any) {
             const label = element?.label || '';
             const type = element?.type || '';
-            throw new Error(`[hierarchy_elements/article_contents] insert failed at rank=${elementRank} type=${type} label="${label}": ${formatPgError(e)}`);
+            throw new Error(
+              `[hierarchy_elements/article_contents] insert/update failed at rank=${elementRank} type=${type} label="${label}": ${formatPgError(e)}`,
+            );
           } finally {
             elementRank++;
           }
@@ -711,34 +999,64 @@ export class DocumentProcessor {
 
         // Insert modifications
         try {
-          await DatabaseOperations.insertModifications(client, documentId, data.references);
+          if (action === 'update') {
+            await DatabaseOperations.deleteDocumentModifies(client, documentId);
+          }
+          await DatabaseOperations.insertModifications(
+            client,
+            documentId,
+            data.references,
+          );
         } catch (e: any) {
-          throw new Error(`[document_modifies/document_modified_by/modified_articles] insert failed for document_id=${documentId}: ${formatPgError(e)}`);
+          throw new Error(
+            `[document_modifies/document_modified_by/modified_articles] insert failed for document_id=${documentId}: ${formatPgError(e)}`,
+          );
         }
 
         // Insert external links
         try {
-          await DatabaseOperations.insertExternalLinks(client, documentId, data.external_links);
+          if (action === 'update') {
+            await DatabaseOperations.deleteExternalLinks(client, documentId);
+          }
+          await DatabaseOperations.insertExternalLinks(
+            client,
+            documentId,
+            data.external_links,
+          );
         } catch (e: any) {
-          throw new Error(`[external_links] insert failed for document_id=${documentId}: ${formatPgError(e)}`);
+          throw new Error(
+            `[external_links] insert failed for document_id=${documentId}: ${formatPgError(e)}`,
+          );
         }
 
         // Insert extraction metadata
         try {
-          await DatabaseOperations.insertExtractionMetadata(client, documentId, data.extraction_metadata);
+          if (action === 'update') {
+            await DatabaseOperations.deleteExtractionMetadata(
+              client,
+              documentId,
+            );
+          }
+          await DatabaseOperations.insertExtractionMetadata(
+            client,
+            documentId,
+            data.extraction_metadata,
+          );
         } catch (e: any) {
-          throw new Error(`[extraction_metadata] insert failed for document_id=${documentId}: ${formatPgError(e)}`);
+          throw new Error(
+            `[extraction_metadata] insert failed for document_id=${documentId}: ${formatPgError(e)}`,
+          );
         }
 
         this.results.addSuccess(filename);
-        console.log(`Successfully imported document: ${data.document_metadata.document_number}`);
-
+        console.log(
+          `Successfully imported document: ${data.document_metadata.document_number}`,
+        );
       } catch (dbError: any) {
         throw dbError;
       } finally {
         client.release();
       }
-
     } catch (error: any) {
       this.results.addFailure(filename, error.message);
       console.error(`Failed to process ${filename}:`, error);
@@ -746,7 +1064,25 @@ export class DocumentProcessor {
   }
 
   // Process all files in directory
-  async processDirectory(pool:Pool,directoryPath: string): Promise<ProcessingSummary> {
+  async processDirectory(
+    pool: Pool,
+    directoryPath: string,
+    isNew:boolean
+  ): Promise<ProcessingSummary> {
+    // Create LLM client once for all documents
+    const llmConfig: LLMConfig = {
+      azureEndpoint: process.env.AZURE_OPENAI_ENDPOINT || '',
+      azureApiKey: process.env.AZURE_OPENAI_API_KEY || '',
+      azureApiVersion: process.env.AZURE_API_VERSION || '2024-10-01-preview',
+      model: 'gpt-4o',
+      maxRetries: 2,
+      retryDelay: 200,
+      requestDelay: 0,
+      concurrentRequests: 1,
+      batchSize: 1,
+    };
+    const azureOpenAI = createAzureOpenAIClient(llmConfig);
+
     try {
       const files = await fs.readdir(directoryPath);
 
@@ -758,28 +1094,30 @@ export class DocumentProcessor {
             await fs.unlink(fileToDelete);
             console.info(`Deleted ignored file: ${file}`);
           } catch (deleteErr: any) {
-            console.info(`Failed to delete ignored file ${file}`, { error: deleteErr });
+            console.info(`Failed to delete ignored file ${file}`, {
+              error: deleteErr,
+            });
           }
         }
       }
-      
-      const jsonFiles = files.filter(file => 
-        (file.endsWith('.json') || file.endsWith('.txt')) && !file.endsWith('_tables.json')
+
+      const jsonFiles = files.filter(
+        (file) =>
+          (file.endsWith('.json') || file.endsWith('.txt')) &&
+          !file.endsWith('_tables.json'),
       );
 
       console.info(`Found ${jsonFiles.length} files to process`);
 
       for (const file of jsonFiles) {
         const filePath = path.join(directoryPath, file);
-        await this.processDocument(pool,filePath);
+        await this.processDocument(pool, filePath, isNew, azureOpenAI, llmConfig);
       }
 
       return this.results.getSummary();
-
     } catch (error) {
       console.error('Failed to read directory:', error);
       throw error;
     }
   }
 }
-
