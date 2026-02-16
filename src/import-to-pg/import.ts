@@ -995,19 +995,17 @@ export class DocumentProcessor {
           );
         }
 
+        // Delete existing hierarchy and article contents for updates
+        if (action === 'update') {
+          const ids = await DatabaseOperations.getHierarchyElementIds(client, documentId);
+          await DatabaseOperations.deleteArticleContents(client, ids);
+          await DatabaseOperations.deleteHierarchyElements(client, documentId);
+        }
+
         // Insert hierarchy elements
         let elementRank = 1;
         for (const element of data.document_hierarchy) {
           try {
-            if (action === 'update') {
-              const ids = await DatabaseOperations.getHierarchyElementIds(client,documentId)
-              await DatabaseOperations.deleteHierarchyElements(
-                client,
-                documentId,
-              );
-             await DatabaseOperations.deleteArticleContents(client,ids)
-              
-            }
             await DatabaseOperations.insertHierarchyElement(
               client,
               documentId,
