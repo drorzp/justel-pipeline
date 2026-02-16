@@ -71,9 +71,9 @@ const pool = new Pool(dbConfig);
     console.log('filterJSON completed');
     console.log('runLocalFolderBatch new/valid started');
     await runLocalFolderBatch(pool, 'new/valid',true,result);
-    // await runLocalFolderBatch(pool, 'new/invalid',true,result);
+    await runLocalFolderBatch(pool, 'new/invalid',true,result);
     await runLocalFolderBatch(pool, 'current/ready',false,result);
-   //  await runLocalFolderBatch(pool, 'update/invalid',false,result);
+    await runLocalFolderBatch(pool, 'update/invalid',false,result);
     // await updateGet(pool);
     // await moveLawsToMongo(pool, 20);
     // await moveArticlesToMongo(pool)

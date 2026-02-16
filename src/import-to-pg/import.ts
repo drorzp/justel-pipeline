@@ -453,6 +453,7 @@ class DatabaseOperations {
     rank: number = 1,
     articlesList: ArticleChangeInfo[],
     isNew: boolean,
+    skipArticleContents: boolean = false,
   ): Promise<number> {
     const query = `
       INSERT INTO hierarchy_elements (
@@ -494,8 +495,8 @@ class DatabaseOperations {
     const result = await client.query(query, values);
     const elementId = result.rows[0].id;
 
-    // Insert article content if this is an article
-    if (element.type === 'article' && element.article_content) {
+    // Insert article content if this is an article (skip for invalid documents)
+    if (element.type === 'article' && element.article_content && !skipArticleContents) {
       await this.insertArticleContent(
         client,
         elementId,
@@ -519,6 +520,7 @@ class DatabaseOperations {
           childRank++,
           articlesList,
           isNew,
+          skipArticleContents,
         );
       }
     }
@@ -903,6 +905,7 @@ export class DocumentProcessor {
     azureOpenAI: AzureOpenAI,
     config: LLMConfig,
     articlesList: ArticleChangeInfo[],
+    skipArticleContents: boolean = false,
   ): Promise<void> {
     const filename = path.basename(filePath);
     console.info(`Processing file: ${filename}`);
@@ -998,7 +1001,9 @@ export class DocumentProcessor {
         // Delete existing hierarchy and article contents for updates
         if (action === 'update') {
           const ids = await DatabaseOperations.getHierarchyElementIds(client, documentId);
-          await DatabaseOperations.deleteArticleContents(client, ids);
+          if (!skipArticleContents) {
+            await DatabaseOperations.deleteArticleContents(client, ids);
+          }
           await DatabaseOperations.deleteHierarchyElements(client, documentId);
         }
 
@@ -1015,6 +1020,7 @@ export class DocumentProcessor {
               elementRank,
               articlesList,
               isNew,
+              skipArticleContents,
             );
           } catch (e: any) {
             const label = element?.label || '';
@@ -1099,6 +1105,7 @@ export class DocumentProcessor {
     directoryPath: string,
     isNew: boolean,
     articlesList: ArticleChangeInfo[],
+    skipArticleContents: boolean = false,
   ): Promise<ProcessingSummary> {
     // Create LLM client once for all documents
     const llmConfig: LLMConfig = {
@@ -1142,7 +1149,7 @@ export class DocumentProcessor {
 
       for (const file of jsonFiles) {
         const filePath = path.join(directoryPath, file);
-        await this.processDocument(pool, filePath, isNew, azureOpenAI, llmConfig, articlesList);
+        await this.processDocument(pool, filePath, isNew, azureOpenAI, llmConfig, articlesList, skipArticleContents);
       }
 
       return this.results.getSummary();

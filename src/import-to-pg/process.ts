@@ -105,7 +105,7 @@ class LocalFolderProcessor {
     }
   }
 
-  async processAllFiles(isNew: boolean, articlesList: ArticleChangeInfo[]): Promise<void> {
+  async processAllFiles(isNew: boolean, articlesList: ArticleChangeInfo[], skipArticleContents: boolean): Promise<void> {
     console.info(`🚀 Starting local folder processing for ${this.prefix}...`);
 
     try {
@@ -122,7 +122,7 @@ class LocalFolderProcessor {
       const processor = new DocumentProcessor();
 
       try {
-        const summary = await processor.processDirectory(this.pool, this.sourceDir, isNew, articlesList);
+        const summary = await processor.processDirectory(this.pool, this.sourceDir, isNew, articlesList, skipArticleContents);
 
         // Update state
         this.state.totalFilesProcessed = files.length;
@@ -184,5 +184,6 @@ class LocalFolderProcessor {
 
 export async function runLocalFolderBatch(pool: Pool, prefix: string, isNew: boolean, articlesList: ArticleChangeInfo[]): Promise<void> {
   const processor = new LocalFolderProcessor(pool, prefix);
-  await processor.processAllFiles(isNew, articlesList);
+  const skipArticleContents = prefix.includes('invalid');
+  await processor.processAllFiles(isNew, articlesList, skipArticleContents);
 }
