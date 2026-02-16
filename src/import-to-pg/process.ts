@@ -2,7 +2,7 @@ import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DocumentProcessor } from './import';
 import { Pool } from 'pg';
-
+import { ArticleChangeInfo } from '../utils/filterJSON';
 // Local Folder Processor for reading JSON files directly from data/step1/
 interface LocalFolderProcessingState {
   lastProcessedFile: string | null;
@@ -33,7 +33,7 @@ class LocalFolderProcessor {
     this.prefix = prefix;
     this.sourceDir = path.join(process.cwd(), 'data', 'step1', prefix);
     this.errorsDir = path.join(process.cwd(), 'data', 'step1', 'errors', prefix);
-    this.stateFilePath = path.join(process.cwd(), 'src', 'import-to-pg', `processing-state-${prefix}.json`);
+    this.stateFilePath = path.join(process.cwd(), 'src', 'import-to-pg', `processing-state-${prefix.replace(/\//g, '-')}.json`);
     this.state = this.getInitialState();
   }
 
@@ -105,7 +105,7 @@ class LocalFolderProcessor {
     }
   }
 
-  async processAllFiles(isNew:boolean): Promise<void> {
+  async processAllFiles(isNew: boolean, articlesList: ArticleChangeInfo[]): Promise<void> {
     console.info(`🚀 Starting local folder processing for ${this.prefix}...`);
 
     try {
@@ -122,7 +122,7 @@ class LocalFolderProcessor {
       const processor = new DocumentProcessor();
 
       try {
-        const summary = await processor.processDirectory(this.pool, this.sourceDir,isNew);
+        const summary = await processor.processDirectory(this.pool, this.sourceDir, isNew, articlesList);
 
         // Update state
         this.state.totalFilesProcessed = files.length;
@@ -182,7 +182,7 @@ class LocalFolderProcessor {
   }
 }
 
-export async function runLocalFolderBatch(pool: Pool, prefix: string,isNew:boolean): Promise<void> {
+export async function runLocalFolderBatch(pool: Pool, prefix: string, isNew: boolean, articlesList: ArticleChangeInfo[]): Promise<void> {
   const processor = new LocalFolderProcessor(pool, prefix);
-  await processor.processAllFiles(isNew);
+  await processor.processAllFiles(isNew, articlesList);
 }

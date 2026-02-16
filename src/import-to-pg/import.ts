@@ -8,6 +8,7 @@ import addFormats from 'ajv-formats';
 import * as dotenv from 'dotenv';
 import { updateArticleContentsFromSaverV2Single } from '../import-to-pg/updateFromSaverV2';
 import { createHash } from 'crypto';
+import { ArticleChangeInfo } from '../utils/filterJSON';
 
 // Load environment variables
 dotenv.config();
@@ -450,12 +451,14 @@ class DatabaseOperations {
     document_number: string,
     parentId: number | null = null,
     rank: number = 1,
+    articlesList: ArticleChangeInfo[],
+    isNew: boolean,
   ): Promise<number> {
     const query = `
       INSERT INTO hierarchy_elements (
         document_id, parent_id, element_type, label, title_type,
-        title_content, article_range, rank, level, path
-      ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)
+        title_content, article_range, rank, level, path, created_at
+      ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, NOW())
       RETURNING id
     `;
 
@@ -498,6 +501,8 @@ class DatabaseOperations {
         elementId,
         element.article_content,
         document_number,
+        articlesList,
+        isNew,
       );
     }
 
@@ -512,6 +517,8 @@ class DatabaseOperations {
           document_number,
           elementId,
           childRank++,
+          articlesList,
+          isNew,
         );
       }
     }
@@ -544,10 +551,16 @@ class DatabaseOperations {
     hierarchyElementId: number,
     content: ArticleContent,
     document_number: string,
+    articlesList: ArticleChangeInfo[],
+    isNew: boolean,
   ): Promise<void> {
     try {
-
-     const html= updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text,content.content.main_text_raw )
+      const doc = articlesList.find(a => a.documentNumber === document_number);
+      const isArticleChanged = doc?.articles.some(a => a === content.article_number);
+      let html = content.content.main_text_raw || null;
+      if (isNew || isArticleChanged) {
+        html = await updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text, content.content.main_text_raw);
+      }
       await client.query('BEGIN');
       const query = `
       INSERT INTO article_contents (
@@ -889,6 +902,7 @@ export class DocumentProcessor {
     isNew: boolean,
     azureOpenAI: AzureOpenAI,
     config: LLMConfig,
+    articlesList: ArticleChangeInfo[],
   ): Promise<void> {
     const filename = path.basename(filePath);
     console.info(`Processing file: ${filename}`);
@@ -1001,6 +1015,8 @@ export class DocumentProcessor {
               data.document_metadata.document_number,
               null,
               elementRank,
+              articlesList,
+              isNew,
             );
           } catch (e: any) {
             const label = element?.label || '';
@@ -1083,7 +1099,8 @@ export class DocumentProcessor {
   async processDirectory(
     pool: Pool,
     directoryPath: string,
-    isNew:boolean
+    isNew: boolean,
+    articlesList: ArticleChangeInfo[],
   ): Promise<ProcessingSummary> {
     // Create LLM client once for all documents
     const llmConfig: LLMConfig = {
@@ -1127,7 +1144,7 @@ export class DocumentProcessor {
 
       for (const file of jsonFiles) {
         const filePath = path.join(directoryPath, file);
-        await this.processDocument(pool, filePath, isNew, azureOpenAI, llmConfig);
+        await this.processDocument(pool, filePath, isNew, azureOpenAI, llmConfig, articlesList);
       }
 
       return this.results.getSummary();

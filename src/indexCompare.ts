@@ -39,11 +39,79 @@ interface PatchWithOldValue {
   oldValue?: any;
 }
 
+interface ArticleChangeInfo {
+  file_name: string;
+  document_number: string;
+  articles: string[];
+}
+
 interface CompareResult {
   found: boolean;
   same: boolean;
   filename: string;
   patches?: PatchWithOldValue[];
+  articleChanges?: ArticleChangeInfo;
+}
+
+/**
+ * Given a JSON object and path parts from a patch, traverse to find if the change
+ * is inside an article element. Returns the article element if found, null otherwise.
+ */
+function findArticleAtPath(obj: any, pathParts: string[]): any | null {
+  let current = obj;
+  let lastArticle: any = null;
+
+  for (const part of pathParts) {
+    if (current === null || current === undefined || typeof current !== 'object') {
+      break;
+    }
+
+    // Check if current element is an article before moving deeper
+    if (current.type === 'article') {
+      lastArticle = current;
+    }
+
+    current = current[part];
+  }
+
+  // Also check the final element
+  if (current && typeof current === 'object' && current.type === 'article') {
+    lastArticle = current;
+  }
+
+  return lastArticle;
+}
+
+/**
+ * Takes all patches and the original JSON data, finds which articles contain changes,
+ * and returns a unique list of article_number values along with the document number and filename.
+ */
+function extractChangedArticleNumbers(patches: PatchWithOldValue[], jsonData: any, filename: string): ArticleChangeInfo {
+  const document_number = jsonData?.document_metadata?.document_number || 'unknown';
+  const articleNumbers = new Set<string>();
+
+  for (const patch of patches) {
+    const pathParts = patch.path.split('/').filter(p => p !== '');
+    const article = findArticleAtPath(jsonData, pathParts);
+
+    if (article && article.article_content?.article_number) {
+      articleNumbers.add(article.article_content.article_number);
+    }
+  }
+
+  return {
+    file_name: filename,
+    document_number,
+    articles: Array.from(articleNumbers).sort((a, b) => {
+      // Sort numerically if possible, otherwise alphabetically
+      const numA = parseInt(a, 10);
+      const numB = parseInt(b, 10);
+      if (!isNaN(numA) && !isNaN(numB)) {
+        return numA - numB;
+      }
+      return a.localeCompare(b);
+    }),
+  };
 }
 
 async function compareFile(
@@ -97,7 +165,10 @@ async function compareFile(
     return result;
   });
 
-  return { found: true, same: false, filename, patches: patchesWithOldValues };
+  // Extract changed article numbers from the current data
+  const articleChanges = extractChangedArticleNumbers(patchesWithOldValues, currentStripped, filename);
+
+  return { found: true, same: false, filename, patches: patchesWithOldValues, articleChanges };
 }
 
 async function compareCurrentWithOlder(): Promise<void> {
@@ -149,6 +220,13 @@ async function compareCurrentWithOlder(): Promise<void> {
 
     for (const file of differentFiles) {
       console.log(`\n--- ${file.filename} ---`);
+      if (file.articleChanges) {
+        console.log(`File: ${file.articleChanges.file_name}`);
+        console.log(`Document: ${file.articleChanges.document_number}`);
+        if (file.articleChanges.articles.length > 0) {
+          console.log(`Changed articles: ${JSON.stringify(file.articleChanges.articles)}`);
+        }
+      }
       console.log(`Changes (${file.patches?.length || 0}):\n`);
 
       for (const patch of file.patches || []) {
@@ -163,6 +241,23 @@ async function compareCurrentWithOlder(): Promise<void> {
       }
     }
     console.log('='.repeat(80));
+  }
+
+  // Summary of documents with article changes
+  const docsWithArticleChanges = differentFiles.filter(
+    f => f.articleChanges && f.articleChanges.articles.length > 0
+  );
+
+  if (docsWithArticleChanges.length > 0) {
+    console.log('\n');
+    console.log('='.repeat(50));
+    console.log('DOCUMENTS WITH ARTICLE CHANGES:');
+    console.log('='.repeat(50));
+    for (const file of docsWithArticleChanges) {
+      const info = file.articleChanges!;
+      console.log(`  ${JSON.stringify({ file_name: info.file_name, document_number: info.document_number, articles: info.articles })}`);
+    }
+    console.log('='.repeat(50));
   }
 
   // Print summary

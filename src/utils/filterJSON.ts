@@ -3,13 +3,30 @@ import * as path from 'path';
 import { compare } from 'fast-json-patch';
 import pLimit from 'p-limit';
 
+export interface ArticleChangeInfo {
+  documentNumber: string;
+  articles: string[];
+}
+
 interface CompareResult {
   changed: boolean;
   notFound: boolean;
+  articleChanges?: ArticleChangeInfo;
 }
 
 // Fields to ignore when comparing (timestamps that change every run)
 const IGNORE_FIELDS = ['extraction_date', 'generation_timestamp'];
+
+// Fields to compare when detecting article-level changes
+const ARTICLE_COMPARE_FIELDS = [
+  'anchor_id',
+  'main_text_raw',
+  'numbered_provisions',
+  'raw_markdown',
+  'abrogation_status',
+  'main_text',
+  'enhanced_citations'
+];
 
 function stripTimestamps(obj: any): any {
   if (obj === null || typeof obj !== 'object') {
@@ -27,6 +44,79 @@ function stripTimestamps(obj: any): any {
     }
   }
   return result;
+}
+
+function collectArticles(obj: any): Map<string, any> {
+  const articles = new Map<string, any>();
+
+  function traverse(node: any): void {
+    if (node === null || typeof node !== 'object') {
+      return;
+    }
+
+    if (Array.isArray(node)) {
+      for (const item of node) {
+        traverse(item);
+      }
+      return;
+    }
+
+    if (node.type === 'article' && node.article_content?.article_number) {
+      articles.set(node.article_content.article_number, node);
+    }
+
+    for (const value of Object.values(node)) {
+      traverse(value);
+    }
+  }
+
+  traverse(obj);
+  return articles;
+}
+
+function extractArticleCompareData(article: any): any {
+  const result: any = {};
+  const content = article.article_content?.content;
+  const articleContent = article.article_content;
+
+  if (articleContent?.anchor_id !== undefined) {
+    result.anchor_id = articleContent.anchor_id;
+  }
+
+  if (content && typeof content === 'object') {
+    for (const field of ARTICLE_COMPARE_FIELDS) {
+      if (field !== 'anchor_id' && content[field] !== undefined) {
+        result[field] = content[field];
+      }
+    }
+  }
+
+  return result;
+}
+
+function findChangedArticles(currentData: any, olderData: any): string[] {
+  const currentArticles = collectArticles(currentData);
+  const olderArticles = collectArticles(olderData);
+  const changedArticleNumbers: string[] = [];
+
+  for (const [articleNumber, currentArticle] of currentArticles) {
+    const olderArticle = olderArticles.get(articleNumber);
+
+    if (!olderArticle) {
+      changedArticleNumbers.push(articleNumber);
+      continue;
+    }
+
+    const currentExtracted = extractArticleCompareData(currentArticle);
+    const olderExtracted = extractArticleCompareData(olderArticle);
+
+    const patches = compare(olderExtracted, currentExtracted);
+    if (patches.length > 0) {
+      changedArticleNumbers.push(articleNumber);
+    }
+  }
+
+  return changedArticleNumbers;
 }
 
 async function compareAndCopyFile(
@@ -56,14 +146,24 @@ async function compareAndCopyFile(
   const patches = compare(olderStripped, currentStripped);
 
   if (patches.length > 0) {
+    const changedArticles = findChangedArticles(currentData, olderData);
+    const documentNumber = currentData.document_metadata?.document_number || '';
+
     await fs.copyFile(currentPath, path.join(readyDir, filename));
-    return { changed: true, notFound: false };
+    return {
+      changed: true,
+      notFound: false,
+      articleChanges: {
+        documentNumber,
+        articles: changedArticles
+      }
+    };
   }
 
   return { changed: false, notFound: false };
 }
 
-export async function filterJSON(): Promise<void> {
+export async function filterJSON(): Promise<ArticleChangeInfo[]> {
   const currentValidDir = path.join(process.cwd(), 'data/step1/current/valid');
   const olderDir = path.join(process.cwd(), 'data/older');
   const readyDir = path.join(process.cwd(), 'data/step1/current/ready');
@@ -82,7 +182,13 @@ export async function filterJSON(): Promise<void> {
   const changed = results.filter(r => r.changed).length;
   const notFound = results.filter(r => r.notFound).length;
 
+  const articleChanges = results
+    .filter(r => r.articleChanges)
+    .map(r => r.articleChanges!);
+
   console.log(`filterJSON: ${jsonFiles.length} total, ${changed} changed, ${notFound} not in older`);
+
+  return articleChanges;
 }
 
 export async function updateOlderFolder(): Promise<void> {
