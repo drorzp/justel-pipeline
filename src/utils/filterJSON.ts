@@ -8,11 +8,24 @@ export interface ArticleChangeInfo {
   articles: string[];
 }
 
+export type ChangedArticlesMap = Map<string, Set<string>>;
+
+export function buildChangedArticlesMap(list: ArticleChangeInfo[]): ChangedArticlesMap {
+  const map = new Map<string, Set<string>>();
+  for (const info of list) {
+    map.set(info.documentNumber, new Set(info.articles));
+  }
+  return map;
+}
+
 interface CompareResult {
   changed: boolean;
   notFound: boolean;
   articleChanges?: ArticleChangeInfo;
 }
+
+const STEP1_DIR = path.join(process.cwd(), 'data/step1');
+const OLDER_DIR = path.join(process.cwd(), 'data/older');
 
 // Fields to ignore when comparing (timestamps that change every run)
 const IGNORE_FIELDS = ['extraction_date', 'generation_timestamp'];
@@ -121,11 +134,12 @@ function findChangedArticles(currentData: any, olderData: any): string[] {
 
 async function compareAndCopyFile(
   filename: string,
-  currentValidDir: string,
+  currentDir: string,
   olderDir: string,
-  readyDir: string
+  readyDir: string,
+  isInvalid: boolean = false
 ): Promise<CompareResult> {
-  const currentPath = path.join(currentValidDir, filename);
+  const currentPath = path.join(currentDir, filename);
   const olderPath = path.join(olderDir, filename);
 
   try {
@@ -139,96 +153,129 @@ async function compareAndCopyFile(
     fs.readFile(olderPath, 'utf-8').then(JSON.parse),
   ]);
 
-  // Strip timestamps before comparing to ignore false positives
-  const currentStripped = stripTimestamps(currentData);
-  const olderStripped = stripTimestamps(olderData);
+  let hasChanges = false;
 
-  const patches = compare(olderStripped, currentStripped);
+  if (isInvalid) {
+    // For invalid documents, only compare title (document_hierarchy is empty)
+    const currentTitle = currentData.document_metadata?.title || '';
+    const olderTitle = olderData.document_metadata?.title || '';
+    hasChanges = currentTitle !== olderTitle;
+  } else {
+    // Strip timestamps before comparing to ignore false positives
+    const currentStripped = stripTimestamps(currentData);
+    const olderStripped = stripTimestamps(olderData);
+    const patches = compare(olderStripped, currentStripped);
+    hasChanges = patches.length > 0;
+  }
 
-  if (patches.length > 0) {
-    const changedArticles = findChangedArticles(currentData, olderData);
-    const documentNumber = currentData.document_metadata?.document_number || '';
-
+  if (hasChanges) {
     await fs.copyFile(currentPath, path.join(readyDir, filename));
-    return {
-      changed: true,
-      notFound: false,
-      articleChanges: {
-        documentNumber,
-        articles: changedArticles
-      }
-    };
+
+    // Only track article changes for valid documents (invalid docs have no articles)
+    if (!isInvalid) {
+      const documentNumber = currentData.document_metadata?.document_number || '';
+      const changedArticles = findChangedArticles(currentData, olderData);
+      return {
+        changed: true,
+        notFound: false,
+        articleChanges: { documentNumber, articles: changedArticles }
+      };
+    }
+
+    return { changed: true, notFound: false };
   }
 
   return { changed: false, notFound: false };
 }
 
-export async function filterJSON(): Promise<ArticleChangeInfo[]> {
-  const currentValidDir = path.join(process.cwd(), 'data/step1/current/valid');
-  const olderDir = path.join(process.cwd(), 'data/older');
-  const readyDir = path.join(process.cwd(), 'data/step1/current/ready');
-
+async function processFolder(
+  currentDir: string,
+  olderDir: string,
+  readyDir: string,
+  isInvalid: boolean
+): Promise<{ results: CompareResult[]; fileCount: number }> {
   await fs.mkdir(readyDir, { recursive: true });
 
-  const files = await fs.readdir(currentValidDir);
-  const jsonFiles = files.filter(f => f.endsWith('.json'));
+  let files: string[] = [];
+  try {
+    files = await fs.readdir(currentDir);
+  } catch {
+    return { results: [], fileCount: 0 };
+  }
 
+  const jsonFiles = files.filter(f => f.endsWith('.json'));
   const limit = pLimit(50);
 
   const results = await Promise.all(
-    jsonFiles.map(file => limit(() => compareAndCopyFile(file, currentValidDir, olderDir, readyDir)))
+    jsonFiles.map(file => limit(() => compareAndCopyFile(file, currentDir, olderDir, readyDir, isInvalid)))
   );
 
-  const changed = results.filter(r => r.changed).length;
-  const notFound = results.filter(r => r.notFound).length;
+  return { results, fileCount: jsonFiles.length };
+}
 
-  const articleChanges = results
-    .filter(r => r.articleChanges)
-    .map(r => r.articleChanges!);
+export async function filterJSON(): Promise<ArticleChangeInfo[]> {
+  // Process valid documents: current/valid → ready/valid
+  const validResult = await processFolder(
+    path.join(STEP1_DIR, 'current/valid'),
+    OLDER_DIR,
+    path.join(STEP1_DIR, 'ready/valid'),
+    false
+  );
 
-  console.log(`filterJSON: ${jsonFiles.length} total, ${changed} changed, ${notFound} not in older`);
+  // Process invalid documents: current/invalid → ready/invalid (title-only comparison)
+  const invalidResult = await processFolder(
+    path.join(STEP1_DIR, 'current/invalid'),
+    OLDER_DIR,
+    path.join(STEP1_DIR, 'ready/invalid'),
+    true
+  );
+
+  // Only valid documents contribute meaningful article changes
+  const articleChanges = validResult.results
+    .map(r => r.articleChanges)
+    .filter((a): a is ArticleChangeInfo => a !== undefined);
+
+  const logStats = (label: string, r: { results: CompareResult[]; fileCount: number }) => {
+    const changed = r.results.filter(x => x.changed).length;
+    const notFound = r.results.filter(x => x.notFound).length;
+    console.log(`filterJSON ${label}: ${r.fileCount} total, ${changed} changed, ${notFound} not in older`);
+  };
+
+  logStats('valid', validResult);
+  logStats('invalid', invalidResult);
 
   return articleChanges;
 }
 
+async function copyJsonFilesToOlder(sourceDir: string, olderDir: string): Promise<number> {
+  let copied = 0;
+  try {
+    const files = await fs.readdir(sourceDir);
+    for (const file of files.filter(f => f.endsWith('.json'))) {
+      await fs.copyFile(
+        path.join(sourceDir, file),
+        path.join(olderDir, file)
+      );
+      copied++;
+    }
+  } catch {
+    // Directory may not exist
+  }
+  return copied;
+}
+
 export async function updateOlderFolder(): Promise<void> {
-  const readyDir = path.join(process.cwd(), 'data/step1/current/ready');
-  const newValidDir = path.join(process.cwd(), 'data/step1/new/valid');
-  const olderDir = path.join(process.cwd(), 'data/older');
+  await fs.mkdir(OLDER_DIR, { recursive: true });
 
-  // Ensure older directory exists
-  await fs.mkdir(olderDir, { recursive: true });
+  const sourceFolders = ['ready/valid', 'ready/invalid', 'new/valid', 'new/invalid'];
 
-  let copiedFromReady = 0;
-  let copiedFromNew = 0;
-
-  // Copy from current/ready
-  try {
-    const readyFiles = await fs.readdir(readyDir);
-    for (const file of readyFiles.filter(f => f.endsWith('.json'))) {
-      await fs.copyFile(
-        path.join(readyDir, file),
-        path.join(olderDir, file)
-      );
-      copiedFromReady++;
+  const counts: string[] = [];
+  for (const folder of sourceFolders) {
+    const copied = await copyJsonFilesToOlder(path.join(STEP1_DIR, folder), OLDER_DIR);
+    if (copied > 0) {
+      counts.push(`${copied} from ${folder}`);
     }
-  } catch {
-    // Directory may not exist if no files changed
   }
 
-  // Copy from new/valid
-  try {
-    const newFiles = await fs.readdir(newValidDir);
-    for (const file of newFiles.filter(f => f.endsWith('.json'))) {
-      await fs.copyFile(
-        path.join(newValidDir, file),
-        path.join(olderDir, file)
-      );
-      copiedFromNew++;
-    }
-  } catch {
-    // Directory may not exist if no new files
-  }
-
-  console.log(`updateOlderFolder: ${copiedFromReady} from ready, ${copiedFromNew} from new/valid`);
+  console.log(`updateOlderFolder: ${counts.length > 0 ? counts.join(', ') : 'no files copied'}`);
 }

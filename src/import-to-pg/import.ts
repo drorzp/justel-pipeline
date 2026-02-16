@@ -7,8 +7,8 @@ import Ajv, { ValidateFunction } from 'ajv';
 import addFormats from 'ajv-formats';
 import * as dotenv from 'dotenv';
 import { updateArticleContentsFromSaverV2Single } from '../import-to-pg/updateFromSaverV2';
-import { createHash } from 'crypto';
-import { ArticleChangeInfo } from '../utils/filterJSON';
+
+import { ArticleChangeInfo, ChangedArticlesMap, buildChangedArticlesMap } from '../utils/filterJSON';
 
 // Load environment variables
 dotenv.config();
@@ -451,7 +451,7 @@ class DatabaseOperations {
     document_number: string,
     parentId: number | null = null,
     rank: number = 1,
-    articlesList: ArticleChangeInfo[],
+    changedArticlesMap: ChangedArticlesMap,
     isNew: boolean,
     skipArticleContents: boolean = false,
   ): Promise<number> {
@@ -502,7 +502,7 @@ class DatabaseOperations {
         elementId,
         element.article_content,
         document_number,
-        articlesList,
+        changedArticlesMap,
         isNew,
       );
     }
@@ -518,7 +518,7 @@ class DatabaseOperations {
           document_number,
           elementId,
           childRank++,
-          articlesList,
+          changedArticlesMap,
           isNew,
           skipArticleContents,
         );
@@ -553,12 +553,11 @@ class DatabaseOperations {
     hierarchyElementId: number,
     content: ArticleContent,
     document_number: string,
-    articlesList: ArticleChangeInfo[],
+    changedArticlesMap: ChangedArticlesMap,
     isNew: boolean,
   ): Promise<void> {
     try {
-      const doc = articlesList.find(a => a.documentNumber === document_number);
-      const isArticleChanged = doc?.articles.some(a => a === content.article_number);
+      const isArticleChanged = changedArticlesMap.get(document_number)?.has(content.article_number) ?? false;
       let html = content.content.main_text_raw || null;
       if (isNew || isArticleChanged) {
         html = await updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text, content.content.main_text_raw);
@@ -570,10 +569,6 @@ class DatabaseOperations {
       ) VALUES ($1, $2, $3, $4, $5, $6,$7,$8)
       RETURNING id
     `;
-
-      // const mainTextHash = createHash('md5')
-      //   .update(content.content.main_text_raw || '')
-      //   .digest('hex');
 
       const values = [
         hierarchyElementId,
@@ -904,7 +899,7 @@ export class DocumentProcessor {
     isNew: boolean,
     azureOpenAI: AzureOpenAI,
     config: LLMConfig,
-    articlesList: ArticleChangeInfo[],
+    changedArticlesMap: ChangedArticlesMap,
     skipArticleContents: boolean = false,
   ): Promise<void> {
     const filename = path.basename(filePath);
@@ -1018,7 +1013,7 @@ export class DocumentProcessor {
               data.document_metadata.document_number,
               null,
               elementRank,
-              articlesList,
+              changedArticlesMap,
               isNew,
               skipArticleContents,
             );
@@ -1120,6 +1115,7 @@ export class DocumentProcessor {
       batchSize: 1,
     };
     const azureOpenAI = createAzureOpenAIClient(llmConfig);
+    const changedArticlesMap = buildChangedArticlesMap(articlesList);
 
     try {
       const files = await fs.readdir(directoryPath);
@@ -1149,7 +1145,7 @@ export class DocumentProcessor {
 
       for (const file of jsonFiles) {
         const filePath = path.join(directoryPath, file);
-        await this.processDocument(pool, filePath, isNew, azureOpenAI, llmConfig, articlesList, skipArticleContents);
+        await this.processDocument(pool, filePath, isNew, azureOpenAI, llmConfig, changedArticlesMap, skipArticleContents);
       }
 
       return this.results.getSummary();
