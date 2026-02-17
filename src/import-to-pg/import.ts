@@ -294,118 +294,99 @@ class DatabaseOperations {
     azureOpenAI: AzureOpenAI,
     config: LLMConfig,
   ): Promise<number> {
-    try {
-      const title = await generateNewTitle(azureOpenAI, config, metadata.document_number, metadata.title);
+    const title = await generateNewTitle(azureOpenAI, config, metadata.document_number, metadata.title);
 
-      const query = `
+    const query = `
       INSERT INTO documents (
         document_number, title, publication_date, source, page_number,
         dossier_number, effective_date, language, document_type, status,
-        official_justel_url, official_publication_pdf_url, consolidated_pdf_url, created_at,updated_at
+        official_justel_url, official_publication_pdf_url, consolidated_pdf_url, created_at, updated_at
       ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)
       RETURNING id`;
 
-      const values = [
-        metadata.document_number,
-        title,
-        metadata.publication_date || null,
-        metadata.source || null,
-        metadata.page_number || 0,
-        metadata.dossier_number || null,
-        metadata.effective_date || null,
-        metadata.language,
-        metadata.document_type,
-        metadata.status,
-        metadata.official_justel_url || null,
-        metadata.official_publication_pdf_url || null,
-        metadata.consolidated_pdf_url || null,
-        new Date().toISOString(),
-        new Date().toISOString(),
-      ];
+    const values = [
+      metadata.document_number,
+      title,
+      metadata.publication_date || null,
+      metadata.source || null,
+      metadata.page_number || 0,
+      metadata.dossier_number || null,
+      metadata.effective_date || null,
+      metadata.language,
+      metadata.document_type,
+      metadata.status,
+      metadata.official_justel_url || null,
+      metadata.official_publication_pdf_url || null,
+      metadata.consolidated_pdf_url || null,
+      new Date().toISOString(),
+      new Date().toISOString(),
+    ];
 
-      const result = await client.query(query, values);
-      return result.rows[0].id;
-    } catch (error) {
-      console.error(
-        `Error inserting document: ${metadata.document_number}`,
-        error,
-      );
-      return -1;
-    }
+    const result = await client.query(query, values);
+    return result.rows[0].id;
   }
 
-  // Update existing document - returns the document id or -1 on error
+  // Update existing document - returns the document id
   static async updateDocument(
     client: PoolClient,
     metadata: DocumentMetadata,
     azureOpenAI: AzureOpenAI,
     config: LLMConfig,
   ): Promise<number> {
-    try {
-      // Fetch existing title to check if it changed
-      const existingResult = await client.query(
-        'SELECT title FROM documents WHERE document_number = $1',
-        [metadata.document_number]
-      );
+    // Fetch existing title to check if it changed
+    const existingResult = await client.query(
+      'SELECT title FROM documents WHERE document_number = $1',
+      [metadata.document_number]
+    );
 
-      let title = metadata.title;
+    let title = metadata.title;
 
-      // If title changed, generate new LLM title
-      if (existingResult.rows.length > 0 && existingResult.rows[0].title !== metadata.title) {
-        title = await generateNewTitle(azureOpenAI, config, metadata.document_number, metadata.title);
-      }
-
-      const query = `
-        UPDATE documents SET
-          title = $2,
-          publication_date = $3,
-          source = $4,
-          page_number = $5,
-          dossier_number = $6,
-          effective_date = $7,
-          language = $8,
-          document_type = $9,
-          status = $10,
-          official_justel_url = $11,
-          official_publication_pdf_url = $12,
-          consolidated_pdf_url = $13,
-          updated_at = $14
-        WHERE document_number = $1
-        RETURNING id
-      `;
-
-      const values = [
-        metadata.document_number,
-        title,
-        metadata.publication_date || null,
-        metadata.source || null,
-        metadata.page_number || 0,
-        metadata.dossier_number || null,
-        metadata.effective_date || null,
-        metadata.language,
-        metadata.document_type,
-        metadata.status,
-        metadata.official_justel_url || null,
-        metadata.official_publication_pdf_url || null,
-        metadata.consolidated_pdf_url || null,
-        new Date().toISOString(),
-      ];
-
-      const result = await client.query(query, values);
-      if (result.rows.length === 0) {
-        console.error(
-          `Document not found for update: ${metadata.document_number}`,
-        );
-        return -1;
-      }
-      return result.rows[0].id;
-    } catch (error) {
-      console.error(
-        `Error updating document: ${metadata.document_number}`,
-        error,
-      );
-      return -1;
+    // If title changed, generate new LLM title
+    if (existingResult.rows.length > 0 && existingResult.rows[0].title !== metadata.title) {
+      title = await generateNewTitle(azureOpenAI, config, metadata.document_number, metadata.title);
     }
+
+    const query = `
+      UPDATE documents SET
+        title = $2,
+        publication_date = $3,
+        source = $4,
+        page_number = $5,
+        dossier_number = $6,
+        effective_date = $7,
+        language = $8,
+        document_type = $9,
+        status = $10,
+        official_justel_url = $11,
+        official_publication_pdf_url = $12,
+        consolidated_pdf_url = $13,
+        updated_at = $14
+      WHERE document_number = $1
+      RETURNING id
+    `;
+
+    const values = [
+      metadata.document_number,
+      title,
+      metadata.publication_date || null,
+      metadata.source || null,
+      metadata.page_number || 0,
+      metadata.dossier_number || null,
+      metadata.effective_date || null,
+      metadata.language,
+      metadata.document_type,
+      metadata.status,
+      metadata.official_justel_url || null,
+      metadata.official_publication_pdf_url || null,
+      metadata.consolidated_pdf_url || null,
+      new Date().toISOString(),
+    ];
+
+    const result = await client.query(query, values);
+    if (result.rows.length === 0) {
+      throw new Error(`Document not found for update: ${metadata.document_number}`);
+    }
+    return result.rows[0].id;
   }
 
   // Insert version information
@@ -1028,6 +1009,7 @@ export class DocumentProcessor {
         try {
           if (action === 'update') {
             await DatabaseOperations.deleteDocumentModifies(client, documentId);
+            await DatabaseOperations.deleteDocumentModifiedBy(client, documentId);
           }
           await DatabaseOperations.insertModifications(
             client,
