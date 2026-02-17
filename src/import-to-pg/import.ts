@@ -535,9 +535,12 @@ class DatabaseOperations {
   ): Promise<void> {
     try {
       const isArticleChanged = changedArticlesMap.get(document_number)?.has(content.article_number) ?? false;
-      let html = content.content.main_text_raw || null;
+      let html = content.content.main_text_raw || content.content.main_text;
       if (isNew || isArticleChanged) {
-        html = await updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text, content.content.raw_markdown);
+        const transformed = await updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text, content.content.raw_markdown);
+        if (transformed) {
+          html = transformed;
+        }
       }
       const query = `
       INSERT INTO article_contents (
