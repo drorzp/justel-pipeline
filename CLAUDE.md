@@ -52,10 +52,10 @@ Scrapes Belgian legal documents from `https://www.ejustice.just.fgov.be`:
 
 1. **Clear Valid Folders** - Remove old files from `data/step1/current/valid` and `data/step1/new/valid`
 2. **Python Data Collection** - Run scraper via `runPythonDataPipeline()`, outputs JSON to `data/step1/`
-3. **Filter JSON** - `filterJSON()` processes files, separating new vs update documents
+3. **Filter JSON** - `filterJSON()` compares `current/valid` and `current/invalid` against `older/`, copies changed files to `current/ready/valid` and `current/ready/invalid`
 4. **Local Folder Import** - Load JSON files via `runLocalFolderBatch()`:
    - `new/valid` and `new/invalid` (new documents, insert mode)
-   - `update/valid` and `update/invalid` (existing documents, update mode)
+   - `current/ready/valid` and `current/ready/invalid` (changed documents, update mode)
 5. **Update Older Folder** - Copy processed files to `data/older` via `updateOlderFolder()`
 
 **Additional stages (currently commented out in index.ts):**
@@ -83,9 +83,9 @@ Scrapes Belgian legal documents from `https://www.ejustice.just.fgov.be`:
 ### Data Flow
 
 ```
-Python Scraper → data/step1/ (JSON files) → filterJSON (new/update separation)
+Python Scraper → data/step1/ (JSON files) → filterJSON (change detection)
                                                       ↓
-                              data/step1/new/valid    data/step1/update/valid
+                              data/step1/new/valid    data/step1/current/ready/valid
                                         ↓                      ↓
                               PostgreSQL (insert)    PostgreSQL (update)
                                         ↓                      ↓
@@ -94,11 +94,13 @@ Python Scraper → data/step1/ (JSON files) → filterJSON (new/update separatio
 
 ### Folder Structure
 
+- `data/step1/current/valid/` - Current valid documents (compared against older)
+- `data/step1/current/invalid/` - Current invalid documents (compared against older)
+- `data/step1/current/ready/valid/` - Changed valid documents to update
+- `data/step1/current/ready/invalid/` - Changed invalid documents to update
 - `data/step1/new/valid/` - New documents to insert
 - `data/step1/new/invalid/` - New documents that failed validation
-- `data/step1/update/valid/` - Existing documents to update
-- `data/step1/update/invalid/` - Existing documents that failed validation
-- `data/older/` - Archive of previously processed files
+- `data/older/` - Archive of previously processed files (baseline for next run)
 
 ### Database Functions
 

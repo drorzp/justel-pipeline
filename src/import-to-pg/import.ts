@@ -179,7 +179,7 @@ class ValidationResults {
   private failed: ValidationFailure[] = [];
   private warnings: ValidationWarning[] = [];
 
-  addSuccess(filename: string): void {
+  addSuccess(): void {
     this.processed++;
     this.successful++;
   }
@@ -541,23 +541,22 @@ class DatabaseOperations {
       const isArticleChanged = changedArticlesMap.get(document_number)?.has(content.article_number) ?? false;
       let html = content.content.main_text_raw || null;
       if (isNew || isArticleChanged) {
-        html = await updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text, content.content.main_text_raw);
+        html = await updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text, content.content.raw_markdown);
       }
       const query = `
       INSERT INTO article_contents (
         hierarchy_element_id, article_number, anchor_id, main_text, main_text_raw, document_number, main_text_hash, raw_markdown
       ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
-      RETURNING id
     `;
 
       const values = [
         hierarchyElementId,
         content.article_number,
         content.anchor_id || null,
-        content.content.main_text,
+        html,
         content.content.main_text_raw,
         document_number,
-        html,
+        '', 
         content.content.raw_markdown,
       ];
 
@@ -921,7 +920,7 @@ export class DocumentProcessor {
         action = 'insert';
         this.results.addWarning(
           filename,
-          `Document ${data.document_metadata.document_number} does not  exists in database`,
+          `Document ${data.document_metadata.document_number} does not exist in database`,
         );
         return;
       }
@@ -948,7 +947,7 @@ export class DocumentProcessor {
               config,
             );
           }
-          console.info(`Inserted document with ID: ${documentId}`);
+          console.info(`${action === 'insert' ? 'Inserted' : 'Updated'} document with ID: ${documentId}`);
         } catch (e: any) {
           throw new Error(
             `[documents] insert/update failed for document_number=${data.document_metadata.document_number}: ${formatPgError(e)}`,
@@ -1058,7 +1057,7 @@ export class DocumentProcessor {
         }
 
         await client.query('COMMIT');
-        this.results.addSuccess(filename);
+        this.results.addSuccess();
         console.log(
           `Successfully imported document: ${data.document_metadata.document_number}`,
         );
