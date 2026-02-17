@@ -20,8 +20,8 @@ package-lock.json
 
 src/justel-data-processer/input
 src/justel-data-processer/output
-src/justel-data-processer/data/csv_data/full-list.csv
-src/import-to-pg/documents/incoming3    
+src/justel-data-processer/data/
+src/import-to-pg/documents/incoming3
 src/import-to-pg/documents/incoming_no_articles3
 src/import-to-pg/zipped
 src/import-to-pg/errors
@@ -29,14 +29,10 @@ src/import-to-pg/processing-state*.json
 logs/
 src/html-transformer/output
 src/html-transformer/test-results/
-src/justel-data-processer/input
 src/import_article_html/import_article_html
-src/justel-data-processer
 
 # Data folders
 data/older/
 data/step1/current/
 data/step1/new/
 data/step1/errors
-data/step1/current/ready/invalid
-data/step1/current/ready/valid

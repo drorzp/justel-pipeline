@@ -562,11 +562,10 @@ class DatabaseOperations {
       if (isNew || isArticleChanged) {
         html = await updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text, content.content.main_text_raw);
       }
-      await client.query('BEGIN');
       const query = `
       INSERT INTO article_contents (
-        hierarchy_element_id, article_number, anchor_id, main_text, main_text_raw, document_number,main_text_hash,raw_markdown
-      ) VALUES ($1, $2, $3, $4, $5, $6,$7,$8)
+        hierarchy_element_id, article_number, anchor_id, main_text, main_text_raw, document_number, main_text_hash, raw_markdown
+      ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
       RETURNING id
     `;
 
@@ -582,12 +581,9 @@ class DatabaseOperations {
       ];
 
       await client.query(query, values);
-      await client.query('COMMIT');
     } catch (err) {
-      console.log(
-        '^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^',
-        err,
-      );
+      console.error(`Failed to insert article content for ${document_number} article ${content.article_number}:`, err);
+      throw err;
     }
   }
 
