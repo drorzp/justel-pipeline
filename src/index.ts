@@ -44,6 +44,7 @@ const dbConfig: PoolConfig = {
 async function clearValidFolders(): Promise<void> {
   const folders = [
     'data/step1/current/valid',
+    'data/step1/current/invalid',
     'data/step1/current/ready/valid',
     'data/step1/current/ready/invalid',
     'data/step1/new/valid',
@@ -55,7 +56,7 @@ async function clearValidFolders(): Promise<void> {
     await fs.mkdir(fullPath, { recursive: true });
   }));
 
-  console.log('Cleared folders: current/valid, current/ready/valid, current/ready/invalid, new/valid');
+  console.log('Cleared folders: current/valid, current/invalid, current/ready/valid, current/ready/invalid, new/valid');
 }
 
 async function main() {

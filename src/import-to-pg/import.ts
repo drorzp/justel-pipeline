@@ -926,10 +926,11 @@ export class DocumentProcessor {
         return;
       }
 
-      // Begin transaction
       const client = await pool.connect();
       try {
-        // Insert document - now returns number (SERIAL id)
+        await client.query('BEGIN');
+
+        // Insert or update document
         let documentId: number;
         try {
           if (action === 'insert') {
@@ -1000,9 +1001,8 @@ export class DocumentProcessor {
             throw new Error(
               `[hierarchy_elements/article_contents] insert/update failed at rank=${elementRank} type=${type} label="${label}": ${formatPgError(e)}`,
             );
-          } finally {
-            elementRank++;
           }
+          elementRank++;
         }
 
         // Insert modifications
@@ -1057,11 +1057,13 @@ export class DocumentProcessor {
           );
         }
 
+        await client.query('COMMIT');
         this.results.addSuccess(filename);
         console.log(
           `Successfully imported document: ${data.document_metadata.document_number}`,
         );
       } catch (dbError: any) {
+        await client.query('ROLLBACK');
         throw dbError;
       } finally {
         client.release();

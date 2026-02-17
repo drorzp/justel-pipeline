@@ -3,6 +3,7 @@ import * as path from 'path';
 import { DocumentProcessor } from './import';
 import { Pool } from 'pg';
 import { ArticleChangeInfo } from '../utils/filterJSON';
+
 // Local Folder Processor for reading JSON files directly from data/step1/
 interface LocalFolderProcessingState {
   lastProcessedFile: string | null;
@@ -60,9 +61,9 @@ class LocalFolderProcessor {
         this.state.processedFiles = [];
       }
 
-      console.info(`📂 Loaded existing state for ${this.prefix}: ${this.state.totalFilesProcessed} files processed`);
+      console.info(`Loaded existing state for ${this.prefix}: ${this.state.totalFilesProcessed} files processed`);
     } catch (error) {
-      console.info(`📝 No existing state found for ${this.prefix}, starting fresh`);
+      console.info(`No existing state found for ${this.prefix}, starting fresh`);
       this.state = this.getInitialState();
     }
   }
@@ -77,7 +78,7 @@ class LocalFolderProcessor {
       const files = await fs.readdir(this.sourceDir);
       return files.filter(f => f.endsWith('.json')).sort();
     } catch (error) {
-      console.warn(`⚠️  Source directory ${this.sourceDir} does not exist or is not readable`);
+      console.warn(`Source directory ${this.sourceDir} does not exist or is not readable`);
       return [];
     }
   }
@@ -99,25 +100,25 @@ class LocalFolderProcessor {
         timestamp: new Date().toISOString()
       }, null, 2));
 
-      console.info(`📄 Moved failed document: ${filename} → errors/${this.prefix}/`);
+      console.info(`Moved failed document: ${filename} -> errors/${this.prefix}/`);
     } catch (moveError) {
-      console.warn(`⚠️  Could not move ${filename}:`, moveError);
+      console.warn(`Could not move ${filename}:`, moveError);
     }
   }
 
   async processAllFiles(isNew: boolean, articlesList: ArticleChangeInfo[], skipArticleContents: boolean): Promise<void> {
-    console.info(`🚀 Starting local folder processing for ${this.prefix}...`);
+    console.info(`Starting local folder processing for ${this.prefix}...`);
 
     try {
       await this.loadState();
       const files = await this.listJsonFiles();
 
       if (files.length === 0) {
-        console.info(`📭 No JSON files found in ${this.sourceDir}`);
+        console.info(`No JSON files found in ${this.sourceDir}`);
         return;
       }
 
-      console.info(`📁 Processing ${files.length} files from ${this.sourceDir}`);
+      console.info(`Processing ${files.length} files from ${this.sourceDir}`);
 
       const processor = new DocumentProcessor();
 
@@ -141,10 +142,10 @@ class LocalFolderProcessor {
 
         await this.saveState();
 
-        console.info(`✅ Processed ${summary.successful}/${summary.total} documents successfully`);
+        console.info(`Processed ${summary.successful}/${summary.total} documents successfully`);
 
       } catch (error: any) {
-        console.error(`❌ Error processing directory ${this.sourceDir}:`, error.message);
+        console.error(`Error processing directory ${this.sourceDir}:`, error.message);
 
         this.state.errors.push({
           file: this.sourceDir,
@@ -159,24 +160,24 @@ class LocalFolderProcessor {
       this.printSummary();
 
     } catch (error) {
-      console.error(`💥 Fatal error in local folder processing for ${this.prefix}:`, error);
+      console.error(`Fatal error in local folder processing for ${this.prefix}:`, error);
       throw error;
     }
   }
 
   private printSummary(): void {
-    console.info(`\n🎉 Local folder processing complete for ${this.prefix}!`);
-    console.info(`📊 Final Summary:`);
-    console.info(`   - Files processed: ${this.state.totalFilesProcessed}`);
-    console.info(`   - Documents processed: ${this.state.totalDocumentsProcessed}`);
-    console.info(`   - Documents successful: ${this.state.totalDocumentsSuccessful}`);
-    console.info(`   - Documents failed: ${this.state.totalDocumentsFailed}`);
-    console.info(`   - Errors encountered: ${this.state.errors.length}`);
+    console.info(`\nLocal folder processing complete for ${this.prefix}`);
+    console.info(`Final Summary:`);
+    console.info(`  Files processed: ${this.state.totalFilesProcessed}`);
+    console.info(`  Documents processed: ${this.state.totalDocumentsProcessed}`);
+    console.info(`  Documents successful: ${this.state.totalDocumentsSuccessful}`);
+    console.info(`  Documents failed: ${this.state.totalDocumentsFailed}`);
+    console.info(`  Errors encountered: ${this.state.errors.length}`);
 
     if (this.state.errors.length > 0) {
-      console.info('\n❌ Errors:');
+      console.info('\nErrors:');
       this.state.errors.forEach(error => {
-        console.info(`   - ${error.file}: ${error.error}`);
+        console.info(`  ${error.file}: ${error.error}`);
       });
     }
   }
