@@ -25,7 +25,7 @@ src/import-to-pg/documents/incoming3
 src/import-to-pg/documents/incoming_no_articles3
 src/import-to-pg/zipped
 src/import-to-pg/errors
-src/import-to-pg/processing-state.json
+src/import-to-pg/processing-state*.json
 logs/
 src/html-transformer/output
 src/html-transformer/test-results/
@@ -38,3 +38,5 @@ data/older/
 data/step1/current/
 data/step1/new/
 data/step1/errors
+data/step1/current/ready/invalid
+data/step1/current/ready/valid

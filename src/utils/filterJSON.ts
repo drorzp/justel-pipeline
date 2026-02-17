@@ -214,19 +214,19 @@ async function processFolder(
 }
 
 export async function filterJSON(): Promise<ArticleChangeInfo[]> {
-  // Process valid documents: current/valid → ready/valid
+  // Process valid documents: current/valid → current/ready/valid
   const validResult = await processFolder(
     path.join(STEP1_DIR, 'current/valid'),
     OLDER_DIR,
-    path.join(STEP1_DIR, 'ready/valid'),
+    path.join(STEP1_DIR, 'current/ready/valid'),
     false
   );
 
-  // Process invalid documents: current/invalid → ready/invalid (title-only comparison)
+  // Process invalid documents: current/invalid → current/ready/invalid (title-only comparison)
   const invalidResult = await processFolder(
     path.join(STEP1_DIR, 'current/invalid'),
     OLDER_DIR,
-    path.join(STEP1_DIR, 'ready/invalid'),
+    path.join(STEP1_DIR, 'current/ready/invalid'),
     true
   );
 
@@ -267,7 +267,7 @@ async function copyJsonFilesToOlder(sourceDir: string, olderDir: string): Promis
 export async function updateOlderFolder(): Promise<void> {
   await fs.mkdir(OLDER_DIR, { recursive: true });
 
-  const sourceFolders = ['ready/valid', 'ready/invalid', 'new/valid', 'new/invalid'];
+  const sourceFolders = ['current/ready/valid', 'current/ready/invalid', 'new/valid', 'new/invalid'];
 
   const counts: string[] = [];
   for (const folder of sourceFolders) {

@@ -61,71 +61,25 @@ async function main() {
 const pool = new Pool(dbConfig);
 
   try {
-    // console.log('Clearing valid folders before running pipeline...');
-    // await clearValidFolders();
-    // console.log('Collect data and store as json in data/step1');
-    // await runPythonDataPipeline();
-    // console.log('Complete Collect data');
-    // console.log('Filtering JSON files with changes...');
+    console.log('Clearing valid folders before running pipeline...');
+    await clearValidFolders();
+    console.log('Collect data and store as json in data/step1');
+    await runPythonDataPipeline();
+    console.log('Complete Collect data');
+    console.log('Filtering JSON files with changes...');
     const result: ArticleChangeInfo[] = await filterJSON();
     console.log('filterJSON completed');
     console.log('runLocalFolderBatch started');
     await runLocalFolderBatch(pool, 'new/valid', true, []);
     await runLocalFolderBatch(pool, 'new/invalid', true, []);
-    await runLocalFolderBatch(pool, 'ready/valid', false, result);
-    await runLocalFolderBatch(pool, 'ready/invalid', false, []);
-    // await updateGet(pool);
+    await runLocalFolderBatch(pool, 'current/ready/valid', false, result);
+    await runLocalFolderBatch(pool, 'current/ready/invalid', false, []);
+    await updateGet(pool);
+    await updateOlderFolder();
     // await moveLawsToMongo(pool, 20);
     // await moveArticlesToMongo(pool)
-    // await updateArticleVector(pool);
-    // await updateOlderFolder();
-//  console.log('truncate article_conten_saver and copy article_content into it started');
-//     await saveContentArticle(pool);
-//     console.log('truncate article_conten_saver and copy article_content into it completed');
-//     console.log('sync_document_title add all documents that does not exist in documents started');
-//     await sync_document_title(pool);
-//     console.log('sync_document_title completed');
-//     console.log('truncate tables started');
-//     await truncateImportTables(pool);
-//     console.log('truncate tables completed');
-//     console.log('runLocalFolderBatch valid started');
-//     await runLocalFolderBatch(pool, 'valid');
-//     console.log('runLocalFolderBatch valid completed');
-//     console.log('runLocalFolderBatch invalid started');
-//     await runLocalFolderBatch(pool, 'invalid');
-//     console.log('runLocalFolderBatch invalid completed');
-//     console.log('copy all non changed titles to law document started');
-//   await titles_not_changed(pool);
-//     console.log('copy all non changed titles to law document completed');
-//     console.log('llm titles on all new/ changed law document started');
-//  await processAllDocumentTitles(pool, llmConfig);
-//     console.log('llm titles on all new/ changed law document completed');
-//     console.log('copy back all html that was not changed started')
-//  await updateArticleContentsFromSaver(pool);
-//     console.log('copy back all html that was not changed completed')
-//     console.log('llmall html that was changed/new started')
-//  await updateArticleContentsFromSaverV2Diff(pool) 
-//     console.log('llmall html that was changed/new completed')
-//     console.log('Move to mongo document collection started');
 
-//     console.log('update gen started');
-//    await updateGet(pool);
-//     console.log('update gen completed');
-
-//  await moveLawsToMongo(pool, 20);
-//     console.log('Move to mongo document collection completed');
-//     console.log('moveArticlesToMongo started')
-// await moveArticlesToMongo(pool) // has to replace one by one ???? delete small table 
-//     console.log('moveArticlesToMongo completed')
-//     console.log('updateArticleVector started')
-//     await updateArticleVector(pool);
-//     console.log('updateArticleVector completed');
-//     console.log('process completed');
-
-    console.log('Updating older folder with processed files...');
-    await updateOlderFolder();
-    console.log('updateOlderFolder completed');
-    console.log('Pipeline completed successfully');
+   console.log('Pipeline completed successfully');
 
   } catch (err:unknown) {
     const message = err instanceof Error ? err.message : 'Unknown error';
