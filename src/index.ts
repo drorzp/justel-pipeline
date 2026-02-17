@@ -64,12 +64,12 @@ async function main() {
 const pool = new Pool(dbConfig);
 
   try {
-    console.log('Clearing valid folders before running pipeline...');
-    await clearValidFolders();
-    console.log('Collect data and store as json in data/step1');
-    await runPythonDataPipeline();
-    console.log('Complete Collect data');
-    console.log('Filtering JSON files with changes...');
+    // console.log('Clearing valid folders before running pipeline...');
+    // await clearValidFolders();
+    // console.log('Collect data and store as json in data/step1');
+    // await runPythonDataPipeline();
+    // console.log('Complete Collect data');
+    // console.log('Filtering JSON files with changes...');
     const result: ArticleChangeInfo[] = await filterJSON();
     console.log('filterJSON completed');
     console.log('runLocalFolderBatch started');

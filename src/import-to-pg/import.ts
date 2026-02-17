@@ -535,7 +535,7 @@ class DatabaseOperations {
   ): Promise<void> {
     try {
       const isArticleChanged = changedArticlesMap.get(document_number)?.has(content.article_number) ?? false;
-      let html = content.content.main_text_raw || content.content.main_text;
+      let html =  content.content.main_text;
       if (isNew || isArticleChanged) {
         const transformed = await updateArticleContentsFromSaverV2Single(document_number, content.article_number, content.content.main_text, content.content.raw_markdown);
         if (transformed) {
