@@ -5,13 +5,8 @@ import { AzureOpenAI } from 'openai';
 import { generateNewTitle, LLMConfig, createAzureOpenAIClient } from './llm_title';
 import Ajv, { ValidateFunction } from 'ajv';
 import addFormats from 'ajv-formats';
-import * as dotenv from 'dotenv';
-import { updateArticleContentsFromSaverV2Single } from '../import-to-pg/updateFromSaverV2';
-
+import { updateArticleContentsFromSaverV2Single } from './updateFromSaverV2';
 import { ArticleChangeInfo, ChangedArticlesMap, buildChangedArticlesMap } from '../utils/filterJSON';
-
-// Load environment variables
-dotenv.config();
 
 // Helper to format Postgres errors with useful details
 function formatPgError(err: any): string {
@@ -339,9 +334,10 @@ class DatabaseOperations {
       [metadata.document_number]
     );
 
-    let title = metadata.title;
+    // Keep existing DB title (already LLM-cleaned) unless raw title changed
+    let title = existingResult.rows[0]?.title ?? metadata.title;
 
-    // If title changed, generate new LLM title
+    // If raw source title changed, generate new LLM title
     if (existingResult.rows.length > 0 && existingResult.rows[0].title !== metadata.title) {
       title = await generateNewTitle(azureOpenAI, config, metadata.document_number, metadata.title);
     }
@@ -1079,20 +1075,9 @@ export class DocumentProcessor {
     directoryPath: string,
     isNew: boolean,
     articlesList: ArticleChangeInfo[],
+    llmConfig: LLMConfig,
     skipArticleContents: boolean = false,
   ): Promise<ProcessingSummary> {
-    // Create LLM client once for all documents
-    const llmConfig: LLMConfig = {
-      azureEndpoint: process.env.AZURE_OPENAI_ENDPOINT || '',
-      azureApiKey: process.env.AZURE_OPENAI_API_KEY || '',
-      azureApiVersion: process.env.AZURE_API_VERSION || '2024-10-01-preview',
-      model: 'gpt-4o',
-      maxRetries: 2,
-      retryDelay: 200,
-      requestDelay: 0,
-      concurrentRequests: 1,
-      batchSize: 1,
-    };
     const azureOpenAI = createAzureOpenAIClient(llmConfig);
     const changedArticlesMap = buildChangedArticlesMap(articlesList);
 

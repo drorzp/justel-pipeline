@@ -315,12 +315,12 @@ class JustelScraper:
             True if successful, False otherwise
         """
         try:
-            self.logger.info(f"📥 Fetching: {url}")
+            self.logger.info(f"Fetching: {url}")
 
             # Ensure URL is configured for French content
             french_url = self.ensure_french_url(url)
             if french_url != url:
-                self.logger.info(f"🇫🇷 Using French URL: {french_url}")
+                self.logger.info(f"Using French URL: {french_url}")
 
             # Make initial HTTP request
             response = await session.get(french_url, follow_redirects=True)
@@ -331,14 +331,14 @@ class JustelScraper:
 
             # Basic validation - check if content contains expected document ID
             if not self.validate_content(html_content, legislation_id):
-                self.logger.warning(f"⚠️ Content validation failed for {legislation_id}")
+                self.logger.warning(f"Content validation failed for {legislation_id}")
                 return False
 
             # Try to extract French URL from the HTML if not already French
             extracted_french_url = self.extract_french_url(html_content, french_url)
             
             if extracted_french_url and extracted_french_url != french_url:
-                self.logger.info(f"🇫🇷 Found French version, fetching: {extracted_french_url}")
+                self.logger.info(f"Found French version, fetching: {extracted_french_url}")
                 
                 # Fetch the French version
                 french_response = await session.get(extracted_french_url, follow_redirects=True)
@@ -347,14 +347,14 @@ class JustelScraper:
                 
                 # Validate French content
                 if not self.validate_content(html_content, legislation_id):
-                    self.logger.warning(f"⚠️ French content validation failed for {legislation_id}")
+                    self.logger.warning(f"French content validation failed for {legislation_id}")
                     return False
             else:
-                self.logger.info(f"ℹ️ Using original URL (French URL not found or same as original)")
+                self.logger.info(f"Using original URL (French URL not found or same as original)")
 
             # Basic validation - check if content is not empty or too short
             if not html_content or len(html_content.strip()) < 500:
-                self.logger.warning(f"⚠️ HTML content too short for {legislation_id}")
+                self.logger.warning(f"HTML content too short for {legislation_id}")
                 return False
 
             # Save as TXT file (HTML content with .txt extension)
@@ -365,11 +365,11 @@ class JustelScraper:
                 f.write(html_content)
 
             folder_label = "new" if is_new else "current"
-            self.logger.info(f"✅ Successfully saved {legislation_id}.txt to {folder_label}/")
+            self.logger.info(f"Successfully saved {legislation_id}.txt to {folder_label}/")
             return True
 
         except Exception as e:
-            self.logger.error(f"❌ Error fetching {url}: {e}")
+            self.logger.error(f"Error fetching {url}: {e}")
             return False
 
     def validate_content(self, html_content: str, expected_doc_id: str) -> bool:
@@ -380,10 +380,10 @@ class JustelScraper:
             if '1994015214' not in html_content:
                 return True
             else:
-                self.logger.warning(f"⚠️ Content contains corrupted document 1994015214")
+                self.logger.warning(f"Content contains corrupted document 1994015214")
                 return False
         else:
-            self.logger.warning(f"⚠️ Content does not contain expected document ID {expected_doc_id}")
+            self.logger.warning(f"Content does not contain expected document ID {expected_doc_id}")
             return False
 
 
@@ -467,7 +467,7 @@ class JustelScraper:
             for url, numac_search in url_numac_pairs:
                 # Skip if already processed (checkpoint only)
                 if numac_search in processed_ids:
-                    self.logger.debug(f"⚠ Document {numac_search} already processed (from checkpoint), skipping")
+                    self.logger.debug(f"Document {numac_search} already processed (from checkpoint), skipping")
                     self.stats['skipped'] += 1
                     continue
 
@@ -580,7 +580,7 @@ class JustelScraper:
                 'total_urls': total_urls,
                 'last_updated': datetime.now().isoformat(),
                 'output_directory': str(self.output_dir),
-                'input_csv': str(self.input_csv)
+                'input_csv': str(self.input_excel)
             }
 
             with open(self.checkpoint_file, 'w') as f:
@@ -589,17 +589,6 @@ class JustelScraper:
             self.logger.debug(f"Checkpoint saved: {len(processed_ids)}/{total_urls} processed")
         except Exception as e:
             self.logger.warning(f"Could not save checkpoint: {e}")
-
-    def get_existing_files(self) -> set:
-        """Get set of document IDs that already have TXT files in any subdirectory."""
-        existing_ids = set()
-        # Check both new/ and current/ subdirectories
-        for subdir in [self.output_dir_new, self.output_dir_current]:
-            if subdir.exists():
-                for txt_file in subdir.glob("*.txt"):
-                    doc_id = txt_file.stem
-                    existing_ids.add(doc_id)
-        return existing_ids
 
 
 def run_scraper(scraper: JustelScraper):
@@ -632,7 +621,7 @@ def main():
     args = parser.parse_args()
 
     scraper = JustelScraper(
-        input_csv=args.input,
+        input_excel=args.input,
         output_dir=args.output,
         delay=args.delay,
         concurrent_requests=args.concurrent,

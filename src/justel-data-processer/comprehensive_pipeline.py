@@ -130,8 +130,8 @@ class ComprehensivePipeline:
             self.logger.error("No .txt files found in input/new/ or input/current/")
             return False
 
-        self.logger.info(f"✅ Found {len(new_files):,} files in input/new/")
-        self.logger.info(f"✅ Found {len(current_files):,} files in input/current/")
+        self.logger.info(f"Found {len(new_files):,} files in input/new/")
+        self.logger.info(f"Found {len(current_files):,} files in input/current/")
         
         # Check disk space (require at least 5GB free)
         try:
@@ -140,7 +140,7 @@ class ComprehensivePipeline:
             if free_space_gb < 5:
                 self.logger.warning(f"Low disk space: {free_space_gb:.1f}GB free")
             else:
-                self.logger.info(f"✅ Sufficient disk space: {free_space_gb:.1f}GB free")
+                self.logger.info(f"Sufficient disk space: {free_space_gb:.1f}GB free")
         except Exception as e:
             self.logger.warning(f"Could not check disk space: {e}")
 
@@ -197,20 +197,20 @@ class ComprehensivePipeline:
                         # Create fresh output directory
                         self.output_dir.mkdir(exist_ok=True)
 
-                        self.logger.info(f"✅ Cleaned output directory")
+                        self.logger.info(f"Cleaned output directory")
                         self.stats['cleanup_performed'] = True
                 else:
-                    self.logger.info("✅ Output directory is already clean")
+                    self.logger.info("Output directory is already clean")
             else:
                 self.logger.info("Creating output directory...")
                 if not self.dry_run:
                     self.output_dir.mkdir(exist_ok=True)
-                self.logger.info("✅ Output directory created")
+                self.logger.info("Output directory created")
                 
             return True
             
         except Exception as e:
-            self.logger.error(f"❌ Error in environment preparation: {e}")
+            self.logger.error(f"Error in environment preparation: {e}")
             return False
             
     def get_first_n_files(self, n: int) -> List[Path]:
@@ -258,11 +258,11 @@ class ComprehensivePipeline:
                 dest_path = processing_dir / file_path.name
                 shutil.copy2(file_path, dest_path)
 
-            self.logger.info(f"✅ Copied {len(batch_files)} files to processing directory")
+            self.logger.info(f"Copied {len(batch_files)} files to processing directory")
             return True
 
         except Exception as e:
-            self.logger.error(f"❌ Error copying batch files: {e}")
+            self.logger.error(f"Error copying batch files: {e}")
             return False
 
     def phase2_document_processing(self) -> bool:
@@ -317,7 +317,7 @@ class ComprehensivePipeline:
                 os.chdir(original_cwd)
                 
                 if result.returncode == 0:
-                    self.logger.info("✅ Master pipeline completed successfully")
+                    self.logger.info("Master pipeline completed successfully")
                     self.stats['files_processed'] = len(files_to_process)
                     
                     # Log output for debugging
@@ -326,7 +326,7 @@ class ComprehensivePipeline:
                         
                     return True
                 else:
-                    self.logger.error(f"❌ Master pipeline failed with return code {result.returncode}")
+                    self.logger.error(f"Master pipeline failed with return code {result.returncode}")
                     if result.stderr:
                         self.logger.error(f"Error output: {result.stderr}")
                     if result.stdout:
@@ -334,14 +334,14 @@ class ComprehensivePipeline:
                     return False
                     
             except subprocess.TimeoutExpired:
-                self.logger.error("❌ Master pipeline timed out after 1 hour")
+                self.logger.error("Master pipeline timed out after 1 hour")
                 return False
             except Exception as e:
-                self.logger.error(f"❌ Error executing master pipeline: {e}")
+                self.logger.error(f"Error executing master pipeline: {e}")
                 return False
                 
         except Exception as e:
-            self.logger.error(f"❌ Error in document processing phase: {e}")
+            self.logger.error(f"Error in document processing phase: {e}")
             return False
             
     def scan_json_files(self) -> Tuple[List[Path], List[Path]]:
@@ -379,7 +379,7 @@ class ComprehensivePipeline:
                 self.logger.warning(f"Error reading {json_file.name}: {e}")
                 invalid_files.append(json_file)
                 
-        self.logger.info(f"✅ Scan complete:")
+        self.logger.info(f"Scan complete:")
         self.logger.info(f"  Valid files (with non-empty document_hierarchy): {len(valid_files):,}")
         self.logger.info(f"  Invalid files (empty or missing document_hierarchy): {len(invalid_files):,}")
         
@@ -403,10 +403,10 @@ class ComprehensivePipeline:
                 else:
                     for temp_file in temp_input_dir.glob("*.txt"):
                         temp_file.unlink()
-                    self.logger.info("✅ Cleaned up temporary input files")
+                    self.logger.info("Cleaned up temporary input files")
 
         except Exception as e:
-            self.logger.error(f"❌ Error during cleanup: {e}")
+            self.logger.error(f"Error during cleanup: {e}")
 
     def write_files_to_folder(self, valid_files: List[Path], invalid_files: List[Path], batch_number: int) -> bool:
         """Copy JSON files directly to data/step1 folder structure."""
@@ -440,7 +440,7 @@ class ComprehensivePipeline:
                 self.logger.error(f"Failed to copy {json_file.name}: {e}")
                 success = False
 
-        self.logger.info(f"✅ Batch {batch_number} files written: {self.stats.get('valid_files_written', 0)} valid, {self.stats.get('invalid_files_written', 0)} invalid")
+        self.logger.info(f"Batch {batch_number} files written: {self.stats.get('valid_files_written', 0)} valid, {self.stats.get('invalid_files_written', 0)} invalid")
         return success
 
     def phase3_quality_filtering_and_write(self) -> bool:
@@ -468,7 +468,7 @@ class ComprehensivePipeline:
                         f.write("=" * 60 + "\n")
                         for invalid_file in invalid_files:
                             f.write(f"{invalid_file.relative_to(self.output_dir)}\n")
-                    self.logger.info(f"✅ Invalid files logged to: {invalid_log}")
+                    self.logger.info(f"Invalid files logged to: {invalid_log}")
 
             # Write files to local folder
             batch_success = self.write_files_to_folder(valid_files, invalid_files, self.stats['current_batch'])
@@ -477,7 +477,7 @@ class ComprehensivePipeline:
             return batch_success
 
         except Exception as e:
-            self.logger.error(f"❌ Error in quality filtering and write phase: {e}")
+            self.logger.error(f"Error in quality filtering and write phase: {e}")
             return False
 
     def cleanup_batch_files(self) -> bool:
@@ -492,23 +492,23 @@ class ComprehensivePipeline:
             # Clear output directory
             if self.output_dir.exists():
                 shutil.rmtree(self.output_dir)
-                self.logger.info("✅ Cleared output directory")
+                self.logger.info("Cleared output directory")
 
             # Clear processing input directory
             processing_dir = self.script_dir / "data" / "text_input"
             if processing_dir.exists():
                 shutil.rmtree(processing_dir)
-                self.logger.info("✅ Cleared processing input directory")
+                self.logger.info("Cleared processing input directory")
 
             # Remove any leftover ZIP files
             for zip_file in self.script_dir.glob("belgian_legal_batch_*.zip"):
                 zip_file.unlink()
-                self.logger.info(f"✅ Removed leftover ZIP file: {zip_file.name}")
+                self.logger.info(f"Removed leftover ZIP file: {zip_file.name}")
 
             return True
 
         except Exception as e:
-            self.logger.error(f"❌ Error during cleanup: {e}")
+            self.logger.error(f"Error during cleanup: {e}")
             return False
 
     def process_large_batches(self) -> bool:
@@ -538,7 +538,7 @@ class ComprehensivePipeline:
 
             # Copy batch files to processing directory
             if not self.copy_batch_to_processing(batch_files):
-                self.logger.error(f"❌ Failed to copy files for batch {batch_num}")
+                self.logger.error(f"Failed to copy files for batch {batch_num}")
                 overall_success = False
                 continue
 
@@ -550,14 +550,14 @@ class ComprehensivePipeline:
             )
 
             if batch_success:
-                self.logger.info(f"✅ Batch {batch_num} completed successfully")
+                self.logger.info(f"Batch {batch_num} completed successfully")
             else:
-                self.logger.error(f"❌ Batch {batch_num} failed")
+                self.logger.error(f"Batch {batch_num} failed")
                 overall_success = False
 
             # Clean up intermediate files before next batch
             if not self.cleanup_batch_files():
-                self.logger.warning(f"⚠️  Failed to clean up files after batch {batch_num}")
+                self.logger.warning(f" Failed to clean up files after batch {batch_num}")
 
             # Update overall statistics
             self.stats['files_processed'] += len(batch_files)
@@ -648,7 +648,7 @@ class ComprehensivePipeline:
 
             # Check prerequisites
             if not self.check_prerequisites():
-                self.logger.error("❌ Prerequisites check failed")
+                self.logger.error("Prerequisites check failed")
                 return False
 
             # Process new/ first, then current/
@@ -657,17 +657,17 @@ class ComprehensivePipeline:
             success = self.process_input_source("current", self.input_dir_current) and success
 
             if success:
-                self.logger.info("🎉 Pipeline completed successfully!")
+                self.logger.info("Pipeline completed successfully!")
             else:
-                self.logger.error("❌ Pipeline had failures")
+                self.logger.error("Pipeline had failures")
 
             return success
 
         except KeyboardInterrupt:
-            self.logger.warning("⚠️ Pipeline interrupted by user")
+            self.logger.warning("Pipeline interrupted by user")
             return False
         except Exception as e:
-            self.logger.error(f"❌ Unexpected error in pipeline: {e}")
+            self.logger.error(f"Unexpected error in pipeline: {e}")
             return False
         finally:
             self.print_final_summary()

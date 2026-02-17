@@ -2,6 +2,7 @@ import * as fs from 'fs/promises';
 import * as path from 'path';
 import { DocumentProcessor } from './import';
 import { Pool } from 'pg';
+import { LLMConfig } from './llm_title';
 import { ArticleChangeInfo } from '../utils/filterJSON';
 
 // Local Folder Processor for reading JSON files directly from data/step1/
@@ -106,7 +107,7 @@ class LocalFolderProcessor {
     }
   }
 
-  async processAllFiles(isNew: boolean, articlesList: ArticleChangeInfo[], skipArticleContents: boolean): Promise<void> {
+  async processAllFiles(isNew: boolean, articlesList: ArticleChangeInfo[], llmConfig: LLMConfig, skipArticleContents: boolean): Promise<void> {
     console.info(`Starting local folder processing for ${this.prefix}...`);
 
     try {
@@ -123,7 +124,7 @@ class LocalFolderProcessor {
       const processor = new DocumentProcessor();
 
       try {
-        const summary = await processor.processDirectory(this.pool, this.sourceDir, isNew, articlesList, skipArticleContents);
+        const summary = await processor.processDirectory(this.pool, this.sourceDir, isNew, articlesList, llmConfig, skipArticleContents);
 
         // Update state
         this.state.totalFilesProcessed = files.length;
@@ -183,8 +184,8 @@ class LocalFolderProcessor {
   }
 }
 
-export async function runLocalFolderBatch(pool: Pool, prefix: string, isNew: boolean, articlesList: ArticleChangeInfo[]): Promise<void> {
+export async function runLocalFolderBatch(pool: Pool, prefix: string, isNew: boolean, articlesList: ArticleChangeInfo[], llmConfig: LLMConfig): Promise<void> {
   const processor = new LocalFolderProcessor(pool, prefix);
   const skipArticleContents = prefix.includes('invalid');
-  await processor.processAllFiles(isNew, articlesList, skipArticleContents);
+  await processor.processAllFiles(isNew, articlesList, llmConfig, skipArticleContents);
 }

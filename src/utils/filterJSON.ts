@@ -41,7 +41,7 @@ const ARTICLE_COMPARE_FIELDS = [
   'enhanced_citations'
 ];
 
-function stripTimestamps(obj: any): any {
+export function stripTimestamps(obj: any): any {
   if (obj === null || typeof obj !== 'object') {
     return obj;
   }

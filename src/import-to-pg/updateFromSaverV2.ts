@@ -1,10 +1,5 @@
 import { Pool, PoolClient } from 'pg';
-import * as dotenv from 'dotenv';
 import { transformArticleHtml, TransformationInput } from '../html-transformer/transform-html';
-
-dotenv.config();
-
-// Align DB config with other modules
 
 /**
  * For all (document_number, article_number) where the hash differs between

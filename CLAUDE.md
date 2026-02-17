@@ -4,128 +4,118 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a multi-stage ETL pipeline for processing Belgian legal documents from Justel. The pipeline scrapes documents, enriches them with AI-generated titles, normalizes HTML content, generates vector embeddings, and transfers data to MongoDB for web application use.
+Multi-stage ETL pipeline for processing Belgian legal documents from Justel. Scrapes documents, enriches them with AI-generated titles, normalizes HTML content, generates vector embeddings, and transfers data to MongoDB for a web application.
 
 **Stack:** TypeScript (Node.js) orchestration + Python data collection
 
 ## Common Commands
 
 ```bash
-# Install dependencies
-npm install
-
-# Build TypeScript to dist/
-npm run build
-
-# Run the full pipeline (production)
-npm start
-
-# Run the pipeline in development mode
-npm run dev
-
-# Run title synchronization utility
-npm run sync:titles
-
-# Run vector hashing utility
-npm run qdrant:hash
-
-# Compare documents
-npm run compare
-
-# Python scraper (in src/justel-data-processer/)
-cd src/justel-data-processer
-pip install -r requirements.txt
-python 000_Master.py
+npm install              # Install dependencies
+npm run build            # Build TypeScript to dist/
+npm start                # Run full pipeline (production) - requires build first
+npm run dev              # Run pipeline in development mode (ts-node)
+npm run sync:titles      # Run title synchronization utility
+npm run qdrant:hash      # Run vector hashing utility
+npm run compare          # Compare documents (current/valid vs older/)
 ```
+
+Python scraper (in `src/justel-data-processer/`):
+```bash
+cd src/justel-data-processer && pip install -r requirements.txt && python 000_Master.py
+```
+
+No test suite exists (`npm test` is a placeholder).
 
 ## Architecture
 
-### Python Scraping Pipeline (runPythonDataPipeline)
+### Active Pipeline (src/index.ts)
 
-Scrapes Belgian legal documents from `https://www.ejustice.just.fgov.be`:
+The pipeline runs these stages sequentially:
 
-1. **populate_full_list.py** - Discover new document URLs since last run, append to `data/csv_data/full-list.csv`
-2. **run_comprehensive_html_scraping.py** - Download HTML for each URL (35 concurrent, ~23 URLs/sec) → `input/*.txt`
-3. **comprehensive_pipeline.py** - Parse HTML → JSON, validate, output to `data/step1/valid/` and `data/step1/invalid/`
+1. **clearValidFolders()** — Deletes and recreates 5 data folders (current/valid, current/invalid, current/ready/valid, current/ready/invalid, new/valid)
+2. **runPythonDataPipeline()** — Spawns 3 Python scripts: `populate_full_list.py` → `run_comprehensive_html_scraping.py` (35 concurrent) → `comprehensive_pipeline.py`
+3. **filterJSON()** — Uses `fast-json-patch` to diff current JSON against `data/older/`, copies changed files to `current/ready/` folders. Returns `ArticleChangeInfo[]` listing which articles changed per document.
+4. **runLocalFolderBatch()** — 4 calls processing new/valid, new/invalid (insert mode), current/ready/valid, current/ready/invalid (update mode)
+5. **updateGet()** — Denormalizes hierarchy labels (gen_1/gen_2/gen_3) into article_contents table
+6. **updateOlderFolder()** — Archives all processed JSON files to `data/older/` as baseline for next run
 
-### Pipeline Stages (executed sequentially in src/index.ts)
+**Commented-out stages:** MongoDB transfer (`moveLawsToMongo`, `moveArticlesToMongo`), LLM batch title generation, HTML restoration, vector embeddings, content snapshots.
 
-1. **Clear Valid Folders** - Remove old files from `data/step1/current/valid` and `data/step1/new/valid`
-2. **Python Data Collection** - Run scraper via `runPythonDataPipeline()`, outputs JSON to `data/step1/`
-3. **Filter JSON** - `filterJSON()` compares `current/valid` and `current/invalid` against `older/`, copies changed files to `current/ready/valid` and `current/ready/invalid`
-4. **Local Folder Import** - Load JSON files via `runLocalFolderBatch()`:
-   - `new/valid` and `new/invalid` (new documents, insert mode)
-   - `current/ready/valid` and `current/ready/invalid` (changed documents, update mode)
-5. **Update Older Folder** - Copy processed files to `data/older` via `updateOlderFolder()`
+### Key Patterns
 
-**Additional stages (currently commented out in index.ts):**
-- **Save Content Snapshot** - Backup original HTML to `article_contents_saver` table
-- **Title Sync** - Synchronize existing titles via `sync_document_title()`
-- **Flag Unchanged** - Mark documents with unchanged content via `titles_not_changed()`
-- **LLM Title Generation** - Generate clean titles via Azure OpenAI gpt-4o (300 concurrent, batch 2000)
-- **HTML Restoration** - Restore original HTML for unchanged articles, diff-based for changed
-- **Update Gen** - Update generation metadata via `updateGet()`
-- **MongoDB Transfer** - Move laws (batch 20) and articles to MongoDB
-- **Vector Embeddings** - Generate embeddings for Qdrant
+- **Single pg.Pool** created in `main()`, shared across all stages, closed in `finally`
+- **Error signaling:** `process.exitCode = 1` (not `process.exit(1)`) in orchestrator; transfer-to-mongo modules use `process.exit(1)` directly
+- **Transaction handling:** Each document processed in its own `BEGIN/COMMIT/ROLLBACK` block (in `DocumentProcessor.processDocument()`)
+- **Invalid documents** are imported with `skipArticleContents: true` — only metadata and hierarchy, no article text
+- **Processing state** persisted to `src/import-to-pg/processing-state-{prefix}.json` files (gitignored); tracks processed files, errors, timestamps
+- **Failed documents** moved to `data/step1/errors/{prefix}/` with `.error.json` sidecar
 
-### Key Modules
+### Module Guide
 
-- **src/import-to-pg/** - Local folder processing, document validation, PostgreSQL import, LLM title generation
-  - `import.ts` - `DatabaseOperations` class with insert/update/delete methods for all tables
-  - `process.ts` - `runLocalFolderBatch()` orchestrates document processing
-  - `llm_title.ts` - Azure OpenAI title generation with concurrency control
-- **src/add-to-vector/** - Vector embedding generation with Qdrant, token management with tiktoken
-- **src/transfer-to-mongo/** - MongoDB transfer with Mongoose models
-- **src/html-transformer/** - HTML content normalization
-- **src/utils/** - Utilities including `filterJSON.ts` for new/update document separation
-- **src/justel-data-processer/** - Python scraper and preprocessor
+| Module | Purpose |
+|--------|---------|
+| `src/import-to-pg/import.ts` | `DatabaseOperations` class — static methods for all PostgreSQL insert/update/delete operations. Methods take `PoolClient`, caller manages transactions. |
+| `src/import-to-pg/process.ts` | `runLocalFolderBatch()` — orchestrates folder processing with state persistence and error handling |
+| `src/import-to-pg/llm_title.ts` | Azure OpenAI title generation. `generateNewTitle()` for single docs (called during import), `processAllDocumentTitles()` for batch. Two-pass: if title >80 chars, `refineLongTitle()` retries targeting 70 chars. Regex `createFallbackTitle()` on LLM failure. |
+| `src/import-to-pg/updateFromSaverV2.ts` | HTML transformation — `updateArticleContentsFromSaverV2Single()` called inline during import; `updateArticleContentsFromSaverV2Diff()` for batch (currently unused) |
+| `src/import-to-pg/upgete_gen_on_articles.ts` | `updateGet()` — denormalizes 3 hierarchy ancestor labels into article_contents rows |
+| `src/html-transformer/transform-html.ts` | AI HTML normalization. Singleton `HtmlTransformer` routes by token count: <16K output tokens → Azure GPT-4o, <55K → Gemini 2.5 Flash, above → skip. Only transforms articles matching specific patterns (footnotes, provisions, `° et `). |
+| `src/add-to-vector/qdrantCreate.service.ts` | Vector upsert to Qdrant. Collection: `articles_of_law_3072`, model: `text-embedding-3-large` (3072 dims). Chunks text with 7000 token target, 200 overlap. UUID v5 IDs. MD5 hash-based skip for unchanged content. |
+| `src/add-to-vector/token-utils.ts` | Tiktoken (`cl100k_base`) utilities — paragraph-aware chunker falls back to sentence splitting then raw token slicing |
+| `src/transfer-to-mongo/` | Fetch from PostgreSQL functions (`get_document_data`, `get_article_with_relations1`), `findOneAndReplace` with upsert to MongoDB |
+| `src/utils/filterJSON.ts` | Change detection via `fast-json-patch`. Strips timestamps before comparison. For invalid docs, only compares title. 50-concurrent file comparisons via `p-limit`. |
+| `src/utils/pythonRunner.ts` | Spawns `python3` subprocesses. `__dirname` resolves to `dist/utils/` in production — Python paths use `../../src` relative. |
+
+### Database Schema (PostgreSQL)
+
+Tables: `documents`, `document_versions`, `document_modifies`, `document_modified_by`, `modified_articles`, `hierarchy_elements`, `article_contents`, `article_contents_saver`, `external_links`, `extraction_metadata`, `document_title`
+
+Stored procedures: `get_document_data($1)`, `get_article_with_relations1($1, $2)`, `reset_and_insert_from_article_content()`
+
+Default PostgreSQL port is **5433** (not 5432).
+
+### MongoDB
+
+Database name hardcoded as `lawyers` in `src/mongodb/mongoConnect.ts`. Uses both native `MongoClient` and Mongoose. Models: `Law` (laws collection), `Article` (compound unique index on article_number + document_number).
 
 ### Data Flow
 
 ```
-Python Scraper → data/step1/ (JSON files) → filterJSON (change detection)
-                                                      ↓
-                              data/step1/new/valid    data/step1/current/ready/valid
-                                        ↓                      ↓
-                              PostgreSQL (insert)    PostgreSQL (update)
-                                        ↓                      ↓
-                              MongoDB (final storage) ← Qdrant (vector embeddings)
+Python Scraper → data/step1/ (JSON) → filterJSON (diff against data/older/)
+                                                ↓
+                          data/step1/new/valid    data/step1/current/ready/valid
+                                    ↓                      ↓
+                          PostgreSQL (insert)    PostgreSQL (update)
+                                    ↓                      ↓
+                          MongoDB (final) ← Qdrant (vectors)
 ```
 
 ### Folder Structure
 
-- `data/step1/current/valid/` - Current valid documents (compared against older)
-- `data/step1/current/invalid/` - Current invalid documents (compared against older)
-- `data/step1/current/ready/valid/` - Changed valid documents to update
-- `data/step1/current/ready/invalid/` - Changed invalid documents to update
-- `data/step1/new/valid/` - New documents to insert
-- `data/step1/new/invalid/` - New documents that failed validation
-- `data/older/` - Archive of previously processed files (baseline for next run)
+- `data/step1/current/valid/` and `current/invalid/` — Current run output (compared against older)
+- `data/step1/current/ready/valid/` and `ready/invalid/` — Changed documents to update
+- `data/step1/new/valid/` and `new/invalid/` — New documents to insert
+- `data/older/` — Flat archive of all previously processed files (baseline for change detection)
+- `data/step1/errors/{prefix}/` — Failed documents with error sidecars
+- `logs/` — `pipeline-YYYY-MM-DD.log` (appended all day, not rolled per run)
 
-### Database Functions
+### Logging
 
-PostgreSQL uses PL/pgSQL functions for data retrieval:
-- `get_document_data($1)` - Fetch law document with full structure
-- `get_article_with_relations1($1, $2)` - Fetch article with relations
+`src/logger.ts` is a singleton `FileLogger` that monkey-patches all `console.*` methods. Imported via side-effect (`import './logger'`). Format: `[ISO-timestamp] [LEVEL] [caller] message`. Supports `createScopedLogger(scope)` for per-module prefixes.
 
 ## Environment Variables
 
-Key variables needed in `.env`:
-- `POSTGRES_*` - PostgreSQL connection (host, user, password, db, port)
-- `AZURE_OPENAI_ENDPOINT`, `AZURE_OPENAI_API_KEY`, `AZURE_API_VERSION` - Azure OpenAI for title generation
-- `MONGO_URI` - MongoDB connection string
+Required in `.env`:
+- `POSTGRES_HOST`, `POSTGRES_USER`, `POSTGRES_PASSWORD`, `POSTGRES_DB`, `POSTGRES_PORT` (default 5433), `POSTGRES_POOL_MAX` (default 20)
+- `AZURE_OPENAI_ENDPOINT`, `AZURE_OPENAI_API_KEY`, `AZURE_API_VERSION` — Azure OpenAI for title generation and HTML transformation
+- `MONGO_URI` — MongoDB connection (default: `mongodb://lawyer:l123456@localhost:27017/lawyers?authSource=admin`)
+- `GOOGLE_API_KEY` or `GEMINI_API_KEY` — Gemini for large HTML transformations
+- `OPENAI_API_KEY` — OpenAI for vector embeddings
+- `QDRANT_URL` — Qdrant vector DB (default: `http://localhost:6333`)
 
-## Logging
+## TypeScript
 
-The pipeline uses a file-based logging system (src/logger.ts) that:
-- Creates timestamped log files in `logs/` directory
-- Intercepts all console methods
-- Captures uncaught exceptions
-- Supports scoped loggers per module
-
-## LLM Configuration
-
-Title generation uses Azure OpenAI (configured in `src/index.ts`):
-- Model: `gpt-4o`
-- Concurrent requests: 300
-- Batch size: 2000
+- Strict mode enabled, target ES2020, CommonJS modules
+- Source in `src/`, builds to `dist/`
+- Uses `ts-node` for dev mode

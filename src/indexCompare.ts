@@ -2,27 +2,7 @@ import * as fs from 'fs/promises';
 import * as path from 'path';
 import { compare } from 'fast-json-patch';
 import pLimit from 'p-limit';
-
-// Fields to ignore when comparing (timestamps that change every run)
-const IGNORE_FIELDS = ['extraction_date', 'generation_timestamp'];
-
-function stripTimestamps(obj: any): any {
-  if (obj === null || typeof obj !== 'object') {
-    return obj;
-  }
-
-  if (Array.isArray(obj)) {
-    return obj.map(stripTimestamps);
-  }
-
-  const result: any = {};
-  for (const key of Object.keys(obj)) {
-    if (!IGNORE_FIELDS.includes(key)) {
-      result[key] = stripTimestamps(obj[key]);
-    }
-  }
-  return result;
-}
+import { stripTimestamps } from './utils/filterJSON';
 
 interface CompareStats {
   totalInCurrent: number;
@@ -39,7 +19,7 @@ interface PatchWithOldValue {
   oldValue?: any;
 }
 
-interface ArticleChangeInfo {
+interface CompareArticleChangeInfo {
   file_name: string;
   document_number: string;
   articles: string[];
@@ -50,7 +30,7 @@ interface CompareResult {
   same: boolean;
   filename: string;
   patches?: PatchWithOldValue[];
-  articleChanges?: ArticleChangeInfo;
+  articleChanges?: CompareArticleChangeInfo;
 }
 
 /**
@@ -86,7 +66,7 @@ function findArticleAtPath(obj: any, pathParts: string[]): any | null {
  * Takes all patches and the original JSON data, finds which articles contain changes,
  * and returns a unique list of article_number values along with the document number and filename.
  */
-function extractChangedArticleNumbers(patches: PatchWithOldValue[], jsonData: any, filename: string): ArticleChangeInfo {
+function extractChangedArticleNumbers(patches: PatchWithOldValue[], jsonData: any, filename: string): CompareArticleChangeInfo {
   const document_number = jsonData?.document_metadata?.document_number || 'unknown';
   const articleNumbers = new Set<string>();
 

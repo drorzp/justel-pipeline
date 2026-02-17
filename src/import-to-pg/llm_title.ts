@@ -1,9 +1,5 @@
 import { Pool, PoolClient, PoolConfig } from 'pg';
 import { AzureOpenAI } from 'openai';
-import * as dotenv from 'dotenv';
-
-// Load env variables
-dotenv.config();
 
 // Types
 export interface LLMConfig {
@@ -46,7 +42,7 @@ export async function getAllDocumentTitles(client: PoolClient, startFromId?: num
 
         const result = await client.query(query);
         console.info(`Found ${result.rows.length} documents needing title generation${startFromId ? ` (starting from ID ${startFromId})` : ''}`);
-        console.info(`📋 These documents have old_title but missing new_title`);
+        console.info(`These documents have old_title but missing new_title`);
 
         return result.rows as DocumentTitleRecord[];
     } catch (error) {
@@ -295,12 +291,12 @@ export async function processAllDocumentTitles(pool:Pool, config: LLMConfig): Pr
                 await updateDocumentTitle(client, doc.id, newTitle);
 
                 processed++;
-                console.info(`✅ Successfully processed document ID ${doc.id}\n`);
+                console.info(`Successfully processed document ID ${doc.id}\n`);
 
                 // Removed rate limiting delay for faster processing
             } catch (error) {
                 errors++;
-                console.error(`❌ Failed to process document ID ${doc.id}:`, error);
+                console.error(`Failed to process document ID ${doc.id}:`, error);
                 
                 // Create a fallback title to avoid leaving empty titles
                 const fallbackTitle = createFallbackTitle(doc.old_title || `Document ${doc.document_number}`);
@@ -308,9 +304,9 @@ export async function processAllDocumentTitles(pool:Pool, config: LLMConfig): Pr
                 
                 try {
                     await updateDocumentTitle(client, doc.id, fallbackTitle);
-                    console.info(`✅ Updated with fallback title for document ID ${doc.id}`);
+                    console.info(`Updated with fallback title for document ID ${doc.id}`);
                 } catch (updateError) {
-                    console.error(`❌ Failed to update fallback title for document ID ${doc.id}:`, updateError);
+                    console.error(`Failed to update fallback title for document ID ${doc.id}:`, updateError);
                 }
                 
                 console.info('Continuing with next document...\n');
